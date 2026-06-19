@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Buy-Side Podcast Brief</title>
+  <meta name="description" content="Importance-driven weekly brief from curated buy-side podcasts — organized around PM decisions, with a knowledge graph of who's saying what.">
+  <link rel="stylesheet" href="report.css">
+</head>
+<body>
+  <header class="top">
+    <div class="bar">
+      <span class="brand">◆ Buy-Side Podcast Brief</span>
+      <span class="meta" id="meta"></span>
+      <button class="tbtn" id="theme-btn" title="Toggle theme">◐</button>
+    </div>
+    <div class="sample-banner hidden" id="sample-banner">
+      SAMPLE layout — set <code>ANTHROPIC_API_KEY</code> and run
+      <code>curate → transcripts → extract → clip → report → graph</code> to populate with real moments.
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="card" id="exec-card">
+      <h2>What changed this week</h2>
+      <div id="exec"></div>
+    </section>
+
+    <section class="card">
+      <h2>Knowledge graph — who's saying what</h2>
+      <div class="legend" id="legend"></div>
+      <div id="graph" class="graph"></div>
+      <p class="hint" id="graph-hint"></p>
+    </section>
+
+    <div id="themes"></div>
+
+    <footer class="foot">
+      Organized around PM decisions, not podcast structure. Audio clips of the sharpest
+      (thesis-changing / catalyst) moments are delivered privately in the weekly email —
+      the public page links back to the source episode + timestamp.
+    </footer>
+  </main>
+
+  <script src="https://unpkg.com/force-graph@1.43.4/dist/force-graph.min.js"></script>
+  <script src="report.js"></script>
+</body>
+</html>
