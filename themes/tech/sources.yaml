@@ -1,0 +1,65 @@
+# Tech & AI — buy-side podcast feeds (theme: tech)
+# Generated from podcasts-buyside-feeds.csv. RSS only; copyright-safe
+# (title + show-notes -> generated summaries, no transcripts).
+settings:
+  enrich_window_days: 180
+  max_enrich_per_feed: 40
+  llm_model: claude-haiku-4-5
+  cluster_window_days: 3
+sources:
+- name: All-In Podcast
+  firm: Tech & AI
+  method: rss
+  content_type: podcast
+  url: https://rss.libsyn.com/shows/254861/destinations/1928300.xml
+  tier: 1
+  notes: 顶尖科技投资人实时观点；科技/宏观/政策交叉的垂直洞察
+- name: BG2 Pod
+  firm: Tech & AI
+  method: rss
+  content_type: podcast
+  url: https://anchor.fm/s/f06c2370/podcast/rss
+  tier: 1
+  notes: 资深 VC + 对冲基金 PM 拆解科技与市场；纯买方视角
+- name: Sharp Tech with Ben Thompson
+  firm: Tech & AI
+  method: rss
+  content_type: podcast
+  url: https://sharptech.fm/feed/podcast
+  tier: 1
+  notes: Stratechery 框架级科技战略分析；对 TMT 选股极有用
+- name: AI Business Podcast
+  firm: Tech & AI
+  method: rss
+  content_type: podcast
+  url: https://anchor.fm/s/226b6724/podcast/rss
+  tier: 2
+  notes: AI 产业落地访谈
+- name: Bloomberg Tech
+  firm: Tech & AI
+  method: rss
+  content_type: podcast
+  url: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/podcast.rss
+  tier: 2
+  notes: 每日科技/创新/商业新闻
+- name: Dwarkesh Podcast
+  firm: Tech & AI
+  method: rss
+  content_type: podcast
+  url: https://apple.dwarkesh-podcast.workers.dev/feed.rss
+  tier: 2
+  notes: AI/科技/科学深度前瞻访谈
+- name: No Priors
+  firm: Tech & AI
+  method: rss
+  content_type: podcast
+  url: https://feeds.megaphone.fm/nopriors
+  tier: 2
+  notes: AI 赛道 VC 视角
+- name: Y Combinator Startup Podcast
+  firm: Tech & AI
+  method: rss
+  content_type: podcast
+  url: https://anchor.fm/s/8c1524bc/podcast/rss
+  tier: 2
+  notes: 创业/科技前沿趋势，把握早期方向

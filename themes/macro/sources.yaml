@@ -1,0 +1,65 @@
+# Macro & Rates — buy-side podcast feeds (theme: macro)
+# Generated from podcasts-buyside-feeds.csv. RSS only; copyright-safe
+# (title + show-notes -> generated summaries, no transcripts).
+settings:
+  enrich_window_days: 180
+  max_enrich_per_feed: 40
+  llm_model: claude-haiku-4-5
+  cluster_window_days: 3
+sources:
+- name: Odd Lots
+  firm: Macro & Rates
+  method: rss
+  content_type: podcast
+  url: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss
+  tier: 1
+  notes: 市场结构与冷门宏观主题，机构必听
+- name: Bloomberg Surveillance
+  firm: Macro & Rates
+  method: rss
+  content_type: podcast
+  url: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/9739700c-72c3-4176-ae55-ae27003e2b96/podcast.rss
+  tier: 2
+  notes: 每日宏观
+- name: Economist Podcasts
+  firm: Macro & Rates
+  method: rss
+  content_type: podcast
+  url: https://access.acast.com/rss/39fc4a99-8861-437d-81e2-684d13e48f92
+  tier: 2
+  notes: 宏观背景与全球视野
+- name: Goldman Sachs Exchanges
+  firm: Macro & Rates
+  method: rss
+  content_type: podcast
+  url: https://feeds.megaphone.fm/GLD9218176758
+  tier: 2
+  notes: 卖方宏观/市场观点
+- name: Hidden Forces
+  firm: Macro & Rates
+  method: rss
+  content_type: podcast
+  url: https://rss.libsyn.com/shows/91567/destinations/457899.xml
+  tier: 2
+  notes: 宏观/地缘/市场结构
+- name: Macro Voices
+  firm: Macro & Rates
+  method: rss
+  content_type: podcast
+  url: https://feed.podbean.com/macrovoices/feed.xml
+  tier: 2
+  notes: 交易员/宏观对话，利率与商品
+- name: Monetary Matters (Forward Guidance)
+  firm: Macro & Rates
+  method: rss
+  content_type: podcast
+  url: https://feeds.megaphone.fm/EWWMN1909747317
+  tier: 2
+  notes: 利率/流动性/宏观深度访谈
+- name: Thoughts on the Market
+  firm: Macro & Rates
+  method: rss
+  content_type: podcast
+  url: https://rss.art19.com/thoughts-on-the-market
+  tier: 2
+  notes: 卖方研究短评

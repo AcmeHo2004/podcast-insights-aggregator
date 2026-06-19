@@ -1,0 +1,37 @@
+# Quant — buy-side podcast feeds (theme: quant)
+# Generated from podcasts-buyside-feeds.csv. RSS only; copyright-safe
+# (title + show-notes -> generated summaries, no transcripts).
+settings:
+  enrich_window_days: 180
+  max_enrich_per_feed: 40
+  llm_model: claude-haiku-4-5
+  cluster_window_days: 3
+sources:
+- name: Flirting with Models
+  firm: Quant
+  method: rss
+  content_type: podcast
+  url: https://feeds.captivate.fm/flirting-with-models/
+  tier: 2
+  notes: 系统化/量化策略深挖
+- name: Rational Reminder
+  firm: Quant
+  method: rss
+  content_type: podcast
+  url: https://rss.libsyn.com/shows/127327/destinations/763774.xml
+  tier: 2
+  notes: 因子/学术循证投资
+- name: The Meb Faber Show
+  firm: Quant
+  method: rss
+  content_type: podcast
+  url: https://feeds.megaphone.fm/TIFM6133783130
+  tier: 2
+  notes: 资产配置/量化
+- name: Top Traders Unplugged
+  firm: Quant
+  method: rss
+  content_type: podcast
+  url: https://feeds.captivate.fm/top-traders-unplugged/
+  tier: 2
+  notes: CTA/managed futures/趋势跟踪

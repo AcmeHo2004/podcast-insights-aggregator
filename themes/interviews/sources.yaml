@@ -1,0 +1,51 @@
+# Investor Talks — buy-side podcast feeds (theme: interviews)
+# Generated from podcasts-buyside-feeds.csv. RSS only; copyright-safe
+# (title + show-notes -> generated summaries, no transcripts).
+settings:
+  enrich_window_days: 180
+  max_enrich_per_feed: 40
+  llm_model: claude-haiku-4-5
+  cluster_window_days: 3
+sources:
+- name: Invest Like the Best
+  firm: Investor Talks
+  method: rss
+  content_type: podcast
+  url: https://feeds.megaphone.fm/CLS2859450455
+  tier: 1
+  notes: 顶级投资人/创始人深度访谈
+- name: Masters in Business
+  firm: Investor Talks
+  method: rss
+  content_type: podcast
+  url: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/5873a3cb-298f-40bc-b71f-ae2b0013000d/podcast.rss
+  tier: 1
+  notes: 大佬访谈，质量稳定
+- name: The Memo by Howard Marks
+  firm: Investor Talks
+  method: rss
+  content_type: podcast
+  url: https://rss.art19.com/the-memo-by-howard-marks
+  tier: 1
+  notes: 周期与风险的机构级思考
+- name: Chat with Traders
+  firm: Investor Talks
+  method: rss
+  content_type: podcast
+  url: https://feeds.megaphone.fm/CWT9205947236
+  tier: 2
+  notes: 交易员实战访谈
+- name: The Rules of Investing
+  firm: Investor Talks
+  method: rss
+  content_type: podcast
+  url: https://feed.podbean.com/livewiremarkets/feed.xml
+  tier: 2
+  notes: 基金经理访谈（澳洲）
+- name: The Investor's Podcast (We Study Billionaires)
+  firm: Investor Talks
+  method: rss
+  content_type: podcast
+  url: https://feeds.megaphone.fm/PPLLC8974708240
+  tier: 3
+  notes: 价值投资教育（偏入门）

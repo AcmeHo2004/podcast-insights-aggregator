@@ -1,0 +1,51 @@
+# Strategy & Markets — buy-side podcast feeds (theme: strategy)
+# Generated from podcasts-buyside-feeds.csv. RSS only; copyright-safe
+# (title + show-notes -> generated summaries, no transcripts).
+settings:
+  enrich_window_days: 180
+  max_enrich_per_feed: 40
+  llm_model: claude-haiku-4-5
+  cluster_window_days: 3
+sources:
+- name: Animal Spirits
+  firm: Strategy & Markets
+  method: rss
+  content_type: podcast
+  url: https://feeds.megaphone.fm/TCP6464651487
+  tier: 2
+  notes: 市场与行为金融
+- name: 'Real Vision: Finance & Investing'
+  firm: Strategy & Markets
+  method: rss
+  content_type: podcast
+  url: https://feeds.megaphone.fm/realvision
+  tier: 2
+  notes: 宏观/市场访谈（质量参差，挑着听）
+- name: The Acquirers Podcast
+  firm: Strategy & Markets
+  method: rss
+  content_type: podcast
+  url: https://anchor.fm/s/9603714/podcast/rss
+  tier: 2
+  notes: 深度价值/量化价值
+- name: The Compound And Friends
+  firm: Strategy & Markets
+  method: rss
+  content_type: podcast
+  url: https://feeds.megaphone.fm/TCP4771071679
+  tier: 2
+  notes: 市场评论，嘉宾多元
+- name: Facts Vs. Feelings
+  firm: Strategy & Markets
+  method: rss
+  content_type: podcast
+  url: https://rss.buzzsprout.com/2039027.rss
+  tier: 3
+  notes: 市场因子与美联储评论
+- name: The Intrinsic Value Podcast
+  firm: Strategy & Markets
+  method: rss
+  content_type: podcast
+  url: https://feeds.megaphone.fm/PPLLC9062165992
+  tier: 3
+  notes: 估值案例（偏入门）
