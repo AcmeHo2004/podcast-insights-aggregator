@@ -27,6 +27,15 @@ def build_site(public: bool = False) -> None:
     for f in WEB.iterdir():
         if f.is_file():
             shutil.copy(f, SITE / f.name)
+    # cache-bust the CSS/JS so a normal refresh always loads the current build
+    import time
+    ver = int(time.time())
+    idx = SITE / "index.html"
+    if idx.exists():
+        h = idx.read_text(encoding="utf-8")
+        h = h.replace('href="report.css"', f'href="report.css?v={ver}"')
+        h = h.replace('src="report.js"', f'src="report.js?v={ver}"')
+        idx.write_text(h, encoding="utf-8")
     brief = read_json(REPORT / "brief-latest.json")
     if brief:
         (SITE / "brief.json").write_text(__import__("json").dumps(brief, ensure_ascii=False),
