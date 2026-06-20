@@ -70,7 +70,9 @@ def exec_summary(episodes: list[dict]) -> str:
                 "5-8 tight, COMPLETE bullets (do not get cut off mid-thought), say WHAT CHANGED "
                 "that could move a thesis, positioning, or risk — most important first. Ground "
                 "STRICTLY in the items below: do not invent specific trade structures, tickers, "
-                "prices, or names that are not present in them. No fluff."),
+                "prices, or names that are not present in them. No fluff. Output ONLY the bullet "
+                "list itself — no preamble, no intro line (never write 'Here's the briefing'), "
+                "no closing. Each bullet starts with '- ' and may use **bold** for the lead phrase."),
         user="Recent thesis/catalyst moments:\n" + "\n".join(top[:40]))
     return (txt or "").strip()
 

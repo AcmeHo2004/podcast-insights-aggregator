@@ -3,6 +3,18 @@ const $=(s)=>document.querySelector(s);
 const esc=(s)=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const fmt=(s)=>{s=Math.max(0,Math.round(s||0));return `${Math.floor(s/60)}:${String(s%60).padStart(2,"0")}`;};
 const dshort=(iso)=>{if(!iso)return"";const d=new Date(iso);return isNaN(d)?"":`${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;};
+function mdLite(s){ // render the summary's markdown: **bold** + "- " bullets (no raw asterisks)
+  s=esc(s||"").replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>");
+  const out=[]; let ul=false;
+  for(let ln of s.split(/\n/)){
+    ln=ln.trim();
+    if(!ln){if(ul){out.push("</ul>");ul=false;}continue;}
+    if(ln.startsWith("- ")){if(!ul){out.push('<ul class="exul">');ul=true;}out.push("<li>"+ln.slice(2)+"</li>");}
+    else{if(ul){out.push("</ul>");ul=false;}out.push("<p>"+ln+"</p>");}
+  }
+  if(ul)out.push("</ul>");
+  return out.join("");
+}
 
 function applyTheme(t){document.documentElement.dataset.theme=t;try{localStorage.setItem("brief.theme",t);}catch{}}
 applyTheme((()=>{try{return localStorage.getItem("brief.theme")}catch{return null}})()||"light");
@@ -125,7 +137,7 @@ function renderDetail(){
   if(S.sel===null){
     const filtered=S.scope||S.labels.size||S.q||S.date!=="all";
     if(!filtered){
-      body.innerHTML=`<div class="d-empty"><h3>What changed · last ~30 days · all shows</h3><div class="ex">${esc(BRIEF.exec_summary||"Select a moment for detail.")}</div></div>`;
+      body.innerHTML=`<div class="d-empty"><h3>What changed · last ~30 days · all shows</h3><div class="ex">${BRIEF.exec_summary?mdLite(BRIEF.exec_summary):"Select a moment for detail."}</div></div>`;
     }else{
       const vis=visible(), top=vis.filter(m=>m.label==="Thesis-changing"||m.label==="Catalyst-relevant").slice(0,14);
       const lbl=S.scope?(S.scope.type==="episode"&&EP[S.scope.value]?EP[S.scope.value].title:S.scope.value):"current filter";
@@ -154,7 +166,7 @@ function renderBoard(){
 function renderReader(){
   const ms=MOMS.filter(baseFilter), map={};
   ms.forEach(m=>(map[m.theme]=map[m.theme]||[]).push(m));
-  let h=`<div class="reader"><div class="exec"><h2>What changed this week</h2><div>${esc(BRIEF.exec_summary||"")}</div></div>`;
+  let h=`<div class="reader"><div class="exec"><h2>What changed · last ~30 days</h2><div>${mdLite(BRIEF.exec_summary||"")}</div></div>`;
   Object.keys(map).sort((a,b)=>map[b].length-map[a].length).forEach(th=>{
     const list=map[th].slice().sort((a,b)=>ORDER.indexOf(a.label)-ORDER.indexOf(b.label));
     h+=`<div class="rsec">${esc(th)} · ${list.length}</div>`+list.map(m=>`<div class="rcard ${lc(m).c}">${momentDetailHtml(m)}</div>`).join("");
