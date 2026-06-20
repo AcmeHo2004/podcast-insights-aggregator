@@ -17,7 +17,7 @@ import datetime as dt
 import shutil
 from pathlib import Path
 
-from briefs_common import CLIPS, REPORT, ROOT, SITE, read_json, resend_send
+from briefs_common import CLIPS, REPORT, ROOT, SITE, TRANSCRIPTS, read_json, resend_send
 
 WEB = ROOT / "report_web"
 
@@ -44,6 +44,18 @@ def build_site(public: bool = False) -> None:
             for m in mp3s:
                 shutil.copy(m, clips_dst / m.name)
             n_local = len(mp3s)
+    # Transcripts for the in-page viewer (local jump-to-timestamp; no external site).
+    tx_dst = SITE / "transcripts"
+    if tx_dst.exists():
+        shutil.rmtree(tx_dst)
+    n_tx = 0
+    if brief and brief.get("episodes"):
+        tx_dst.mkdir(parents=True, exist_ok=True)
+        for ep in brief["episodes"]:
+            src = TRANSCRIPTS / f"{ep['id']}.json"
+            if src.exists():
+                shutil.copy(src, tx_dst / f"{ep['id']}.json")
+                n_tx += 1
     (SITE / ".nojekyll").write_text("", encoding="utf-8")
     print(f"  built report site → {SITE.relative_to(ROOT)} "
           f"({'sample' if (brief or {}).get('sample') else 'real'} brief · "

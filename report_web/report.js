@@ -38,7 +38,8 @@ function momentCard(m){
   const c=LBL[m.label]||LBL["Background only"];
   const risk=m.risk_direction&&m.risk_direction!=="neutral"?`<span class="risk-i ${esc(m.risk_direction)}">${esc(m.risk_direction)}</span>`:"";
   const ts=m.start?`@${fmt(m.start)}`:"";
-  const src=`${esc(m.show)}${m.url?` · <a href="${esc(m.url)}" target="_blank" rel="noopener">listen ${ts}</a>`:` ${ts}`} · ${esc(m.theme)}`;
+  const tx=m.ep_id?`<span class="txlink" data-tx data-ep="${esc(m.ep_id)}" data-t="${m.start||0}">📄 transcript ${ts}</span>`:"";
+  const src=`${esc(m.show)} · ${esc(m.theme)}${m.url?` · <a href="${esc(m.url)}" target="_blank" rel="noopener">source</a>`:""}`;
   const exps=expChips(m);
   const f=[];
   if(m.thesis)f.push(`<div><b>Thesis:</b> ${esc(m.thesis)}</div>`);
@@ -48,7 +49,7 @@ function momentCard(m){
   if(m.watch_next)f.push(`<div><b>Watch:</b> ${esc(m.watch_next)}</div>`);
   const audio=m.clip_path?`<div class="audio"><div class="cap">🎧 clip · ${esc(m.headline).slice(0,60)}</div><audio controls preload="none" src="${esc(m.clip_path)}"></audio></div>`:"";
   return `<div class="m ${c.l}">
-    <div class="m-h"><span class="tag ${c.t}">${c.s}</span>${risk}<span class="src">${src}</span></div>
+    <div class="m-h"><span class="tag ${c.t}">${c.s}</span>${risk}<span class="src">${src}</span>${tx}</div>
     <div class="m-head">${esc(m.headline)}</div>
     <div class="f">${f.join("")}</div>${audio}</div>`;
 }
@@ -104,13 +105,26 @@ function renderEpisodes(){
     return `<div class="ep">
       <div class="ep-h"><span class="show">${esc(ep.show)}</span>
         <span class="ttl">${ep.url?`<a href="${esc(ep.url)}" target="_blank" rel="noopener">${esc(ep.title)}</a>`:esc(ep.title)}</span>
-        <span class="theme">${esc(ep.theme)}</span></div>
+        <span class="theme">${esc(ep.theme)}</span>
+        <span class="txlink" data-tx data-ep="${esc(ep.id)}" data-t="0">📄 transcript</span></div>
       <div class="sec-title">Reasoning chain</div>${chainHtml(ep.reasoning_chain)}
       <div class="sec-title">Moments · ${moments.length}</div>
-      ${moments.map(m=>momentCard({...m,show:ep.show,title:ep.title,url:ep.url,theme:ep.theme})).join("")}
+      ${moments.map(m=>momentCard({...m,show:ep.show,title:ep.title,url:ep.url,theme:ep.theme,ep_id:ep.id})).join("")}
     </div>`;
   }).join("");
   return eps||`<div class="empty">No episodes match.</div>`;
+}
+
+async function openTranscript(epId, atTime){
+  let tx; try{tx=await fetch(`transcripts/${epId}.json`).then(r=>r.json());}catch{return;}
+  $("#tx-title").textContent=`${tx.show} — ${tx.title}`;
+  const a=$("#tx-audio"); a.src=tx.audio_url||"";
+  const segs=tx.segments||[];
+  let tgt=segs.findIndex(s=>s.end>=atTime); if(tgt<0)tgt=0;
+  $("#tx-body").innerHTML=segs.map((s,i)=>`<div class="tx-line${i===tgt?" hl":""}" data-t="${s.start}"><span class="tx-ts">${fmt(s.start)}</span><span>${esc(s.text)}</span></div>`).join("");
+  $("#tx").classList.remove("hidden");
+  const el=$("#tx-body").children[tgt]; if(el)el.scrollIntoView({block:"center"});
+  if(a.src&&atTime){const seek=()=>{try{a.currentTime=Math.max(0,atTime);}catch{}};a.onloadedmetadata=seek;seek();}
 }
 
 function render(){
@@ -143,9 +157,20 @@ function toggle(set,v){set.has(v)?set.delete(v):set.add(v);}
   wire("#f-label",F.labels); wire("#f-exp",F.exposures); wire("#f-theme",F.themes); wire("#f-show",F.shows);
   $("#fclear").onclick=()=>{F.labels.clear();F.exposures.clear();F.themes.clear();F.shows.clear();F.q="";$("#q").value="";buildFilters();render();};
   // click an exposure anywhere → filter by it
-  $("#view").addEventListener("click",(e)=>{const x=e.target.closest("[data-exp]");if(!x)return;
+  $("#view").addEventListener("click",(e)=>{
+    const txb=e.target.closest("[data-tx]");
+    if(txb){ openTranscript(txb.dataset.ep, parseFloat(txb.dataset.t)||0); return; }
+    const x=e.target.closest("[data-exp]");if(!x)return;
     const v=x.dataset.exp; F.exposures.add(v); F.view="moments";
     [...$("#viewseg").children].forEach(b=>b.classList.toggle("on",b.dataset.view==="moments"));
     buildFilters(); render(); window.scrollTo({top:0,behavior:"smooth"});});
   let t;$("#q").oninput=(e)=>{F.q=e.target.value.trim();clearTimeout(t);t=setTimeout(render,160);};
+  // transcript modal
+  $("#tx-x").onclick=()=>$("#tx").classList.add("hidden");
+  $("#tx").onclick=(e)=>{if(e.target.id==="tx")$("#tx").classList.add("hidden");};
+  document.addEventListener("keydown",(e)=>{if(e.key==="Escape")$("#tx").classList.add("hidden");});
+  $("#tx-body").addEventListener("click",(e)=>{const ln=e.target.closest(".tx-line");if(!ln)return;
+    const a=$("#tx-audio"),tt=parseFloat(ln.dataset.t)||0;
+    [...$("#tx-body").children].forEach(c=>c.classList.remove("hl")); ln.classList.add("hl");
+    if(a.src){try{a.currentTime=tt;a.play();}catch{}}});
 })();

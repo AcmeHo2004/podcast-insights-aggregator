@@ -35,6 +35,17 @@
   </header>
 
   <main class="wrap" id="view"></main>
+
+  <div class="modal-bg hidden" id="tx">
+    <div class="modal">
+      <div class="modal-h"><span class="modal-title" id="tx-title"></span>
+        <button class="modal-x" id="tx-x" aria-label="Close">×</button></div>
+      <audio id="tx-audio" controls preload="none"></audio>
+      <div class="tx-note">Click any line to play from there. The transcript is served locally — no external site.</div>
+      <div class="tx-body" id="tx-body"></div>
+    </div>
+  </div>
+
   <script src="report.js"></script>
 </body>
 </html>
