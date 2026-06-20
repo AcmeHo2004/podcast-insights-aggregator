@@ -65,11 +65,13 @@ def exec_summary(episodes: list[dict]) -> str:
             if m["label"] in ("Thesis-changing", "Catalyst-relevant"):
                 top.append(f"- [{ep['theme']}/{ep['show']}] {m['headline']}")
     txt = claude_text(
-        model=OPUS, max_tokens=700,
-        system=("You are briefing a buy-side PM. In 4-7 tight bullets, say WHAT CHANGED this "
-                "week across these podcasts that could move a thesis, positioning, or risk — "
-                "most important first. No fluff. Ground only in the items."),
-        user="This week's thesis/catalyst moments:\n" + "\n".join(top[:30]))
+        model=OPUS, max_tokens=1600,
+        system=("You are briefing a buy-side PM on the last ~30 days across these podcasts. In "
+                "5-8 tight, COMPLETE bullets (do not get cut off mid-thought), say WHAT CHANGED "
+                "that could move a thesis, positioning, or risk — most important first. Ground "
+                "STRICTLY in the items below: do not invent specific trade structures, tickers, "
+                "prices, or names that are not present in them. No fluff."),
+        user="Recent thesis/catalyst moments:\n" + "\n".join(top[:40]))
     return (txt or "").strip()
 
 

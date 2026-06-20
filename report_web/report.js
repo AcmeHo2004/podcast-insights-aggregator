@@ -122,7 +122,20 @@ function momentDetailHtml(m){
 }
 function renderDetail(){
   const body=$("#detail-body");
-  if(S.sel===null){body.innerHTML=`<div class="d-empty"><h3>What changed this week</h3><div class="ex">${esc(BRIEF.exec_summary||"Select a moment for detail.")}</div></div>`;document.body.classList.remove("has-sel");return;}
+  if(S.sel===null){
+    const filtered=S.scope||S.labels.size||S.q||S.date!=="all";
+    if(!filtered){
+      body.innerHTML=`<div class="d-empty"><h3>What changed · last ~30 days · all shows</h3><div class="ex">${esc(BRIEF.exec_summary||"Select a moment for detail.")}</div></div>`;
+    }else{
+      const vis=visible(), top=vis.filter(m=>m.label==="Thesis-changing"||m.label==="Catalyst-relevant").slice(0,14);
+      const lbl=S.scope?(S.scope.type==="episode"&&EP[S.scope.value]?EP[S.scope.value].title:S.scope.value):"current filter";
+      body.innerHTML=`<div class="d-empty"><h3>Now showing · ${esc(lbl)}</h3>
+        <div class="ex" style="font-size:12px;color:var(--muted);margin-bottom:6px">${vis.length} moments · click any for detail. Top thesis/catalyst:</div>`
+        +(top.length?top.map(m=>`<div class="row ${lc(m).c}" data-id="${m._id}" style="margin-top:7px"><span class="rdot ${lc(m).c}"></span><span class="rhead">${esc(m.headline)}</span></div>`).join("")
+          :`<div class="ex" style="color:var(--muted)">No thesis/catalyst in this view.</div>`)+`</div>`;
+    }
+    document.body.classList.remove("has-sel");return;
+  }
   const m=MOMS[S.sel]; if(!m){body.innerHTML="";return;}
   body.innerHTML=momentDetailHtml(m); document.body.classList.add("has-sel");
 }
@@ -207,6 +220,7 @@ function renderAll(){
     else{renderList();renderDetail();}};
   $("#detail").addEventListener("click",(e)=>{
     const tx=e.target.closest("[data-tx]");if(tx){openTranscript(tx.dataset.ep,parseFloat(tx.dataset.t)||0);return;}
+    const r=e.target.closest(".row[data-id]");if(r){S.sel=Number(r.dataset.id);renderDetail();renderList();return;}
     const ex=e.target.closest("[data-exp]");if(ex){S.mode="exposure";S.scope={type:"exposure",value:ex.dataset.exp};[...$("#modeseg").children].forEach(x=>x.classList.toggle("on",x.dataset.mode==="exposure"));renderAll();return;}
   });
   $("#detail-close").onclick=()=>{S.sel=null;renderDetail();renderList();};
