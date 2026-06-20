@@ -106,7 +106,7 @@ def main() -> None:
             if not (m.get("clip_worthy") and m["label"] in CLIP_LABELS):
                 continue
             out = CLIPS / f"{ex['id']}-{i}.mp3"
-            d = cut(ex["audio_url"], m["start"], m["end"], out)
+            d = round(_ffprobe_dur(out), 1) if out.exists() else cut(ex["audio_url"], m["start"], m["end"], out)
             if not d:
                 continue
             m["clip_path"] = str(out.relative_to(ROOT))

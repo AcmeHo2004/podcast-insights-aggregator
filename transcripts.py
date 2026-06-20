@@ -222,7 +222,7 @@ def main() -> None:
         segs, src = from_feed(ep), "feed"
         if not segs:
             segs, src = from_whisper(ep), "groq"
-        if not segs:
+        if not segs and os.environ.get("NO_LOCAL_WHISPER") != "1":
             segs, src = from_local_whisper(ep), "local-whisper"
         if not segs:
             skipped += 1
