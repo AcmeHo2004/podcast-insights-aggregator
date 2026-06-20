@@ -56,17 +56,28 @@ def moment_view(m: dict) -> dict:
     }
 
 
-def exec_summary(episodes: list[dict]) -> str:
-    if not have("ANTHROPIC_API_KEY") or not episodes:
+def exec_window(episodes: list[dict], days: int) -> str:
+    """A 'what changed' summary over the last `days` (episodes carry published_at)."""
+    if not have("ANTHROPIC_API_KEY"):
         return ""
+    now = dt.datetime.now(dt.timezone.utc)
     top = []
     for ep in episodes:
+        d = ep.get("published_at")
+        if d:
+            try:
+                if (now - dt.datetime.fromisoformat(d)).days > days:
+                    continue
+            except ValueError:
+                pass
         for m in ep["moments"]:
             if m["label"] in ("Thesis-changing", "Catalyst-relevant"):
                 top.append(f"- [{ep['theme']}/{ep['show']}] {m['headline']}")
+    if not top:
+        return ""
     txt = claude_text(
         model=OPUS, max_tokens=1600,
-        system=("You are briefing a buy-side PM on the last ~30 days across these podcasts. In "
+        system=(f"You are briefing a buy-side PM on the last {days} days across these podcasts. In "
                 "5-8 tight, COMPLETE bullets (do not get cut off mid-thought), say WHAT CHANGED "
                 "that could move a thesis, positioning, or risk — most important first. Ground "
                 "STRICTLY in the items below: do not invent specific trade structures, tickers, "
@@ -144,12 +155,14 @@ def main() -> None:
         "labels": [l for l in LABEL_RANK if any(m["label"] == l for m in flat)],
         "exposures": [e for e, _ in exp.most_common(40)],
     }
+    exec30 = exec_window(episodes, 30)
+    exec7 = exec_window(episodes, 7)
     brief = {
-        "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(), "period_days": 7,
+        "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(), "period_days": 30,
         "sample": False, "episodes_count": len(episodes),
         "moments_count": len(flat), "clips_count": sum(e["n_clip"] for e in episodes),
-        "exec_summary": exec_summary(episodes), "facets": facets,
-        "moments": flat, "episodes": episodes,
+        "exec_summary": exec30, "exec_summary_30d": exec30, "exec_summary_7d": exec7,
+        "facets": facets, "moments": flat, "episodes": episodes,
     }
     stamp = dt.date.today().isoformat()
     write_json(REPORT / f"brief-{stamp}.json", brief)

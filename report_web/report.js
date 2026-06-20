@@ -35,7 +35,10 @@ $("#theme-btn").onclick=()=>applyTheme(document.documentElement.dataset.theme===
 })();
 
 let BRIEF=null, EP={}, MOMS=[];
-const S={layout:"triage",mode:"show",date:"all",scope:null,labels:new Set(),q:"",sel:null,open:new Set()};
+const S={layout:"triage",mode:"show",date:"week",scope:null,labels:new Set(),q:"",sel:null,open:new Set()};
+const execFor=()=>S.date==="week"
+  ?{t:BRIEF.exec_summary_7d||BRIEF.exec_summary_30d||BRIEF.exec_summary||"",w:"last 7 days"}
+  :{t:BRIEF.exec_summary_30d||BRIEF.exec_summary||"",w:"last 30 days"};
 const ORDER=["Thesis-changing","Catalyst-relevant","Risk-relevant","Consensus-variant","Background only"];
 const LBL={
  "Thesis-changing":{c:"l-thesis",t:"t-thesis",s:"Thesis"},
@@ -135,9 +138,10 @@ function momentDetailHtml(m){
 function renderDetail(){
   const body=$("#detail-body");
   if(S.sel===null){
-    const filtered=S.scope||S.labels.size||S.q||S.date!=="all";
+    const filtered=S.scope||S.labels.size||S.q;
     if(!filtered){
-      body.innerHTML=`<div class="d-empty"><h3>What changed · last ~30 days · all shows</h3><div class="ex">${BRIEF.exec_summary?mdLite(BRIEF.exec_summary):"Select a moment for detail."}</div></div>`;
+      const e=execFor();
+      body.innerHTML=`<div class="d-empty"><h3>What changed · ${e.w} · all shows</h3><div class="ex">${e.t?mdLite(e.t):"Select a moment for detail."}</div></div>`;
     }else{
       const vis=visible(), top=vis.filter(m=>m.label==="Thesis-changing"||m.label==="Catalyst-relevant").slice(0,14);
       const lbl=S.scope?(S.scope.type==="episode"&&EP[S.scope.value]?EP[S.scope.value].title:S.scope.value):"current filter";
@@ -166,7 +170,8 @@ function renderBoard(){
 function renderReader(){
   const ms=MOMS.filter(baseFilter), map={};
   ms.forEach(m=>(map[m.theme]=map[m.theme]||[]).push(m));
-  let h=`<div class="reader"><div class="exec"><h2>What changed · last ~30 days</h2><div>${mdLite(BRIEF.exec_summary||"")}</div></div>`;
+  const e=execFor();
+  let h=`<div class="reader"><div class="exec"><h2>What changed · ${e.w}</h2><div>${mdLite(e.t||"")}</div></div>`;
   Object.keys(map).sort((a,b)=>map[b].length-map[a].length).forEach(th=>{
     const list=map[th].slice().sort((a,b)=>ORDER.indexOf(a.label)-ORDER.indexOf(b.label));
     h+=`<div class="rsec">${esc(th)} · ${list.length}</div>`+list.map(m=>`<div class="rcard ${lc(m).c}">${momentDetailHtml(m)}</div>`).join("");
