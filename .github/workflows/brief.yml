@@ -1,0 +1,82 @@
+name: Weekly brief
+
+on:
+  schedule:
+    - cron: "0 13 * * 1"      # Mondays 13:00 UTC
+  workflow_dispatch: {}
+
+concurrency:
+  group: brief
+  cancel-in-progress: false
+
+permissions:
+  contents: write              # deploy report to gh-pages + persist DBs to the data branch
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Restore theme DBs (from the data branch)
+        run: |
+          git fetch origin data --depth=1 2>/dev/null || echo "no data branch yet (first run)"
+          if git rev-parse --verify origin/data >/dev/null 2>&1; then
+            for d in themes/*/; do git checkout origin/data -- "${d}data/insights.db" 2>/dev/null || true; done
+          fi
+
+      - name: Ingest new episodes
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          for d in themes/*/; do
+            f=$(basename "$d")
+            ( cd "$d" && timeout 360 python -m "${f}_insights" scan ) || echo "$f scan failed (continuing)"
+          done
+
+      - name: Build the brief  (curate → transcripts → extract → clip → report → graph)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          python curate.py --days 7 --max-tier 2
+          python transcripts.py
+          python extract.py
+          python clip.py
+          python report.py
+
+      - name: Deliver  (build report site + send weekly email with clips)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          BRIEF_TO: ${{ secrets.BRIEF_TO }}
+          BRIEF_SENDER: ${{ secrets.BRIEF_SENDER }}
+        run: python deliver.py --send --to "${BRIEF_TO}" --public
+
+      - name: Deploy report to gh-pages  (text + reasoning chains only; never audio)
+        run: |
+          cd report/site
+          git init -q
+          git checkout -b gh-pages
+          git add -A
+          git -c user.name="brief-bot" -c user.email="brief-bot@users.noreply.github.com" commit -q -m "brief $(date -u +%FT%TZ)"
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Persist theme DBs (single-commit data branch)
+        run: |
+          git config user.name "brief-bot"
+          git config user.email "brief-bot@users.noreply.github.com"
+          git checkout --orphan data-snapshot
+          git rm -rf --cached . >/dev/null 2>&1 || true
+          git add -f themes/*/data/insights.db
+          git commit -m "data snapshot $(date -u +%FT%TZ)" >/dev/null
+          git push -f origin data-snapshot:data
