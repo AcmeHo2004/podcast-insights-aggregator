@@ -104,17 +104,33 @@ def main() -> None:
                    for m in ep["moments"] if m["label"] in ("Thesis-changing", "Catalyst-relevant"))
     episodes.sort(key=weight, reverse=True)
 
+    # Flat, prioritized moment stream (decision-centric default view): each moment
+    # carries its source episode so the PM scans by what-changed, not by podcast.
+    from collections import Counter
+    flat, exp = [], Counter()
+    for ep in episodes:
+        for m in ep["moments"]:
+            mm = dict(m)
+            mm.update({"show": ep["show"], "title": ep["title"], "url": ep["url"],
+                       "theme": ep["theme"], "ep_id": ep["id"]})
+            flat.append(mm)
+            for e in m["exposures"]:
+                if e.strip():
+                    exp[e.strip()] += 1
+    flat.sort(key=lambda v: (LABEL_RANK.get(v["label"], 9), -len(v.get("exposures", []))))
+
     facets = {
         "themes": sorted({e["theme"] for e in episodes}),
         "shows": sorted({e["show"] for e in episodes}),
-        "labels": [l for l in LABEL_RANK if any(m["label"] == l for e in episodes for m in e["moments"])],
+        "labels": [l for l in LABEL_RANK if any(m["label"] == l for m in flat)],
+        "exposures": [e for e, _ in exp.most_common(40)],
     }
     brief = {
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(), "period_days": 7,
         "sample": False, "episodes_count": len(episodes),
-        "moments_count": sum(len(e["moments"]) for e in episodes),
-        "clips_count": sum(e["n_clip"] for e in episodes),
-        "exec_summary": exec_summary(episodes), "facets": facets, "episodes": episodes,
+        "moments_count": len(flat), "clips_count": sum(e["n_clip"] for e in episodes),
+        "exec_summary": exec_summary(episodes), "facets": facets,
+        "moments": flat, "episodes": episodes,
     }
     stamp = dt.date.today().isoformat()
     write_json(REPORT / f"brief-{stamp}.json", brief)
