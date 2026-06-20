@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Buy-Side Podcast Brief</title>
-  <meta name="description" content="Importance-driven weekly brief from curated buy-side podcasts — organized around PM decisions, with a knowledge graph of who's saying what.">
+  <meta name="description" content="Importance-driven brief from curated buy-side podcasts — per-episode financial reasoning chains, labeled moments, and clips, filterable by theme / show / label.">
   <link rel="stylesheet" href="report.css">
 </head>
 <body>
@@ -12,11 +12,16 @@
     <div class="bar">
       <span class="brand">◆ Buy-Side Podcast Brief</span>
       <span class="meta" id="meta"></span>
+      <input class="search" id="q" type="search" placeholder="Search…" autocomplete="off">
       <button class="tbtn" id="theme-btn" title="Toggle theme">◐</button>
     </div>
     <div class="sample-banner hidden" id="sample-banner">
-      SAMPLE layout — set <code>ANTHROPIC_API_KEY</code> and run
-      <code>curate → transcripts → extract → clip → report → graph</code> to populate with real moments.
+      SAMPLE layout — set <code>ANTHROPIC_API_KEY</code> and run the pipeline to populate with real episodes.
+    </div>
+    <div class="filters" id="filters">
+      <div class="frow"><span class="fk">Theme</span><span class="chips" id="f-theme"></span></div>
+      <div class="frow"><span class="fk">Show</span><span class="chips" id="f-show"></span></div>
+      <div class="frow"><span class="fk">Label</span><span class="chips" id="f-label"></span></div>
     </div>
   </header>
 
@@ -25,24 +30,14 @@
       <h2>What changed this week</h2>
       <div id="exec"></div>
     </section>
-
-    <section class="card">
-      <h2>Knowledge graph — who's saying what</h2>
-      <div class="legend" id="legend"></div>
-      <div id="graph" class="graph"></div>
-      <p class="hint" id="graph-hint"></p>
-    </section>
-
-    <div id="themes"></div>
-
+    <div id="episodes"></div>
     <footer class="foot">
-      Organized around PM decisions, not podcast structure. Audio clips of the sharpest
-      (thesis-changing / catalyst) moments are delivered privately in the weekly email —
-      the public page links back to the source episode + timestamp.
+      Each episode shows its <b>financial reasoning chain</b> (cause → effect → what to watch) and only
+      the PM-relevant moments. Audio clips of the sharpest (thesis-changing / catalyst) moments play here
+      locally and ship in the weekly email; the public deploy keeps audio out.
     </footer>
   </main>
 
-  <script src="https://unpkg.com/force-graph@1.43.4/dist/force-graph.min.js"></script>
   <script src="report.js"></script>
 </body>
 </html>

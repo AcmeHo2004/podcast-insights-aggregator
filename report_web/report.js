@@ -1,92 +1,105 @@
 "use strict";
 const $ = (s) => document.querySelector(s);
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c]));
-const chips = (arr) => (arr || []).map(x => `<span class="chip">${esc(x)}</span>`).join("");
+const chipsHtml = (arr) => (arr || []).map(x => `<span class="chip">${esc(x)}</span>`).join("");
+const fmtTime = (s) => { s=Math.max(0,Math.round(s||0)); return `${Math.floor(s/60)}:${String(s%60).padStart(2,"0")}`; };
 
-function applyTheme(t){ document.documentElement.dataset.theme = t; try{ localStorage.setItem("brief.theme", t);}catch{} }
-applyTheme((()=>{try{return localStorage.getItem("brief.theme")}catch{return null}})() || "light");
-$("#theme-btn").onclick = () => applyTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark");
+function applyTheme(t){ document.documentElement.dataset.theme=t; try{localStorage.setItem("brief.theme",t);}catch{} }
+applyTheme((()=>{try{return localStorage.getItem("brief.theme")}catch{return null}})()||"light");
+$("#theme-btn").onclick=()=>applyTheme(document.documentElement.dataset.theme==="dark"?"light":"dark");
 
-function fmtTime(s){ s=Math.max(0,Math.round(s||0)); const m=Math.floor(s/60), ss=String(s%60).padStart(2,"0"); return `${m}:${ss}`; }
+let BRIEF=null;
+const F={themes:new Set(),shows:new Set(),labels:new Set(),q:""};
 
-function renderItem(it){
-  const badge = it.delivery === "clip" ? `<span class="badge b-clip">🎧 clip</span>`
-              : it.delivery === "summary" ? `<span class="badge b-summary">summary</span>`
+function chainHtml(edges){
+  if(!edges||!edges.length) return "";
+  const rows = edges.map(e=>`<div class="step">
+      <span class="node">${esc(e.from)}</span>
+      <span class="rel">${esc(e.relation)}</span><span class="arrow">→</span>
+      <span class="node k-${esc(e.kind)}">${esc(e.to)}</span></div>`).join("");
+  return `<div class="sec-k">Financial reasoning chain</div><div class="chain">${rows}</div>`;
+}
+
+function momentHtml(m){
+  const badge = m.delivery==="clip" ? `<span class="badge b-clip">🎧 clip</span>`
+              : m.delivery==="summary" ? `<span class="badge b-summary">summary</span>`
               : `<span class="badge b-note">note</span>`;
-  const risk = it.risk_direction && it.risk_direction !== "neutral"
-    ? `<span class="risk ${esc(it.risk_direction)}">${esc(it.risk_direction)}</span>` : "";
-  const f = [];
-  if (it.thesis) f.push(`<div><b>Thesis:</b> ${esc(it.thesis)}</div>`);
-  if ((it.exposures||[]).length) f.push(`<div><b>Exposed:</b> ${chips(it.exposures)}${(it.second_order||[]).length?` <b>· 2nd-order:</b> ${chips(it.second_order)}`:""}</div>`);
-  if (it.consensus_variant) f.push(`<div><b>Variant vs consensus:</b> ${esc(it.consensus_variant)}</div>`);
-  if (it.credible) f.push(`<div><b>Who / credibility:</b> ${esc(it.credible)}</div>`);
-  if (it.catalyst) f.push(`<div><b>Catalyst:</b> ${esc(it.catalyst)}</div>`);
-  if (it.action) f.push(`<div><b>Action:</b> ${esc(it.action)}</div>`);
-  if (it.watch_next) f.push(`<div><b>Watch next:</b> ${esc(it.watch_next)}</div>`);
-  const ts = it.start ? ` · ${fmtTime(it.start)}` : "";
-  const link = it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.show)} — listen${ts}</a>`
-                      : `${esc(it.show)}${ts}`;
-  const clipNote = it.delivery === "clip" ? ` · <span title="Clips ship privately in the weekly email">clip in email</span>` : "";
+  const risk = m.risk_direction && m.risk_direction!=="neutral"
+    ? `<span class="risk ${esc(m.risk_direction)}">${esc(m.risk_direction)}</span>`:"";
+  const f=[];
+  if(m.thesis) f.push(`<div><b>Thesis:</b> ${esc(m.thesis)}</div>`);
+  if((m.exposures||[]).length) f.push(`<div><b>Exposed:</b> ${chipsHtml(m.exposures)}${(m.second_order||[]).length?` <b>· 2nd-order:</b> ${chipsHtml(m.second_order)}`:""}</div>`);
+  if(m.consensus_variant) f.push(`<div><b>Variant vs consensus:</b> ${esc(m.consensus_variant)}</div>`);
+  if(m.credible) f.push(`<div><b>Who / credibility:</b> ${esc(m.credible)}</div>`);
+  if(m.catalyst) f.push(`<div><b>Catalyst:</b> ${esc(m.catalyst)}</div>`);
+  if(m.action) f.push(`<div><b>Action:</b> ${esc(m.action)}</div>`);
+  if(m.watch_next) f.push(`<div><b>Watch next:</b> ${esc(m.watch_next)}</div>`);
   return `<div class="item">
-    <div class="item-h">${badge}<span class="lbl">${esc(it.label)}</span>${risk}</div>
-    <div class="headline">${esc(it.headline)}</div>
-    ${it.quote ? `<div class="fields" style="font-style:italic;color:var(--muted)">“${esc(it.quote)}”</div>`:""}
+    <div class="item-h">${badge}<span class="lbl">${esc(m.label)}</span>${risk}<span class="lbl">${fmtTime(m.start)}</span></div>
+    <div class="headline">${esc(m.headline)}</div>
+    ${m.quote?`<div class="fields" style="font-style:italic;color:var(--muted)">“${esc(m.quote)}”</div>`:""}
     <div class="fields">${f.join("")}</div>
-    <div class="src">${link}${clipNote}</div>
   </div>`;
 }
 
-function renderBrief(b){
-  $("#meta").textContent = `${b.generated_at ? b.generated_at.slice(0,10) : ""}`
-    + (b.episodes != null ? ` · ${b.episodes} episodes · ${b.moments} moments` : "");
-  if (b.sample) $("#sample-banner").classList.remove("hidden");
-  $("#exec").textContent = b.exec_summary || "(no exec summary yet)";
-  const host = $("#themes");
-  host.innerHTML = (b.themes || []).map(t => {
-    const clips = t.items.filter(i => i.delivery === "clip").length;
-    return `<div class="theme-h"><h3>${esc(t.theme)}</h3>
-        <span class="n">${t.items.length} moment${t.items.length!==1?"s":""}${clips?` · ${clips} clip${clips!==1?"s":""}`:""}</span></div>
-      ${t.synthesis ? `<div class="synth">${esc(t.synthesis)}</div>`:""}
-      ${t.items.map(renderItem).join("")}`;
-  }).join("");
+function clipsHtmlBlock(clips){
+  if(!clips||!clips.length) return "";
+  const rows = clips.map(c=>`<div class="audio">
+      <div class="cap">🎧 ${esc(c.label)} · ${esc(c.headline)}${c.dur?` · ${Math.round(c.dur)}s`:""} · @${fmtTime(c.start)}</div>
+      <audio controls preload="none" src="${esc(c.path)}"></audio></div>`).join("");
+  return `<div class="sec-k">Clips</div>${rows}`;
 }
 
-const GTYPES = [["company","#6E59D9"],["person","#3FB8C4"],["asset","#1e8e5a"],["sector","#B8733A"],["theme","#D8584E"],["macro","#B0894F"]];
-const GSTANCE = [["bullish","#1e8e5a"],["bearish","#d8584e"],["disagrees","#b0894f"],["exposed-to","#6E59D9"]];
+function epVisible(ep){
+  if(F.themes.size && !F.themes.has(ep.theme)) return false;
+  if(F.shows.size && !F.shows.has(ep.show)) return false;
+  const q=F.q.toLowerCase();
+  if(q){ const hay=(ep.show+" "+ep.title+" "+ep.summary+" "+JSON.stringify(ep.moments)+" "+JSON.stringify(ep.reasoning_chain)).toLowerCase();
+    if(!hay.includes(q)) return false; }
+  return true;
+}
+function momVisible(m){
+  if(F.labels.size && !F.labels.has(m.label)) return false;
+  const q=F.q.toLowerCase();
+  if(q){ const hay=(m.headline+" "+m.thesis+" "+(m.exposures||[]).join(" ")+" "+(m.second_order||[]).join(" ")+" "+m.watch_next).toLowerCase();
+    if(!hay.includes(q)) return false; }
+  return true;
+}
 
-function renderGraph(g){
-  $("#legend").innerHTML =
-    GTYPES.map(([k,c])=>`<span><i class="dot" style="background:${c}"></i>${k}</span>`).join("")
-    + ` &nbsp;|&nbsp; `
-    + GSTANCE.map(([k,c])=>`<span><i class="dot" style="background:${c}"></i>${k}</span>`).join("");
-  const el = $("#graph");
-  if (!g || !g.nodes || !g.nodes.length){ $("#graph-hint").textContent = "No graph data yet."; return; }
-  $("#graph-hint").textContent = `${g.nodes.length} nodes · ${g.links.length} edges`
-    + (g.sample ? " (sample)" : "") + " — drag to explore; hover an edge for who said it.";
-  if (typeof ForceGraph !== "function"){ el.innerHTML = `<p class="hint" style="padding:16px">Graph library didn't load (offline?). Data is in graph.json.</p>`; return; }
-  const G = ForceGraph()(el)
-    .width(el.clientWidth).height(el.clientHeight)
-    .backgroundColor("rgba(0,0,0,0)")
-    .nodeId("id").nodeVal(n => 2 + (n.val||1))
-    .nodeColor(n => n.color || "#8A93A6")
-    .nodeLabel(n => `${n.id} (${n.type})`)
-    .nodeCanvasObjectMode(()=> "after")
-    .nodeCanvasObject((n,ctx,scale)=>{ if (scale < 1.3) return;
-      const dark = document.documentElement.dataset.theme === "dark";
-      ctx.font = `${10/scale}px sans-serif`; ctx.fillStyle = dark ? "#c4c8d0" : "#3a3d44";
-      ctx.textAlign="center"; ctx.fillText(n.id, n.x, n.y + 8/scale); })
-    .linkColor(l => l.color || "#8A93A6").linkWidth(1).linkDirectionalArrowLength(3)
-    .linkLabel(l => `${l.source.id||l.source} —${l.stance}→ ${l.target.id||l.target}${l.by?` (${l.by})`:""}`)
-    .graphData({ nodes: g.nodes, links: g.links });
-  setTimeout(()=>G.zoomToFit(400, 30), 500);
-  window.addEventListener("resize", ()=> G.width(el.clientWidth).height(el.clientHeight));
+function render(){
+  const host=$("#episodes");
+  const eps=(BRIEF.episodes||[]).filter(epVisible).map(ep=>{
+    const moments=ep.moments.filter(momVisible);
+    if(F.labels.size && !moments.length) return "";
+    const clips=ep.clips.filter(c=>!F.labels.size || F.labels.has(c.label));
+    return `<div class="ep">
+      <div class="ep-h"><span class="show">${esc(ep.show)}</span>
+        <span class="ttl">${ep.url?`<a href="${esc(ep.url)}" target="_blank" rel="noopener">${esc(ep.title)}</a>`:esc(ep.title)}</span>
+        <span class="theme">${esc(ep.theme)}</span></div>
+      ${ep.summary?`<div class="ep-sum">${esc(ep.summary)}</div>`:""}
+      ${chainHtml(ep.reasoning_chain)}
+      <div class="sec-k">PM-relevant moments (${moments.length})</div>
+      ${moments.map(momentHtml).join("")||'<div class="empty" style="padding:10px">No moments match the filter.</div>'}
+      ${clipsHtmlBlock(clips)}
+    </div>`;
+  }).filter(Boolean).join("");
+  host.innerHTML = eps || `<div class="empty">No episodes match these filters.</div>`;
+}
+
+function buildFilters(){
+  const f=BRIEF.facets||{themes:[],shows:[],labels:[]};
+  const mk=(arr,set,host)=>{ $(host).innerHTML=arr.map(v=>`<span class="fchip" data-v="${esc(v)}">${esc(v)}</span>`).join("");
+    $(host).onclick=(e)=>{const c=e.target.closest(".fchip"); if(!c)return;
+      const v=c.dataset.v; set.has(v)?set.delete(v):set.add(v); c.classList.toggle("on"); render(); }; };
+  mk(f.themes,F.themes,"#f-theme"); mk(f.shows,F.shows,"#f-show"); mk(f.labels,F.labels,"#f-label");
 }
 
 (async function(){
-  let brief=null, graph=null;
-  try { brief = await fetch("brief.json").then(r=>r.json()); } catch {}
-  try { graph = await fetch("graph.json").then(r=>r.json()); } catch {}
-  if (!brief){ $("#exec").textContent = "Couldn't load brief.json."; }
-  else renderBrief(brief);
-  renderGraph(graph);
+  try{ BRIEF=await fetch("brief.json").then(r=>r.json()); }catch{ $("#exec").textContent="Couldn't load brief.json."; return; }
+  $("#meta").textContent=`${(BRIEF.generated_at||"").slice(0,10)} · ${BRIEF.episodes_count||0} episodes · ${BRIEF.moments_count||0} moments · ${BRIEF.clips_count||0} clips`;
+  if(BRIEF.sample) $("#sample-banner").classList.remove("hidden");
+  $("#exec").textContent=BRIEF.exec_summary||"(no exec summary yet)";
+  buildFilters();
+  let t; $("#q").oninput=(e)=>{F.q=e.target.value.trim(); clearTimeout(t); t=setTimeout(render,180);};
+  render();
 })();

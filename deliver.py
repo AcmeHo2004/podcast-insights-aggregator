@@ -17,12 +17,12 @@ import datetime as dt
 import shutil
 from pathlib import Path
 
-from briefs_common import REPORT, ROOT, SITE, read_json, resend_send
+from briefs_common import CLIPS, REPORT, ROOT, SITE, read_json, resend_send
 
 WEB = ROOT / "report_web"
 
 
-def build_site() -> None:
+def build_site(public: bool = False) -> None:
     SITE.mkdir(parents=True, exist_ok=True)
     for f in WEB.iterdir():
         if f.is_file():
@@ -31,9 +31,23 @@ def build_site() -> None:
     if brief:
         (SITE / "brief.json").write_text(__import__("json").dumps(brief, ensure_ascii=False),
                                          encoding="utf-8")
+    # Local builds embed the clips so they play in the page. The PUBLIC deploy
+    # (--public) never hosts audio — copyright. The email always carries the clips.
+    clips_dst = SITE / "clips"
+    if clips_dst.exists():
+        shutil.rmtree(clips_dst)
+    n_local = 0
+    if not public:
+        mp3s = [m for m in CLIPS.glob("*.mp3") if m.name != "demo.mp3"]
+        if mp3s:
+            clips_dst.mkdir(parents=True, exist_ok=True)
+            for m in mp3s:
+                shutil.copy(m, clips_dst / m.name)
+            n_local = len(mp3s)
     (SITE / ".nojekyll").write_text("", encoding="utf-8")
     print(f"  built report site → {SITE.relative_to(ROOT)} "
-          f"({'sample' if (brief or {}).get('sample') else 'real'} brief)")
+          f"({'sample' if (brief or {}).get('sample') else 'real'} brief · "
+          f"{'public/no-audio' if public else f'{n_local} clips embedded (local)'})")
 
 
 def email_html(brief: dict) -> str:
@@ -43,37 +57,43 @@ def email_html(brief: dict) -> str:
          'margin:auto;color:#1a1b1e">']
     P.append(f'<h2 style="margin:0 0 4px">Buy-Side Podcast Brief</h2>'
              f'<div style="color:#7b8090;font-size:12px">{esc(brief.get("generated_at","")[:10])}'
-             f' · {brief.get("episodes",0)} episodes · {brief.get("moments",0)} moments</div>')
+             f' · {brief.get("episodes_count",0)} episodes · {brief.get("moments_count",0)} moments'
+             f' · {brief.get("clips_count",0)} clips</div>')
     if brief.get("sample"):
         P.append('<p style="color:#9a6b1f;font-size:13px">SAMPLE — set ANTHROPIC_API_KEY for real content.</p>')
     if brief.get("exec_summary"):
         P.append('<h3 style="margin:18px 0 6px">What changed this week</h3>'
                  f'<div style="white-space:pre-wrap;color:#3a3d44;font-size:14px">{esc(brief["exec_summary"])}</div>')
-    for t in brief.get("themes", []):
-        P.append(f'<h3 style="margin:20px 0 6px;border-top:1px solid #e6e4df;padding-top:12px">{esc(t["theme"])}</h3>')
-        if t.get("synthesis"):
-            P.append(f'<div style="color:#3a3d44;font-style:italic;font-size:13px;margin-bottom:8px">{esc(t["synthesis"])}</div>')
-        for it in t["items"]:
-            tag = {"clip": "🎧 CLIP", "summary": "📝", "note": "·"}[it["delivery"]]
-            P.append(f'<div style="margin:0 0 12px"><b>{tag} [{esc(it["label"])}] {esc(it["headline"])}</b>'
+    for ep in brief.get("episodes", []):
+        P.append(f'<h3 style="margin:20px 0 4px;border-top:1px solid #e6e4df;padding-top:12px">'
+                 f'{esc(ep["show"])} — {esc(ep["title"])}</h3>'
+                 f'<div style="color:#7b8090;font-size:11px;margin-bottom:6px">{esc(ep["theme"])}'
+                 + (f' · <a href="{esc(ep["url"])}">listen</a>' if ep.get("url") else "") + '</div>')
+        if ep.get("reasoning_chain"):
+            steps = " &nbsp;·&nbsp; ".join(
+                f'{esc(e["from"])} <span style="color:#9a93a6">—{esc(e["relation"])}→</span> {esc(e["to"])}'
+                for e in ep["reasoning_chain"][:10])
+            P.append(f'<div style="color:#3a3d44;font-size:12px;margin:0 0 8px">⛓ {steps}</div>')
+        for m in ep["moments"]:
+            tag = {"clip": "🎧 CLIP", "summary": "📝", "note": "·"}[m["delivery"]]
+            P.append(f'<div style="margin:0 0 10px"><b>{tag} [{esc(m["label"])}] {esc(m["headline"])}</b>'
                      f'<div style="color:#3a3d44;font-size:13px">')
-            if it.get("thesis"): P.append(f'Thesis: {esc(it["thesis"])}<br>')
-            if it.get("exposures"): P.append(f'Exposed: {esc(", ".join(it["exposures"]))}<br>')
-            if it.get("watch_next"): P.append(f'Watch next: {esc(it["watch_next"])}<br>')
-            if it.get("url"): P.append(f'<a href="{esc(it["url"])}">{esc(it["show"])} — listen</a>')
+            if m.get("thesis"): P.append(f'Thesis: {esc(m["thesis"])}<br>')
+            if m.get("exposures"): P.append(f'Exposed: {esc(", ".join(m["exposures"]))}<br>')
+            if m.get("watch_next"): P.append(f'Watch next: {esc(m["watch_next"])}<br>')
             P.append('</div></div>')
     P.append('<div style="color:#7b8090;font-size:11px;margin-top:18px">Audio clips of the '
-             'sharpest moments are attached. Full brief + knowledge graph on the report page.</div></div>')
+             'thesis-changing / catalyst moments are attached. Full brief on the report page.</div></div>')
     return "".join(P)
 
 
 def collect_clips(brief: dict, cap: int = 8):
     paths = []
-    for t in brief.get("themes", []):
-        for it in t["items"]:
-            cp = it.get("clip_path")
-            if cp and (ROOT / cp).exists():
-                paths.append(str(ROOT / cp))
+    for ep in brief.get("episodes", []):
+        for c in ep.get("clips", []):
+            p = ROOT / c["path"]
+            if p.exists():
+                paths.append(str(p))
     return paths[:cap]
 
 
@@ -81,9 +101,10 @@ def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--send", action="store_true")
     ap.add_argument("--to", default=None, help="recipient (or set BRIEF_TO)")
+    ap.add_argument("--public", action="store_true", help="build the site without audio (public deploy)")
     args = ap.parse_args()
 
-    build_site()
+    build_site(public=args.public)
     brief = read_json(REPORT / "brief-latest.json") or {}
     html = email_html(brief)
     clips = collect_clips(brief)

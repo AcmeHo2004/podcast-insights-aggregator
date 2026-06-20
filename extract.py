@@ -34,7 +34,12 @@ SYSTEM = (
     "Be ruthless: most of a podcast is Background or Drop. Only label a moment Thesis-changing "
     "or Catalyst-relevant if it is genuinely sharp and tradable. Use the transcript's [mm:ss] "
     "markers for start/end (seconds). Quote at most ~15 words verbatim. Ground every field in "
-    "the transcript; never invent numbers, tickers, or positions."
+    "the transcript; never invent numbers, tickers, or positions.\n"
+    "Also build a CONNECTED financial reasoning chain for THIS episode: 6-14 directed edges "
+    "that link the key driver(s) → mechanism → first-order effect → second-order effects → "
+    "exposed names → what to watch. Reuse the SAME node phrase across edges so the chain "
+    "actually connects into a logic graph (not scattered fragments). Keep node phrases short "
+    "(<=6 words)."
 )
 
 LABELS = ["Thesis-changing", "Catalyst-relevant", "Risk-relevant", "Consensus-variant",
@@ -88,8 +93,22 @@ SCHEMA = {
                 "by": {"type": "string", "description": "who said it"},
             }, "required": ["subject", "stance", "object", "by"], "additionalProperties": False},
         },
+        "reasoning_chain": {
+            "type": "array",
+            "description": "the episode's financial logic as connected directed cause→effect edges",
+            "items": {"type": "object", "properties": {
+                "from": {"type": "string", "description": "<=6 words"},
+                "relation": {"type": "string",
+                             "enum": ["drives", "raises", "lowers", "pressures", "benefits",
+                                      "erodes", "implies", "raises-risk-to", "watch"]},
+                "to": {"type": "string", "description": "<=6 words"},
+                "kind": {"type": "string",
+                         "enum": ["driver", "mechanism", "first-order", "second-order",
+                                  "risk", "catalyst", "watch", "exposure"]},
+            }, "required": ["from", "relation", "to", "kind"], "additionalProperties": False},
+        },
     },
-    "required": ["episode_summary", "key_points", "moments", "entities", "claims"],
+    "required": ["episode_summary", "key_points", "moments", "entities", "claims", "reasoning_chain"],
     "additionalProperties": False,
 }
 
