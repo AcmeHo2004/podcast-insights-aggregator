@@ -8,6 +8,20 @@ function applyTheme(t){document.documentElement.dataset.theme=t;try{localStorage
 applyTheme((()=>{try{return localStorage.getItem("brief.theme")}catch{return null}})()||"light");
 $("#theme-btn").onclick=()=>applyTheme(document.documentElement.dataset.theme==="dark"?"light":"dark");
 
+/* resizable columns (Snowflake-style drag handles), persisted */
+(function(){
+  try{const c=JSON.parse(localStorage.getItem("brief.cols"));if(c){if(c.l)document.documentElement.style.setProperty("--w-left",c.l);if(c.r)document.documentElement.style.setProperty("--w-right",c.r);}}catch{}
+  let drag=null;
+  document.addEventListener("mousedown",(e)=>{const s=e.target.closest(".splitter");if(!s)return;drag=s.dataset.edge;s.classList.add("drag");document.body.classList.add("resizing");e.preventDefault();});
+  document.addEventListener("mousemove",(e)=>{if(!drag)return;const app=document.querySelector(".app").getBoundingClientRect();
+    if(drag==="left"){const w=Math.max(170,Math.min(460,e.clientX-app.left));document.documentElement.style.setProperty("--w-left",w+"px");}
+    else{const w=Math.max(280,Math.min(680,app.right-e.clientX));document.documentElement.style.setProperty("--w-right",w+"px");}});
+  document.addEventListener("mouseup",()=>{if(!drag)return;document.querySelectorAll(".splitter").forEach(s=>s.classList.remove("drag"));document.body.classList.remove("resizing");
+    const cs=getComputedStyle(document.documentElement);
+    try{localStorage.setItem("brief.cols",JSON.stringify({l:cs.getPropertyValue("--w-left").trim(),r:cs.getPropertyValue("--w-right").trim()}));}catch{}
+    drag=null;});
+})();
+
 let BRIEF=null, EP={}, MOMS=[];
 const S={mode:"show",date:"all",scope:null,labels:new Set(),q:"",sel:null,open:new Set()};
 const ORDER=["Thesis-changing","Catalyst-relevant","Risk-relevant","Consensus-variant","Background only"];

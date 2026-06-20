@@ -2,7 +2,7 @@
   --bg:#f7f6f3; --card:#fff; --ink:#1a1b1e; --ink-2:#3a3d44; --muted:#7b8090;
   --line:#e6e4df; --line-2:#efeee9; --accent:#6E59D9;
   --thesis:#d8584e; --catalyst:#b0894f; --risk:#c0463c; --variant:#3FB8C4; --bg-l:#8A93A6; --summary:#1e8e5a;
-  --hd:54px;
+  --hd:54px; --w-left:250px; --w-right:400px;
 }
 [data-theme="dark"]{
   --bg:#16171a; --card:#1d1f23; --ink:#eceef2; --ink-2:#c4c8d0; --muted:#8b909c;
@@ -22,8 +22,12 @@ body{margin:0;background:var(--bg);color:var(--ink);
 .sample-banner{padding:6px 16px;color:#9a6b1f;font-size:12px}
 code{background:rgba(176,137,79,.14);padding:1px 5px;border-radius:4px}
 
-.app{display:grid;grid-template-columns:250px minmax(0,1fr) 400px;height:calc(100vh - var(--hd))}
+.app{display:grid;grid-template-columns:var(--w-left) 5px minmax(0,1fr) 5px var(--w-right);height:calc(100vh - var(--hd))}
 .left,.center,.right{height:100%;overflow:auto}
+.splitter{cursor:col-resize;position:relative;background:transparent}
+.splitter::before{content:"";position:absolute;inset:0 -3px}
+.splitter:hover,.splitter.drag{background:var(--accent)}
+body.resizing{user-select:none;cursor:col-resize}
 .left{border-right:1px solid var(--line);padding:12px 10px}
 .center{padding:10px 14px}
 .right{border-left:1px solid var(--line);padding:16px 18px;position:relative}
@@ -112,7 +116,8 @@ code{background:rgba(176,137,79,.14);padding:1px 5px;border-radius:4px}
 
 /* responsive: right pane becomes an overlay */
 @media(max-width:1140px){
-  .app{grid-template-columns:230px minmax(0,1fr)}
+  .app{grid-template-columns:var(--w-left) 5px minmax(0,1fr)}
+  .splitter[data-edge="right"]{display:none}
   .right{position:fixed;top:var(--hd);right:0;width:min(440px,92vw);height:calc(100vh - var(--hd));
     background:var(--card);box-shadow:-8px 0 24px rgba(0,0,0,.12);transform:translateX(100%);transition:transform .18s;z-index:9}
   body.has-sel .right{transform:none}
@@ -120,6 +125,7 @@ code{background:rgba(176,137,79,.14);padding:1px 5px;border-radius:4px}
 }
 @media(max-width:760px){
   .app{grid-template-columns:1fr}
+  .splitter{display:none}
   .left{border-right:0;border-bottom:1px solid var(--line);height:auto;max-height:38vh}
   .center{height:auto}
 }

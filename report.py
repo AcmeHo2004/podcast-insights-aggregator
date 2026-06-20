@@ -14,11 +14,25 @@ With no extracts yet, writes a clearly-labeled SAMPLE so the page renders.
 from __future__ import annotations
 
 import datetime as dt
+import sqlite3
 
-from briefs_common import CLIPS, EXTRACTS, OPUS, REPORT, claude_text, have, read_json, write_json
+from briefs_common import CLIPS, EXTRACTS, OPUS, REPORT, ROOT, claude_text, have, read_json, write_json
 
 LABEL_RANK = {"Thesis-changing": 0, "Catalyst-relevant": 1, "Risk-relevant": 2,
               "Consensus-variant": 3, "Background only": 4}
+
+
+def _pubdates() -> dict:
+    """id -> published_at, restored from the theme DBs (published_at is lost along
+    worklist → transcript → extract, so we re-attach it here at report time)."""
+    out = {}
+    for db in ROOT.glob("themes/*/data/insights.db"):
+        conn = sqlite3.connect(f"file:{db}?mode=ro", uri=True)
+        for i, p in conn.execute("SELECT id, published_at FROM items"):
+            if p:
+                out[i] = p
+        conn.close()
+    return out
 
 
 def delivery_of(m: dict) -> str:
@@ -78,6 +92,7 @@ def main() -> None:
         return
 
     manifest = read_json(CLIPS / "manifest.json", {}) or {}
+    pub = _pubdates()
     episodes = []
     for ex in exs:
         moments = [moment_view(m) for m in ex["moments"]]
@@ -91,7 +106,7 @@ def main() -> None:
                               "dur": clip_durs.get(i)})
         episodes.append({
             "id": ex["id"], "show": ex["show"], "theme": ex["theme"], "title": ex["title"],
-            "url": ex.get("url", ""), "published_at": ex.get("published_at", ""),
+            "url": ex.get("url", ""), "published_at": pub.get(ex["id"], ex.get("published_at", "")),
             "summary": ex.get("episode_summary", ""),
             "reasoning_chain": ex.get("reasoning_chain", []),
             "moments": moments, "clips": clips,
