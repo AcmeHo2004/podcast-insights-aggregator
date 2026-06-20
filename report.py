@@ -173,7 +173,7 @@ def main() -> None:
 
 
 def _write_markdown(brief: dict, path) -> None:
-    L = [f"# Buy-Side Podcast Brief — {brief['generated_at'][:10]}", ""]
+    L = [f"# Podcast Brief — {brief['generated_at'][:10]}", ""]
     if brief.get("exec_summary"):
         L += ["## What changed this week", "", brief["exec_summary"], ""]
     for ep in brief["episodes"]:

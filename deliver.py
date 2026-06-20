@@ -76,7 +76,7 @@ def email_html(brief: dict) -> str:
         return (str(s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
     P = ['<div style="font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;max-width:640px;'
          'margin:auto;color:#1a1b1e">']
-    P.append(f'<h2 style="margin:0 0 4px">Buy-Side Podcast Brief</h2>'
+    P.append(f'<h2 style="margin:0 0 4px">Podcast Brief</h2>'
              f'<div style="color:#7b8090;font-size:12px">{esc(brief.get("generated_at","")[:10])}'
              f' · {brief.get("episodes_count",0)} episodes · {brief.get("moments_count",0)} moments'
              f' · {brief.get("clips_count",0)} clips</div>')
@@ -131,7 +131,7 @@ def main() -> None:
     clips = collect_clips(brief)
     import os
     to = args.to or os.environ.get("BRIEF_TO", "you@example.com")
-    subject = f"Buy-Side Podcast Brief — {dt.date.today().isoformat()}"
+    subject = f"Podcast Brief — {dt.date.today().isoformat()}"
 
     res = resend_send(to=to, subject=subject, html=html, attachments=clips,
                       dry_run=not args.send)

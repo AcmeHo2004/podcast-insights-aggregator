@@ -1,4 +1,4 @@
-# Buy-Side Podcast Brief
+# Podcast Brief
 
 An **importance-driven** engine over 34 curated buy-side podcasts. It doesn't make you
 scroll a feed — it finds what could change a PM's **judgment, positioning, timing, sizing,
