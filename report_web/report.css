@@ -114,6 +114,31 @@ body.resizing{user-select:none;cursor:col-resize}
 .tx-line.hl{background:color-mix(in srgb,var(--accent) 16%,transparent)}
 .tx-ts{color:var(--accent);font-variant-numeric:tabular-nums;min-width:42px;font-size:12px}
 
+/* layout modes: board & reader drop the right detail pane */
+body.lay-board .app, body.lay-reader .app{grid-template-columns:var(--w-left) 5px minmax(0,1fr)}
+body.lay-board .right, body.lay-reader .right,
+body.lay-board .splitter[data-edge="right"], body.lay-reader .splitter[data-edge="right"]{display:none}
+
+/* board (kanban: columns = groups, cards = moments) */
+.board{display:flex;gap:12px;overflow-x:auto;padding-bottom:8px;align-items:flex-start}
+.bcol{flex:0 0 300px;background:var(--line-2);border:1px solid var(--line);border-radius:11px;padding:8px;max-height:calc(100vh - var(--hd) - 96px);overflow:auto}
+.bch{font-weight:700;font-size:13px;padding:3px 6px 8px;position:sticky;top:0;background:var(--line-2);z-index:1}
+.bch .tn{color:var(--muted);font-weight:400}
+.brow{margin-bottom:6px;background:var(--card)}
+.brow .rhead{white-space:normal;font-weight:550}
+
+/* reader (linear long-form, printable) */
+.reader{max-width:760px;margin:0 auto}
+.reader .exec{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:14px}
+.reader .exec h2{font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;margin:0 0 8px}
+.reader .exec div{white-space:pre-wrap;color:var(--ink-2)}
+.rsec{font-size:16px;margin:22px 2px 10px;border-bottom:1px solid var(--line);padding-bottom:6px}
+.rcard{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--line);border-radius:11px;padding:13px 15px;margin-bottom:10px}
+.rcard.l-thesis{border-left-color:var(--thesis)} .rcard.l-catalyst{border-left-color:var(--catalyst)}
+.rcard.l-risk{border-left-color:var(--risk)} .rcard.l-variant{border-left-color:var(--variant)} .rcard.l-bg{border-left-color:var(--bg-l)}
+.rcard .d-head{font-size:15.5px;margin:4px 0 8px}
+@media print{ .top,.left,.splitter{display:none!important} .app{display:block;height:auto} .center{height:auto;overflow:visible} .reader{max-width:none} .d-audio,.brow{display:none} }
+
 /* responsive: right pane becomes an overlay */
 @media(max-width:1140px){
   .app{grid-template-columns:var(--w-left) 5px minmax(0,1fr)}

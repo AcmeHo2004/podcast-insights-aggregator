@@ -23,7 +23,7 @@ $("#theme-btn").onclick=()=>applyTheme(document.documentElement.dataset.theme===
 })();
 
 let BRIEF=null, EP={}, MOMS=[];
-const S={mode:"show",date:"all",scope:null,labels:new Set(),q:"",sel:null,open:new Set()};
+const S={layout:"triage",mode:"show",date:"all",scope:null,labels:new Set(),q:"",sel:null,open:new Set()};
 const ORDER=["Thesis-changing","Catalyst-relevant","Risk-relevant","Consensus-variant","Background only"];
 const LBL={
  "Thesis-changing":{c:"l-thesis",t:"t-thesis",s:"Thesis"},
@@ -49,7 +49,8 @@ function scopeOK(m){const sc=S.scope;if(!sc)return true;
 const labelOK=(m)=>!S.labels.size||S.labels.has(m.label);
 const qOK=(m)=>!S.q||JSON.stringify(m).toLowerCase().includes(S.q.toLowerCase());
 const dateScoped=()=>MOMS.filter(dateOK);
-const visible=()=>MOMS.filter(m=>dateOK(m)&&scopeOK(m)&&labelOK(m)&&qOK(m));
+const baseFilter=(m)=>dateOK(m)&&labelOK(m)&&qOK(m);          // date+label+search (no scope) — for board/reader
+const visible=()=>MOMS.filter(m=>baseFilter(m)&&scopeOK(m));  // + scope — for triage list
 
 function renderTree(){
   const host=$("#ltree"), base=dateScoped();
@@ -102,15 +103,11 @@ function renderList(){
 
 function expChips(m){return (m.exposures||[]).map(e=>`<span class="exp" data-exp="${esc(e)}">${esc(e)}</span>`).join("")
    +(m.second_order||[]).map(e=>`<span class="exp so" data-exp="${esc(e)}">${esc(e)}</span>`).join("");}
-function renderDetail(){
-  const body=$("#detail-body");
-  if(S.sel===null){body.innerHTML=`<div class="d-empty"><h3>What changed this week</h3><div class="ex">${esc(BRIEF.exec_summary||"Select a moment for detail.")}</div></div>`;
-    document.body.classList.remove("has-sel");return;}
-  const m=MOMS[S.sel]; if(!m){body.innerHTML="";return;}
+function momentDetailHtml(m){
   const c=lc(m);
   const risk=m.risk_direction&&m.risk_direction!=="neutral"?`<span class="d-tag t-bg">${esc(m.risk_direction)}</span>`:"";
   const f=(k,v)=>v?`<div class="d-f"><b>${k}</b>${esc(v)}</div>`:"";
-  body.innerHTML=`<div style="display:flex;gap:8px;align-items:center"><span class="d-tag ${c.t}">${c.s}</span>${risk}</div>
+  return `<div style="display:flex;gap:8px;align-items:center"><span class="d-tag ${c.t}">${c.s}</span>${risk}</div>
     <div class="d-src">${esc(m.show)} · ${esc(m.theme)} · ${dshort(m._date)}${m.url?` · <a href="${esc(m.url)}" target="_blank" rel="noopener">source</a>`:""} · <span class="txlink" data-tx data-ep="${esc(m.ep_id)}" data-t="${m.start||0}">📄 transcript @${fmt(m.start)}</span></div>
     <div class="d-head">${esc(m.headline)}</div>
     ${m.quote?`<div class="d-f" style="font-style:italic;color:var(--muted)">“${esc(m.quote)}”</div>`:""}
@@ -122,7 +119,39 @@ function renderDetail(){
     ${f("Do",m.action)}
     ${f("Watch next",m.watch_next)}
     ${m.clip_path?`<audio class="d-audio" controls preload="none" src="${esc(m.clip_path)}"></audio>`:""}`;
-  document.body.classList.add("has-sel");
+}
+function renderDetail(){
+  const body=$("#detail-body");
+  if(S.sel===null){body.innerHTML=`<div class="d-empty"><h3>What changed this week</h3><div class="ex">${esc(BRIEF.exec_summary||"Select a moment for detail.")}</div></div>`;document.body.classList.remove("has-sel");return;}
+  const m=MOMS[S.sel]; if(!m){body.innerHTML="";return;}
+  body.innerHTML=momentDetailHtml(m); document.body.classList.add("has-sel");
+}
+
+function renderBoard(){
+  const ms=MOMS.filter(baseFilter);
+  const grp=(keyf)=>{const map={};ms.forEach(m=>keyf(m).forEach(k=>{if(k)(map[k]=map[k]||[]).push(m);}));return Object.entries(map).sort((a,b)=>b[1].length-a[1].length);};
+  let cols = S.mode==="exposure"?grp(m=>(m.exposures||[]).map(e=>e.trim())).slice(0,16)
+           : S.mode==="theme"?grp(m=>[m.theme]) : grp(m=>[m.show]);
+  $("#list").innerHTML=`<div class="board">`+cols.map(([name,list])=>{
+    const sorted=list.slice().sort((a,b)=>ORDER.indexOf(a.label)-ORDER.indexOf(b.label));
+    return `<div class="bcol"><div class="bch">${esc(name)} <span class="tn">${list.length}</span></div>`+
+      sorted.slice(0,50).map(m=>`<div class="brow row ${lc(m).c}" data-id="${m._id}"><span class="rdot ${lc(m).c}"></span><span class="rhead">${esc(m.headline)}</span></div>`).join("")+`</div>`;
+  }).join("")+`</div>`;
+}
+function renderReader(){
+  const ms=MOMS.filter(baseFilter), map={};
+  ms.forEach(m=>(map[m.theme]=map[m.theme]||[]).push(m));
+  let h=`<div class="reader"><div class="exec"><h2>What changed this week</h2><div>${esc(BRIEF.exec_summary||"")}</div></div>`;
+  Object.keys(map).sort((a,b)=>map[b].length-map[a].length).forEach(th=>{
+    const list=map[th].slice().sort((a,b)=>ORDER.indexOf(a.label)-ORDER.indexOf(b.label));
+    h+=`<div class="rsec">${esc(th)} · ${list.length}</div>`+list.map(m=>`<div class="rcard ${lc(m).c}">${momentDetailHtml(m)}</div>`).join("");
+  });
+  $("#list").innerHTML=h+`</div>`;
+}
+function renderCenter(){
+  if(S.layout==="board")renderBoard();
+  else if(S.layout==="reader")renderReader();
+  else renderList();
 }
 
 async function openTranscript(epId,atTime){
@@ -140,7 +169,13 @@ function renderLblbar(){
   const present=ORDER.filter(l=>MOMS.some(m=>m.label===l));
   $("#lblbar").innerHTML=present.map(l=>`<span class="lchip ${LBL[l].c} ${S.labels.has(l)?"on":""}" data-lab="${esc(l)}">${LBL[l].s}</span>`).join("");
 }
-function renderAll(){renderTree();renderList();renderDetail();}
+function renderAll(){
+  document.body.classList.toggle("lay-board",S.layout==="board");
+  document.body.classList.toggle("lay-reader",S.layout==="reader");
+  if(S.layout!=="triage")$("#scope-strip").classList.add("hidden");
+  renderTree(); renderCenter();
+  if(S.layout==="triage")renderDetail(); else document.body.classList.remove("has-sel");
+}
 
 (async function(){
   try{BRIEF=await fetch("brief.json").then(r=>r.json());}catch{$("#list").innerHTML='<div class="empty">Couldn\'t load brief.json.</div>';return;}
@@ -152,6 +187,7 @@ function renderAll(){renderTree();renderList();renderDetail();}
 
   $("#dateseg").onclick=(e)=>{const b=e.target.closest(".segbtn");if(!b)return;S.date=b.dataset.date;[...$("#dateseg").children].forEach(x=>x.classList.toggle("on",x===b));renderAll();};
   $("#modeseg").onclick=(e)=>{const b=e.target.closest(".segbtn");if(!b)return;S.mode=b.dataset.mode;S.scope=null;[...$("#modeseg").children].forEach(x=>x.classList.toggle("on",x===b));renderAll();};
+  $("#layoutseg").onclick=(e)=>{const b=e.target.closest(".segbtn");if(!b)return;S.layout=b.dataset.layout;[...$("#layoutseg").children].forEach(x=>x.classList.toggle("on",x===b));renderAll();};
   $("#ltree").onclick=(e)=>{
     const sh=e.target.closest("[data-show]"); if(sh){const n=sh.dataset.show;S.open.has(n)?S.open.delete(n):S.open.add(n);S.scope={type:"show",value:n};S.sel=null;renderAll();return;}
     const ep=e.target.closest("[data-ep]"); if(ep){S.scope={type:"episode",value:ep.dataset.ep};S.sel=null;renderAll();return;}
@@ -159,7 +195,16 @@ function renderAll(){renderTree();renderList();renderDetail();}
     const th=e.target.closest("[data-theme]"); if(th){S.scope={type:"theme",value:th.dataset.theme};S.sel=null;renderAll();return;}
   };
   $("#lblbar").onclick=(e)=>{const c=e.target.closest(".lchip");if(!c)return;const l=c.dataset.lab;S.labels.has(l)?S.labels.delete(l):S.labels.add(l);c.classList.toggle("on");renderList();};
-  $("#list").onclick=(e)=>{if(e.target.closest("#scope-x"))return;const r=e.target.closest(".row");if(!r)return;S.sel=Number(r.dataset.id);renderList();renderDetail();};
+  $("#list").onclick=(e)=>{
+    if(e.target.closest("#scope-x"))return;
+    const tx=e.target.closest("[data-tx]"); if(tx){openTranscript(tx.dataset.ep,parseFloat(tx.dataset.t)||0);return;}
+    const ex=e.target.closest("[data-exp]"); if(ex){S.layout="triage";S.mode="exposure";S.scope={type:"exposure",value:ex.dataset.exp};
+      [...$("#layoutseg").children].forEach(x=>x.classList.toggle("on",x.dataset.layout==="triage"));
+      [...$("#modeseg").children].forEach(x=>x.classList.toggle("on",x.dataset.mode==="exposure"));renderAll();return;}
+    const r=e.target.closest(".row"); if(!r)return;
+    S.sel=Number(r.dataset.id);
+    if(S.layout!=="triage"){S.layout="triage";[...$("#layoutseg").children].forEach(x=>x.classList.toggle("on",x.dataset.layout==="triage"));renderAll();}
+    else{renderList();renderDetail();}};
   $("#detail").addEventListener("click",(e)=>{
     const tx=e.target.closest("[data-tx]");if(tx){openTranscript(tx.dataset.ep,parseFloat(tx.dataset.t)||0);return;}
     const ex=e.target.closest("[data-exp]");if(ex){S.mode="exposure";S.scope={type:"exposure",value:ex.dataset.exp};[...$("#modeseg").children].forEach(x=>x.classList.toggle("on",x.dataset.mode==="exposure"));renderAll();return;}
