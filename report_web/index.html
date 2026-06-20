@@ -4,31 +4,33 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Buy-Side Podcast Brief</title>
-  <meta name="description" content="Importance-driven brief from curated buy-side podcasts — a prioritized moment stream, a watchlist of exposures & catalysts, and per-episode reasoning chains, all filterable.">
+  <meta name="description" content="Importance-driven brief from curated buy-side podcasts — a prioritized moment grid, a watchlist of exposures & catalysts, and per-episode reasoning chains.">
   <link rel="stylesheet" href="report.css">
 </head>
 <body>
   <header class="top">
     <div class="bar">
       <span class="brand">◆ Buy-Side Brief</span>
-      <span class="meta" id="meta"></span>
       <div class="seg" id="viewseg">
         <button class="segbtn on" data-view="moments">What changed</button>
         <button class="segbtn" data-view="watchlist">Watchlist</button>
         <button class="segbtn" data-view="episodes">By episode</button>
       </div>
+      <span class="spacer"></span>
       <input class="search" id="q" type="search" placeholder="Search…" autocomplete="off">
+      <button class="tbtn wide" id="filt-btn">Filters <span class="badge hidden" id="filt-n"></span></button>
       <button class="tbtn" id="theme-btn" title="Toggle theme">◐</button>
     </div>
+    <div class="subbar"><span class="meta" id="meta"></span></div>
     <div class="sample-banner hidden" id="sample-banner">
       SAMPLE — set <code>ANTHROPIC_API_KEY</code> and run the pipeline to populate with real episodes.
     </div>
-    <div class="filters" id="filters">
+    <div class="filters hidden" id="filters">
       <div class="frow"><span class="fk">Label</span><span class="chips" id="f-label"></span></div>
       <div class="frow"><span class="fk">Exposure</span><span class="chips" id="f-exp"></span></div>
       <div class="frow"><span class="fk">Theme</span><span class="chips" id="f-theme"></span>
         <span class="fk" style="margin-left:10px">Show</span><span class="chips" id="f-show"></span>
-        <span class="fclear" id="fclear">clear</span></div>
+        <span class="fclear" id="fclear">clear all</span></div>
     </div>
   </header>
 

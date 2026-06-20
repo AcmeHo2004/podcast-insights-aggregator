@@ -58,7 +58,8 @@ function renderMoments(){
   let h=`<div class="exec"><h2>What changed this week</h2><div>${esc(BRIEF.exec_summary||"—")}</div></div>`;
   for(const lab of ORDER){
     const g=vis.filter(m=>m.label===lab); if(!g.length)continue;
-    h+=`<div class="sec-title">${LBL[lab].s} <span style="color:var(--muted)">· ${g.length}</span></div>`+g.map(momentCard).join("");
+    h+=`<div class="sec-title">${LBL[lab].s} <span style="color:var(--muted)">· ${g.length}</span></div>`
+      +`<div class="mgrid">`+g.map(momentCard).join("")+`</div>`;
   }
   if(!vis.length)h+=`<div class="empty">No moments match these filters.</div>`;
   return h;
@@ -113,6 +114,8 @@ function renderEpisodes(){
 }
 
 function render(){
+  const n=F.labels.size+F.exposures.size+F.themes.size+F.shows.size;
+  const b=$("#filt-n"); b.textContent=n||""; b.classList.toggle("hidden",!n);
   $("#view").innerHTML = F.view==="watchlist"?renderWatchlist():F.view==="episodes"?renderEpisodes():renderMoments();
 }
 
@@ -133,6 +136,7 @@ function toggle(set,v){set.has(v)?set.delete(v):set.add(v);}
 
   $("#viewseg").onclick=(e)=>{const b=e.target.closest(".segbtn");if(!b)return;
     F.view=b.dataset.view; [...$("#viewseg").children].forEach(x=>x.classList.toggle("on",x===b)); render();};
+  $("#filt-btn").onclick=()=>$("#filters").classList.toggle("hidden");
   // filter chips
   const wire=(host,set)=>{$(host).onclick=(e)=>{const c=e.target.closest(".fchip");if(!c)return;
     toggle(set,c.dataset.v); c.classList.toggle("on"); render();};};

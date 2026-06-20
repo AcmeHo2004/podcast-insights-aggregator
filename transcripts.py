@@ -14,6 +14,7 @@ needs_transcription and skipped (re-run once a key is set).
 from __future__ import annotations
 
 import argparse
+import os
 import re
 import tempfile
 from pathlib import Path
@@ -136,20 +137,60 @@ def from_feed(ep: dict):
     return segs or None
 
 
+def _download(ep, tmp) -> bool:
+    try:
+        with httpx.stream("GET", ep["audio_url"], headers=UA, timeout=600, follow_redirects=True) as r:
+            r.raise_for_status()
+            for chunk in r.iter_bytes(1 << 16):
+                tmp.write(chunk)
+        tmp.flush()
+        return True
+    except Exception as e:  # noqa: BLE001
+        print(f"    download failed: {e}")
+        return False
+
+
 def from_whisper(ep: dict):
     if not have("GROQ_API_KEY") or not ep.get("audio_url"):
         return None
     with tempfile.NamedTemporaryFile(suffix=".mp3", delete=True) as tmp:
-        try:
-            with httpx.stream("GET", ep["audio_url"], headers=UA, timeout=600, follow_redirects=True) as r:
-                r.raise_for_status()
-                for chunk in r.iter_bytes(1 << 16):
-                    tmp.write(chunk)
-            tmp.flush()
-        except Exception as e:  # noqa: BLE001
-            print(f"    download failed: {e}")
+        if not _download(ep, tmp):
             return None
         return groq_transcribe(tmp.name)
+
+
+# Lazy-loaded local model (free, no API/key). `pip install faster-whisper`.
+_WHISPER = None
+
+
+def _whisper_model():
+    global _WHISPER
+    if _WHISPER is None:
+        from faster_whisper import WhisperModel
+        name = os.environ.get("WHISPER_MODEL", "base")   # tiny|base|small|medium|large-v3
+        _WHISPER = WhisperModel(name, device="cpu", compute_type="int8")
+    return _WHISPER
+
+
+def from_local_whisper(ep: dict):
+    """Free, fully local transcription via faster-whisper. No key, no cost (just CPU
+    time). Returns timestamped segments, or None if the package isn't installed."""
+    if not ep.get("audio_url"):
+        return None
+    try:
+        import faster_whisper  # noqa: F401
+    except ImportError:
+        return None
+    with tempfile.NamedTemporaryFile(suffix=".mp3", delete=True) as tmp:
+        if not _download(ep, tmp):
+            return None
+        try:
+            segs, _ = _whisper_model().transcribe(tmp.name)
+            return [{"start": float(s.start), "end": float(s.end), "text": (s.text or "").strip()}
+                    for s in segs]
+        except Exception as e:  # noqa: BLE001
+            print(f"    local whisper failed: {e}")
+            return None
 
 
 def main() -> None:
@@ -164,29 +205,39 @@ def main() -> None:
     feeds = show_feeds()
     eps = wl["episodes"][: args.limit] if args.limit else wl["episodes"]
 
-    done = feed_n = whisper_n = skipped = 0
+    have_local = False
+    try:
+        import faster_whisper  # noqa: F401
+        have_local = True
+    except ImportError:
+        pass
+
+    done = skipped = 0
+    counts = {"feed": 0, "groq": 0, "local-whisper": 0}
     for ep in eps:
         out = TRANSCRIPTS / f"{ep['id']}.json"
         if out.exists():
             done += 1; continue
         ep["_feed"] = feeds.get(ep["show"], "")
-        segs, src = (from_feed(ep), "feed")
+        segs, src = from_feed(ep), "feed"
         if not segs:
-            segs, src = (from_whisper(ep), "whisper")
+            segs, src = from_whisper(ep), "groq"
+        if not segs:
+            segs, src = from_local_whisper(ep), "local-whisper"
         if not segs:
             skipped += 1
-            print(f"    [skip] {ep['show'][:22]:22} · {ep['title'][:46]}  (no feed transcript; "
-                  f"{'no GROQ key' if not have('GROQ_API_KEY') else 'transcription failed'})")
+            why = "no GROQ key & faster-whisper not installed" if not (have("GROQ_API_KEY") or have_local) else "transcription failed"
+            print(f"    [skip] {ep['show'][:22]:22} · {ep['title'][:42]}  (no feed transcript; {why})")
             continue
         write_json(out, {"id": ep["id"], "show": ep["show"], "theme": ep["theme"],
                          "title": ep["title"], "audio_url": ep.get("audio_url", ""),
                          "source": src, "duration": round(segs[-1]["end"], 1),
                          "segments": segs})
-        feed_n += src == "feed"; whisper_n += src == "whisper"
-        print(f"    [{src:7}] {ep['show'][:22]:22} · {len(segs):>4} segs · {ep['title'][:42]}")
+        counts[src] = counts.get(src, 0) + 1
+        print(f"    [{src:13}] {ep['show'][:22]:22} · {len(segs):>4} segs · {ep['title'][:40]}")
 
-    print(f"  done: {feed_n} from feed · {whisper_n} via Whisper · {skipped} skipped · "
-          f"{done} already cached")
+    print(f"  done: {counts['feed']} feed · {counts['groq']} groq · {counts['local-whisper']} local-whisper · "
+          f"{skipped} skipped · {done} cached")
 
 
 if __name__ == "__main__":

@@ -52,8 +52,14 @@ report page lives in `report_web/`.
 | Secret | For | Notes |
 |---|---|---|
 | `ANTHROPIC_API_KEY` | relevance gate, extraction, brief, graph | required for real output |
-| `GROQ_API_KEY` | Whisper transcription for feeds without transcripts | many feeds ship transcripts free |
+| `GROQ_API_KEY` | Whisper transcription for feeds without transcripts | Groq has a free tier; optional |
 | `RESEND_API_KEY` + `BRIEF_TO` (+ `BRIEF_SENDER`) | the weekly email | verify a Resend sender |
+
+**Transcription order (free-first):** feed `podcast:transcript` (free) → Groq Whisper (if
+`GROQ_API_KEY`) → **local Whisper, fully free & offline** (`pip install faster-whisper`; set
+`WHISPER_MODEL=tiny|base|small`, default `base`). Local Whisper needs no key and no money —
+just CPU time — so the tech shows that don't publish transcripts (All-In, BG2, Sharp Tech)
+still get in. Use Groq in CI for speed; local Whisper for free local runs.
 
 Everything **degrades gracefully**: no key → that stage is skipped/sampled, never crashes.
 Enable the weekly run: add the secrets, then `gh auth refresh -h github.com -s workflow`

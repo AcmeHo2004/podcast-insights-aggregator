@@ -25,8 +25,8 @@ from briefs_common import CLIPS, EXTRACTS, ROOT, TRANSCRIPTS, read_json, write_j
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124.0"
 CLIP_LABELS = {"Thesis-changing", "Catalyst-relevant"}
 PRE_ROLL = 3.0
-MAX_LEN = 90.0
-MIN_LEN = 18.0
+MAX_LEN = 210.0   # up to ~3.5 min; the moment's own span drives the actual length
+MIN_LEN = 15.0
 
 
 def _ffprobe_dur(path) -> float:
