@@ -1,0 +1,3986 @@
+{
+  "id": "550ca7ec1dac1cfe",
+  "show": "Sharp Tech with Ben Thompson",
+  "theme": "Tech & AI",
+  "title": "(Preview) SpaceX Hype and the Elon Bargain, Nvidia and the Neoclouds, Q&A on Dropbox, Google, Ferrari Luce Backlash",
+  "audio_url": "https://sharptech.fm/assets/sharptech0278_preview.mp3?access_token=WtLvUDEHgB7rE4MbAfmDVT",
+  "source": "local-whisper",
+  "duration": 2141.0,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello, and welcome to a free preview of Sharp Tech."
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "Hello, and welcome back to another episode of Sharp Tech."
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "I'm Andrew Sharp, and on the other line, Ben Thompson."
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Ben, how you doing?"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "Filled with regret, Andrew."
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "text": "Over what?"
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "text": "Filled with regrets."
+    },
+    {
+      "start": 22.0,
+      "end": 25.0,
+      "text": "Well, so I was going through the rundown last night,"
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "played at night, and there was a question about"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "the Ferrari luce on."
+    },
+    {
+      "start": 30.0,
+      "end": 34.0,
+      "text": "And I decided I'm going to throw on Twitter and, you know, do the guy in the courtroom saying"
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "text": "I like the luce."
+    },
+    {
+      "start": 35.0,
+      "end": 43.0,
+      "text": "But I was in the context of Sharp Tech, where last week I explained I don't like electric cars."
+    },
+    {
+      "start": 43.0,
+      "end": 44.0,
+      "text": "Right."
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "text": "Which is like super."
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "text": "Right."
+    },
+    {
+      "start": 47.0,
+      "end": 50.0,
+      "text": "Which I actually have a much broader take on the luce."
+    },
+    {
+      "start": 50.0,
+      "end": 52.0,
+      "text": "That ties into that."
+    },
+    {
+      "start": 52.0,
+      "end": 54.0,
+      "text": "But no one on Twitter has that context."
+    },
+    {
+      "start": 54.0,
+      "end": 58.0,
+      "text": "So I'm just like hanging out on Twitter defending the car."
+    },
+    {
+      "start": 58.0,
+      "end": 59.0,
+      "text": "Everyone hates it."
+    },
+    {
+      "start": 59.0,
+      "end": 60.0,
+      "text": "And I'm not really defending it."
+    },
+    {
+      "start": 60.0,
+      "end": 63.0,
+      "text": "I was actually trying to have this very subtle like dis of it."
+    },
+    {
+      "start": 63.0,
+      "end": 64.0,
+      "text": "Okay."
+    },
+    {
+      "start": 64.0,
+      "end": 65.0,
+      "text": "Total, total failure."
+    },
+    {
+      "start": 65.0,
+      "end": 67.0,
+      "text": "I did not take up on your disc at all."
+    },
+    {
+      "start": 67.0,
+      "end": 70.0,
+      "text": "I saw that you know, and I was like, it's so poorly too."
+    },
+    {
+      "start": 70.0,
+      "end": 72.0,
+      "text": "It's so, it's so poorly."
+    },
+    {
+      "start": 72.0,
+      "end": 74.0,
+      "text": "I was so thinking about Sharp Tech."
+    },
+    {
+      "start": 74.0,
+      "end": 79.0,
+      "text": "Just, you can't delete a, like, you can't delete that tweet."
+    },
+    {
+      "start": 79.0,
+      "end": 80.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 80.0,
+      "end": 81.0,
+      "text": "Right."
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "text": "You got to own it."
+    },
+    {
+      "start": 82.0,
+      "end": 83.0,
+      "text": "You got to own it."
+    },
+    {
+      "start": 83.0,
+      "end": 86.0,
+      "text": "So I'm going to explain myself on this podcast."
+    },
+    {
+      "start": 86.0,
+      "end": 88.0,
+      "text": "We actually talked about on the other rings."
+    },
+    {
+      "start": 88.0,
+      "end": 89.0,
+      "text": "I'm going to double."
+    },
+    {
+      "start": 89.0,
+      "end": 90.0,
+      "text": "Okay."
+    },
+    {
+      "start": 90.0,
+      "end": 91.0,
+      "text": "Great."
+    },
+    {
+      "start": 91.0,
+      "end": 92.0,
+      "text": "I do feel the need to defend myself."
+    },
+    {
+      "start": 92.0,
+      "end": 94.0,
+      "text": "But none of that defense is going to make its way to Twitter."
+    },
+    {
+      "start": 94.0,
+      "end": 98.0,
+      "text": "This is actually going to be a theme of this podcast of Twitter being annoying."
+    },
+    {
+      "start": 98.0,
+      "end": 100.0,
+      "text": "But this one was on."
+    },
+    {
+      "start": 100.0,
+      "end": 101.0,
+      "text": "I cannot wait."
+    },
+    {
+      "start": 101.0,
+      "end": 103.0,
+      "text": "That's going to be the party in the back."
+    },
+    {
+      "start": 103.0,
+      "end": 105.0,
+      "text": "It's going to be mostly male on this episode."
+    },
+    {
+      "start": 105.0,
+      "end": 107.0,
+      "text": "We'll try to hit as many questions as possible."
+    },
+    {
+      "start": 107.0,
+      "end": 111.0,
+      "text": "And the luce discussion will be the party in the back."
+    },
+    {
+      "start": 112.0,
+      "end": 116.0,
+      "text": "Because you've had takes all week long and I felt like you were pushing back"
+    },
+    {
+      "start": 116.0,
+      "end": 120.0,
+      "text": "against some of the consensus backlash to the Johnny I've designed."
+    },
+    {
+      "start": 120.0,
+      "end": 121.0,
+      "text": "No."
+    },
+    {
+      "start": 121.0,
+      "end": 126.0,
+      "text": "So it's one of those things where the consensus backlash is totally right."
+    },
+    {
+      "start": 126.0,
+      "end": 129.0,
+      "text": "But mostly for reasons they don't understand why they're right."
+    },
+    {
+      "start": 129.0,
+      "end": 134.0,
+      "text": "And there's a bit of the, our friends Mike Eskin has the, what, the accidentally viral critical consensus"
+    },
+    {
+      "start": 134.0,
+      "end": 138.0,
+      "text": "where it just becomes the thing to have an opinion about something."
+    },
+    {
+      "start": 138.0,
+      "end": 141.0,
+      "text": "And the annoying thing about AVCC is number one."
+    },
+    {
+      "start": 141.0,
+      "end": 146.0,
+      "text": "I share spikes sort of desire to inherently push back against it."
+    },
+    {
+      "start": 146.0,
+      "end": 147.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 147.0,
+      "end": 149.0,
+      "text": "So that definitely fuels the tweet."
+    },
+    {
+      "start": 149.0,
+      "end": 155.0,
+      "text": "But the other part where AVCC gets super frustrating is when AVCC is right."
+    },
+    {
+      "start": 155.0,
+      "end": 160.0,
+      "text": "But, but people are just so on the bandwagon that it gets really annoying about it."
+    },
+    {
+      "start": 160.0,
+      "end": 161.0,
+      "text": "Okay."
+    },
+    {
+      "start": 161.0,
+      "end": 163.0,
+      "text": "Well, we'll dive into all of that in about an hour."
+    },
+    {
+      "start": 163.0,
+      "end": 166.0,
+      "text": "For now, we will begin with SpaceX."
+    },
+    {
+      "start": 166.0,
+      "end": 169.0,
+      "text": "You wrote a big SpaceX article on Wednesday."
+    },
+    {
+      "start": 169.0,
+      "end": 174.0,
+      "text": "It was really sort of an Elon ink article because there was a lot of good Tesla discussion in there as well."
+    },
+    {
+      "start": 174.0,
+      "end": 179.0,
+      "text": "But as to SpaceX and the impending IPO, I'll read from your article."
+    },
+    {
+      "start": 179.0,
+      "end": 190.0,
+      "text": "SpaceX is seeking a two trillion dollar valuation on a mere 18.6 billion dollars in revenue with 4.9 billion in losses last year."
+    },
+    {
+      "start": 190.0,
+      "end": 194.0,
+      "text": "Growth actually slowed from 35% to 33%."
+    },
+    {
+      "start": 194.0,
+      "end": 199.0,
+      "text": "That slowed down happened despite the addition of X AI and thus also X,"
+    },
+    {
+      "start": 199.0,
+      "end": 208.0,
+      "text": "which tipped the company from a small profit to that massive loss thanks to 5.1 billion dollars in AI R&D expense."
+    },
+    {
+      "start": 208.0,
+      "end": 213.0,
+      "text": "That R&D, keep in mind, went toward building a model that is in fifth place"
+    },
+    {
+      "start": 213.0,
+      "end": 217.0,
+      "text": "and whose entire founding team recently left the company."
+    },
+    {
+      "start": 217.0,
+      "end": 222.0,
+      "text": "But sure, 26.5 trillion dollar AI opportunity."
+    },
+    {
+      "start": 222.0,
+      "end": 230.0,
+      "text": "So alongside that note, you also wrote that the SpaceX IPO is an IPO worth supporting."
+    },
+    {
+      "start": 230.0,
+      "end": 231.0,
+      "text": "So tell me why."
+    },
+    {
+      "start": 231.0,
+      "end": 233.0,
+      "text": "Tell me how you're making sense of all of it."
+    },
+    {
+      "start": 233.0,
+      "end": 235.0,
+      "text": "Well, this is part two of Twitter being annoying."
+    },
+    {
+      "start": 235.0,
+      "end": 238.0,
+      "text": "Take Kim, who I quite enjoy."
+    },
+    {
+      "start": 238.0,
+      "end": 239.0,
+      "text": "Great file."
+    },
+    {
+      "start": 239.0,
+      "end": 240.0,
+      "text": "He has his own newsletter."
+    },
+    {
+      "start": 240.0,
+      "end": 241.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 241.0,
+      "end": 244.0,
+      "text": "He's a big and video guy wrote the book, the Nvidia way, which was a great read."
+    },
+    {
+      "start": 244.0,
+      "end": 247.0,
+      "text": "He clipped this paragraph and says, oh, I love that."
+    },
+    {
+      "start": 247.0,
+      "end": 248.0,
+      "text": "Thompson, he'll give it straight."
+    },
+    {
+      "start": 248.0,
+      "end": 257.0,
+      "text": "So what I ended up with was the reason that paragraph is in there was to upfront say this whole thing"
+    },
+    {
+      "start": 257.0,
+      "end": 260.0,
+      "text": "from a financial analyst perspective doesn't make sense."
+    },
+    {
+      "start": 260.0,
+      "end": 261.0,
+      "text": "Doesn't fully."
+    },
+    {
+      "start": 261.0,
+      "end": 262.0,
+      "text": "At the reason to talk."
+    },
+    {
+      "start": 262.0,
+      "end": 263.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 263.0,
+      "end": 264.0,
+      "text": "Right."
+    },
+    {
+      "start": 264.0,
+      "end": 267.0,
+      "text": "And so just in general, when it comes to anything Elon Musk related,"
+    },
+    {
+      "start": 267.0,
+      "end": 270.0,
+      "text": "I write about him like once every five years."
+    },
+    {
+      "start": 270.0,
+      "end": 274.0,
+      "text": "And the reason is because it's really annoying and impossible."
+    },
+    {
+      "start": 274.0,
+      "end": 277.0,
+      "text": "Like, why do I never cover Tesla earnings?"
+    },
+    {
+      "start": 277.0,
+      "end": 285.0,
+      "text": "Because Tesla all along is fueled by like promises and belief,"
+    },
+    {
+      "start": 285.0,
+      "end": 288.0,
+      "text": "especially of like retail investors coming soon."
+    },
+    {
+      "start": 288.0,
+      "end": 289.0,
+      "text": "Well, but you go."
+    },
+    {
+      "start": 289.0,
+      "end": 290.0,
+      "text": "It's going to be."
+    },
+    {
+      "start": 290.0,
+      "end": 291.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 291.0,
+      "end": 296.0,
+      "text": "Well, so so what I wrote and I wrote it's a Tesla in 2016 or something like that."
+    },
+    {
+      "start": 296.0,
+      "end": 303.0,
+      "text": "When the Model 3 was put on made available for pre order and like 300,000 people put down $1,000 in like 12 hours."
+    },
+    {
+      "start": 303.0,
+      "end": 309.0,
+      "text": "Like, like, which was remains pretty incredible for a car that, you know,"
+    },
+    {
+      "start": 309.0,
+      "end": 317.0,
+      "text": "and it was it spoke to the power of Elon Musk and the brand and and and why."
+    },
+    {
+      "start": 317.0,
+      "end": 318.0,
+      "text": "And I wrote another."
+    },
+    {
+      "start": 318.0,
+      "end": 319.0,
+      "text": "It's funny."
+    },
+    {
+      "start": 319.0,
+      "end": 320.0,
+      "text": "I do like the articles."
+    },
+    {
+      "start": 320.0,
+      "end": 321.0,
+      "text": "I don't need to write about Elon Musk."
+    },
+    {
+      "start": 322.0,
+      "end": 328.0,
+      "text": "I wrote another one a few years later, mistakes and memes about this this flip,"
+    },
+    {
+      "start": 328.0,
+      "end": 334.0,
+      "text": "where it used to be you go back to like the March on Washington, you know,"
+    },
+    {
+      "start": 334.0,
+      "end": 339.0,
+      "text": "very famous civil rights March, which entailed years of preparation,"
+    },
+    {
+      "start": 339.0,
+      "end": 344.0,
+      "text": "both in terms of seeing the political ground, but also organizationally."
+    },
+    {
+      "start": 344.0,
+      "end": 348.0,
+      "text": "And like that specific March, I think was like two years in the planning."
+    },
+    {
+      "start": 349.0,
+      "end": 354.0,
+      "text": "And it culminated in this sort of incredible moment, one of the most famous speeches in history,"
+    },
+    {
+      "start": 354.0,
+      "end": 357.0,
+      "text": "Martin Luther King's, I have a dream speech."
+    },
+    {
+      "start": 357.0,
+      "end": 361.0,
+      "text": "And that was how mass movements had they had to be built."
+    },
+    {
+      "start": 361.0,
+      "end": 362.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 362.0,
+      "end": 370.0,
+      "text": "You built them up and they they culminated in this massive spectacle on the national mall."
+    },
+    {
+      "start": 371.0,
+      "end": 373.0,
+      "text": "On the internet doesn't work that way."
+    },
+    {
+      "start": 373.0,
+      "end": 376.0,
+      "text": "Internet, you could spin up masses overnight."
+    },
+    {
+      "start": 376.0,
+      "end": 381.0,
+      "text": "And so I think I wrote mistakes and means in the context of like the whole game stop sort of thing."
+    },
+    {
+      "start": 381.0,
+      "end": 383.0,
+      "text": "But there's been other things like the color protests."
+    },
+    {
+      "start": 383.0,
+      "end": 392.0,
+      "text": "And there and there was a sense that why is it we get these huge movements and nothing happens."
+    },
+    {
+      "start": 392.0,
+      "end": 395.0,
+      "text": "And it's because this whole process has been inverted."
+    },
+    {
+      "start": 395.0,
+      "end": 399.0,
+      "text": "You can spin up a mass movement on social media."
+    },
+    {
+      "start": 399.0,
+      "end": 405.0,
+      "text": "But if you didn't put in the years of building the infrastructure around that movement,"
+    },
+    {
+      "start": 405.0,
+      "end": 410.0,
+      "text": "then it just sort of sputters out and everyone forgets about it."
+    },
+    {
+      "start": 410.0,
+      "end": 412.0,
+      "text": "However."
+    },
+    {
+      "start": 412.0,
+      "end": 416.0,
+      "text": "And this is where I tied Musk into that article."
+    },
+    {
+      "start": 416.0,
+      "end": 418.0,
+      "text": "What makes him unique?"
+    },
+    {
+      "start": 418.0,
+      "end": 420.0,
+      "text": "There's a lot of things that Ian Musk unique."
+    },
+    {
+      "start": 420.0,
+      "end": 422.0,
+      "text": "And by unique, you can be good and it can be bad."
+    },
+    {
+      "start": 422.0,
+      "end": 423.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 423.0,
+      "end": 424.0,
+      "text": "But no question is unique."
+    },
+    {
+      "start": 424.0,
+      "end": 433.0,
+      "text": "Is the extent to which there's a bit of jobs in sort of reality distortion field."
+    },
+    {
+      "start": 433.0,
+      "end": 440.0,
+      "text": "But Musk has like nuclearized that sort of capability where you leverage the masses"
+    },
+    {
+      "start": 440.0,
+      "end": 448.0,
+      "text": "to achieve the means by which you build the structure that spun up the masses in the first place."
+    },
+    {
+      "start": 448.0,
+      "end": 452.0,
+      "text": "And the Tesla stock has always been the best story of this."
+    },
+    {
+      "start": 452.0,
+      "end": 456.0,
+      "text": "I have not read about Tesla earnings because any sort of breakdown,"
+    },
+    {
+      "start": 456.0,
+      "end": 460.0,
+      "text": "even once they achieve success, honestly, the stock went to the moon."
+    },
+    {
+      "start": 460.0,
+      "end": 466.0,
+      "text": "It was still if you actually sketch out their profits and losses and structural value."
+    },
+    {
+      "start": 466.0,
+      "end": 467.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 467.0,
+      "end": 469.0,
+      "text": "It doesn't really make sense."
+    },
+    {
+      "start": 469.0,
+      "end": 475.0,
+      "text": "But at some point, and people on Wall Street have been writing TSLA stock does not make"
+    },
+    {
+      "start": 475.0,
+      "end": 476.0,
+      "text": "10 years."
+    },
+    {
+      "start": 476.0,
+      "end": 477.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 477.0,
+      "end": 482.0,
+      "text": "And they look dumb, though, because the stock that like they lost their shirts when the Model 3 worked"
+    },
+    {
+      "start": 482.0,
+      "end": 486.0,
+      "text": "and the Model Y worked and the stock went to the moon."
+    },
+    {
+      "start": 486.0,
+      "end": 489.0,
+      "text": "But like the stock was just because it went to the moon."
+    },
+    {
+      "start": 489.0,
+      "end": 493.0,
+      "text": "It's like, wait, if it had stayed where it was, then it actually made sense."
+    },
+    {
+      "start": 493.0,
+      "end": 499.0,
+      "text": "But the crazy thing about the Tesla stock that always amazed me."
+    },
+    {
+      "start": 499.0,
+      "end": 505.0,
+      "text": "And I'm sure this is the thinking for SpaceX going public is they would do a stock"
+    },
+    {
+      "start": 505.0,
+      "end": 508.0,
+      "text": "issuance to get more money."
+    },
+    {
+      "start": 508.0,
+      "end": 513.0,
+      "text": "Now, if you issue more stock, you're diluting the stock that's in the market."
+    },
+    {
+      "start": 514.0,
+      "end": 518.0,
+      "text": "Like the fundamental value of the company, if the company's worth $1,000 and you have"
+    },
+    {
+      "start": 518.0,
+      "end": 525.0,
+      "text": "10 shares worth $100, if you issue 10 more shares, nothing has changed about the quality"
+    },
+    {
+      "start": 525.0,
+      "end": 526.0,
+      "text": "of the company."
+    },
+    {
+      "start": 526.0,
+      "end": 528.0,
+      "text": "So the shares should go down to $50."
+    },
+    {
+      "start": 528.0,
+      "end": 529.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 529.0,
+      "end": 530.0,
+      "text": "You mentioned this last week."
+    },
+    {
+      "start": 530.0,
+      "end": 534.0,
+      "text": "Tesla would issue shares and the stock price would go up."
+    },
+    {
+      "start": 534.0,
+      "end": 539.0,
+      "text": "And so it's like, you know, go for a ride with Elon, see where you end up."
+    },
+    {
+      "start": 539.0,
+      "end": 540.0,
+      "text": "Right."
+    },
+    {
+      "start": 540.0,
+      "end": 542.0,
+      "text": "Yes, he's investing more money in the company."
+    },
+    {
+      "start": 542.0,
+      "end": 545.0,
+      "text": "We're going to achieve our dreams, achieve our goals."
+    },
+    {
+      "start": 545.0,
+      "end": 548.0,
+      "text": "And it's easy to sit around and mock this."
+    },
+    {
+      "start": 548.0,
+      "end": 553.0,
+      "text": "And like, look at these rooms being led astray by Elon."
+    },
+    {
+      "start": 553.0,
+      "end": 556.0,
+      "text": "And you're seeing a lot of it with the SpaceX thing, right?"
+    },
+    {
+      "start": 556.0,
+      "end": 561.0,
+      "text": "Look, I can't believe these idiots are going to invest in this company with these numbers."
+    },
+    {
+      "start": 561.0,
+      "end": 569.0,
+      "text": "And that's why this paragraph was there in a mocking tone to reflect sort of that reality."
+    },
+    {
+      "start": 569.0,
+      "end": 578.0,
+      "text": "But the what Musk is doing and has done again and again is sell people on a dream such"
+    },
+    {
+      "start": 578.0,
+      "end": 581.0,
+      "text": "that they will put money into the dream."
+    },
+    {
+      "start": 581.0,
+      "end": 584.0,
+      "text": "And that's the means by which he goes and pursues the dream."
+    },
+    {
+      "start": 584.0,
+      "end": 585.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 585.0,
+      "end": 587.0,
+      "text": "Like he's he's flipped over the process."
+    },
+    {
+      "start": 587.0,
+      "end": 593.0,
+      "text": "He creates movements to fund infrastructure instead of infrastructure building to a movement."
+    },
+    {
+      "start": 593.0,
+      "end": 596.0,
+      "text": "It's a complete inversion of the way things used to work."
+    },
+    {
+      "start": 596.0,
+      "end": 601.0,
+      "text": "The master of retail in that way, the master of the internet of means."
+    },
+    {
+      "start": 601.0,
+      "end": 605.0,
+      "text": "Like like tests like SpaceX is the new meme, meme stock."
+    },
+    {
+      "start": 605.0,
+      "end": 608.0,
+      "text": "Like that's just going to be, that's going to be the case."
+    },
+    {
+      "start": 608.0,
+      "end": 614.0,
+      "text": "And so the question then, if you accept that as this is what happens,"
+    },
+    {
+      "start": 614.0,
+      "end": 617.0,
+      "text": "it seems irrational, but this is what happens."
+    },
+    {
+      "start": 617.0,
+      "end": 623.0,
+      "text": "Is there a path to build terms of what he's probably say that's actually going to make a ton of money"
+    },
+    {
+      "start": 623.0,
+      "end": 627.0,
+      "text": "to justify any sort of valuation like backwards justified."
+    },
+    {
+      "start": 627.0,
+      "end": 631.0,
+      "text": "So you look at all the idiots who are like buying unbelievably expensive Tesla stock"
+    },
+    {
+      "start": 631.0,
+      "end": 635.0,
+      "text": "and doubling down when they were issuing more, like they all made a lot of money."
+    },
+    {
+      "start": 635.0,
+      "end": 636.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 636.0,
+      "end": 639.0,
+      "text": "At the end of the day, like all the people who are pointing out there was dumb."
+    },
+    {
+      "start": 639.0,
+      "end": 643.0,
+      "text": "And by the way, I will just know that my best friend is a money manager."
+    },
+    {
+      "start": 643.0,
+      "end": 645.0,
+      "text": "He manages my wife's money."
+    },
+    {
+      "start": 645.0,
+      "end": 650.0,
+      "text": "I've mentioned in the past, my wife has Tesla stock for literally eight years."
+    },
+    {
+      "start": 650.0,
+      "end": 657.0,
+      "text": "My friend Ed has been coming to me and being like the fundamentals just don't make sense with Tesla."
+    },
+    {
+      "start": 657.0,
+      "end": 658.0,
+      "text": "You need to get out."
+    },
+    {
+      "start": 658.0,
+      "end": 660.0,
+      "text": "And Alice will always say no."
+    },
+    {
+      "start": 660.0,
+      "end": 663.0,
+      "text": "And the fundamentals still don't really make sense with Tesla."
+    },
+    {
+      "start": 663.0,
+      "end": 668.0,
+      "text": "When you look at the multiple and the valuation and like the cyber cap stuff,"
+    },
+    {
+      "start": 668.0,
+      "end": 671.0,
+      "text": "you know, it is definitely a real possibility."
+    },
+    {
+      "start": 671.0,
+      "end": 677.0,
+      "text": "And on the SpaceX front, I mean, there are real things that they have working in their favor."
+    },
+    {
+      "start": 677.0,
+      "end": 682.0,
+      "text": "They got a $45 billion contract for compute with Anthropic over the next three years."
+    },
+    {
+      "start": 682.0,
+      "end": 687.0,
+      "text": "Either side can walk away from that deal with 90 days notice, which is pretty interesting."
+    },
+    {
+      "start": 687.0,
+      "end": 690.0,
+      "text": "But Anthropic definitely needs the compute right now."
+    },
+    {
+      "start": 690.0,
+      "end": 696.0,
+      "text": "So like the AI infrastructure business alone is real and should grow for them."
+    },
+    {
+      "start": 696.0,
+      "end": 701.0,
+      "text": "But what I love and I do, I should have acknowledged, I do like, and I said this before,"
+    },
+    {
+      "start": 701.0,
+      "end": 705.0,
+      "text": "like basically I think the way I'm interpreting it is,"
+    },
+    {
+      "start": 705.0,
+      "end": 709.0,
+      "text": "XAI's new team is basically cursor, which I think is quite interesting."
+    },
+    {
+      "start": 709.0,
+      "end": 712.0,
+      "text": "Because cursor needs compute."
+    },
+    {
+      "start": 712.0,
+      "end": 714.0,
+      "text": "They need to build their own models."
+    },
+    {
+      "start": 714.0,
+      "end": 718.0,
+      "text": "It's not a viable business that they have to be their ultimate model is throwing out to Anthropic"
+    },
+    {
+      "start": 718.0,
+      "end": 721.0,
+      "text": "or opening out or whatever it might be."
+    },
+    {
+      "start": 721.0,
+      "end": 723.0,
+      "text": "But they also have lots of interesting data."
+    },
+    {
+      "start": 723.0,
+      "end": 727.0,
+      "text": "They have a very good enterprise business that's still growing."
+    },
+    {
+      "start": 727.0,
+      "end": 729.0,
+      "text": "And if it's important to be really good at coding,"
+    },
+    {
+      "start": 729.0,
+      "end": 732.0,
+      "text": "it's hard to imagine sort of a better place to start."
+    },
+    {
+      "start": 732.0,
+      "end": 736.0,
+      "text": "So I don't even hate where XAI is in that regard."
+    },
+    {
+      "start": 736.0,
+      "end": 743.0,
+      "text": "You know, I almost certainly that deal was structured because you can't do a $50 billion acquisition"
+    },
+    {
+      "start": 743.0,
+      "end": 745.0,
+      "text": "like as your S1's already filed."
+    },
+    {
+      "start": 745.0,
+      "end": 749.0,
+      "text": "So I don't hate where that's going either."
+    },
+    {
+      "start": 749.0,
+      "end": 752.0,
+      "text": "And I probably should have given more sort of credence to it."
+    },
+    {
+      "start": 752.0,
+      "end": 756.0,
+      "text": "But I wanted to write about space data centers and I wanted to sort of acknowledge."
+    },
+    {
+      "start": 756.0,
+      "end": 758.0,
+      "text": "Like, but I think this framework is actually important."
+    },
+    {
+      "start": 758.0,
+      "end": 764.0,
+      "text": "It's important to understand the Elon framework, which is not conducive to your friend Ed."
+    },
+    {
+      "start": 764.0,
+      "end": 765.0,
+      "text": "Exactly."
+    },
+    {
+      "start": 765.0,
+      "end": 767.0,
+      "text": "Well, but it has been, I mean, look,"
+    },
+    {
+      "start": 767.0,
+      "end": 772.0,
+      "text": "the odds of starting a new car company 15 years ago or 20 years ago,"
+    },
+    {
+      "start": 772.0,
+      "end": 775.0,
+      "text": "whenever Tesla started and actually succeeding,"
+    },
+    {
+      "start": 775.0,
+      "end": 778.0,
+      "text": "literally has not been done in 100 years."
+    },
+    {
+      "start": 778.0,
+      "end": 779.0,
+      "text": "It's been 100 years."
+    },
+    {
+      "start": 779.0,
+      "end": 780.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 780.0,
+      "end": 783.0,
+      "text": "So clearly something he's doing is working."
+    },
+    {
+      "start": 783.0,
+      "end": 786.0,
+      "text": "And I just appreciate any company that is IPOing."
+    },
+    {
+      "start": 786.0,
+      "end": 791.0,
+      "text": "I feel like I came to Sharp Tech in the post IPO era and you know,"
+    },
+    {
+      "start": 791.0,
+      "end": 793.0,
+      "text": "half the companies we talk about are private companies."
+    },
+    {
+      "start": 793.0,
+      "end": 797.0,
+      "text": "So I'm excited to open up the balance sheets and have some fun."
+    },
+    {
+      "start": 797.0,
+      "end": 798.0,
+      "text": "First of all."
+    },
+    {
+      "start": 798.0,
+      "end": 799.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 799.0,
+      "end": 801.0,
+      "text": "Well, this part of why the IPO is we're supporting."
+    },
+    {
+      "start": 801.0,
+      "end": 802.0,
+      "text": "Number one."
+    },
+    {
+      "start": 802.0,
+      "end": 803.0,
+      "text": "Just in general."
+    },
+    {
+      "start": 803.0,
+      "end": 804.0,
+      "text": "Look."
+    },
+    {
+      "start": 804.0,
+      "end": 806.0,
+      "text": "I'm not going to defend."
+    },
+    {
+      "start": 806.0,
+      "end": 810.0,
+      "text": "This is not a defensive Elon Musk, like up and down left and right."
+    },
+    {
+      "start": 810.0,
+      "end": 811.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 811.0,
+      "end": 813.0,
+      "text": "You get a bit where both sides go too far."
+    },
+    {
+      "start": 813.0,
+      "end": 816.0,
+      "text": "So on one hand again, this is why I come back to that tweet."
+    },
+    {
+      "start": 816.0,
+      "end": 820.0,
+      "text": "I just had tons of Elon bro's in my mentions."
+    },
+    {
+      "start": 820.0,
+      "end": 821.0,
+      "text": "Like going off on you."
+    },
+    {
+      "start": 821.0,
+      "end": 824.0,
+      "text": "You clearly didn't read the article right?"
+    },
+    {
+      "start": 824.0,
+      "end": 825.0,
+      "text": "Right."
+    },
+    {
+      "start": 825.0,
+      "end": 827.0,
+      "text": "They were just attacking that one screenshot."
+    },
+    {
+      "start": 827.0,
+      "end": 829.0,
+      "text": "And they're like listing all these things like whatever."
+    },
+    {
+      "start": 829.0,
+      "end": 832.0,
+      "text": "Your article was like pretty positive."
+    },
+    {
+      "start": 832.0,
+      "end": 834.0,
+      "text": "All things considered on what's possible."
+    },
+    {
+      "start": 834.0,
+      "end": 835.0,
+      "text": "But it widely got it."
+    },
+    {
+      "start": 835.0,
+      "end": 837.0,
+      "text": "It's over on Twitter as very negative."
+    },
+    {
+      "start": 837.0,
+      "end": 838.0,
+      "text": "Which is like, like, it's funny."
+    },
+    {
+      "start": 838.0,
+      "end": 840.0,
+      "text": "I was worried about like I'm coming across as, like,"
+    },
+    {
+      "start": 840.0,
+      "end": 843.52,
+      "text": "across as like way too much of a believer."
+    },
+    {
+      "start": 843.52,
+      "end": 846.28,
+      "text": "And so I need to like shield myself and like be like,"
+    },
+    {
+      "start": 846.28,
+      "end": 847.76,
+      "text": "look, this is all kind of ridiculous."
+    },
+    {
+      "start": 847.76,
+      "end": 848.76,
+      "text": "It doesn't make sense."
+    },
+    {
+      "start": 848.76,
+      "end": 850.72,
+      "text": "And of course, that's the part that Tony got anchored on."
+    },
+    {
+      "start": 850.72,
+      "end": 852.52,
+      "text": "Like there is, this is why I don't write what he wants."
+    },
+    {
+      "start": 852.52,
+      "end": 853.52,
+      "text": "There's no winning."
+    },
+    {
+      "start": 853.52,
+      "end": 855.32,
+      "text": "Both sides got mad."
+    },
+    {
+      "start": 855.32,
+      "end": 856.72,
+      "text": "So whatever."
+    },
+    {
+      "start": 856.72,
+      "end": 861.72,
+      "text": "But yeah, but to the Ewan point, look, Tesla exists."
+    },
+    {
+      "start": 862.24,
+      "end": 864.48,
+      "text": "The self-driving is amazing."
+    },
+    {
+      "start": 864.48,
+      "end": 868.0,
+      "text": "Is it fair questions, is it ever gonna get to fully autonomous"
+    },
+    {
+      "start": 868.0,
+      "end": 869.28,
+      "text": "with doing vision only?"
+    },
+    {
+      "start": 869.48,
+      "end": 871.56,
+      "text": "Like we've litigated that."
+    },
+    {
+      "start": 871.56,
+      "end": 872.9599999999999,
+      "text": "It's still an open question."
+    },
+    {
+      "start": 872.9599999999999,
+      "end": 874.72,
+      "text": "As it is, it goes door to door"
+    },
+    {
+      "start": 874.72,
+      "end": 875.92,
+      "text": "and you don't have to stir steering wheel"
+    },
+    {
+      "start": 875.92,
+      "end": 876.8399999999999,
+      "text": "and it doesn't reliably."
+    },
+    {
+      "start": 876.8399999999999,
+      "end": 877.72,
+      "text": "It's amazing."
+    },
+    {
+      "start": 877.72,
+      "end": 882.76,
+      "text": "Like anyone who, everyone needs to have experienced it"
+    },
+    {
+      "start": 882.76,
+      "end": 885.24,
+      "text": "at least once, you owe it to yourself"
+    },
+    {
+      "start": 885.24,
+      "end": 888.9599999999999,
+      "text": "just to like appreciate how good it is."
+    },
+    {
+      "start": 888.9599999999999,
+      "end": 893.9599999999999,
+      "text": "And so that exists, rocket boosters do land on ships routinely."
+    },
+    {
+      "start": 895.16,
+      "end": 896.3199999999999,
+      "text": "It happens every week."
+    },
+    {
+      "start": 896.3199999999999,
+      "end": 899.0,
+      "text": "Multiple times a week, it's not even a news story."
+    },
+    {
+      "start": 899.84,
+      "end": 900.68,
+      "text": "Starlink exists."
+    },
+    {
+      "start": 900.68,
+      "end": 904.16,
+      "text": "Starship, we'll see, I mean, starship is kind of,"
+    },
+    {
+      "start": 904.16,
+      "end": 907.96,
+      "text": "it is, it's taking a long time."
+    },
+    {
+      "start": 907.96,
+      "end": 910.2,
+      "text": "They're spending a lot of money on this."
+    },
+    {
+      "start": 910.2,
+      "end": 912.72,
+      "text": "It's definitely, I think, been much more difficult"
+    },
+    {
+      "start": 912.72,
+      "end": 913.56,
+      "text": "than they think."
+    },
+    {
+      "start": 913.56,
+      "end": 916.16,
+      "text": "And I've given the case for iteration,"
+    },
+    {
+      "start": 916.16,
+      "end": 918.32,
+      "text": "getting on the limit, finding exactly where it is,"
+    },
+    {
+      "start": 918.32,
+      "end": 919.6,
+      "text": "stuff should blow up."
+    },
+    {
+      "start": 919.6,
+      "end": 922.96,
+      "text": "There, like there's a reason the risk factors the S1,"
+    },
+    {
+      "start": 922.96,
+      "end": 924.68,
+      "text": "it starts immediately with starship"
+    },
+    {
+      "start": 924.68,
+      "end": 926.56,
+      "text": "and it's like multiple pages long"
+    },
+    {
+      "start": 926.6,
+      "end": 928.7600000000001,
+      "text": "because all this stuff depends on getting"
+    },
+    {
+      "start": 928.7600000000001,
+      "end": 930.6,
+      "text": "that sort of capacity into space."
+    },
+    {
+      "start": 930.6,
+      "end": 932.9200000000001,
+      "text": "And 2334, they kept something with chopsticks"
+    },
+    {
+      "start": 932.9200000000001,
+      "end": 934.44,
+      "text": "like, oh, they're almost there, they're gonna get it."
+    },
+    {
+      "start": 934.44,
+      "end": 936.08,
+      "text": "It's been two and a half years, right?"
+    },
+    {
+      "start": 936.08,
+      "end": 937.8800000000001,
+      "text": "Like the, or two years I should say."
+    },
+    {
+      "start": 937.8800000000001,
+      "end": 940.36,
+      "text": "So it's a real risk factor."
+    },
+    {
+      "start": 940.36,
+      "end": 944.6800000000001,
+      "text": "But number one, like Musk has earned,"
+    },
+    {
+      "start": 944.6800000000001,
+      "end": 948.1600000000001,
+      "text": "like, and Musk IPOs are by and large good for society."
+    },
+    {
+      "start": 948.1600000000001,
+      "end": 950.5600000000001,
+      "text": "I think it's like number, like that's been sort of shown."
+    },
+    {
+      "start": 950.5600000000001,
+      "end": 955.5600000000001,
+      "text": "Number one, number two, their ambitions are so large"
+    },
+    {
+      "start": 955.7600000000001,
+      "end": 959.6400000000001,
+      "text": "and the commensurate risk factors are so high,"
+    },
+    {
+      "start": 959.6400000000001,
+      "end": 962.24,
+      "text": "people talk about like, oh, you know,"
+    },
+    {
+      "start": 962.24,
+      "end": 964.24,
+      "text": "it's not fair that retail investors"
+    },
+    {
+      "start": 964.24,
+      "end": 966.5600000000001,
+      "text": "don't get a chance to get into startups"
+    },
+    {
+      "start": 966.5600000000001,
+      "end": 969.24,
+      "text": "and all they do is sort of like catch stuff at the end."
+    },
+    {
+      "start": 969.24,
+      "end": 971.08,
+      "text": "It's like, well, you want to be a VC, here's your chance."
+    },
+    {
+      "start": 971.08,
+      "end": 971.9200000000001,
+      "text": "Yeah."
+    },
+    {
+      "start": 971.9200000000001,
+      "end": 975.5200000000001,
+      "text": "And by the way, being a VC means you lose all your money."
+    },
+    {
+      "start": 975.5200000000001,
+      "end": 976.36,
+      "text": "But that's great."
+    },
+    {
+      "start": 976.36,
+      "end": 978.6800000000001,
+      "text": "I think it's great that that opportunity exists."
+    },
+    {
+      "start": 978.6800000000001,
+      "end": 981.8800000000001,
+      "text": "So I'll be aware, this is not stock advice."
+    },
+    {
+      "start": 981.88,
+      "end": 985.84,
+      "text": "I don't invest my stock directly if I did."
+    },
+    {
+      "start": 985.84,
+      "end": 988.2,
+      "text": "Probably not for me because there's a bit"
+    },
+    {
+      "start": 988.2,
+      "end": 990.4399999999999,
+      "text": "where I'm like, oh, it looks pretty open."
+    },
+    {
+      "start": 990.4399999999999,
+      "end": 994.32,
+      "text": "I'm valued right now, I see IPOs, but who knows?"
+    },
+    {
+      "start": 994.32,
+      "end": 996.12,
+      "text": "I don't know, maybe I'd probably get a few shares"
+    },
+    {
+      "start": 996.12,
+      "end": 998.12,
+      "text": "just because like, hey, we might pull it off."
+    },
+    {
+      "start": 998.12,
+      "end": 1000.92,
+      "text": "But I'm glad it exists."
+    },
+    {
+      "start": 1000.92,
+      "end": 1002.64,
+      "text": "And I agree."
+    },
+    {
+      "start": 1002.64,
+      "end": 1004.16,
+      "text": "Well, what I love about SpaceX"
+    },
+    {
+      "start": 1004.16,
+      "end": 1005.56,
+      "text": "is it's not a software company."
+    },
+    {
+      "start": 1005.56,
+      "end": 1007.8,
+      "text": "Like they're building real infrastructure"
+    },
+    {
+      "start": 1007.8,
+      "end": 1010.2,
+      "text": "that actually matters and could change the way"
+    },
+    {
+      "start": 1010.2,
+      "end": 1011.76,
+      "text": "we live in a variety of ways."
+    },
+    {
+      "start": 1011.76,
+      "end": 1014.28,
+      "text": "Like they've already changed national security"
+    },
+    {
+      "start": 1014.28,
+      "end": 1017.28,
+      "text": "in some very positive ways, delivering internet"
+    },
+    {
+      "start": 1017.28,
+      "end": 1020.6,
+      "text": "in new ways, building out data centers faster than anyone"
+    },
+    {
+      "start": 1020.6,
+      "end": 1022.84,
+      "text": "on earth, at least in this country."
+    },
+    {
+      "start": 1022.84,
+      "end": 1024.16,
+      "text": "Maybe going to Mars?"
+    },
+    {
+      "start": 1024.16,
+      "end": 1025.0,
+      "text": "I don't know."
+    },
+    {
+      "start": 1025.0,
+      "end": 1026.48,
+      "text": "I don't know if we'll get to Mars."
+    },
+    {
+      "start": 1026.48,
+      "end": 1029.76,
+      "text": "But I support the ambitions in the physical world."
+    },
+    {
+      "start": 1029.76,
+      "end": 1030.8799999999999,
+      "text": "I think that's pretty cool."
+    },
+    {
+      "start": 1030.8799999999999,
+      "end": 1033.36,
+      "text": "So we'll see what it turns into."
+    },
+    {
+      "start": 1033.36,
+      "end": 1035.64,
+      "text": "Speaking of the physical world though, Justin says,"
+    },
+    {
+      "start": 1035.64,
+      "end": 1038.24,
+      "text": "before we go to space for data centers,"
+    },
+    {
+      "start": 1038.24,
+      "end": 1040.58,
+      "text": "aren't there uglier, but more plausible,"
+    },
+    {
+      "start": 1040.58,
+      "end": 1044.06,
+      "text": "terrestrial or near terrestrial escape hatches?"
+    },
+    {
+      "start": 1044.06,
+      "end": 1045.8999999999999,
+      "text": "For example, modular data centers"
+    },
+    {
+      "start": 1045.8999999999999,
+      "end": 1048.26,
+      "text": "attached to offshore oil platforms"
+    },
+    {
+      "start": 1048.26,
+      "end": 1051.62,
+      "text": "or other stranded energy sites powered by gas"
+    },
+    {
+      "start": 1051.62,
+      "end": 1053.6999999999998,
+      "text": "that might otherwise be flared"
+    },
+    {
+      "start": 1053.6999999999998,
+      "end": 1056.8999999999999,
+      "text": "with existing industrial maintenance infrastructure,"
+    },
+    {
+      "start": 1056.8999999999999,
+      "end": 1060.5,
+      "text": "fiber slash backhaul and the ocean as a heat sink"
+    },
+    {
+      "start": 1060.5,
+      "end": 1061.82,
+      "text": "lot going on there."
+    },
+    {
+      "start": 1061.82,
+      "end": 1064.3,
+      "text": "Obviously, marine environments are brutal"
+    },
+    {
+      "start": 1064.3,
+      "end": 1066.3799999999999,
+      "text": "and maintenance would still be a nightmare."
+    },
+    {
+      "start": 1066.3799999999999,
+      "end": 1068.6599999999999,
+      "text": "But that seems dramatically more tractable"
+    },
+    {
+      "start": 1068.66,
+      "end": 1071.38,
+      "text": "than launching disposable rack satellites"
+    },
+    {
+      "start": 1071.38,
+      "end": 1074.66,
+      "text": "and accepting orbital hardware depreciation."
+    },
+    {
+      "start": 1074.66,
+      "end": 1077.18,
+      "text": "My question is, if the core stick"
+    },
+    {
+      "start": 1077.18,
+      "end": 1080.5800000000002,
+      "text": "is terrestrial power and zoning opposition,"
+    },
+    {
+      "start": 1080.5800000000002,
+      "end": 1082.38,
+      "text": "why shouldn't we expect the industry"
+    },
+    {
+      "start": 1082.38,
+      "end": 1085.22,
+      "text": "to exhaust every conceivable alternative"
+    },
+    {
+      "start": 1085.22,
+      "end": 1088.1000000000001,
+      "text": "before orbital data centers pencil out?"
+    },
+    {
+      "start": 1088.1000000000001,
+      "end": 1089.8200000000002,
+      "text": "I'm very pro space industry,"
+    },
+    {
+      "start": 1089.8200000000002,
+      "end": 1092.78,
+      "text": "and I'd love billionaires to subsidize"
+    },
+    {
+      "start": 1092.78,
+      "end": 1095.1000000000001,
+      "text": "orbital industrial capability."
+    },
+    {
+      "start": 1095.1000000000001,
+      "end": 1098.14,
+      "text": "I'm just struggling to see why earth side ugly solutions"
+    },
+    {
+      "start": 1098.14,
+      "end": 1102.8600000000001,
+      "text": "don't dominate space compute economically for a long time."
+    },
+    {
+      "start": 1102.8600000000001,
+      "end": 1104.3000000000002,
+      "text": "What do you think, Ben?"
+    },
+    {
+      "start": 1104.3000000000002,
+      "end": 1107.0600000000002,
+      "text": "So this is totally valid pushback."
+    },
+    {
+      "start": 1107.0600000000002,
+      "end": 1109.1000000000001,
+      "text": "So in fact, a lot of the pushback"
+    },
+    {
+      "start": 1109.1000000000001,
+      "end": 1110.9,
+      "text": "we're gonna go through is valid."
+    },
+    {
+      "start": 1110.9,
+      "end": 1113.8200000000002,
+      "text": "And there is a bit where for SpaceX specifically,"
+    },
+    {
+      "start": 1113.8200000000002,
+      "end": 1116.0200000000002,
+      "text": "there is a, you have a hammer,"
+    },
+    {
+      "start": 1116.0200000000002,
+      "end": 1117.7800000000002,
+      "text": "what's the biggest nail I can find?"
+    },
+    {
+      "start": 1117.7800000000002,
+      "end": 1118.6200000000001,
+      "text": "Yeah, right?"
+    },
+    {
+      "start": 1118.6200000000001,
+      "end": 1120.42,
+      "text": "So there was on tech mean or today"
+    },
+    {
+      "start": 1120.42,
+      "end": 1122.3000000000002,
+      "text": "or there's an article from the information"
+    },
+    {
+      "start": 1122.3000000000002,
+      "end": 1125.94,
+      "text": "about Apple is going to tout how their own chips"
+    },
+    {
+      "start": 1125.94,
+      "end": 1127.8600000000001,
+      "text": "gives them an advantage in AI."
+    },
+    {
+      "start": 1127.8600000000001,
+      "end": 1130.9,
+      "text": "Like did Apple develop their chips"
+    },
+    {
+      "start": 1130.9,
+      "end": 1133.1000000000001,
+      "text": "to give them an advantage in AI?"
+    },
+    {
+      "start": 1133.1000000000001,
+      "end": 1135.1000000000001,
+      "text": "Or are they casting about"
+    },
+    {
+      "start": 1135.1000000000001,
+      "end": 1137.3400000000001,
+      "text": "and retrofitting their advantages"
+    },
+    {
+      "start": 1137.3400000000001,
+      "end": 1140.5800000000002,
+      "text": "to tell a story about how they have an advantage in AI?"
+    },
+    {
+      "start": 1140.5800000000002,
+      "end": 1143.3400000000001,
+      "text": "Now, that's also definitely true."
+    },
+    {
+      "start": 1143.3400000000001,
+      "end": 1145.8200000000002,
+      "text": "And it also might be true"
+    },
+    {
+      "start": 1145.8200000000002,
+      "end": 1148.22,
+      "text": "that they do have an advantage in AI"
+    },
+    {
+      "start": 1148.22,
+      "end": 1149.18,
+      "text": "because of their chips."
+    },
+    {
+      "start": 1149.18,
+      "end": 1151.6200000000001,
+      "text": "Like all these things can be true at the same time."
+    },
+    {
+      "start": 1151.6200000000001,
+      "end": 1153.14,
+      "text": "This definitely applies to SpaceX."
+    },
+    {
+      "start": 1153.14,
+      "end": 1156.38,
+      "text": "SpaceX was not created to put data centers in space."
+    },
+    {
+      "start": 1156.38,
+      "end": 1157.5800000000002,
+      "text": "Yeah, right?"
+    },
+    {
+      "start": 1157.5800000000002,
+      "end": 1161.6200000000001,
+      "text": "And like, so there is a certain retrofitting of mission."
+    },
+    {
+      "start": 1161.6200000000001,
+      "end": 1166.7,
+      "text": "And there's a bit where AI is arguably rescuing"
+    },
+    {
+      "start": 1166.7,
+      "end": 1170.14,
+      "text": "the SpaceX economic case by virtue"
+    },
+    {
+      "start": 1170.14,
+      "end": 1172.94,
+      "text": "of delivering this theoretical market"
+    },
+    {
+      "start": 1172.94,
+      "end": 1175.8200000000002,
+      "text": "that is so large that they didn't plan for it"
+    },
+    {
+      "start": 1175.8200000000002,
+      "end": 1177.7,
+      "text": "but it happened to come along at the right time."
+    },
+    {
+      "start": 1177.7,
+      "end": 1180.3000000000002,
+      "text": "And so all these arguments about space."
+    },
+    {
+      "start": 1180.3000000000002,
+      "end": 1181.5,
+      "text": "Opportunity right there."
+    },
+    {
+      "start": 1181.5,
+      "end": 1183.7,
+      "text": "SpaceX is making the argument for data centers in space"
+    },
+    {
+      "start": 1183.7,
+      "end": 1185.9,
+      "text": "because they're a space company, right?"
+    },
+    {
+      "start": 1185.9,
+      "end": 1188.98,
+      "text": "So totally valid response."
+    },
+    {
+      "start": 1188.98,
+      "end": 1193.74,
+      "text": "Now, the pushback to Justin and the reason why"
+    },
+    {
+      "start": 1193.74,
+      "end": 1198.06,
+      "text": "I am fairly optimistic about data centers in space"
+    },
+    {
+      "start": 1198.06,
+      "end": 1201.26,
+      "text": "is like you already said there's a lot going on here."
+    },
+    {
+      "start": 1201.26,
+      "end": 1204.38,
+      "text": "Like now, number one, I absolutely think"
+    },
+    {
+      "start": 1204.38,
+      "end": 1206.34,
+      "text": "there will be things like this."
+    },
+    {
+      "start": 1206.34,
+      "end": 1208.7,
+      "text": "Maximizing everywhere we can find energy."
+    },
+    {
+      "start": 1208.7,
+      "end": 1209.78,
+      "text": "And by the way, in the meantime,"
+    },
+    {
+      "start": 1209.78,
+      "end": 1211.58,
+      "text": "there's still a lot of places to build data centers,"
+    },
+    {
+      "start": 1211.58,
+      "end": 1214.1,
+      "text": "particularly in places like West Texas to his point."
+    },
+    {
+      "start": 1214.1,
+      "end": 1216.5,
+      "text": "There's been about, they actually have more natural gas"
+    },
+    {
+      "start": 1216.5,
+      "end": 1217.58,
+      "text": "than they know what to do"
+    },
+    {
+      "start": 1217.58,
+      "end": 1220.02,
+      "text": "because it's a byproduct of extracting oil."
+    },
+    {
+      "start": 1220.02,
+      "end": 1222.3799999999999,
+      "text": "And yeah, they literally just set it on fire, right?"
+    },
+    {
+      "start": 1222.3799999999999,
+      "end": 1223.54,
+      "text": "Because they can't get rid of it."
+    },
+    {
+      "start": 1223.54,
+      "end": 1226.8999999999999,
+      "text": "So it's actually a net positive."
+    },
+    {
+      "start": 1226.8999999999999,
+      "end": 1230.18,
+      "text": "It is carbon positive to the earth to build a data center"
+    },
+    {
+      "start": 1230.18,
+      "end": 1231.82,
+      "text": "instead of flaring it up."
+    },
+    {
+      "start": 1231.82,
+      "end": 1235.1,
+      "text": "A lot of existing data centers have been retrofitted"
+    },
+    {
+      "start": 1235.1,
+      "end": 1238.42,
+      "text": "for AI were Bitcoin for the same idea"
+    },
+    {
+      "start": 1238.42,
+      "end": 1240.66,
+      "text": "because look, we can just monetize"
+    },
+    {
+      "start": 1240.66,
+      "end": 1243.54,
+      "text": "actually what is excess energy."
+    },
+    {
+      "start": 1243.54,
+      "end": 1245.5,
+      "text": "And then it was like, oh, wait,"
+    },
+    {
+      "start": 1245.5,
+      "end": 1247.02,
+      "text": "I know it's better than Bitcoin."
+    },
+    {
+      "start": 1247.02,
+      "end": 1248.3000000000002,
+      "text": "AI, like it's a big token,"
+    },
+    {
+      "start": 1248.3000000000002,
+      "end": 1250.94,
+      "text": "it's like tearing all out, put something there."
+    },
+    {
+      "start": 1250.94,
+      "end": 1255.3000000000002,
+      "text": "There's this whole ecosystem of like Rando old school."
+    },
+    {
+      "start": 1255.3000000000002,
+      "end": 1259.02,
+      "text": "Like what was the name for like people wild cats"
+    },
+    {
+      "start": 1259.02,
+      "end": 1262.94,
+      "text": "or wild caters that would just like find oil wells and stuff."
+    },
+    {
+      "start": 1262.94,
+      "end": 1266.54,
+      "text": "Like that's going on with AI finding places to put GPS."
+    },
+    {
+      "start": 1266.82,
+      "end": 1270.02,
+      "text": "So absolutely, absolutely a thing."
+    },
+    {
+      "start": 1270.02,
+      "end": 1272.8999999999999,
+      "text": "And so all, yeah, data centers on oil platforms."
+    },
+    {
+      "start": 1272.8999999999999,
+      "end": 1274.5,
+      "text": "Sure, why not?"
+    },
+    {
+      "start": 1274.5,
+      "end": 1276.58,
+      "text": "You do need, there's lots of stuff that goes into that."
+    },
+    {
+      "start": 1276.58,
+      "end": 1279.94,
+      "text": "You have to convert that natural gas into power."
+    },
+    {
+      "start": 1279.94,
+      "end": 1280.8999999999999,
+      "text": "You need turbines."
+    },
+    {
+      "start": 1280.8999999999999,
+      "end": 1282.62,
+      "text": "Guess how long it takes to buy a turbine right now?"
+    },
+    {
+      "start": 1282.62,
+      "end": 1284.3799999999999,
+      "text": "Probably quite some time."
+    },
+    {
+      "start": 1284.3799999999999,
+      "end": 1286.62,
+      "text": "I'm sure I'm most of that or something like that,"
+    },
+    {
+      "start": 1286.62,
+      "end": 1287.6599999999999,
+      "text": "especially in China."
+    },
+    {
+      "start": 1289.26,
+      "end": 1291.1399999999999,
+      "text": "No, it's actually, a lot of it's not,"
+    },
+    {
+      "start": 1291.1399999999999,
+      "end": 1292.5,
+      "text": "actually believe it or not,"
+    },
+    {
+      "start": 1292.5,
+      "end": 1294.8999999999999,
+      "text": "in part because turbine blame technology"
+    },
+    {
+      "start": 1294.9,
+      "end": 1297.5800000000002,
+      "text": "is one of the less great secrets."
+    },
+    {
+      "start": 1297.5800000000002,
+      "end": 1301.5800000000002,
+      "text": "And so there's Siemens, there's GE, there's what,"
+    },
+    {
+      "start": 1302.74,
+      "end": 1304.5400000000002,
+      "text": "I don't want to say it."
+    },
+    {
+      "start": 1304.5400000000002,
+      "end": 1305.38,
+      "text": "Oh, that's right."
+    },
+    {
+      "start": 1305.38,
+      "end": 1306.22,
+      "text": "Yeah."
+    },
+    {
+      "start": 1306.22,
+      "end": 1308.74,
+      "text": "One of those companies had a big espionage scandal"
+    },
+    {
+      "start": 1308.74,
+      "end": 1309.94,
+      "text": "like three or four years ago"
+    },
+    {
+      "start": 1309.94,
+      "end": 1311.8600000000001,
+      "text": "because that has been something that China,"
+    },
+    {
+      "start": 1311.8600000000001,
+      "end": 1313.7800000000002,
+      "text": "that's not that China has yet to crack."
+    },
+    {
+      "start": 1313.7800000000002,
+      "end": 1315.5800000000002,
+      "text": "Yep, turbine blame technology."
+    },
+    {
+      "start": 1315.5800000000002,
+      "end": 1318.94,
+      "text": "And so, but so there's a bit of big push"
+    },
+    {
+      "start": 1318.94,
+      "end": 1321.5800000000002,
+      "text": "on like a much less efficient turbines"
+    },
+    {
+      "start": 1321.5800000000002,
+      "end": 1323.5800000000002,
+      "text": "or like like temporary ones or generators."
+    },
+    {
+      "start": 1323.58,
+      "end": 1326.82,
+      "text": "Or like the blue energy that's doing like fuel cells,"
+    },
+    {
+      "start": 1326.82,
+      "end": 1329.6599999999999,
+      "text": "which is not nearly as efficient as a proper generator,"
+    },
+    {
+      "start": 1329.6599999999999,
+      "end": 1330.86,
+      "text": "but you can't get a proper generator"
+    },
+    {
+      "start": 1330.86,
+      "end": 1332.9399999999998,
+      "text": "and there's like demand right now."
+    },
+    {
+      "start": 1332.9399999999998,
+      "end": 1335.9399999999998,
+      "text": "So now all these things can and I think"
+    },
+    {
+      "start": 1335.9399999999998,
+      "end": 1337.74,
+      "text": "will be solved over time."
+    },
+    {
+      "start": 1337.74,
+      "end": 1339.78,
+      "text": "So it's not dispositive that this means"
+    },
+    {
+      "start": 1339.78,
+      "end": 1342.8999999999999,
+      "text": "like it's not like we're fundamentally constrained"
+    },
+    {
+      "start": 1342.8999999999999,
+      "end": 1343.8999999999999,
+      "text": "in how many turbines we have."
+    },
+    {
+      "start": 1343.8999999999999,
+      "end": 1345.1399999999999,
+      "text": "We can make more."
+    },
+    {
+      "start": 1345.1399999999999,
+      "end": 1346.74,
+      "text": "And which is like when to be easier to make"
+    },
+    {
+      "start": 1346.74,
+      "end": 1349.1399999999999,
+      "text": "for turbines and to have data centers in space"
+    },
+    {
+      "start": 1349.1399999999999,
+      "end": 1352.06,
+      "text": "that will be just write Justin's next email for him."
+    },
+    {
+      "start": 1352.06,
+      "end": 1353.4199999999998,
+      "text": "Yes, that might be the case."
+    },
+    {
+      "start": 1353.42,
+      "end": 1355.18,
+      "text": "So the thing about data centers in space"
+    },
+    {
+      "start": 1355.18,
+      "end": 1358.0600000000002,
+      "text": "is there are some fundamental advantages."
+    },
+    {
+      "start": 1358.0600000000002,
+      "end": 1359.38,
+      "text": "Okay."
+    },
+    {
+      "start": 1359.38,
+      "end": 1361.8600000000001,
+      "text": "And the fundamental advantage is pretty straightforward"
+    },
+    {
+      "start": 1361.8600000000001,
+      "end": 1364.22,
+      "text": "which is free power, right?"
+    },
+    {
+      "start": 1364.22,
+      "end": 1366.38,
+      "text": "And so you do get power"
+    },
+    {
+      "start": 1366.38,
+      "end": 1369.6200000000001,
+      "text": "and it's actually relatively simple."
+    },
+    {
+      "start": 1369.6200000000001,
+      "end": 1371.1000000000001,
+      "text": "All things considered."
+    },
+    {
+      "start": 1371.1000000000001,
+      "end": 1374.38,
+      "text": "It's not capturing gas"
+    },
+    {
+      "start": 1374.38,
+      "end": 1376.7,
+      "text": "that you know, setting it on fire"
+    },
+    {
+      "start": 1376.7,
+      "end": 1379.5,
+      "text": "and spinning and boiling water and spinning blade."
+    },
+    {
+      "start": 1379.5,
+      "end": 1380.3000000000002,
+      "text": "If you think about it,"
+    },
+    {
+      "start": 1380.3000000000002,
+      "end": 1382.9,
+      "text": "the actual power generation is kind of nuts how it works."
+    },
+    {
+      "start": 1382.98,
+      "end": 1386.3400000000001,
+      "text": "And this gets back to the bit we talked about last time."
+    },
+    {
+      "start": 1386.3400000000001,
+      "end": 1389.14,
+      "text": "We're not talking about putting a warehouse in space."
+    },
+    {
+      "start": 1389.14,
+      "end": 1392.6200000000001,
+      "text": "It's putting a bit of compute"
+    },
+    {
+      "start": 1392.6200000000001,
+      "end": 1396.6200000000001,
+      "text": "that's about the size of what Starwing satellites are today."
+    },
+    {
+      "start": 1396.6200000000001,
+      "end": 1399.26,
+      "text": "Now you need more cooling just to put it in context."
+    },
+    {
+      "start": 1399.26,
+      "end": 1402.14,
+      "text": "I think the internet space station is like 70 kilowatts"
+    },
+    {
+      "start": 1402.14,
+      "end": 1403.6200000000001,
+      "text": "and that was very difficult to figure out"
+    },
+    {
+      "start": 1403.6200000000001,
+      "end": 1406.22,
+      "text": "how to deploy the radiation to cool that."
+    },
+    {
+      "start": 1407.26,
+      "end": 1408.5800000000002,
+      "text": "You're gonna have to figure that out"
+    },
+    {
+      "start": 1408.5800000000002,
+      "end": 1410.8600000000001,
+      "text": "with the, if you're going for say 100 kilowatts."
+    },
+    {
+      "start": 1410.8600000000001,
+      "end": 1411.6200000000001,
+      "text": "Yeah."
+    },
+    {
+      "start": 1411.6200000000001,
+      "end": 1414.3400000000001,
+      "text": "And positioning it so that one side's always in shade,"
+    },
+    {
+      "start": 1414.3400000000001,
+      "end": 1415.3000000000002,
+      "text": "one side's always in sunlight,"
+    },
+    {
+      "start": 1415.3000000000002,
+      "end": 1417.8200000000002,
+      "text": "we'll solve some of these issues."
+    },
+    {
+      "start": 1417.8200000000002,
+      "end": 1421.0200000000002,
+      "text": "But the longest short of it is that like there's a,"
+    },
+    {
+      "start": 1421.0200000000002,
+      "end": 1424.3400000000001,
+      "text": "there's a elegance and simplicity to this"
+    },
+    {
+      "start": 1424.3400000000001,
+      "end": 1426.2600000000002,
+      "text": "that I think is underappreciated."
+    },
+    {
+      "start": 1426.2600000000002,
+      "end": 1428.5800000000002,
+      "text": "If all these issues can be solved."
+    },
+    {
+      "start": 1428.5800000000002,
+      "end": 1429.7800000000002,
+      "text": "Well, and that's my question."
+    },
+    {
+      "start": 1429.7800000000002,
+      "end": 1431.9,
+      "text": "By the way, in terms of where they're driving to,"
+    },
+    {
+      "start": 1431.9,
+      "end": 1434.98,
+      "text": "would it be just a cheaper solution"
+    },
+    {
+      "start": 1434.98,
+      "end": 1438.0600000000002,
+      "text": "in addition to more availability in space?"
+    },
+    {
+      "start": 1438.06,
+      "end": 1442.46,
+      "text": "Like is that the goal that the SpaceX value proposition"
+    },
+    {
+      "start": 1442.46,
+      "end": 1443.74,
+      "text": "that they're trying to offer?"
+    },
+    {
+      "start": 1443.74,
+      "end": 1445.06,
+      "text": "No, I don't think so."
+    },
+    {
+      "start": 1445.06,
+      "end": 1450.06,
+      "text": "Like so the, the, there is a bit where Elon at his best"
+    },
+    {
+      "start": 1451.02,
+      "end": 1453.5,
+      "text": "ends up with very elegant solutions"
+    },
+    {
+      "start": 1453.5,
+      "end": 1456.1799999999998,
+      "text": "that took astronomical amounts of investment"
+    },
+    {
+      "start": 1456.1799999999998,
+      "end": 1458.1799999999998,
+      "text": "up front to get in place."
+    },
+    {
+      "start": 1458.1799999999998,
+      "end": 1461.58,
+      "text": "There, like Starlink is an example of this."
+    },
+    {
+      "start": 1461.58,
+      "end": 1464.58,
+      "text": "Like Starlink on airplanes is so obvious."
+    },
+    {
+      "start": 1465.58,
+      "end": 1468.8999999999999,
+      "text": "But to get to the state where, of course,"
+    },
+    {
+      "start": 1468.8999999999999,
+      "end": 1471.02,
+      "text": "every airline is going to sign up for it"
+    },
+    {
+      "start": 1471.02,
+      "end": 1475.34,
+      "text": "and took that event rockets, that event rockets that way."
+    },
+    {
+      "start": 1475.34,
+      "end": 1476.74,
+      "text": "They had to do Starlink, they had to do it."
+    },
+    {
+      "start": 1476.74,
+      "end": 1481.74,
+      "text": "It's like the, so there is a complexity and just in solution"
+    },
+    {
+      "start": 1481.74,
+      "end": 1484.9399999999998,
+      "text": "that is an ongoing operational complexity."
+    },
+    {
+      "start": 1484.9399999999998,
+      "end": 1488.46,
+      "text": "You have to continually figure out what you're gonna do"
+    },
+    {
+      "start": 1488.46,
+      "end": 1491.1799999999998,
+      "text": "with these GPUs and be getting the natural gas"
+    },
+    {
+      "start": 1491.1799999999998,
+      "end": 1493.3,
+      "text": "and powering the turbines and maintaining the turbines"
+    },
+    {
+      "start": 1493.3,
+      "end": 1497.82,
+      "text": "and all, that is, it's complex on an ongoing basis."
+    },
+    {
+      "start": 1497.82,
+      "end": 1501.54,
+      "text": "Even if the path to getting there is much easier."
+    },
+    {
+      "start": 1501.54,
+      "end": 1504.3,
+      "text": "What Musk usually does is the path to getting there"
+    },
+    {
+      "start": 1504.3,
+      "end": 1506.06,
+      "text": "is hilarious and difficult."
+    },
+    {
+      "start": 1506.06,
+      "end": 1508.1399999999999,
+      "text": "No one would ever try."
+    },
+    {
+      "start": 1508.1399999999999,
+      "end": 1508.98,
+      "text": "Yes."
+    },
+    {
+      "start": 1508.98,
+      "end": 1511.6599999999999,
+      "text": "But if you get there, it's super elegant"
+    },
+    {
+      "start": 1511.6599999999999,
+      "end": 1514.7,
+      "text": "and super reproducible and super scalable."
+    },
+    {
+      "start": 1514.7,
+      "end": 1519.3,
+      "text": "And this, and the idea that we talked about this last week too,"
+    },
+    {
+      "start": 1519.3,
+      "end": 1522.26,
+      "text": "space is so much bigger than people realize."
+    },
+    {
+      "start": 1522.26,
+      "end": 1527.26,
+      "text": "And if this is a bet on actually the demand for compute"
+    },
+    {
+      "start": 1528.18,
+      "end": 1530.22,
+      "text": "being effectively infinite."
+    },
+    {
+      "start": 1530.22,
+      "end": 1533.94,
+      "text": "And where these racks in space would be"
+    },
+    {
+      "start": 1533.94,
+      "end": 1536.58,
+      "text": "is there providing marginal compute,"
+    },
+    {
+      "start": 1536.58,
+      "end": 1538.5,
+      "text": "which is means you need one more bit of compute"
+    },
+    {
+      "start": 1538.5,
+      "end": 1539.34,
+      "text": "where you're gonna go."
+    },
+    {
+      "start": 1539.34,
+      "end": 1540.5,
+      "text": "Of course, you're still going to have the data centers"
+    },
+    {
+      "start": 1540.5,
+      "end": 1542.3,
+      "text": "on earth, which by the way, the data centers on earth"
+    },
+    {
+      "start": 1542.3,
+      "end": 1544.82,
+      "text": "are probably going to be extremely profitable"
+    },
+    {
+      "start": 1544.82,
+      "end": 1546.3799999999999,
+      "text": "because they're cheaper."
+    },
+    {
+      "start": 1546.3799999999999,
+      "end": 1550.02,
+      "text": "But the marginal, if compute becomes a commodity,"
+    },
+    {
+      "start": 1550.02,
+      "end": 1552.06,
+      "text": "the price of the commodity is set by"
+    },
+    {
+      "start": 1552.06,
+      "end": 1553.8999999999999,
+      "text": "who adds one more bit of the commodity?"
+    },
+    {
+      "start": 1553.8999999999999,
+      "end": 1555.62,
+      "text": "What's their cost structure?"
+    },
+    {
+      "start": 1555.62,
+      "end": 1559.4199999999998,
+      "text": "So on one hand, it's the most expensive one"
+    },
+    {
+      "start": 1559.4199999999998,
+      "end": 1562.98,
+      "text": "that has the worst margins that adds that marginal compute."
+    },
+    {
+      "start": 1562.98,
+      "end": 1565.82,
+      "text": "But if demand is large enough,"
+    },
+    {
+      "start": 1565.82,
+      "end": 1568.6599999999999,
+      "text": "then that marginal piece of compute,"
+    },
+    {
+      "start": 1568.6599999999999,
+      "end": 1571.6599999999999,
+      "text": "if you're the only one that can add marginal compute,"
+    },
+    {
+      "start": 1571.6599999999999,
+      "end": 1573.5,
+      "text": "like you can make it up in volume."
+    },
+    {
+      "start": 1573.5,
+      "end": 1575.34,
+      "text": "Like it's literally the answer here."
+    },
+    {
+      "start": 1575.34,
+      "end": 1577.3,
+      "text": "And so there's a make it up in volume,"
+    },
+    {
+      "start": 1577.3,
+      "end": 1579.06,
+      "text": "aspect, which by the way,"
+    },
+    {
+      "start": 1579.06,
+      "end": 1580.54,
+      "text": "should always make you worried and suspicious"
+    },
+    {
+      "start": 1580.54,
+      "end": 1581.74,
+      "text": "and feels very bubbly."
+    },
+    {
+      "start": 1581.74,
+      "end": 1582.82,
+      "text": "We're gonna make it up in volume."
+    },
+    {
+      "start": 1582.82,
+      "end": 1586.82,
+      "text": "It's always been like the excuse to do things"
+    },
+    {
+      "start": 1586.82,
+      "end": 1588.1,
+      "text": "that make no sense."
+    },
+    {
+      "start": 1588.1,
+      "end": 1589.34,
+      "text": "But that's the case."
+    },
+    {
+      "start": 1589.34,
+      "end": 1590.98,
+      "text": "It's a make it up in volume."
+    },
+    {
+      "start": 1590.98,
+      "end": 1594.22,
+      "text": "At some point, the demand for compute becomes so large"
+    },
+    {
+      "start": 1594.22,
+      "end": 1596.38,
+      "text": "and the constraints on doing it on earth"
+    },
+    {
+      "start": 1596.38,
+      "end": 1597.7,
+      "text": "become so difficult."
+    },
+    {
+      "start": 1597.7,
+      "end": 1601.1,
+      "text": "And SpaceX gets so good at this"
+    },
+    {
+      "start": 1601.1,
+      "end": 1603.74,
+      "text": "and actually, starship works."
+    },
+    {
+      "start": 1603.74,
+      "end": 1605.78,
+      "text": "They could deploy large at scale"
+    },
+    {
+      "start": 1605.78,
+      "end": 1609.22,
+      "text": "that this very elegant solution"
+    },
+    {
+      "start": 1609.22,
+      "end": 1612.5,
+      "text": "where we basically move our compute to space,"
+    },
+    {
+      "start": 1613.66,
+      "end": 1614.5,
+      "text": "you went back."
+    },
+    {
+      "start": 1614.5,
+      "end": 1615.34,
+      "text": "It works."
+    },
+    {
+      "start": 1615.34,
+      "end": 1616.18,
+      "text": "And it's streamlined."
+    },
+    {
+      "start": 1616.18,
+      "end": 1617.98,
+      "text": "Yeah, because you can envision a scenario"
+    },
+    {
+      "start": 1617.98,
+      "end": 1620.22,
+      "text": "where we get 10 years down the line"
+    },
+    {
+      "start": 1620.22,
+      "end": 1622.26,
+      "text": "or 15 years down the line."
+    },
+    {
+      "start": 1622.26,
+      "end": 1626.18,
+      "text": "And sure, you can set up like an offshore data center"
+    },
+    {
+      "start": 1626.18,
+      "end": 1630.74,
+      "text": "on an old oil rig that you bring natural gas in for."
+    },
+    {
+      "start": 1630.74,
+      "end": 1632.6200000000001,
+      "text": "And you jump through the ocean to be clear."
+    },
+    {
+      "start": 1632.6200000000001,
+      "end": 1633.8600000000001,
+      "text": "They're not bringing the natural gas."
+    },
+    {
+      "start": 1633.8600000000001,
+      "end": 1635.8600000000001,
+      "text": "But yes, no, that's just its point."
+    },
+    {
+      "start": 1635.8600000000001,
+      "end": 1637.26,
+      "text": "It's the energy is there."
+    },
+    {
+      "start": 1637.26,
+      "end": 1640.94,
+      "text": "But it's still, it's one of those things you look at it."
+    },
+    {
+      "start": 1640.94,
+      "end": 1642.5,
+      "text": "And if the elegant solution works,"
+    },
+    {
+      "start": 1642.5,
+      "end": 1644.62,
+      "text": "it's like, why are we going to do it that way?"
+    },
+    {
+      "start": 1644.62,
+      "end": 1646.22,
+      "text": "Just watch where satellites is."
+    },
+    {
+      "start": 1646.22,
+      "end": 1648.58,
+      "text": "And my point would be, you do that"
+    },
+    {
+      "start": 1648.58,
+      "end": 1651.22,
+      "text": "and then you get six months down the line"
+    },
+    {
+      "start": 1651.22,
+      "end": 1653.62,
+      "text": "and say, oh, actually, we need more compute."
+    },
+    {
+      "start": 1653.62,
+      "end": 1655.14,
+      "text": "And then a year down the line,"
+    },
+    {
+      "start": 1655.14,
+      "end": 1655.98,
+      "text": "we need more compute."
+    },
+    {
+      "start": 1655.98,
+      "end": 1657.02,
+      "text": "On this treadmill forever."
+    },
+    {
+      "start": 1657.02,
+      "end": 1657.86,
+      "text": "Exactly."
+    },
+    {
+      "start": 1657.86,
+      "end": 1660.02,
+      "text": "So if there's sort of an alternate path"
+    },
+    {
+      "start": 1660.02,
+      "end": 1663.94,
+      "text": "where they're offering marginal compute in perpetuity"
+    },
+    {
+      "start": 1663.94,
+      "end": 1665.86,
+      "text": "and SpaceX has cracked that nut."
+    },
+    {
+      "start": 1665.86,
+      "end": 1666.46,
+      "text": "Exactly."
+    },
+    {
+      "start": 1666.46,
+      "end": 1668.38,
+      "text": "It's much easier to offer it,"
+    },
+    {
+      "start": 1668.38,
+      "end": 1670.38,
+      "text": "even if it's more expensive."
+    },
+    {
+      "start": 1670.38,
+      "end": 1673.26,
+      "text": "So we'll see whether you get the cost of like the implementation"
+    },
+    {
+      "start": 1673.26,
+      "end": 1675.14,
+      "text": "cost of the alternatives gets very, very high."
+    },
+    {
+      "start": 1675.14,
+      "end": 1676.5,
+      "text": "No, that's exactly right."
+    },
+    {
+      "start": 1676.5,
+      "end": 1680.02,
+      "text": "Now, again, everything I just described"
+    },
+    {
+      "start": 1680.02,
+      "end": 1683.14,
+      "text": "to you may sound stupid and impossible."
+    },
+    {
+      "start": 1683.14,
+      "end": 1684.54,
+      "text": "And you might totally be right."
+    },
+    {
+      "start": 1684.54,
+      "end": 1687.6200000000001,
+      "text": "That's why this is an unbelievably risky investment."
+    },
+    {
+      "start": 1687.6200000000001,
+      "end": 1690.94,
+      "text": "That's why this is why the laws exist."
+    },
+    {
+      "start": 1690.94,
+      "end": 1693.22,
+      "text": "Now, should the laws be changed to make it easier"
+    },
+    {
+      "start": 1693.22,
+      "end": 1694.82,
+      "text": "for retail to get into private companies,"
+    },
+    {
+      "start": 1694.82,
+      "end": 1696.46,
+      "text": "that's certainly a debate that can be had,"
+    },
+    {
+      "start": 1696.46,
+      "end": 1698.26,
+      "text": "particularly as the world is shifted"
+    },
+    {
+      "start": 1698.26,
+      "end": 1700.58,
+      "text": "to larger, larger companies staying private longer and longer."
+    },
+    {
+      "start": 1700.58,
+      "end": 1701.82,
+      "text": "This isn't Microsoft going public"
+    },
+    {
+      "start": 1701.82,
+      "end": 1703.62,
+      "text": "at like $100 million or whatever it was."
+    },
+    {
+      "start": 1703.62,
+      "end": 1705.54,
+      "text": "Like you could ride it all the way up."
+    },
+    {
+      "start": 1705.54,
+      "end": 1707.98,
+      "text": "That's definitely a discussion to be had."
+    },
+    {
+      "start": 1707.98,
+      "end": 1710.54,
+      "text": "But the reason we have protections"
+    },
+    {
+      "start": 1710.54,
+      "end": 1713.62,
+      "text": "against retail investors getting into private companies"
+    },
+    {
+      "start": 1713.62,
+      "end": 1716.4199999999998,
+      "text": "is because you're likely to lose your money."
+    },
+    {
+      "start": 1716.4199999999998,
+      "end": 1717.26,
+      "text": "Yeah."
+    },
+    {
+      "start": 1718.26,
+      "end": 1722.02,
+      "text": "Like, SpaceX is like, what if we create a company"
+    },
+    {
+      "start": 1722.02,
+      "end": 1725.22,
+      "text": "so audacious and large that we could give the public"
+    },
+    {
+      "start": 1725.22,
+      "end": 1726.86,
+      "text": "the opportunity to lose all their money"
+    },
+    {
+      "start": 1726.86,
+      "end": 1728.74,
+      "text": "without any deregulations whatsoever?"
+    },
+    {
+      "start": 1728.74,
+      "end": 1729.58,
+      "text": "Here we are."
+    },
+    {
+      "start": 1729.58,
+      "end": 1732.3799999999999,
+      "text": "So it's like, here we are and we'll see where we go."
+    },
+    {
+      "start": 1732.3799999999999,
+      "end": 1735.62,
+      "text": "Again, maybe we're going to Mars 10 or 15 years from now."
+    },
+    {
+      "start": 1735.62,
+      "end": 1738.34,
+      "text": "Adam says, last SpaceX question."
+    },
+    {
+      "start": 1738.34,
+      "end": 1741.62,
+      "text": "How durable is the SpaceX rocket monopoly?"
+    },
+    {
+      "start": 1741.62,
+      "end": 1745.42,
+      "text": "At present, it seems that SpaceX has two incredibly valuable"
+    },
+    {
+      "start": 1745.42,
+      "end": 1747.98,
+      "text": "modes, a monopoly on space delivery,"
+    },
+    {
+      "start": 1747.98,
+      "end": 1749.78,
+      "text": "commercial rocket contracts,"
+    },
+    {
+      "start": 1749.78,
+      "end": 1753.8999999999999,
+      "text": "and a monopoly on lower Earth orbit internet, Starlink."
+    },
+    {
+      "start": 1753.8999999999999,
+      "end": 1756.1,
+      "text": "You can currently project out a few years"
+    },
+    {
+      "start": 1756.1,
+      "end": 1758.86,
+      "text": "as Ben's done and see how it's possible"
+    },
+    {
+      "start": 1758.86,
+      "end": 1762.78,
+      "text": "that they'll have a third mode in the future, racks in space."
+    },
+    {
+      "start": 1762.78,
+      "end": 1764.7,
+      "text": "This of course assumes a lot"
+    },
+    {
+      "start": 1764.7,
+      "end": 1767.18,
+      "text": "and Ben makes that point in his article."
+    },
+    {
+      "start": 1767.18,
+      "end": 1770.86,
+      "text": "For me, however, the most crucial assumption"
+    },
+    {
+      "start": 1770.86,
+      "end": 1773.5,
+      "text": "is that SpaceX will be the only game in town"
+    },
+    {
+      "start": 1773.5,
+      "end": 1775.54,
+      "text": "for space delivery going forward."
+    },
+    {
+      "start": 1775.54,
+      "end": 1778.06,
+      "text": "Now there's no doubt that SpaceX has a huge lead"
+    },
+    {
+      "start": 1778.06,
+      "end": 1780.34,
+      "text": "in reusable commercial rockets,"
+    },
+    {
+      "start": 1780.34,
+      "end": 1782.98,
+      "text": "but is it safe to think that that will stay the case"
+    },
+    {
+      "start": 1782.98,
+      "end": 1785.94,
+      "text": "for a decade, two decades longer?"
+    },
+    {
+      "start": 1785.94,
+      "end": 1787.54,
+      "text": "In other words, if racks in space"
+    },
+    {
+      "start": 1787.54,
+      "end": 1790.4199999999998,
+      "text": "become as important as Ben thinks they might be,"
+    },
+    {
+      "start": 1790.4199999999998,
+      "end": 1792.62,
+      "text": "there'd seem to be enormous incentives,"
+    },
+    {
+      "start": 1792.62,
+      "end": 1795.7,
+      "text": "far greater than any exists for satellite delivery"
+    },
+    {
+      "start": 1795.7,
+      "end": 1798.4199999999998,
+      "text": "and internet satellite constellations"
+    },
+    {
+      "start": 1798.4199999999998,
+      "end": 1801.1399999999999,
+      "text": "for investment into second mover R&D,"
+    },
+    {
+      "start": 1801.1399999999999,
+      "end": 1803.78,
+      "text": "whether from blue origin, other startups,"
+    },
+    {
+      "start": 1803.78,
+      "end": 1806.02,
+      "text": "or even nation states, what do you think Ben?"
+    },
+    {
+      "start": 1806.02,
+      "end": 1807.02,
+      "text": "I've wondered the same thing"
+    },
+    {
+      "start": 1807.02,
+      "end": 1809.1,
+      "text": "about the SpaceX rocket."
+    },
+    {
+      "start": 1809.1,
+      "end": 1812.3,
+      "text": "It's a very relevant question."
+    },
+    {
+      "start": 1812.3,
+      "end": 1814.06,
+      "text": "I blue origin has landed boosters,"
+    },
+    {
+      "start": 1814.06,
+      "end": 1816.9,
+      "text": "like some orbital, I believe, but they've done it."
+    },
+    {
+      "start": 1816.9,
+      "end": 1819.3799999999999,
+      "text": "China is obviously working on this"
+    },
+    {
+      "start": 1819.3799999999999,
+      "end": 1822.66,
+      "text": "and two atoms point, if the economic instead"
+    },
+    {
+      "start": 1822.66,
+      "end": 1824.3799999999999,
+      "text": "is get large enough problems get solved,"
+    },
+    {
+      "start": 1824.3799999999999,
+      "end": 1826.26,
+      "text": "particularly if it's been demonstrated"
+    },
+    {
+      "start": 1826.26,
+      "end": 1830.26,
+      "text": "that they are solvable, it's way easier"
+    },
+    {
+      "start": 1830.26,
+      "end": 1833.26,
+      "text": "to invent the second booster that lands"
+    },
+    {
+      "start": 1833.26,
+      "end": 1836.34,
+      "text": "precisely because you know it's doable."
+    },
+    {
+      "start": 1836.3400000000001,
+      "end": 1839.18,
+      "text": "Just like it's going to be easier in some respects"
+    },
+    {
+      "start": 1839.18,
+      "end": 1843.0600000000002,
+      "text": "for China to invent turbines."
+    },
+    {
+      "start": 1843.0600000000002,
+      "end": 1845.5800000000002,
+      "text": "It's very right because they know it exists"
+    },
+    {
+      "start": 1845.5800000000002,
+      "end": 1848.0600000000002,
+      "text": "and a lot of the equipment they need,"
+    },
+    {
+      "start": 1848.0600000000002,
+      "end": 1849.66,
+      "text": "they can take a part and look at it"
+    },
+    {
+      "start": 1849.66,
+      "end": 1851.0600000000002,
+      "text": "and try to figure it out."
+    },
+    {
+      "start": 1851.0600000000002,
+      "end": 1854.5400000000002,
+      "text": "And so that's absolutely a fair point."
+    },
+    {
+      "start": 1854.5400000000002,
+      "end": 1858.42,
+      "text": "This is maybe an argument for why continued investment"
+    },
+    {
+      "start": 1858.42,
+      "end": 1860.7800000000002,
+      "text": "in XAI is a good thing."
+    },
+    {
+      "start": 1860.7800000000002,
+      "end": 1863.46,
+      "text": "If you get there first and your model"
+    },
+    {
+      "start": 1863.46,
+      "end": 1865.82,
+      "text": "and you're tooling, you accrue"
+    },
+    {
+      "start": 1865.82,
+      "end": 1867.8600000000001,
+      "text": "like software type network effects"
+    },
+    {
+      "start": 1867.8600000000001,
+      "end": 1869.3400000000001,
+      "text": "in part because you were there"
+    },
+    {
+      "start": 1869.3400000000001,
+      "end": 1871.7,
+      "text": "and you had way more capacity than everybody else,"
+    },
+    {
+      "start": 1871.7,
+      "end": 1874.1000000000001,
+      "text": "that is provides more durability"
+    },
+    {
+      "start": 1874.1000000000001,
+      "end": 1876.02,
+      "text": "than just having infrastructure."
+    },
+    {
+      "start": 1876.02,
+      "end": 1877.58,
+      "text": "I think that's probably the point there."
+    },
+    {
+      "start": 1877.58,
+      "end": 1879.22,
+      "text": "It's like, yeah, actually, it is important"
+    },
+    {
+      "start": 1879.22,
+      "end": 1881.54,
+      "text": "to get something defensible in the long run."
+    },
+    {
+      "start": 1882.5,
+      "end": 1884.14,
+      "text": "The way I look at it though,"
+    },
+    {
+      "start": 1884.14,
+      "end": 1887.18,
+      "text": "not coming here as an Elon Musk fanboy"
+    },
+    {
+      "start": 1887.18,
+      "end": 1889.58,
+      "text": "or like a SpaceX stock advocate."
+    },
+    {
+      "start": 1890.54,
+      "end": 1894.1399999999999,
+      "text": "If we get to the state where multiple companies"
+    },
+    {
+      "start": 1894.1399999999999,
+      "end": 1898.1399999999999,
+      "text": "are reusable rockets and there's multiple companies"
+    },
+    {
+      "start": 1898.1399999999999,
+      "end": 1900.9399999999998,
+      "text": "putting compute and space was courage for space."
+    },
+    {
+      "start": 1900.9399999999998,
+      "end": 1902.86,
+      "text": "That's right, I'm feeling great."
+    },
+    {
+      "start": 1902.86,
+      "end": 1905.34,
+      "text": "It's a wonderful world, it's a world I want to live in."
+    },
+    {
+      "start": 1905.34,
+      "end": 1907.86,
+      "text": "So I'm actually not worried about it."
+    },
+    {
+      "start": 1907.86,
+      "end": 1909.6999999999998,
+      "text": "But fair enough, that makes sense."
+    },
+    {
+      "start": 1909.6999999999998,
+      "end": 1912.82,
+      "text": "This is why I had to give myself permission to this article."
+    },
+    {
+      "start": 1912.82,
+      "end": 1914.4199999999998,
+      "text": "I'm not being a stock analyst here."
+    },
+    {
+      "start": 1914.4199999999998,
+      "end": 1918.02,
+      "text": "I'm just like, I think this, you know,"
+    },
+    {
+      "start": 1918.3,
+      "end": 1921.54,
+      "text": "I wanted to tie it into the agentic inference idea."
+    },
+    {
+      "start": 1921.54,
+      "end": 1924.18,
+      "text": "This idea that there's just gonna be a lot of compute"
+    },
+    {
+      "start": 1924.18,
+      "end": 1925.98,
+      "text": "that everything we think about"
+    },
+    {
+      "start": 1925.98,
+      "end": 1927.74,
+      "text": "how compute has to look today."
+    },
+    {
+      "start": 1927.74,
+      "end": 1929.34,
+      "text": "I'm not sure is exactly what compute"
+    },
+    {
+      "start": 1929.34,
+      "end": 1931.66,
+      "text": "is gonna look like in 10, 20 years."
+    },
+    {
+      "start": 1931.66,
+      "end": 1934.46,
+      "text": "And part of that is certainly the thesis here."
+    },
+    {
+      "start": 1934.46,
+      "end": 1936.98,
+      "text": "But yes, it's a fair point, Adam, and I don't care."
+    },
+    {
+      "start": 1936.98,
+      "end": 1938.74,
+      "text": "It's fair enough."
+    },
+    {
+      "start": 1938.74,
+      "end": 1940.82,
+      "text": "All right, well, shifting gears."
+    },
+    {
+      "start": 1940.82,
+      "end": 1943.1399999999999,
+      "text": "Let's run through some mailbag questions."
+    },
+    {
+      "start": 1943.1399999999999,
+      "end": 1947.58,
+      "text": "Aaron says, hi guys, in Ben's Tuesday post on Nvidia,"
+    },
+    {
+      "start": 1947.58,
+      "end": 1950.74,
+      "text": "he discusses the AI stack and makes an interesting distinction"
+    },
+    {
+      "start": 1950.74,
+      "end": 1952.86,
+      "text": "between where the benefits accrue of the short term"
+    },
+    {
+      "start": 1952.86,
+      "end": 1955.98,
+      "text": "because of bottlenecks and in the long run because of modes."
+    },
+    {
+      "start": 1955.98,
+      "end": 1959.3799999999999,
+      "text": "The distinction tees up how Nvidia's new reporting segmentation,"
+    },
+    {
+      "start": 1959.3799999999999,
+      "end": 1962.6599999999999,
+      "text": "which was likely done to show just how much of their sales"
+    },
+    {
+      "start": 1962.6599999999999,
+      "end": 1965.26,
+      "text": "were going to the AC customer base"
+    },
+    {
+      "start": 1965.26,
+      "end": 1967.6599999999999,
+      "text": "where they have a much stronger mode than they do with the"
+    },
+    {
+      "start": 1967.6599999999999,
+      "end": 1968.5,
+      "text": "examples."
+    },
+    {
+      "start": 1968.5,
+      "end": 1970.3,
+      "text": "Is there a definitive way how to pronounce this?"
+    },
+    {
+      "start": 1970.3,
+      "end": 1975.3,
+      "text": "So I saw AC in this email and I immediately thought of AC"
+    },
+    {
+      "start": 1975.3,
+      "end": 1979.54,
+      "text": "law. And so in honor of AC law, former Texas A&M"
+    },
+    {
+      "start": 1979.54,
+      "end": 1982.98,
+      "text": "great, had some great battles with Kevin Durant about 15"
+    },
+    {
+      "start": 1982.98,
+      "end": 1986.8999999999999,
+      "text": "years ago or 20 years ago now, I'm going with AC."
+    },
+    {
+      "start": 1986.8999999999999,
+      "end": 1988.3,
+      "text": "I'm probably getting that wrong."
+    },
+    {
+      "start": 1988.3,
+      "end": 1991.46,
+      "text": "Yeah, so just to be clear, AC is ACIE,"
+    },
+    {
+      "start": 1991.46,
+      "end": 1994.58,
+      "text": "which is AI clouds industrial and enterprise."
+    },
+    {
+      "start": 1994.58,
+      "end": 1998.94,
+      "text": "Basically, it's all in video sales to nonhyperscalers."
+    },
+    {
+      "start": 1998.94,
+      "end": 1999.78,
+      "text": "Right."
+    },
+    {
+      "start": 1999.78,
+      "end": 2003.78,
+      "text": "So exclude Google, exclude Microsoft, exclude Amazon,"
+    },
+    {
+      "start": 2003.78,
+      "end": 2007.1399999999999,
+      "text": "exclude Facebook, is that the, is that all of them?"
+    },
+    {
+      "start": 2007.1399999999999,
+      "end": 2008.66,
+      "text": "It's hard to keep straight."
+    },
+    {
+      "start": 2008.66,
+      "end": 2010.7,
+      "text": "So we're talking like not hard to keep straight."
+    },
+    {
+      "start": 2010.7,
+      "end": 2011.7,
+      "text": "It's not very many of them."
+    },
+    {
+      "start": 2011.7,
+      "end": 2014.54,
+      "text": "No, it's a core weave is in the AC category."
+    },
+    {
+      "start": 2014.54,
+      "end": 2015.06,
+      "text": "Right."
+    },
+    {
+      "start": 2015.06,
+      "end": 2018.8999999999999,
+      "text": "All these like wildcatters that are finding like old Bitcoin"
+    },
+    {
+      "start": 2018.8999999999999,
+      "end": 2020.58,
+      "text": "data centers and putting GPUs in there,"
+    },
+    {
+      "start": 2020.58,
+      "end": 2022.74,
+      "text": "those are the AC category."
+    },
+    {
+      "start": 2022.74,
+      "end": 2027.3799999999999,
+      "text": "Companies buying GPUs for themselves are in the AC category"
+    },
+    {
+      "start": 2027.3799999999999,
+      "end": 2033.18,
+      "text": "and like governments buying anyone but the big guys is AC."
+    },
+    {
+      "start": 2033.18,
+      "end": 2034.18,
+      "text": "We'll go with AC."
+    },
+    {
+      "start": 2034.18,
+      "end": 2035.18,
+      "text": "Yeah, I don't know."
+    },
+    {
+      "start": 2035.18,
+      "end": 2039.3600000000001,
+      "text": "Oh, AC, AC law, AC law, yeah, I don't know what AC"
+    },
+    {
+      "start": 2039.3600000000001,
+      "end": 2040.3600000000001,
+      "text": "are."
+    },
+    {
+      "start": 2040.3600000000001,
+      "end": 2041.3600000000001,
+      "text": "Another good one."
+    },
+    {
+      "start": 2041.3600000000001,
+      "end": 2042.3600000000001,
+      "text": "Remember some guys, you know what I mean?"
+    },
+    {
+      "start": 2042.3600000000001,
+      "end": 2043.3600000000001,
+      "text": "That's right."
+    },
+    {
+      "start": 2043.3600000000001,
+      "end": 2046.22,
+      "text": "Isn't the AC customer segment itself though?"
+    },
+    {
+      "start": 2046.22,
+      "end": 2047.54,
+      "text": "I think that's our age difference."
+    },
+    {
+      "start": 2047.54,
+      "end": 2048.78,
+      "text": "I thought of AC Earl."
+    },
+    {
+      "start": 2048.78,
+      "end": 2049.78,
+      "text": "You thought of AC law."
+    },
+    {
+      "start": 2049.78,
+      "end": 2052.1800000000003,
+      "text": "I think that captures it perfectly."
+    },
+    {
+      "start": 2052.1800000000003,
+      "end": 2055.46,
+      "text": "Isn't the AC customer segment itself currently benefiting"
+    },
+    {
+      "start": 2055.46,
+      "end": 2057.2200000000003,
+      "text": "significantly from bottlenecks?"
+    },
+    {
+      "start": 2057.2200000000003,
+      "end": 2060.78,
+      "text": "Aren't neoclouds largely only thriving because there's"
+    },
+    {
+      "start": 2060.78,
+      "end": 2062.86,
+      "text": "a huge supply shortage."
+    },
+    {
+      "start": 2062.86,
+      "end": 2065.6600000000003,
+      "text": "And ultimately, when there's a balance between supply"
+    },
+    {
+      "start": 2065.6600000000003,
+      "end": 2068.86,
+      "text": "and demand, won't the very fact that these guys need to buy"
+    },
+    {
+      "start": 2068.86,
+      "end": 2073.2200000000003,
+      "text": "an entire Nvidia bundle, paying Nvidia's huge gross margins"
+    },
+    {
+      "start": 2073.2200000000003,
+      "end": 2076.54,
+      "text": "by definition mean that they will lose significant share"
+    },
+    {
+      "start": 2076.54,
+      "end": 2080.06,
+      "text": "to lower cost hyper scalers who have their own ACs"
+    },
+    {
+      "start": 2080.06,
+      "end": 2082.1800000000003,
+      "text": "who can avoid the Nvidia tax."
+    },
+    {
+      "start": 2082.1800000000003,
+      "end": 2084.7000000000003,
+      "text": "What do you think about that possibility?"
+    },
+    {
+      "start": 2084.7000000000003,
+      "end": 2085.7000000000003,
+      "text": "All right."
+    },
+    {
+      "start": 2085.7000000000003,
+      "end": 2087.82,
+      "text": "And that is the end of the free preview."
+    },
+    {
+      "start": 2087.82,
+      "end": 2089.7000000000003,
+      "text": "If you'd like to hear more from Ben and I,"
+    },
+    {
+      "start": 2089.7000000000003,
+      "end": 2091.82,
+      "text": "there are links to subscribe in the show notes"
+    },
+    {
+      "start": 2091.82,
+      "end": 2094.5800000000004,
+      "text": "where you can also go to sharptech.fm."
+    },
+    {
+      "start": 2094.5800000000004,
+      "end": 2098.1000000000004,
+      "text": "Either option will get you access to a personalized feed"
+    },
+    {
+      "start": 2098.1000000000004,
+      "end": 2100.82,
+      "text": "that has all the shows we do every week."
+    },
+    {
+      "start": 2100.82,
+      "end": 2103.5800000000004,
+      "text": "Plus lots more great content from Stratekery"
+    },
+    {
+      "start": 2103.5800000000004,
+      "end": 2105.6200000000003,
+      "text": "and the Stratekery Plus bundle."
+    },
+    {
+      "start": 2105.6200000000003,
+      "end": 2106.3,
+      "text": "Check it out."
+    },
+    {
+      "start": 2106.3,
+      "end": 2108.46,
+      "text": "And if you've got feedback, please email us"
+    },
+    {
+      "start": 2108.46,
+      "end": 2111.1400000000003,
+      "text": "at email at sharptech.fm."
+    },
+    {
+      "start": 2111.14,
+      "end": 2113.8599999999997,
+      "text": "and you can find out more about the new"
+    },
+    {
+      "start": 2113.8599999999997,
+      "end": 2116.46,
+      "text": "products that are available in the store."
+    },
+    {
+      "start": 2116.46,
+      "end": 2119.06,
+      "text": "And if you want to know more about the new product,"
+    },
+    {
+      "start": 2119.06,
+      "end": 2121.74,
+      "text": "just go ahead and check out the new product."
+    },
+    {
+      "start": 2121.74,
+      "end": 2123.98,
+      "text": "And if you've got any questions,"
+    },
+    {
+      "start": 2123.98,
+      "end": 2125.98,
+      "text": "please leave a comment."
+    },
+    {
+      "start": 2125.98,
+      "end": 2127.98,
+      "text": "And I'll see you next time."
+    },
+    {
+      "start": 2127.98,
+      "end": 2128.98,
+      "text": "Bye."
+    },
+    {
+      "start": 2128.98,
+      "end": 2129.98,
+      "text": "Bye."
+    },
+    {
+      "start": 2129.98,
+      "end": 2130.98,
+      "text": "Bye."
+    },
+    {
+      "start": 2130.98,
+      "end": 2131.98,
+      "text": "Bye."
+    },
+    {
+      "start": 2131.98,
+      "end": 2132.98,
+      "text": "Bye."
+    },
+    {
+      "start": 2132.98,
+      "end": 2133.98,
+      "text": "Bye."
+    },
+    {
+      "start": 2133.98,
+      "end": 2134.98,
+      "text": "Bye."
+    },
+    {
+      "start": 2134.98,
+      "end": 2135.98,
+      "text": "Bye."
+    },
+    {
+      "start": 2135.98,
+      "end": 2136.98,
+      "text": "Bye."
+    },
+    {
+      "start": 2136.98,
+      "end": 2137.98,
+      "text": "Bye."
+    },
+    {
+      "start": 2137.98,
+      "end": 2138.98,
+      "text": "Bye."
+    },
+    {
+      "start": 2138.98,
+      "end": 2139.98,
+      "text": "Bye."
+    },
+    {
+      "start": 2139.98,
+      "end": 2140.98,
+      "text": "Bye."
+    }
+  ]
+}

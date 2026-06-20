@@ -1,0 +1,4001 @@
+{
+  "id": "f7fdc38c4fd93827",
+  "show": "Bloomberg Tech",
+  "theme": "Tech & AI",
+  "title": "Anthropic Disables AI Access for Foreign Nationals",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/da1609bf-51ed-4546-856d-b46a012a7ccd/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
+  "source": "feed",
+  "duration": 2618.1,
+  "segments": [
+    {
+      "start": 2.48,
+      "end": 21.6,
+      "text": "Speaker 1: Bloomberg Audio Studios, podcasts, radio news."
+    },
+    {
+      "start": 24.0,
+      "end": 27.08,
+      "text": "Speaker 2: This is Bloomberg Tech coming up the biggest AI export"
+    },
+    {
+      "start": 27.16,
+      "end": 30.92,
+      "text": "Speaker 2: restriction yet and Tropic disables access to its most advanced"
+    },
+    {
+      "start": 30.92,
+      "end": 34.6,
+      "text": "Speaker 2: models for all foreign nationals. The US concern jail breaks"
+    },
+    {
+      "start": 34.6,
+      "end": 36.72,
+      "text": "Speaker 2: in the code in video, is seeking to raise at"
+    },
+    {
+      "start": 36.76,
+      "end": 39.32,
+      "text": "Speaker 2: least twenty billion dollars from its first corporate bond sales"
+    },
+    {
+      "start": 39.32,
+      "end": 42.72,
+      "text": "Speaker 2: since twenty twenty one. We'll have the details. And SpaceX"
+    },
+    {
+      "start": 42.72,
+      "end": 45.6,
+      "text": "Speaker 2: shares throttle up on day to trading, adding to a"
+    },
+    {
+      "start": 45.64,
+      "end": 49.92,
+      "text": "Speaker 2: blockbuster public market's debut on Friday. And this is what"
+    },
+    {
+      "start": 50.24,
+      "end": 54.64,
+      "text": "Speaker 2: markets look like. Hello, Welcome to Bloomberg Tech Monday, June fifteenth."
+    },
+    {
+      "start": 55.12,
+      "end": 58.28,
+      "text": "Speaker 2: There is a big focus on what is happening between"
+    },
+    {
+      "start": 58.28,
+      "end": 60.0,
+      "text": "Speaker 2: the US and Iran Later in the show. We'll get"
+    },
+    {
+      "start": 59.96,
+      "end": 62.48,
+      "text": "Speaker 2: to that. But SpaceX in its second day of trading"
+    },
+    {
+      "start": 62.76,
+      "end": 65.48,
+      "text": "Speaker 2: up eight percent and it's putting a big spotlight on"
+    },
+    {
+      "start": 65.56,
+      "end": 68.48,
+      "text": "Speaker 2: the AI trade, on AI infrastructure. Then aw's that one"
+    },
+    {
+      "start": 68.56,
+      "end": 71.8,
+      "text": "Speaker 2: hundred's off session highs, but we're again close to records,"
+    },
+    {
+      "start": 71.84,
+      "end": 74.28,
+      "text": "Speaker 2: and the narrative is that there is feel good in"
+    },
+    {
+      "start": 74.319,
+      "end": 76.72,
+      "text": "Speaker 2: this equity market. Let's get to our top story. A"
+    },
+    {
+      "start": 76.8,
+      "end": 80.919,
+      "text": "Speaker 2: major escalation in Washington's approach to AI. The US government"
+    },
+    {
+      "start": 80.959,
+      "end": 84.56,
+      "text": "Speaker 2: has ordered Anthropic to block foreign access to its most"
+    },
+    {
+      "start": 84.64,
+      "end": 88.32,
+      "text": "Speaker 2: advanced models after officials flagged security vulnerabilities and it's new"
+    },
+    {
+      "start": 88.36,
+      "end": 91.64,
+      "text": "Speaker 2: to released Fable five system and Mephos five to two."
+    },
+    {
+      "start": 92.0,
+      "end": 95.8,
+      "text": "Speaker 2: Talks r underway between Anthropic and the Trump administration joining"
+    },
+    {
+      "start": 95.84,
+      "end": 98.64,
+      "text": "Speaker 2: us now our AI editor Bloomberg, Seth Figman and in"
+    },
+    {
+      "start": 98.75999999999999,
+      "end": 101.28,
+      "text": "Speaker 2: DC Bloomberg's Mike Shepard and Shepp I want to start"
+    },
+    {
+      "start": 101.319,
+      "end": 104.47999999999999,
+      "text": "Speaker 2: with you. This came from the Commerce Department. Explain the"
+    },
+    {
+      "start": 104.47999999999999,
+      "end": 107.6,
+      "text": "Speaker 2: export restriction and what the government asked of Anthropic."
+    },
+    {
+      "start": 109.24000000000001,
+      "end": 112.24000000000001,
+      "text": "Speaker 3: Well, this all dropped right as everyone was still so"
+    },
+    {
+      "start": 112.44,
+      "end": 116.8,
+      "text": "Speaker 3: focused on the SpaceX ip IPO. Five twenty one pm"
+    },
+    {
+      "start": 116.88,
+      "end": 120.8,
+      "text": "Speaker 3: on a Friday, a letter a directive to Anthropic saying, look,"
+    },
+    {
+      "start": 121.36,
+      "end": 124.56,
+      "text": "Speaker 3: we are concerned about foreign nationals having access to two"
+    },
+    {
+      "start": 124.64,
+      "end": 127.76,
+      "text": "Speaker 3: of your most advanced models, essentially the key products that"
+    },
+    {
+      "start": 127.8,
+      "end": 130.44,
+      "text": "Speaker 3: the company would want to pitch as it's heading into"
+    },
+    {
+      "start": 130.48,
+      "end": 134.24,
+      "text": "Speaker 3: this nearly trillion dollar IPO. And this really marked a"
+    },
+    {
+      "start": 134.32,
+      "end": 137.44,
+      "text": "Speaker 3: huge shot across the bow once again for this AI"
+    },
+    {
+      "start": 137.56,
+      "end": 141.07999999999998,
+      "text": "Speaker 3: developer from the Trump administration, and in essence it forced"
+    },
+    {
+      "start": 141.12,
+      "end": 144.959,
+      "text": "Speaker 3: the company's hand and Thropic had to deny access worldwide"
+    },
+    {
+      "start": 145.0,
+      "end": 148.28,
+      "text": "Speaker 3: to these two products Fable five and Mythos five in"
+    },
+    {
+      "start": 148.4,
+      "end": 151.679,
+      "text": "Speaker 3: response to the government's move. Now, this in a way"
+    },
+    {
+      "start": 151.76,
+      "end": 156.359,
+      "text": "Speaker 3: It really marked not only an unprecedented step for any administration,"
+    },
+    {
+      "start": 156.68,
+      "end": 159.32,
+      "text": "Speaker 3: it really marked a break from what the Trump administration"
+    },
+    {
+      "start": 159.48,
+      "end": 161.84,
+      "text": "Speaker 3: had laid out just a little more than a week"
+    },
+    {
+      "start": 161.88,
+      "end": 166.12,
+      "text": "Speaker 3: ago with that order, that executive order, the President Donald"
+    },
+    {
+      "start": 166.12,
+      "end": 169.48,
+      "text": "Speaker 3: Trump sign that was aimed at cybersecurity and AI and"
+    },
+    {
+      "start": 169.52,
+      "end": 173.2,
+      "text": "Speaker 3: that it included language that said this does not should"
+    },
+    {
+      "start": 173.28,
+      "end": 177.56,
+      "text": "Speaker 3: not be interpreted as establishing a licensing regime. Yet an effect,"
+    },
+    {
+      "start": 177.6,
+      "end": 179.84,
+      "text": "Speaker 3: what we are seeing is that the government is blocking"
+    },
+    {
+      "start": 180.16,
+      "end": 183.519,
+      "text": "Speaker 3: the release of these models over the kinds of safety concerns,"
+    },
+    {
+      "start": 183.56,
+      "end": 186.24,
+      "text": "Speaker 3: in essence, the vetting that the government had wanted to"
+    },
+    {
+      "start": 186.24,
+      "end": 188.92,
+      "text": "Speaker 3: see done on a voluntary basis, and yet it is"
+    },
+    {
+      "start": 188.96,
+      "end": 192.84,
+      "text": "Speaker 3: setting its foot down now over security concerns and essentially"
+    },
+    {
+      "start": 193.08,
+      "end": 195.399,
+      "text": "Speaker 3: holding off the release of these two products."
+    },
+    {
+      "start": 196.32,
+      "end": 199.84,
+      "text": "Speaker 2: Seth this was an action directed at the use of"
+    },
+    {
+      "start": 199.88,
+      "end": 203.92000000000002,
+      "text": "Speaker 2: the models Fable five me PUS five by foreign nationals,"
+    },
+    {
+      "start": 203.919,
+      "end": 207.6,
+      "text": "Speaker 2: but Anthropic made the decision to close off access to everyone."
+    },
+    {
+      "start": 208.2,
+      "end": 210.68,
+      "text": "Speaker 2: What was the explanation that the AI Lab gave."
+    },
+    {
+      "start": 211.16,
+      "end": 214.24,
+      "text": "Speaker 4: Yeah, Well, they're saying access to foreign nationals not just"
+    },
+    {
+      "start": 214.4,
+      "end": 217.52,
+      "text": "Speaker 4: in other countries, but those residing in the United States."
+    },
+    {
+      "start": 217.6,
+      "end": 219.44,
+      "text": "Speaker 4: And it seems that Acanthropic made the decision that this"
+    },
+    {
+      "start": 219.6,
+      "end": 222.4,
+      "text": "Speaker 4: was unworkable to allow this model to remain on the"
+    },
+    {
+      "start": 222.44,
+      "end": 225.0,
+      "text": "Speaker 4: market for those restrictions. So they've pulled up while they"
+    },
+    {
+      "start": 225.04,
+      "end": 228.44,
+      "text": "Speaker 4: continue to talk with the government. Now there's a certain"
+    },
+    {
+      "start": 228.52,
+      "end": 231.8,
+      "text": "Speaker 4: irony here. You know, two days before this move, Anthropics"
+    },
+    {
+      "start": 231.8,
+      "end": 233.64,
+      "text": "Speaker 4: and Dario Medea had come out and said, you know,"
+    },
+    {
+      "start": 233.72,
+      "end": 236.2,
+      "text": "Speaker 4: he thinks the government should have the ability to ban"
+    },
+    {
+      "start": 236.36,
+      "end": 239.44,
+      "text": "Speaker 4: models that pose certain risks. Two days later, the government"
+    },
+    {
+      "start": 239.44,
+      "end": 241.8,
+      "text": "Speaker 4: took a step has effectively caused a model or two"
+    },
+    {
+      "start": 241.84,
+      "end": 244.28,
+      "text": "Speaker 4: models to be pulled from the market. But in this case,"
+    },
+    {
+      "start": 244.4,
+      "end": 247.92,
+      "text": "Speaker 4: you know, Anthropic is saying it's essentially misguided and the"
+    },
+    {
+      "start": 248.0,
+      "end": 250.64,
+      "text": "Speaker 4: risks outlined may not be as severe as the government's right."
+    },
+    {
+      "start": 250.6,
+      "end": 252.92,
+      "text": "Speaker 2: I think they are seth and Frobic saying there's a"
+    },
+    {
+      "start": 252.92,
+      "end": 255.64,
+      "text": "Speaker 2: misunderstanding here. The issue that the government laid out is"
+    },
+    {
+      "start": 255.68,
+      "end": 258.2,
+      "text": "Speaker 2: something called a jail break in the code. It has"
+    },
+    {
+      "start": 258.279,
+      "end": 260.92,
+      "text": "Speaker 2: to do with guardrails that are placed on the models themselves."
+    },
+    {
+      "start": 260.96,
+      "end": 263.6,
+      "text": "Speaker 2: Could you explain to the Bloomberg Tech audience what the"
+    },
+    {
+      "start": 263.72,
+      "end": 264.68,
+      "text": "Speaker 2: jail break concern?"
+    },
+    {
+      "start": 264.8,
+      "end": 267.2,
+      "text": "Speaker 4: Is important to note that at this point we have"
+    },
+    {
+      "start": 267.279,
+      "end": 271.12,
+      "text": "Speaker 4: not seen the research that Anthropic and former White House"
+    },
+    {
+      "start": 271.2,
+      "end": 273.24,
+      "text": "Speaker 4: or David Stacks have alluded to that implies that there"
+    },
+    {
+      "start": 273.279,
+      "end": 275.4,
+      "text": "Speaker 4: is some kind of jail break former ability. What we"
+    },
+    {
+      "start": 275.48,
+      "end": 278.08,
+      "text": "Speaker 4: understand is that it seems to be pretty narrow in nature."
+    },
+    {
+      "start": 278.08,
+      "end": 282.88,
+      "text": "Speaker 4: It may actually be something that enables cyber defenders to"
+    },
+    {
+      "start": 282.96,
+      "end": 286.2,
+      "text": "Speaker 4: use the technology to spot and protect against flaws. But"
+    },
+    {
+      "start": 286.24,
+      "end": 288.88,
+      "text": "Speaker 4: what Anthropic is saying is, if not some universal jail break,"
+    },
+    {
+      "start": 288.92,
+      "end": 292.0,
+      "text": "Speaker 4: some wider flaw that could be breached in a potentially"
+    },
+    {
+      "start": 292.08,
+      "end": 294.2,
+      "text": "Speaker 4: damaging way. And it seems to believe that the government"
+    },
+    {
+      "start": 294.32,
+      "end": 297.64,
+      "text": "Speaker 4: is either overstaving or misunderstanding the nature of the risk."
+    },
+    {
+      "start": 297.48,
+      "end": 300.96,
+      "text": "Speaker 2: Here, Mike, real quick, what's happened behind the scenes."
+    },
+    {
+      "start": 302.24,
+      "end": 304.159,
+      "text": "Speaker 3: Well, that is what we are trying to find out next,"
+    },
+    {
+      "start": 304.279,
+      "end": 307.04,
+      "text": "Speaker 3: of course, and we want to first know what remedial"
+    },
+    {
+      "start": 307.08,
+      "end": 309.839,
+      "text": "Speaker 3: steps the company could take at the government's behest, what"
+    },
+    {
+      "start": 310.0,
+      "end": 312.84,
+      "text": "Speaker 3: those might look like, how long that might take, and"
+    },
+    {
+      "start": 312.88,
+      "end": 315.4,
+      "text": "Speaker 3: whether the company really would follow suit. We don't know"
+    },
+    {
+      "start": 315.44,
+      "end": 318.4,
+      "text": "Speaker 3: how long this will unfold or if there will even"
+    },
+    {
+      "start": 318.48,
+      "end": 321.28,
+      "text": "Speaker 3: be a legal challenge, And also we have to look"
+    },
+    {
+      "start": 321.44,
+      "end": 325.32,
+      "text": "Speaker 3: at the politics of this abroad. The President just arrived"
+    },
+    {
+      "start": 325.32,
+      "end": 328.12,
+      "text": "Speaker 3: in Geneva for the summit in Evion with other G"
+    },
+    {
+      "start": 328.24,
+      "end": 330.76,
+      "text": "Speaker 3: seven leaders. AI is on the agenda, and now it"
+    },
+    {
+      "start": 330.8,
+      "end": 333.84000000000003,
+      "text": "Speaker 3: will be a more urgent issue, especially as we see"
+    },
+    {
+      "start": 334.0,
+      "end": 337.88,
+      "text": "Speaker 3: economies including the European Union, examining the question of tech"
+    },
+    {
+      "start": 337.96,
+      "end": 341.4,
+      "text": "Speaker 3: sovereignty and the concern that they have about perhaps over"
+    },
+    {
+      "start": 341.52,
+      "end": 344.599,
+      "text": "Speaker 3: reliance in US technology that may be at risk of"
+    },
+    {
+      "start": 344.64,
+      "end": 347.08,
+      "text": "Speaker 3: being taken away from them at a moment's notice."
+    },
+    {
+      "start": 347.6,
+      "end": 350.8,
+      "text": "Speaker 2: Bloombergs Seth Figmann and Bloombergs Mike Shepard in DC, thank"
+    },
+    {
+      "start": 350.839,
+      "end": 353.68,
+      "text": "Speaker 2: you very much. The industry weighs in for more in"
+    },
+    {
+      "start": 353.72,
+      "end": 357.12,
+      "text": "Speaker 2: the impact across the AI ecosystem. We're joined by Joel Pinot,"
+    },
+    {
+      "start": 357.52,
+      "end": 360.719,
+      "text": "Speaker 2: chief AO officer at Cohre, a frontier AI firm focused"
+    },
+    {
+      "start": 360.76,
+      "end": 364.719,
+      "text": "Speaker 2: on LMS and AI applications for business customers, and shep"
+    },
+    {
+      "start": 364.839,
+      "end": 367.719,
+      "text": "Speaker 2: just set it out pretty clearly. At issue here is"
+    },
+    {
+      "start": 367.76,
+      "end": 370.2,
+      "text": "Speaker 2: whether or not the government should be able to say"
+    },
+    {
+      "start": 370.64,
+      "end": 373.76,
+      "text": "Speaker 2: you can or you cannot use a particular piece of"
+    },
+    {
+      "start": 373.8,
+      "end": 376.839,
+      "text": "Speaker 2: technology because of the concern that was outlined. What is"
+    },
+    {
+      "start": 376.88,
+      "end": 378.08,
+      "text": "Speaker 2: Coher's position."
+    },
+    {
+      "start": 377.76,
+      "end": 381.32,
+      "text": "Speaker 5: On that, indeed, And you know co Here's a company"
+    },
+    {
+      "start": 381.32,
+      "end": 384.44,
+      "text": "Speaker 5: that's fully focused on developing models and a gentic platform"
+    },
+    {
+      "start": 384.56,
+      "end": 387.56,
+      "text": "Speaker 5: for enterprises and government, and so we've been talking to"
+    },
+    {
+      "start": 388.16,
+      "end": 391.64,
+      "text": "Speaker 5: that segment of the market for a number of years now."
+    },
+    {
+      "start": 392.36,
+      "end": 393.12,
+      "text": "Speaker 2: What we've been."
+    },
+    {
+      "start": 393.04,
+      "end": 397.479,
+      "text": "Speaker 5: Hearing is that customers want the ability to really control"
+    },
+    {
+      "start": 397.56,
+      "end": 400.0,
+      "text": "Speaker 5: their tech stack. They want to make sure that the"
+    },
+    {
+      "start": 400.08,
+      "end": 403.88,
+      "text": "Speaker 5: technology runs in a predictable way, that it's stable, that"
+    },
+    {
+      "start": 403.96,
+      "end": 407.4,
+      "text": "Speaker 5: it has high guarantees in terms of confidentiality and security,"
+    },
+    {
+      "start": 408.0,
+      "end": 411.52,
+      "text": "Speaker 5: so there's a number of companies and governments already who"
+    },
+    {
+      "start": 411.52,
+      "end": 415.279,
+      "text": "Speaker 5: are opting for on premise installation where they can control"
+    },
+    {
+      "start": 415.279,
+      "end": 418.0,
+      "text": "Speaker 5: the model and they can control all of the software stack."
+    },
+    {
+      "start": 419.24,
+      "end": 421.28,
+      "text": "Speaker 5: Clearly know all the news from the last few days"
+    },
+    {
+      "start": 421.4,
+      "end": 424.64,
+      "text": "Speaker 5: is a huge wake up call for others across the industry."
+    },
+    {
+      "start": 425.0,
+      "end": 427.64,
+      "text": "Speaker 5: The fact that models which a few days before were"
+    },
+    {
+      "start": 427.76,
+      "end": 431.08,
+      "text": "Speaker 5: presented as some of the most capable in industry suddenly are"
+    },
+    {
+      "start": 431.12,
+      "end": 435.04,
+      "text": "Speaker 5: no longer accessible means that there can be a lot"
+    },
+    {
+      "start": 435.08,
+      "end": 437.84,
+      "text": "Speaker 5: of volatility in terms of access to the technology, and"
+    },
+    {
+      "start": 437.88,
+      "end": 440.44,
+      "text": "Speaker 5: that's got to be a big concern for companies."
+    },
+    {
+      "start": 441.28,
+      "end": 444.4,
+      "text": "Speaker 2: Joelle, This news hit five twenty one pm Eastern Time Friday,"
+    },
+    {
+      "start": 444.44,
+      "end": 447.52,
+      "text": "Speaker 2: So I appreciate it's been just a couple of days"
+    },
+    {
+      "start": 447.56,
+      "end": 451.72,
+      "text": "Speaker 2: over the weekend, but has Cohed had any inbound right"
+    },
+    {
+      "start": 452.48,
+      "end": 455.0,
+      "text": "Speaker 2: If there are entities that can't get access to meet"
+    },
+    {
+      "start": 455.04,
+      "end": 457.88,
+      "text": "Speaker 2: those in fable five, maybe they use you."
+    },
+    {
+      "start": 459.56,
+      "end": 462.4,
+      "text": "Speaker 5: I would say, like huge number of inbounds. It's coming"
+    },
+    {
+      "start": 462.44,
+      "end": 467.119,
+      "text": "Speaker 5: from business customers who are looking to diversify the set"
+    },
+    {
+      "start": 467.36,
+      "end": 470.56,
+      "text": "Speaker 5: of technology that they can rely on, both for the"
+    },
+    {
+      "start": 470.64,
+      "end": 474.24,
+      "text": "Speaker 5: core models and we do build our own models and"
+    },
+    {
+      "start": 474.92,
+      "end": 478.88,
+      "text": "Speaker 5: for the orchestration and governance platform. A large number of"
+    },
+    {
+      "start": 478.96,
+      "end": 482.88,
+      "text": "Speaker 5: inbounds from governments around the world especially outside of US"
+    },
+    {
+      "start": 483.08,
+      "end": 486.64,
+      "text": "Speaker 5: and China. Governments are concerned about their own ability to"
+    },
+    {
+      "start": 486.68,
+      "end": 491.32,
+      "text": "Speaker 5: access the technology, but also the economic trajectory of companies"
+    },
+    {
+      "start": 491.32,
+      "end": 495.12,
+      "text": "Speaker 5: and citizens within their frontiers. And then of course a"
+    },
+    {
+      "start": 495.16,
+      "end": 497.72,
+      "text": "Speaker 5: lot of inbound interest from investors who are wondering what"
+    },
+    {
+      "start": 497.84,
+      "end": 500.4,
+      "text": "Speaker 5: does that mean. We know there's of course the big"
+    },
+    {
+      "start": 500.44,
+      "end": 504.12,
+      "text": "Speaker 5: IPOs coming, a lot of volatility from that point of view,"
+    },
+    {
+      "start": 504.36,
+      "end": 505.8,
+      "text": "Speaker 5: and a lot of people who are just trying to"
+    },
+    {
+      "start": 505.96,
+      "end": 509.8,
+      "text": "Speaker 5: understand the situation and see what have the news changed"
+    },
+    {
+      "start": 509.84,
+      "end": 511.84,
+      "text": "Speaker 5: in terms of what should be their investment strategy."
+    },
+    {
+      "start": 512.72,
+      "end": 515.24,
+      "text": "Speaker 2: I had asked Seth to explain the concept of a"
+    },
+    {
+      "start": 515.32,
+      "end": 518.9590000000001,
+      "text": "Speaker 2: jail break in the code, right, that is the reported"
+    },
+    {
+      "start": 519.24,
+      "end": 522.92,
+      "text": "Speaker 2: issue that the US government had with me FOS in"
+    },
+    {
+      "start": 522.92,
+      "end": 527.4,
+      "text": "Speaker 2: Fab five. Explain technically how that works and how you'd"
+    },
+    {
+      "start": 527.4,
+      "end": 531.48,
+      "text": "Speaker 2: approach I guess explaining it if it was you that"
+    },
+    {
+      "start": 531.72,
+      "end": 534.4,
+      "text": "Speaker 2: was dealing with the Commerce Department on a restriction like this."
+    },
+    {
+      "start": 535.2,
+      "end": 538.16,
+      "text": "Speaker 5: Yeah, And so the concept of a jail break can"
+    },
+    {
+      "start": 538.2,
+      "end": 542.56,
+      "text": "Speaker 5: be used pretty loosely, but quite specifically. There's a sense"
+    },
+    {
+      "start": 542.559,
+      "end": 546.52,
+      "text": "Speaker 5: in which a particular system has some guardrails around the"
+    },
+    {
+      "start": 546.559,
+      "end": 550.28,
+      "text": "Speaker 5: intended use of that system, and a jail break happens"
+    },
+    {
+      "start": 550.32,
+      "end": 554.04,
+      "text": "Speaker 5: when someone manages to infiltrate the system in ways that"
+    },
+    {
+      "start": 554.12,
+      "end": 557.52,
+      "text": "Speaker 5: weren't intended. So in this specific case, we can imagine,"
+    },
+    {
+      "start": 557.559,
+      "end": 561.16,
+      "text": "Speaker 5: you know, from Meethos to Fable, anthropic hasts put in"
+    },
+    {
+      "start": 561.24,
+      "end": 566.2,
+      "text": "Speaker 5: some guardrails that circumvent that prevent the ability for the"
+    },
+    {
+      "start": 566.24,
+      "end": 569.04,
+      "text": "Speaker 5: model to be used to create cybersecurity attacks. So we"
+    },
+    {
+      "start": 569.08,
+      "end": 572.84,
+      "text": "Speaker 5: can presume that the specific jail break that was identified"
+    },
+    {
+      "start": 572.92,
+      "end": 576.24,
+      "text": "Speaker 5: is the ability to go around these defenses and in"
+    },
+    {
+      "start": 576.4,
+      "end": 581.4,
+      "text": "Speaker 5: fact make the model produce outputs that would that would"
+    },
+    {
+      "start": 581.559,
+      "end": 585.28,
+      "text": "Speaker 5: leverage some of the cybersecurity capabilities of the model."
+    },
+    {
+      "start": 586.679,
+      "end": 589.8,
+      "text": "Speaker 2: Something the Center of Anthropics response is that many of"
+    },
+    {
+      "start": 589.8,
+      "end": 593.04,
+      "text": "Speaker 2: their own staff wouldn't be able to access this technology"
+    },
+    {
+      "start": 593.16,
+      "end": 595.52,
+      "text": "Speaker 2: based on the restriction, right because many of their staff"
+    },
+    {
+      "start": 595.52,
+      "end": 600.4,
+      "text": "Speaker 2: are foreign nationals. It also highlights a world dependent right"
+    },
+    {
+      "start": 600.44,
+      "end": 604.199,
+      "text": "Speaker 2: now on US technology. You're a Canadian company, I get that,"
+    },
+    {
+      "start": 604.2,
+      "end": 608.559,
+      "text": "Speaker 2: But what's your thinking on that issue, the concentration of"
+    },
+    {
+      "start": 609.04,
+      "end": 612.16,
+      "text": "Speaker 2: leadership in the field of small group of US companies."
+    },
+    {
+      "start": 612.16,
+      "end": 613.8,
+      "text": "Speaker 2: Maybe you dispute."
+    },
+    {
+      "start": 613.4,
+      "end": 617.36,
+      "text": "Speaker 5: That, No, I don't fully dispute in the sense that,"
+    },
+    {
+      "start": 617.44,
+      "end": 619.52,
+      "text": "Speaker 5: like where we sit today, there's literally, you know, four"
+    },
+    {
+      "start": 619.559,
+      "end": 621.56,
+      "text": "Speaker 5: countries in the world that have the ability to train"
+    },
+    {
+      "start": 621.64,
+      "end": 626.84,
+      "text": "Speaker 5: Foundation model US China, France, Canada. Right now, even in"
+    },
+    {
+      "start": 626.88,
+      "end": 629.319,
+      "text": "Speaker 5: those companies in the US, there's a large number of"
+    },
+    {
+      "start": 629.36,
+      "end": 633.52,
+      "text": "Speaker 5: foreign nationals. The you know, inbound talent into the US"
+    },
+    {
+      "start": 633.76,
+      "end": 637.719,
+      "text": "Speaker 5: has been formidable force for the progress of this technology."
+    },
+    {
+      "start": 638.04,
+      "end": 640.199,
+      "text": "Speaker 5: So this is going to be a big challenge. And"
+    },
+    {
+      "start": 640.559,
+      "end": 643.28,
+      "text": "Speaker 5: the other thing that's worth mentioning is, in many ways,"
+    },
+    {
+      "start": 643.28,
+      "end": 645.36,
+      "text": "Speaker 5: a lot of the developments in AI of the last"
+    },
+    {
+      "start": 645.72,
+      "end": 649.16,
+      "text": "Speaker 5: few years, you know, are at this level of ideas"
+    },
+    {
+      "start": 649.2,
+      "end": 651.9590000000001,
+      "text": "Speaker 5: and concepts. Sure we have the models, but really the"
+    },
+    {
+      "start": 652.8,
+      "end": 655.72,
+      "text": "Speaker 5: recipe for training these models sits in the head of"
+    },
+    {
+      "start": 655.76,
+      "end": 660.0,
+      "text": "Speaker 5: a relatively small number of people. But there's, you know,"
+    },
+    {
+      "start": 660.16,
+      "end": 663.559,
+      "text": "Speaker 5: a large enough amount of circulation between the various companies"
+    },
+    {
+      "start": 663.559,
+      "end": 666.44,
+      "text": "Speaker 5: that we can assume that the capabilities to do that exist,"
+    },
+    {
+      "start": 666.88,
+      "end": 668.08,
+      "text": "Speaker 5: not just at asan tropic."
+    },
+    {
+      "start": 669.24,
+      "end": 672.199,
+      "text": "Speaker 2: Joelle Pinot of Cohre, thank you very much for your time."
+    },
+    {
+      "start": 672.4,
+      "end": 674.8,
+      "text": "Speaker 2: What is our top story today? Now coming up, in"
+    },
+    {
+      "start": 674.96,
+      "end": 677.84,
+      "text": "Speaker 2: Vidia heads back to the bomb market after a five"
+    },
+    {
+      "start": 677.92,
+      "end": 680.44,
+      "text": "Speaker 2: year absence. Why is the AI giant looking to raise"
+    },
+    {
+      "start": 680.559,
+      "end": 683.92,
+      "text": "Speaker 2: billions of dollars while it's sitting on a mountain of cash."
+    },
+    {
+      "start": 684.08,
+      "end": 686.56,
+      "text": "Speaker 2: That's what the stock picture looks like. Be right back."
+    },
+    {
+      "start": 686.6,
+      "end": 695.0,
+      "text": "Speaker 2: This is Blimberg Tech. Today's big number twenty billion dollars."
+    },
+    {
+      "start": 695.04,
+      "end": 697.4,
+      "text": "Speaker 2: In Vidia is looking to raise at least that in"
+    },
+    {
+      "start": 697.44,
+      "end": 700.56,
+      "text": "Speaker 2: its first bond sales since twenty twenty one. According to"
+    },
+    {
+      "start": 700.6,
+      "end": 704.48,
+      "text": "Speaker 2: sources seven trenches maturities from two to thirty years. The"
+    },
+    {
+      "start": 704.559,
+      "end": 708.8,
+      "text": "Speaker 2: proceeds will be used for general corporate purposes, including refinancing"
+    },
+    {
+      "start": 708.92,
+      "end": 711.88,
+      "text": "Speaker 2: existing debt as in Vidia joins other AI leaders like"
+    },
+    {
+      "start": 711.92,
+      "end": 715.44,
+      "text": "Speaker 2: Amazon and Alphabet in raising large amounts of capital to"
+    },
+    {
+      "start": 715.52,
+      "end": 718.92,
+      "text": "Speaker 2: fund AI related infrastructure. But why does a company so"
+    },
+    {
+      "start": 719.08,
+      "end": 723.52,
+      "text": "Speaker 2: flush with cash need to borrow more? Bloomberg Intelligence reckons"
+    },
+    {
+      "start": 723.559,
+      "end": 727.04,
+      "text": "Speaker 2: that it's to focus on funding partners, b I Senior"
+    },
+    {
+      "start": 727.08,
+      "end": 729.84,
+      "text": "Speaker 2: Credit and List. Robert Schiffman joins us, Now, when you"
+    },
+    {
+      "start": 729.92,
+      "end": 731.92,
+      "text": "Speaker 2: publish the react, that's the bit that jumps out of"
+    },
+    {
+      "start": 731.96,
+      "end": 735.6,
+      "text": "Speaker 2: me off the page, right, Why would they do that? Well,"
+    },
+    {
+      "start": 735.72,
+      "end": 738.76,
+      "text": "Speaker 2: they have a track record of investing in the kinds"
+    },
+    {
+      "start": 738.76,
+      "end": 742.52,
+      "text": "Speaker 2: of startups that rely on their technology. Extrapolate on that thesis."
+    },
+    {
+      "start": 742.76,
+      "end": 745.8,
+      "text": "Speaker 6: Yeah, well, listen, you can never be too rich. It's"
+    },
+    {
+      "start": 745.84,
+      "end": 748.96,
+      "text": "Speaker 6: a good problem to have. Quite frankly, in Video does"
+    },
+    {
+      "start": 749.08,
+      "end": 751.2,
+      "text": "Speaker 6: have a cash problem. They have too much of it."
+    },
+    {
+      "start": 751.44,
+      "end": 753.6,
+      "text": "Speaker 6: So people are scratching their heads this morning thinking why"
+    },
+    {
+      "start": 753.6,
+      "end": 756.88,
+      "text": "Speaker 6: are they raising more? Listen, you take money down when"
+    },
+    {
+      "start": 756.88,
+      "end": 760.72,
+      "text": "Speaker 6: it's available. There is so much money chasing after this"
+    },
+    {
+      "start": 760.84,
+      "end": 762.8389999999999,
+      "text": "Speaker 6: AI build out. They're going to put in the highest"
+    },
+    {
+      "start": 762.88,
+      "end": 765.28,
+      "text": "Speaker 6: quality names that they can, and I think in Video"
+    },
+    {
+      "start": 765.36,
+      "end": 769.4,
+      "text": "Speaker 6: is just taking opportunity here to basically borrow at effectively"
+    },
+    {
+      "start": 769.44,
+      "end": 772.04,
+      "text": "Speaker 6: a zero rate, at least from a whack perspective, to"
+    },
+    {
+      "start": 772.04,
+      "end": 774.64,
+      "text": "Speaker 6: give them more financial flexibility. I think they're likely to"
+    },
+    {
+      "start": 774.64,
+      "end": 778.64,
+      "text": "Speaker 6: pour money, probably back into street strategic partners like open Ai,"
+    },
+    {
+      "start": 778.92,
+      "end": 781.96,
+      "text": "Speaker 6: like Anthropic, and who knows, maybe a SpaceX, which is"
+    },
+    {
+      "start": 782.04,
+      "end": 784.04,
+      "text": "Speaker 6: likely to do their own bond deal might come to"
+    },
+    {
+      "start": 784.559,
+      "end": 787.12,
+      "text": "Speaker 6: in Vidia for some financing down the line as well."
+    },
+    {
+      "start": 788.12,
+      "end": 790.64,
+      "text": "Speaker 2: There's like the smart cost of capital angle to this."
+    },
+    {
+      "start": 790.84,
+      "end": 795.6,
+      "text": "Speaker 2: The shareholder return story has changed recently with Nvidia. You know,"
+    },
+    {
+      "start": 796.4,
+      "end": 798.68,
+      "text": "Speaker 2: I'm a student of your work, right, It's not that"
+    },
+    {
+      "start": 798.88,
+      "end": 801.88,
+      "text": "Speaker 2: unusual for companies flush or cash to just say, like, okay,"
+    },
+    {
+      "start": 802.08,
+      "end": 804.36,
+      "text": "Speaker 2: this is an interesting thing for the finance or with"
+    },
+    {
+      "start": 804.44,
+      "end": 806.959,
+      "text": "Speaker 2: the treasury team to do. Explain the kind of nitty"
+    },
+    {
+      "start": 806.96,
+      "end": 807.56,
+      "text": "Speaker 2: gritty of that."
+    },
+    {
+      "start": 807.88,
+      "end": 810.56,
+      "text": "Speaker 6: Well, listen, you know, the weighted average cost of capital"
+    },
+    {
+      "start": 810.6,
+      "end": 812.96,
+      "text": "Speaker 6: is what they're looking at. The weighted average cost of"
+    },
+    {
+      "start": 812.96,
+      "end": 815.68,
+      "text": "Speaker 6: debt when you have a five trillion dollar equity market"
+    },
+    {
+      "start": 815.76,
+      "end": 819.76,
+      "text": "Speaker 6: cap is basically zero. So you could take money, borrow"
+    },
+    {
+      "start": 819.8,
+      "end": 822.92,
+      "text": "Speaker 6: it from from bondholders, and use it for equity or"
+    },
+    {
+      "start": 822.96,
+      "end": 826.68,
+      "text": "Speaker 6: equity style investments at a little or no cost. I"
+    },
+    {
+      "start": 826.679,
+      "end": 827.9590000000001,
+      "text": "Speaker 6: think you're going to see more of this. You sell"
+    },
+    {
+      "start": 828.0,
+      "end": 830.92,
+      "text": "Speaker 6: a lot of this from Apple over the years."
+    },
+    {
+      "start": 830.44,
+      "end": 832.0,
+      "text": "Speaker 2: We're not used to."
+    },
+    {
+      "start": 832.0,
+      "end": 833.88,
+      "text": "Speaker 6: It now though, because most of these other companies have"
+    },
+    {
+      "start": 833.96,
+      "end": 836.52,
+      "text": "Speaker 6: now turned free cashual negative and they need it for"
+    },
+    {
+      "start": 836.6,
+      "end": 840.0,
+      "text": "Speaker 6: funding for their AI investments. That's not what Nvidia needs."
+    },
+    {
+      "start": 840.04,
+      "end": 842.04,
+      "text": "Speaker 6: And Video is probably going to generate a couple hundred"
+    },
+    {
+      "start": 842.08,
+      "end": 844.56,
+      "text": "Speaker 6: billion dollars of free cashrow over the next year, so"
+    },
+    {
+      "start": 844.6,
+      "end": 847.24,
+      "text": "Speaker 6: they're swimming in the money. But again, when people are"
+    },
+    {
+      "start": 847.24,
+      "end": 849.319,
+      "text": "Speaker 6: willing to give it away for next to nothing, you're"
+    },
+    {
+      "start": 849.36,
+      "end": 851.36,
+      "text": "Speaker 6: going to take it and you're going to give yourself"
+    },
+    {
+      "start": 851.36,
+      "end": 852.52,
+      "text": "Speaker 6: that financial flexibility."
+    },
+    {
+      "start": 853.6,
+      "end": 856.28,
+      "text": "Speaker 2: Robert Schiffman, who leads our credit research of Bloomberg Intelligence,"
+    },
+    {
+      "start": 856.32,
+      "end": 859.28,
+      "text": "Speaker 2: thank you so much. Let's turn to SpaceX, who shares"
+    },
+    {
+      "start": 859.36,
+      "end": 862.92,
+      "text": "Speaker 2: our extending gains for their second day of trading following"
+    },
+    {
+      "start": 863.2,
+      "end": 868.04,
+      "text": "Speaker 2: the company's blockbuster public market's debut Friday. The trading offers"
+    },
+    {
+      "start": 868.08,
+      "end": 872.36,
+      "text": "Speaker 2: this other glimpse into investors demand for what was one"
+    },
+    {
+      "start": 872.4,
+      "end": 874.4,
+      "text": "Speaker 2: of the world's most private companies. And then they did"
+    },
+    {
+      "start": 874.4,
+      "end": 877.12,
+      "text": "Speaker 2: the biggest IPO in history. There are some mechanics to"
+    },
+    {
+      "start": 877.16,
+      "end": 880.08,
+      "text": "Speaker 2: what's happening in the market next joining us as Stephanie Aliaga,"
+    },
+    {
+      "start": 880.2,
+      "end": 883.8,
+      "text": "Speaker 2: JP Morgan Asset Management, Global market strategist. You know, the"
+    },
+    {
+      "start": 883.8,
+      "end": 886.8,
+      "text": "Speaker 2: big anxiety in the days leading up to the IPO"
+    },
+    {
+      "start": 887.56,
+      "end": 891.88,
+      "text": "Speaker 2: was this great rebalancing of the passive funds. Because nasdak"
+    },
+    {
+      "start": 892.16,
+      "end": 897.4,
+      "text": "Speaker 2: Russell Indicas fast tracks SpaceX's inclusion, it's day two. Shares"
+    },
+    {
+      "start": 897.4,
+      "end": 900.56,
+      "text": "Speaker 2: are still higher. But how much does the market need"
+    },
+    {
+      "start": 900.64,
+      "end": 904.28,
+      "text": "Speaker 2: time to digest before it has to undertake that rebalancing."
+    },
+    {
+      "start": 904.84,
+      "end": 907.48,
+      "text": "Speaker 7: It's a great question, and that's exactly the point. You know,"
+    },
+    {
+      "start": 907.6,
+      "end": 910.0,
+      "text": "Speaker 7: this issue of all of this issue and sitting the"
+    },
+    {
+      "start": 910.04,
+      "end": 913.04,
+      "text": "Speaker 7: market doesn't happen all at once. You know, relative to"
+    },
+    {
+      "start": 913.12,
+      "end": 916.68,
+      "text": "Speaker 7: the size of how much supply of SpaceX there will"
+    },
+    {
+      "start": 916.72,
+      "end": 918.36,
+      "text": "Speaker 7: be in the market right now, we're just looking at"
+    },
+    {
+      "start": 918.4,
+      "end": 920.96,
+      "text": "Speaker 7: a small fraction of it. Right four and a half"
+    },
+    {
+      "start": 920.96,
+      "end": 923.96,
+      "text": "Speaker 7: percent was that first day's volume, and that's going."
+    },
+    {
+      "start": 923.88,
+      "end": 925.04,
+      "text": "Speaker 2: To ramp up over time."
+    },
+    {
+      "start": 925.16,
+      "end": 927.32,
+      "text": "Speaker 7: We think that six month mark is really going to"
+    },
+    {
+      "start": 927.36,
+      "end": 930.68,
+      "text": "Speaker 7: be the point where you might see more volatility just"
+    },
+    {
+      "start": 930.68,
+      "end": 933.92,
+      "text": "Speaker 7: to give in a greater supply in the markets, and"
+    },
+    {
+      "start": 933.96,
+      "end": 936.6,
+      "text": "Speaker 7: then that increasing over time gradually over the over the"
+    },
+    {
+      "start": 936.6,
+      "end": 938.68,
+      "text": "Speaker 7: course of the year, particularly given the S and P"
+    },
+    {
+      "start": 939.2,
+      "end": 942.8,
+      "text": "Speaker 7: taking a more temperate pace there, but given that longer"
+    },
+    {
+      "start": 942.88,
+      "end": 945.04,
+      "text": "Speaker 7: term horizon, I mean, that's key here. You know, this"
+    },
+    {
+      "start": 945.08,
+      "end": 949.56,
+      "text": "Speaker 7: is a market where we are looking at a large"
+    },
+    {
+      "start": 950.08,
+      "end": 953.24,
+      "text": "Speaker 7: bump in terms of IPO issuance this year. This year"
+    },
+    {
+      "start": 953.32,
+      "end": 956.8,
+      "text": "Speaker 7: projected around two hundred and sixty billion dollars, but for"
+    },
+    {
+      "start": 956.88,
+      "end": 962.28,
+      "text": "Speaker 7: a market the size of sixty five trillion dollars that"
+    },
+    {
+      "start": 962.44,
+      "end": 965.68,
+      "text": "Speaker 7: is less than one percent of the overall market cap"
+    },
+    {
+      "start": 965.76,
+      "end": 968.24,
+      "text": "Speaker 7: of the market, a market that is also fifty five"
+    },
+    {
+      "start": 968.32,
+      "end": 971.68,
+      "text": "Speaker 7: percent greater than it was in twenty twenty one. So"
+    },
+    {
+      "start": 972.12,
+      "end": 974.72,
+      "text": "Speaker 7: we think so long as the market continues to trunk"
+    },
+    {
+      "start": 974.72,
+      "end": 977.96,
+      "text": "Speaker 7: along here with robust fundamentals, we just had a really"
+    },
+    {
+      "start": 978.0,
+      "end": 982.16,
+      "text": "Speaker 7: solid earning season. This AI capex boom continues to funnel"
+    },
+    {
+      "start": 982.4,
+      "end": 986.12,
+      "text": "Speaker 7: earnings growth and revenue growth across the market, and households"
+    },
+    {
+      "start": 986.12,
+      "end": 989.76,
+      "text": "Speaker 7: remain in pretty strong buyers retail activity is strong. We"
+    },
+    {
+      "start": 989.88,
+      "end": 992.52,
+      "text": "Speaker 7: think that this is a market that can digest this"
+    },
+    {
+      "start": 992.64,
+      "end": 995.12,
+      "text": "Speaker 7: increase in issuance and its issuance that we have really"
+    },
+    {
+      "start": 995.16,
+      "end": 997.88,
+      "text": "Speaker 7: been strapped for for a number of years."
+    },
+    {
+      "start": 998.08,
+      "end": 999.84,
+      "text": "Speaker 2: I want to go back to something we show them the"
+    },
+    {
+      "start": 999.84,
+      "end": 1001.64,
+      "text": "Speaker 2: screen a minute ago, and it's basically more of an"
+    },
+    {
+      "start": 1001.72,
+      "end": 1004.72,
+      "text": "Speaker 2: fyi that in the end, they sold more than the"
+    },
+    {
+      "start": 1004.72,
+      "end": 1007.4,
+      "text": "Speaker 2: five hundred and fifty five point six million shares and"
+    },
+    {
+      "start": 1007.48,
+      "end": 1009.92,
+      "text": "Speaker 2: raised more than seventy five billion dollars. Right, this is"
+    },
+    {
+      "start": 1010.2,
+      "end": 1013.64,
+      "text": "Speaker 2: basically an instant exercising of the green shoe, eighty three"
+    },
+    {
+      "start": 1013.64,
+      "end": 1016.8,
+      "text": "Speaker 2: point three million shares raising proceeds of eighty five point"
+    },
+    {
+      "start": 1016.84,
+      "end": 1019.96,
+      "text": "Speaker 2: seven billion. This has been a story that started to"
+    },
+    {
+      "start": 1020.0,
+      "end": 1023.44,
+      "text": "Speaker 2: about a race to IPO, SpaceX and now likely anthropic"
+    },
+    {
+      "start": 1023.48,
+      "end": 1026.72,
+      "text": "Speaker 2: and open AI, and it quickly changed to a story"
+    },
+    {
+      "start": 1026.76,
+      "end": 1030.32,
+      "text": "Speaker 2: about race to capital. Alphabet came in massive equity offering"
+    },
+    {
+      "start": 1030.48,
+      "end": 1034.48,
+      "text": "Speaker 2: in Nvidia, tapping the corporate bond market. Do you see"
+    },
+    {
+      "start": 1034.48,
+      "end": 1035.4,
+      "text": "Speaker 2: a race to capital?"
+    },
+    {
+      "start": 1036.44,
+      "end": 1041.32,
+      "text": "Speaker 7: I think the economics around the AI boom continue to mount. Now,"
+    },
+    {
+      "start": 1041.359,
+      "end": 1044.24,
+      "text": "Speaker 7: obviously these companies are all in different pieces of this"
+    },
+    {
+      "start": 1044.359,
+      "end": 1047.359,
+      "text": "Speaker 7: value chain in are raising capital variety of different reasons,"
+    },
+    {
+      "start": 1047.68,
+      "end": 1049.56,
+      "text": "Speaker 7: but it is something that investors are going to have"
+    },
+    {
+      "start": 1049.64,
+      "end": 1052.04,
+      "text": "Speaker 7: to get used to. I think, you know, we as"
+    },
+    {
+      "start": 1052.08,
+      "end": 1055.44,
+      "text": "Speaker 7: great as the balance sheets of some of these companies are."
+    },
+    {
+      "start": 1056.04,
+      "end": 1058.56,
+      "text": "Speaker 7: This AI wave is just getting to be that much"
+    },
+    {
+      "start": 1058.6,
+      "end": 1063.08,
+      "text": "Speaker 7: more expensive, and all of the revenues around AI will"
+    },
+    {
+      "start": 1063.08,
+      "end": 1066.36,
+      "text": "Speaker 7: eventually come, but this is going to be a multi"
+    },
+    {
+      "start": 1066.52,
+      "end": 1070.28,
+      "text": "Speaker 7: year phenomenon, and right now we are ramping up to"
+    },
+    {
+      "start": 1070.44,
+      "end": 1074.359,
+      "text": "Speaker 7: spend significantly more around AI infrastructure and all of these"
+    },
+    {
+      "start": 1074.4,
+      "end": 1077.159,
+      "text": "Speaker 7: different pieces of the value chain. I think that points"
+    },
+    {
+      "start": 1077.2,
+      "end": 1080.2,
+      "text": "Speaker 7: to the need for selectivity. Not all that glitters is gold."
+    },
+    {
+      "start": 1080.24,
+      "end": 1083.48,
+      "text": "Speaker 7: These companies do vary in their financials. We think at large,"
+    },
+    {
+      "start": 1083.8,
+      "end": 1086.76,
+      "text": "Speaker 7: the fundamentals of this market and of the companies you know,"
+    },
+    {
+      "start": 1086.84,
+      "end": 1090.96,
+      "text": "Speaker 7: spending the most and raising issuance in various markets is"
+    },
+    {
+      "start": 1091.0,
+      "end": 1093.88,
+      "text": "Speaker 7: still robust, but you want to make sure in your"
+    },
+    {
+      "start": 1093.92,
+      "end": 1097.96,
+      "text": "Speaker 7: portfolios that you have some proper diversification, just given that"
+    },
+    {
+      "start": 1098.08,
+      "end": 1100.76,
+      "text": "Speaker 7: you know, the leverage and the economics around this AI"
+    },
+    {
+      "start": 1100.8,
+      "end": 1102.84,
+      "text": "Speaker 7: wave are definitely beginning to diverge."
+    },
+    {
+      "start": 1103.72,
+      "end": 1106.32,
+      "text": "Speaker 2: Stephanie, we've just got thirty seconds. But how closely are"
+    },
+    {
+      "start": 1106.359,
+      "end": 1109.76,
+      "text": "Speaker 2: you tracking private markets because there are competing stories right"
+    },
+    {
+      "start": 1109.84,
+      "end": 1112.76,
+      "text": "Speaker 2: There is also the staying private for longer because you"
+    },
+    {
+      "start": 1112.84,
+      "end": 1114.84,
+      "text": "Speaker 2: can like, how much do you track that?"
+    },
+    {
+      "start": 1115.48,
+      "end": 1117.639,
+      "text": "Speaker 7: Yeah, well, we think that that theme is still very"
+    },
+    {
+      "start": 1117.76,
+      "end": 1120.04,
+      "text": "Speaker 7: much alive and well, I mean, you are going to"
+    },
+    {
+      "start": 1120.04,
+      "end": 1123.72,
+      "text": "Speaker 7: get likely some big, high profile AI names, but the"
+    },
+    {
+      "start": 1123.76,
+      "end": 1127.0,
+      "text": "Speaker 7: IPO markets are still going to be very selective. And"
+    },
+    {
+      "start": 1127.28,
+      "end": 1130.96,
+      "text": "Speaker 7: a lot of the companies building in this AI race,"
+    },
+    {
+      "start": 1131.0,
+      "end": 1135.8,
+      "text": "Speaker 7: whether it is robotics or even semis, but also particularly"
+    },
+    {
+      "start": 1135.88,
+      "end": 1140.56,
+      "text": "Speaker 7: the application layer and building AI for healthcare, AI for logistics,"
+    },
+    {
+      "start": 1140.92,
+      "end": 1143.24,
+      "text": "Speaker 7: all of those companies are in private markets right now."
+    },
+    {
+      "start": 1143.48,
+      "end": 1145.76,
+      "text": "Speaker 7: And of course not all that glitters is gold. I mean,"
+    },
+    {
+      "start": 1145.88,
+      "end": 1148.8,
+      "text": "Speaker 7: market returns there can be quite volatile too, But when"
+    },
+    {
+      "start": 1148.84,
+      "end": 1151.439,
+      "text": "Speaker 7: these companies eventually reach public markets, a lot of that"
+    },
+    {
+      "start": 1151.48,
+      "end": 1154.04,
+      "text": "Speaker 7: growth has already happened, and that is a reason for"
+    },
+    {
+      "start": 1154.08,
+      "end": 1156.84,
+      "text": "Speaker 7: investors to make sure they're looking beyond just public markets"
+    },
+    {
+      "start": 1156.84,
+      "end": 1157.76,
+      "text": "Speaker 7: and their portfolios."
+    },
+    {
+      "start": 1158.28,
+      "end": 1161.96,
+      "text": "Speaker 2: Stephanie eliagro JP Organizet Management. Thank you very much. A"
+    },
+    {
+      "start": 1162.0,
+      "end": 1164.439,
+      "text": "Speaker 2: quick update on the Anthropic story. A US official has"
+    },
+    {
+      "start": 1164.56,
+      "end": 1167.68,
+      "text": "Speaker 2: just confirmed that unpropping executives will be meeting at the"
+    },
+    {
+      "start": 1167.68,
+      "end": 1171.0,
+      "text": "Speaker 2: Commerce Department today. Will follow the story as it develops"
+    },
+    {
+      "start": 1171.0,
+      "end": 1173.359,
+      "text": "Speaker 2: and bring you the latest. Now coming up, Fox has"
+    },
+    {
+      "start": 1173.4,
+      "end": 1176.24,
+      "text": "Speaker 2: agreed to buy device and streaming company Roku in a"
+    },
+    {
+      "start": 1176.32,
+      "end": 1178.6,
+      "text": "Speaker 2: deal that would create a new TV juggernaut. We've got"
+    },
+    {
+      "start": 1178.64,
+      "end": 1185.32,
+      "text": "Speaker 2: those details. Next, this is Bloomberg Tech. Fox has agreed"
+    },
+    {
+      "start": 1185.359,
+      "end": 1187.84,
+      "text": "Speaker 2: by Roku in a deal that values the streamer at"
+    },
+    {
+      "start": 1187.84,
+      "end": 1190.76,
+      "text": "Speaker 2: twenty two billion dollars including debt. The tie up will"
+    },
+    {
+      "start": 1190.76,
+      "end": 1193.96,
+      "text": "Speaker 2: create the third largest player in the US television market"
+    },
+    {
+      "start": 1193.96,
+      "end": 1197.56,
+      "text": "Speaker 2: by viewership. Bloomberg Deals. Michelle Davis joins us with the deats."
+    },
+    {
+      "start": 1198.16,
+      "end": 1200.92,
+      "text": "Speaker 2: Interesting one. I've got a Roku TV somewhere in my house."
+    },
+    {
+      "start": 1201.24,
+      "end": 1204.399,
+      "text": "Speaker 2: What's this about. What's the strategic play from Fox? Yeah,"
+    },
+    {
+      "start": 1204.44,
+      "end": 1204.84,
+      "text": "Speaker 2: this is a."
+    },
+    {
+      "start": 1204.76,
+      "end": 1208.64,
+      "text": "Speaker 8: Really interesting deal because Roku is seen as kind of"
+    },
+    {
+      "start": 1208.68,
+      "end": 1212.28,
+      "text": "Speaker 8: the last big aggregator out there that everyone was wondering"
+    },
+    {
+      "start": 1212.359,
+      "end": 1215.76,
+      "text": "Speaker 8: when it would get taken over. The founder for years"
+    },
+    {
+      "start": 1216.6,
+      "end": 1219.04,
+      "text": "Speaker 8: has controlled the company and there's always a question as"
+    },
+    {
+      "start": 1219.04,
+      "end": 1221.84,
+      "text": "Speaker 8: to does it make more sense to aggregate content and"
+    },
+    {
+      "start": 1221.88,
+      "end": 1224.679,
+      "text": "Speaker 8: be the platform on top of which you know, content streams,"
+    },
+    {
+      "start": 1224.76,
+      "end": 1226.76,
+      "text": "Speaker 8: or does it make sense to be a really big"
+    },
+    {
+      "start": 1226.8,
+      "end": 1229.88,
+      "text": "Speaker 8: streamer that generates most of its revenue that way? And"
+    },
+    {
+      "start": 1230.48,
+      "end": 1233.44,
+      "text": "Speaker 8: by buying Roku, Fox is basically saying we want to"
+    },
+    {
+      "start": 1233.44,
+      "end": 1236.479,
+      "text": "Speaker 8: make sure we are that neutral third party platform. Roku"
+    },
+    {
+      "start": 1236.8,
+      "end": 1239.399,
+      "text": "Speaker 8: makes most of its money on advertising, which is an"
+    },
+    {
+      "start": 1239.44,
+      "end": 1242.76,
+      "text": "Speaker 8: area that Fox had kind of fallen behind its competitors"
+    },
+    {
+      "start": 1242.8,
+      "end": 1246.6,
+      "text": "Speaker 8: on in this you know, new streaming central environment, and"
+    },
+    {
+      "start": 1246.72,
+      "end": 1249.119,
+      "text": "Speaker 8: so that's a lot of what the value is going"
+    },
+    {
+      "start": 1249.2,
+      "end": 1251.8,
+      "text": "Speaker 8: to be coming from here for them twenty."
+    },
+    {
+      "start": 1251.64,
+      "end": 1254.56,
+      "text": "Speaker 2: First century folks down significantly take me into the terms"
+    },
+    {
+      "start": 1254.64,
+      "end": 1255.96,
+      "text": "Speaker 2: like where we're at in the process."
+    },
+    {
+      "start": 1256.48,
+      "end": 1260.04,
+      "text": "Speaker 8: So the deal, it's a cash and stock deal that"
+    },
+    {
+      "start": 1260.32,
+      "end": 1262.8,
+      "text": "Speaker 8: the shares are down on the news of course, because"
+    },
+    {
+      "start": 1262.84,
+      "end": 1265.48,
+      "text": "Speaker 8: you know, investors don't always love to see a stock deal."
+    },
+    {
+      "start": 1265.92,
+      "end": 1268.199,
+      "text": "Speaker 8: At this point, the deal values rocud about twenty two"
+    },
+    {
+      "start": 1268.24,
+      "end": 1271.72,
+      "text": "Speaker 8: billion dollars enterprise value, so that's including debt. Of course,"
+    },
+    {
+      "start": 1271.76,
+      "end": 1276.28,
+      "text": "Speaker 8: if Fox shares continue to decline up until the deal closes,"
+    },
+    {
+      "start": 1276.56,
+      "end": 1279.479,
+      "text": "Speaker 8: that will mean that some of the overall value for"
+    },
+    {
+      "start": 1279.6,
+      "end": 1282.0,
+      "text": "Speaker 8: the deal will be a little bit lower than twenty"
+    },
+    {
+      "start": 1282.0,
+      "end": 1284.64,
+      "text": "Speaker 8: two billion dollars. But this really caps off a multi"
+    },
+    {
+      "start": 1284.8,
+      "end": 1290.72,
+      "text": "Speaker 8: month process where Roku had been exploring strategic alternatives. The founder,"
+    },
+    {
+      "start": 1290.76,
+      "end": 1292.439,
+      "text": "Speaker 8: Anthony Wood as if we were just talking about had"
+    },
+    {
+      "start": 1292.48,
+      "end": 1296.08,
+      "text": "Speaker 8: been thinking about, you know, what's next, succession planning and"
+    },
+    {
+      "start": 1296.16,
+      "end": 1299.32,
+      "text": "Speaker 8: Roku and Fox actually have a long history. Fox had"
+    },
+    {
+      "start": 1299.359,
+      "end": 1303.0,
+      "text": "Speaker 8: invested in Roku years ago before the IPO. They sold"
+    },
+    {
+      "start": 1303.0,
+      "end": 1305.32,
+      "text": "Speaker 8: out of their stake at the time that they bought"
+    },
+    {
+      "start": 1305.48,
+      "end": 1309.08,
+      "text": "Speaker 8: to be but by buying Roku, they're kind of the"
+    },
+    {
+      "start": 1309.08,
+      "end": 1311.8,
+      "text": "Speaker 8: two companies are coming back together. The founder will have"
+    },
+    {
+      "start": 1311.92,
+      "end": 1315.36,
+      "text": "Speaker 8: a role on the board of the combined company."
+    },
+    {
+      "start": 1316.16,
+      "end": 1318.68,
+      "text": "Speaker 2: In books, Michelle Davis, thank you very much. In other"
+    },
+    {
+      "start": 1318.8,
+      "end": 1320.92,
+      "text": "Speaker 2: m and A and US sales Force has agreed to"
+    },
+    {
+      "start": 1320.96,
+      "end": 1324.159,
+      "text": "Speaker 2: by aifirm, Finn for three point six billion dollars. Finn's"
+    },
+    {
+      "start": 1324.2,
+      "end": 1329.119,
+      "text": "Speaker 2: customer service tools will complement Salesforce's agentic capabilities. According to"
+    },
+    {
+      "start": 1329.16,
+      "end": 1331.6,
+      "text": "Speaker 2: the company, AI is a key part of the software"
+    },
+    {
+      "start": 1331.6,
+      "end": 1335.48,
+      "text": "Speaker 2: maker's growth strategy as it works to boost investor confidence."
+    },
+    {
+      "start": 1335.6,
+      "end": 1339.0,
+      "text": "Speaker 2: Salesforce shares upper percentage point right. M and A has"
+    },
+    {
+      "start": 1339.04,
+      "end": 1341.679,
+      "text": "Speaker 2: been at the heart of the Salesforce story for a"
+    },
+    {
+      "start": 1341.68,
+      "end": 1344.56,
+      "text": "Speaker 2: little while. Now we'll keep tracking it. Coming up. City's"
+    },
+    {
+      "start": 1344.56,
+      "end": 1347.84,
+      "text": "Speaker 2: head of pan Asia Internet Research, Alisha Yapp, joined us"
+    },
+    {
+      "start": 1347.84,
+      "end": 1351.119,
+      "text": "Speaker 2: to break down where China's tech market stands in a"
+    },
+    {
+      "start": 1351.16,
+      "end": 1355.72,
+      "text": "Speaker 2: big global race. It is halftime. People will be right back."
+    },
+    {
+      "start": 1356.359,
+      "end": 1367.52,
+      "text": "Speaker 2: This is Bloomberg Tech Welcome back to Bloomberg Tech. This"
+    },
+    {
+      "start": 1367.56,
+      "end": 1369.639,
+      "text": "Speaker 2: is what the technology sector looks like. There is a"
+    },
+    {
+      "start": 1369.64,
+      "end": 1373.2,
+      "text": "Speaker 2: big focus on the outcome of what's happening between the"
+    },
+    {
+      "start": 1373.32,
+      "end": 1375.959,
+      "text": "Speaker 2: United States in Iran and some sort of deal. We'll"
+    },
+    {
+      "start": 1375.96,
+      "end": 1377.919,
+      "text": "Speaker 2: get at the details on that in just a moment."
+    },
+    {
+      "start": 1378.04,
+      "end": 1381.32,
+      "text": "Speaker 2: SpaceX is trading for just the second day as a"
+    },
+    {
+      "start": 1381.32,
+      "end": 1384.44,
+      "text": "Speaker 2: public company, up eight percent, one hundred and seventy three"
+    },
+    {
+      "start": 1384.48,
+      "end": 1387.48,
+      "text": "Speaker 2: dollars fifty five cents a share and rising. We'll keep"
+    },
+    {
+      "start": 1387.52,
+      "end": 1389.72,
+      "text": "Speaker 2: tracking that story. There's a lot of factors going into"
+    },
+    {
+      "start": 1389.76,
+      "end": 1393.4,
+      "text": "Speaker 2: the biggest IPO in history. Let's get out to Geneva."
+    },
+    {
+      "start": 1393.44,
+      "end": 1397.159,
+      "text": "Speaker 2: Global leaders are arriving in France for the G seven summit,"
+    },
+    {
+      "start": 1397.32,
+      "end": 1402.04,
+      "text": "Speaker 2: and this time the usual geoplogical guest list has tech additions."
+    },
+    {
+      "start": 1402.08,
+      "end": 1406.639,
+      "text": "Speaker 2: The chief executives of major AI companies Open Ai Andthropic"
+    },
+    {
+      "start": 1406.92,
+      "end": 1410.08,
+      "text": "Speaker 2: Google are all slated to attend the gathering commes just"
+    },
+    {
+      "start": 1410.16,
+      "end": 1414.48,
+      "text": "Speaker 2: days after an unprecedented White House order forced Anthropic to"
+    },
+    {
+      "start": 1414.56,
+      "end": 1418.399,
+      "text": "Speaker 2: block foreign access to its most advanced AI platforms. But"
+    },
+    {
+      "start": 1418.48,
+      "end": 1421.04,
+      "text": "Speaker 2: first on the agenda the US and Iran. The two"
+    },
+    {
+      "start": 1421.08,
+      "end": 1424.52,
+      "text": "Speaker 2: countries reached an interim deal to reopen the Strait of"
+    },
+    {
+      "start": 1424.56,
+      "end": 1429.68,
+      "text": "Speaker 2: Hormuz bliomers. Tyler Kendall joins US Now live from Geneva Tyler."
+    },
+    {
+      "start": 1432.6,
+      "end": 1434.479,
+      "text": "Speaker 9: Hey, and well, at this point, we're waiting for some"
+    },
+    {
+      "start": 1434.56,
+      "end": 1437.32,
+      "text": "Speaker 9: firmer details from either side about what is in this"
+    },
+    {
+      "start": 1437.44,
+      "end": 1440.48,
+      "text": "Speaker 9: potential memorandum of understanding that we did here from the"
+    },
+    {
+      "start": 1440.52,
+      "end": 1443.52,
+      "text": "Speaker 9: Vice President Jadie Vanced earlier today, who said that they"
+    },
+    {
+      "start": 1443.56,
+      "end": 1446.32,
+      "text": "Speaker 9: are going to try to get that text out before"
+    },
+    {
+      "start": 1446.4,
+      "end": 1451.12,
+      "text": "Speaker 9: this potential signing ceremony happening here in Switzerland on Friday."
+    },
+    {
+      "start": 1451.32,
+      "end": 1453.679,
+      "text": "Speaker 9: So far, we know that the main pillars of the"
+    },
+    {
+      "start": 1453.76,
+      "end": 1455.8,
+      "text": "Speaker 9: deal are what we've been tracking for weeks, which of"
+    },
+    {
+      "start": 1455.8,
+      "end": 1459.12,
+      "text": "Speaker 9: course includes reopening the strait of her moves. But there"
+    },
+    {
+      "start": 1459.16,
+      "end": 1462.199,
+      "text": "Speaker 9: is still some big questions here about how Iran feels"
+    },
+    {
+      "start": 1462.28,
+      "end": 1465.88,
+      "text": "Speaker 9: its role is going to be connected to this going forward,"
+    },
+    {
+      "start": 1465.96,
+      "end": 1469.4,
+      "text": "Speaker 9: after Iranian state media earlier today seem to indicate that"
+    },
+    {
+      "start": 1469.44,
+      "end": 1472.92,
+      "text": "Speaker 9: Iran wants to continue to impose fees and have some"
+    },
+    {
+      "start": 1473.0,
+      "end": 1476.32,
+      "text": "Speaker 9: sort of grip over the street even after a deal"
+    },
+    {
+      "start": 1476.48,
+      "end": 1479.24,
+      "text": "Speaker 9: is signed. We also have questions about what economic relief"
+    },
+    {
+      "start": 1479.6,
+      "end": 1482.56,
+      "text": "Speaker 9: will look like and ultimately what sort of curves Iran"
+    },
+    {
+      "start": 1482.64,
+      "end": 1485.399,
+      "text": "Speaker 9: will agree to in this deal. Though it is our"
+    },
+    {
+      "start": 1485.48,
+      "end": 1487.96,
+      "text": "Speaker 9: understanding that this is going to be a phased agreement"
+    },
+    {
+      "start": 1488.0,
+      "end": 1491.439,
+      "text": "Speaker 9: where those negotiations come later, and while the conflict in"
+    },
+    {
+      "start": 1491.48,
+      "end": 1495.56,
+      "text": "Speaker 9: Iran is dominating the conversation already here at the G seven."
+    },
+    {
+      "start": 1495.64,
+      "end": 1498.68,
+      "text": "Speaker 9: As you mentioned, President Trump has some really important meetings"
+    },
+    {
+      "start": 1498.96,
+      "end": 1501.32,
+      "text": "Speaker 9: scheduled for later in the week on Wednesday, where we"
+    },
+    {
+      "start": 1501.359,
+      "end": 1503.44,
+      "text": "Speaker 9: will see this base to based meeting with G seven"
+    },
+    {
+      "start": 1503.56,
+      "end": 1506.8,
+      "text": "Speaker 9: leaders and these big tech CEOs, and that meeting is"
+    },
+    {
+      "start": 1506.84,
+      "end": 1509.399,
+      "text": "Speaker 9: going to be just as much about the potential opportunities"
+    },
+    {
+      "start": 1509.44,
+      "end": 1512.32,
+      "text": "Speaker 9: around AI as well as those potential risks because ed"
+    },
+    {
+      "start": 1512.4,
+      "end": 1516.119,
+      "text": "Speaker 9: Bloomberg News has now confirmed that senior staffers for Anthropic"
+    },
+    {
+      "start": 1516.24,
+      "end": 1519.159,
+      "text": "Speaker 9: are meeting in Washington today with members of the Commerce"
+    },
+    {
+      "start": 1519.2,
+      "end": 1522.8,
+      "text": "Speaker 9: Department after this unprecedented move by the administration to threaten"
+    },
+    {
+      "start": 1522.92,
+      "end": 1523.92,
+      "text": "Speaker 9: that export band."
+    },
+    {
+      "start": 1524.88,
+      "end": 1527.88,
+      "text": "Speaker 2: Grin Books, Tyler Kendall, n Geneva, thank you very much."
+    },
+    {
+      "start": 1528.28,
+      "end": 1531.52,
+      "text": "Speaker 2: There's also a massive ways of news across China's tech"
+    },
+    {
+      "start": 1531.6,
+      "end": 1535.639,
+      "text": "Speaker 2: landscape today. Social media powerhouse Jaohongshu is reportedly gearing up"
+    },
+    {
+      "start": 1535.68,
+      "end": 1539.04,
+      "text": "Speaker 2: for a blockbuster Hong Kong Ipo this month, while shares"
+    },
+    {
+      "start": 1539.04,
+      "end": 1542.52,
+      "text": "Speaker 2: of AI model maker GPU's skyrocketed following a major price"
+    },
+    {
+      "start": 1542.6,
+      "end": 1546.0,
+      "text": "Speaker 2: target hike from JP Morgan. But despite all this heavy"
+    },
+    {
+      "start": 1546.08,
+      "end": 1550.4,
+      "text": "Speaker 2: corporate activity, City Group warns that global investors are still"
+    },
+    {
+      "start": 1550.44,
+      "end": 1554.72,
+      "text": "Speaker 2: treating China tech as quote a source of funds, with"
+    },
+    {
+      "start": 1554.8,
+      "end": 1558.72,
+      "text": "Speaker 2: Wall Street dumping local stocks to fund the global AI"
+    },
+    {
+      "start": 1558.8,
+      "end": 1562.2,
+      "text": "Speaker 2: hardware tradeing US now as Alicia, Yeah, head of Pan"
+    },
+    {
+      "start": 1562.28,
+      "end": 1565.28,
+      "text": "Speaker 2: Asia Internet Research at City Group, And let's start with"
+    },
+    {
+      "start": 1565.32,
+      "end": 1568.08,
+      "text": "Speaker 2: that thesis. I find it so interesting. There's a big"
+    },
+    {
+      "start": 1568.16,
+      "end": 1574.2,
+      "text": "Speaker 2: distinction between newsflow and activity China's tech sector and deployment"
+    },
+    {
+      "start": 1574.24,
+      "end": 1578.199,
+      "text": "Speaker 2: of capital or finding capital to deploy elsewhere. Explain what"
+    },
+    {
+      "start": 1578.28,
+      "end": 1578.919,
+      "text": "Speaker 2: you're arguing."
+    },
+    {
+      "start": 1579.84,
+      "end": 1582.88,
+      "text": "Speaker 10: Yeah, So, I think the reason why we mentioned it"
+    },
+    {
+      "start": 1582.92,
+      "end": 1586.76,
+      "text": "Speaker 10: is because I think the investor interests, especially for those"
+    },
+    {
+      "start": 1587.359,
+      "end": 1590.84,
+      "text": "Speaker 10: you know from the US and Europe so outside of Asia,"
+    },
+    {
+      "start": 1590.92,
+      "end": 1594.119,
+      "text": "Speaker 10: and even for those that we speak to in Asia"
+    },
+    {
+      "start": 1594.16,
+      "end": 1598.08,
+      "text": "Speaker 10: they're based in Asia. The there's so, I mean, people"
+    },
+    {
+      "start": 1598.16,
+      "end": 1601.399,
+      "text": "Speaker 10: have interests, but then somehow we know that they've been"
+    },
+    {
+      "start": 1601.56,
+      "end": 1607.84,
+      "text": "Speaker 10: underway uh China Internet specifically or even too many that"
+    },
+    {
+      "start": 1608.119,
+      "end": 1611.08,
+      "text": "Speaker 10: you know investors that share with us, they're actually uh"
+    },
+    {
+      "start": 1611.359,
+      "end": 1614.8,
+      "text": "Speaker 10: using you know, internet as a source of fun obviously"
+    },
+    {
+      "start": 1614.84,
+      "end": 1617.76,
+      "text": "Speaker 10: to to find the hardware trade in Korea, in Taiwan"
+    },
+    {
+      "start": 1617.8,
+      "end": 1623.32,
+      "text": "Speaker 10: and Japan, partly because I despite Internet, for example, Ali"
+    },
+    {
+      "start": 1623.4,
+      "end": 1627.32,
+      "text": "Speaker 10: Baba by doing their heart full stack of ai uh."
+    },
+    {
+      "start": 1627.32,
+      "end": 1630.24,
+      "text": "Speaker 10: But then because of their core business are not really"
+    },
+    {
+      "start": 1630.28,
+      "end": 1632.76,
+      "text": "Speaker 10: doing as well are you know, they've been you know,"
+    },
+    {
+      "start": 1633.2,
+      "end": 1636.72,
+      "text": "Speaker 10: investing aggressively on food delivery for example, they've been dragging"
+    },
+    {
+      "start": 1636.76,
+      "end": 1639.32,
+      "text": "Speaker 10: the profit. So a lot of investors give us uh,"
+    },
+    {
+      "start": 1639.44,
+      "end": 1642.28,
+      "text": "Speaker 10: you know, the feedback is that why should I border"
+    },
+    {
+      "start": 1642.84,
+      "end": 1645.76,
+      "text": "Speaker 10: so much of that while I have to deal with"
+    },
+    {
+      "start": 1646.32,
+      "end": 1649.119,
+      "text": "Speaker 10: the core business is not a pure play and I"
+    },
+    {
+      "start": 1649.2,
+      "end": 1652.0,
+      "text": "Speaker 10: mus as well just play directly into some of the"
+    },
+    {
+      "start": 1652.04,
+      "end": 1655.72,
+      "text": "Speaker 10: hardware ings. So that's why this has been you know, happening."
+    },
+    {
+      "start": 1655.8,
+      "end": 1658.32,
+      "text": "Speaker 10: And we've seen the last few weeks, I mean sorry,"
+    },
+    {
+      "start": 1658.32,
+      "end": 1661.52,
+      "text": "Speaker 10: the last few months. You know, China internet sector has"
+    },
+    {
+      "start": 1661.56,
+      "end": 1666.2,
+      "text": "Speaker 10: not been performing despite the valuation is actually getting quite attractive."
+    },
+    {
+      "start": 1666.28,
+      "end": 1668.679,
+      "text": "Speaker 2: Right, Alicia. The story of the first half of this"
+    },
+    {
+      "start": 1668.84,
+      "end": 1673.56,
+      "text": "Speaker 2: year was Chinese internet giants and frontier labs moving very"
+    },
+    {
+      "start": 1673.64,
+      "end": 1677.84,
+      "text": "Speaker 2: quickly to try to close the gap with American technology companies."
+    },
+    {
+      "start": 1678.24,
+      "end": 1682.32,
+      "text": "Speaker 2: Does your research show that that gap is closing, Yes."
+    },
+    {
+      "start": 1682.119,
+      "end": 1686.0,
+      "text": "Speaker 10: I think indeed, especially for example, take you know Ali"
+    },
+    {
+      "start": 1686.04,
+      "end": 1690.32,
+      "text": "Speaker 10: Baba Kuan model, you know since three point five and"
+    },
+    {
+      "start": 1690.359,
+      "end": 1692.68,
+      "text": "Speaker 10: then three point six, three point seven. Now we're actually"
+    },
+    {
+      "start": 1692.72,
+      "end": 1695.76,
+      "text": "Speaker 10: seeing there's a huge step up in terms of the"
+    },
+    {
+      "start": 1695.84,
+      "end": 1699.8,
+      "text": "Speaker 10: model intelligence. And then same thing for you know the"
+    },
+    {
+      "start": 1699.84,
+      "end": 1703.28,
+      "text": "Speaker 10: independent lab for example Minimax they recover and also I"
+    },
+    {
+      "start": 1703.28,
+      "end": 1707.24,
+      "text": "Speaker 10: think ten Cent the latest model are and three that"
+    },
+    {
+      "start": 1707.32,
+      "end": 1710.16,
+      "text": "Speaker 10: they released at the end of April. This are also"
+    },
+    {
+      "start": 1710.52,
+      "end": 1713.76,
+      "text": "Speaker 10: increasingly closing the gap with the frontier model."
+    },
+    {
+      "start": 1715.2,
+      "end": 1718.48,
+      "text": "Speaker 2: The story and the data that we track in the"
+    },
+    {
+      "start": 1718.6,
+      "end": 1722.36,
+      "text": "Speaker 2: US is capital expenditures on the hyperscale side, and then"
+    },
+    {
+      "start": 1722.52,
+      "end": 1725.96,
+      "text": "Speaker 2: how real is the agentic AI deployment on the enterprise side."
+    },
+    {
+      "start": 1726.72,
+      "end": 1729.84,
+      "text": "Speaker 2: Take that story to China, how is that playing out"
+    },
+    {
+      "start": 1729.88,
+      "end": 1731.12,
+      "text": "Speaker 2: in that market?"
+    },
+    {
+      "start": 1732.24,
+      "end": 1735.0,
+      "text": "Speaker 10: So I think from the Kapex point of view, and"
+    },
+    {
+      "start": 1735.12,
+      "end": 1738.04,
+      "text": "Speaker 10: think many of us aware that I think China side"
+    },
+    {
+      "start": 1738.24,
+      "end": 1740.8,
+      "text": "Speaker 10: is not spending as you know, as high as what"
+    },
+    {
+      "start": 1740.88,
+      "end": 1744.84,
+      "text": "Speaker 10: the US hyperskill is indicating. Partly, I think there's a"
+    },
+    {
+      "start": 1744.84,
+      "end": 1748.12,
+      "text": "Speaker 10: lot of cost components. It's cheaper right in China. Partly"
+    },
+    {
+      "start": 1748.16,
+      "end": 1751.48,
+      "text": "Speaker 10: I think there's also some of the assisting capacities that's"
+    },
+    {
+      "start": 1751.52,
+      "end": 1754.64,
+      "text": "Speaker 10: already built up the last few years is actually able"
+    },
+    {
+      "start": 1754.68,
+      "end": 1757.36,
+      "text": "Speaker 10: to support that. And then in terms of the agendic"
+    },
+    {
+      "start": 1757.6,
+      "end": 1761.16,
+      "text": "Speaker 10: right the future agenda workflow, we think that you know,"
+    },
+    {
+      "start": 1761.56,
+      "end": 1764.12,
+      "text": "Speaker 10: you know, Ali Baba's trying in terms of the coin"
+    },
+    {
+      "start": 1764.48,
+      "end": 1768.04,
+      "text": "Speaker 10: versus the assisting you know application for e somebod the"
+    },
+    {
+      "start": 1768.08,
+      "end": 1770.96,
+      "text": "Speaker 10: Talbo or the AMAP. But then I think over time,"
+    },
+    {
+      "start": 1771.12,
+      "end": 1774.24,
+      "text": "Speaker 10: we do hope that Tencent at the end of the"
+    },
+    {
+      "start": 1774.32,
+      "end": 1777.959,
+      "text": "Speaker 10: day could actally come up with their AI agents insidech"
+    },
+    {
+      "start": 1777.96,
+      "end": 1780.64,
+      "text": "Speaker 10: Ad which they are obviously testing on it, and then"
+    },
+    {
+      "start": 1780.68,
+      "end": 1784.24,
+      "text": "Speaker 10: with the next versions of the model if it's intelligent enough,"
+    },
+    {
+      "start": 1784.4,
+      "end": 1786.2,
+      "text": "Speaker 10: because I think they're going to train a lot of"
+    },
+    {
+      "start": 1786.24,
+      "end": 1789.68,
+      "text": "Speaker 10: their proprietary data into the next versions of the model"
+    },
+    {
+      "start": 1789.92,
+      "end": 1792.96,
+      "text": "Speaker 10: and then hopefully that could actually you know, ensure the"
+    },
+    {
+      "start": 1793.04,
+      "end": 1796.36,
+      "text": "Speaker 10: AI agents also working within the Vita ecosystem."
+    },
+    {
+      "start": 1796.88,
+      "end": 1800.0,
+      "text": "Speaker 2: Another big story overnight from China was a group based"
+    },
+    {
+      "start": 1800.32,
+      "end": 1803.88,
+      "text": "Speaker 2: planning to overhaul the Alipaid super app, but to bring"
+    },
+    {
+      "start": 1803.92,
+      "end": 1807.4,
+      "text": "Speaker 2: in an agentic AI user face you brilliantly set out"
+    },
+    {
+      "start": 1807.48,
+      "end": 1810.56,
+      "text": "Speaker 2: kind of what's happened one aged twenty twenty six, what"
+    },
+    {
+      "start": 1810.64,
+      "end": 1813.6,
+      "text": "Speaker 2: does city think happens in China's tech sector in the"
+    },
+    {
+      "start": 1813.64,
+      "end": 1814.64,
+      "text": "Speaker 2: second half of this year."
+    },
+    {
+      "start": 1816.12,
+      "end": 1819.32,
+      "text": "Speaker 10: So we hope that for example, you know, company like"
+    },
+    {
+      "start": 1819.4,
+      "end": 1822.16,
+      "text": "Speaker 10: ten Cent or even you know and to someone sense"
+    },
+    {
+      "start": 1822.24,
+      "end": 1825.12,
+      "text": "Speaker 10: some of this super app that if they're actually able"
+    },
+    {
+      "start": 1825.24,
+      "end": 1829.56,
+      "text": "Speaker 10: to bring up the agendic workflow working within the super app,"
+    },
+    {
+      "start": 1829.96,
+      "end": 1832.76,
+      "text": "Speaker 10: which allow a lot of the enterprise that have mini"
+    },
+    {
+      "start": 1832.84,
+      "end": 1837.64,
+      "text": "Speaker 10: programs for example, they're able to use agent within that ecosystem,"
+    },
+    {
+      "start": 1838.12,
+      "end": 1841.28,
+      "text": "Speaker 10: then most of these enterprises would be able to stay"
+    },
+    {
+      "start": 1841.32,
+      "end": 1844.24,
+      "text": "Speaker 10: within that ego system in a way. Then hopefully you know,"
+    },
+    {
+      "start": 1844.32,
+      "end": 1847.0,
+      "text": "Speaker 10: things could take off, especially for the super app environment,"
+    },
+    {
+      "start": 1847.04,
+      "end": 1851.08,
+      "text": "Speaker 10: that they can become the AI power ecosystem that we"
+    },
+    {
+      "start": 1851.16,
+      "end": 1854.36,
+      "text": "Speaker 10: are looking for, and hopefully that could help to re"
+    },
+    {
+      "start": 1854.56,
+      "end": 1858.16,
+      "text": "Speaker 10: rate you know, the leaders like Tencent or Ali Baba."
+    },
+    {
+      "start": 1858.24,
+      "end": 1860.96,
+      "text": "Speaker 10: Then in that sense to help the entire sector to"
+    },
+    {
+      "start": 1861.04,
+      "end": 1864.56,
+      "text": "Speaker 10: get the fund flow rotation back. Yeah."
+    },
+    {
+      "start": 1864.72,
+      "end": 1867.72,
+      "text": "Speaker 2: Alicia Yapp, head of pan Asia Internet research at City Group,"
+    },
+    {
+      "start": 1867.76,
+      "end": 1870.52,
+      "text": "Speaker 2: big focus on China tech right now, appreciated. Thank you."
+    },
+    {
+      "start": 1870.52,
+      "end": 1874.84,
+      "text": "Speaker 2: Now coming up, should we be sticking data centers in"
+    },
+    {
+      "start": 1874.92,
+      "end": 1879.08,
+      "text": "Speaker 2: Earth orbit or should they be under the ocean. We're"
+    },
+    {
+      "start": 1879.08,
+      "end": 1881.08,
+      "text": "Speaker 2: going to speak with Mike Schrope for a founding partner"
+    },
+    {
+      "start": 1881.36,
+      "end": 1885.76,
+      "text": "Speaker 2: of gigasale caps. He might recognize the name former meta cto."
+    },
+    {
+      "start": 1885.88,
+      "end": 1888.4,
+      "text": "Speaker 2: He has a thesis. This is what the Nazak one"
+    },
+    {
+      "start": 1888.48,
+      "end": 1892.44,
+      "text": "Speaker 2: hundred looks like. We're back nearer toward session highs and"
+    },
+    {
+      "start": 1892.48,
+      "end": 1896.28,
+      "text": "Speaker 2: again of almost three percent, a lot of momentum. The"
+    },
+    {
+      "start": 1896.28,
+      "end": 1898.48,
+      "text": "Speaker 2: index is near record high. Is a big part of"
+    },
+    {
+      "start": 1898.52,
+      "end": 1901.24,
+      "text": "Speaker 2: it is kind of feel good from the SpaceX ipo Friday,"
+    },
+    {
+      "start": 1901.44,
+      "end": 1904.04,
+      "text": "Speaker 2: but also of course what was outlined by Tyler from"
+    },
+    {
+      "start": 1904.12,
+      "end": 1907.96,
+      "text": "Speaker 2: Geneva about a US Iran deal. This is blimberg tech"
+    },
+    {
+      "start": 1912.92,
+      "end": 1915.8,
+      "text": "Speaker 2: check back in on SpaceX shares hire second day of"
+    },
+    {
+      "start": 1915.84,
+      "end": 1920.24,
+      "text": "Speaker 2: trading after a blockbuster public debut Friday. That performs help"
+    },
+    {
+      "start": 1920.28,
+      "end": 1923.4,
+      "text": "Speaker 2: booth confidence in a broader AI rally and it marks"
+    },
+    {
+      "start": 1923.4,
+      "end": 1926.6,
+      "text": "Speaker 2: the start of a shift from two decades of shares"
+    },
+    {
+      "start": 1926.68,
+      "end": 1930.36,
+      "text": "Speaker 2: disappearing from public markets to this new era of stock"
+    },
+    {
+      "start": 1930.4,
+      "end": 1933.56,
+      "text": "Speaker 2: abundance as the likes of Open Ai and Anthropic also"
+    },
+    {
+      "start": 1933.6,
+      "end": 1937.96,
+      "text": "Speaker 2: prepare for IPOs and other companies sell new shares. Bloombos Common,"
+    },
+    {
+      "start": 1938.0,
+      "end": 1941.08,
+      "text": "Speaker 2: Rhinokey has been all over it, and we expect in"
+    },
+    {
+      "start": 1941.12,
+      "end": 1944.0,
+      "text": "Speaker 2: the next days, weeks, and months a bit of volatility"
+    },
+    {
+      "start": 1944.04,
+      "end": 1946.48,
+      "text": "Speaker 2: should we start, would like to hear and now I"
+    },
+    {
+      "start": 1946.52,
+      "end": 1948.68,
+      "text": "Speaker 2: hope you had some of a weekend to digest what"
+    },
+    {
+      "start": 1948.8,
+      "end": 1952.36,
+      "text": "Speaker 2: happened Friday. But right now that the net takeaway is"
+    },
+    {
+      "start": 1952.4,
+      "end": 1954.0,
+      "text": "Speaker 2: what cormen about this IPO."
+    },
+    {
+      "start": 1954.72,
+      "end": 1957.68,
+      "text": "Speaker 11: The net takeaway is very positive. We see shares up"
+    },
+    {
+      "start": 1957.76,
+      "end": 1959.88,
+      "text": "Speaker 11: a second day here. It was up about eight percent"
+    },
+    {
+      "start": 1960.0,
+      "end": 1963.32,
+      "text": "Speaker 11: the last time I looked at my terminal, extending gains"
+    },
+    {
+      "start": 1963.36,
+      "end": 1966.24,
+      "text": "Speaker 11: from Friday's first day of trading. And this gives the"
+    },
+    {
+      "start": 1966.28,
+      "end": 1969.32,
+      "text": "Speaker 11: company a valuation of about two point two trillion dollars."
+    },
+    {
+      "start": 1969.36,
+      "end": 1972.72,
+      "text": "Speaker 11: So it's already launched itself into one of the top companies,"
+    },
+    {
+      "start": 1972.76,
+      "end": 1975.4,
+      "text": "Speaker 11: the one of the biggest companies in the stock market."
+    },
+    {
+      "start": 1975.56,
+      "end": 1977.88,
+      "text": "Speaker 2: So the takeaway was really positive."
+    },
+    {
+      "start": 1977.92,
+      "end": 1981.32,
+      "text": "Speaker 11: You know, investors into the IPOH there was solid trading,"
+    },
+    {
+      "start": 1981.4,
+      "end": 1986.04,
+      "text": "Speaker 11: nothing went horribly wrong, and that's kind of given investors"
+    },
+    {
+      "start": 1986.2,
+      "end": 1988.96,
+      "text": "Speaker 11: the ability, one just to be very enthusiastic about the"
+    },
+    {
+      "start": 1989.32,
+      "end": 1992.56,
+      "text": "Speaker 11: AI trade. That's supported by what happened over the weekend"
+    },
+    {
+      "start": 1992.68,
+      "end": 1996.2,
+      "text": "Speaker 11: a potential piece deal with Iran, and investors can hopefully"
+    },
+    {
+      "start": 1996.24,
+      "end": 1999.08,
+      "text": "Speaker 11: start to shift their focus towards a FED meeting on Wednesday."
+    },
+    {
+      "start": 2000.04,
+      "end": 2001.56,
+      "text": "Speaker 2: Com and you and the team are out with the"
+    },
+    {
+      "start": 2001.56,
+      "end": 2003.84,
+      "text": "Speaker 2: big take. And basically there's going to be a lot"
+    },
+    {
+      "start": 2003.88,
+      "end": 2007.32,
+      "text": "Speaker 2: of new equity that hits the market and it's going"
+    },
+    {
+      "start": 2007.4,
+      "end": 2010.28,
+      "text": "Speaker 2: to change the story of like the last two decades."
+    },
+    {
+      "start": 2010.72,
+      "end": 2012.8,
+      "text": "Speaker 2: Explain that to us, give us the key numbers that"
+    },
+    {
+      "start": 2012.8,
+      "end": 2013.32,
+      "text": "Speaker 2: we need to know."
+    },
+    {
+      "start": 2014.2,
+      "end": 2017.44,
+      "text": "Speaker 11: Yeah, so this is a really huge deal. Basically, over"
+    },
+    {
+      "start": 2017.44,
+      "end": 2021.08,
+      "text": "Speaker 11: the last few decades, there's been you know, twelve trillion"
+    },
+    {
+      "start": 2021.32,
+      "end": 2023.92,
+      "text": "Speaker 11: shrink you know, equity taken out of the markets as"
+    },
+    {
+      "start": 2023.96,
+      "end": 2026.84,
+      "text": "Speaker 11: company buy backstock, which is a key way that they"
+    },
+    {
+      "start": 2026.88,
+      "end": 2030.479,
+      "text": "Speaker 11: once spend you know money down on their balance sheet"
+    },
+    {
+      "start": 2030.68,
+      "end": 2033.8,
+      "text": "Speaker 11: and you know, return value to shareholders. It's been a"
+    },
+    {
+      "start": 2033.88,
+      "end": 2037.44,
+      "text": "Speaker 11: major support of the stock market and especially these big companies."
+    },
+    {
+      "start": 2037.76,
+      "end": 2041.2,
+      "text": "Speaker 11: So what's happening now. I mean, we see IPOs like"
+    },
+    {
+      "start": 2041.44,
+      "end": 2045.88,
+      "text": "Speaker 11: SpaceX's record IPO on Friday, as well as equity issuances"
+    },
+    {
+      "start": 2045.88,
+      "end": 2050.84,
+      "text": "Speaker 11: from companies like Alphabet, Meta and Oracle bringing equity back"
+    },
+    {
+      "start": 2050.96,
+      "end": 2053.6,
+      "text": "Speaker 11: into the market, so growing the total number of shares"
+    },
+    {
+      "start": 2053.64,
+      "end": 2056.239,
+      "text": "Speaker 11: that are available in a way that actually it can"
+    },
+    {
+      "start": 2056.28,
+      "end": 2061.16,
+      "text": "Speaker 11: be diluted for stockholders. So one point five trillion dollars"
+    },
+    {
+      "start": 2061.16,
+      "end": 2063.48,
+      "text": "Speaker 11: in shares coming back into the markets this year. That's"
+    },
+    {
+      "start": 2063.48,
+      "end": 2066.319,
+      "text": "Speaker 11: according to a JP Morgan analysis. And really what the"
+    },
+    {
+      "start": 2066.36,
+      "end": 2068.92,
+      "text": "Speaker 11: signal is these companies are saying, one, we can go"
+    },
+    {
+      "start": 2068.96,
+      "end": 2074.0,
+      "text": "Speaker 11: to the equity markets. There's investor, you know, desire demand"
+    },
+    {
+      "start": 2074.08,
+      "end": 2076.16,
+      "text": "Speaker 11: for our shares, and it's a good way to raise"
+    },
+    {
+      "start": 2076.28,
+      "end": 2079.68,
+      "text": "Speaker 11: money to spend on what we need to do to"
+    },
+    {
+      "start": 2079.8,
+      "end": 2082.92,
+      "text": "Speaker 11: build out more capacity, more data centers, to use AI"
+    },
+    {
+      "start": 2083.32,
+      "end": 2085.04,
+      "text": "Speaker 11: in a way that will hopefully be a creative to"
+    },
+    {
+      "start": 2085.12,
+      "end": 2086.36,
+      "text": "Speaker 11: earnings going forward."
+    },
+    {
+      "start": 2087.16,
+      "end": 2090.279,
+      "text": "Speaker 2: The most common rhinicky thank you very much so. One"
+    },
+    {
+      "start": 2090.28,
+      "end": 2093.0,
+      "text": "Speaker 2: way that Moss games to drive revenues and profit is"
+    },
+    {
+      "start": 2093.04,
+      "end": 2096.839,
+      "text": "Speaker 2: to build out of all bit data centers, a complicated"
+    },
+    {
+      "start": 2097.32,
+      "end": 2100.68,
+      "text": "Speaker 2: and expensive ambition that our next guest says may only"
+    },
+    {
+      "start": 2101.0,
+      "end": 2106.2,
+      "text": "Speaker 2: be achievable by SpaceX. Instead, others should turn to submarine"
+    },
+    {
+      "start": 2106.28,
+      "end": 2109.44,
+      "text": "Speaker 2: data centers to save on things like energy costs. Microver"
+    },
+    {
+      "start": 2109.56,
+      "end": 2112.16,
+      "text": "Speaker 2: Hoped add tens of millions of square feet of cloud"
+    },
+    {
+      "start": 2112.16,
+      "end": 2115.6,
+      "text": "Speaker 2: computing capacity. As the former CTO at Meta, He's now"
+    },
+    {
+      "start": 2115.6,
+      "end": 2119.04,
+      "text": "Speaker 2: the founding partner of Gigascale Capital, a venture firm making"
+    },
+    {
+      "start": 2119.08,
+      "end": 2121.64,
+      "text": "Speaker 2: some early stage bets on those companies that are more"
+    },
+    {
+      "start": 2121.68,
+      "end": 2125.719,
+      "text": "Speaker 2: focused on climate impact. But you put yourself in one"
+    },
+    {
+      "start": 2125.719,
+      "end": 2130.0,
+      "text": "Speaker 2: bucket or another. I guess orbital data center or data"
+    },
+    {
+      "start": 2130.04,
+      "end": 2134.84,
+      "text": "Speaker 2: centers where the ocean is the playground. Present your thesis"
+    },
+    {
+      "start": 2134.88,
+      "end": 2135.239,
+      "text": "Speaker 2: to me."
+    },
+    {
+      "start": 2136.44,
+      "end": 2138.04,
+      "text": "Speaker 12: Well, I don't think it's an either or. I think"
+    },
+    {
+      "start": 2138.04,
+      "end": 2140.64,
+      "text": "Speaker 12: it's a little bit of all of the above. For space,"
+    },
+    {
+      "start": 2141.08,
+      "end": 2142.84,
+      "text": "Speaker 12: it's very hard and expensive to get there, and I"
+    },
+    {
+      "start": 2142.88,
+      "end": 2145.36,
+      "text": "Speaker 12: think nobody but SpaceX can do it with their vertical"
+    },
+    {
+      "start": 2145.36,
+      "end": 2149.439,
+      "text": "Speaker 12: integration and launch costs at wholesale. Otherwise, economics are just tough."
+    },
+    {
+      "start": 2149.719,
+      "end": 2152.2,
+      "text": "Speaker 12: You know, I can put a ton of mass in"
+    },
+    {
+      "start": 2152.239,
+      "end": 2154.359,
+      "text": "Speaker 12: the ocean one hundred times cheaper than I can put"
+    },
+    {
+      "start": 2154.36,
+      "end": 2156.6,
+      "text": "Speaker 12: it in orbit. So I think you've got a lot"
+    },
+    {
+      "start": 2156.6,
+      "end": 2160.84,
+      "text": "Speaker 12: of room to go in terms of using huge energy resources."
+    },
+    {
+      "start": 2160.84,
+      "end": 2163.08,
+      "text": "Speaker 12: We've got ten terot lots of power in the Southern"
+    },
+    {
+      "start": 2163.08,
+      "end": 2167.04,
+      "text": "Speaker 12: Ocean that's completely untapped, unused. We've also got you know,"
+    },
+    {
+      "start": 2167.12,
+      "end": 2168.96,
+      "text": "Speaker 12: I built a lot on land, tens of millions of"
+    },
+    {
+      "start": 2169.0,
+      "end": 2171.32,
+      "text": "Speaker 12: square feet. I don't think we're anywhere close to done"
+    },
+    {
+      "start": 2171.52,
+      "end": 2175.759,
+      "text": "Speaker 12: using solar resources on land. Between solar and batteries, I"
+    },
+    {
+      "start": 2175.76,
+      "end": 2178.16,
+      "text": "Speaker 12: could put together a new power plant in twelve to"
+    },
+    {
+      "start": 2178.2,
+      "end": 2181.36,
+      "text": "Speaker 12: twenty four months, you know, in a pace that's faster"
+    },
+    {
+      "start": 2181.56,
+      "end": 2184.48,
+      "text": "Speaker 12: than gas or launching into orbit. So I think there's"
+    },
+    {
+      "start": 2184.52,
+      "end": 2185.96,
+      "text": "Speaker 12: a lot of different ways to do this. I think"
+    },
+    {
+      "start": 2186.0,
+      "end": 2188.399,
+      "text": "Speaker 12: SpaceX is going to do space based data centers. I'm"
+    },
+    {
+      "start": 2188.44,
+      "end": 2191.92,
+      "text": "Speaker 12: bullish on on land solar plus batteries plus next generation"
+    },
+    {
+      "start": 2192.48,
+      "end": 2195.64,
+      "text": "Speaker 12: and in the ocean with companies like Panhalasa."
+    },
+    {
+      "start": 2195.76,
+      "end": 2199.2,
+      "text": "Speaker 2: I think we therefore need to kind of understand the"
+    },
+    {
+      "start": 2199.32,
+      "end": 2202.88,
+      "text": "Speaker 2: lasting and ripple effects of SpaceX's IPO, right, which is,"
+    },
+    {
+      "start": 2203.2,
+      "end": 2206.0,
+      "text": "Speaker 2: you know, the prospectus could not be more clear. Here"
+    },
+    {
+      "start": 2206.08,
+      "end": 2209.6,
+      "text": "Speaker 2: is the plan orbital data center. But when you're in"
+    },
+    {
+      "start": 2209.64,
+      "end": 2213.48,
+      "text": "Speaker 2: private markets putting bets on earlier stages, you know, if"
+    },
+    {
+      "start": 2213.48,
+      "end": 2216.2,
+      "text": "Speaker 2: someone comes to you with a deck and it says,"
+    },
+    {
+      "start": 2216.28,
+      "end": 2219.2,
+      "text": "Speaker 2: I too have a plan for orbital data center, do"
+    },
+    {
+      "start": 2219.239,
+      "end": 2221.64,
+      "text": "Speaker 2: you bother? So you just say, well, SpaceX has got"
+    },
+    {
+      "start": 2221.68,
+      "end": 2225.6,
+      "text": "Speaker 2: that covered. There isn't a need to fund this concept,"
+    },
+    {
+      "start": 2225.64,
+      "end": 2227.799,
+      "text": "Speaker 2: this idea, this plan elsewhere."
+    },
+    {
+      "start": 2229.36,
+      "end": 2231.08,
+      "text": "Speaker 12: I mean, I'm in the business of looking at everything,"
+    },
+    {
+      "start": 2231.08,
+      "end": 2233.319,
+      "text": "Speaker 12: so I'll always take a meeting to understand, to see"
+    },
+    {
+      "start": 2233.32,
+      "end": 2236.719,
+      "text": "Speaker 12: if I've missed something, and I'll update my priors if"
+    },
+    {
+      "start": 2236.76,
+      "end": 2239.32,
+      "text": "Speaker 12: I see new information. Every time I've looked at the math,"
+    },
+    {
+      "start": 2239.4,
+      "end": 2241.24,
+      "text": "Speaker 12: the economics on space based data."
+    },
+    {
+      "start": 2241.04,
+      "end": 2243.36,
+      "text": "Speaker 2: Centers, it's doable."
+    },
+    {
+      "start": 2243.76,
+      "end": 2247.4,
+      "text": "Speaker 12: It just like it's extraordinarily expensive because you have to"
+    },
+    {
+      "start": 2247.44,
+      "end": 2249.96,
+      "text": "Speaker 12: pay for launch, you have to pay for radiation hardening,"
+    },
+    {
+      "start": 2250.0,
+      "end": 2253.319,
+      "text": "Speaker 12: you have to pay for radiators large enough to get"
+    },
+    {
+      "start": 2253.36,
+      "end": 2256.0,
+      "text": "Speaker 12: rid of the heat, because these servers produce a lot"
+    },
+    {
+      "start": 2256.04,
+      "end": 2258.2,
+      "text": "Speaker 12: of heat, and once you add up all those costs,"
+    },
+    {
+      "start": 2258.28,
+      "end": 2261.0,
+      "text": "Speaker 12: I just don't see how it's cost competitive with current"
+    },
+    {
+      "start": 2261.08,
+      "end": 2263.64,
+      "text": "Speaker 12: on land or current ocean. You'd have to assume a"
+    },
+    {
+      "start": 2263.719,
+      "end": 2267.32,
+      "text": "Speaker 12: dramatic increase in the price of building stuff on land"
+    },
+    {
+      "start": 2267.56,
+      "end": 2270.12,
+      "text": "Speaker 12: before you want to go into space. Again, unless you're"
+    },
+    {
+      "start": 2270.12,
+      "end": 2272.88,
+      "text": "Speaker 12: SpaceX and you get all of those things that wholesale costs,"
+    },
+    {
+      "start": 2273.04,
+      "end": 2275.8,
+      "text": "Speaker 12: in which case your costs are very different. So I'm"
+    },
+    {
+      "start": 2275.84,
+      "end": 2279.12,
+      "text": "Speaker 12: not wholly no, but I'm skeptical when people pitch me"
+    },
+    {
+      "start": 2279.16,
+      "end": 2279.88,
+      "text": "Speaker 12: on these ideas."
+    },
+    {
+      "start": 2281.4,
+      "end": 2284.759,
+      "text": "Speaker 2: Mike, if we measure the economics of and we're just"
+    },
+    {
+      "start": 2284.8,
+      "end": 2288.759,
+      "text": "Speaker 2: showing what SpaceX presented the other night, the design the"
+    },
+    {
+      "start": 2288.8,
+      "end": 2292.6,
+      "text": "Speaker 2: economics of the space based data center is a dollar"
+    },
+    {
+      "start": 2292.64,
+      "end": 2298.96,
+      "text": "Speaker 2: per token basis, how does submarine data center compare on paper?"
+    },
+    {
+      "start": 2300.28,
+      "end": 2301.68,
+      "text": "Speaker 12: Well, again, I think you have to look at all"
+    },
+    {
+      "start": 2301.68,
+      "end": 2304.719,
+      "text": "Speaker 12: the assumptions into that, and you know, when I've done"
+    },
+    {
+      "start": 2304.719,
+      "end": 2306.4,
+      "text": "Speaker 12: the modeling in math, if you just sort of do"
+    },
+    {
+      "start": 2306.44,
+      "end": 2308.84,
+      "text": "Speaker 12: some basics on this, it is against about one hundred"
+    },
+    {
+      "start": 2308.88,
+      "end": 2312.279,
+      "text": "Speaker 12: times cheaper currently to put a ton of mass in"
+    },
+    {
+      "start": 2312.32,
+      "end": 2314.319,
+      "text": "Speaker 12: the ocean than it is to put that same ton"
+    },
+    {
+      "start": 2314.36,
+      "end": 2317.6,
+      "text": "Speaker 12: of mass in space. So I think you have a"
+    },
+    {
+      "start": 2317.68,
+      "end": 2320.2,
+      "text": "Speaker 12: huge cost advantage when you look at the ocean, you"
+    },
+    {
+      "start": 2320.28,
+      "end": 2325.08,
+      "text": "Speaker 12: have almost unlimited free cooling in cold seawater. You know,"
+    },
+    {
+      "start": 2325.12,
+      "end": 2328.64,
+      "text": "Speaker 12: in space you can radiate heat, but that requires building"
+    },
+    {
+      "start": 2328.719,
+      "end": 2330.48,
+      "text": "Speaker 12: radiators or rating into a vacuum."
+    },
+    {
+      "start": 2330.48,
+      "end": 2331.36,
+      "text": "Speaker 2: It's expensive."
+    },
+    {
+      "start": 2331.44,
+      "end": 2334.16,
+      "text": "Speaker 12: So again, I don't see how the math closes for"
+    },
+    {
+      "start": 2334.48,
+      "end": 2338.2,
+      "text": "Speaker 12: anyone who's but SpaceX, who again has everything at wholesale costs,"
+    },
+    {
+      "start": 2338.16,
+      "end": 2341.52,
+      "text": "Speaker 12: already launching large volumes of starling satellites. So I think"
+    },
+    {
+      "start": 2341.56,
+      "end": 2344.44,
+      "text": "Speaker 12: it's a great business for them. I'm just like not"
+    },
+    {
+      "start": 2344.6,
+      "end": 2347.48,
+      "text": "Speaker 12: clear on how anyone else can compete on costs."
+    },
+    {
+      "start": 2347.96,
+      "end": 2350.12,
+      "text": "Speaker 2: So our starting assumption is right. Now the world is"
+    },
+    {
+      "start": 2350.239,
+      "end": 2353.84,
+      "text": "Speaker 2: compute constrained, right. You weren't Meta for a long time."
+    },
+    {
+      "start": 2354.12,
+      "end": 2356.6,
+      "text": "Speaker 2: Meta is going to be one of the big capital"
+    },
+    {
+      "start": 2356.64,
+      "end": 2359.88,
+      "text": "Speaker 2: expenditure deployers. Do you see Meta being open to a"
+    },
+    {
+      "start": 2359.92,
+      "end": 2363.24,
+      "text": "Speaker 2: world of submarine data center as a solution or looking"
+    },
+    {
+      "start": 2363.28,
+      "end": 2365.68,
+      "text": "Speaker 2: at orbital data center as an alternative."
+    },
+    {
+      "start": 2367.28,
+      "end": 2370.2,
+      "text": "Speaker 12: I think all of these providers, you know, will look"
+    },
+    {
+      "start": 2370.239,
+      "end": 2374.48,
+      "text": "Speaker 12: at these technologies when you show tokens being generated."
+    },
+    {
+      "start": 2375.0,
+      "end": 2376.44,
+      "text": "Speaker 2: You know, once I'm out a terminal, I."
+    },
+    {
+      "start": 2376.36,
+      "end": 2379.719,
+      "text": "Speaker 12: Can say, here's a chat experience with a live webcam"
+    },
+    {
+      "start": 2379.8,
+      "end": 2382.799,
+      "text": "Speaker 12: of a little booie bobbing in this southern notion, or"
+    },
+    {
+      "start": 2382.96,
+      "end": 2385.319,
+      "text": "Speaker 12: you know, a feed from the live satellite and saying"
+    },
+    {
+      "start": 2385.32,
+      "end": 2386.84,
+      "text": "Speaker 12: this is where the tokens are getting generated."
+    },
+    {
+      "start": 2387.04,
+      "end": 2389.28,
+      "text": "Speaker 2: I think everyone's going to perk up and add more attention."
+    },
+    {
+      "start": 2389.719,
+      "end": 2392.56,
+      "text": "Speaker 12: Until then we're talking about theory because no one's still"
+    },
+    {
+      "start": 2392.719,
+      "end": 2393.479,
+      "text": "Speaker 12: either of these things."
+    },
+    {
+      "start": 2393.52,
+      "end": 2395.44,
+      "text": "Speaker 2: But I think that you know, at the end of the."
+    },
+    {
+      "start": 2395.52,
+      "end": 2399.4,
+      "text": "Speaker 12: Day, people want reliability, they want availability, and they want"
+    },
+    {
+      "start": 2400.04,
+      "end": 2403.88,
+      "text": "Speaker 12: okens now. So if you can provide people compute now,"
+    },
+    {
+      "start": 2404.2,
+      "end": 2405.68,
+      "text": "Speaker 12: then they're open to it."
+    },
+    {
+      "start": 2407.04,
+      "end": 2409.92,
+      "text": "Speaker 2: And reminders of the audience that SpaceX said the earliest"
+    },
+    {
+      "start": 2409.92,
+      "end": 2413.36,
+      "text": "Speaker 2: deployment of orbital data center is twenty twenty eight. Mike Trope,"
+    },
+    {
+      "start": 2413.48,
+      "end": 2416.279,
+      "text": "Speaker 2: founding partner at Gigascale Capital, thank you so much and"
+    },
+    {
+      "start": 2416.36,
+      "end": 2418.839,
+      "text": "Speaker 2: as allys continue to be on SpaceX, we bring you"
+    },
+    {
+      "start": 2418.88,
+      "end": 2422.2,
+      "text": "Speaker 2: some of the biggest investors in the company. Tomorrow, Sequoia"
+    },
+    {
+      "start": 2422.28,
+      "end": 2425.16,
+      "text": "Speaker 2: Capital partner Sean maguire joins us a conversation you don't"
+    },
+    {
+      "start": 2425.16,
+      "end": 2427.16,
+      "text": "Speaker 2: want to miss now coming up, we're going to discuss"
+    },
+    {
+      "start": 2427.2,
+      "end": 2430.319,
+      "text": "Speaker 2: the newest update on the long awaited AI capabilities of"
+    },
+    {
+      "start": 2430.48,
+      "end": 2438.799,
+      "text": "Speaker 2: Apple's Siri paron. This is Bloomberg Tech. Apple's Serie AI"
+    },
+    {
+      "start": 2439.04,
+      "end": 2441.68,
+      "text": "Speaker 2: is catching up to its chatbot competitors, pulling the tech"
+    },
+    {
+      "start": 2441.68,
+      "end": 2444.839,
+      "text": "Speaker 2: company out of an AI slub two years after making"
+    },
+    {
+      "start": 2444.88,
+      "end": 2448.759,
+      "text": "Speaker 2: promises of AI functions. Series newest features center around it's"
+    },
+    {
+      "start": 2448.76,
+      "end": 2453.6,
+      "text": "Speaker 2: so called personal context and on screen awareness technology. Bloombers"
+    },
+    {
+      "start": 2453.64,
+      "end": 2457.6,
+      "text": "Speaker 2: Mark German got the access and joins us. Now this"
+    },
+    {
+      "start": 2457.64,
+      "end": 2460.92,
+      "text": "Speaker 2: is so interesting. So you've had time to to use"
+    },
+    {
+      "start": 2461.04,
+      "end": 2464.4,
+      "text": "Speaker 2: Apple's Serie AI in a way that you can explain"
+    },
+    {
+      "start": 2464.64,
+      "end": 2467.32,
+      "text": "Speaker 2: where we're at with it in power on Over the weekend,"
+    },
+    {
+      "start": 2467.64,
+      "end": 2470.279,
+      "text": "Speaker 2: you detailed the most important parts. What what's it been like?"
+    },
+    {
+      "start": 2471.68,
+      "end": 2475.52,
+      "text": "Speaker 13: Yeah, Seri AI, Apple's revamped Siri. You want to call"
+    },
+    {
+      "start": 2475.56,
+      "end": 2477.919,
+      "text": "Speaker 13: it Serie two point zero, you can do that. Here's"
+    },
+    {
+      "start": 2477.96,
+      "end": 2481.04,
+      "text": "Speaker 13: what I'll say. It fulfills the promise of Siri that"
+    },
+    {
+      "start": 2481.08,
+      "end": 2483.719,
+      "text": "Speaker 13: the company made fifteen years ago when it debuted the"
+    },
+    {
+      "start": 2483.719,
+      "end": 2486.279,
+      "text": "Speaker 13: first version as part of the iPhone for us in"
+    },
+    {
+      "start": 2486.4,
+      "end": 2487.8,
+      "text": "Speaker 13: two thy and eleven."
+    },
+    {
+      "start": 2488.8,
+      "end": 2489.48,
+      "text": "Speaker 2: It's terrific."
+    },
+    {
+      "start": 2489.8,
+      "end": 2494.8,
+      "text": "Speaker 13: It's on par probably with recent versions of Chat GPT, Google,"
+    },
+    {
+      "start": 2494.84,
+      "end": 2498.279,
+      "text": "Speaker 13: Gemini and Claude. It's not perfect. There's a lot it"
+    },
+    {
+      "start": 2498.32,
+      "end": 2501.2,
+      "text": "Speaker 13: can't do. You can't do in depth research like you"
+    },
+    {
+      "start": 2501.239,
+      "end": 2504.08,
+      "text": "Speaker 13: can do on chat GPT. You're not going to get"
+    },
+    {
+      "start": 2504.64,
+      "end": 2508.319,
+      "text": "Speaker 13: major PDF summaries of very long documents. You're not going"
+    },
+    {
+      "start": 2508.36,
+      "end": 2511.96,
+      "text": "Speaker 13: to get tax preparation, you're not going to get Excel"
+    },
+    {
+      "start": 2512.12,
+      "end": 2516.08,
+      "text": "Speaker 13: and powerpoints slide decreation. But for ninety five percent of"
+    },
+    {
+      "start": 2516.12,
+      "end": 2520.08,
+      "text": "Speaker 13: people they use chat GPT in Gemini for web AI, search,"
+    },
+    {
+      "start": 2520.12,
+      "end": 2524.52,
+      "text": "Speaker 13: for historical information, for asking questions about anything. It could"
+    },
+    {
+      "start": 2524.52,
+      "end": 2527.12,
+      "text": "Speaker 13: do all of that, plus actually do the things that"
+    },
+    {
+      "start": 2527.2,
+      "end": 2530.2,
+      "text": "Speaker 13: Seria has been supposed to do, like correctly player music"
+    },
+    {
+      "start": 2530.32,
+      "end": 2531.88,
+      "text": "Speaker 13: or correctly navigate your places."
+    },
+    {
+      "start": 2532.64,
+      "end": 2535.36,
+      "text": "Speaker 2: This is a big win for Apple, just as people"
+    },
+    {
+      "start": 2535.48,
+      "end": 2538.08,
+      "text": "Speaker 2: use chat GBT for the most part. Right now, the"
+    },
+    {
+      "start": 2538.12,
+      "end": 2540.64,
+      "text": "Speaker 2: title of the Power on Apple's new series is just"
+    },
+    {
+      "start": 2541.0,
+      "end": 2543.48,
+      "text": "Speaker 2: good enough to ease AI crisis if I put the"
+    },
+    {
+      "start": 2543.52,
+      "end": 2545.4,
+      "text": "Speaker 2: emphasis in the right place quick."
+    },
+    {
+      "start": 2546.239,
+      "end": 2549.2,
+      "text": "Speaker 14: It is just good enough because it's not exactly as"
+    },
+    {
+      "start": 2549.239,
+      "end": 2553.16,
+      "text": "Speaker 14: good as the competition, but for ninety five percent of people,"
+    },
+    {
+      "start": 2553.52,
+      "end": 2556.0,
+      "text": "Speaker 14: and to meet the needs of the majority of the"
+    },
+    {
+      "start": 2556.04,
+      "end": 2559.719,
+      "text": "Speaker 14: Apple userbase two billion plus strong, it does that."
+    },
+    {
+      "start": 2561.0,
+      "end": 2563.96,
+      "text": "Speaker 2: Bloomberg's Mark Gunman a Power on every Sunday. You've got"
+    },
+    {
+      "start": 2563.96,
+      "end": 2565.16,
+      "text": "Speaker 2: to read it and then Mark will be on the"
+    },
+    {
+      "start": 2565.2,
+      "end": 2567.239,
+      "text": "Speaker 2: show give us the details that we need. Thank you"
+    },
+    {
+      "start": 2567.4,
+      "end": 2569.6,
+      "text": "Speaker 2: very much. A quick check on shares of SpaceX, so"
+    },
+    {
+      "start": 2569.64,
+      "end": 2571.719,
+      "text": "Speaker 2: the gains in the second day of trading now up"
+    },
+    {
+      "start": 2571.76,
+      "end": 2575.24,
+      "text": "Speaker 2: to ten percent, giving SpaceX as it stands a market"
+    },
+    {
+      "start": 2575.28,
+      "end": 2578.68,
+      "text": "Speaker 2: cap of around two zero point three to two trillion"
+    },
+    {
+      "start": 2578.8,
+      "end": 2582.08,
+      "text": "Speaker 2: dollars just day two as a public company trading in"
+    },
+    {
+      "start": 2582.12,
+      "end": 2585.48,
+      "text": "Speaker 2: the public markets. But we talked throughout the hour about"
+    },
+    {
+      "start": 2585.719,
+      "end": 2588.08,
+      "text": "Speaker 2: the lasting effect this will have in not just the"
+    },
+    {
+      "start": 2588.08,
+      "end": 2590.72,
+      "text": "Speaker 2: next few weeks, for the next few months and years."
+    },
+    {
+      "start": 2591.32,
+      "end": 2594.52,
+      "text": "Speaker 2: That does it for this edition of Bloomberg Tech. Those"
+    },
+    {
+      "start": 2594.56,
+      "end": 2597.96,
+      "text": "Speaker 2: conversations really worth recapping. There's a lot happening in capital markets,"
+    },
+    {
+      "start": 2598.32,
+      "end": 2602.6,
+      "text": "Speaker 2: across public equity, across debt, and it's the biggest technology"
+    },
+    {
+      "start": 2602.64,
+      "end": 2606.04,
+      "text": "Speaker 2: companies in the world that are dominating that news flow"
+    },
+    {
+      "start": 2606.16,
+      "end": 2608.279,
+      "text": "Speaker 2: and that market move. Check out the podcast. You know"
+    },
+    {
+      "start": 2608.32,
+      "end": 2610.359,
+      "text": "Speaker 2: where to find it on all the Bloomberg platforms, as"
+    },
+    {
+      "start": 2610.4,
+      "end": 2615.12,
+      "text": "Speaker 2: well as on Apple, Spotify, and iHeart. From San Francisco,"
+    },
+    {
+      "start": 2615.48,
+      "end": 2618.12,
+      "text": "Speaker 2: Day one, This is Bloomberg Tech"
+    }
+  ]
+}

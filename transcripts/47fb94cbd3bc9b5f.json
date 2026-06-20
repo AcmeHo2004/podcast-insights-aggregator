@@ -1,0 +1,3196 @@
+{
+  "id": "47fb94cbd3bc9b5f",
+  "show": "Odd Lots",
+  "theme": "Macro & Rates",
+  "title": "Inside Hudson River Trading's Blistering Token Burn",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/02b9e5a8-91d2-4e4e-a6a7-b45f0138ad2f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+  "source": "feed",
+  "duration": 1870.4,
+  "segments": [
+    {
+      "start": 2.72,
+      "end": 16.4,
+      "text": "Speaker 1: Bloomberg Audio Studios, Podcasts, radio News."
+    },
+    {
+      "start": 18.52,
+      "end": 21.48,
+      "text": "Speaker 2: Hello and welcome to another episode of the Odd Lots podcast."
+    },
+    {
+      "start": 21.56,
+      "end": 23.799,
+      "text": "Speaker 3: I'm Joe Wisenthal and I'm Tracy Alway."
+    },
+    {
+      "start": 23.96,
+      "end": 26.4,
+      "text": "Speaker 2: Tracy. We did another one of our live shows, this"
+    },
+    {
+      "start": 26.48,
+      "end": 28.72,
+      "text": "Speaker 2: time our biggest show ever, biggest show ever."
+    },
+    {
+      "start": 29.16,
+      "end": 31.72,
+      "text": "Speaker 4: It was absolutely amazing. We did it at City Winery"
+    },
+    {
+      "start": 31.8,
+      "end": 34.88,
+      "text": "Speaker 4: in New York. I think we had over three hundred people."
+    },
+    {
+      "start": 35.08,
+      "end": 37.36,
+      "text": "Speaker 2: Yeah, three hundred and fifty people were there."
+    },
+    {
+      "start": 37.56,
+      "end": 37.88,
+      "text": "Speaker 3: Yeah."
+    },
+    {
+      "start": 37.92,
+      "end": 39.959,
+      "text": "Speaker 4: And the crazy thing is, I think it was our"
+    },
+    {
+      "start": 40.0,
+      "end": 43.44,
+      "text": "Speaker 4: sort of first themed show, and we didn't really plan"
+    },
+    {
+      "start": 43.56,
+      "end": 45.8,
+      "text": "Speaker 4: it that way, but it just worked out right."
+    },
+    {
+      "start": 45.88,
+      "end": 48.4,
+      "text": "Speaker 2: I guess like it themed an anti theme at the"
+    },
+    {
+      "start": 48.44,
+      "end": 51.44,
+      "text": "Speaker 2: same time, because we're in this moment in which everything"
+    },
+    {
+      "start": 51.56,
+      "end": 55.24,
+      "text": "Speaker 2: is just like AI markets, markets, AI, et cetera. But"
+    },
+    {
+      "start": 55.44,
+      "end": 57.48,
+      "text": "Speaker 2: you know, there's all kinds of new things to trade,"
+    },
+    {
+      "start": 57.76,
+      "end": 60.68,
+      "text": "Speaker 2: and people are fascinated by the trade itself, pro fascinated"
+    },
+    {
+      "start": 60.68,
+      "end": 63.88,
+      "text": "Speaker 2: by the way the technology development is affecting the trade."
+    },
+    {
+      "start": 64.0,
+      "end": 66.48,
+      "text": "Speaker 2: So we really wanted to do a kind of future"
+    },
+    {
+      "start": 66.48,
+      "end": 69.92,
+      "text": "Speaker 2: of trading show, which is a very broad thing. But"
+    },
+    {
+      "start": 70.0,
+      "end": 71.36,
+      "text": "Speaker 2: it did sort of come out that way."
+    },
+    {
+      "start": 71.48,
+      "end": 75.2,
+      "text": "Speaker 4: Yeah, it really did. And you finally fulfilled your longtime"
+    },
+    {
+      "start": 75.28,
+      "end": 78.679,
+      "text": "Speaker 4: dream of doing two part episodes with our guests. So"
+    },
+    {
+      "start": 79.03999999999999,
+      "end": 81.72,
+      "text": "Speaker 4: our first speaker of the evening was actually someone who's"
+    },
+    {
+      "start": 81.72,
+      "end": 82.559,
+      "text": "Speaker 4: been on the show before."
+    },
+    {
+      "start": 82.72,
+      "end": 85.559,
+      "text": "Speaker 2: That's right, So we had him on the show last year,"
+    },
+    {
+      "start": 85.84,
+      "end": 89.12,
+      "text": "Speaker 2: and we had him on our live show. Listen to"
+    },
+    {
+      "start": 89.16,
+      "end": 91.6,
+      "text": "Speaker 2: our episode with Ian Dunning, he is the head of"
+    },
+    {
+      "start": 91.72,
+      "end": 98.16,
+      "text": "Speaker 2: AI at Hudson River Trading. Talked about all things implementing AI, GPUs,"
+    },
+    {
+      "start": 98.4,
+      "end": 101.6,
+      "text": "Speaker 2: all that stuff within the context of a trading shop."
+    },
+    {
+      "start": 101.64,
+      "end": 103.399,
+      "text": "Speaker 3: Take a listen, Joe, this is."
+    },
+    {
+      "start": 103.36,
+      "end": 105.88,
+      "text": "Speaker 4: Your dream, right, you finally got to do a two parts."
+    },
+    {
+      "start": 105.959,
+      "end": 108.08,
+      "text": "Speaker 2: This is the thing I always think about, which is"
+    },
+    {
+      "start": 108.08,
+      "end": 110.47999999999999,
+      "text": "Speaker 2: that after every episode we do, I'm like, Oh, there's"
+    },
+    {
+      "start": 110.47999999999999,
+      "end": 112.56,
+      "text": "Speaker 2: a question I wish I had asked. So we had"
+    },
+    {
+      "start": 112.64,
+      "end": 114.4,
+      "text": "Speaker 2: Yan on sometime last."
+    },
+    {
+      "start": 114.2,
+      "end": 116.24000000000001,
+      "text": "Speaker 4: Year, so the last round was easy, this one will"
+    },
+    {
+      "start": 116.24000000000001,
+      "end": 116.47999999999999,
+      "text": "Speaker 4: be right."
+    },
+    {
+      "start": 117.16,
+      "end": 118.8,
+      "text": "Speaker 2: Worried about that, well, I was going to start first"
+    },
+    {
+      "start": 118.96000000000001,
+      "end": 121.76,
+      "text": "Speaker 2: before we you know, talk about what you do, et cetera."
+    },
+    {
+      "start": 121.88,
+      "end": 124.04,
+      "text": "Speaker 2: So here's the question I wish I had asked last time. So,"
+    },
+    {
+      "start": 124.12,
+      "end": 127.32,
+      "text": "Speaker 2: Hudson River Trading Shop, you're involved in the AI stuff,"
+    },
+    {
+      "start": 127.88,
+      "end": 131.44,
+      "text": "Speaker 2: could you theoretically do what high Flyer did and launch"
+    },
+    {
+      "start": 131.48,
+      "end": 134.8,
+      "text": "Speaker 2: an LLM with this tech stack that you have and"
+    },
+    {
+      "start": 134.88,
+      "end": 136.24,
+      "text": "Speaker 2: launch a deep seat competitor?"
+    },
+    {
+      "start": 136.639,
+      "end": 139.72,
+      "text": "Speaker 3: I think so. I think we're good at training models."
+    },
+    {
+      "start": 139.72,
+      "end": 142.07999999999998,
+      "text": "Speaker 3: We have a lot of compute and people are good"
+    },
+    {
+      "start": 142.07999999999998,
+      "end": 144.36,
+      "text": "Speaker 3: at doing the cycle of research which is required to"
+    },
+    {
+      "start": 144.4,
+      "end": 148.079,
+      "text": "Speaker 3: catch up to the sort of frontier. However, I guess"
+    },
+    {
+      "start": 148.28,
+      "end": 151.68,
+      "text": "Speaker 3: reaching the frontier is clearly a very daunting task. So"
+    },
+    {
+      "start": 151.72,
+      "end": 155.12,
+      "text": "Speaker 3: maybe it's with some effort deep seek, but beyond that,"
+    },
+    {
+      "start": 155.16,
+      "end": 157.079,
+      "text": "Speaker 3: it's not a claim I'd be willing to make. It's"
+    },
+    {
+      "start": 157.12,
+      "end": 159.07999999999998,
+      "text": "Speaker 3: a hugely capital intensive task, clearly."
+    },
+    {
+      "start": 159.12,
+      "end": 161.8,
+      "text": "Speaker 2: And do you ever, like, do people ever chat about that?"
+    },
+    {
+      "start": 161.84,
+      "end": 163.52,
+      "text": "Speaker 3: It's we could we think about it?"
+    },
+    {
+      "start": 163.639,
+      "end": 163.76,
+      "text": "Speaker 4: You know?"
+    },
+    {
+      "start": 164.28,
+      "end": 166.6,
+      "text": "Speaker 3: I mean, I think perhaps we missed our moment to"
+    },
+    {
+      "start": 166.639,
+      "end": 168.8,
+      "text": "Speaker 3: do so. It is so many open models now coming"
+    },
+    {
+      "start": 168.8,
+      "end": 171.24,
+      "text": "Speaker 3: out from the US as well as like China, that"
+    },
+    {
+      "start": 171.639,
+      "end": 173.88,
+      "text": "Speaker 3: there's like a huge array of them. It's kind of"
+    },
+    {
+      "start": 173.88,
+      "end": 176.04,
+      "text": "Speaker 3: an interesting shift from that deep Seak moment where it"
+    },
+    {
+      "start": 176.07999999999998,
+      "end": 177.72,
+      "text": "Speaker 3: felt like it was the first bolt from the blue."
+    },
+    {
+      "start": 178.04,
+      "end": 180.6,
+      "text": "Speaker 3: He's a competitive open model. So now I see so"
+    },
+    {
+      "start": 180.639,
+      "end": 183.68,
+      "text": "Speaker 3: many groups releasing them. I don't know what the future"
+    },
+    {
+      "start": 183.68,
+      "end": 186.16,
+      "text": "Speaker 3: of open models is. That they're all kind of a"
+    },
+    {
+      "start": 186.24,
+      "end": 189.0,
+      "text": "Speaker 3: serious step back in. The frontier is progressing so fast."
+    },
+    {
+      "start": 189.2,
+      "end": 191.44,
+      "text": "Speaker 3: I don't know how you keep up with that, but"
+    },
+    {
+      "start": 191.6,
+      "end": 193.639,
+      "text": "Speaker 3: many people believe that it's possible. I'm not so sure."
+    },
+    {
+      "start": 193.8,
+      "end": 194.88,
+      "text": "Speaker 3: I'm one of those people though."
+    },
+    {
+      "start": 195.04,
+      "end": 198.24,
+      "text": "Speaker 4: Okay, so, speaking of things moving so fast, my first"
+    },
+    {
+      "start": 198.32,
+      "end": 200.919,
+      "text": "Speaker 4: question is slightly different. I looked up your Twitter feed."
+    },
+    {
+      "start": 201.04,
+      "end": 204.0,
+      "text": "Speaker 4: Oh no, before you came on the show. Your last"
+    },
+    {
+      "start": 204.0,
+      "end": 209.4,
+      "text": "Speaker 4: tweet before today was and I quote feel this every day, worry."
+    },
+    {
+      "start": 209.44,
+      "end": 212.36,
+      "text": "Speaker 4: It's some sort of AI induce delirium. But then again,"
+    },
+    {
+      "start": 212.52,
+      "end": 215.6,
+      "text": "Speaker 4: various empirical measures are exponential looking, so feels best to"
+    },
+    {
+      "start": 215.64,
+      "end": 218.8,
+      "text": "Speaker 4: assume we're hurtling towards some sort of endgame. So first"
+    },
+    {
+      "start": 218.84,
+      "end": 222.76,
+      "text": "Speaker 4: of all, please convince us all live on stage that"
+    },
+    {
+      "start": 222.8,
+      "end": 225.6,
+      "text": "Speaker 4: you are in fact not suffering from AI induce delarium."
+    },
+    {
+      "start": 225.68,
+      "end": 228.56,
+      "text": "Speaker 4: But secondly, like, what is the endgame that you speak"
+    },
+    {
+      "start": 228.6,
+      "end": 228.96,
+      "text": "Speaker 4: of here?"
+    },
+    {
+      "start": 229.48,
+      "end": 233.48,
+      "text": "Speaker 3: God, now I saw like a San Francisco pressent I do. I'sist."
+    },
+    {
+      "start": 233.6,
+      "end": 237.6,
+      "text": "Speaker 3: I've been doing AI stuff since around twenty sixteen, and"
+    },
+    {
+      "start": 237.76,
+      "end": 240.48,
+      "text": "Speaker 3: that stuted at Deep Mind, and it was a bit"
+    },
+    {
+      "start": 240.48,
+      "end": 242.28,
+      "text": "Speaker 3: of a culture shock for me, because there are true"
+    },
+    {
+      "start": 242.32,
+      "end": 244.84,
+      "text": "Speaker 3: believers then, and I was most certainly not a true believer,"
+    },
+    {
+      "start": 245.48,
+      "end": 247.16,
+      "text": "Speaker 3: and I resisted it, and it was kind of a"
+    },
+    {
+      "start": 247.24,
+      "end": 251.76,
+      "text": "Speaker 3: natural skeptic for a long time. But certain empirical measures"
+    },
+    {
+      "start": 251.76,
+      "end": 254.04,
+      "text": "Speaker 3: of the pace of progress in the outside world. And"
+    },
+    {
+      "start": 254.04,
+      "end": 258.6,
+      "text": "Speaker 3: I also look at our own business, which looks somewhat"
+    },
+    {
+      "start": 258.64,
+      "end": 263.2,
+      "text": "Speaker 3: exponentially the amount of compute I'll have next year versus"
+    },
+    {
+      "start": 263.24,
+      "end": 266.88,
+      "text": "Speaker 3: this year, and this year versus last year. Looks kind"
+    },
+    {
+      "start": 266.92,
+      "end": 271.64,
+      "text": "Speaker 3: of exponentially, and we're doing things today that I didn't"
+    },
+    {
+      "start": 271.96,
+      "end": 274.6,
+      "text": "Speaker 3: really I should have dreamt of. I wish I had"
+    },
+    {
+      "start": 274.6,
+      "end": 276.56,
+      "text": "Speaker 3: that kind of visionary say, I'm a visionary and I"
+    },
+    {
+      "start": 276.6,
+      "end": 278.88,
+      "text": "Speaker 3: can see the future and I'm building towards it. But no,"
+    },
+    {
+      "start": 279.08,
+      "end": 281.479,
+      "text": "Speaker 3: I'm I think I'm a pragmatic engineering archetype, and so"
+    },
+    {
+      "start": 281.52,
+      "end": 284.919,
+      "text": "Speaker 3: it's been very incremental and I'm like, wow, that happened"
+    },
+    {
+      "start": 284.96,
+      "end": 286.96,
+      "text": "Speaker 3: in a year. So what does this mean? It's some"
+    },
+    {
+      "start": 286.96,
+      "end": 291.4,
+      "text": "Speaker 3: sort of technological convergence, everything going faster all the time. Well,"
+    },
+    {
+      "start": 291.4,
+      "end": 294.08,
+      "text": "Speaker 3: give us any I'm probably, but you give us an."
+    },
+    {
+      "start": 293.96,
+      "end": 296.24,
+      "text": "Speaker 2: Example then, because you know, obviously those of us using"
+    },
+    {
+      "start": 296.36,
+      "end": 300.56,
+      "text": "Speaker 2: just the regular models, obviously the improvements and capability from"
+    },
+    {
+      "start": 300.56,
+      "end": 303.08,
+      "text": "Speaker 2: one year to another our mind blowing. But from the"
+    },
+    {
+      "start": 303.16,
+      "end": 306.8,
+      "text": "Speaker 2: perspective of like, okay, the application of AI within the"
+    },
+    {
+      "start": 306.839,
+      "end": 309.52,
+      "text": "Speaker 2: trading context, what is something that you can do in"
+    },
+    {
+      "start": 309.56,
+      "end": 312.52,
+      "text": "Speaker 2: twenty twenty six that and say twenty twenty four you"
+    },
+    {
+      "start": 312.56,
+      "end": 314.28,
+      "text": "Speaker 2: would not have been able to anticipate."
+    },
+    {
+      "start": 314.4,
+      "end": 316.839,
+      "text": "Speaker 3: Oh, I think it's one way to think is just"
+    },
+    {
+      "start": 316.839,
+      "end": 319.76,
+      "text": "Speaker 3: like the amount of compute going into both training a"
+    },
+    {
+      "start": 319.8,
+      "end": 322.08,
+      "text": "Speaker 3: model and running a model, and that it's the same"
+    },
+    {
+      "start": 322.12,
+      "end": 325.88,
+      "text": "Speaker 3: technology working across every equity, every future, every crypto market,"
+    },
+    {
+      "start": 325.92,
+      "end": 328.0,
+      "text": "Speaker 3: every option market across the world with a kind of"
+    },
+    {
+      "start": 328.08,
+      "end": 331.8,
+      "text": "Speaker 3: unified approach, and this is something that we're doing. But"
+    },
+    {
+      "start": 331.96,
+      "end": 334.8,
+      "text": "Speaker 3: even more interestingly, I would not claim that we are"
+    },
+    {
+      "start": 334.88,
+      "end": 337.159,
+      "text": "Speaker 3: some unique people who are only the ones who have"
+    },
+    {
+      "start": 337.24,
+      "end": 340.0,
+      "text": "Speaker 3: really made progress in AI and trading. I think many"
+    },
+    {
+      "start": 340.04,
+      "end": 343.68,
+      "text": "Speaker 3: of our peers are also investing massively and we're all"
+    },
+    {
+      "start": 343.68,
+      "end": 345.12,
+      "text": "Speaker 3: doing it all at the same time. And what does"
+    },
+    {
+      "start": 345.15999999999997,
+      "end": 348.04,
+      "text": "Speaker 3: that mean, Like, surely you can't just like keep getting"
+    },
+    {
+      "start": 348.08,
+      "end": 350.919,
+      "text": "Speaker 3: better at predicting markets Furvace. It's got to be some"
+    },
+    {
+      "start": 350.96,
+      "end": 354.88,
+      "text": "Speaker 3: sort of forcing function where you know your your margins"
+    },
+    {
+      "start": 354.88,
+      "end": 356.24,
+      "text": "Speaker 3: go to zero as you keep investing."
+    },
+    {
+      "start": 356.8,
+      "end": 359.68,
+      "text": "Speaker 2: What you're saying is you are just getting better and"
+    },
+    {
+      "start": 359.72,
+      "end": 362.279,
+      "text": "Speaker 2: better at being able to predict where a market is"
+    },
+    {
+      "start": 362.279,
+      "end": 364.24,
+      "text": "Speaker 2: going to go further and further out in the."
+    },
+    {
+      "start": 364.16,
+      "end": 366.92,
+      "text": "Speaker 3: Time frame basically, And we're not the only ones. So"
+    },
+    {
+      "start": 367.04,
+      "end": 370.04,
+      "text": "Speaker 3: in the end, can there be some highlander type thing"
+    },
+    {
+      "start": 370.12,
+      "end": 372.24,
+      "text": "Speaker 3: like what are we doing? And it's it's this is"
+    },
+    {
+      "start": 372.24,
+      "end": 373.72,
+      "text": "Speaker 3: like my scale, And I guess the other thing I"
+    },
+    {
+      "start": 373.76,
+      "end": 376.28,
+      "text": "Speaker 3: find interesting is, of course the scale that everyone can"
+    },
+    {
+      "start": 376.32,
+      "end": 379.52,
+      "text": "Speaker 3: see with the big labs and what they're doing of computeion."
+    },
+    {
+      "start": 379.6,
+      "end": 382.76,
+      "text": "Speaker 3: It's like it looks awfully exponential to me. We just"
+    },
+    {
+      "start": 382.8,
+      "end": 386.56,
+      "text": "Speaker 3: had another model released today from Anthropic and the type"
+    },
+    {
+      "start": 386.56,
+      "end": 390.56,
+      "text": "Speaker 3: of spacing between them seems to be compressing. I do"
+    },
+    {
+      "start": 390.6,
+      "end": 393.52,
+      "text": "Speaker 3: sound hilarious. I sound feverish, and that's why."
+    },
+    {
+      "start": 392.76,
+      "end": 394.96,
+      "text": "Speaker 2: It's literally everyone in this room."
+    },
+    {
+      "start": 395.0,
+      "end": 397.359,
+      "text": "Speaker 3: Probably I feel everyone must feel the fever to some extent."
+    },
+    {
+      "start": 397.44,
+      "end": 400.48,
+      "text": "Speaker 4: Yeah, I never understood the Highlander there can only be"
+    },
+    {
+      "start": 400.52,
+      "end": 404.48,
+      "text": "Speaker 4: one thing because they're already two. They could just coexist,"
+    },
+    {
+      "start": 404.56,
+      "end": 407.64,
+      "text": "Speaker 4: that's right. Anyway, Sorry, I'm just picking apart your analogy."
+    },
+    {
+      "start": 407.8,
+      "end": 410.84000000000003,
+      "text": "Speaker 4: You mentioned a new model release. When a new model"
+    },
+    {
+      "start": 410.88,
+      "end": 413.68,
+      "text": "Speaker 4: gets released, like, what is the first thing you do"
+    },
+    {
+      "start": 414.0,
+      "end": 416.44,
+      "text": "Speaker 4: at Hudson River Trading to evaluate it? And how do"
+    },
+    {
+      "start": 416.48,
+      "end": 418.44,
+      "text": "Speaker 4: you actually compare them to the existing one?"
+    },
+    {
+      "start": 418.839,
+      "end": 421.92,
+      "text": "Speaker 3: So I mean our prime reuse cases as a trading"
+    },
+    {
+      "start": 421.96,
+      "end": 425.039,
+      "text": "Speaker 3: and definitely kind of just like accelerating your own research."
+    },
+    {
+      "start": 425.24,
+      "end": 427.84,
+      "text": "Speaker 3: So that can be coding, but it can also be"
+    },
+    {
+      "start": 428.04,
+      "end": 432.2,
+      "text": "Speaker 3: coming up with experiment ideas, monitoring experiments. We had a"
+    },
+    {
+      "start": 432.36,
+      "end": 435.04,
+      "text": "Speaker 3: sort of a false start with AI I would say"
+    },
+    {
+      "start": 435.28,
+      "end": 438.4,
+      "text": "Speaker 3: sometime last year with the Opus four point zero models,"
+    },
+    {
+      "start": 438.48,
+      "end": 443.24,
+      "text": "Speaker 3: especially from Anthropic, where a cursory examination made us feel like, well,"
+    },
+    {
+      "start": 443.28,
+      "end": 445.6,
+      "text": "Speaker 3: this is the moment we've crossed the dividing line, and"
+    },
+    {
+      "start": 445.64,
+      "end": 448.32,
+      "text": "Speaker 3: we had a very feverish week where we felt the"
+    },
+    {
+      "start": 448.36,
+      "end": 452.56,
+      "text": "Speaker 3: AGI and we left feeling empty because we realized that"
+    },
+    {
+      "start": 452.84000000000003,
+      "end": 455.12,
+      "text": "Speaker 3: it was not there and was not able to meaningfully"
+    },
+    {
+      "start": 455.24,
+      "end": 458.72,
+      "text": "Speaker 3: augment human researchers. And then we had that same feeling"
+    },
+    {
+      "start": 458.76,
+      "end": 461.56,
+      "text": "Speaker 3: again when Opus four point five came out and suddenly"
+    },
+    {
+      "start": 461.6,
+      "end": 463.56,
+      "text": "Speaker 3: it was like, oh, wait, no, this is this is"
+    },
+    {
+      "start": 463.56,
+      "end": 464.92,
+      "text": "Speaker 3: actually what we thought it was going to be six"
+    },
+    {
+      "start": 464.96,
+      "end": 468.6,
+      "text": "Speaker 3: months ago. So in the most recent model releases, the"
+    },
+    {
+      "start": 468.68,
+      "end": 472.0,
+      "text": "Speaker 3: differences have been more subtle, but we see, I think"
+    },
+    {
+      "start": 472.04,
+      "end": 474.6,
+      "text": "Speaker 3: we have a much better sense of an ever reducing"
+    },
+    {
+      "start": 474.6,
+      "end": 476.72,
+      "text": "Speaker 3: set of errors they make, and so we're kind of"
+    },
+    {
+      "start": 476.76,
+      "end": 479.36,
+      "text": "Speaker 3: looking for those those of mistakes, and we are We"
+    },
+    {
+      "start": 479.4,
+      "end": 480.96,
+      "text": "Speaker 3: spent some time in the past couple of weeks trying"
+    },
+    {
+      "start": 480.96,
+      "end": 483.24,
+      "text": "Speaker 3: to come up with objective measures to index them against"
+    },
+    {
+      "start": 483.44,
+      "end": 488.24,
+      "text": "Speaker 3: humans in the active quant research ideating signals and things"
+    },
+    {
+      "start": 488.72,
+      "end": 490.44,
+      "text": "Speaker 3: quant research used to be, as we talked about a"
+    },
+    {
+      "start": 490.48,
+      "end": 493.8,
+      "text": "Speaker 3: little bit like hand crafting indicators and things, why not"
+    },
+    {
+      "start": 493.84,
+      "end": 496.56,
+      "text": "Speaker 3: ask AI agents to do that and compare them against"
+    },
+    {
+      "start": 496.6,
+      "end": 500.2,
+      "text": "Speaker 3: humans like a little sort of battle. And it's they're like,"
+    },
+    {
+      "start": 500.32,
+      "end": 504.16,
+      "text": "Speaker 3: I don't know, intern level AI. Perhaps the thing is like,"
+    },
+    {
+      "start": 504.44,
+      "end": 505.72,
+      "text": "Speaker 3: what do I think it'll be in a year? And"
+    },
+    {
+      "start": 505.8,
+      "end": 507.2,
+      "text": "Speaker 3: I would not want to make a bold claim, but"
+    },
+    {
+      "start": 507.2,
+      "end": 507.76,
+      "text": "Speaker 3: it will still be."
+    },
+    {
+      "start": 508.24,
+      "end": 512.16,
+      "text": "Speaker 2: It'll be wild. So when we think about investing in general,"
+    },
+    {
+      "start": 512.64,
+      "end": 516.319,
+      "text": "Speaker 2: even within sort of like classical quant trade, and going"
+    },
+    {
+      "start": 516.36,
+      "end": 520.24,
+      "text": "Speaker 2: back decades, there is often it might be quant but"
+    },
+    {
+      "start": 520.24,
+      "end": 523.56,
+      "text": "Speaker 2: there's some intuition behind it. Right, Cheap stocks tend to"
+    },
+    {
+      "start": 523.6,
+      "end": 526.76,
+      "text": "Speaker 2: do better, and we don't actually totally have agreement why"
+    },
+    {
+      "start": 526.8,
+      "end": 529.68,
+      "text": "Speaker 2: they did for a while, but people aren't necessarily surprised"
+    },
+    {
+      "start": 529.72,
+      "end": 532.76,
+      "text": "Speaker 2: by that fact, right are we at the point where"
+    },
+    {
+      "start": 532.76,
+      "end": 535.64,
+      "text": "Speaker 2: it's like why even bother coming up with the human"
+    },
+    {
+      "start": 535.72,
+      "end": 538.92,
+      "text": "Speaker 2: intuitive story and you just skip the part of giving"
+    },
+    {
+      "start": 538.92,
+      "end": 542.12,
+      "text": "Speaker 2: an explanation that's owns logical to a person and it's"
+    },
+    {
+      "start": 542.16,
+      "end": 547.36,
+      "text": "Speaker 2: just basically pure like rigorous back testing. And then it's like, look,"
+    },
+    {
+      "start": 547.48,
+      "end": 550.0,
+      "text": "Speaker 2: here is something that seems to work, and we've back"
+    },
+    {
+      "start": 550.04,
+      "end": 552.36,
+      "text": "Speaker 2: tested it a million different ways and it seems to work,"
+    },
+    {
+      "start": 552.48,
+      "end": 554.48,
+      "text": "Speaker 2: and we don't even bother coming up with a story"
+    },
+    {
+      "start": 554.48,
+      "end": 555.72,
+      "text": "Speaker 2: for why, but we're going to trade it."
+    },
+    {
+      "start": 555.92,
+      "end": 557.92,
+      "text": "Speaker 3: I feel like we're in that world today. It's seat"
+    },
+    {
+      "start": 557.92,
+      "end": 561.76,
+      "text": "Speaker 3: of post post post capitalism. When I see IPOs discussed"
+    },
+    {
+      "start": 561.76,
+      "end": 564.08,
+      "text": "Speaker 3: for this coming summer, at the valuations they are, I'm like,"
+    },
+    {
+      "start": 564.24,
+      "end": 567.319,
+      "text": "Speaker 3: what is a fundamental? Like what is anything? It feels"
+    },
+    {
+      "start": 567.4,
+      "end": 570.8,
+      "text": "Speaker 3: like markets are just the cynical thick is everything is gambling,"
+    },
+    {
+      "start": 570.84,
+      "end": 573.28,
+      "text": "Speaker 3: and so everything is some sort of like gambling market,"
+    },
+    {
+      "start": 573.36,
+      "end": 576.64,
+      "text": "Speaker 3: including public markets. But the joke is flows, it's buying"
+    },
+    {
+      "start": 576.679,
+      "end": 578.72,
+      "text": "Speaker 3: and selling, and it's just it's worth what it's worth,"
+    },
+    {
+      "start": 578.92,
+      "end": 582.08,
+      "text": "Speaker 3: and it's detached and more biased, and sellers price go up,"
+    },
+    {
+      "start": 582.16,
+      "end": 585.48,
+      "text": "Speaker 3: and models are excellent at like pulling that out of data."
+    },
+    {
+      "start": 585.559,
+      "end": 588.16,
+      "text": "Speaker 2: But just like let's say, you know the classic example"
+    },
+    {
+      "start": 588.2,
+      "end": 590.52,
+      "text": "Speaker 2: of like a back test, it is like, oh, companies"
+    },
+    {
+      "start": 590.559,
+      "end": 593.08,
+      "text": "Speaker 2: with the ticker symbol it starts with P, they do"
+    },
+    {
+      "start": 593.2,
+      "end": 595.64,
+      "text": "Speaker 2: well on Tuesdays. And it's like, well, look the data"
+    },
+    {
+      "start": 595.64,
+      "end": 597.08,
+      "text": "Speaker 2: says that, but this makes no sense. We're not going"
+    },
+    {
+      "start": 597.16,
+      "end": 598.8389999999999,
+      "text": "Speaker 2: to trade that. Could it get to the point where"
+    },
+    {
+      "start": 598.84,
+      "end": 601.24,
+      "text": "Speaker 2: it's like, look, symbols that starts with P, you do"
+    },
+    {
+      "start": 601.32,
+      "end": 603.48,
+      "text": "Speaker 2: well on Tuesdays, And we've run this a bunch of"
+    },
+    {
+      "start": 603.52,
+      "end": 605.12,
+      "text": "Speaker 2: times and it seems to work, so we're gonna put"
+    },
+    {
+      "start": 605.16,
+      "end": 605.76,
+      "text": "Speaker 2: money beyond us."
+    },
+    {
+      "start": 606.28,
+      "end": 607.48,
+      "text": "Speaker 4: AI Like I."
+    },
+    {
+      "start": 609.12,
+      "end": 612.0,
+      "text": "Speaker 3: Feel like, yes, although it sounds crazy, it sounds like"
+    },
+    {
+      "start": 612.0,
+      "end": 613.92,
+      "text": "Speaker 3: AI delirium when I say it, but I feel like"
+    },
+    {
+      "start": 613.96,
+      "end": 616.6,
+      "text": "Speaker 3: there's some sense that that could be true at some"
+    },
+    {
+      "start": 616.679,
+      "end": 620.4,
+      "text": "Speaker 3: point I can't predict. So at the very short time scale,"
+    },
+    {
+      "start": 620.4,
+      "end": 622.92,
+      "text": "Speaker 3: people accept this already, right Like I can't tell you"
+    },
+    {
+      "start": 622.96,
+      "end": 624.68,
+      "text": "Speaker 3: the price of like a stock in a minute, and"
+    },
+    {
+      "start": 624.679,
+      "end": 627.16,
+      "text": "Speaker 3: no one would really reasonably expect any human to do so,"
+    },
+    {
+      "start": 627.52,
+      "end": 629.08,
+      "text": "Speaker 3: even if they had the uder book and spend all"
+    },
+    {
+      "start": 629.12,
+      "end": 630.64,
+      "text": "Speaker 3: the time in the world is staring at it. But"
+    },
+    {
+      "start": 630.72,
+      "end": 633.92,
+      "text": "Speaker 3: we accept that neural networks can do this, And then"
+    },
+    {
+      "start": 634.52,
+      "end": 637.16,
+      "text": "Speaker 3: when does that logic break down? Why should it break"
+    },
+    {
+      "start": 637.2,
+      "end": 639.76,
+      "text": "Speaker 3: down at some long time scale. If it's ingesting all"
+    },
+    {
+      "start": 639.84,
+      "end": 641.8,
+      "text": "Speaker 3: the data and has everything and it can keep it"
+    },
+    {
+      "start": 641.84,
+      "end": 644.76,
+      "text": "Speaker 3: all in the context in way human can't, why should"
+    },
+    {
+      "start": 644.76,
+      "end": 648.04,
+      "text": "Speaker 3: I be able to understand it? Yeah, and that is"
+    },
+    {
+      "start": 648.04,
+      "end": 650.8389999999999,
+      "text": "Speaker 3: a strange thought, a loss of control. It feels like"
+    },
+    {
+      "start": 650.88,
+      "end": 654.24,
+      "text": "Speaker 3: a loss of control. But it's like, you know, people"
+    },
+    {
+      "start": 654.24,
+      "end": 656.28,
+      "text": "Speaker 3: save us from math. Maybe humans are actually very bad"
+    },
+    {
+      "start": 656.32,
+      "end": 658.92,
+      "text": "Speaker 3: at math. So it's not surprising AI as much better"
+    },
+    {
+      "start": 658.96,
+      "end": 662.2,
+      "text": "Speaker 3: than humans that these like mass proofs. Humans probably would"
+    },
+    {
+      "start": 662.2,
+      "end": 665.44,
+      "text": "Speaker 3: be pretty bad at markets where thousands of tradable instruments"
+    },
+    {
+      "start": 665.48,
+      "end": 668.0,
+      "text": "Speaker 3: on like very long time scales. We just kind of"
+    },
+    {
+      "start": 668.0,
+      "end": 670.48,
+      "text": "Speaker 3: accepted that we were some people were good at this."
+    },
+    {
+      "start": 671.04,
+      "end": 674.52,
+      "text": "Speaker 3: Maybe that's a temporary state of affairs."
+    },
+    {
+      "start": 674.64,
+      "end": 676.72,
+      "text": "Speaker 4: Well, we talked about this the last time. You were"
+    },
+    {
+      "start": 676.76,
+      "end": 680.04,
+      "text": "Speaker 4: on the idea that the models themselves are not very interpretable,"
+    },
+    {
+      "start": 680.2,
+      "end": 682.32,
+      "text": "Speaker 4: I guess you would say, but you're comfortable with that"
+    },
+    {
+      "start": 682.8,
+      "end": 685.96,
+      "text": "Speaker 4: on a short trading timeframe, which is what you do."
+    },
+    {
+      "start": 686.52,
+      "end": 689.4,
+      "text": "Speaker 4: And then we started joking about magic models, and magic"
+    },
+    {
+      "start": 689.48,
+      "end": 691.92,
+      "text": "Speaker 4: is a dangerous word to use on this podcast because"
+    },
+    {
+      "start": 691.92,
+      "end": 696.0,
+      "text": "Speaker 4: people start thinking about magic boxes. But anyway, now that"
+    },
+    {
+      "start": 696.08,
+      "end": 698.36,
+      "text": "Speaker 4: you've been doing this for another six months since we"
+    },
+    {
+      "start": 698.48,
+      "end": 700.72,
+      "text": "Speaker 4: last spoke to you, do you feel like you have"
+    },
+    {
+      "start": 700.84,
+      "end": 704.199,
+      "text": "Speaker 4: better insight into what the models are actually doing and"
+    },
+    {
+      "start": 704.28,
+      "end": 706.88,
+      "text": "Speaker 4: why they're able to succeed on short timeframes."
+    },
+    {
+      "start": 707.2,
+      "end": 710.52,
+      "text": "Speaker 3: I do think there are diagnostics we have done where"
+    },
+    {
+      "start": 711.0,
+      "end": 714.719,
+      "text": "Speaker 3: when we can see things that we can understand. It's"
+    },
+    {
+      "start": 714.76,
+      "end": 717.04,
+      "text": "Speaker 3: like looking at some very very complex thing and you"
+    },
+    {
+      "start": 717.04,
+      "end": 718.72,
+      "text": "Speaker 3: can look at one facet of it and be like,"
+    },
+    {
+      "start": 718.76,
+      "end": 720.68,
+      "text": "Speaker 3: this is the fast that I understand, and that gives"
+    },
+    {
+      "start": 720.72,
+      "end": 724.28,
+      "text": "Speaker 3: you some confidence, but it might be illusory because it's"
+    },
+    {
+      "start": 724.28,
+      "end": 726.8,
+      "text": "Speaker 3: a very very complex object, and you can if you're"
+    },
+    {
+      "start": 726.84,
+      "end": 730.08,
+      "text": "Speaker 3: only taking slices through it and to understand aspects of it."
+    },
+    {
+      "start": 730.559,
+      "end": 733.48,
+      "text": "Speaker 3: You know, we had this emergent phenomenon we saw where"
+    },
+    {
+      "start": 733.6,
+      "end": 735.92,
+      "text": "Speaker 3: it felt like the model kind of understood meme stocks"
+    },
+    {
+      "start": 735.96,
+      "end": 741.4,
+      "text": "Speaker 3: from first principles like quantum stocks and crypto stocks being"
+    },
+    {
+      "start": 741.48,
+      "end": 744.92,
+      "text": "Speaker 3: kind of adjacent in stock space, and of course from"
+    },
+    {
+      "start": 744.96,
+      "end": 748.16,
+      "text": "Speaker 3: a fundamental perspective that says, no, there's no meaning to it."
+    },
+    {
+      "start": 748.24,
+      "end": 750.16,
+      "text": "Speaker 3: But we looked at the model and us under a"
+    },
+    {
+      "start": 750.16,
+      "end": 753.28,
+      "text": "Speaker 3: certain lens and it clearly felt like they knew they"
+    },
+    {
+      "start": 753.32,
+      "end": 755.84,
+      "text": "Speaker 3: were connected. There's some other actual companies that I probably"
+    },
+    {
+      "start": 755.84,
+      "end": 758.08,
+      "text": "Speaker 3: won't name. It feels like it's bad form, but you"
+    },
+    {
+      "start": 758.12,
+      "end": 760.72,
+      "text": "Speaker 3: know Wall Street BET's favorites, I guess, and they were"
+    },
+    {
+      "start": 760.8,
+      "end": 763.4,
+      "text": "Speaker 3: near the cluster too, And this was like just one"
+    },
+    {
+      "start": 763.44,
+      "end": 765.88,
+      "text": "Speaker 3: little window. But there were other slices we tried to"
+    },
+    {
+      "start": 765.92,
+      "end": 767.92,
+      "text": "Speaker 3: take which just didn't make sense to us. But again"
+    },
+    {
+      "start": 768.0,
+      "end": 769.88,
+      "text": "Speaker 3: it's like, who am I to say?"
+    },
+    {
+      "start": 771.76,
+      "end": 775.28,
+      "text": "Speaker 2: The model says they're in that vicinity of hyperdimensional space."
+    },
+    {
+      "start": 775.52,
+      "end": 778.04,
+      "text": "Speaker 3: Yeah. The one thing for us though, is that when"
+    },
+    {
+      "start": 778.08,
+      "end": 782.08,
+      "text": "Speaker 3: we do have this magical model, it is in a"
+    },
+    {
+      "start": 782.12,
+      "end": 784.679,
+      "text": "Speaker 3: lot of safety around it. Because we're doing this higher"
+    },
+    {
+      "start": 784.679,
+      "end": 787.28,
+      "text": "Speaker 3: frequency trading. We're trading positions back and forth. There's a"
+    },
+    {
+      "start": 787.32,
+      "end": 789.56,
+      "text": "Speaker 3: lot of risk checks that are fully automated in things."
+    },
+    {
+      "start": 789.92,
+      "end": 792.48,
+      "text": "Speaker 3: I don't know how you generalize this logic to long"
+    },
+    {
+      "start": 792.6,
+      "end": 796.36,
+      "text": "Speaker 3: term discretionary trading, where the idea of like risk checking"
+    },
+    {
+      "start": 796.6,
+      "end": 799.559,
+      "text": "Speaker 3: and that kind of layer of defense around it, it's"
+    },
+    {
+      "start": 799.6,
+      "end": 801.2,
+      "text": "Speaker 3: not so obvious to me how you apply that. We"
+    },
+    {
+      "start": 801.2,
+      "end": 804.36,
+      "text": "Speaker 3: can apply very strict controls around this model because it's"
+    },
+    {
+      "start": 804.36,
+      "end": 808.0,
+      "text": "Speaker 3: a well posed problem. We're not taking giant idiosyncratic risks"
+    },
+    {
+      "start": 808.04,
+      "end": 810.44,
+      "text": "Speaker 3: in like one name for months at a time. We"
+    },
+    {
+      "start": 810.48,
+      "end": 812.16,
+      "text": "Speaker 3: can sleep at night because of this. I don't know"
+    },
+    {
+      "start": 812.2,
+      "end": 814.88,
+      "text": "Speaker 3: how you apply the same thinking to like a fundamental long,"
+    },
+    {
+      "start": 814.92,
+      "end": 816.24,
+      "text": "Speaker 3: short thing where you have to put a trade on"
+    },
+    {
+      "start": 816.28,
+      "end": 819.12,
+      "text": "Speaker 3: and it's for three months, and you're intentionally taking a"
+    },
+    {
+      "start": 819.28,
+      "end": 823.68,
+      "text": "Speaker 3: very large risk in a very sudden direction. That's what's"
+    },
+    {
+      "start": 823.72,
+      "end": 825.56,
+      "text": "Speaker 3: the risk management story around the AI if you just"
+    },
+    {
+      "start": 825.6,
+      "end": 839.76,
+      "text": "Speaker 3: give up all control to just the magic prediction."
+    },
+    {
+      "start": 844.16,
+      "end": 846.72,
+      "text": "Speaker 2: So you said something on the last time we interviewed you,"
+    },
+    {
+      "start": 846.84,
+      "end": 848.559,
+      "text": "Speaker 2: which is very important. First of all, I feel like"
+    },
+    {
+      "start": 848.64,
+      "end": 851.4,
+      "text": "Speaker 2: in the quote AI trade unquote, people are obsessed with like,"
+    },
+    {
+      "start": 851.48,
+      "end": 854.64,
+      "text": "Speaker 2: what's the bottleneck now, right? And because whatever the bottleneck is,"
+    },
+    {
+      "start": 854.64,
+      "end": 856.84,
+      "text": "Speaker 2: you probably solved for a lot more money. You said"
+    },
+    {
+      "start": 857.32,
+      "end": 860.24,
+      "text": "Speaker 2: the last time we talked to you, the chips themselves"
+    },
+    {
+      "start": 860.64,
+      "end": 863.8,
+      "text": "Speaker 2: are We're not actually a major constraint for you, and"
+    },
+    {
+      "start": 863.8,
+      "end": 866.96,
+      "text": "Speaker 2: that it was more like citing the chips and the"
+    },
+    {
+      "start": 867.08,
+      "end": 869.84,
+      "text": "Speaker 2: powering the chips, the access to electricity, talk about that."
+    },
+    {
+      "start": 869.88,
+      "end": 872.48,
+      "text": "Speaker 2: What is the state right now? Let's say like I"
+    },
+    {
+      "start": 872.56,
+      "end": 876.32,
+      "text": "Speaker 2: assemble approach a bunch of people from Hudson River Trading. Yeah,"
+    },
+    {
+      "start": 876.4,
+      "end": 879.32,
+      "text": "Speaker 2: I get a bunch of GPUs. Is it then not"
+    },
+    {
+      "start": 879.56,
+      "end": 881.44,
+      "text": "Speaker 2: trivial to find a place to plug those in."
+    },
+    {
+      "start": 881.72,
+      "end": 885.56,
+      "text": "Speaker 3: It's definitely hot to find sites and at shortly times."
+    },
+    {
+      "start": 885.56,
+      "end": 887.4,
+      "text": "Speaker 3: If I went to the market and said I want,"
+    },
+    {
+      "start": 887.52,
+      "end": 891.84,
+      "text": "Speaker 3: you know, six thousand Blackwell GPUs in a box somewhere"
+    },
+    {
+      "start": 891.84,
+      "end": 895.88,
+      "text": "Speaker 3: in North America for delivery in Q four. I'm not"
+    },
+    {
+      "start": 895.92,
+      "end": 899.44,
+      "text": "Speaker 3: sure such an offering exists at any reasonable price. Like"
+    },
+    {
+      "start": 899.48,
+      "end": 901.52,
+      "text": "Speaker 3: if it from maybe someone will give up a lease"
+    },
+    {
+      "start": 901.56,
+      "end": 902.96,
+      "text": "Speaker 3: and I could snag it. But I think if I"
+    },
+    {
+      "start": 903.0,
+      "end": 904.36,
+      "text": "Speaker 3: went to the market and tried to get a."
+    },
+    {
+      "start": 904.4,
+      "end": 907.08,
+      "text": "Speaker 2: Quia sorry just to be clear, the chips are available,"
+    },
+    {
+      "start": 907.12,
+      "end": 908.28,
+      "text": "Speaker 2: but not the competity."
+    },
+    {
+      "start": 908.28,
+      "end": 910.2,
+      "text": "Speaker 3: I think if I had power, I could get the"
+    },
+    {
+      "start": 910.28,
+      "end": 912.32,
+      "text": "Speaker 3: chips Blackwell chips for delivery this yet, but I do"
+    },
+    {
+      "start": 912.36,
+      "end": 914.8,
+      "text": "Speaker 3: not think I could get the whole solution. And then"
+    },
+    {
+      "start": 915.04,
+      "end": 917.24,
+      "text": "Speaker 3: if you go into twenty twenty seven for the next"
+    },
+    {
+      "start": 917.24,
+      "end": 920.16,
+      "text": "Speaker 3: generation of GPUs, the Ruben GPUs, they at least for"
+    },
+    {
+      "start": 920.2,
+      "end": 923.04,
+      "text": "Speaker 3: the first like stretch, are going to be very much"
+    },
+    {
+      "start": 923.16,
+      "end": 925.6,
+      "text": "Speaker 3: assault out. And so I think that's like a maybe"
+    },
+    {
+      "start": 925.6,
+      "end": 927.64,
+      "text": "Speaker 3: you actually have on a twenty twenty seven delivery. You"
+    },
+    {
+      "start": 927.68,
+      "end": 930.24,
+      "text": "Speaker 3: have more like finding a data center shell by then."
+    },
+    {
+      "start": 930.8,
+      "end": 932.56,
+      "text": "Speaker 3: But you need you need to be in cute now"
+    },
+    {
+      "start": 932.68,
+      "end": 935.56,
+      "text": "Speaker 3: for those GPUs if you want them early. So those"
+    },
+    {
+      "start": 935.56,
+      "end": 937.84,
+      "text": "Speaker 3: things are those things are in demand. I'll say that"
+    },
+    {
+      "start": 937.88,
+      "end": 941.28,
+      "text": "Speaker 3: for sure. And one of my greatest failures has been"
+    },
+    {
+      "start": 941.76,
+      "end": 943.72,
+      "text": "Speaker 3: you know, part of my skepticism has been predicting how"
+    },
+    {
+      "start": 943.76,
+      "end": 946.0,
+      "text": "Speaker 3: many GPUs we would need and a long enough horizon"
+    },
+    {
+      "start": 946.44,
+      "end": 949.96,
+      "text": "Speaker 3: and it's punishing because you're constantly playing catchup. And one"
+    },
+    {
+      "start": 949.96,
+      "end": 952.88,
+      "text": "Speaker 3: of our competitors put out a podcast this weekend and"
+    },
+    {
+      "start": 953.24,
+      "end": 954.88,
+      "text": "Speaker 3: they mentioned somebody along the lines of the fact they"
+    },
+    {
+      "start": 955.12,
+      "end": 957.2,
+      "text": "Speaker 3: had one data center and it was the data center,"
+    },
+    {
+      "start": 957.24,
+      "end": 960.0,
+      "text": "Speaker 3: and that was their data center, and then as they're hungering,"
+    },
+    {
+      "start": 960.04,
+      "end": 961.52,
+      "text": "Speaker 3: hungry for more compute, they had to go out and"
+    },
+    {
+      "start": 961.52,
+      "end": 963.88,
+      "text": "Speaker 3: find it wherever they could. And I would say, we"
+    },
+    {
+      "start": 963.92,
+      "end": 966.28,
+      "text": "Speaker 3: are in exactly the same boat. You just can't be picky."
+    },
+    {
+      "start": 966.36,
+      "end": 968.56,
+      "text": "Speaker 3: It's like you've got like a mega watt there, I'll"
+    },
+    {
+      "start": 968.6,
+      "end": 971.84,
+      "text": "Speaker 3: take it, and it could be you know, not in"
+    },
+    {
+      "start": 971.96,
+      "end": 973.52,
+      "text": "Speaker 3: terms that are super favorable to you."
+    },
+    {
+      "start": 973.4,
+      "end": 975.64,
+      "text": "Speaker 4: Because we'll say more about that. How are you actually"
+    },
+    {
+      "start": 975.64,
+      "end": 977.92,
+      "text": "Speaker 4: going out and sourcing this stuff, because as you say,"
+    },
+    {
+      "start": 977.96,
+      "end": 981.04,
+      "text": "Speaker 4: it seems to be exceptionally competitive. And at the same time,"
+    },
+    {
+      "start": 981.08,
+      "end": 983.52,
+      "text": "Speaker 4: don't you guys have an insane data center in like"
+    },
+    {
+      "start": 983.6,
+      "end": 984.92,
+      "text": "Speaker 4: Norway or something."
+    },
+    {
+      "start": 984.68,
+      "end": 987.4,
+      "text": "Speaker 3: And it's not enough. Yeah, and it's not enough. Yes."
+    },
+    {
+      "start": 987.52,
+      "end": 992.52,
+      "text": "Speaker 3: We go to the neo clouds, the hyperscalers, everyone, and"
+    },
+    {
+      "start": 992.92,
+      "end": 995.68,
+      "text": "Speaker 3: it's a constant dialogue and they're all in competition with"
+    },
+    {
+      "start": 995.76,
+      "end": 998.52,
+      "text": "Speaker 3: each other. But in some sense there must be some"
+    },
+    {
+      "start": 998.64,
+      "end": 1001.68,
+      "text": "Speaker 3: much bigger, shadowy competition going on behind the scenes behind"
+    },
+    {
+      "start": 1001.68,
+      "end": 1004.36,
+      "text": "Speaker 3: these neoclouds because they are all looking for space and"
+    },
+    {
+      "start": 1004.44,
+      "end": 1006.84,
+      "text": "Speaker 3: power and I don't know if that's the true scarce resource,"
+    },
+    {
+      "start": 1007.2,
+      "end": 1009.68,
+      "text": "Speaker 3: and they're a kind of intermediory layer over it. I"
+    },
+    {
+      "start": 1009.68,
+      "end": 1011.84,
+      "text": "Speaker 3: don't know what their process is like for saucing it."
+    },
+    {
+      "start": 1012.4,
+      "end": 1015.04,
+      "text": "Speaker 3: But yeah, they have come to us and said, this"
+    },
+    {
+      "start": 1015.16,
+      "end": 1016.76,
+      "text": "Speaker 3: lease opened up. Can you please get back to us"
+    },
+    {
+      "start": 1016.76,
+      "end": 1019.24,
+      "text": "Speaker 3: by the end of the day. And for commitments on"
+    },
+    {
+      "start": 1019.28,
+      "end": 1022.24,
+      "text": "Speaker 3: a long term contract, and our contracts are a long term."
+    },
+    {
+      "start": 1022.48,
+      "end": 1025.08,
+      "text": "Speaker 3: This is not spot compute. This is like eight thousand"
+    },
+    {
+      "start": 1025.16,
+      "end": 1028.76,
+      "text": "Speaker 3: GPUs for three years, four years, five years payment? Do"
+    },
+    {
+      "start": 1028.76,
+      "end": 1030.44,
+      "text": "Speaker 3: you wanna pay half upfront? Do you want to pay"
+    },
+    {
+      "start": 1030.8,
+      "end": 1032.96,
+      "text": "Speaker 3: some per year? A lot of different commercial terms, credit"
+    },
+    {
+      "start": 1033.04,
+      "end": 1035.359,
+      "text": "Speaker 3: risk on both sides. It's complicated stuff."
+    },
+    {
+      "start": 1035.56,
+      "end": 1038.639,
+      "text": "Speaker 2: Tell us more about the counterparty risk. So it's like"
+    },
+    {
+      "start": 1038.72,
+      "end": 1041.76,
+      "text": "Speaker 2: you come and you say you want capacity and some"
+    },
+    {
+      "start": 1041.92,
+      "end": 1046.2,
+      "text": "Speaker 2: data center. I'm from Hudson River Trading. Who yeah, well,"
+    },
+    {
+      "start": 1046.6,
+      "end": 1048.159,
+      "text": "Speaker 2: this is the kind of thing like this crowd. A"
+    },
+    {
+      "start": 1048.16,
+      "end": 1050.439,
+      "text": "Speaker 2: lot of people know what Hudgson River Trading is, but"
+    },
+    {
+      "start": 1050.52,
+      "end": 1053.64,
+      "text": "Speaker 2: maybe in San Francisco or whatever, that's not a household name,"
+    },
+    {
+      "start": 1053.72,
+      "end": 1056.12,
+      "text": "Speaker 2: et cetera. They want to know for sure that you're"
+    },
+    {
+      "start": 1056.119,
+      "end": 1058.96,
+      "text": "Speaker 2: gonna be good, You're gonna like pay your bills, et cetera."
+    },
+    {
+      "start": 1059.2,
+      "end": 1062.32,
+      "text": "Speaker 2: How do you establish to the data center that you"
+    },
+    {
+      "start": 1062.359,
+      "end": 1064.2,
+      "text": "Speaker 2: were going to be a reliable I guess tenant."
+    },
+    {
+      "start": 1064.28,
+      "end": 1066.719,
+      "text": "Speaker 3: Yeah, it's a it's a definitely being a dance. It's"
+    },
+    {
+      "start": 1066.72,
+      "end": 1069.08,
+      "text": "Speaker 3: getting better at this point. I think we've anted it"
+    },
+    {
+      "start": 1069.28,
+      "end": 1071.48,
+      "text": "Speaker 3: enough deals enough people that I think we have that,"
+    },
+    {
+      "start": 1071.64,
+      "end": 1074.04,
+      "text": "Speaker 3: But we've had everything from people being like, oh, you've"
+    },
+    {
+      "start": 1074.04,
+      "end": 1077.28,
+      "text": "Speaker 3: issued bonds, what's the rating on those too? Not wanting"
+    },
+    {
+      "start": 1077.359,
+      "end": 1080.119,
+      "text": "Speaker 3: us to sell too much of one site because if"
+    },
+    {
+      "start": 1080.119,
+      "end": 1084.08,
+      "text": "Speaker 3: we take all their power rights and then go bust,"
+    },
+    {
+      "start": 1084.32,
+      "end": 1086.04,
+      "text": "Speaker 3: they might have a long lead time where they can't"
+    },
+    {
+      "start": 1086.08,
+      "end": 1088.64,
+      "text": "Speaker 3: get into a tenant and fill that. And so there's"
+    },
+    {
+      "start": 1088.64,
+      "end": 1090.8,
+      "text": "Speaker 3: a kind of two potty problems of us where it's"
+    },
+    {
+      "start": 1090.84,
+      "end": 1094.24,
+      "text": "Speaker 3: like they want customers, but there's presumably a lot of customers,"
+    },
+    {
+      "start": 1094.28,
+      "end": 1096.6,
+      "text": "Speaker 3: but maybe not as many customers are willing to do"
+    },
+    {
+      "start": 1096.64,
+      "end": 1099.92,
+      "text": "Speaker 3: the big size and pay more upfront. But you know,"
+    },
+    {
+      "start": 1100.16,
+      "end": 1102.96,
+      "text": "Speaker 3: we're looking at their CDs is on some of these"
+    },
+    {
+      "start": 1103.119,
+      "end": 1105.919,
+      "text": "Speaker 3: ones and thinking about how that affects our You know,"
+    },
+    {
+      "start": 1105.96,
+      "end": 1108.52,
+      "text": "Speaker 3: maybe we should pay you three fifty an hour and"
+    },
+    {
+      "start": 1108.6,
+      "end": 1111.04,
+      "text": "Speaker 3: take out a CDs for ten cents for our equivalent"
+    },
+    {
+      "start": 1111.04,
+      "end": 1115.68,
+      "text": "Speaker 3: of insurance on your heavy leveraged neocloud. You're having a disruption,"
+    },
+    {
+      "start": 1116.16,
+      "end": 1119.48,
+      "text": "Speaker 3: no names, but you know it's I think is reason"
+    },
+    {
+      "start": 1119.6,
+      "end": 1122.2,
+      "text": "Speaker 3: to be cagy on both sides because this has all"
+    },
+    {
+      "start": 1122.32,
+      "end": 1125.8,
+      "text": "Speaker 3: come from nothing like a year ago. We weren't there"
+    },
+    {
+      "start": 1125.92,
+      "end": 1128.959,
+      "text": "Speaker 3: asking for it, and they didn't exist to sell it,"
+    },
+    {
+      "start": 1129.08,
+      "end": 1131.919,
+      "text": "Speaker 3: and so the only rock is Nvidio I guess, an"
+    },
+    {
+      "start": 1131.96,
+      "end": 1136.119,
+      "text": "Speaker 3: extremely well capitalized entity who is not going anywhere, and"
+    },
+    {
+      "start": 1136.16,
+      "end": 1139.0,
+      "text": "Speaker 3: it's making love GPUs and we have a very positive"
+    },
+    {
+      "start": 1139.0,
+      "end": 1142.439,
+      "text": "Speaker 3: relationship with them. I think that is also a material factor."
+    },
+    {
+      "start": 1142.6,
+      "end": 1145.48,
+      "text": "Speaker 4: How much optionality do you actually have on GPUs now,"
+    },
+    {
+      "start": 1145.6,
+      "end": 1148.96,
+      "text": "Speaker 4: Like if you say you want to prioritize latency or throughput,"
+    },
+    {
+      "start": 1149.28,
+      "end": 1151.919,
+      "text": "Speaker 4: like can you get the chips that you need to"
+    },
+    {
+      "start": 1151.96,
+      "end": 1154.119,
+      "text": "Speaker 4: specify on one of those things? Or like do you"
+    },
+    {
+      "start": 1154.2,
+      "end": 1155.44,
+      "text": "Speaker 4: just take what you can get."
+    },
+    {
+      "start": 1156.0,
+      "end": 1159.96,
+      "text": "Speaker 3: Or build your own? Yeah you can? You can. Well,"
+    },
+    {
+      "start": 1160.0,
+      "end": 1162.56,
+      "text": "Speaker 3: many people I guess now are working on building their"
+    },
+    {
+      "start": 1162.56,
+      "end": 1166.28,
+      "text": "Speaker 3: own chips for for inference, which is as strictly similar"
+    },
+    {
+      "start": 1166.359,
+      "end": 1170.439,
+      "text": "Speaker 3: technological problem, and ourselves and many of our peer trading"
+    },
+    {
+      "start": 1170.48,
+      "end": 1175.199,
+      "text": "Speaker 3: firms have hardware teams to tackle this and you can"
+    },
+    {
+      "start": 1175.24,
+      "end": 1177.28,
+      "text": "Speaker 3: outsource pots of it process, so it's not as daunting"
+    },
+    {
+      "start": 1177.32,
+      "end": 1180.16,
+      "text": "Speaker 3: as it seems. But it's definitely an active, very investigation"
+    },
+    {
+      "start": 1180.24,
+      "end": 1182.2,
+      "text": "Speaker 3: for us and now clearly everyone because I feel like"
+    },
+    {
+      "start": 1182.28,
+      "end": 1185.359,
+      "text": "Speaker 3: everyone's talking about their partnership with Broadcom or something like this."
+    },
+    {
+      "start": 1185.4,
+      "end": 1187.6,
+      "text": "Speaker 3: And if someone says partnering your broadcom, it's like that"
+    },
+    {
+      "start": 1187.6,
+      "end": 1188.76,
+      "text": "Speaker 3: they're making an inference chip."
+    },
+    {
+      "start": 1188.8,
+      "end": 1191.48,
+      "text": "Speaker 2: So it's interesting, right because you hear about like Amazon,"
+    },
+    {
+      "start": 1191.64,
+      "end": 1197.28,
+      "text": "Speaker 2: like them Google tp So we could be in a"
+    },
+    {
+      "start": 1197.28,
+      "end": 1200.28,
+      "text": "Speaker 2: world in which we hear of like a Hudson River"
+    },
+    {
+      "start": 1200.4,
+      "end": 1202.96,
+      "text": "Speaker 2: Trading branded chipise."
+    },
+    {
+      "start": 1202.72,
+      "end": 1204.84,
+      "text": "Speaker 3: I don't think we'll sell it, but yeah, but yes,"
+    },
+    {
+      "start": 1204.88,
+      "end": 1206.68,
+      "text": "Speaker 3: you're right, that is that is definitely the right model."
+    },
+    {
+      "start": 1206.8,
+      "end": 1210.72,
+      "text": "Speaker 3: And on the other hand, Jensen Never sleeps and Jensen"
+    },
+    {
+      "start": 1210.72,
+      "end": 1214.639,
+      "text": "Speaker 3: purchased Grock and you know they have got their new"
+    },
+    {
+      "start": 1215.0,
+      "end": 1218.72,
+      "text": "Speaker 3: product lineup from the groc acquisition, which is a very"
+    },
+    {
+      "start": 1218.8,
+      "end": 1221.439,
+      "text": "Speaker 3: compelling product as well. And there are others setups etched"
+    },
+    {
+      "start": 1221.48,
+      "end": 1224.52,
+      "text": "Speaker 3: comes to mind. So the inference space is a smaller"
+    },
+    {
+      "start": 1224.6,
+      "end": 1227.64,
+      "text": "Speaker 3: design space. It's not clear that inhouse solutions will be"
+    },
+    {
+      "start": 1227.68,
+      "end": 1231.4,
+      "text": "Speaker 3: a necessary thing in the future if physic enough people competing."
+    },
+    {
+      "start": 1231.44,
+      "end": 1234.959,
+      "text": "Speaker 3: But on the training side, I mean, what a mote like,"
+    },
+    {
+      "start": 1235.08,
+      "end": 1238.04,
+      "text": "Speaker 3: there's just a video, it's just and I suppose Google."
+    },
+    {
+      "start": 1238.2,
+      "end": 1241.52,
+      "text": "Speaker 3: But you know, if you're using TPUs, you're also kind"
+    },
+    {
+      "start": 1241.52,
+      "end": 1243.96,
+      "text": "Speaker 3: of entering a very close relationship with Google, some feeling"
+    },
+    {
+      "start": 1244.04,
+      "end": 1246.84,
+      "text": "Speaker 3: of vandor lockin. It's a complicated thing if you go"
+    },
+    {
+      "start": 1246.88,
+      "end": 1248.6,
+      "text": "Speaker 3: down that past. But if you're compute hungry, like the"
+    },
+    {
+      "start": 1248.64,
+      "end": 1252.52,
+      "text": "Speaker 3: neo labs. I mean, obviously the big labs. You'll take"
+    },
+    {
+      "start": 1252.52,
+      "end": 1254.96,
+      "text": "Speaker 3: what you can get. I think Anthropic takes TPUs, trainiums"
+    },
+    {
+      "start": 1254.96,
+      "end": 1257.12,
+      "text": "Speaker 3: and GPUs. You know they need them all."
+    },
+    {
+      "start": 1258.04,
+      "end": 1260.72,
+      "text": "Speaker 2: So maybe we'll create a little bit of con controversy"
+    },
+    {
+      "start": 1260.84,
+      "end": 1263.199,
+      "text": "Speaker 2: here because later on in a little bit we're going"
+    },
+    {
+      "start": 1263.28,
+      "end": 1266.32,
+      "text": "Speaker 2: to be speaking with Carmen Lee, the CEU of Compute Exchange,"
+    },
+    {
+      "start": 1266.56,
+      "end": 1270.4,
+      "text": "Speaker 2: which is this, you know, one of the multiple entities"
+    },
+    {
+      "start": 1270.44,
+      "end": 1275.16,
+      "text": "Speaker 2: are trying to build financial markets for compute capacity right"
+    },
+    {
+      "start": 1275.28,
+      "end": 1277.96,
+      "text": "Speaker 2: trade it like oil, so it's like compute futures and"
+    },
+    {
+      "start": 1278.04,
+      "end": 1281.56,
+      "text": "Speaker 2: stuff that right now, could you see a use for"
+    },
+    {
+      "start": 1281.64,
+      "end": 1286.28,
+      "text": "Speaker 2: that of financial instrument that's like on some liquid tradable"
+    },
+    {
+      "start": 1286.32,
+      "end": 1291.48,
+      "text": "Speaker 2: exchange for H one hundred or whatever, some benchmark of"
+    },
+    {
+      "start": 1291.48,
+      "end": 1293.72,
+      "text": "Speaker 2: how much it costs run these chips. Could you see"
+    },
+    {
+      "start": 1293.72,
+      "end": 1296.0,
+      "text": "Speaker 2: that being a useful instrument for you at some point?"
+    },
+    {
+      "start": 1296.08,
+      "end": 1298.64,
+      "text": "Speaker 3: It's it's plausible. It highly relates back to my previously"
+    },
+    {
+      "start": 1298.72,
+      "end": 1301.48,
+      "text": "Speaker 3: stated failure to plan correctly for the future. If in"
+    },
+    {
+      "start": 1301.52,
+      "end": 1304.199,
+      "text": "Speaker 3: some sense I could lock in a price for some"
+    },
+    {
+      "start": 1304.32,
+      "end": 1308.439,
+      "text": "Speaker 3: future date for delivery or something of compute, something that"
+    },
+    {
+      "start": 1308.52,
+      "end": 1311.399,
+      "text": "Speaker 3: is connected to for prices compute in the long term future,"
+    },
+    {
+      "start": 1311.56,
+      "end": 1313.64,
+      "text": "Speaker 3: I think that could be value to that We could"
+    },
+    {
+      "start": 1313.68,
+      "end": 1316.2,
+      "text": "Speaker 3: basically hedge our risk that we wait too long to"
+    },
+    {
+      "start": 1316.2,
+      "end": 1318.08,
+      "text": "Speaker 3: put the order in and it price goes up. I mean,"
+    },
+    {
+      "start": 1318.2,
+      "end": 1320.28,
+      "text": "Speaker 3: in twenty twenty six, the priceive memory has gone up"
+    },
+    {
+      "start": 1321.04,
+      "end": 1324.44,
+      "text": "Speaker 3: so much that we do have concrete specific things. I"
+    },
+    {
+      "start": 1324.48,
+      "end": 1326.639,
+      "text": "Speaker 3: wish I put that order in a month earlier, so"
+    },
+    {
+      "start": 1326.68,
+      "end": 1331.0,
+      "text": "Speaker 3: it's a real real thing. Do I believe that there"
+    },
+    {
+      "start": 1331.04,
+      "end": 1334.84,
+      "text": "Speaker 3: would be a good market with left liquidity for long"
+    },
+    {
+      "start": 1334.92,
+      "end": 1338.48,
+      "text": "Speaker 3: dated compute futures? That I guess remains to be seen."
+    },
+    {
+      "start": 1338.76,
+      "end": 1340.04,
+      "text": "Speaker 3: I don't know what I would do with a short"
+    },
+    {
+      "start": 1340.08,
+      "end": 1343.76,
+      "text": "Speaker 3: dated compute future. I do think defining what compute is"
+    },
+    {
+      "start": 1343.76,
+      "end": 1346.08,
+      "text": "Speaker 3: is pretty hard, and I have no idea what physical"
+    },
+    {
+      "start": 1346.119,
+      "end": 1349.56,
+      "text": "Speaker 3: delivery would be if that is indeed of interest because"
+    },
+    {
+      "start": 1349.76,
+      "end": 1351.8,
+      "text": "Speaker 3: you know, because of a long term contract and because"
+    },
+    {
+      "start": 1351.84,
+      "end": 1355.72,
+      "text": "Speaker 3: of how much work goes into every site, Like when"
+    },
+    {
+      "start": 1355.76,
+      "end": 1358.159,
+      "text": "Speaker 3: we connect to a neocloud site, we're thinking about how"
+    },
+    {
+      "start": 1358.16,
+      "end": 1360.96,
+      "text": "Speaker 3: to connect it back to our other sites. Everyone's got"
+    },
+    {
+      "start": 1360.96,
+      "end": 1364.48,
+      "text": "Speaker 3: a different networking system, the file system, Like you know,"
+    },
+    {
+      "start": 1364.56,
+      "end": 1366.32,
+      "text": "Speaker 3: visit of a GPUs, which was all the focus, but"
+    },
+    {
+      "start": 1366.359,
+      "end": 1369.04,
+      "text": "Speaker 3: this's also like you know, how is data stored of"
+    },
+    {
+      "start": 1369.08,
+      "end": 1370.479,
+      "text": "Speaker 3: a site or is it stored of itt site at all?"
+    },
+    {
+      "start": 1370.52,
+      "end": 1372.72,
+      "text": "Speaker 3: Is there an adjacent site that all the hard drives"
+    },
+    {
+      "start": 1372.76,
+      "end": 1375.44,
+      "text": "Speaker 3: are in and they're all idiosyncratic, and I can't do"
+    },
+    {
+      "start": 1375.48,
+      "end": 1377.72,
+      "text": "Speaker 3: anything of one hundred and twenty eight GPUs. I need"
+    },
+    {
+      "start": 1377.96,
+      "end": 1380.8,
+      "text": "Speaker 3: thousands of GPUs or bust. That's like my lot size,"
+    },
+    {
+      "start": 1381.2,
+      "end": 1382.76,
+      "text": "Speaker 3: And so it's very hot to see how you could"
+    },
+    {
+      "start": 1382.84,
+      "end": 1386.04,
+      "text": "Speaker 3: kind of break that down into useful units. But maybe"
+    },
+    {
+      "start": 1386.04,
+      "end": 1388.76,
+      "text": "Speaker 3: it's just a spot thing and if it's long dated,"
+    },
+    {
+      "start": 1388.8,
+      "end": 1389.56,
+      "text": "Speaker 3: I don't know, they could be."
+    },
+    {
+      "start": 1389.72,
+      "end": 1390.32,
+      "text": "Speaker 2: We'll learn more."
+    },
+    {
+      "start": 1391.52,
+      "end": 1394.72,
+      "text": "Speaker 4: Yeah, I did get a preview and it is pretty cool,"
+    },
+    {
+      "start": 1394.88,
+      "end": 1397.119,
+      "text": "Speaker 4: like the actual program where you can select like the"
+    },
+    {
+      "start": 1397.16,
+      "end": 1399.879,
+      "text": "Speaker 4: type of compute you need from a specific data center"
+    },
+    {
+      "start": 1399.92,
+      "end": 1402.84,
+      "text": "Speaker 4: that has like literally I think dozens, if not maybe"
+    },
+    {
+      "start": 1402.92,
+      "end": 1405.439,
+      "text": "Speaker 4: hundreds of parameters at the moment. So maybe we can"
+    },
+    {
+      "start": 1405.48,
+      "end": 1409.12,
+      "text": "Speaker 4: get a demonstration from Carmen. What is your token spend"
+    },
+    {
+      "start": 1410.0,
+      "end": 1411.72,
+      "text": "Speaker 4: at the moment? Is it bigger than Joe's?"
+    },
+    {
+      "start": 1411.76,
+      "end": 1412.0,
+      "text": "Speaker 1: I have?"
+    },
+    {
+      "start": 1413.48,
+      "end": 1415.76,
+      "text": "Speaker 3: I think I what is my average? I think it's"
+    },
+    {
+      "start": 1415.8,
+      "end": 1417.879,
+      "text": "Speaker 3: on the order of one hundred two hundred dollars a"
+    },
+    {
+      "start": 1417.96,
+      "end": 1421.44,
+      "text": "Speaker 3: day per employee's on my team. I feel like that's"
+    },
+    {
+      "start": 1421.52,
+      "end": 1424.399,
+      "text": "Speaker 3: kind of what I've been seeing lately, and some people"
+    },
+    {
+      "start": 1424.44,
+      "end": 1428.04,
+      "text": "Speaker 3: are more in a thousand a day range, burst bit"
+    },
+    {
+      "start": 1428.08,
+      "end": 1428.76,
+      "text": "Speaker 3: bursty for that."
+    },
+    {
+      "start": 1429.04,
+      "end": 1433.24,
+      "text": "Speaker 4: Wait, do you like those people because they're supposedly more predictive?"
+    },
+    {
+      "start": 1434.32,
+      "end": 1436.639,
+      "text": "Speaker 3: Definitely not trying to encourage that. I mean, some people"
+    },
+    {
+      "start": 1436.72,
+      "end": 1441.12,
+      "text": "Speaker 3: go through sturges of experimentation slash Ai delarium, which is understandable."
+    },
+    {
+      "start": 1441.48,
+      "end": 1443.56,
+      "text": "Speaker 3: And I think we are always trying to understand the"
+    },
+    {
+      "start": 1443.56,
+      "end": 1445.919,
+      "text": "Speaker 3: people who are using more like are they doing it"
+    },
+    {
+      "start": 1445.96,
+      "end": 1449.08,
+      "text": "Speaker 3: for something that you even't figured out yet? That's a"
+    },
+    {
+      "start": 1449.2,
+      "end": 1452.399,
+      "text": "Speaker 3: pretty profound new expense to have. It's it's it's not"
+    },
+    {
+      "start": 1452.6,
+      "end": 1455.24,
+      "text": "Speaker 3: at the level that concerns us. Well, it didn't exist"
+    },
+    {
+      "start": 1455.24,
+      "end": 1456.76,
+      "text": "Speaker 3: at all as an expense type. So that's kind of"
+    },
+    {
+      "start": 1456.76,
+      "end": 1457.6,
+      "text": "Speaker 3: interesting to think about."
+    },
+    {
+      "start": 1457.6,
+      "end": 1460.639,
+      "text": "Speaker 2: Well, I'm curious, like you know, for the consumer models,"
+    },
+    {
+      "start": 1460.68,
+      "end": 1463.879,
+      "text": "Speaker 2: they talk about how psychophantic they are. Does that happen?"
+    },
+    {
+      "start": 1464.0,
+      "end": 1466.88,
+      "text": "Speaker 2: It's like, yes, you're close. This is really smart. You're"
+    },
+    {
+      "start": 1466.88,
+      "end": 1469.96,
+      "text": "Speaker 2: close to cracking the code of the market. Keep pursuing this."
+    },
+    {
+      "start": 1470.2,
+      "end": 1473.879,
+      "text": "Speaker 2: They just one more this idea is doing or is"
+    },
+    {
+      "start": 1473.92,
+      "end": 1476.2,
+      "text": "Speaker 2: it Claude likes to say, this is doing some real"
+    },
+    {
+      "start": 1476.24,
+      "end": 1477.88,
+      "text": "Speaker 2: work here in this argument."
+    },
+    {
+      "start": 1477.96,
+      "end": 1478.52,
+      "text": "Speaker 3: It's really good."
+    },
+    {
+      "start": 1478.76,
+      "end": 1480.639,
+      "text": "Speaker 2: Do you get that in the engineering content?"
+    },
+    {
+      "start": 1480.76,
+      "end": 1483.32,
+      "text": "Speaker 3: I think we do. And it's interesting. We have we"
+    },
+    {
+      "start": 1483.359,
+      "end": 1486.399,
+      "text": "Speaker 3: decided a new internship for the summer, and uh, in"
+    },
+    {
+      "start": 1486.44,
+      "end": 1489.399,
+      "text": "Speaker 3: previous internships, we noticed that, you know, it's quite daunting"
+    },
+    {
+      "start": 1489.44,
+      "end": 1491.32,
+      "text": "Speaker 3: coming into this quent training context. You know, you have"
+    },
+    {
+      "start": 1491.4,
+      "end": 1493.04,
+      "text": "Speaker 3: no there's not much to like read a book, can't"
+    },
+    {
+      "start": 1493.04,
+      "end": 1496.64,
+      "text": "Speaker 3: read a tetbook about it. It's useful, So people ask AI,"
+    },
+    {
+      "start": 1497.4,
+      "end": 1500.359,
+      "text": "Speaker 3: and uh, you know, it would always mention some things"
+    },
+    {
+      "start": 1500.4,
+      "end": 1503.439,
+      "text": "Speaker 3: of like an unusual frequency that maybe an expert in"
+    },
+    {
+      "start": 1503.44,
+      "end": 1506.159,
+      "text": "Speaker 3: netfield wouldn't like focus us on some things. And we"
+    },
+    {
+      "start": 1506.28,
+      "end": 1509.6,
+      "text": "Speaker 3: noticed in our like winter internship program a lot of"
+    },
+    {
+      "start": 1509.72,
+      "end": 1513.56,
+      "text": "Speaker 3: sort of very technical quant finance research terms being mentioned"
+    },
+    {
+      "start": 1513.56,
+      "end": 1515.68,
+      "text": "Speaker 3: a lot by the interns that no full time are used."
+    },
+    {
+      "start": 1516.0,
+      "end": 1518.32,
+      "text": "Speaker 3: And it's like the original seed of the mind virus"
+    },
+    {
+      "start": 1518.48,
+      "end": 1521.08,
+      "text": "Speaker 3: is AI. So there's a little stuff like that. But"
+    },
+    {
+      "start": 1522.08,
+      "end": 1524.119,
+      "text": "Speaker 3: our token spending is going to go up, but I"
+    },
+    {
+      "start": 1524.119,
+      "end": 1528.52,
+      "text": "Speaker 3: mean that's almost guaranteed, and yeah, we're getting value out"
+    },
+    {
+      "start": 1528.52,
+      "end": 1532.44,
+      "text": "Speaker 3: of it. Maybe not two x productivity, but I talked"
+    },
+    {
+      "start": 1532.48,
+      "end": 1534.56,
+      "text": "Speaker 3: to someone who said that team's fifty percent more productive."
+    },
+    {
+      "start": 1535.359,
+      "end": 1537.08,
+      "text": "Speaker 3: That's pretty good. I mean, you'd definitely pay one hundred"
+    },
+    {
+      "start": 1537.119,
+      "end": 1539.0,
+      "text": "Speaker 3: dollars a day for that. I just don't understand how"
+    },
+    {
+      "start": 1539.0,
+      "end": 1542.88,
+      "text": "Speaker 3: people who are token poor could keep up with someone"
+    },
+    {
+      "start": 1542.92,
+      "end": 1545.76,
+      "text": "Speaker 3: who's token rich. And that's a gain goes to the"
+    },
+    {
+      "start": 1545.76,
+      "end": 1548.96,
+      "text": "Speaker 3: acceleration feeling. It's like if you have two people who"
+    },
+    {
+      "start": 1548.96,
+      "end": 1552.32,
+      "text": "Speaker 3: are sort of equally resourceful and smart, but someone who's"
+    },
+    {
+      "start": 1552.359,
+      "end": 1554.8,
+      "text": "Speaker 3: basically a co pilot with them, that's giving them a"
+    },
+    {
+      "start": 1554.84,
+      "end": 1556.359,
+      "text": "Speaker 3: fifty percent boost and all they have to do to"
+    },
+    {
+      "start": 1556.4,
+      "end": 1559.64,
+      "text": "Speaker 3: get that is essentially spend money. It creates a have"
+    },
+    {
+      "start": 1559.64,
+      "end": 1563.639,
+      "text": "Speaker 3: have no dynamic that possibly compounds. As you have more success,"
+    },
+    {
+      "start": 1563.68,
+      "end": 1565.48,
+      "text": "Speaker 3: you make more money, you're more willing to eat now"
+    },
+    {
+      "start": 1565.48,
+      "end": 1567.16,
+      "text": "Speaker 3: a thousand dollars a day per pres and for token"
+    },
+    {
+      "start": 1567.2,
+      "end": 1570.0,
+      "text": "Speaker 3: spend you go even faster. And this feeling again of"
+    },
+    {
+      "start": 1570.359,
+      "end": 1574.199,
+      "text": "Speaker 3: compounding acceleration, which might be delirium, but you could make"
+    },
+    {
+      "start": 1574.2,
+      "end": 1576.159,
+      "text": "Speaker 3: an argument for why it could be a real effect"
+    },
+    {
+      "start": 1576.2,
+      "end": 1579.639,
+      "text": "Speaker 3: instead of more winner. Take all contexts where speed of"
+    },
+    {
+      "start": 1579.68,
+      "end": 1583.08,
+      "text": "Speaker 3: improvement is like the key thing. There's a story there,"
+    },
+    {
+      "start": 1583.119,
+      "end": 1585.48,
+      "text": "Speaker 3: I think, or delirium matter well."
+    },
+    {
+      "start": 1585.28,
+      "end": 1587.28,
+      "text": "Speaker 4: I mean, speaking of the haves and have nots. The"
+    },
+    {
+      "start": 1587.32,
+      "end": 1591.48,
+      "text": "Speaker 4: other big story in AI world is just competition for talent, right,"
+    },
+    {
+      "start": 1591.48,
+      "end": 1595.4,
+      "text": "Speaker 4: and everyone is sort of chasing the same genius engineer."
+    },
+    {
+      "start": 1595.52,
+      "end": 1597.76,
+      "text": "Speaker 4: I guess how are you finding that At."
+    },
+    {
+      "start": 1597.68,
+      "end": 1600.32,
+      "text": "Speaker 3: The moment, it's changed a bit. There's a lot of"
+    },
+    {
+      "start": 1600.4,
+      "end": 1603.439,
+      "text": "Speaker 3: dynamics going on. There's still a feeling that if you"
+    },
+    {
+      "start": 1603.68,
+      "end": 1606.28,
+      "text": "Speaker 3: are plucky enough, you can get a VC to fund"
+    },
+    {
+      "start": 1606.359,
+      "end": 1609.88,
+      "text": "Speaker 3: your idea based on very little. You have the right pedigree,"
+    },
+    {
+      "start": 1609.92,
+      "end": 1611.84,
+      "text": "Speaker 3: and that's always been true. I guess some sense this"
+    },
+    {
+      "start": 1611.96,
+      "end": 1615.119,
+      "text": "Speaker 3: is like the YC philosophy. Some sense you go and"
+    },
+    {
+      "start": 1615.28,
+      "end": 1617.6,
+      "text": "Speaker 3: it's just that some of the numbers and the foamo"
+    },
+    {
+      "start": 1617.68,
+      "end": 1622.28,
+      "text": "Speaker 3: feeling and is quite shocking. And so that's actually a"
+    },
+    {
+      "start": 1622.28,
+      "end": 1624.08,
+      "text": "Speaker 3: form of competition, just like why didn't I go create"
+    },
+    {
+      "start": 1624.119,
+      "end": 1626.639,
+      "text": "Speaker 3: a stetup. I don't have any ideas or anything. I'm"
+    },
+    {
+      "start": 1626.68,
+      "end": 1629.24,
+      "text": "Speaker 3: just going to make a startup for the big labs."
+    },
+    {
+      "start": 1629.4,
+      "end": 1633.4,
+      "text": "Speaker 3: A question of upside remaining upside. You're at a trillian now,"
+    },
+    {
+      "start": 1633.52,
+      "end": 1635.0,
+      "text": "Speaker 3: I guess there are two big ones that are a"
+    },
+    {
+      "start": 1635.04,
+      "end": 1638.0,
+      "text": "Speaker 3: trillion dollar evaluation. Where do you go from there? I"
+    },
+    {
+      "start": 1638.0,
+      "end": 1640.84,
+      "text": "Speaker 3: think that's affecting people's level of like forward looking optimism"
+    },
+    {
+      "start": 1640.88,
+      "end": 1643.28,
+      "text": "Speaker 3: for people who are taking offers now and for people"
+    },
+    {
+      "start": 1643.28,
+      "end": 1645.72,
+      "text": "Speaker 3: who are at those places and looking to leave. Generally,"
+    },
+    {
+      "start": 1645.72,
+      "end": 1648.12,
+      "text": "Speaker 3: it's a question of like, well, they've become big tech,"
+    },
+    {
+      "start": 1648.76,
+      "end": 1651.719,
+      "text": "Speaker 3: They've added people at a vast rate, and the culture"
+    },
+    {
+      "start": 1651.72,
+      "end": 1654.08,
+      "text": "Speaker 3: has shifted, especially at some of the labs a lot,"
+    },
+    {
+      "start": 1654.24,
+      "end": 1657.16,
+      "text": "Speaker 3: and to our favor. For a while, it did feel"
+    },
+    {
+      "start": 1657.2,
+      "end": 1659.32,
+      "text": "Speaker 3: like we're in a very, very fierce competition. And now"
+    },
+    {
+      "start": 1659.359,
+      "end": 1661.96,
+      "text": "Speaker 3: maybe it's now it's maybe more even playing field. But"
+    },
+    {
+      "start": 1662.72,
+      "end": 1664.879,
+      "text": "Speaker 3: I don't know. I talk to a lot of undergrads"
+    },
+    {
+      "start": 1665.56,
+      "end": 1670.36,
+      "text": "Speaker 3: and they don't feel great about the future. They feel"
+    },
+    {
+      "start": 1670.44,
+      "end": 1670.879,
+      "text": "Speaker 3: very worried."
+    },
+    {
+      "start": 1670.96,
+      "end": 1674.36,
+      "text": "Speaker 2: Basically, what I was gonna just went by way too fast."
+    },
+    {
+      "start": 1674.44,
+      "end": 1678.08,
+      "text": "Speaker 2: But like you mentioned already, the models are like okay,"
+    },
+    {
+      "start": 1678.24,
+      "end": 1682.28,
+      "text": "Speaker 2: junior level, Yeah, what does talent look like at this point?"
+    },
+    {
+      "start": 1682.359,
+      "end": 1684.359,
+      "text": "Speaker 2: And what are like I've seen some of the anthropic"
+    },
+    {
+      "start": 1684.4,
+      "end": 1688.119,
+      "text": "Speaker 2: interview questions and it's like designing some GPU kernel or"
+    },
+    {
+      "start": 1688.16,
+      "end": 1691.72,
+      "text": "Speaker 2: like optimizing the configuration of GPS within the data center?"
+    },
+    {
+      "start": 1692.119,
+      "end": 1694.119,
+      "text": "Speaker 2: Did what do you want someone to bring to the"
+    },
+    {
+      "start": 1694.16,
+      "end": 1695.08,
+      "text": "Speaker 2: table at this point?"
+    },
+    {
+      "start": 1695.24,
+      "end": 1697.24,
+      "text": "Speaker 3: I mean, I think the first thing is just trying"
+    },
+    {
+      "start": 1697.28,
+      "end": 1699.72,
+      "text": "Speaker 3: to embrace an open book philosophy, like let the interviews"
+    },
+    {
+      "start": 1699.72,
+      "end": 1702.52,
+      "text": "Speaker 3: be done with the aid of AI is something we're"
+    },
+    {
+      "start": 1702.52,
+      "end": 1704.32,
+      "text": "Speaker 3: trying to aspire to do because it's just at some"
+    },
+    {
+      "start": 1704.359,
+      "end": 1707.52,
+      "text": "Speaker 3: point you become it becomes unrealistic to pretend anyone would"
+    },
+    {
+      "start": 1707.6,
+      "end": 1710.04,
+      "text": "Speaker 3: work without that. One of the big things in quant"
+    },
+    {
+      "start": 1710.119,
+      "end": 1712.159,
+      "text": "Speaker 3: is being like this is like archetype of like the"
+    },
+    {
+      "start": 1712.88,
+      "end": 1716.2,
+      "text": "Speaker 3: math theorist or the string theorist or something and they"
+    },
+    {
+      "start": 1716.24,
+      "end": 1718.88,
+      "text": "Speaker 3: go in to Long Island somewhere and they come out"
+    },
+    {
+      "start": 1718.88,
+      "end": 1722.32,
+      "text": "Speaker 3: with alpha. But you know, like our experience has been"
+    },
+    {
+      "start": 1722.36,
+      "end": 1723.72,
+      "text": "Speaker 3: a little bit more mixed because it's like, if you"
+    },
+    {
+      "start": 1723.76,
+      "end": 1727.64,
+      "text": "Speaker 3: can't implement your ideas, how do you how does that happen? Exactly? Well,"
+    },
+    {
+      "start": 1727.64,
+      "end": 1730.0,
+      "text": "Speaker 3: now Claude can presumably implement the ideas, So trying to"
+    },
+    {
+      "start": 1730.0,
+      "end": 1733.16,
+      "text": "Speaker 3: embrace that maybe we do accept more theorists, more dreamers,"
+    },
+    {
+      "start": 1733.2,
+      "end": 1736.0,
+      "text": "Speaker 3: people who can come up with ideas, trusting that the"
+    },
+    {
+      "start": 1736.04,
+      "end": 1738.92,
+      "text": "Speaker 3: implementation work can be done by AI. So I think"
+    },
+    {
+      "start": 1738.96,
+      "end": 1741.32,
+      "text": "Speaker 3: that's our shift. But I've been joking. It's like the"
+    },
+    {
+      "start": 1741.6,
+      "end": 1744.6,
+      "text": "Speaker 3: word cell versus shape rotator type, Like I feel like"
+    },
+    {
+      "start": 1744.64,
+      "end": 1746.56,
+      "text": "Speaker 3: the error of the word cell may be a bonus,"
+    },
+    {
+      "start": 1746.64,
+      "end": 1750.04,
+      "text": "Speaker 3: like if I did prompt. Yeah, I mean prompt engineering"
+    },
+    {
+      "start": 1750.08,
+      "end": 1751.88,
+      "text": "Speaker 3: is kind of a boomer term at this point, but"
+    },
+    {
+      "start": 1751.92,
+      "end": 1754.68,
+      "text": "Speaker 3: there is something to be said for like describing what"
+    },
+    {
+      "start": 1754.76,
+      "end": 1759.8,
+      "text": "Speaker 3: you want clearly and without confounding factors, and that is"
+    },
+    {
+      "start": 1759.88,
+      "end": 1762.68,
+      "text": "Speaker 3: a skill that can be learned, and that's not evenly"
+    },
+    {
+      "start": 1762.68,
+      "end": 1765.08,
+      "text": "Speaker 3: distributed in the population. And I would argue that as"
+    },
+    {
+      "start": 1765.44,
+      "end": 1768.64,
+      "text": "Speaker 3: shot up in value simply because of AI. So I"
+    },
+    {
+      "start": 1768.8,
+      "end": 1770.6,
+      "text": "Speaker 3: like to think of myself as one of these people though,"
+    },
+    {
+      "start": 1770.6,
+      "end": 1772.0,
+      "text": "Speaker 3: So that could be the Delarium'm talking."
+    },
+    {
+      "start": 1772.04,
+      "end": 1774.28,
+      "text": "Speaker 2: I don't know, all right, Ian Dunning, we could talk"
+    },
+    {
+      "start": 1774.32,
+      "end": 1777.68,
+      "text": "Speaker 2: for two more hours. Thank you so much for joining"
+    },
+    {
+      "start": 1777.72,
+      "end": 1796.64,
+      "text": "Speaker 2: us at."
+    },
+    {
+      "start": 1792.56,
+      "end": 1795.959,
+      "text": "Speaker 4: That was our conversation with Ian Dunning of Hudson River Trading,"
+    },
+    {
+      "start": 1796.04,
+      "end": 1799.719,
+      "text": "Speaker 4: recorded live at our New York show. I'm Tracy Alloway."
+    },
+    {
+      "start": 1799.72,
+      "end": 1801.72,
+      "text": "Speaker 4: You can follow me at Tracy Alloway."
+    },
+    {
+      "start": 1801.56,
+      "end": 1804.48,
+      "text": "Speaker 2: And I'm Joe Wisenthal. You can follow me at the Stalwart."
+    },
+    {
+      "start": 1804.68,
+      "end": 1808.56,
+      "text": "Speaker 2: Follow Ian at Ian Dunning. Follow our producers Carmen Rodriguez"
+    },
+    {
+      "start": 1808.6,
+      "end": 1812.72,
+      "text": "Speaker 2: at Carmen Arman, Dashil Bennett at Dashbod, Calebrooks at Kalebrooks"
+    },
+    {
+      "start": 1812.92,
+      "end": 1815.959,
+      "text": "Speaker 2: and Kevin Lozano at Kevin Lloyd Lozano. And for more"
+    },
+    {
+      "start": 1815.96,
+      "end": 1818.92,
+      "text": "Speaker 2: odd Laws content, go to Bloomberg dot com slash odd Lots."
+    },
+    {
+      "start": 1818.96,
+      "end": 1821.32,
+      "text": "Speaker 2: We have a daily newsletter and all of our episodes,"
+    },
+    {
+      "start": 1821.52,
+      "end": 1823.6,
+      "text": "Speaker 2: and you can chat about all these topics twenty four"
+    },
+    {
+      "start": 1823.6,
+      "end": 1827.4,
+      "text": "Speaker 2: to seven in our discord Discord dot gig slash odd Lots."
+    },
+    {
+      "start": 1827.52,
+      "end": 1829.4,
+      "text": "Speaker 4: And if you enjoy odd Lots, if you like it"
+    },
+    {
+      "start": 1829.44,
+      "end": 1831.8,
+      "text": "Speaker 4: when we do these live shows and talk about how"
+    },
+    {
+      "start": 1831.84,
+      "end": 1834.8,
+      "text": "Speaker 4: trading firms are actually using AI, then please leave us"
+    },
+    {
+      "start": 1834.84,
+      "end": 1838.12,
+      "text": "Speaker 4: a positive review on your favorite podcast platform. And remember,"
+    },
+    {
+      "start": 1838.16,
+      "end": 1840.56,
+      "text": "Speaker 4: if you are a Bloomberg subscriber, you can listen to"
+    },
+    {
+      "start": 1840.72,
+      "end": 1843.56,
+      "text": "Speaker 4: all of our episodes absolutely ad free. All you need"
+    },
+    {
+      "start": 1843.64,
+      "end": 1846.12,
+      "text": "Speaker 4: to do is find the Bloomberg channel on Apple Podcasts"
+    },
+    {
+      "start": 1846.16,
+      "end": 1870.36,
+      "text": "Speaker 4: and follow the instructions there. Thanks for listening. In behead"
+    }
+  ]
+}

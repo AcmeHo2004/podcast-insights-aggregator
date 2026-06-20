@@ -1,0 +1,2976 @@
+{
+  "id": "13f23a4faeadc201",
+  "show": "Hidden Forces",
+  "theme": "Macro & Rates",
+  "title": "Why History Can't Prepare Us for What's Coming | Alap Shah",
+  "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hiddenforces/Ep.482_Alap_Shah_Main_Feed_6-1-26.mp3?dest-id=457899",
+  "source": "local-whisper",
+  "duration": 3256.8,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.68,
+      "text": "What's up everybody? My name is Demetra Grafinas and you're listening to Hidden Forces,"
+    },
+    {
+      "start": 5.68,
+      "end": 12.0,
+      "text": "a podcast that inspires investors, entrepreneurs, and everyday citizens to challenge consensus"
+    },
+    {
+      "start": 12.0,
+      "end": 17.04,
+      "text": "narratives, and learn how to think critically about the systems of power shaping our world."
+    },
+    {
+      "start": 17.04,
+      "end": 22.64,
+      "text": "My guest in this episode of Hidden Forces is Alab Shah, a hedge fund manager and co-author"
+    },
+    {
+      "start": 22.64,
+      "end": 28.72,
+      "text": "of the Global Intelligence Crisis, a three-part essay series examining the economic, political,"
+    },
+    {
+      "start": 28.72,
+      "end": 33.6,
+      "text": "and social consequences of the dawn of artificial intelligence. In this conversation,"
+    },
+    {
+      "start": 33.6,
+      "end": 38.879999999999995,
+      "text": "Alab argues that AI is a categorically different technology from those that came before it,"
+    },
+    {
+      "start": 38.879999999999995,
+      "end": 44.32,
+      "text": "with profound implications for employment, the consumer economy, and democratic politics."
+    },
+    {
+      "start": 44.32,
+      "end": 48.56,
+      "text": "We discuss why he believes the white-collar escape valve that absorbed displaced workers"
+    },
+    {
+      "start": 48.56,
+      "end": 54.08,
+      "text": "in cast waves of automation is closing, the synthetic short on the US consumer economy embedded"
+    },
+    {
+      "start": 54.08,
+      "end": 60.16,
+      "text": "in today's AI trade, the disintermediation of internet and financial services by agentic systems,"
+    },
+    {
+      "start": 60.16,
+      "end": 65.44,
+      "text": "and the policy interventions from new corporate taxes to an AI dividend fund that he believes"
+    },
+    {
+      "start": 65.44,
+      "end": 70.24,
+      "text": "will become politically necessary as labor share of national income declines."
+    },
+    {
+      "start": 70.24,
+      "end": 75.44,
+      "text": "The conversation closes with Alab's forecast of a coming political re-alignment in which both"
+    },
+    {
+      "start": 75.44,
+      "end": 80.88,
+      "text": "major parties move meaningfully leftward on economic redistribution while the cultural divide"
+    },
+    {
+      "start": 80.88,
+      "end": 86.08,
+      "text": "between them remains largely intact. If you want access to the transcripts and intelligence"
+    },
+    {
+      "start": 86.08,
+      "end": 90.72,
+      "text": "reports for this and other episodes, which includes summary sections with key takeaways,"
+    },
+    {
+      "start": 90.72,
+      "end": 97.44,
+      "text": "you can access those by subscribing to our super nerd tier at hiddenforces.io slash subscribe."
+    },
+    {
+      "start": 97.44,
+      "end": 102.24,
+      "text": "If you want to join in on the conversation, become a member of the Hidden Forces Genius Community,"
+    },
+    {
+      "start": 102.24,
+      "end": 107.44,
+      "text": "which includes Q&A calls with guests, discounted access to third-party research and analysis,"
+    },
+    {
+      "start": 107.44,
+      "end": 112.0,
+      "text": "and in-person events like our intimate dinners and weekend retreats, you can also do that"
+    },
+    {
+      "start": 112.0,
+      "end": 117.67999999999999,
+      "text": "on our subscriber page. And if you still have questions, feel free to send an email to infoat"
+    },
+    {
+      "start": 117.67999999999999,
+      "end": 123.36,
+      "text": "hiddenforces.io and I, someone from our team, will get right back to you."
+    },
+    {
+      "start": 123.92,
+      "end": 129.84,
+      "text": "Lastly, because this conversation deals with investing, nothing we say on this podcast can or should"
+    },
+    {
+      "start": 129.84,
+      "end": 136.07999999999998,
+      "text": "be viewed as financial advice. All opinions expressed by me and my guests are solely our own opinions"
+    },
+    {
+      "start": 136.08,
+      "end": 141.84,
+      "text": "and should not be relied upon as the basis for financial decisions. And with that, please enjoy"
+    },
+    {
+      "start": 141.84,
+      "end": 148.64000000000001,
+      "text": "this conversation about AI and its impact on the economy and society. My guest, Alop Shah."
+    },
+    {
+      "start": 152.08,
+      "end": 156.24,
+      "text": "Alop Shah, welcome to Hidden Forces. It's time to be here."
+    },
+    {
+      "start": 156.64000000000001,
+      "end": 163.44,
+      "text": "Awesome. So you first came on my radar because of a piece that you co-wrote with a former guest"
+    },
+    {
+      "start": 163.44,
+      "end": 168.32,
+      "text": "of the podcast, James Van Gelen, also known as the Trini Research. And this was, remind me again,"
+    },
+    {
+      "start": 168.32,
+      "end": 173.76,
+      "text": "when this piece was published? Late February. I was going to say two months ago. So that was more than"
+    },
+    {
+      "start": 173.76,
+      "end": 180.96,
+      "text": "two months ago. We're recording this on May 25, so I guess three months ago. That was an explosive"
+    },
+    {
+      "start": 180.96,
+      "end": 187.28,
+      "text": "article. I mean, I remember that it was one of those rare works or interviews or something,"
+    },
+    {
+      "start": 187.28,
+      "end": 194.0,
+      "text": "piece of content that effectively like broke the new cycle within a certain segment. And that"
+    },
+    {
+      "start": 194.0,
+      "end": 199.28,
+      "text": "segment is, you know, financial media. And it was even attributed to a certain SaaS company selling"
+    },
+    {
+      "start": 199.28,
+      "end": 204.0,
+      "text": "off. And you guys got a lot of heat and blowback. Now, this was a thought experiment. So it was"
+    },
+    {
+      "start": 204.0,
+      "end": 209.52,
+      "text": "quite interesting to see the reaction of people. I went back and reread the piece since it first"
+    },
+    {
+      "start": 209.52,
+      "end": 216.16,
+      "text": "came out. And it was interesting how it felt reading it now versus reading it then. But I'm just"
+    },
+    {
+      "start": 216.16,
+      "end": 221.35999999999999,
+      "text": "curious before we get into what you guys talked about in that piece, which was part of a three-part"
+    },
+    {
+      "start": 221.35999999999999,
+      "end": 226.0,
+      "text": "series that you got that you had written, the second part was something that you guys co-wrote."
+    },
+    {
+      "start": 226.0,
+      "end": 230.32,
+      "text": "But before we get into what it was, just tell me a little bit about like that experience."
+    },
+    {
+      "start": 230.32,
+      "end": 235.76,
+      "text": "What was your sense of the impact that this piece would have when you were first writing it"
+    },
+    {
+      "start": 235.76,
+      "end": 241.44,
+      "text": "and preparing to publish it? Sure. It was quite interesting because we knew we were writing something"
+    },
+    {
+      "start": 241.44,
+      "end": 247.2,
+      "text": "that was quite important. And that was very topical to what everyone was focused on. And we had"
+    },
+    {
+      "start": 247.2,
+      "end": 251.52,
+      "text": "certainly a unique point of view versus what else had been out there. But certainly we did not"
+    },
+    {
+      "start": 251.52,
+      "end": 256.72,
+      "text": "expect the level of pickup that we ultimately saw. And, you know, we didn't expect the level of"
+    },
+    {
+      "start": 256.72,
+      "end": 261.84,
+      "text": "kind of pushback. But it made sense in retrospect when we thought about it. And then we sort of"
+    },
+    {
+      "start": 261.84,
+      "end": 266.8,
+      "text": "looked back at things because we were saying something very thought-provoking. And ultimately,"
+    },
+    {
+      "start": 266.8,
+      "end": 271.68,
+      "text": "something that, while being a thought experiment was quite scary, because we're all in this world"
+    },
+    {
+      "start": 271.68,
+      "end": 276.96000000000004,
+      "text": "right now together where we're experiencing AI on a daily basis. We're seeing the improvements,"
+    },
+    {
+      "start": 276.96000000000004,
+      "end": 281.6,
+      "text": "we're seeing how fast it is improving. And we're seeing how much of our own lives are being"
+    },
+    {
+      "start": 281.6,
+      "end": 287.36,
+      "text": "changed. And a lot of our cases, how much of the work we do day in day out can, if not be replaced,"
+    },
+    {
+      "start": 287.36,
+      "end": 294.16,
+      "text": "significantly augmented today by AI. And certainly in a world where if we just draw those timelines out"
+    },
+    {
+      "start": 294.16,
+      "end": 299.44,
+      "text": "and continue to see similar progress, a lot of it could be replaced. And so really felt like we"
+    },
+    {
+      "start": 299.44,
+      "end": 306.0,
+      "text": "hit a significant nerve around this idea that there was huge risk of displacement. And also that"
+    },
+    {
+      "start": 306.0,
+      "end": 311.20000000000005,
+      "text": "just contributed to this broader sort of malaise and fear that we have in our society today around,"
+    },
+    {
+      "start": 311.20000000000005,
+      "end": 316.40000000000003,
+      "text": "you know, a lot of ways the American dream not being what it used to be. And, you know, even more"
+    },
+    {
+      "start": 316.40000000000003,
+      "end": 321.52000000000004,
+      "text": "risk around, you know, where's my place? What am I going to do? And, you know, is there a world"
+    },
+    {
+      "start": 321.52,
+      "end": 326.56,
+      "text": "in a social support system in a political support system to be able to protect me if that happens?"
+    },
+    {
+      "start": 326.56,
+      "end": 330.24,
+      "text": "And so I think we kind of really touched the nerve and all those things together. And I think that"
+    },
+    {
+      "start": 330.24,
+      "end": 336.32,
+      "text": "was the reason why it had to pick up that it did. Ultimately that was the intent to get people"
+    },
+    {
+      "start": 336.32,
+      "end": 341.52,
+      "text": "talking about it and really focused on what could happen because ultimately the way that I think"
+    },
+    {
+      "start": 341.52,
+      "end": 346.15999999999997,
+      "text": "about this is it is in a lot of ways the most transformative technology we've ever seen. But it"
+    },
+    {
+      "start": 346.15999999999997,
+      "end": 351.12,
+      "text": "is also something that we as society need to grapple with much more than just us, you know, as"
+    },
+    {
+      "start": 351.12,
+      "end": 357.52,
+      "text": "technologists and as financiers and as a society we're not doing a job of that. We're very, very early"
+    },
+    {
+      "start": 357.52,
+      "end": 362.08,
+      "text": "in talking about it. And so ultimately we put it out and the reason for it was we wanted to get the"
+    },
+    {
+      "start": 362.08,
+      "end": 367.12,
+      "text": "dialogue going. And, you know, in that sense it has been hardening to see a lot more discussion"
+    },
+    {
+      "start": 367.12,
+      "end": 372.56,
+      "text": "and, you know, excited to come on formats like this to really get that discussion going because"
+    },
+    {
+      "start": 372.56,
+      "end": 378.32,
+      "text": "ultimately there are very clear solutions to this problem that are around our political economy."
+    },
+    {
+      "start": 378.32,
+      "end": 383.28,
+      "text": "And ultimately how we deal with taxes. And if we get those things right, which we should,"
+    },
+    {
+      "start": 383.28,
+      "end": 386.48,
+      "text": "but it's going to take a while and it's going to take a lot of compromise, but should we get"
+    },
+    {
+      "start": 386.48,
+      "end": 392.4,
+      "text": "that right? This is the most beautiful sort of opportunity for humanity to flourish. But there's"
+    },
+    {
+      "start": 392.4,
+      "end": 398.15999999999997,
+      "text": "a lot that has to happen to get there. So you guys stated up front that the very top that this was"
+    },
+    {
+      "start": 398.15999999999997,
+      "end": 404.32,
+      "text": "a thought experiment. So you were very explicit about that. And yet the backlash you got from a lot of"
+    },
+    {
+      "start": 404.32,
+      "end": 410.88,
+      "text": "people was pretty significant. And when I reflected on it the second time that I read it, I came to"
+    },
+    {
+      "start": 410.88,
+      "end": 416.15999999999997,
+      "text": "the conclusion that essentially when you say you touched on a nerve that there is a real fear out"
+    },
+    {
+      "start": 416.15999999999997,
+      "end": 423.52,
+      "text": "there. And what essentially that thought experiment did was it stoked those fears. And a lot of people"
+    },
+    {
+      "start": 423.52,
+      "end": 430.32,
+      "text": "took that personally got upset. And it's very interesting because, you know, other topics don't do"
+    },
+    {
+      "start": 430.4,
+      "end": 434.15999999999997,
+      "text": "that. But this one did. And I think it speaks to just the level of fear out there. And I think"
+    },
+    {
+      "start": 434.15999999999997,
+      "end": 439.68,
+      "text": "you're right to to align not just fears to people have about AI, but also fears people have in"
+    },
+    {
+      "start": 439.68,
+      "end": 444.8,
+      "text": "general and have had for years about not making it of not getting to participate and run away"
+    },
+    {
+      "start": 444.8,
+      "end": 450.08,
+      "text": "asset growth or not having enough money to purchase a home or that others are making it. And"
+    },
+    {
+      "start": 450.08,
+      "end": 454.88,
+      "text": "they're falling behind this increasingly case shaped economy. So I think it's important to kind of"
+    },
+    {
+      "start": 454.88,
+      "end": 458.71999999999997,
+      "text": "put that up. But would you agree with that? I mean, I think I'm pretty much echoing what you just"
+    },
+    {
+      "start": 458.72,
+      "end": 463.68,
+      "text": "said. But would you agree with that sentiment? Absolutely. It's just the AI is sort of the next"
+    },
+    {
+      "start": 463.68,
+      "end": 468.24,
+      "text": "thing that folks are even more concerned about to pile on top of everything else. And there's a lot"
+    },
+    {
+      "start": 468.24,
+      "end": 473.36,
+      "text": "of confusion and a lot of different opinions, even amongst those people that one would look to"
+    },
+    {
+      "start": 473.36,
+      "end": 479.28000000000003,
+      "text": "for expert answers on the topic. So also important to keep in mind as you go through this. So let"
+    },
+    {
+      "start": 479.28000000000003,
+      "end": 484.40000000000003,
+      "text": "one more question for you. As I said, you guys co-wrote part two of this global intelligence crisis"
+    },
+    {
+      "start": 484.48,
+      "end": 489.36,
+      "text": "three-part series. The first one that you wrote, what is the origin of this sort of three-part"
+    },
+    {
+      "start": 489.36,
+      "end": 495.52000000000004,
+      "text": "series? And then walk me through the argument that you make in the pieces. So part one was more of"
+    },
+    {
+      "start": 495.52000000000004,
+      "end": 502.16,
+      "text": "an overview of how I came to the idea. And to do that, I quickly sort of laid out my background"
+    },
+    {
+      "start": 502.16,
+      "end": 507.44000000000005,
+      "text": "and why I was uniquely qualified to a pine on this topic. And the reason I believe that's the case"
+    },
+    {
+      "start": 507.44000000000005,
+      "end": 512.0,
+      "text": "is I have 20 years of experience as a public market investor. I was at Viking, I was at Citadel,"
+    },
+    {
+      "start": 512.0,
+      "end": 517.2,
+      "text": "I've been running my own fund for over a decade. I also have 15 years as an AI builder. When I left"
+    },
+    {
+      "start": 517.2,
+      "end": 524.0,
+      "text": "Citadel in 2011 to run my own fund, I realized ultimately all I did was process data all day."
+    },
+    {
+      "start": 524.0,
+      "end": 528.64,
+      "text": "And the tools I used to process that data Bloomberg and a lot of others were all very"
+    },
+    {
+      "start": 528.64,
+      "end": 533.76,
+      "text": "dated for what I needed to do. And so I ultimately ended up building my own search intelligence platform"
+    },
+    {
+      "start": 533.76,
+      "end": 538.08,
+      "text": "called Centio. The idea was essentially Google for your financial information, which didn't exist"
+    },
+    {
+      "start": 538.08,
+      "end": 543.84,
+      "text": "at the time. That made me a much, much more broad and fast investor had a huge impact on my"
+    },
+    {
+      "start": 543.84,
+      "end": 549.76,
+      "text": "returns. And eventually scaled that business to a few hundred people on my team and a few thousand"
+    },
+    {
+      "start": 549.76,
+      "end": 554.96,
+      "text": "clients before we sold it to a competitor. But in the process, I saw kind of soup to nuts from"
+    },
+    {
+      "start": 554.96,
+      "end": 560.64,
+      "text": "me and my brother in my apartment to a decent-sized company, what it takes to build and especially build"
+    },
+    {
+      "start": 560.64,
+      "end": 566.88,
+      "text": "an AI. And the size of the impact I was able to have on my own workflow when I was able to"
+    },
+    {
+      "start": 566.88,
+      "end": 570.72,
+      "text": "really utilize the most powerful tools that were out there. Before we get into the argument then,"
+    },
+    {
+      "start": 570.72,
+      "end": 575.68,
+      "text": "since you brought up your work experience, what have you specifically watched happen"
+    },
+    {
+      "start": 576.24,
+      "end": 582.88,
+      "text": "in your corner of the world that you would say was the most paradigm shifting for you around"
+    },
+    {
+      "start": 582.88,
+      "end": 588.48,
+      "text": "AI capabilities and what's coming. Make this concrete for people. Two examples. I think the most"
+    },
+    {
+      "start": 588.48,
+      "end": 593.92,
+      "text": "important one is today I run a couple different companies where we build software for external"
+    },
+    {
+      "start": 593.92,
+      "end": 599.76,
+      "text": "users, for internal users. And a few years ago, and even a year ago, the process had not really"
+    },
+    {
+      "start": 599.76,
+      "end": 603.92,
+      "text": "changed. It got a little bit more efficient, but it had not fundamentally changed. It was still,"
+    },
+    {
+      "start": 603.92,
+      "end": 609.52,
+      "text": "I had an idea for a new feature. I would speak with a product manager together. We would work with"
+    },
+    {
+      "start": 609.52,
+      "end": 615.76,
+      "text": "the designer to build the designs. And then we would ship that to a team of engineers who would"
+    },
+    {
+      "start": 615.76,
+      "end": 619.5999999999999,
+      "text": "maybe a week later or two weeks later would come back with a prototype. We would look at the"
+    },
+    {
+      "start": 619.5999999999999,
+      "end": 623.76,
+      "text": "prototype. We would give feedback and push back on a lot of the prototype. And then we would do"
+    },
+    {
+      "start": 623.76,
+      "end": 628.96,
+      "text": "another round of revisions. Maybe three weeks, a month later, that idea would turn into a"
+    },
+    {
+      "start": 628.96,
+      "end": 635.6,
+      "text": "shipable feature. Since the advent of a Gen.T.K.I. and coding interfaces since last summer,"
+    },
+    {
+      "start": 635.6,
+      "end": 640.96,
+      "text": "and really for us, since last fall, that has just fundamentally changed. Now, my process,"
+    },
+    {
+      "start": 640.96,
+      "end": 646.4,
+      "text": "if I want to create that new feature, is I talk to clot. And in the course of 20 minutes,"
+    },
+    {
+      "start": 646.4,
+      "end": 652.24,
+      "text": "often less, I have a clean spec. And then, with an under an hour, I can have something that's"
+    },
+    {
+      "start": 652.24,
+      "end": 657.2,
+      "text": "actually working. It's not going to be the thing that I'm going to ship to a client, but it is"
+    },
+    {
+      "start": 657.2,
+      "end": 663.52,
+      "text": "very, very powerful to iterate and get 85% of the way there in a very short time period."
+    },
+    {
+      "start": 663.52,
+      "end": 669.2,
+      "text": "And so that has just fundamentally changed how I think about software development. And in a lot of"
+    },
+    {
+      "start": 669.2,
+      "end": 673.04,
+      "text": "ways, software development is just the tip of the spear, the thing that we've got the most"
+    },
+    {
+      "start": 673.04,
+      "end": 677.6,
+      "text": "training data on, the thing that we focused on the most. And thus, it's the thing that has accelerated"
+    },
+    {
+      "start": 677.6,
+      "end": 683.0400000000001,
+      "text": "the fastest. That means that, ultimately, the teams we need to build software are much smaller."
+    },
+    {
+      "start": 683.0400000000001,
+      "end": 688.24,
+      "text": "They're much leaner. They're much more agile. We can move a lot faster. And today, for us,"
+    },
+    {
+      "start": 688.24,
+      "end": 692.5600000000001,
+      "text": "that doesn't mean we're not hiring as many folks. But I think it will likely mean that in the future."
+    },
+    {
+      "start": 692.5600000000001,
+      "end": 695.84,
+      "text": "And I think it is going to mean that for larger companies, since I'm primarily running small"
+    },
+    {
+      "start": 695.84,
+      "end": 700.4,
+      "text": "agile companies. And so that has been the fundamental change that I think is sort of upstream of"
+    },
+    {
+      "start": 700.4,
+      "end": 704.24,
+      "text": "everything else that's coming for software, but broader for society."
+    },
+    {
+      "start": 704.32,
+      "end": 709.84,
+      "text": "Okay. So I actually look forward to talking with you as well about how many of these gains"
+    },
+    {
+      "start": 709.84,
+      "end": 713.84,
+      "text": "can be generalized. In other words, what we're seeing in the area of software development,"
+    },
+    {
+      "start": 713.84,
+      "end": 717.44,
+      "text": "where else does that you expect that to filter through? It sounds like you expect to filter"
+    },
+    {
+      "start": 717.44,
+      "end": 722.48,
+      "text": "through to almost if not all other jobs. So I'd like to understand the principle there behind"
+    },
+    {
+      "start": 722.48,
+      "end": 727.04,
+      "text": "your thinking. Again, let's go back to your central argument. Lay that out for me as best you can."
+    },
+    {
+      "start": 727.04,
+      "end": 731.28,
+      "text": "The central argument that animates the three pieces of the global intelligence crisis."
+    },
+    {
+      "start": 731.92,
+      "end": 737.6,
+      "text": "Absolutely. So at a high level, human intelligence is an extremely important if not the most"
+    },
+    {
+      "start": 737.6,
+      "end": 742.72,
+      "text": "important input into the production function. We need it to make pretty much everything. And the"
+    },
+    {
+      "start": 742.72,
+      "end": 748.8,
+      "text": "underlying idea there is this has been a bedrock of how the economy works. Knowledge work is"
+    },
+    {
+      "start": 748.8,
+      "end": 753.68,
+      "text": "really important. Ultimately, white collar workers generate the majority of the wages in society"
+    },
+    {
+      "start": 753.68,
+      "end": 759.04,
+      "text": "and drive the vast majority of the spending. For the first time ever, in the last six months,"
+    },
+    {
+      "start": 759.04,
+      "end": 766.48,
+      "text": "AI has gotten to a level of capability where it is able to begin to substitute for some of that"
+    },
+    {
+      "start": 766.48,
+      "end": 771.5999999999999,
+      "text": "cognitive work. And ultimately, what that represents is just a huge rightward shift,"
+    },
+    {
+      "start": 771.5999999999999,
+      "end": 777.52,
+      "text": "outward shift of the supply curve for intelligence. And as it becomes more and more competitive with"
+    },
+    {
+      "start": 777.52,
+      "end": 782.7199999999999,
+      "text": "human intelligence, it is going to substitute more and is going to drive the price of a unit of"
+    },
+    {
+      "start": 782.7199999999999,
+      "end": 788.4,
+      "text": "human intelligence down. In a world where a price of a unit of human intelligence goes down"
+    },
+    {
+      "start": 788.48,
+      "end": 792.88,
+      "text": "significantly, there are just massive downstream consequences of that throughout our entire"
+    },
+    {
+      "start": 792.88,
+      "end": 797.84,
+      "text": "economy that haven't really been dealt with or thought through clearly. Ultimately, what that means"
+    },
+    {
+      "start": 797.84,
+      "end": 804.24,
+      "text": "is that there's going to be less demand for human intelligence. And the fundamental argument that"
+    },
+    {
+      "start": 804.24,
+      "end": 809.6,
+      "text": "the bulls are making is that part of which I don't disagree with, but the idea is, okay, great,"
+    },
+    {
+      "start": 809.6,
+      "end": 813.68,
+      "text": "we have way more intelligence in the world. We always need more intelligence that is going to lead"
+    },
+    {
+      "start": 813.6800000000001,
+      "end": 818.96,
+      "text": "to more GDP growth, more productivity, and we're going to be completely fine. There'll be more jobs"
+    },
+    {
+      "start": 818.96,
+      "end": 826.1600000000001,
+      "text": "coming out of that. The place where I push back is every previous boom of technology like this"
+    },
+    {
+      "start": 826.1600000000001,
+      "end": 833.2,
+      "text": "has ultimately been one where the technology that was booming was a enabler of human labor. And so,"
+    },
+    {
+      "start": 833.2,
+      "end": 838.5600000000001,
+      "text": "yes, you need fewer telephone operators, but that led to all kinds of other white color jobs."
+    },
+    {
+      "start": 838.5600000000001,
+      "end": 843.44,
+      "text": "The problem this time is we don't have an enabling technology. We have a truly substituting"
+    },
+    {
+      "start": 843.44,
+      "end": 848.8800000000001,
+      "text": "technology. It can just do the work that humans would previously do. And so, if you take that"
+    },
+    {
+      "start": 848.8800000000001,
+      "end": 853.84,
+      "text": "as a given, which is a big debate, which I'm happy to get into, but if you take that as a given,"
+    },
+    {
+      "start": 853.84,
+      "end": 858.5600000000001,
+      "text": "and it is truly substituting, then it is not clear where the new jobs are going to come from in"
+    },
+    {
+      "start": 858.5600000000001,
+      "end": 865.12,
+      "text": "this sort of GDP growth world. And so, if that happens, we have this sort of problematic transmission"
+    },
+    {
+      "start": 865.12,
+      "end": 871.2800000000001,
+      "text": "mechanism where, historically, okay, more GDP growth, more jobs, but new jobs will show up in"
+    },
+    {
+      "start": 871.28,
+      "end": 877.36,
+      "text": "to replace the old jobs and will be fine. This time around, the difference is if those jobs don't show"
+    },
+    {
+      "start": 877.36,
+      "end": 884.24,
+      "text": "up, we could have this insane, amazing AI productivity boom, but it could actually lead to a huge"
+    },
+    {
+      "start": 884.24,
+      "end": 888.4,
+      "text": "slowdown in the economy rather than a speed up in the economy once it really gets going. And the"
+    },
+    {
+      "start": 888.4,
+      "end": 894.64,
+      "text": "reason for that is that those jobs, even if, let's say, you know, 5% of jobs in the US go away,"
+    },
+    {
+      "start": 894.64,
+      "end": 899.92,
+      "text": "they will be very high paid white color jobs, and our economy is ultimately a consumer economy,"
+    },
+    {
+      "start": 899.9200000000001,
+      "end": 906.0000000000001,
+      "text": "meaning that those folks are going to stop spending, and especially as a safety net's run out."
+    },
+    {
+      "start": 906.0000000000001,
+      "end": 910.8000000000001,
+      "text": "And more importantly, if you, you know, I think this is happening in a lot of tech companies today,"
+    },
+    {
+      "start": 910.8000000000001,
+      "end": 915.3600000000001,
+      "text": "if you look to your left and you're right, and the person who, you know, was working and accounting"
+    },
+    {
+      "start": 915.3600000000001,
+      "end": 921.1200000000001,
+      "text": "next to you was working in operations or customer success has now lost their job. You still have"
+    },
+    {
+      "start": 921.1200000000001,
+      "end": 925.1200000000001,
+      "text": "your job, but you're massively going to a retrench on your spending and take your savings rate up"
+    },
+    {
+      "start": 925.12,
+      "end": 930.16,
+      "text": "very significantly. And so it won't take that much for those folks to really have an impact on"
+    },
+    {
+      "start": 930.16,
+      "end": 935.04,
+      "text": "the economy, and those folks who do lose their jobs, they're going to go into the blue color economy"
+    },
+    {
+      "start": 935.04,
+      "end": 939.2,
+      "text": "to find an additional job if there isn't white color work available. And so they're going to depress"
+    },
+    {
+      "start": 939.2,
+      "end": 945.12,
+      "text": "the blue color supply demand balance as well. And so all of this could very quickly lead to a situation"
+    },
+    {
+      "start": 945.12,
+      "end": 950.64,
+      "text": "where you have a very depressed consumer economy. And once that happens, it could be pretty self-fulfilling"
+    },
+    {
+      "start": 950.72,
+      "end": 956.0,
+      "text": "because those companies will cut the consumer economy is ultimately the US economy. And so from"
+    },
+    {
+      "start": 956.0,
+      "end": 960.96,
+      "text": "there, the problem is it won't necessarily balance because historically in that world what happens,"
+    },
+    {
+      "start": 960.96,
+      "end": 966.16,
+      "text": "the Fed comes in and they say, okay, you know, it's very, you know, inflation is lower negative now."
+    },
+    {
+      "start": 966.16,
+      "end": 972.16,
+      "text": "We need to cut significantly and in the process boost demand. The problem is the demand for those"
+    },
+    {
+      "start": 972.16,
+      "end": 976.8,
+      "text": "folks that are already slowing down is not really going to balance in a world where they're worried"
+    },
+    {
+      "start": 976.8800000000001,
+      "end": 981.2,
+      "text": "about AI getting more and more powerful. And so all of the sort of traditional"
+    },
+    {
+      "start": 981.2,
+      "end": 987.5200000000001,
+      "text": "cauristics around how economic cycles work will stop applying in the same way because AI is just"
+    },
+    {
+      "start": 987.5200000000001,
+      "end": 992.08,
+      "text": "this completely new technology. And so we need a new framework and a new playbook to deal with it"
+    },
+    {
+      "start": 992.08,
+      "end": 999.9200000000001,
+      "text": "is ultimately sort of our argument. So I definitely, I think where I'm probably at least at the"
+    },
+    {
+      "start": 999.9200000000001,
+      "end": 1003.6,
+      "text": "beginning of this conversation before we got into the end of it because I'm waiting to see if"
+    },
+    {
+      "start": 1003.6,
+      "end": 1009.12,
+      "text": "you can convince me otherwise, but I tend to agree with you from the standpoint that the rate"
+    },
+    {
+      "start": 1009.12,
+      "end": 1013.28,
+      "text": "of change is different for this technology where I'm not yet convinced and I want you to try to"
+    },
+    {
+      "start": 1013.28,
+      "end": 1017.76,
+      "text": "convince me this conversation and those who are skeptical in the audience is that this is a"
+    },
+    {
+      "start": 1017.76,
+      "end": 1023.6,
+      "text": "different kind of innovation cycle. And when I say different kind, I mean, different not just in"
+    },
+    {
+      "start": 1023.6,
+      "end": 1028.72,
+      "text": "the way that the industrial revolutions 1 and 2 was different from the IT revolution assuming that"
+    },
+    {
+      "start": 1028.72,
+      "end": 1032.8,
+      "text": "this is not actually part of that larger IT revolution, which is a different question,"
+    },
+    {
+      "start": 1033.3600000000001,
+      "end": 1039.04,
+      "text": "but that it is different from all of those in a substantive way so that it sort of just breaks"
+    },
+    {
+      "start": 1039.04,
+      "end": 1043.6000000000001,
+      "text": "the economy in a way and society in a way that the previous ones didn't. And fundamental to your"
+    },
+    {
+      "start": 1043.6000000000001,
+      "end": 1049.44,
+      "text": "claimant seems to me is that what you just said earlier, which is that human intelligence is"
+    },
+    {
+      "start": 1049.44,
+      "end": 1055.28,
+      "text": "substitutable in this case, whereas it wasn't in the previous cycles of innovation. And I'm yet"
+    },
+    {
+      "start": 1055.28,
+      "end": 1061.44,
+      "text": "to be convinced of that. So walk me through why you believe that these large language models"
+    },
+    {
+      "start": 1062.0,
+      "end": 1068.96,
+      "text": "are basically going to become so good that they will exceed human intelligence in every single"
+    },
+    {
+      "start": 1068.96,
+      "end": 1077.04,
+      "text": "domain that we can possibly think of such that importantly, such that the there is no room for"
+    },
+    {
+      "start": 1077.04,
+      "end": 1084.0,
+      "text": "innovation in the place of cognitive work so that the existing roles that we have today that people"
+    },
+    {
+      "start": 1084.0,
+      "end": 1089.92,
+      "text": "do that can and I agree with you should be substituted by AI that those can't be replaced with"
+    },
+    {
+      "start": 1089.92,
+      "end": 1096.88,
+      "text": "other forms of cognitive work that AI cannot do. So I would push back to say that it's not required"
+    },
+    {
+      "start": 1096.88,
+      "end": 1103.2,
+      "text": "that this be better than humans in a lot of ways all it is required is that they be almost as good"
+    },
+    {
+      "start": 1103.2,
+      "end": 1110.48,
+      "text": "as humans to substitute a large amount of today's labor because ultimately humans are expensive to"
+    },
+    {
+      "start": 1110.48,
+      "end": 1118.56,
+      "text": "employ. They require lots of time off benefits, et cetera. And most importantly, an organization"
+    },
+    {
+      "start": 1118.56,
+      "end": 1125.04,
+      "text": "is a collection of humans and increasingly agents that are trying to get something done."
+    },
+    {
+      "start": 1125.04,
+      "end": 1132.0,
+      "text": "And the problem is most humans to get more than a small group of humans rowing in the same direction"
+    },
+    {
+      "start": 1132.0,
+      "end": 1137.1200000000001,
+      "text": "to get something done. There's a large coordination tax. I wrote in my piece, I think in a lot of ways"
+    },
+    {
+      "start": 1137.1200000000001,
+      "end": 1143.1200000000001,
+      "text": "you can think about the entire Microsoft office suite as just a large coordination suite for humans."
+    },
+    {
+      "start": 1143.1200000000001,
+      "end": 1147.6000000000001,
+      "text": "So outlook, word, PowerPoint. These are all different ways to get people together and understand"
+    },
+    {
+      "start": 1147.6000000000001,
+      "end": 1151.8400000000001,
+      "text": "why we're doing something and how we're doing something. The beauty, but also the scary thing about"
+    },
+    {
+      "start": 1151.8400000000001,
+      "end": 1157.92,
+      "text": "agents is they don't require any of that. They will work 24-7. They don't need benefits."
+    },
+    {
+      "start": 1157.92,
+      "end": 1163.44,
+      "text": "The cost of doing a unit of work is a tiny fraction of what it costs a human to do something."
+    },
+    {
+      "start": 1163.6000000000001,
+      "end": 1169.04,
+      "text": "I would typically, the numbers will represent less than 1%. And they don't require coordination because"
+    },
+    {
+      "start": 1169.04,
+      "end": 1173.6000000000001,
+      "text": "they can all be singing from the exact same context, the same song sheet. One of them learns something."
+    },
+    {
+      "start": 1173.6000000000001,
+      "end": 1177.8400000000001,
+      "text": "It can update that in real time. The other ones basically know in real time. So you put all those"
+    },
+    {
+      "start": 1177.8400000000001,
+      "end": 1184.72,
+      "text": "things together and you're in a situation where it doesn't really take that much, not for all humans"
+    },
+    {
+      "start": 1184.72,
+      "end": 1190.0800000000002,
+      "text": "to become unemployed. That is a far cry from what we're advocating here. But we're in a world where"
+    },
+    {
+      "start": 1190.08,
+      "end": 1195.36,
+      "text": "we haven't really seen white collar job growth in the US in many years. And into that world,"
+    },
+    {
+      "start": 1195.36,
+      "end": 1201.4399999999998,
+      "text": "we are now seeing agents enter an AI enter in such a way that it doesn't take much to have a"
+    },
+    {
+      "start": 1201.4399999999998,
+      "end": 1206.96,
+      "text": "company say, you know, we're going to cut 10%, we're going to cut 15% and move that over to"
+    },
+    {
+      "start": 1206.96,
+      "end": 1212.32,
+      "text": "combination of agents. But more importantly, those most productive people in my organization who"
+    },
+    {
+      "start": 1212.32,
+      "end": 1216.3999999999999,
+      "text": "now can do five times, 10 times as much. And those are real numbers that we're seeing in a lot"
+    },
+    {
+      "start": 1216.4,
+      "end": 1222.16,
+      "text": "of places where the most productive folks in an organization are just being enabled in unbelievable"
+    },
+    {
+      "start": 1222.16,
+      "end": 1228.96,
+      "text": "ways by AI. So just to be clear, I actually think that so to your point about super intelligence versus,"
+    },
+    {
+      "start": 1229.68,
+      "end": 1234.8000000000002,
+      "text": "you know, intelligence that's comparable to humans and costs much less, I don't necessarily"
+    },
+    {
+      "start": 1234.8000000000002,
+      "end": 1242.0,
+      "text": "disagree. But within the existing domains of cognitive work that we can cite currently,"
+    },
+    {
+      "start": 1242.72,
+      "end": 1249.36,
+      "text": "my question is, why do you feel so confident in the long term that large language models and AI"
+    },
+    {
+      "start": 1250.16,
+      "end": 1258.88,
+      "text": "will dominate from an economics perspective every single domain of cognitive work? That's a sweeping"
+    },
+    {
+      "start": 1259.68,
+      "end": 1264.56,
+      "text": "statement. And so what is it that you have seen? What is it that you can point to that makes you feel"
+    },
+    {
+      "start": 1264.56,
+      "end": 1270.8,
+      "text": "so confident in the capability of these systems? The first thing I've seen is just I see it in my"
+    },
+    {
+      "start": 1270.8,
+      "end": 1277.76,
+      "text": "daily life day in day out. My process for building software has completely changed. We need"
+    },
+    {
+      "start": 1278.48,
+      "end": 1284.0,
+      "text": "30 or 40% of the number of people that we did in the past. And I myself, as a leader of the"
+    },
+    {
+      "start": 1284.0,
+      "end": 1289.12,
+      "text": "organization, can get so much more done without having to consult with any humans. And a lot of"
+    },
+    {
+      "start": 1289.76,
+      "end": 1295.76,
+      "text": "the latency and the drag around getting things done in an organization is senior management"
+    },
+    {
+      "start": 1295.76,
+      "end": 1300.8,
+      "text": "figuring out how to get things done and how to start if you want of something. And now I can"
+    },
+    {
+      "start": 1300.8,
+      "end": 1305.76,
+      "text": "hand my team something that has been reasoned through with an LLM for an hour or two that is"
+    },
+    {
+      "start": 1305.76,
+      "end": 1310.48,
+      "text": "quite crisp and has most of my thinking built in something I could never do before. And so massively"
+    },
+    {
+      "start": 1310.48,
+      "end": 1315.04,
+      "text": "increases the velocity, which is a huge positive, but it also means I need less of those folks on my"
+    },
+    {
+      "start": 1315.04,
+      "end": 1320.72,
+      "text": "team. The other example is I run an investment fund. And previously, you know, the more analysis I"
+    },
+    {
+      "start": 1320.72,
+      "end": 1325.92,
+      "text": "needed to do, I would hire more analysts. And I increasingly find myself just going directly to"
+    },
+    {
+      "start": 1325.92,
+      "end": 1332.48,
+      "text": "cloud and chat GPT and not going to analyst much at all for that analysis because all of that data"
+    },
+    {
+      "start": 1332.48,
+      "end": 1337.28,
+      "text": "is sitting in the system because I imagine if you had an analyst that instead of spending 20 minutes"
+    },
+    {
+      "start": 1337.28,
+      "end": 1343.76,
+      "text": "responding, figuring out your query could respond in 30 seconds and had the full internet's knowledge"
+    },
+    {
+      "start": 1343.76,
+      "end": 1348.64,
+      "text": "based built in. And that's sort of the world that we're in today. I find for myself with financial"
+    },
+    {
+      "start": 1348.64,
+      "end": 1353.3600000000001,
+      "text": "analysis. And so it is something where I can prompt the thing. It gives me the answer. And I've"
+    },
+    {
+      "start": 1353.3600000000001,
+      "end": 1360.0,
+      "text": "iterated on three or four more decision branches before ever having to talk to anyone else. And so in"
+    },
+    {
+      "start": 1360.0,
+      "end": 1365.6000000000001,
+      "text": "the process, I see myself just massively accelerated where, you know, I'm running multiple businesses and"
+    },
+    {
+      "start": 1365.6000000000001,
+      "end": 1371.92,
+      "text": "I'm able to just me plus my AI cover so much ground in a way that I never could before. And so"
+    },
+    {
+      "start": 1371.92,
+      "end": 1377.0400000000002,
+      "text": "there is absolutely the opportunity for everyone to be this accelerated. But the way our society"
+    },
+    {
+      "start": 1377.04,
+      "end": 1382.8,
+      "text": "set up from a wage perspective is that that is going to concentrate the spoils to very, very few"
+    },
+    {
+      "start": 1382.8,
+      "end": 1387.68,
+      "text": "people. And so it doesn't take anything to be super intelligent. It just where those things"
+    },
+    {
+      "start": 1387.68,
+      "end": 1392.24,
+      "text": "are positioned and how they're able to accelerate leaders is something that is really positive. But"
+    },
+    {
+      "start": 1392.24,
+      "end": 1396.72,
+      "text": "also, you know, what is going to happen to the bottom half of the distribution is ultimately what"
+    },
+    {
+      "start": 1396.72,
+      "end": 1403.04,
+      "text": "I'm super focused on from a risk perspective. Yeah, look, I will tell you that I have seen I use"
+    },
+    {
+      "start": 1403.04,
+      "end": 1407.68,
+      "text": "Claude all the time now for my pre-production and especially for my post-production work, which"
+    },
+    {
+      "start": 1407.68,
+      "end": 1414.0,
+      "text": "is much more routine. And it's been incredible. I'll acknowledge that. But yeah, I guess we don't"
+    },
+    {
+      "start": 1414.0,
+      "end": 1419.36,
+      "text": "have to try and sort of sort this out at least at this moment because there are other"
+    },
+    {
+      "start": 1419.36,
+      "end": 1424.8,
+      "text": "asked things I want to ask you about from your thought piece. But at the end of the day, this is"
+    },
+    {
+      "start": 1424.8,
+      "end": 1430.8,
+      "text": "all in service to me. I can't rely on Claude to do things autonomously at the anywhere near the level"
+    },
+    {
+      "start": 1430.8,
+      "end": 1438.32,
+      "text": "that I am able to do them in conjunction with the AI. And so, and you acknowledge as well,"
+    },
+    {
+      "start": 1438.32,
+      "end": 1443.76,
+      "text": "like that you're using the systems in service to you. So, you know, I certainly can see how this"
+    },
+    {
+      "start": 1443.76,
+      "end": 1451.12,
+      "text": "disintermediates the economy more, how it advantages startups in many ways and reduces the"
+    },
+    {
+      "start": 1451.12,
+      "end": 1456.96,
+      "text": "the headcount for a lot of companies, at least startup companies that need fewer resources to start"
+    },
+    {
+      "start": 1456.96,
+      "end": 1462.56,
+      "text": "up. What that means for job losses at corporations and how the politics at these companies maybe"
+    },
+    {
+      "start": 1462.56,
+      "end": 1467.52,
+      "text": "creates some inertia, I don't know. But let's, okay, so that kind of begins to address the question of,"
+    },
+    {
+      "start": 1467.52,
+      "end": 1472.24,
+      "text": "like, why do you think this time is different? In the piece, you also argue that AI is the first"
+    },
+    {
+      "start": 1472.24,
+      "end": 1477.76,
+      "text": "technology that targets the non-routine cognitive work that absorbs every prior wave of displaced"
+    },
+    {
+      "start": 1477.76,
+      "end": 1483.28,
+      "text": "workers. And then essentially, this is going to be a problem for employment. So, my question is"
+    },
+    {
+      "start": 1483.28,
+      "end": 1490.6399999999999,
+      "text": "separating questions of superintelligence and high level cognitive replacement. Why is it a problem"
+    },
+    {
+      "start": 1490.6399999999999,
+      "end": 1497.2,
+      "text": "if non-routine work goes away? Because the specific framework that we're referring to here is"
+    },
+    {
+      "start": 1497.2,
+      "end": 1504.08,
+      "text": "think about a two by two matrix of manual labor and cognitive labor and then think about routine"
+    },
+    {
+      "start": 1504.08,
+      "end": 1510.3999999999999,
+      "text": "work and non-routine work, the first quadrant being manual routine work. That has begun to be"
+    },
+    {
+      "start": 1510.4,
+      "end": 1514.3200000000002,
+      "text": "automated since the dawn of the Industrial Revolution, right? The factory line is sort of the"
+    },
+    {
+      "start": 1514.3200000000002,
+      "end": 1519.76,
+      "text": "best example of that. So those jobs have gone away. That leaves you the other three quadrants"
+    },
+    {
+      "start": 1519.76,
+      "end": 1524.96,
+      "text": "since the 1980s and sort of the first sort of IT revolution. You started losing a lot of the"
+    },
+    {
+      "start": 1524.96,
+      "end": 1529.44,
+      "text": "routine cognitive work. This is sort of like, you know, things that accounting and things like that."
+    },
+    {
+      "start": 1529.44,
+      "end": 1536.48,
+      "text": "If you think about it, the reason that that automation did not lead to significant job losses is"
+    },
+    {
+      "start": 1536.48,
+      "end": 1541.84,
+      "text": "that most of those folks moved into cognitive non-routine work. This is sort of the work that most"
+    },
+    {
+      "start": 1541.84,
+      "end": 1548.88,
+      "text": "of our white collar work is today. And the problem is that that was the escape valve for all of those"
+    },
+    {
+      "start": 1548.88,
+      "end": 1554.8,
+      "text": "white collar workers. And that escape valve, our belief is, we'll no longer hold in this AI"
+    },
+    {
+      "start": 1554.8,
+      "end": 1560.8,
+      "text": "first world. You know, today, you're right. The AI cannot sort of take a full task and do it"
+    },
+    {
+      "start": 1560.8,
+      "end": 1565.1200000000001,
+      "text": "end to end. Some of them are getting better, but they're not quite there yet. But ultimately,"
+    },
+    {
+      "start": 1565.1200000000001,
+      "end": 1571.1200000000001,
+      "text": "the reason I think that the risk is so large is we have to just look at the trend lines and how"
+    },
+    {
+      "start": 1571.1200000000001,
+      "end": 1576.4,
+      "text": "these trend lines are progressing, where we have this exponential trend line of AI improvement"
+    },
+    {
+      "start": 1576.4,
+      "end": 1580.88,
+      "text": "that has been, you know, in a lot of ways going for almost a decade. But really, if you think about"
+    },
+    {
+      "start": 1580.88,
+      "end": 1586.48,
+      "text": "chat GBT is the starting gun, has been going for, you know, well over three years now. And we're in a"
+    },
+    {
+      "start": 1586.48,
+      "end": 1591.68,
+      "text": "world where as those trend lines continue to trend upward, and this is an exponential. So, you know,"
+    },
+    {
+      "start": 1591.68,
+      "end": 1597.68,
+      "text": "the growth are tremendous. But most importantly, what are we doing as a society? And what are we"
+    },
+    {
+      "start": 1597.68,
+      "end": 1604.96,
+      "text": "doing as an economy in response to those trend lines? We're putting more and more dollars and focus"
+    },
+    {
+      "start": 1605.6000000000001,
+      "end": 1613.52,
+      "text": "into the AI story, and especially AI CapEx. By 2028, AI CapEx will be more than 1% of global GDP."
+    },
+    {
+      "start": 1613.52,
+      "end": 1617.04,
+      "text": "I think that is a floor, and it will continue to go up. I mean, just look at what's happened to"
+    },
+    {
+      "start": 1617.04,
+      "end": 1623.2,
+      "text": "semiconductor stocks in the last even month. It's very clear to everyone that the ROI on these"
+    },
+    {
+      "start": 1623.2,
+      "end": 1626.08,
+      "text": "things, you know, look at what happened to semiconductors, and look what's happened to Claude's"
+    },
+    {
+      "start": 1626.08,
+      "end": 1630.24,
+      "text": "run rate bar in the last few months, where you know, it's adding the equivalent of like, you know,"
+    },
+    {
+      "start": 1630.24,
+      "end": 1635.68,
+      "text": "entire SaaS complexes in ARR in a single month, because it's becoming that powerful and it's"
+    },
+    {
+      "start": 1635.68,
+      "end": 1641.68,
+      "text": "becoming that useful. And so this virtuous cycle has taken, taken off, and it's going to a new level,"
+    },
+    {
+      "start": 1641.68,
+      "end": 1646.8,
+      "text": "where we have most of the world's most intelligent people all focused on the same problem. And so you"
+    },
+    {
+      "start": 1646.8,
+      "end": 1651.12,
+      "text": "put all those things together, you have the compute, you have all the algorithmic improvement, you"
+    },
+    {
+      "start": 1651.12,
+      "end": 1657.44,
+      "text": "have the capital that is backing it, and you're in a world where we're going to see continuous"
+    },
+    {
+      "start": 1657.44,
+      "end": 1662.32,
+      "text": "accelerating AI capabilities even more than we've seen in the last three years. So just consider"
+    },
+    {
+      "start": 1662.32,
+      "end": 1667.04,
+      "text": "what that would mean a year from now, two years from now. We put all those together, and that's why I've"
+    },
+    {
+      "start": 1667.04,
+      "end": 1672.32,
+      "text": "got a reasonable level of confidence that a lot more intelligence is coming from AI, and ultimately"
+    },
+    {
+      "start": 1672.32,
+      "end": 1677.36,
+      "text": "that's going to mean that there is going to be a lot more risk around replacement of human labor."
+    },
+    {
+      "start": 1678.08,
+      "end": 1683.84,
+      "text": "So I think maybe the thing I enjoyed the most, and this was probably in the part two of the"
+    },
+    {
+      "start": 1683.84,
+      "end": 1689.9199999999998,
+      "text": "three-part series, was your observation about trillions of dollars of enterprise value,"
+    },
+    {
+      "start": 1689.9199999999998,
+      "end": 1695.4399999999998,
+      "text": "having built on monetizing human limitations, essentially the frictions in our economy."
+    },
+    {
+      "start": 1695.4399999999998,
+      "end": 1701.52,
+      "text": "Walk me through this argument, and tell me a little bit about how you guys came to it. This"
+    },
+    {
+      "start": 1701.52,
+      "end": 1707.2,
+      "text": "observation, this belief about essentially everything in the middle getting wiped out."
+    },
+    {
+      "start": 1707.2,
+      "end": 1713.2,
+      "text": "Yeah, it's really interesting because I've been an investor and a student of the internet for"
+    },
+    {
+      "start": 1713.2,
+      "end": 1719.68,
+      "text": "almost 20 years, and if you think about what the internet ultimately does, it helps you find"
+    },
+    {
+      "start": 1719.68,
+      "end": 1725.44,
+      "text": "information, and then helps you find goods much more easily than you could before. So that's"
+    },
+    {
+      "start": 1725.44,
+      "end": 1729.92,
+      "text": "ultimately just a form of intermediation. And if you really take a step back and think about what"
+    },
+    {
+      "start": 1729.92,
+      "end": 1736.3200000000002,
+      "text": "our economy is, it's a ton of intermediation. There's lots and lots of search costs and pre-internet."
+    },
+    {
+      "start": 1736.3200000000002,
+      "end": 1741.3600000000001,
+      "text": "Things are really hard to get information, and now they've gotten easier and easier."
+    },
+    {
+      "start": 1741.3600000000001,
+      "end": 1746.5600000000002,
+      "text": "And so a huge amount of our economy, and especially a huge amount of our market cap, is just"
+    },
+    {
+      "start": 1747.2,
+      "end": 1756.48,
+      "text": "attacks on human time, human laziness, and human imperfect information. And agents flip all of that"
+    },
+    {
+      "start": 1756.48,
+      "end": 1761.84,
+      "text": "on their head. You and I, to save a buck, are not going to run three or four more searches on"
+    },
+    {
+      "start": 1761.84,
+      "end": 1767.04,
+      "text": "our phone and spend an extra few minutes for an agent that has a trivial thing to do. You and I"
+    },
+    {
+      "start": 1767.76,
+      "end": 1774.4,
+      "text": "are not going to find every listing, we're not going to be able to go in and understand"
+    },
+    {
+      "start": 1774.4,
+      "end": 1780.16,
+      "text": "all the pros and cons, read all of the reviews of a given product. Agents flip all of that on their"
+    },
+    {
+      "start": 1780.16,
+      "end": 1785.1200000000001,
+      "text": "head, where they can be infinitely patient, and they can find all that information. And if you think"
+    },
+    {
+      "start": 1785.1200000000001,
+      "end": 1790.24,
+      "text": "about a world where today, the way we work is we open up our phone, and we're going to go to our"
+    },
+    {
+      "start": 1790.24,
+      "end": 1797.68,
+      "text": "trusted app to go in and find how to get a pizza, how to get a ride, how to book a hotel."
+    },
+    {
+      "start": 1798.24,
+      "end": 1802.96,
+      "text": "But in the world that is coming, in the world that in the reason I came to this thesis is because"
+    },
+    {
+      "start": 1802.96,
+      "end": 1806.5600000000002,
+      "text": "I'm kind of living in this world already, where I'm running agents for all these things,"
+    },
+    {
+      "start": 1806.5600000000002,
+      "end": 1811.7600000000002,
+      "text": "it just fundamentally changes how you behave. Where your phone, imagine, let's say it's a year"
+    },
+    {
+      "start": 1811.92,
+      "end": 1816.0,
+      "text": "from now, and either this is happening on your Android phone or using Gemini or using chat"
+    },
+    {
+      "start": 1816.0,
+      "end": 1822.32,
+      "text": "GPT, and instead of opening up the DoorDash app, opening up the Uber app, opening up the booking app"
+    },
+    {
+      "start": 1822.32,
+      "end": 1829.68,
+      "text": "to book something, you just speak into your AI or into your phone, order me a pizza from Joe's,"
+    },
+    {
+      "start": 1830.24,
+      "end": 1837.28,
+      "text": "book me a four star hotel in Boston for me and my family, and it does the rest. That's the world"
+    },
+    {
+      "start": 1837.84,
+      "end": 1841.84,
+      "text": "we're rapidly moving to. In a lot of cases, I'm able to do a few of those things today,"
+    },
+    {
+      "start": 1842.3999999999999,
+      "end": 1849.28,
+      "text": "and that world will be one where all of those intermediation steps that created some of"
+    },
+    {
+      "start": 1849.28,
+      "end": 1853.52,
+      "text": "the largest companies in the world and created some of the big, what was historically perceived"
+    },
+    {
+      "start": 1853.52,
+      "end": 1857.68,
+      "text": "as some of the biggest moats in the world will essentially be completely flipped on its head."
+    },
+    {
+      "start": 1857.68,
+      "end": 1860.6399999999999,
+      "text": "Or all those businesses are going to go away, of course not. They're going to adapt,"
+    },
+    {
+      "start": 1860.6399999999999,
+      "end": 1865.92,
+      "text": "and there's going to be new opportunities, but there is going to be a huge sort of aggregation"
+    },
+    {
+      "start": 1865.92,
+      "end": 1871.28,
+      "text": "of demand into these companies that are driving the intent, and it will make humans way more productive,"
+    },
+    {
+      "start": 1871.28,
+      "end": 1874.96,
+      "text": "we'll be able to get way more done, we'll be way more efficient, but it will also mean that"
+    },
+    {
+      "start": 1874.96,
+      "end": 1879.52,
+      "text": "we don't have to pay any of the taxes of an intermediation layer, and so most of the internet"
+    },
+    {
+      "start": 1879.52,
+      "end": 1884.0800000000002,
+      "text": "is an intermediation layer. The other place that is a huge intermediation layer is financial"
+    },
+    {
+      "start": 1884.0800000000002,
+      "end": 1889.1200000000001,
+      "text": "services. Most of the financial services that we consume again, we have our trusted partner,"
+    },
+    {
+      "start": 1889.1200000000001,
+      "end": 1893.76,
+      "text": "we use our banks for all kinds of things, we use a few other insurance brokers and whatnot"
+    },
+    {
+      "start": 1893.76,
+      "end": 1898.72,
+      "text": "to buy most of the information, the financial products that we require, but it's the same thing,"
+    },
+    {
+      "start": 1898.72,
+      "end": 1904.0,
+      "text": "it's because you and I don't want to read the 20 pages of an insurance contract to understand"
+    },
+    {
+      "start": 1904.0,
+      "end": 1909.44,
+      "text": "what the pros and cons are, and last year I had this insurance contract, I probably didn't use it,"
+    },
+    {
+      "start": 1909.44,
+      "end": 1915.04,
+      "text": "I'll just renew and I'll go along my merry way, whereas instead the agent's going to be able to find"
+    },
+    {
+      "start": 1915.04,
+      "end": 1919.84,
+      "text": "A, it's going to be able to find the best contract, but it also is then going to be able to iteratively"
+    },
+    {
+      "start": 1919.92,
+      "end": 1925.3600000000001,
+      "text": "negotiate on your behalf to find the one that is willing to give you the best deal, you know,"
+    },
+    {
+      "start": 1925.3600000000001,
+      "end": 1929.8400000000001,
+      "text": "the most product for the least money. And so you put that together across these industries,"
+    },
+    {
+      "start": 1929.8400000000001,
+      "end": 1934.8000000000002,
+      "text": "like around internet and financial services, it's a huge percentage of our market cap and"
+    },
+    {
+      "start": 1934.8000000000002,
+      "end": 1939.5200000000002,
+      "text": "employment, and I do believe that a lot of that is going to have a huge, huge sort of negative"
+    },
+    {
+      "start": 1939.5200000000002,
+      "end": 1944.4800000000002,
+      "text": "impact from agents, which the really good news there though is most of those surplus is"
+    },
+    {
+      "start": 1944.4800000000002,
+      "end": 1948.4800000000002,
+      "text": "are going to flow back to individual consumers, and that will hopefully"
+    },
+    {
+      "start": 1948.48,
+      "end": 1951.52,
+      "text": "cushion some of the blow from potential job losses as well."
+    },
+    {
+      "start": 1951.52,
+      "end": 1955.76,
+      "text": "Okay, so let's, I think we've certainly capable of revisiting some of the negative"
+    },
+    {
+      "start": 1955.76,
+      "end": 1959.2,
+      "text": "knock on effects, and we haven't even really talked about the doom loop that you guys"
+    },
+    {
+      "start": 1959.92,
+      "end": 1966.24,
+      "text": "wrote about, which you touched on early on in the conversation. What are the skill sets that you"
+    },
+    {
+      "start": 1966.24,
+      "end": 1971.6,
+      "text": "envision that will be advantaged or are advantaged in this world, and that will become more advantaged?"
+    },
+    {
+      "start": 1971.6,
+      "end": 1976.0,
+      "text": "The skill sets, and if you want to, you can describe them also as jobs, but I mean,"
+    },
+    {
+      "start": 1976.0,
+      "end": 1980.48,
+      "text": "more fundamentally, who are the individuals that are going to be well positioned in this world?"
+    },
+    {
+      "start": 1981.04,
+      "end": 1989.68,
+      "text": "People who are agentic by nature, who are able to use the AIs, and ultimately, what does that"
+    },
+    {
+      "start": 1989.68,
+      "end": 1992.8,
+      "text": "mean? Because I've heard that term used a lot, and I don't really understand it. I mean, it sounds"
+    },
+    {
+      "start": 1992.8,
+      "end": 1997.12,
+      "text": "like they're saying basically people that are conscious, but even that doesn't quite track with me."
+    },
+    {
+      "start": 1997.12,
+      "end": 2001.92,
+      "text": "People with initiative, first and foremost, I guess what I would say is, you know, if you have a"
+    },
+    {
+      "start": 2001.92,
+      "end": 2008.3200000000002,
+      "text": "vision of a thing you want to do, a thing you want to build, these AIs are so empowering in a way"
+    },
+    {
+      "start": 2008.3200000000002,
+      "end": 2012.64,
+      "text": "that nothing else has been. You know, the company that you previously could not have started,"
+    },
+    {
+      "start": 2013.2,
+      "end": 2018.72,
+      "text": "now you can start, you know, with essentially a cloud subscription, right? Previously, you'd require"
+    },
+    {
+      "start": 2018.72,
+      "end": 2023.2,
+      "text": "people to help you build the product and people to help you market it and people to help you serve"
+    },
+    {
+      "start": 2023.2,
+      "end": 2027.6000000000001,
+      "text": "your customers. Those people are still required, but you need a lot fewer of them, and especially to"
+    },
+    {
+      "start": 2027.6000000000001,
+      "end": 2032.96,
+      "text": "get started, it's really powerful to just be able to come in and say, hey, like, build me this"
+    },
+    {
+      "start": 2032.96,
+      "end": 2039.5200000000002,
+      "text": "thing, find me, these customers, help sell these customers. That is the most promising and exciting"
+    },
+    {
+      "start": 2039.5200000000002,
+      "end": 2044.4,
+      "text": "part of where we are today with AI, and it's only going to get more powerful. So people who have"
+    },
+    {
+      "start": 2044.4,
+      "end": 2048.48,
+      "text": "that initiative, that have that vision, that in the past, you know, really just wouldn't have had"
+    },
+    {
+      "start": 2048.48,
+      "end": 2053.92,
+      "text": "the capital to go and build these companies. Now, the capital requirements are way, way smaller."
+    },
+    {
+      "start": 2054.0,
+      "end": 2058.16,
+      "text": "At the same time, there are more dollars available for these sorts of entrepreneurship."
+    },
+    {
+      "start": 2058.16,
+      "end": 2062.08,
+      "text": "Just to make that more concrete and tangible for people, are you essentially saying that"
+    },
+    {
+      "start": 2062.08,
+      "end": 2066.96,
+      "text": "people who possess the skill set that's commonly seen in entrepreneurs are going to be"
+    },
+    {
+      "start": 2066.96,
+      "end": 2073.2000000000003,
+      "text": "advantaged, or is there something that we can distill even further in this notion of, you know,"
+    },
+    {
+      "start": 2073.2000000000003,
+      "end": 2078.56,
+      "text": "being ambitious, being driven, being uninhibited, having initiative, people with the entrepreneurial"
+    },
+    {
+      "start": 2078.56,
+      "end": 2083.52,
+      "text": "skill set absolutely are going to be hugely empowered. But ultimately, I think this is something"
+    },
+    {
+      "start": 2083.52,
+      "end": 2087.04,
+      "text": "that we as society need to embrace, and, you know, our education system, especially needs to"
+    },
+    {
+      "start": 2087.04,
+      "end": 2092.88,
+      "text": "embrace, is the skill set of entrepreneurship needs to become much more broadly distributed"
+    },
+    {
+      "start": 2092.88,
+      "end": 2098.48,
+      "text": "and taught, because that is the skill that I think will become most important in our society,"
+    },
+    {
+      "start": 2098.48,
+      "end": 2105.68,
+      "text": "is that initiative is the way that you would direct your AI, your set of agents,"
+    },
+    {
+      "start": 2105.68,
+      "end": 2109.84,
+      "text": "to bring about a new product, new change in the world. And that's not just, you know,"
+    },
+    {
+      "start": 2109.84,
+      "end": 2117.28,
+      "text": "in a business sense, it's true for any sort of pursuit, where the ability to direct AI in a way"
+    },
+    {
+      "start": 2117.28,
+      "end": 2121.44,
+      "text": "where you understand what it's good at, what it's not good at, and how that maps against, you know,"
+    },
+    {
+      "start": 2121.44,
+      "end": 2126.0,
+      "text": "whatever the requirements of your customer are, or of, you know, a cause that you're working on,"
+    },
+    {
+      "start": 2126.0,
+      "end": 2130.2400000000002,
+      "text": "it's sort of the most important skill, and it's not one that's necessarily being taught in school today."
+    },
+    {
+      "start": 2130.2400000000002,
+      "end": 2134.56,
+      "text": "It's not even one that's necessarily being taught in the workplace today, but it is becoming"
+    },
+    {
+      "start": 2134.56,
+      "end": 2139.6000000000004,
+      "text": "increasingly important. So this idea of sort of AI and agentech literacy is in a lot of ways"
+    },
+    {
+      "start": 2139.6,
+      "end": 2144.48,
+      "text": "going to be upstream of just being a productive human in society."
+    },
+    {
+      "start": 2144.48,
+      "end": 2148.56,
+      "text": "Yeah. So no, I'm glad you borrowed my education, because I think there are both huge opportunities"
+    },
+    {
+      "start": 2148.56,
+      "end": 2151.92,
+      "text": "there, and it's also very exciting what can happen. And I also agree, and we're going to have a"
+    },
+    {
+      "start": 2151.92,
+      "end": 2158.3199999999997,
+      "text": "chance to talk about this, about the need for reform at the state of the social compact, you know,"
+    },
+    {
+      "start": 2158.3199999999997,
+      "end": 2165.2,
+      "text": "the social contract. But I still don't understand why, because I, in a world where individuals who are,"
+    },
+    {
+      "start": 2165.2,
+      "end": 2171.68,
+      "text": "let's say, have, will be more commonly think of as the entrepreneurial skill set are advantaged."
+    },
+    {
+      "start": 2171.68,
+      "end": 2179.04,
+      "text": "I don't understand why that advantage, which seems to be unique to human beings based on my"
+    },
+    {
+      "start": 2179.04,
+      "end": 2184.7999999999997,
+      "text": "extrapolation of your argument around the differentiation of agency, why that doesn't become"
+    },
+    {
+      "start": 2184.7999999999997,
+      "end": 2189.3599999999997,
+      "text": "one of the new pillars around which society is organized, or the gains of the new economy"
+    },
+    {
+      "start": 2189.3599999999997,
+      "end": 2194.08,
+      "text": "are distributed. It becomes a new source of competitive advantage. That's what I'm not understanding."
+    },
+    {
+      "start": 2194.24,
+      "end": 2198.72,
+      "text": "In other words, I feel like there's so much that I don't understand and can't imagine"
+    },
+    {
+      "start": 2198.72,
+      "end": 2203.92,
+      "text": "about what the new economy is going to look like. And you're not the only one. This is a common"
+    },
+    {
+      "start": 2203.92,
+      "end": 2208.64,
+      "text": "view. So, right, like your article hit on a nerve, and a lot of people are worried about this."
+    },
+    {
+      "start": 2208.64,
+      "end": 2214.4,
+      "text": "And again, I want to emphasize further that when I have seen some of the things that Claude can do,"
+    },
+    {
+      "start": 2214.4,
+      "end": 2220.64,
+      "text": "I've had moments where I look inside and look at my business, I say, am I going to be replaced"
+    },
+    {
+      "start": 2220.72,
+      "end": 2225.8399999999997,
+      "text": "when I see notebook LM having two hosts talking about a topic. I'm like, what is the value that I"
+    },
+    {
+      "start": 2225.8399999999997,
+      "end": 2230.48,
+      "text": "provide? But in each of those situations, I ultimately look inside of myself and I say, okay,"
+    },
+    {
+      "start": 2230.48,
+      "end": 2235.12,
+      "text": "I may not know how this thing is going to evolve, but I have to have some faith that I'll be able"
+    },
+    {
+      "start": 2235.12,
+      "end": 2240.08,
+      "text": "to navigate it. And I just think we haven't seen anything like this in so long that we don't"
+    },
+    {
+      "start": 2240.08,
+      "end": 2244.56,
+      "text": "appreciate how frightening some of the previous waves were, where I would certainly agree is this"
+    },
+    {
+      "start": 2244.56,
+      "end": 2250.3199999999997,
+      "text": "one does seem to be moving faster. But just why do you feel so confident that these areas that you've"
+    },
+    {
+      "start": 2250.32,
+      "end": 2257.6000000000004,
+      "text": "already identified as being points of differentiation between human beings and AI are not the new focal"
+    },
+    {
+      "start": 2257.6000000000004,
+      "end": 2264.0800000000004,
+      "text": "point around which the gains of this technology will be organized and distributed. It's the distribution"
+    },
+    {
+      "start": 2264.0800000000004,
+      "end": 2271.1200000000003,
+      "text": "that's the problem because the gains for folks like you and I are going to be very significant,"
+    },
+    {
+      "start": 2271.1200000000003,
+      "end": 2277.52,
+      "text": "but if you and I operating at the levels that we do are having real existential questions around,"
+    },
+    {
+      "start": 2277.7599999999998,
+      "end": 2282.88,
+      "text": "what am I going to be doing in a few years time if this technology continues progressing it"
+    },
+    {
+      "start": 2282.88,
+      "end": 2287.36,
+      "text": "on a similar rate. Then what's going to happen, a great example I'll give you is what's going to"
+    },
+    {
+      "start": 2287.36,
+      "end": 2294.4,
+      "text": "happen to the person who just graduated from college at like a second or third tier university"
+    },
+    {
+      "start": 2294.4,
+      "end": 2301.44,
+      "text": "with a mediocre GPA within that college, right? We're already seeing a world where historically"
+    },
+    {
+      "start": 2302.4,
+      "end": 2308.64,
+      "text": "young people coming out of college historically had much better unemployment rates than older folks"
+    },
+    {
+      "start": 2308.64,
+      "end": 2314.2400000000002,
+      "text": "and that has very definitively flipped since 2023 and has gotten worse and worse every month."
+    },
+    {
+      "start": 2314.2400000000002,
+      "end": 2318.08,
+      "text": "I'm seeing this in my own business and I talk to friends who run companies and we see the same thing"
+    },
+    {
+      "start": 2318.08,
+      "end": 2325.28,
+      "text": "where historically you would invest in someone early on and they would take five to ten years to"
+    },
+    {
+      "start": 2325.28,
+      "end": 2330.56,
+      "text": "really come up the curve and become some of your best performers when they got into their 30s."
+    },
+    {
+      "start": 2330.88,
+      "end": 2335.7599999999998,
+      "text": "Now that ladder is just being pulled up for folks like that and part of that is other parts of"
+    },
+    {
+      "start": 2335.7599999999998,
+      "end": 2339.84,
+      "text": "our economy having issues, but the ultimate driver of that I think is AI. There's a lot of data to"
+    },
+    {
+      "start": 2339.84,
+      "end": 2345.7599999999998,
+      "text": "suggest that it is AI because that person in the first few years of their tenure are ultimately a"
+    },
+    {
+      "start": 2345.7599999999998,
+      "end": 2350.7999999999997,
+      "text": "bit of a drag on the organization and you're training them and investing in them for the long-term"
+    },
+    {
+      "start": 2350.7999999999997,
+      "end": 2356.72,
+      "text": "opportunity and in a world where AI can do especially that entry level work really well and a lot"
+    },
+    {
+      "start": 2356.7200000000003,
+      "end": 2362.0800000000004,
+      "text": "of cases better at a tiny fraction of the cost. You end up in a situation where those folks are"
+    },
+    {
+      "start": 2362.0800000000004,
+      "end": 2366.7200000000003,
+      "text": "just not going to be employed the way they have been in the past and so I think those folks are"
+    },
+    {
+      "start": 2366.7200000000003,
+      "end": 2370.4,
+      "text": "at the bottom of the distribution in terms of their skill set and their experience set"
+    },
+    {
+      "start": 2370.4,
+      "end": 2374.96,
+      "text": "and so it makes sense that that's where AI would hit first and we're very clearly seeing that"
+    },
+    {
+      "start": 2374.96,
+      "end": 2379.44,
+      "text": "it is biting and we can see it in our own day-to-day and we can see it in the numbers and so if"
+    },
+    {
+      "start": 2380.0800000000004,
+      "end": 2386.0000000000005,
+      "text": "those folks are proxy of AI today and AI's capabilities continue advancing in a significant rate"
+    },
+    {
+      "start": 2386.0,
+      "end": 2391.76,
+      "text": "then why isn't that going to essentially apply to more and more of the population as AI continues"
+    },
+    {
+      "start": 2391.76,
+      "end": 2396.0,
+      "text": "to improve that's ultimately you know I think what I'm most concerned about what gives me some"
+    },
+    {
+      "start": 2396.0,
+      "end": 2402.96,
+      "text": "confidence that this is a real risk. So let's talk about what are some of your proposed interventions"
+    },
+    {
+      "start": 2402.96,
+      "end": 2408.0,
+      "text": "which is what you cover in part three of the global intelligence crisis. What do you think needs"
+    },
+    {
+      "start": 2408.0,
+      "end": 2414.8,
+      "text": "to change what policies need to be instituted on the part of government in order to address the"
+    },
+    {
+      "start": 2415.6800000000003,
+      "end": 2420.32,
+      "text": "social fallout that will stem from the advancement of these technologies."
+    },
+    {
+      "start": 2420.32,
+      "end": 2425.44,
+      "text": "So the way that I've tried to structure this in part three of my piece is first and foremost"
+    },
+    {
+      "start": 2425.44,
+      "end": 2432.0,
+      "text": "to think about this not as if you were to rebuild our sort of economic system and taxation system"
+    },
+    {
+      "start": 2432.0,
+      "end": 2437.92,
+      "text": "for AI tabularasa there's a lot of aggressive things that you would do and I think we will end up"
+    },
+    {
+      "start": 2437.92,
+      "end": 2442.8,
+      "text": "in that world and we will be forced to do that at some point but I wanted to lay out a plan that"
+    },
+    {
+      "start": 2442.8,
+      "end": 2448.6400000000003,
+      "text": "was much more of the moment that might have an opportunity to be passed in the next few years"
+    },
+    {
+      "start": 2448.6400000000003,
+      "end": 2454.1600000000003,
+      "text": "as you know society and our political economy wakes up to where things are moving very quickly and"
+    },
+    {
+      "start": 2454.1600000000003,
+      "end": 2459.92,
+      "text": "so most of what we've proposed is more of an incremental you know let's change our existing rules"
+    },
+    {
+      "start": 2459.92,
+      "end": 2465.52,
+      "text": "in this way so that we might get better outcomes and so the first sort of obvious here is that"
+    },
+    {
+      "start": 2465.52,
+      "end": 2471.1200000000003,
+      "text": "we tax labor even today more than we tax AI we have you know social security and Medicaid taxes"
+    },
+    {
+      "start": 2471.12,
+      "end": 2477.2799999999997,
+      "text": "on labor that doesn't exist at all when you instead tax corporations and so we should fix that"
+    },
+    {
+      "start": 2477.2799999999997,
+      "end": 2482.3199999999997,
+      "text": "that should be the pretty easy fix when you say fix that what do you mean you mean reduce income"
+    },
+    {
+      "start": 2482.3199999999997,
+      "end": 2487.52,
+      "text": "tax versus capital gains tax no it's just you know if an agent does some work for you you know it"
+    },
+    {
+      "start": 2487.52,
+      "end": 2492.24,
+      "text": "doesn't really it doesn't get taxed in the way that if a human does work for you you know there's"
+    },
+    {
+      "start": 2492.24,
+      "end": 2497.44,
+      "text": "a seven or eight percent fight up plus Medicare tax on that and so the easiest way to do that is"
+    },
+    {
+      "start": 2497.44,
+      "end": 2502.0,
+      "text": "like measure an agent's work and put a similar tax on that in the same way that you would"
+    },
+    {
+      "start": 2502.0,
+      "end": 2505.92,
+      "text": "an employee because essentially the way that taxes some works today is you have"
+    },
+    {
+      "start": 2506.48,
+      "end": 2514.32,
+      "text": "incented corporations to outsource work from humans to any form of automation historically it was"
+    },
+    {
+      "start": 2514.32,
+      "end": 2519.12,
+      "text": "you know software and other forms of automation including you might even say sending things overseas"
+    },
+    {
+      "start": 2519.12,
+      "end": 2526.08,
+      "text": "and now we're increasingly inciting the use of AI rather than humans to do work and so that's a"
+    },
+    {
+      "start": 2526.08,
+      "end": 2530.7999999999997,
+      "text": "very simple fix that we think we should make and then the other side of that is we haven't really"
+    },
+    {
+      "start": 2531.6,
+      "end": 2538.88,
+      "text": "responded to the way the job markets have shifted over the last 20 years where it's no longer"
+    },
+    {
+      "start": 2538.88,
+      "end": 2544.24,
+      "text": "you know a world where you come in and you have a job for many decades and you build a career"
+    },
+    {
+      "start": 2544.24,
+      "end": 2549.12,
+      "text": "it's much more we have portfolios of careers and people are doing different things inside gigs and"
+    },
+    {
+      "start": 2549.12,
+      "end": 2553.36,
+      "text": "there's lots of just gig work that gig work doesn't come with any sort of benefits it doesn't come"
+    },
+    {
+      "start": 2553.36,
+      "end": 2557.52,
+      "text": "with any sort of social safety net and so a world where I think more and more of that is coming with"
+    },
+    {
+      "start": 2557.52,
+      "end": 2561.92,
+      "text": "AI we should recognize that and we should build some sort of benefit system that moves with you"
+    },
+    {
+      "start": 2561.92,
+      "end": 2566.88,
+      "text": "from job to job I think these are kind of very obvious no nonsense things that we should get done"
+    },
+    {
+      "start": 2566.88,
+      "end": 2572.32,
+      "text": "soon and I would argue that that suggestion also I think applies even to the pre-AI world you know"
+    },
+    {
+      "start": 2572.32,
+      "end": 2578.2400000000002,
+      "text": "the gig economy I think was itself made the case very well for something like that yeah it's been"
+    },
+    {
+      "start": 2578.2400000000002,
+      "end": 2582.08,
+      "text": "a long time coming obviously there's a bunch of vested interests that are pushing against that"
+    },
+    {
+      "start": 2582.08,
+      "end": 2586.16,
+      "text": "but I do think that the world that we're moving into with AI is going to give that a lot more"
+    },
+    {
+      "start": 2586.16,
+      "end": 2590.64,
+      "text": "momentum to actually get something done that's sort of step one really obvious no nonsense things the"
+    },
+    {
+      "start": 2590.64,
+      "end": 2596.48,
+      "text": "thing that I think ultimately matter more is what happens when AI starts accelerating from here and"
+    },
+    {
+      "start": 2596.48,
+      "end": 2603.92,
+      "text": "so the way that we've structured the plan is to focus on what is labor share of income and so labor"
+    },
+    {
+      "start": 2603.92,
+      "end": 2609.44,
+      "text": "share of income you know started out in the 60 plus percent range you know in the 80s and 90s and"
+    },
+    {
+      "start": 2609.44,
+      "end": 2613.92,
+      "text": "it's been trending down to around 54 percent today we say you know if that breaks definitively"
+    },
+    {
+      "start": 2613.92,
+      "end": 2618.96,
+      "text": "to the downside so close to 50 and certainly below that then a bunch of sort of new things should"
+    },
+    {
+      "start": 2618.96,
+      "end": 2624.48,
+      "text": "be triggered because essentially what that means is you know AI is continuing to zoom corporations"
+    },
+    {
+      "start": 2624.48,
+      "end": 2632.56,
+      "text": "are replacing human work increasingly with AI and in the process if we don't really focus on it"
+    },
+    {
+      "start": 2632.56,
+      "end": 2637.76,
+      "text": "is going to lead to a lot of the sort of scary scenarios that we're worried about and so in that"
+    },
+    {
+      "start": 2637.76,
+      "end": 2641.76,
+      "text": "world what needs to happen is there's a few different ways you could taxes right so Dario and"
+    },
+    {
+      "start": 2641.76,
+      "end": 2644.96,
+      "text": "others have talked about a token tax and you know I think there's a world in which that makes sense"
+    },
+    {
+      "start": 2644.96,
+      "end": 2650.0,
+      "text": "especially kind of the end state but for now the way we think about it is let's be really direct"
+    },
+    {
+      "start": 2650.0,
+      "end": 2654.5600000000004,
+      "text": "like Americans don't really like income taxes they don't like increased taxes on the rich and they"
+    },
+    {
+      "start": 2654.5600000000004,
+      "end": 2660.4,
+      "text": "don't really like wealth taxes they have a much less of a negative association with corporate taxes"
+    },
+    {
+      "start": 2660.4,
+      "end": 2667.28,
+      "text": "and in this world corporate taxes are the sort of ground zero of where the impact is coming from"
+    },
+    {
+      "start": 2667.28,
+      "end": 2671.52,
+      "text": "right those corporations are the ones that are you know replacing all those jobs with AI"
+    },
+    {
+      "start": 2671.52,
+      "end": 2675.6000000000004,
+      "text": "and so we should tax them more heavily we should specifically tax corporations that are doing that"
+    },
+    {
+      "start": 2675.6000000000004,
+      "end": 2681.2000000000003,
+      "text": "and easiest way to figure that out is the places where margins are just exploding right so if you're"
+    },
+    {
+      "start": 2681.2000000000003,
+      "end": 2685.6800000000003,
+      "text": "a company that is hiring more people your margins are steady your taxes shouldn't change at all"
+    },
+    {
+      "start": 2685.6800000000003,
+      "end": 2690.96,
+      "text": "but in a world where overall you know jobs are disappearing really fast then let's go directly"
+    },
+    {
+      "start": 2690.96,
+      "end": 2695.84,
+      "text": "to the source of where the jobs are disappearing the places where corporations are aggressively"
+    },
+    {
+      "start": 2695.84,
+      "end": 2701.6000000000004,
+      "text": "cutting humans and let's go and tax right there and take those taxes and make some of the humans"
+    },
+    {
+      "start": 2701.6000000000004,
+      "end": 2706.2400000000002,
+      "text": "that have lost their jobs and can't find new jobs because AI is continuing to accelerate you know"
+    },
+    {
+      "start": 2706.2400000000002,
+      "end": 2713.1200000000003,
+      "text": "essentially use the earned income tax credit framework to help those folks and initially the idea is"
+    },
+    {
+      "start": 2713.1200000000003,
+      "end": 2720.1600000000003,
+      "text": "don't make that a giveaway but instead make that just like the EITC focus on folks that find new"
+    },
+    {
+      "start": 2720.16,
+      "end": 2725.92,
+      "text": "jobs or new jobs are not available we're looking for new jobs who are re-skilling or doing sort of"
+    },
+    {
+      "start": 2725.92,
+      "end": 2731.6,
+      "text": "community service work so you know very much condition it on continuing to work in some sense"
+    },
+    {
+      "start": 2731.6,
+      "end": 2736.3999999999996,
+      "text": "but support those folks because you're likely in a world where the jobs are just not out there"
+    },
+    {
+      "start": 2737.04,
+      "end": 2742.24,
+      "text": "and so that we think about a sort of step one is tax corporations and use that to make some of the"
+    },
+    {
+      "start": 2742.24,
+      "end": 2749.2,
+      "text": "folks that lose their jobs whole in a world where things get worse than that we advocate for more"
+    },
+    {
+      "start": 2749.2000000000003,
+      "end": 2755.5200000000004,
+      "text": "of the same sort of taxation and focus that taxation on not just earned income tax credit type"
+    },
+    {
+      "start": 2756.0800000000004,
+      "end": 2762.0000000000005,
+      "text": "job support but more significant handouts and then what we call kind of an AI dividend fund which"
+    },
+    {
+      "start": 2762.0000000000005,
+      "end": 2766.5600000000004,
+      "text": "is you know like the Alaska permanent fund where you use some of the taxation and some of the"
+    },
+    {
+      "start": 2766.5600000000004,
+      "end": 2773.36,
+      "text": "spoils from AI to essentially kind of give every American some sort of a stake and something that"
+    },
+    {
+      "start": 2773.36,
+      "end": 2779.28,
+      "text": "isn't account that actually they can use this all will come from a world where GDP is zooming"
+    },
+    {
+      "start": 2779.28,
+      "end": 2784.88,
+      "text": "corporate profits are through the roof and we'll be able to afford more of those things so what are"
+    },
+    {
+      "start": 2784.88,
+      "end": 2789.44,
+      "text": "the investment implications obviously you don't want to be as we said in general you don't want to"
+    },
+    {
+      "start": 2789.44,
+      "end": 2795.6800000000003,
+      "text": "be a company that has benefited from the friction but like how do you formulate this into an investment"
+    },
+    {
+      "start": 2795.6800000000003,
+      "end": 2803.04,
+      "text": "thesis and how have you done that so the way that we talk about it in the piece is I believe there"
+    },
+    {
+      "start": 2803.04,
+      "end": 2810.96,
+      "text": "is a large synthetic short on the consumer economy that is inherent in the AI trade today so"
+    },
+    {
+      "start": 2811.68,
+      "end": 2818.8,
+      "text": "the flip side of semiconductors and anthropic going up every day is that the reason they're going up"
+    },
+    {
+      "start": 2818.8,
+      "end": 2824.64,
+      "text": "is because they're substituting for human labor and so today we're not seeing that yet because we're"
+    },
+    {
+      "start": 2824.64,
+      "end": 2828.8,
+      "text": "still in the first inning if we're in the third or the fourth inning of that and we're really starting"
+    },
+    {
+      "start": 2828.8,
+      "end": 2833.1200000000003,
+      "text": "to see that you're going to see that show up in consumer spending and show see that show up in"
+    },
+    {
+      "start": 2833.1200000000003,
+      "end": 2839.04,
+      "text": "jobs being reduced and especially spending retrenching even for folks who still have jobs and so"
+    },
+    {
+      "start": 2839.04,
+      "end": 2844.32,
+      "text": "that will be the other side of that barbell where semis keep going up but the consumer economy which"
+    },
+    {
+      "start": 2844.32,
+      "end": 2850.4,
+      "text": "is the bulk of the U.S. economy will suffer and so from an investment implication perspective before"
+    },
+    {
+      "start": 2850.4,
+      "end": 2856.0800000000004,
+      "text": "any of the policy gets passed to fix that the way I think about it is semiconductors and other parts"
+    },
+    {
+      "start": 2856.08,
+      "end": 2862.24,
+      "text": "of the AI complex are very clearly winners and will continue to be winners and anything that is"
+    },
+    {
+      "start": 2862.24,
+      "end": 2869.2799999999997,
+      "text": "focused on human wages and labor leading to consumer spending will be on the other side of that and"
+    },
+    {
+      "start": 2869.2799999999997,
+      "end": 2875.68,
+      "text": "so most of retail most of consumer most of the leisure economy and all the other sectors that serve"
+    },
+    {
+      "start": 2875.68,
+      "end": 2882.56,
+      "text": "those sectors like trucking and things like that are all going to suffer and so that is I think"
+    },
+    {
+      "start": 2882.64,
+      "end": 2886.88,
+      "text": "the clear sort of investment implication of V1 now what we need to think about or what are the"
+    },
+    {
+      "start": 2886.88,
+      "end": 2891.2799999999997,
+      "text": "knock on effects of all this happening and that's where you know I'm reasonably positive that"
+    },
+    {
+      "start": 2891.92,
+      "end": 2897.84,
+      "text": "as a society will be able to address this problem figure out the taxation and in the process you know"
+    },
+    {
+      "start": 2897.84,
+      "end": 2901.84,
+      "text": "kind of close that synthetic short which I think will be good for society will be good for the markets"
+    },
+    {
+      "start": 2901.84,
+      "end": 2906.32,
+      "text": "because ultimately it's unlikely we're going to have a market that keeps going up when you know"
+    },
+    {
+      "start": 2906.32,
+      "end": 2911.2799999999997,
+      "text": "semiconductors keep doing really well and most of the consumer economy continues slowing down"
+    },
+    {
+      "start": 2911.36,
+      "end": 2917.6000000000004,
+      "text": "that's going to lead to all kinds of weird recession like implications as well as ultimately"
+    },
+    {
+      "start": 2917.6000000000004,
+      "end": 2923.1200000000003,
+      "text": "the risk of AI catbacks and AI funding drying up. So one more question for you all up"
+    },
+    {
+      "start": 2923.1200000000003,
+      "end": 2926.2400000000002,
+      "text": "you mentioned to me I think you mentioned to me that you have another piece coming out is that"
+    },
+    {
+      "start": 2926.2400000000002,
+      "end": 2931.44,
+      "text": "right remember correctly you're working on a part four not necessarily a part four but a new"
+    },
+    {
+      "start": 2931.44,
+      "end": 2935.28,
+      "text": "new piece around yeah can you give us a preview of what your next piece is going to be about"
+    },
+    {
+      "start": 2935.28,
+      "end": 2940.7200000000003,
+      "text": "sure thinking through what we've just talked about in terms of you know where our political"
+    },
+    {
+      "start": 2940.7200000000003,
+      "end": 2946.5600000000004,
+      "text": "economy will go and how we navigate this transition if it comes to pass the way that we expect"
+    },
+    {
+      "start": 2946.5600000000004,
+      "end": 2952.96,
+      "text": "it might the pieces is really focusing on what we believe to be a new sort of alignment a political"
+    },
+    {
+      "start": 2952.96,
+      "end": 2960.32,
+      "text": "alignment that's likely to arise from AI and the idea is historically you know you've had the left"
+    },
+    {
+      "start": 2960.32,
+      "end": 2967.76,
+      "text": "and the right and you know they both have very different beliefs on both cultural issues as well"
+    },
+    {
+      "start": 2967.76,
+      "end": 2974.48,
+      "text": "as economic issues and so on the economic side you know the right was focused on lower taxation"
+    },
+    {
+      "start": 2975.1200000000003,
+      "end": 2981.6000000000004,
+      "text": "less redistribution and generally kind of more open laws a fair economics and the left is focused"
+    },
+    {
+      "start": 2981.6000000000004,
+      "end": 2987.44,
+      "text": "on the opposite of that more redistribution and more regulation we have this very interesting"
+    },
+    {
+      "start": 2987.44,
+      "end": 2996.0,
+      "text": "situation arising right now where if AI continues progressing and jobs to get hit in a way"
+    },
+    {
+      "start": 2996.0,
+      "end": 3001.28,
+      "text": "that we expect they will you know the cultural alignment will not change but I do believe that"
+    },
+    {
+      "start": 3001.28,
+      "end": 3006.88,
+      "text": "there could be a significant sort of realignment when it comes to economic policies in a lot of ways"
+    },
+    {
+      "start": 3006.88,
+      "end": 3011.52,
+      "text": "you can think about folks that are voting for the right who are not wealthy who are the majority"
+    },
+    {
+      "start": 3011.52,
+      "end": 3017.2,
+      "text": "of the electorate on the right today as folks that are voting primarily for social issues"
+    },
+    {
+      "start": 3017.76,
+      "end": 3023.04,
+      "text": "at the expense of economic issues and that's something that you can afford to do in a world where"
+    },
+    {
+      "start": 3023.04,
+      "end": 3028.88,
+      "text": "you have a stable economy you have a job in a world where your jobs are gone or are not stable"
+    },
+    {
+      "start": 3029.44,
+      "end": 3034.08,
+      "text": "you have to start focusing on that first and foremost to put money on the table day to day"
+    },
+    {
+      "start": 3034.08,
+      "end": 3039.52,
+      "text": "and so in that world we expect a real opportunity from a redistribution perspective for both the left"
+    },
+    {
+      "start": 3039.52,
+      "end": 3044.32,
+      "text": "and the right to move to the left to essentially say you know if your politician on the right you"
+    },
+    {
+      "start": 3044.32,
+      "end": 3049.44,
+      "text": "know we're going to be focused on traditional cultural values but we need to react to AI"
+    },
+    {
+      "start": 3050.08,
+      "end": 3054.88,
+      "text": "by having a real social safety net because if not you know the wheels are going to fall off and"
+    },
+    {
+      "start": 3054.88,
+      "end": 3059.44,
+      "text": "ultimately you know you're going to lose the majority of your voting base and so in the process"
+    },
+    {
+      "start": 3059.44,
+      "end": 3065.04,
+      "text": "I think the left is likely to move significantly more left in terms of redistribution I also believe"
+    },
+    {
+      "start": 3065.04,
+      "end": 3069.92,
+      "text": "that the right is going to move significantly left on those redistribution issues certainly not"
+    },
+    {
+      "start": 3069.92,
+      "end": 3075.44,
+      "text": "as far left as the left will but both parties will move significantly to the left because that's"
+    },
+    {
+      "start": 3075.44,
+      "end": 3081.36,
+      "text": "the only logical replacement AI and in a lot of ways that's the only way that the thing that"
+    },
+    {
+      "start": 3081.36,
+      "end": 3086.08,
+      "text": "we're talking about in part three can actually come to pass because today's political"
+    },
+    {
+      "start": 3086.08,
+      "end": 3092.4,
+      "text": "I'm it probably won't get that done but as jobs continue to road it's something where you know politicians"
+    },
+    {
+      "start": 3092.4,
+      "end": 3097.68,
+      "text": "are going to become much much more responsive to that and so the belief there is you know"
+    },
+    {
+      "start": 3097.68,
+      "end": 3104.2400000000002,
+      "text": "I think already AI has gone from issue number 10 or something in terms of voters focused to I"
+    },
+    {
+      "start": 3104.2400000000002,
+      "end": 3111.1200000000003,
+      "text": "think three or four today and I believe you know by the midterms it's going to be you know top two"
+    },
+    {
+      "start": 3111.1200000000003,
+      "end": 3117.1200000000003,
+      "text": "top three issue and by 2028 I think it's going to be the only issue that matters because it's moving"
+    },
+    {
+      "start": 3117.1200000000003,
+      "end": 3122.4,
+      "text": "that fast it's that clear to everyone what's happening and you know it's just a fundamental risk to"
+    },
+    {
+      "start": 3122.4,
+      "end": 3128.0000000000005,
+      "text": "sort of everything underlying our jobs our economy and ultimately kind of security of an individual"
+    },
+    {
+      "start": 3128.72,
+      "end": 3134.4,
+      "text": "so I really appreciate you coming on the show all up and I especially appreciated part two of"
+    },
+    {
+      "start": 3134.4,
+      "end": 3140.48,
+      "text": "your three-part series as I if I didn't already say this I should have despite remaining"
+    },
+    {
+      "start": 3140.48,
+      "end": 3145.84,
+      "text": "convinced about some of your assertions including the determinism around job losses and the"
+    },
+    {
+      "start": 3145.84,
+      "end": 3152.16,
+      "text": "substitutability of human general intelligence for machine intelligence because I think engaging"
+    },
+    {
+      "start": 3152.16,
+      "end": 3156.0,
+      "text": "in thought experiments like this is invaluable and the fact that it triggered so many people"
+    },
+    {
+      "start": 3156.64,
+      "end": 3162.8,
+      "text": "and generated such a deep emotional response is in and of itself I think a very powerful piece of"
+    },
+    {
+      "start": 3162.8,
+      "end": 3168.48,
+      "text": "information that speaks to just how significant this issue is and how little airtime the topic"
+    },
+    {
+      "start": 3168.48,
+      "end": 3174.08,
+      "text": "seems to be getting among the political class in fact I feel like politicians are treating this"
+    },
+    {
+      "start": 3174.08,
+      "end": 3179.04,
+      "text": "technology the same way they've been treating social media which is to say that they're paying"
+    },
+    {
+      "start": 3179.04,
+      "end": 3184.96,
+      "text": "lip service to people's concerns but doing nothing about them when the correct response should"
+    },
+    {
+      "start": 3184.96,
+      "end": 3190.7200000000003,
+      "text": "probably look more like our response to the pandemic or to the 2008 financial crisis though that"
+    },
+    {
+      "start": 3190.7200000000003,
+      "end": 3196.32,
+      "text": "would require a degree of preemptive action that I think is rarely seen in politics if people want"
+    },
+    {
+      "start": 3196.32,
+      "end": 3202.0,
+      "text": "to follow your work all up or read any future issues that you publish how can they do that primarily"
+    },
+    {
+      "start": 3202.0,
+      "end": 3211.36,
+      "text": "through X I'm all up shot one on X ALAP S H H and then also on sub stack all up shot ALAP S H H"
+    },
+    {
+      "start": 3211.44,
+      "end": 3215.6,
+      "text": "appreciate you having me it's been great chatting absolutely thank you so much for coming on the show"
+    },
+    {
+      "start": 3215.6,
+      "end": 3217.6800000000003,
+      "text": "cheers"
+    },
+    {
+      "start": 3217.6800000000003,
+      "end": 3224.6400000000003,
+      "text": "if you want to listen in on the rest of today's conversation head over to hiddenforces.io slash subscribe"
+    },
+    {
+      "start": 3224.6400000000003,
+      "end": 3229.76,
+      "text": "and join our premium feed if you want to join in on the conversation and become a member of the"
+    },
+    {
+      "start": 3229.76,
+      "end": 3235.52,
+      "text": "hidden forces genius community you can also do that through our subscriber page today's episode was"
+    },
+    {
+      "start": 3235.52,
+      "end": 3241.6,
+      "text": "produced by me and edited by stiliano de colaro for more episodes you can check out our website at"
+    },
+    {
+      "start": 3241.6,
+      "end": 3251.68,
+      "text": "hiddenforces.io you can follow me on twitter at cofinas and you can email me at info at hiddenforces.io"
+    },
+    {
+      "start": 3251.68,
+      "end": 3256.8,
+      "text": "as always thanks for listening we'll see you next time"
+    }
+  ]
+}

@@ -1,0 +1,1251 @@
+{
+  "id": "2e26aa1f243c7001",
+  "show": "All-In Podcast",
+  "theme": "Tech & AI",
+  "title": "Dan Dreyfus: America's Critical Minerals Crisis is Here",
+  "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_DanDreyfus_Ch.mp3?dest-id=1928300",
+  "source": "local-whisper",
+  "duration": 1462.9,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": "We've got Dan Dreyfus on the show. He's with Boranite Capital."
+    },
+    {
+      "start": 3.36,
+      "end": 8.16,
+      "text": "We're going to be measuring human progress by how much electricity we consume."
+    },
+    {
+      "start": 8.16,
+      "end": 12.88,
+      "text": "The semiconductor industry, I view that as an industrial or infrastructure company."
+    },
+    {
+      "start": 12.88,
+      "end": 18.0,
+      "text": "I mean, it's effectively a factory. We try to figure out where the world is going,"
+    },
+    {
+      "start": 18.72,
+      "end": 21.68,
+      "text": "and then we try to figure out what we're going to need to get there."
+    },
+    {
+      "start": 23.68,
+      "end": 29.28,
+      "text": "In the next 10 minutes, I am going to try to teach you about critical minerals."
+    },
+    {
+      "start": 30.0,
+      "end": 36.72,
+      "text": "Commodities are incredibly fragile infrastructure here in the U.S. that is going to require"
+    },
+    {
+      "start": 37.44,
+      "end": 44.64,
+      "text": "trillions and trillions of dollars of investment. If we want to achieve our technological"
+    },
+    {
+      "start": 44.64,
+      "end": 51.120000000000005,
+      "text": "objectives, our reshoring, reindustrialization objectives, and our national security"
+    },
+    {
+      "start": 51.120000000000005,
+      "end": 54.400000000000006,
+      "text": "and military objectives. But first, a little bit of history."
+    },
+    {
+      "start": 54.8,
+      "end": 60.72,
+      "text": "We are at a very significant inflection point right now"
+    },
+    {
+      "start": 61.68,
+      "end": 65.2,
+      "text": "in U.S. economic growth and what it's going to look like."
+    },
+    {
+      "start": 66.24,
+      "end": 72.8,
+      "text": "Really, from the early 2000s, until just a few years ago, the U.S. went through effectively"
+    },
+    {
+      "start": 72.8,
+      "end": 78.96000000000001,
+      "text": "what I think was an economic miracle, where we created so much growth, so much market cap,"
+    },
+    {
+      "start": 79.92,
+      "end": 86.32000000000001,
+      "text": "so much value without really having to invest any capital at all. I mean, think of all the"
+    },
+    {
+      "start": 86.32000000000001,
+      "end": 91.28,
+      "text": "companies that were created with no capital. You had Google with the search engine. You had"
+    },
+    {
+      "start": 91.28,
+      "end": 97.68,
+      "text": "meta with social media. They bought WhatsApp for $30 billion with 12 employees. No capital whatsoever."
+    },
+    {
+      "start": 97.68,
+      "end": 102.72000000000001,
+      "text": "You had the streaming platforms. You had the food delivery platforms. You had Apple Computer,"
+    },
+    {
+      "start": 102.72000000000001,
+      "end": 106.80000000000001,
+      "text": "which was capital-like, created trillions of market cap. You had software as a service."
+    },
+    {
+      "start": 107.6,
+      "end": 113.75999999999999,
+      "text": "Absolutely, no capital required to create all that value. And at the same time,"
+    },
+    {
+      "start": 113.75999999999999,
+      "end": 119.84,
+      "text": "we were creating these companies. At the same time, we were doing that. We were literally"
+    },
+    {
+      "start": 119.84,
+      "end": 127.44,
+      "text": "tearing down all of our critical infrastructure and moving it overseas to China."
+    },
+    {
+      "start": 128.16,
+      "end": 133.68,
+      "text": "So we were really doubling down on that capital-light mentality. But then it started to come back"
+    },
+    {
+      "start": 133.68,
+      "end": 138.64000000000001,
+      "text": "to bite us. We had COVID. We had the Russia Ukraine conflict. We had the tariffs."
+    },
+    {
+      "start": 138.64000000000001,
+      "end": 143.92000000000002,
+      "text": "Now we have the Iranian conflict. And every time we had one of these geopolitical flare-ups,"
+    },
+    {
+      "start": 145.20000000000002,
+      "end": 151.28,
+      "text": "inflation spiked like a rocket. You need a telescope to see how high inflation went. And it never"
+    },
+    {
+      "start": 151.28,
+      "end": 159.68,
+      "text": "came down. And the reason for that is we let our supply chains get way too fragile and way too"
+    },
+    {
+      "start": 159.68,
+      "end": 166.16,
+      "text": "weak. And there's no resiliency in the supply chains. And now we're at this inflection point"
+    },
+    {
+      "start": 166.16,
+      "end": 171.44,
+      "text": "where we want to reassure everything that we tore down and moved to China. We want to"
+    },
+    {
+      "start": 171.44,
+      "end": 178.48000000000002,
+      "text": "re-industrialize. We have this technological compute revolution that is infinitely more"
+    },
+    {
+      "start": 178.48000000000002,
+      "end": 185.68,
+      "text": "infrastructure intensive than compute was in the last generations. And this is creating"
+    },
+    {
+      "start": 185.68,
+      "end": 192.24,
+      "text": "this really wild demand shock for infrastructural, critical minerals, commodities at the same time"
+    },
+    {
+      "start": 192.88,
+      "end": 196.88,
+      "text": "where there's a supply shock because we just haven't invested in this stuff for so long."
+    },
+    {
+      "start": 198.48000000000002,
+      "end": 206.0,
+      "text": "Now there are so many capital cycles going on at the same time. I've never seen this many"
+    },
+    {
+      "start": 206.0,
+      "end": 211.52,
+      "text": "going on at the same time in my career. We have the aerospace cycle. Boeing and Airbus have a"
+    },
+    {
+      "start": 211.52,
+      "end": 216.64000000000001,
+      "text": "trillion dollars of backlog over the next 10 years. Now throwing the space economy, which is"
+    },
+    {
+      "start": 216.64000000000001,
+      "end": 222.72,
+      "text": "going to compete for the exact same materials and backlog that Boeing and Airbus are trying to"
+    },
+    {
+      "start": 222.72,
+      "end": 231.12,
+      "text": "source, we have the grid. Anytime it gets a little bit cold in Texas, the Texas grid's not connected"
+    },
+    {
+      "start": 231.12,
+      "end": 235.04000000000002,
+      "text": "to the rest of the U.S. grid. Every time it gets a little bit cold, that grid shuts down and"
+    },
+    {
+      "start": 235.04,
+      "end": 242.88,
+      "text": "they're freezing in the dark. Then we've got here in California, Paradise, California, that"
+    },
+    {
+      "start": 242.88,
+      "end": 251.04,
+      "text": "power line that caught on fire, killed 300 people. Did you know that that power line was over 106"
+    },
+    {
+      "start": 251.04,
+      "end": 255.92,
+      "text": "years old? There's parts of the grid in this country that are over 106 years old. And here in"
+    },
+    {
+      "start": 255.92,
+      "end": 260.15999999999997,
+      "text": "California, we have half the people by electric cars or there's robot taxis and we all go and plug"
+    },
+    {
+      "start": 260.16,
+      "end": 265.36,
+      "text": "them in at 6 p.m. after work and turn up the air conditioning. We're just going to kill the grid."
+    },
+    {
+      "start": 265.36,
+      "end": 269.68,
+      "text": "Boom! We're going to kill it. We're all going to be sitting in the dark. So the grid barely works"
+    },
+    {
+      "start": 269.68,
+      "end": 275.20000000000005,
+      "text": "for what we need it for right now. And we haven't even started talking about the tsunami of demand,"
+    },
+    {
+      "start": 275.20000000000005,
+      "end": 280.96000000000004,
+      "text": "electricity demand that AI is going to bring. And there's power generation. You know, we've let China"
+    },
+    {
+      "start": 280.96000000000004,
+      "end": 287.6,
+      "text": "go and build multiples more power generation than what we have here. And this is a trillion dollar"
+    },
+    {
+      "start": 287.6,
+      "end": 292.48,
+      "text": "plus capital cycle that's probably going to be a trillion dollars every 10 years for the next 30"
+    },
+    {
+      "start": 292.48,
+      "end": 299.44,
+      "text": "years. Data centers, this is now a trillion dollars per year per year, all infrastructure, all"
+    },
+    {
+      "start": 299.44,
+      "end": 307.6,
+      "text": "commodities. Then there's semi-fabs. The CPU is making a huge resurgence. CPU intensity is going"
+    },
+    {
+      "start": 307.6,
+      "end": 313.44,
+      "text": "up like a rocket. And I bet you this number is way too low, 750 billion dollars. I bet you that's"
+    },
+    {
+      "start": 313.44,
+      "end": 318.32,
+      "text": "going to be measured in the trillions. And then there's defense, right? Everybody, you know,"
+    },
+    {
+      "start": 318.32,
+      "end": 322.64,
+      "text": "Taiwan's turned into a porcupine. Japan's raising their defense budgets. Europe's raising their"
+    },
+    {
+      "start": 322.64,
+      "end": 330.24,
+      "text": "defense budgets. The US raising their defense budgets. What the similarity is amongst all of these"
+    },
+    {
+      "start": 330.24,
+      "end": 339.6,
+      "text": "end markets is none of them will work without critical minerals. None of it. None of this can happen."
+    },
+    {
+      "start": 340.48,
+      "end": 349.84000000000003,
+      "text": "And so here's the problem. Last April, China announced that they were going to cut off"
+    },
+    {
+      "start": 349.84000000000003,
+      "end": 355.6,
+      "text": "exports of some critical materials to the US. Sumerium, Gandalinium, Turbium, Disprosium,"
+    },
+    {
+      "start": 355.6,
+      "end": 363.12,
+      "text": "Lytidium, Scandium, Yitrium, Urbium, Silver. Just cut it off. And we're close to a lot of big"
+    },
+    {
+      "start": 363.12,
+      "end": 370.48,
+      "text": "industrial supply chains. And the cutoff of Sumerium cobalt magnets, we learned that the Ford"
+    },
+    {
+      "start": 370.48,
+      "end": 375.84000000000003,
+      "text": "Motor Company was within days, literally days of their entire production line shutting down."
+    },
+    {
+      "start": 375.84000000000003,
+      "end": 382.4,
+      "text": "The whole Ford Motor Company. And same with McDonald Douglas too, by the way. And this put people in"
+    },
+    {
+      "start": 382.4,
+      "end": 391.6,
+      "text": "Department of War, Department of Energy into a panic. And to their credit, they're doing something"
+    },
+    {
+      "start": 391.6,
+      "end": 398.16,
+      "text": "really aggressive and really important. They are now going around to small resource owners"
+    },
+    {
+      "start": 398.16,
+      "end": 404.16,
+      "text": "across the US and into Canada. And they're knocking on the doors of these companies that were"
+    },
+    {
+      "start": 404.16,
+      "end": 410.16,
+      "text": "left for dead in the last 20 years. And they're saying, here is three pieces of paper. The first"
+    },
+    {
+      "start": 410.16,
+      "end": 414.8,
+      "text": "piece of paper is an equity check that we're investing into your company so that you can go and"
+    },
+    {
+      "start": 414.8,
+      "end": 420.96000000000004,
+      "text": "start converting your resource into a mine. And then the company says, oh, that's great. Wow,"
+    },
+    {
+      "start": 420.96000000000004,
+      "end": 425.36,
+      "text": "that's a shock. But you know, the problem is I've been waiting on my permit for the last 20 years."
+    },
+    {
+      "start": 425.36,
+      "end": 428.56000000000006,
+      "text": "Nobody wants to give me a permit. They say, oh, look at the second piece of paper. There's your"
+    },
+    {
+      "start": 428.56000000000006,
+      "end": 434.24,
+      "text": "permit. Go and start building right now. And then they show them a third piece of paper. And then"
+    },
+    {
+      "start": 434.24,
+      "end": 440.40000000000003,
+      "text": "the company says, what's this? And they say, this is an offtake agreement. Take or pay with the"
+    },
+    {
+      "start": 440.40000000000003,
+      "end": 446.16,
+      "text": "minimum floor price. It's going to guarantee you a very high internal rate of return on your project"
+    },
+    {
+      "start": 446.16,
+      "end": 450.48,
+      "text": "where you can keep all the upside above the minimum price. But here's the minimum price that you"
+    },
+    {
+      "start": 450.48,
+      "end": 454.64000000000004,
+      "text": "can go out and raise a bunch of capital to get this thing fast-tracked and up and running."
+    },
+    {
+      "start": 454.64000000000004,
+      "end": 463.04,
+      "text": "Now, China has an absolute grip. It's absolute on all of these critical minerals. And it's going to"
+    },
+    {
+      "start": 463.04,
+      "end": 469.12,
+      "text": "take at least 10 years, probably 20 to catch up. But we got to start somewhere because we just can't"
+    },
+    {
+      "start": 469.12,
+      "end": 474.32,
+      "text": "have China leading over us and squeezing our testicles every time that we don't do something that they"
+    },
+    {
+      "start": 474.32,
+      "end": 477.68,
+      "text": "don't like and say, we're going to cut off your exports. We're going to cut off our exports"
+    },
+    {
+      "start": 477.68,
+      "end": 481.68,
+      "text": "of critical minerals and you guys are going to freeze in the dark. So I give a lot of credit to"
+    },
+    {
+      "start": 481.68,
+      "end": 486.8,
+      "text": "the administration for doing this. And really, I've done commodities now for 25 years. And I've"
+    },
+    {
+      "start": 486.8,
+      "end": 492.0,
+      "text": "never seen something like this happen before. It's truly what I call a vujade moment, which is"
+    },
+    {
+      "start": 492.0,
+      "end": 495.44,
+      "text": "the overwhelming feeling that none of this has ever happened before."
+    },
+    {
+      "start": 497.68,
+      "end": 501.92,
+      "text": "So here's copper. This is the king of metals. This is just one example. We need copper for everything."
+    },
+    {
+      "start": 501.92,
+      "end": 508.0,
+      "text": "If we want clean energy, solar power per megawatt takes five times the amount of copper than a"
+    },
+    {
+      "start": 508.0,
+      "end": 515.6800000000001,
+      "text": "typical base load, CCGT, gas fire turbine, same with wind, seven times the copper, data centers for"
+    },
+    {
+      "start": 515.6800000000001,
+      "end": 522.48,
+      "text": "a one gigawatt AI factory now. You need 50,000 tons of copper per gigawatt. And we're going to start"
+    },
+    {
+      "start": 522.48,
+      "end": 528.88,
+      "text": "building 15 gigawatts of these things per year, per year. So 50,000 tons per gigawatt at 15 gigawatts"
+    },
+    {
+      "start": 528.88,
+      "end": 533.12,
+      "text": "is 750,000 tons of copper that we're going to eat for these things. Do you know what the copper"
+    },
+    {
+      "start": 533.12,
+      "end": 539.4399999999999,
+      "text": "supply was last year? It grew only 500,000 tons. And this is just the data centers. Then electric cars,"
+    },
+    {
+      "start": 539.4399999999999,
+      "end": 543.2,
+      "text": "you know, we're going to have robo taxis everywhere. And electric car consumes five or six times the"
+    },
+    {
+      "start": 543.2,
+      "end": 547.04,
+      "text": "copper than a traditional internal combustion engine. And then there's the military."
+    },
+    {
+      "start": 548.32,
+      "end": 555.6,
+      "text": "The Ukraine, Russia, Conflict, did you know that we used more explosives than in all of World War"
+    },
+    {
+      "start": 555.84,
+      "end": 562.08,
+      "text": "2? Do you know that? And there are artillery shells of these explosives. Guess what they're made of?"
+    },
+    {
+      "start": 562.72,
+      "end": 567.2,
+      "text": "One of them's called the copperhead, very cleverly named after a poisonous snake. They're all made"
+    },
+    {
+      "start": 567.2,
+      "end": 571.6800000000001,
+      "text": "of copper. Do you think we go into the battlefield and recycle that copper? No, that copper's gone. So"
+    },
+    {
+      "start": 571.6800000000001,
+      "end": 579.52,
+      "text": "we need these metals for everything that we do. Now where are we going to get it? Going back in human"
+    },
+    {
+      "start": 579.6,
+      "end": 590.4,
+      "text": "history to Mohenjo Daro, we have mined 700 million tons of copper, 700 million tons of copper over"
+    },
+    {
+      "start": 590.4,
+      "end": 596.0799999999999,
+      "text": "the past 10,000 years. Now 80% of that copper, we can probably get it all back if we wanted."
+    },
+    {
+      "start": 596.96,
+      "end": 601.68,
+      "text": "But what we'd have to do is we'd have to tear down this building, we'd have to rip up the grid,"
+    },
+    {
+      "start": 601.68,
+      "end": 606.48,
+      "text": "we'd have to tear down the buildings in Europe, in Japan, in China, and we could get all that copper"
+    },
+    {
+      "start": 606.48,
+      "end": 614.48,
+      "text": "back. Sure. Then we'd be doing this conference in a tent. So how are we going to get it? Well,"
+    },
+    {
+      "start": 617.12,
+      "end": 623.52,
+      "text": "right now, copper demand is 30 million tons per year. About 4 million of that supply comes from a"
+    },
+    {
+      "start": 623.52,
+      "end": 631.12,
+      "text": "cycle-coupled copper. The rest of it is 26 million tons as mined. And if we just grow in line with GDP,"
+    },
+    {
+      "start": 631.12,
+      "end": 637.68,
+      "text": "so forgetting about data center upside, forgetting about green energy solar upside, just growing at GDP"
+    },
+    {
+      "start": 637.68,
+      "end": 646.08,
+      "text": "like we used to, now listen carefully. That means over the next 18 years, we're going to need 700"
+    },
+    {
+      "start": 646.08,
+      "end": 651.92,
+      "text": "million tons of copper. Over the next 18 years, we're going to need as much copper as we mined in"
+    },
+    {
+      "start": 651.92,
+      "end": 658.64,
+      "text": "the last 10,000 years. That means we're going to need five world-class mega-tier one-minds coming"
+    },
+    {
+      "start": 658.64,
+      "end": 666.08,
+      "text": "online every single year. And you can go and grok this or chat GPT this. You can count on one hand"
+    },
+    {
+      "start": 666.08,
+      "end": 671.52,
+      "text": "and have some fingers left over. The number of tier one mines that are coming on between now"
+    },
+    {
+      "start": 671.52,
+      "end": 676.48,
+      "text": "and the end of the decade. So I don't know what they're going to do because it takes 7 to 12 years"
+    },
+    {
+      "start": 676.48,
+      "end": 681.6,
+      "text": "to build a copper mine. The existing copper mines are dying. You know, the big mines in Chile over"
+    },
+    {
+      "start": 681.6,
+      "end": 688.4,
+      "text": "a hundred years old, the grades are depleting. And this is going to be a major, major challenge"
+    },
+    {
+      "start": 688.4,
+      "end": 695.2,
+      "text": "in an upcoming bottleneck. Right? Today all the rage is in memory and HBM and NAND prices are going"
+    },
+    {
+      "start": 695.2,
+      "end": 700.16,
+      "text": "vertical because that's the bottleneck. Now if you want to look around the corner and see the next"
+    },
+    {
+      "start": 700.16,
+      "end": 709.44,
+      "text": "bottleneck coming, I strongly urge you to look at copper. And so here we are. A supply shock"
+    },
+    {
+      "start": 709.5200000000001,
+      "end": 716.0,
+      "text": "meets a demand shock. Commodity cycles typically last 15 years and have multiple 100s of upside."
+    },
+    {
+      "start": 716.0,
+      "end": 721.6800000000001,
+      "text": "We're only a few years into this. This is just really getting started. And I want to say one more"
+    },
+    {
+      "start": 721.6800000000001,
+      "end": 728.1600000000001,
+      "text": "thing. Right? We spoke about demand. We're having this demand shock. We spoke about supply. But what we"
+    },
+    {
+      "start": 728.1600000000001,
+      "end": 735.6,
+      "text": "haven't spoken about is how we're destroying the value of the US dollar. Since COVID, we have"
+    },
+    {
+      "start": 735.6,
+      "end": 741.44,
+      "text": "absolutely destroyed the value of our fiat currencies. Today we have $40 trillion of government debt"
+    },
+    {
+      "start": 741.44,
+      "end": 748.24,
+      "text": "that's growing at $2.5 trillion every year. On top of that, we have $100 trillion of discounted"
+    },
+    {
+      "start": 748.24,
+      "end": 753.6800000000001,
+      "text": "present value of the future social liability. So Medicare, Medicaid, Social Security,"
+    },
+    {
+      "start": 753.6800000000001,
+      "end": 758.8000000000001,
+      "text": "pensions, that's also growing by $2.5 trillion a year. So you have $2.5 trillion of growth on"
+    },
+    {
+      "start": 758.8000000000001,
+      "end": 764.08,
+      "text": "the federal debt, $2.5 trillion of growth on the social liabilities. The US government only has"
+    },
+    {
+      "start": 764.08,
+      "end": 768.72,
+      "text": "$5.5 trillion of tax receipts every year. And so what's going to happen the next time we have a"
+    },
+    {
+      "start": 768.72,
+      "end": 772.8000000000001,
+      "text": "recession where tax receipts go down and spending has to go up, we're going to print"
+    },
+    {
+      "start": 773.5200000000001,
+      "end": 779.2,
+      "text": "giga dollars. And in the 1970s, we had this problem as well. And the way we did it is we just debased"
+    },
+    {
+      "start": 779.2,
+      "end": 784.0,
+      "text": "the currency through some inflation, through some growth, and the currency lost 70% of its purchasing"
+    },
+    {
+      "start": 784.0,
+      "end": 790.96,
+      "text": "power. And commodities and hard assets and infrastructure will protect your purchasing power"
+    },
+    {
+      "start": 790.96,
+      "end": 796.72,
+      "text": "in that kind of environment. Go and look it up in the 1970s. What was the best performing asset class"
+    },
+    {
+      "start": 796.72,
+      "end": 805.44,
+      "text": "by a mile? That's your homework. So with that, thank you. And look forward to chatting with you guys."
+    },
+    {
+      "start": 805.44,
+      "end": 813.2,
+      "text": "Bob, I think on the prediction show, you did, was your call, I forget which category it was, but"
+    },
+    {
+      "start": 813.2,
+      "end": 818.08,
+      "text": "you definitely had the best performing asset was going to be copria. Yeah. Pretty bad. And that's"
+    },
+    {
+      "start": 818.08,
+      "end": 821.76,
+      "text": "before I talked to Dan. That's right. Which is saying something. Well, you know, I think the"
+    },
+    {
+      "start": 821.76,
+      "end": 826.72,
+      "text": "copper price is easily going to double from here. I mean, I've seen, I've seen molybdenum go from a"
+    },
+    {
+      "start": 826.72,
+      "end": 833.36,
+      "text": "dollar a pound to $33 a pound. So a double is no big deal. Yeah. And so take a take a step back."
+    },
+    {
+      "start": 833.36,
+      "end": 838.08,
+      "text": "You said something really interesting backstage, which is if you look at everything that we're doing"
+    },
+    {
+      "start": 838.08,
+      "end": 846.96,
+      "text": "right now, we're barely going to keep up with just the natural energy demands of humanity, right?"
+    },
+    {
+      "start": 846.96,
+      "end": 853.12,
+      "text": "Just explain that thesis the way that you framed it in the back. So here's the issue. We have not"
+    },
+    {
+      "start": 853.12,
+      "end": 859.2,
+      "text": "invested in upgrading and modernizing and hardening the electric grid since post-World War II."
+    },
+    {
+      "start": 859.84,
+      "end": 865.2,
+      "text": "We just let it go. You know, the last two, three, four administrations were sleepwalking"
+    },
+    {
+      "start": 865.9200000000001,
+      "end": 872.88,
+      "text": "and haven't done anything to harden this infrastructure. Now, if we simply just want to achieve our"
+    },
+    {
+      "start": 872.88,
+      "end": 880.4,
+      "text": "objectives to re-industrialize, re-sure, electrify. When I say electrify, that just means replacing your"
+    },
+    {
+      "start": 880.4,
+      "end": 884.56,
+      "text": "old gas boilers in these buildings with heat pumps, which every commercial building is doing,"
+    },
+    {
+      "start": 885.12,
+      "end": 892.16,
+      "text": "it means, you know, electric car penetration going up. It means using your electronic devices more,"
+    },
+    {
+      "start": 892.16,
+      "end": 899.6,
+      "text": "not even talking about AI. Not even talking about AI. We're going to have shortfalls just from that."
+    },
+    {
+      "start": 899.6,
+      "end": 903.52,
+      "text": "Just from living our lives. Just from living our lives. So what happens? Blackouts, brownouts,"
+    },
+    {
+      "start": 904.16,
+      "end": 910.64,
+      "text": "blackouts, brownouts, and we're going to have to do electricity prices. Rising electricity prices."
+    },
+    {
+      "start": 910.64,
+      "end": 915.76,
+      "text": "But, you know, you brought up a really great point I thought on one of your shows where"
+    },
+    {
+      "start": 916.4,
+      "end": 922.5600000000001,
+      "text": "you were talking about how the utilities are just really goosing up the cost to do everything so"
+    },
+    {
+      "start": 922.5600000000001,
+      "end": 927.6800000000001,
+      "text": "that they can report to their regulator and earn that ROE on the higher capital base. What's really"
+    },
+    {
+      "start": 927.6800000000001,
+      "end": 932.8000000000001,
+      "text": "interesting, I think, is really underappreciated, is that's where all the inflation is coming from."
+    },
+    {
+      "start": 932.8000000000001,
+      "end": 936.5600000000001,
+      "text": "It's from the transmission and distribution from the utility because power prices over the last"
+    },
+    {
+      "start": 936.5600000000001,
+      "end": 941.84,
+      "text": "20 years, even after the rise we've just had, power prices are still down. They're definitely down in"
+    },
+    {
+      "start": 941.84,
+      "end": 947.7600000000001,
+      "text": "real terms, but they haven't really gone up much in absolute terms. And so when you're talking about"
+    },
+    {
+      "start": 947.7600000000001,
+      "end": 954.6400000000001,
+      "text": "making it a cheap, making it is still cheap. But getting it more expensive. Getting it to people,"
+    },
+    {
+      "start": 954.64,
+      "end": 959.28,
+      "text": "because, you know, the labor, the labor by far and away is the biggest bottleneck, craft labor."
+    },
+    {
+      "start": 959.28,
+      "end": 964.72,
+      "text": "What do we tell all our kids to do? You know, in the last 10 or 15 years they're going to go to"
+    },
+    {
+      "start": 964.72,
+      "end": 971.84,
+      "text": "Stanford and come to the Northeast. Yeah, big mistake. And so I'm curious, from the audience,"
+    },
+    {
+      "start": 971.84,
+      "end": 978.8,
+      "text": "in your homes, how many people have put up solar and or power walls? How many people have actually"
+    },
+    {
+      "start": 978.8000000000001,
+      "end": 984.4000000000001,
+      "text": "done that? So that's about half the crowd. How many people's second question are planning to do"
+    },
+    {
+      "start": 984.4000000000001,
+      "end": 991.44,
+      "text": "that in the next year or two? Okay, so that's another 20%. So it's pretty obvious. This is obviously"
+    },
+    {
+      "start": 991.44,
+      "end": 998.48,
+      "text": "a fluent crowd. They are routing around the grid. Is the solution to this energy independence"
+    },
+    {
+      "start": 999.2,
+      "end": 1004.72,
+      "text": "in the- Great question. You know, the home in the business. Businesses are not waiting for the"
+    },
+    {
+      "start": 1004.72,
+      "end": 1010.64,
+      "text": "government. So maybe the grid is going to be like this weird archaic infrastructure. And it's just"
+    },
+    {
+      "start": 1010.64,
+      "end": 1015.12,
+      "text": "going to be a ground-up solution. Well, you're going to need the grid no matter what for industrial"
+    },
+    {
+      "start": 1015.12,
+      "end": 1020.88,
+      "text": "use. I mean, that's the foundation of industrial use. I mean, the scale of what we have to do just"
+    },
+    {
+      "start": 1020.88,
+      "end": 1026.96,
+      "text": "for industrial use. Here's a good step for you. So a one gigawatt AI factory if you wanted to do"
+    },
+    {
+      "start": 1026.96,
+      "end": 1031.44,
+      "text": "all solar, right? And I'm a big solar bull, okay? If you want to do all solar because solar's"
+    },
+    {
+      "start": 1031.44,
+      "end": 1036.4,
+      "text": "capacity factor is 20% because the sun doesn't shine all the time. With a capacity factor at 20%,"
+    },
+    {
+      "start": 1036.4,
+      "end": 1044.0,
+      "text": "a one gigawatt data center needs five gigawatts of solar. Each gigawatt of solar takes up 7,000 acres."
+    },
+    {
+      "start": 1044.0,
+      "end": 1048.3200000000002,
+      "text": "So at five gigawatts, that's 35,000 acres. That's bigger than San Francisco. So we're going to"
+    },
+    {
+      "start": 1048.3200000000002,
+      "end": 1052.0800000000002,
+      "text": "find the people. You know, we're going to find- That's the biggest bottleneck we have, by the way,"
+    },
+    {
+      "start": 1052.0800000000002,
+      "end": 1058.48,
+      "text": "is craft labor. Yeah. What about generally scarcity breeds innovation? There's been a conversation"
+    },
+    {
+      "start": 1058.48,
+      "end": 1064.24,
+      "text": "or I've seen some startups that are talking about new technology and mining to access. I think"
+    },
+    {
+      "start": 1064.24,
+      "end": 1070.08,
+      "text": "traditionally, rare earth is kind of the pitch. But everything we need is in the earth below us. It's"
+    },
+    {
+      "start": 1070.08,
+      "end": 1075.52,
+      "text": "just that we only mine the stuff that's on the surface is the general thesis. Is there a set of"
+    },
+    {
+      "start": 1075.52,
+      "end": 1081.52,
+      "text": "innovations that you think are coming to market that are going to ultimately unleash more productivity"
+    },
+    {
+      "start": 1081.52,
+      "end": 1086.24,
+      "text": "than we see? Because we're still using the same technology we did a hundred years ago to get"
+    },
+    {
+      "start": 1086.24,
+      "end": 1091.68,
+      "text": "this stuff out of the ground. For some commodities, yes. You brought up rare earth. So coming out of"
+    },
+    {
+      "start": 1091.68,
+      "end": 1095.84,
+      "text": "the 14th century, there are these guys called alchemists. Remember then they said they could turn"
+    },
+    {
+      "start": 1095.84,
+      "end": 1101.76,
+      "text": "lead into gold. And back then the periodic table was just four elements. There was water,"
+    },
+    {
+      "start": 1101.76,
+      "end": 1107.76,
+      "text": "there was fire, there was air, and there was earth. Now fire, you could figure out what it was. The"
+    },
+    {
+      "start": 1107.76,
+      "end": 1112.24,
+      "text": "air was pretty pure. The water was pure. But every time they saw something in the earth, they didn't"
+    },
+    {
+      "start": 1112.32,
+      "end": 1119.6,
+      "text": "know what it was. They called it a rare earth. And so, rare earths are everywhere. And the technology"
+    },
+    {
+      "start": 1119.6,
+      "end": 1125.1200000000001,
+      "text": "to extract rare earths is going to allow us to have a huge abundance of them. But the problem is"
+    },
+    {
+      "start": 1125.1200000000001,
+      "end": 1132.16,
+      "text": "processing them. That's the problem. The Chinese have all the technological know-how to convert what"
+    },
+    {
+      "start": 1132.16,
+      "end": 1139.2,
+      "text": "you take out of the ground and convert it into something that we can use. And so there's always"
+    },
+    {
+      "start": 1139.2,
+      "end": 1144.4,
+      "text": "going to be some element of conversion that you're going to need. With something like copper,"
+    },
+    {
+      "start": 1145.04,
+      "end": 1149.3600000000001,
+      "text": "the market is so big that it's really difficult to find a technology that can solve that problem"
+    },
+    {
+      "start": 1149.3600000000001,
+      "end": 1153.76,
+      "text": "overnight. And if we are having just a thread a couple of topics we've been talking about on the"
+    },
+    {
+      "start": 1153.76,
+      "end": 1162.32,
+      "text": "pod, incessantly about, if we do have this rivalry with China and they are the provider and that's"
+    },
+    {
+      "start": 1162.32,
+      "end": 1168.88,
+      "text": "the brittle part of the supply chain, we can solve the problem of job displacement, not apocalypse,"
+    },
+    {
+      "start": 1168.88,
+      "end": 1175.44,
+      "text": "displacement. People in America who want jobs, these are going to be incredibly high paying jobs."
+    },
+    {
+      "start": 1175.44,
+      "end": 1180.48,
+      "text": "And we can start bringing the fabs from Taiwan here, which we're doing. And we're going to bring"
+    },
+    {
+      "start": 1181.1200000000001,
+      "end": 1185.44,
+      "text": "both to North America and I understand South America from a friend of mine who's got an automated"
+    },
+    {
+      "start": 1186.64,
+      "end": 1195.7600000000002,
+      "text": "mining system, Adams, Travis. We're going to be able to just create a large number of jobs here."
+    },
+    {
+      "start": 1196.48,
+      "end": 1204.08,
+      "text": "So maybe you can talk a little bit about what impact we keep talking about how behind America is."
+    },
+    {
+      "start": 1204.08,
+      "end": 1208.4,
+      "text": "But what happens to China if we stop buying here here?"
+    },
+    {
+      "start": 1208.4,
+      "end": 1215.36,
+      "text": "We start building what you said is very important for this whole jobs debate."
+    },
+    {
+      "start": 1215.92,
+      "end": 1223.44,
+      "text": "The craft labor that we're going to need is going to be almost limitless for what we have to build."
+    },
+    {
+      "start": 1224.24,
+      "end": 1233.76,
+      "text": "And there's really no other way around it. In many ways, look what happened in the 2000s."
+    },
+    {
+      "start": 1233.76,
+      "end": 1240.96,
+      "text": "We tore down all our factories and moved into China. And who got killed by that? It was the blue"
+    },
+    {
+      "start": 1240.96,
+      "end": 1247.3600000000001,
+      "text": "collar, craft labor, created all kinds of unintended consequences, fentanyl, wealth gaps."
+    },
+    {
+      "start": 1247.3600000000001,
+      "end": 1251.44,
+      "text": "Pennsylvania is a big trouble. The coasts were making all the money in the heart of the country,"
+    },
+    {
+      "start": 1251.44,
+      "end": 1257.76,
+      "text": "the salt of the earth was getting killed. What's ironic today is that same part of the middle"
+    },
+    {
+      "start": 1257.76,
+      "end": 1263.2,
+      "text": "country, those people that got displaced are now getting entry-level salaries. If you go to"
+    },
+    {
+      "start": 1263.2,
+      "end": 1268.0800000000002,
+      "text": "quanta university and your top of your class, you're starting out at 150 grand right out of high school."
+    },
+    {
+      "start": 1268.72,
+      "end": 1275.6000000000001,
+      "text": "And the jobs they're doing ironically are the jobs that may or may not be displacing some of the"
+    },
+    {
+      "start": 1275.6000000000001,
+      "end": 1280.88,
+      "text": "early lower level white collar labor. And so the tables have totally turned."
+    },
+    {
+      "start": 1280.88,
+      "end": 1286.0800000000002,
+      "text": "And so, look, it's an efficient market. The jobs are going to flow where the money is."
+    },
+    {
+      "start": 1286.0800000000002,
+      "end": 1288.64,
+      "text": "And the money right now is really coming into this area."
+    },
+    {
+      "start": 1288.64,
+      "end": 1294.0800000000002,
+      "text": "Can we talk about a couple of other areas? What's your take on other forms of energy,"
+    },
+    {
+      "start": 1294.0800000000002,
+      "end": 1301.5200000000002,
+      "text": "not gas, coal, nuclear, hydrocarbons? I mean, the demand pulls, just based on this,"
+    },
+    {
+      "start": 1302.72,
+      "end": 1309.1200000000001,
+      "text": "maybe the most reductive takeaway is everything. But then, how do you Dan differentiate?"
+    },
+    {
+      "start": 1309.68,
+      "end": 1314.16,
+      "text": "Why did you say, for example, you're a super bullish solar? What are your thoughts on nuclear?"
+    },
+    {
+      "start": 1314.16,
+      "end": 1316.88,
+      "text": "How do you trade all these off? These different sources of energy."
+    },
+    {
+      "start": 1317.3600000000001,
+      "end": 1325.6000000000001,
+      "text": "So we're swimming in natural gas in this country. We can build solar. That's not the bottleneck."
+    },
+    {
+      "start": 1326.24,
+      "end": 1331.5200000000002,
+      "text": "And nuclear, we can't really build it. We can't even build the containment vessels in this country."
+    },
+    {
+      "start": 1331.5200000000002,
+      "end": 1336.5600000000002,
+      "text": "The Koreans can do it, but we can't do that here. So there's always going to be these big"
+    },
+    {
+      "start": 1336.56,
+      "end": 1339.84,
+      "text": "bottlenecks in this system. And whether you're talking about solar, whether you're talking about"
+    },
+    {
+      "start": 1339.84,
+      "end": 1344.56,
+      "text": "net gas, whether you're talking about uranium, we're going to have the raw inputs,"
+    },
+    {
+      "start": 1344.56,
+      "end": 1348.8,
+      "text": "like the natural gas that we drill from the ground. But what we're going to be short of is the"
+    },
+    {
+      "start": 1348.8,
+      "end": 1354.24,
+      "text": "critical minerals to build the nuclear power plants. We're going to be short the silver,"
+    },
+    {
+      "start": 1354.24,
+      "end": 1359.2,
+      "text": "for example, to build these solar panels, especially if we start launching data centers in space."
+    },
+    {
+      "start": 1360.3999999999999,
+      "end": 1364.08,
+      "text": "These are going to consume incredible amounts of silver. Right now, the silver supply"
+    },
+    {
+      "start": 1364.08,
+      "end": 1367.84,
+      "text": "demand dynamic is we consume a billion two ounces a year. We supply a billion ounces a year."
+    },
+    {
+      "start": 1367.84,
+      "end": 1372.6399999999999,
+      "text": "So there's a 200 million ton deficit per year. I'm only have 600 million of above ground"
+    },
+    {
+      "start": 1372.6399999999999,
+      "end": 1377.36,
+      "text": "inventory left. So the clock's ticking. We got three years left. Guys, before we just stock out"
+    },
+    {
+      "start": 1377.36,
+      "end": 1381.12,
+      "text": "and then the solar story is ready to get the silver for the photovoltaic cells."
+    },
+    {
+      "start": 1381.12,
+      "end": 1387.9199999999998,
+      "text": "So for our kids and for the country generation tool belt, for us allocating,"
+    },
+    {
+      "start": 1387.9199999999998,
+      "end": 1392.6399999999999,
+      "text": "get some exposure to copper, silver minerals, and then there's a bunch of service providers"
+    },
+    {
+      "start": 1393.3600000000001,
+      "end": 1397.2800000000002,
+      "text": "in and around that area that we should be investigating over the next year. Don't forget the"
+    },
+    {
+      "start": 1397.2800000000002,
+      "end": 1401.76,
+      "text": "labor of the service providers. That's a big one. Okay. How do you allocate capital? You're"
+    },
+    {
+      "start": 1401.76,
+      "end": 1407.6000000000001,
+      "text": "at the front end of owning what? Mines in production, but then also the end use cases. How do you decide"
+    },
+    {
+      "start": 1407.6000000000001,
+      "end": 1412.24,
+      "text": "where to not play? Because a lot of these things, it looks like these are incredible end markets,"
+    },
+    {
+      "start": 1412.24,
+      "end": 1414.96,
+      "text": "but you can get run over. Like if you're in the wrong part of the market,"
+    },
+    {
+      "start": 1416.24,
+      "end": 1419.8400000000001,
+      "text": "there's supply shocks, there's supply shaping by China, there's price dumping,"
+    },
+    {
+      "start": 1420.8,
+      "end": 1425.6,
+      "text": "it can be all obvious and you could lose a lot of money too. Yeah, look, you really have to"
+    },
+    {
+      "start": 1425.6,
+      "end": 1430.3999999999999,
+      "text": "understand supply chains. I think to a lot of people out there, the supply chains are the sort of"
+    },
+    {
+      "start": 1430.3999999999999,
+      "end": 1436.08,
+      "text": "weird mystical concept. I still think a lot of urban Americans still think a ham sandwich comes"
+    },
+    {
+      "start": 1436.08,
+      "end": 1439.84,
+      "text": "from the refrigerator and they don't think about the 30 million pigs every month. They're getting"
+    },
+    {
+      "start": 1439.84,
+      "end": 1446.1599999999999,
+      "text": "slaughtered outside of Chicago. Don't get freeberg started. But you got to understand where the"
+    },
+    {
+      "start": 1446.16,
+      "end": 1450.3200000000002,
+      "text": "pinch points are in the supply chain. Number one, and number two, I think you have to really make"
+    },
+    {
+      "start": 1450.3200000000002,
+      "end": 1454.48,
+      "text": "sure that you're not going to get technologically disrupted where you can find, I think this was"
+    },
+    {
+      "start": 1454.48,
+      "end": 1458.88,
+      "text": "a freeberg's point where you can find something that's going to replace that tightness in the supply."
+    },
+    {
+      "start": 1458.88,
+      "end": 1462.88,
+      "text": "Give it up for Dan. Well done. Very, very informative."
+    }
+  ]
+}

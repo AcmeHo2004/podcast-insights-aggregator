@@ -1,0 +1,3476 @@
+{
+  "id": "3a00c3a7bffc0d7f",
+  "show": "Y Combinator Startup Podcast",
+  "theme": "Tech & AI",
+  "title": "How To Build Superintelligence Inside Your Company",
+  "audio_url": "https://anchor.fm/s/8c1524bc/podcast/play/120596984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-27%2F424962817-44100-2-669c81bab6e9.mp3",
+  "source": "local-whisper",
+  "duration": 2776.7,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.68,
+      "text": "How do you build super intelligence inside a company?"
+    },
+    {
+      "start": 2.68,
+      "end": 6.92,
+      "text": "Part of the key thing is not to just use AI as a co-pilot."
+    },
+    {
+      "start": 6.92,
+      "end": 11.36,
+      "text": "This is the thing where you use it as the building layer for everything."
+    },
+    {
+      "start": 11.36,
+      "end": 14.48,
+      "text": "And you need to start recording all the artifacts."
+    },
+    {
+      "start": 14.48,
+      "end": 16.4,
+      "text": "It's like a shared organizational brain."
+    },
+    {
+      "start": 16.4,
+      "end": 19.48,
+      "text": "It's like the closest thing to us being able to connect our brains."
+    },
+    {
+      "start": 19.48,
+      "end": 23.080000000000002,
+      "text": "If you frame this as a way for everyone in an organization"
+    },
+    {
+      "start": 23.080000000000002,
+      "end": 24.88,
+      "text": "to get better at what they do,"
+    },
+    {
+      "start": 24.88,
+      "end": 30.0,
+      "text": "using the like collective skill and instinct of the people they work with,"
+    },
+    {
+      "start": 30.0,
+      "end": 31.64,
+      "text": "it's incredibly powerful."
+    },
+    {
+      "start": 39.12,
+      "end": 40.72,
+      "text": "Today we have a real treat."
+    },
+    {
+      "start": 40.72,
+      "end": 42.84,
+      "text": "We have a special guest,"
+    },
+    {
+      "start": 42.84,
+      "end": 46.879999999999995,
+      "text": "General Partner at YC, our partner, Pete Cuman."
+    },
+    {
+      "start": 46.879999999999995,
+      "end": 48.64,
+      "text": "He created Optimizely,"
+    },
+    {
+      "start": 48.64,
+      "end": 54.44,
+      "text": "which was one of the first and one of the best ways to do A.B. testing for apps and websites."
+    },
+    {
+      "start": 54.68,
+      "end": 60.879999999999995,
+      "text": "And since then, he has gone on to create all of our agent infrastructure at YC."
+    },
+    {
+      "start": 60.879999999999995,
+      "end": 65.72,
+      "text": "So literally all of our harnesses and how we use AI internal to YC."
+    },
+    {
+      "start": 65.72,
+      "end": 67.64,
+      "text": "Pete, welcome to the late code."
+    },
+    {
+      "start": 67.64,
+      "end": 68.44,
+      "text": "Thanks, Gary."
+    },
+    {
+      "start": 68.44,
+      "end": 73.8,
+      "text": "For the last few years since ChatsheyBT, YC has been funding mainly AI companies."
+    },
+    {
+      "start": 73.8,
+      "end": 78.96,
+      "text": "And we've gone through like many different versions of advice for them"
+    },
+    {
+      "start": 78.96,
+      "end": 83.24,
+      "text": "about how to build AI native companies that build like mainly AI products."
+    },
+    {
+      "start": 83.24,
+      "end": 87.47999999999999,
+      "text": "And we've gone on a crazy journey with them learning all of this."
+    },
+    {
+      "start": 87.47999999999999,
+      "end": 93.64,
+      "text": "I think a lot of people don't realize that internally YC is actually building and using"
+    },
+    {
+      "start": 93.64,
+      "end": 98.0,
+      "text": "a lot of the same stuff that we're helping our startups build and use themselves."
+    },
+    {
+      "start": 98.0,
+      "end": 102.64,
+      "text": "And it's been I think a very powerful symbiotic relationship for us"
+    },
+    {
+      "start": 102.64,
+      "end": 107.16,
+      "text": "to actually be adopting these tools and like transforming our own organization"
+    },
+    {
+      "start": 107.16,
+      "end": 112.24,
+      "text": "which was started way, way pre AI into a super AI native organization ourselves."
+    },
+    {
+      "start": 112.24000000000001,
+      "end": 115.12,
+      "text": "And Pete has really been leading the charge for that."
+    },
+    {
+      "start": 115.12,
+      "end": 118.28000000000002,
+      "text": "And so I'm really excited about this episode because I've actually been wanting to talk"
+    },
+    {
+      "start": 118.28000000000002,
+      "end": 120.84,
+      "text": "publicly about all the stuff that we've built internally."
+    },
+    {
+      "start": 120.84,
+      "end": 122.60000000000001,
+      "text": "And this is the first time that we're doing it."
+    },
+    {
+      "start": 122.60000000000001,
+      "end": 127.16000000000001,
+      "text": "So Pete, perhaps to start off, can you sort of go back to the beginning and like talk"
+    },
+    {
+      "start": 127.16000000000001,
+      "end": 132.28,
+      "text": "about like there was a particular like moment when we really started adopting these AI tools"
+    },
+    {
+      "start": 132.28,
+      "end": 133.0,
+      "text": "internally."
+    },
+    {
+      "start": 133.0,
+      "end": 135.88,
+      "text": "It was really you who got us started on that path."
+    },
+    {
+      "start": 135.88,
+      "end": 138.20000000000002,
+      "text": "Sure, happy to tell the story here."
+    },
+    {
+      "start": 138.20000000000002,
+      "end": 144.16000000000003,
+      "text": "And it's I like framing it that way because it was a project that I and a few engineers"
+    },
+    {
+      "start": 144.16000000000003,
+      "end": 146.8,
+      "text": "got started about a year ago, maybe a little more."
+    },
+    {
+      "start": 146.8,
+      "end": 151.00000000000003,
+      "text": "But that has since snowballed into just the whole infrastructure layer that's made it"
+    },
+    {
+      "start": 151.00000000000003,
+      "end": 155.32000000000002,
+      "text": "possible for us to use AI internally at YC in lots of different ways."
+    },
+    {
+      "start": 155.32000000000002,
+      "end": 159.8,
+      "text": "And that's actually been one of the neatest parts about this is watching the whole engineering"
+    },
+    {
+      "start": 159.8,
+      "end": 166.4,
+      "text": "team and many partners also just dive in and contribute to this infrastructure layer."
+    },
+    {
+      "start": 166.4,
+      "end": 173.84,
+      "text": "We started building our own harness inside of YC or kind of YC specific agents about a"
+    },
+    {
+      "start": 173.84,
+      "end": 174.84,
+      "text": "year ago."
+    },
+    {
+      "start": 174.84,
+      "end": 181.64000000000001,
+      "text": "And the original impetus for the project was some of the work that I and a few of the"
+    },
+    {
+      "start": 181.64000000000001,
+      "end": 186.24,
+      "text": "software engineers at YC were doing with our finance team just for a bit of backstory."
+    },
+    {
+      "start": 186.24,
+      "end": 192.88,
+      "text": "So YC has for as long as it's existed as far as I'm aware run mostly on our own software."
+    },
+    {
+      "start": 192.88,
+      "end": 196.84,
+      "text": "And this era just given us a huge advantage, right?"
+    },
+    {
+      "start": 196.84,
+      "end": 201.96,
+      "text": "And so with that context back to this moment maybe a year ago, we were sitting down with"
+    },
+    {
+      "start": 201.96,
+      "end": 208.04,
+      "text": "the finance team talking through a set of tools that we were going to build for them just"
+    },
+    {
+      "start": 208.04,
+      "end": 213.24,
+      "text": "to help them run through some of their finance workflows, booking journal entries, logging"
+    },
+    {
+      "start": 213.24,
+      "end": 218.07999999999998,
+      "text": "priced rounds, like all the sorts of things that make YC run really."
+    },
+    {
+      "start": 218.4,
+      "end": 219.88000000000002,
+      "text": "I was seeing kind of two things at once."
+    },
+    {
+      "start": 219.88000000000002,
+      "end": 225.28,
+      "text": "Like on one hand, we had this sort of loop going internally, right?"
+    },
+    {
+      "start": 225.28,
+      "end": 230.76000000000002,
+      "text": "Where we'd sit down with the finance team, the finance team would describe to our software"
+    },
+    {
+      "start": 230.76000000000002,
+      "end": 234.28,
+      "text": "engineers how this complicated financial workflow worked."
+    },
+    {
+      "start": 234.28,
+      "end": 238.4,
+      "text": "And then software engineers would go and build some purpose-built software where there"
+    },
+    {
+      "start": 238.4,
+      "end": 242.68,
+      "text": "was a deterministic workflow encapsulating everything that they had been told and then hand"
+    },
+    {
+      "start": 242.68,
+      "end": 244.36,
+      "text": "it back to the finance team and so on."
+    },
+    {
+      "start": 245.04000000000002,
+      "end": 246.4,
+      "text": "And it felt really inefficient."
+    },
+    {
+      "start": 246.4,
+      "end": 250.92000000000002,
+      "text": "And then at the same time, this was right around the time when agentic tools were really"
+    },
+    {
+      "start": 250.92000000000002,
+      "end": 253.96,
+      "text": "agentic coding tools were really catching hold, right?"
+    },
+    {
+      "start": 253.96,
+      "end": 259.64,
+      "text": "And so you had kind of the first generation, Windsorf and Cursor that were well established"
+    },
+    {
+      "start": 259.64,
+      "end": 260.64,
+      "text": "by this point."
+    },
+    {
+      "start": 260.64,
+      "end": 264.36,
+      "text": "I think this right around when Claude Codd was introduced, it felt like this was giving"
+    },
+    {
+      "start": 264.36,
+      "end": 266.68,
+      "text": "me superpowers, right?"
+    },
+    {
+      "start": 266.68,
+      "end": 270.2,
+      "text": "And then kind of watching this sort of old classical way of building software in YC and"
+    },
+    {
+      "start": 270.2,
+      "end": 275.03999999999996,
+      "text": "then watching how I was doing things on my own machine, it just felt like a bigger and"
+    },
+    {
+      "start": 275.03999999999996,
+      "end": 276.71999999999997,
+      "text": "bigger divide between those things."
+    },
+    {
+      "start": 276.71999999999997,
+      "end": 282.76,
+      "text": "And so the original impetus was, why don't we try to build some tools at YC that we could"
+    },
+    {
+      "start": 282.76,
+      "end": 288.56,
+      "text": "use to run agents that would give the finance team control over their own software, right?"
+    },
+    {
+      "start": 288.56,
+      "end": 293.44,
+      "text": "Like, remove the software engineers from this crazy loop where they have to sort of understand"
+    },
+    {
+      "start": 293.44,
+      "end": 298.28,
+      "text": "these complicated workflows and give the finance team the tools that they could use to encode"
+    },
+    {
+      "start": 298.28000000000003,
+      "end": 304.04,
+      "text": "their own workflows, not as Ruby, but as English with prompts, right?"
+    },
+    {
+      "start": 304.04,
+      "end": 309.12,
+      "text": "I mean, what's interesting is like, we all funded companies maybe even like two or three"
+    },
+    {
+      "start": 309.12,
+      "end": 313.12,
+      "text": "years ago when LLMs were out but like agentic coding wasn't the thing yet."
+    },
+    {
+      "start": 313.12,
+      "end": 319.04,
+      "text": "And so the first thing actually was not agentic coding, it was LLMs for writing SQL queries."
+    },
+    {
+      "start": 319.04,
+      "end": 325.12,
+      "text": "So that's what I remember from the first versions of what you built was how good it was and"
+    },
+    {
+      "start": 325.12,
+      "end": 330.6,
+      "text": "how basically it rhymed with like these other failed startups that we had funded, like each"
+    },
+    {
+      "start": 330.6,
+      "end": 335.08,
+      "text": "of us probably funded one at some point, you know, here it was, it was working and it"
+    },
+    {
+      "start": 335.08,
+      "end": 340.84000000000003,
+      "text": "worked so well that non-technical people granted very smart people from finance but with"
+    },
+    {
+      "start": 340.84000000000003,
+      "end": 344.84000000000003,
+      "text": "no engineering background could use these tools to ask real questions."
+    },
+    {
+      "start": 344.84000000000003,
+      "end": 349.74,
+      "text": "I was really surprised to be honest and so that we started with this kind of purpose"
+    },
+    {
+      "start": 349.74,
+      "end": 355.26,
+      "text": "built thing for finance and then rewrote it to be more of a general agent loop, right?"
+    },
+    {
+      "start": 355.26,
+      "end": 360.94,
+      "text": "And this is now, you see these all over the place now, but the first kind of magical moment"
+    },
+    {
+      "start": 360.94,
+      "end": 366.98,
+      "text": "that I had was we had this agent loop and we had a tool registry, a shared tool registry"
+    },
+    {
+      "start": 366.98,
+      "end": 369.3,
+      "text": "for kind of YC specific tools."
+    },
+    {
+      "start": 369.3,
+      "end": 374.42,
+      "text": "And the first tool that really was an unlock for me was I think a tool looking back that"
+    },
+    {
+      "start": 374.42,
+      "end": 380.14000000000004,
+      "text": "you actually built, Jared, it gave these agents the ability to run read-only SQL queries"
+    },
+    {
+      "start": 380.14000000000004,
+      "end": 381.86,
+      "text": "against our database, right?"
+    },
+    {
+      "start": 381.86,
+      "end": 383.74,
+      "text": "It was two tools actually."
+    },
+    {
+      "start": 383.74,
+      "end": 388.46000000000004,
+      "text": "One was running queries against our database and the other one was the ability to read our"
+    },
+    {
+      "start": 388.46000000000004,
+      "end": 389.46000000000004,
+      "text": "model files."
+    },
+    {
+      "start": 389.46000000000004,
+      "end": 394.86,
+      "text": "I remember I built those tools and I felt a little bit like I was breaking the rules because"
+    },
+    {
+      "start": 394.86,
+      "end": 402.1,
+      "text": "initially we started with very limited tools that had very narrowly scoped domains and"
+    },
+    {
+      "start": 402.1,
+      "end": 405.82000000000005,
+      "text": "I kept getting frustrated because they weren't powerful enough to do the things that I wanted."
+    },
+    {
+      "start": 405.82000000000005,
+      "end": 409.74,
+      "text": "And so I was like, what if we just gave the thing like access, complete access to the"
+    },
+    {
+      "start": 409.74,
+      "end": 417.70000000000005,
+      "text": "production database where we could just like trample on anything and I sort of like surreptitiously"
+    },
+    {
+      "start": 417.70000000000005,
+      "end": 423.02000000000004,
+      "text": "pushed it out maybe late at night and it worked, it worked extremely well, right?"
+    },
+    {
+      "start": 423.02000000000004,
+      "end": 427.94,
+      "text": "Yeah, perhaps foreshadowing subsequent things like OpenClaw where it turns out that like"
+    },
+    {
+      "start": 427.94,
+      "end": 431.90000000000003,
+      "text": "the thing that was hampering the world was being worried about security and privacy"
+    },
+    {
+      "start": 431.90000000000003,
+      "end": 435.46000000000004,
+      "text": "and all the things that could go wrong and when you worry a bit less you're like, oh my"
+    },
+    {
+      "start": 435.46000000000004,
+      "end": 437.66,
+      "text": "god, these things are unbelievably powerful."
+    },
+    {
+      "start": 437.66,
+      "end": 442.70000000000005,
+      "text": "It's another really good example of this weird split between I met work and I'm kind of"
+    },
+    {
+      "start": 442.70000000000005,
+      "end": 449.3,
+      "text": "operating in this really narrow box and I'm at home using cloud code or whatever, OpenClaw"
+    },
+    {
+      "start": 449.3,
+      "end": 452.78000000000003,
+      "text": "and I can do anything, right?"
+    },
+    {
+      "start": 452.78000000000003,
+      "end": 455.02000000000004,
+      "text": "And trying to narrow that gap."
+    },
+    {
+      "start": 455.02000000000004,
+      "end": 459.38000000000005,
+      "text": "So why was this so useful, this ability to run SQL queries against our database sounds"
+    },
+    {
+      "start": 459.38000000000005,
+      "end": 460.38000000000005,
+      "text": "really simple?"
+    },
+    {
+      "start": 460.74,
+      "end": 464.5,
+      "text": "I think this is where it's important to talk about one of the big advantages that I think"
+    },
+    {
+      "start": 464.5,
+      "end": 470.3,
+      "text": "YC had coming into this experiment which is that we run on our own software and all of"
+    },
+    {
+      "start": 470.3,
+      "end": 476.65999999999997,
+      "text": "that software sits on one Postgres database that has everything that's important to YC's"
+    },
+    {
+      "start": 476.65999999999997,
+      "end": 478.18,
+      "text": "world in it."
+    },
+    {
+      "start": 478.18,
+      "end": 483.14,
+      "text": "Every company that we funded, there's a company's table, there's a Founders table, right?"
+    },
+    {
+      "start": 483.14,
+      "end": 487.86,
+      "text": "There's tables for our financial transactions, there's tables for the notes that I leave"
+    },
+    {
+      "start": 487.86,
+      "end": 489.7,
+      "text": "in our little internal CRM, right?"
+    },
+    {
+      "start": 489.7,
+      "end": 494.14,
+      "text": "All of these functions that I think a lot of other companies farm out to third party"
+    },
+    {
+      "start": 494.14,
+      "end": 499.38,
+      "text": "SaaS tools, we've built our own and as a result, we have this database with every important"
+    },
+    {
+      "start": 499.38,
+      "end": 506.1,
+      "text": "piece of context that I can now ask questions like, hey, show me all of the investors who invested"
+    },
+    {
+      "start": 506.1,
+      "end": 509.54,
+      "text": "in a space related company in the last four batches, right?"
+    },
+    {
+      "start": 509.54,
+      "end": 514.26,
+      "text": "It just turns out when all of that context is in one place with a little bit of additional"
+    },
+    {
+      "start": 514.26,
+      "end": 520.06,
+      "text": "information about how the schema is laid out, an agent can go and answer arbitrary questions"
+    },
+    {
+      "start": 520.06,
+      "end": 521.06,
+      "text": "about our business."
+    },
+    {
+      "start": 521.06,
+      "end": 524.02,
+      "text": "That was a magic moment for sure when I first saw that."
+    },
+    {
+      "start": 524.02,
+      "end": 530.02,
+      "text": "The cool thing for me is that it didn't just make it easier to answer questions, it dramatically"
+    },
+    {
+      "start": 530.02,
+      "end": 533.74,
+      "text": "increased the number of questions that we would ask and dramatically increased the scale"
+    },
+    {
+      "start": 533.74,
+      "end": 538.42,
+      "text": "and complexity of the questions that we would dare to ask where in the old days, back when"
+    },
+    {
+      "start": 538.42,
+      "end": 544.18,
+      "text": "we were using BI tools, to ask a question like that, what investors"
+    },
+    {
+      "start": 544.1800000000001,
+      "end": 548.1400000000001,
+      "text": "have invested in space related companies that would be several hours of writing SQL and"
+    },
+    {
+      "start": 548.1400000000001,
+      "end": 550.7800000000001,
+      "text": "so unless it was really important, you just wouldn't bother."
+    },
+    {
+      "start": 550.7800000000001,
+      "end": 557.6600000000001,
+      "text": "It's just another example of this instance of GVON's paradox that you get when you remove"
+    },
+    {
+      "start": 557.6600000000001,
+      "end": 563.34,
+      "text": "the amount of back and forth between different teams in order to get a thing done, right?"
+    },
+    {
+      "start": 563.34,
+      "end": 569.4200000000001,
+      "text": "If in order to ask some kind of complex question about YC, I have to go and knock on the"
+    },
+    {
+      "start": 569.42,
+      "end": 574.86,
+      "text": "data science team's door and wait for them to get it through their backlog, I'm just"
+    },
+    {
+      "start": 574.86,
+      "end": 576.5799999999999,
+      "text": "going to ask far fewer questions."
+    },
+    {
+      "start": 576.5799999999999,
+      "end": 580.2199999999999,
+      "text": "I mean, there are people out there watching this who work in places that still use it."
+    },
+    {
+      "start": 580.2199999999999,
+      "end": 586.4599999999999,
+      "text": "The majority of people live in that world still and it's 2026, which is a little unfathomable"
+    },
+    {
+      "start": 586.4599999999999,
+      "end": 587.4599999999999,
+      "text": "actually."
+    },
+    {
+      "start": 587.4599999999999,
+      "end": 590.2199999999999,
+      "text": "There's a long way to go, I think, which is really exciting."
+    },
+    {
+      "start": 590.2199999999999,
+      "end": 596.4599999999999,
+      "text": "The answer question is how do companies that live in that old world could get wings to move"
+    },
+    {
+      "start": 596.46,
+      "end": 601.82,
+      "text": "so quickly because the magic for us, as you said, everything was the context is in one"
+    },
+    {
+      "start": 601.82,
+      "end": 603.82,
+      "text": "place that made it easy."
+    },
+    {
+      "start": 603.82,
+      "end": 608.86,
+      "text": "If you think about data science, historically, one of the first things that the Googlers"
+    },
+    {
+      "start": 608.86,
+      "end": 611.58,
+      "text": "had to figure out was a big table, right?"
+    },
+    {
+      "start": 611.58,
+      "end": 621.0600000000001,
+      "text": "And big table was, instead of schema and joins, you have one big table that can be map-produced."
+    },
+    {
+      "start": 621.0600000000001,
+      "end": 623.22,
+      "text": "And so I think that's happening again."
+    },
+    {
+      "start": 623.22,
+      "end": 630.38,
+      "text": "And I would argue that that's happening now with Carpathy Style, Knowledge, LLM, Wikis,"
+    },
+    {
+      "start": 630.38,
+      "end": 631.38,
+      "text": "with G-brain."
+    },
+    {
+      "start": 631.38,
+      "end": 634.02,
+      "text": "I mean, that's what I'm seeing anyway."
+    },
+    {
+      "start": 634.02,
+      "end": 636.1,
+      "text": "Obviously, I have an open claw."
+    },
+    {
+      "start": 636.1,
+      "end": 642.4200000000001,
+      "text": "It has access to lots of systems, and then I'm normalizing it to my own schema that's"
+    },
+    {
+      "start": 642.4200000000001,
+      "end": 644.94,
+      "text": "relevant to me and the things that I care about."
+    },
+    {
+      "start": 644.94,
+      "end": 646.98,
+      "text": "And it is like de-normalization."
+    },
+    {
+      "start": 646.98,
+      "end": 651.1,
+      "text": "It's you're taking data and you're putting it into a format that is more or less optimized"
+    },
+    {
+      "start": 651.1,
+      "end": 655.9,
+      "text": "for open-claw or Hermes agent, like that particular type of harness to be able to ask"
+    },
+    {
+      "start": 655.9,
+      "end": 656.9,
+      "text": "questions."
+    },
+    {
+      "start": 656.9,
+      "end": 661.4200000000001,
+      "text": "And it needs retrieval, it needs rag, it needs graph rag, it needs, you know, hybrid"
+    },
+    {
+      "start": 661.4200000000001,
+      "end": 665.1800000000001,
+      "text": "RRF, like there's re-ranking in there, like, you know, all the things that everyone has"
+    },
+    {
+      "start": 665.1800000000001,
+      "end": 668.74,
+      "text": "learned about retrieval is now inside G-brain."
+    },
+    {
+      "start": 668.74,
+      "end": 676.02,
+      "text": "And then when you give the agents a soul and you give it the data and it knows you and"
+    },
+    {
+      "start": 676.02,
+      "end": 680.02,
+      "text": "what you care about, like, suddenly these things have insane wings."
+    },
+    {
+      "start": 680.02,
+      "end": 686.26,
+      "text": "Like I just kind of can't believe how it sees around corners and you might ask a question"
+    },
+    {
+      "start": 686.26,
+      "end": 690.8199999999999,
+      "text": "and it'll even, you know, sort of interpret what your question was about and like give you"
+    },
+    {
+      "start": 690.8199999999999,
+      "end": 696.86,
+      "text": "a thing that, frankly, like, it would take a human who really knows you well to answer"
+    },
+    {
+      "start": 696.86,
+      "end": 698.22,
+      "text": "all that's possible now."
+    },
+    {
+      "start": 698.22,
+      "end": 701.9399999999999,
+      "text": "And so, you know, your question is like, all the data is everywhere."
+    },
+    {
+      "start": 701.9399999999999,
+      "end": 706.54,
+      "text": "My answer from like the open-claw Hermes experience with G-brain is like, yeah, you basically"
+    },
+    {
+      "start": 706.54,
+      "end": 710.02,
+      "text": "have to take that you're going to denormalize it and you're going to put it in a format"
+    },
+    {
+      "start": 710.02,
+      "end": 713.66,
+      "text": "that is optimized for agent retrieval and understanding."
+    },
+    {
+      "start": 713.66,
+      "end": 719.98,
+      "text": "You could wrap it in an MCP, but for whatever reason, I just like intuitively, I'd be worried,"
+    },
+    {
+      "start": 719.98,
+      "end": 723.9399999999999,
+      "text": "like, it's still sort of, you know, these things are really good at working with MCP and"
+    },
+    {
+      "start": 723.9399999999999,
+      "end": 726.4599999999999,
+      "text": "see it like they're a little even better with CLI."
+    },
+    {
+      "start": 726.4599999999999,
+      "end": 730.8199999999999,
+      "text": "It seems like you have to denormalize and do the big table thing, but, you know, specifically"
+    },
+    {
+      "start": 730.8199999999999,
+      "end": 732.42,
+      "text": "for the agent."
+    },
+    {
+      "start": 732.42,
+      "end": 736.2199999999999,
+      "text": "Looking back over the last year and a half, it feels like we're still kind of in the"
+    },
+    {
+      "start": 736.22,
+      "end": 742.22,
+      "text": "single-player era of agents where the harnesses that I've gotten really popular, right,"
+    },
+    {
+      "start": 742.22,
+      "end": 749.98,
+      "text": "Cloud Code, Codex, Pi, OpenClaw, Hermes, they're all designed to be used by a single human"
+    },
+    {
+      "start": 749.98,
+      "end": 752.38,
+      "text": "running on a single machine."
+    },
+    {
+      "start": 752.38,
+      "end": 757.74,
+      "text": "And it makes a lot of sense, right, because in that environment, these agents can do just"
+    },
+    {
+      "start": 757.74,
+      "end": 761.7,
+      "text": "about anything, right, and they make you incredibly powerful."
+    },
+    {
+      "start": 761.7,
+      "end": 763.3000000000001,
+      "text": "It's, there are a lot of fun to use."
+    },
+    {
+      "start": 763.3000000000001,
+      "end": 768.1,
+      "text": "I think one of the big problems that I don't think has been solved well yet by anybody"
+    },
+    {
+      "start": 768.1,
+      "end": 774.7,
+      "text": "is the multiplayer harness, right, it's enabling that kind of superpower, but on a team or"
+    },
+    {
+      "start": 774.7,
+      "end": 780.34,
+      "text": "an organizational level, right, and that's, I think, been the interesting thing to explore"
+    },
+    {
+      "start": 780.34,
+      "end": 785.6200000000001,
+      "text": "with the infrastructure that we've built at YC is watching which primitives that we've"
+    },
+    {
+      "start": 785.6200000000001,
+      "end": 790.4200000000001,
+      "text": "created that have enabled individuals and teams to use agents."
+    },
+    {
+      "start": 790.4200000000001,
+      "end": 794.94,
+      "text": "If you ask the question about if you're working inside of a kind of a legacy organization,"
+    },
+    {
+      "start": 794.94,
+      "end": 800.0200000000001,
+      "text": "which is like anyone who's more than two years old, what are the things that you can focus"
+    },
+    {
+      "start": 800.0200000000001,
+      "end": 806.7,
+      "text": "on in order to help enable everybody at your org to use AI to do more?"
+    },
+    {
+      "start": 806.7,
+      "end": 811.6600000000001,
+      "text": "And we talked about kind of this common context layer, right, and so a data warehouse where"
+    },
+    {
+      "start": 811.6600000000001,
+      "end": 818.22,
+      "text": "just as much of your internal important context lives, it just turns out is extremely useful."
+    },
+    {
+      "start": 818.22,
+      "end": 825.94,
+      "text": "There are many tools for connecting individual agent harnesses to other MCP tools, other sources"
+    },
+    {
+      "start": 825.94,
+      "end": 832.6600000000001,
+      "text": "of truth, but just like a coding agent inside a monorepo just tends to be much more efficient"
+    },
+    {
+      "start": 832.6600000000001,
+      "end": 839.9,
+      "text": "watching our agents operating on our single database that has everything in one schema tells"
+    },
+    {
+      "start": 839.9,
+      "end": 844.86,
+      "text": "me that there's a lot of value at least in getting all of the context into one place."
+    },
+    {
+      "start": 844.86,
+      "end": 848.62,
+      "text": "Having an internal tool registry, this is I think the other really important thing that"
+    },
+    {
+      "start": 848.62,
+      "end": 849.62,
+      "text": "we've built."
+    },
+    {
+      "start": 849.62,
+      "end": 853.2,
+      "text": "So in the beginning, like we were talking about, it was just the whole system was really"
+    },
+    {
+      "start": 853.2,
+      "end": 854.2,
+      "text": "simple."
+    },
+    {
+      "start": 854.2,
+      "end": 859.3000000000001,
+      "text": "It was like an agent loop and a simple tool registry and a few other pieces, right, like"
+    },
+    {
+      "start": 859.3000000000001,
+      "end": 861.0600000000001,
+      "text": "a model router underneath."
+    },
+    {
+      "start": 861.0600000000001,
+      "end": 867.7,
+      "text": "The tool registry is where most of the YC specific stuff lives, right, like tool registry"
+    },
+    {
+      "start": 867.7,
+      "end": 871.4200000000001,
+      "text": "is what turns these agents into something that's useful at work."
+    },
+    {
+      "start": 871.4200000000001,
+      "end": 875.7,
+      "text": "And we had like 20 tools at the beginning, including this magical ability to query our"
+    },
+    {
+      "start": 875.7,
+      "end": 880.94,
+      "text": "SQL database, but over time, teams have added more and more tools."
+    },
+    {
+      "start": 880.94,
+      "end": 885.46,
+      "text": "Every time we kind of come upon some piece of work at YC that we think could be improved"
+    },
+    {
+      "start": 885.46,
+      "end": 890.6200000000001,
+      "text": "with an agent, we can just add tools and there's more than 350 today, I just checked, right."
+    },
+    {
+      "start": 890.6200000000001,
+      "end": 895.2600000000001,
+      "text": "Every team is adding their own tools, you know, I can do things like manage my office hours"
+    },
+    {
+      "start": 895.2600000000001,
+      "end": 900.3800000000001,
+      "text": "or finance team can, you know, can book journal entries, right, we can help manage the events"
+    },
+    {
+      "start": 900.38,
+      "end": 904.78,
+      "text": "that we run, there's tools for all of the important work that we do at YC."
+    },
+    {
+      "start": 904.78,
+      "end": 910.66,
+      "text": "And now once these all exist in one place, you can make them available to these internal"
+    },
+    {
+      "start": 910.66,
+      "end": 915.7,
+      "text": "agents that we've built, but you can also make them available to Cloud Code, you know, running"
+    },
+    {
+      "start": 915.7,
+      "end": 918.3,
+      "text": "on our individual machines."
+    },
+    {
+      "start": 918.3,
+      "end": 923.38,
+      "text": "So those things above all, I think were the important pieces that we built that if I were"
+    },
+    {
+      "start": 923.38,
+      "end": 926.1,
+      "text": "working in any other organization, I would focus on building."
+    },
+    {
+      "start": 926.1,
+      "end": 930.66,
+      "text": "I mean, honestly, inspired by what you guys did with tools, like this idea of skillify"
+    },
+    {
+      "start": 930.66,
+      "end": 935.74,
+      "text": "in OpenClaw, and then actually the most important, the last part of skillify, skillify is like"
+    },
+    {
+      "start": 935.74,
+      "end": 941.38,
+      "text": "this meta skill that I made in OpenClaw where it's like, you just do anything in OpenClaw"
+    },
+    {
+      "start": 941.38,
+      "end": 942.38,
+      "text": "and Hermes."
+    },
+    {
+      "start": 942.38,
+      "end": 945.5,
+      "text": "Hermes actually already has skillify, they call it something, it's like, it makes skills"
+    },
+    {
+      "start": 945.5,
+      "end": 950.34,
+      "text": "automatically, but the most important thing I think is actually like plugging it into the"
+    },
+    {
+      "start": 950.34,
+      "end": 954.98,
+      "text": "resolver, which is like your agents.md with like the list of things that the agents"
+    },
+    {
+      "start": 954.98,
+      "end": 960.86,
+      "text": "can do and then like it links to the markdown entry point that like, let's you use a tool"
+    },
+    {
+      "start": 960.86,
+      "end": 961.86,
+      "text": "basically."
+    },
+    {
+      "start": 961.86,
+      "end": 966.1,
+      "text": "And so like this thing keeps coming up in all these different contexts like Cloud Code"
+    },
+    {
+      "start": 966.1,
+      "end": 971.22,
+      "text": "has a skill, the skill registry in Cloud Code is actually a resolver."
+    },
+    {
+      "start": 971.22,
+      "end": 973.9,
+      "text": "Our tool registry is actually a resolver."
+    },
+    {
+      "start": 973.9,
+      "end": 978.62,
+      "text": "And then the weird thing that you have to do on top of that is actually, I have a meta skill"
+    },
+    {
+      "start": 978.62,
+      "end": 981.26,
+      "text": "called Check Resolvable that I call all the time."
+    },
+    {
+      "start": 981.26,
+      "end": 987.14,
+      "text": "So I'm always like, I do something that's new or different in my agent."
+    },
+    {
+      "start": 987.14,
+      "end": 990.78,
+      "text": "And then after it does it, and I like it, I say, skillify it."
+    },
+    {
+      "start": 990.78,
+      "end": 993.78,
+      "text": "And then it becomes basically like a tool call or method call."
+    },
+    {
+      "start": 993.78,
+      "end": 999.34,
+      "text": "And then I run Check Resolvable, which is like, look at all of the other skills and tools"
+    },
+    {
+      "start": 999.34,
+      "end": 1000.34,
+      "text": "that exist."
+    },
+    {
+      "start": 1000.34,
+      "end": 1006.34,
+      "text": "And is it, you know, dry, don't repeat yourself and is it M-E-C-E, which is, you know,"
+    },
+    {
+      "start": 1006.34,
+      "end": 1012.1,
+      "text": "I'm embarrassed to say a McKinsey term for the consultants use it for making really good"
+    },
+    {
+      "start": 1012.1,
+      "end": 1016.5,
+      "text": "slide decks, mutually exclusive, collectively exhaustive."
+    },
+    {
+      "start": 1016.5,
+      "end": 1020.5,
+      "text": "That's like how you're supposed to do slides if you're a McKinsey consultant."
+    },
+    {
+      "start": 1020.5,
+      "end": 1025.78,
+      "text": "But it's useful because it's like an additional layer on top of don't repeat yourself dry."
+    },
+    {
+      "start": 1025.78,
+      "end": 1028.98,
+      "text": "And like the models just seem to know what those things are."
+    },
+    {
+      "start": 1028.98,
+      "end": 1035.78,
+      "text": "And so if you have a dry and M-E-C-E resolver table anywhere, it's actually like the"
+    },
+    {
+      "start": 1035.78,
+      "end": 1038.22,
+      "text": "optimal resolver."
+    },
+    {
+      "start": 1038.22,
+      "end": 1041.06,
+      "text": "Like it's bad to have 10 skills that do all the same thing."
+    },
+    {
+      "start": 1041.06,
+      "end": 1046.78,
+      "text": "It's good to have one skill or one tool that has parameters that then let you call them."
+    },
+    {
+      "start": 1046.78,
+      "end": 1047.78,
+      "text": "So I don't know."
+    },
+    {
+      "start": 1047.78,
+      "end": 1051.5,
+      "text": "I think it's like, this is like the wildest time to be alive as like an applied computer"
+    },
+    {
+      "start": 1051.5,
+      "end": 1052.5,
+      "text": "scientist."
+    },
+    {
+      "start": 1052.5,
+      "end": 1057.7,
+      "text": "Because it's like simultaneous like discovery of the same useful applied concepts over and"
+    },
+    {
+      "start": 1057.7,
+      "end": 1058.7,
+      "text": "over again."
+    },
+    {
+      "start": 1058.7,
+      "end": 1063.26,
+      "text": "And I wonder if like when people are, you know, developing the first versions of Unix"
+    },
+    {
+      "start": 1063.26,
+      "end": 1065.54,
+      "text": "or something, it's like discovering a stack and a heap."
+    },
+    {
+      "start": 1065.54,
+      "end": 1067.7,
+      "text": "It feels like we're right at that moment today."
+    },
+    {
+      "start": 1067.7,
+      "end": 1072.86,
+      "text": "Like we're just coming up with the new primitives for what an agentic system actually is."
+    },
+    {
+      "start": 1072.86,
+      "end": 1076.58,
+      "text": "And you can see it in the parallel sort of development of like, we're just trying to"
+    },
+    {
+      "start": 1076.58,
+      "end": 1077.58,
+      "text": "do a thing."
+    },
+    {
+      "start": 1077.58,
+      "end": 1081.6599999999999,
+      "text": "And it might be in cloud code or it might be in our own internal harness or it might be"
+    },
+    {
+      "start": 1081.6599999999999,
+      "end": 1083.22,
+      "text": "in open-cloth, might be in hermys."
+    },
+    {
+      "start": 1083.22,
+      "end": 1085.78,
+      "text": "Like these things just keep coming back over and over again."
+    },
+    {
+      "start": 1085.78,
+      "end": 1087.98,
+      "text": "Why see Startup School is back."
+    },
+    {
+      "start": 1087.98,
+      "end": 1093.42,
+      "text": "We're hand selecting the most promising builders in the world and flying them out to San Francisco"
+    },
+    {
+      "start": 1093.42,
+      "end": 1099.02,
+      "text": "for July 25th and 26th to discuss the cutting edge of tech and startups."
+    },
+    {
+      "start": 1099.02,
+      "end": 1100.42,
+      "text": "Apply now for your spot."
+    },
+    {
+      "start": 1100.42,
+      "end": 1104.78,
+      "text": "Yeah, it's really interesting to look at how some of the other companies that are building"
+    },
+    {
+      "start": 1104.78,
+      "end": 1109.8600000000001,
+      "text": "this stuff have built their infrastructure because you see a lot of these same primitives"
+    },
+    {
+      "start": 1109.8600000000001,
+      "end": 1110.8600000000001,
+      "text": "in each of them, right?"
+    },
+    {
+      "start": 1110.8600000000001,
+      "end": 1115.1000000000001,
+      "text": "Like there's the agent loops, there's tool registries, there's skill registries, looking"
+    },
+    {
+      "start": 1115.1000000000001,
+      "end": 1118.5,
+      "text": "at the way that we're using skills now, why see?"
+    },
+    {
+      "start": 1118.5,
+      "end": 1124.46,
+      "text": "So if you think of skills as a simple abstraction layer over tools, we have a handful of sort"
+    },
+    {
+      "start": 1124.46,
+      "end": 1131.34,
+      "text": "of shared skills that we all have access to through this agent system."
+    },
+    {
+      "start": 1131.34,
+      "end": 1132.9,
+      "text": "And it's been interesting to watch."
+    },
+    {
+      "start": 1132.9,
+      "end": 1135.9,
+      "text": "I think you've talked about this for this progression of like in the beginning, you're"
+    },
+    {
+      "start": 1135.9,
+      "end": 1139.22,
+      "text": "kind of writing your own system prompts and then skills emergence."
+    },
+    {
+      "start": 1139.22,
+      "end": 1143.34,
+      "text": "So you started writing your own skills and then you would start metaprompting where you"
+    },
+    {
+      "start": 1143.34,
+      "end": 1144.94,
+      "text": "know you do have the agent, right?"
+    },
+    {
+      "start": 1144.94,
+      "end": 1145.94,
+      "text": "Skill exactly."
+    },
+    {
+      "start": 1145.94,
+      "end": 1146.94,
+      "text": "Improve the prompt."
+    },
+    {
+      "start": 1146.94,
+      "end": 1147.94,
+      "text": "Yes."
+    },
+    {
+      "start": 1147.94,
+      "end": 1148.94,
+      "text": "Yeah."
+    },
+    {
+      "start": 1148.94,
+      "end": 1153.26,
+      "text": "Seeing us kind of do the same progression internally where we have a couple skills and now"
+    },
+    {
+      "start": 1153.26,
+      "end": 1158.1000000000001,
+      "text": "we've gotten to the point where we have these sort of autonomous self-improving loops,"
+    },
+    {
+      "start": 1158.1000000000001,
+      "end": 1159.1000000000001,
+      "text": "right?"
+    },
+    {
+      "start": 1159.1000000000001,
+      "end": 1160.1000000000001,
+      "text": "Right."
+    },
+    {
+      "start": 1160.1000000000001,
+      "end": 1161.1000000000001,
+      "text": "You know?"
+    },
+    {
+      "start": 1161.1000000000001,
+      "end": 1162.1000000000001,
+      "text": "And so auto research from Carpathy again."
+    },
+    {
+      "start": 1162.1000000000001,
+      "end": 1163.1000000000001,
+      "text": "Yes."
+    },
+    {
+      "start": 1163.1000000000001,
+      "end": 1164.1000000000001,
+      "text": "Yeah."
+    },
+    {
+      "start": 1164.1000000000001,
+      "end": 1166.8600000000001,
+      "text": "Or slash goal now in Codex, like they've incorporated it too."
+    },
+    {
+      "start": 1166.8600000000001,
+      "end": 1171.7,
+      "text": "We have this general agent that every night we'll go and read through all of the agent conversations"
+    },
+    {
+      "start": 1171.7,
+      "end": 1177.78,
+      "text": "that employees have had and look for things that could have done better and pieces of context"
+    },
+    {
+      "start": 1177.78,
+      "end": 1181.34,
+      "text": "that if it had, at the front, it would have done more efficiently."
+    },
+    {
+      "start": 1181.34,
+      "end": 1185.1,
+      "text": "This is OpenClaw's dream cycle and G-brain also has a dream cycle."
+    },
+    {
+      "start": 1185.1,
+      "end": 1194.22,
+      "text": "This is a skill improvement dream cycle, but it could also potentially read all the transcripts"
+    },
+    {
+      "start": 1194.22,
+      "end": 1200.54,
+      "text": "and then write them back into the internal DB into the internal CRM on like what we know"
+    },
+    {
+      "start": 1200.54,
+      "end": 1202.3,
+      "text": "about people and companies."
+    },
+    {
+      "start": 1202.3,
+      "end": 1203.3,
+      "text": "Indeed."
+    },
+    {
+      "start": 1204.3,
+      "end": 1209.86,
+      "text": "There are cool examples of using transcripts actually to make these skills more effective"
+    },
+    {
+      "start": 1209.86,
+      "end": 1210.86,
+      "text": "as well."
+    },
+    {
+      "start": 1210.86,
+      "end": 1218.34,
+      "text": "One of the shared skills that we have is a skill that partners at YC use to help our companies"
+    },
+    {
+      "start": 1218.34,
+      "end": 1223.06,
+      "text": "write what we call two-sentence descriptions, right, everybody here has written hundreds"
+    },
+    {
+      "start": 1223.06,
+      "end": 1224.06,
+      "text": "of these."
+    },
+    {
+      "start": 1224.06,
+      "end": 1226.62,
+      "text": "We should probably explain what a two-sentence description actually is."
+    },
+    {
+      "start": 1226.62,
+      "end": 1227.62,
+      "text": "Sure."
+    },
+    {
+      "start": 1227.62,
+      "end": 1231.8999999999999,
+      "text": "So a two-sentence description is a concise way of explaining what your company does in"
+    },
+    {
+      "start": 1231.9,
+      "end": 1235.5400000000002,
+      "text": "natural language and anyone will understand, and why it's interesting."
+    },
+    {
+      "start": 1235.5400000000002,
+      "end": 1238.02,
+      "text": "Sounds easy, but it's surprisingly hard for founders to actually teach it."
+    },
+    {
+      "start": 1238.02,
+      "end": 1243.5,
+      "text": "And also no one does it weirdly, weirdly, even the most experienced founders forget because"
+    },
+    {
+      "start": 1243.5,
+      "end": 1245.14,
+      "text": "they have perfect context."
+    },
+    {
+      "start": 1245.14,
+      "end": 1254.94,
+      "text": "Interestingly, I now realize YC itself is a context engineering process in that frequently"
+    },
+    {
+      "start": 1254.94,
+      "end": 1259.5,
+      "text": "teaching people, you have perfect context about what's going on in your brain, but great"
+    },
+    {
+      "start": 1259.5,
+      "end": 1264.46,
+      "text": "communication is replicating that same context in someone else's brain."
+    },
+    {
+      "start": 1264.46,
+      "end": 1266.18,
+      "text": "And that's what a two-sentence pitch is."
+    },
+    {
+      "start": 1266.18,
+      "end": 1267.18,
+      "text": "What is it?"
+    },
+    {
+      "start": 1267.18,
+      "end": 1268.9,
+      "text": "I don't even know what the heck this is."
+    },
+    {
+      "start": 1268.9,
+      "end": 1272.74,
+      "text": "And then second part is, is it interesting or valuable?"
+    },
+    {
+      "start": 1272.74,
+      "end": 1274.5,
+      "text": "Is it worth my time?"
+    },
+    {
+      "start": 1274.5,
+      "end": 1279.74,
+      "text": "And so when I teach two-sentence pitches, that's my favorite way to do it, is like, do I"
+    },
+    {
+      "start": 1279.74,
+      "end": 1281.78,
+      "text": "even know what the heck this is?"
+    },
+    {
+      "start": 1281.78,
+      "end": 1284.78,
+      "text": "Because if you don't know what it is, you can't even ask a question about it."
+    },
+    {
+      "start": 1284.78,
+      "end": 1288.02,
+      "text": "It's like something about computers, I guess, whatever."
+    },
+    {
+      "start": 1288.02,
+      "end": 1292.1,
+      "text": "Every time it's lunch again, and then the second part is equally important, which is"
+    },
+    {
+      "start": 1292.1,
+      "end": 1296.78,
+      "text": "like, if I've heard that there are like 20 companies, like there are five other companies"
+    },
+    {
+      "start": 1296.78,
+      "end": 1302.82,
+      "text": "in this room that do X, and then I don't understand why this is noteworthy, again, I'm like"
+    },
+    {
+      "start": 1302.82,
+      "end": 1309.42,
+      "text": "thinking about my pastrami sandwich again, so the two-sentence pitch viscerally is important"
+    },
+    {
+      "start": 1309.42,
+      "end": 1310.42,
+      "text": "for founders."
+    },
+    {
+      "start": 1310.42,
+      "end": 1317.1399999999999,
+      "text": "And it's a simple kind of atomic thing that every partner at YC has practiced over and"
+    },
+    {
+      "start": 1317.14,
+      "end": 1318.94,
+      "text": "over and over again."
+    },
+    {
+      "start": 1318.94,
+      "end": 1327.38,
+      "text": "I think Tom, one of the partners here, wrote a skill that teaches an agent how to take"
+    },
+    {
+      "start": 1327.38,
+      "end": 1331.94,
+      "text": "some context about a company and condense that into a two-sentence description."
+    },
+    {
+      "start": 1331.94,
+      "end": 1336.6200000000001,
+      "text": "And so that was his handwritten prompt or skill about how that was done."
+    },
+    {
+      "start": 1336.6200000000001,
+      "end": 1339.98,
+      "text": "And one of the cool things that happened in the last month or two was that a couple of"
+    },
+    {
+      "start": 1339.98,
+      "end": 1345.0200000000002,
+      "text": "the other partners took a meeting that they had with a group office hours."
+    },
+    {
+      "start": 1345.02,
+      "end": 1349.1399999999999,
+      "text": "They had with a bunch of the companies in the spring batch and just went through and"
+    },
+    {
+      "start": 1349.1399999999999,
+      "end": 1354.46,
+      "text": "had every founder try their hand at a two-sentence description and kind of gave them feedback"
+    },
+    {
+      "start": 1354.46,
+      "end": 1355.46,
+      "text": "and input."
+    },
+    {
+      "start": 1355.46,
+      "end": 1360.18,
+      "text": "And so kind of the knowledge that lives in a partner's head about how to do this effectively"
+    },
+    {
+      "start": 1360.18,
+      "end": 1368.26,
+      "text": "was exchanged back and forth, right, and now lived in the context of that meeting transcript"
+    },
+    {
+      "start": 1368.26,
+      "end": 1373.18,
+      "text": "and handing that back to the agent and saying, given what you've learned by reading through"
+    },
+    {
+      "start": 1373.18,
+      "end": 1377.3,
+      "text": "this context, improve the two-sentence description skill."
+    },
+    {
+      "start": 1377.3,
+      "end": 1379.7,
+      "text": "And they got noticeably better after that."
+    },
+    {
+      "start": 1379.7,
+      "end": 1382.94,
+      "text": "Like this thing is now better than I am, I would argue, at writing those."
+    },
+    {
+      "start": 1382.94,
+      "end": 1385.9,
+      "text": "This is how super intelligence happens inside organizations."
+    },
+    {
+      "start": 1385.9,
+      "end": 1391.02,
+      "text": "I mean, this two-sentence pitch thing sounds like something kind of small, but embedded"
+    },
+    {
+      "start": 1391.02,
+      "end": 1393.38,
+      "text": "in it is actually something very powerful."
+    },
+    {
+      "start": 1393.38,
+      "end": 1397.54,
+      "text": "I'm sure you guys have heard Jack Dorsey talk about what he's doing with block."
+    },
+    {
+      "start": 1397.54,
+      "end": 1403.74,
+      "text": "He basically is trying to turn block into a mini-AGI around helping people in the world"
+    },
+    {
+      "start": 1403.74,
+      "end": 1406.58,
+      "text": "make payments to one another, right?"
+    },
+    {
+      "start": 1406.58,
+      "end": 1413.26,
+      "text": "And then this is actually the micro mechanism by which he's going to do that, right?"
+    },
+    {
+      "start": 1413.26,
+      "end": 1419.86,
+      "text": "You can look at the operation of any organization as the aggregate of, you know, I mean, the two-sentence"
+    },
+    {
+      "start": 1419.86,
+      "end": 1426.54,
+      "text": "pitch at YC is that sort of one of like thousands of things that I would argue we do for founders."
+    },
+    {
+      "start": 1426.54,
+      "end": 1432.78,
+      "text": "But, you know, we just walk through a very concrete way where someone wrote a prompt, used it,"
+    },
+    {
+      "start": 1432.78,
+      "end": 1437.94,
+      "text": "used a bunch more, other people used it, a bunch of artifacts came off of that around"
+    },
+    {
+      "start": 1437.94,
+      "end": 1443.3799999999999,
+      "text": "literally like the transcript of using it becomes a thing that can be used to meta-prompt"
+    },
+    {
+      "start": 1443.3799999999999,
+      "end": 1449.26,
+      "text": "and improve in an automated fashion on a daily basis the operation of that one skill."
+    },
+    {
+      "start": 1449.26,
+      "end": 1452.1399999999999,
+      "text": "And then suddenly that one skill, you just said it."
+    },
+    {
+      "start": 1452.14,
+      "end": 1458.8600000000001,
+      "text": "That skill is now better than any of us individually than before we actually had access to that."
+    },
+    {
+      "start": 1458.8600000000001,
+      "end": 1465.5800000000002,
+      "text": "And so this is like a particular like needle pin prick in the fabric of like how any organization"
+    },
+    {
+      "start": 1465.5800000000002,
+      "end": 1466.8200000000002,
+      "text": "does things."
+    },
+    {
+      "start": 1466.8200000000002,
+      "end": 1470.38,
+      "text": "And then how do you build super intelligence inside a company?"
+    },
+    {
+      "start": 1470.38,
+      "end": 1472.94,
+      "text": "You do that on everything you do."
+    },
+    {
+      "start": 1472.94,
+      "end": 1474.46,
+      "text": "And it's not more complicated than that."
+    },
+    {
+      "start": 1474.46,
+      "end": 1478.5400000000002,
+      "text": "Like you literally just compose everything that you do and any given thing that any"
+    },
+    {
+      "start": 1478.54,
+      "end": 1485.34,
+      "text": "given person can do, you combine that in aggregate and in this particular process."
+    },
+    {
+      "start": 1485.34,
+      "end": 1487.62,
+      "text": "And like you have a super organization."
+    },
+    {
+      "start": 1487.62,
+      "end": 1491.98,
+      "text": "It's possible now like every single person watching this can do this at any company,"
+    },
+    {
+      "start": 1491.98,
+      "end": 1494.26,
+      "text": "at their own company, they can do it at their job."
+    },
+    {
+      "start": 1494.26,
+      "end": 1497.82,
+      "text": "I mean, the interesting thing is that's why you should start a startup because people"
+    },
+    {
+      "start": 1497.82,
+      "end": 1502.62,
+      "text": "are going to be trapped in organizations with people running organizations that are very"
+    },
+    {
+      "start": 1502.62,
+      "end": 1506.82,
+      "text": "powerful and have all these resources and all this capital that do not believe what we"
+    },
+    {
+      "start": 1506.82,
+      "end": 1507.82,
+      "text": "just said."
+    },
+    {
+      "start": 1507.82,
+      "end": 1512.1,
+      "text": "And keep all the context locked down because it's unsafe and safe."
+    },
+    {
+      "start": 1512.1,
+      "end": 1516.3799999999999,
+      "text": "This is one of those things that we talk about how to build that AI native organization,"
+    },
+    {
+      "start": 1516.3799999999999,
+      "end": 1517.3799999999999,
+      "text": "right?"
+    },
+    {
+      "start": 1517.3799999999999,
+      "end": 1521.5,
+      "text": "Part of the key thing is not to just use AI as a copilot."
+    },
+    {
+      "start": 1521.5,
+      "end": 1525.46,
+      "text": "I think that's very 2023 for, right?"
+    },
+    {
+      "start": 1525.46,
+      "end": 1532.5,
+      "text": "This is the thing where you use it as a really the building layer for everything."
+    },
+    {
+      "start": 1532.5,
+      "end": 1535.78,
+      "text": "And you need to start recording all the artifacts."
+    },
+    {
+      "start": 1535.78,
+      "end": 1539.54,
+      "text": "People who don't have thought of a meeting recordings, and it is one of those reasons"
+    },
+    {
+      "start": 1539.54,
+      "end": 1542.98,
+      "text": "why all these meeting recorders have been taking off."
+    },
+    {
+      "start": 1542.98,
+      "end": 1546.26,
+      "text": "People have been finding them with coaching them on the meetings, but it's not just that."
+    },
+    {
+      "start": 1546.26,
+      "end": 1552.7,
+      "text": "You could take that and improve all the output for you that you do, like writing emails,"
+    },
+    {
+      "start": 1552.7,
+      "end": 1556.3,
+      "text": "communication, planning, you have the whole context of everything."
+    },
+    {
+      "start": 1556.3,
+      "end": 1560.1399999999999,
+      "text": "Here's one thing I remember the Darrier essay where it's like there's some of the blockers"
+    },
+    {
+      "start": 1560.1399999999999,
+      "end": 1563.5,
+      "text": "and just the rate of progression of AI are not technical, they're just sort of like"
+    },
+    {
+      "start": 1563.5,
+      "end": 1567.14,
+      "text": "social cultural things, things kind of like a really interesting example."
+    },
+    {
+      "start": 1567.14,
+      "end": 1571.1,
+      "text": "Two years ago it would have seemed, I just remember it felt odd to just like record a meeting"
+    },
+    {
+      "start": 1571.1,
+      "end": 1574.74,
+      "text": "or like there was people trying to figure out what the like social etiquette around"
+    },
+    {
+      "start": 1574.74,
+      "end": 1577.94,
+      "text": "it was and like how intrusive it was."
+    },
+    {
+      "start": 1577.94,
+      "end": 1582.58,
+      "text": "And today I just feel like it's almost like default assumed that like most beings are"
+    },
+    {
+      "start": 1582.58,
+      "end": 1585.7,
+      "text": "being required, especially if they're on Zoom, but just in general like everyone started"
+    },
+    {
+      "start": 1585.7,
+      "end": 1587.7,
+      "text": "recording things now."
+    },
+    {
+      "start": 1587.7,
+      "end": 1592.82,
+      "text": "It's a little scary, but I think if you frame this as a way for everyone in an organization"
+    },
+    {
+      "start": 1592.82,
+      "end": 1599.26,
+      "text": "to get better at what they do using the like collective skill and instinct of the people"
+    },
+    {
+      "start": 1599.26,
+      "end": 1602.4199999999998,
+      "text": "they work with, it's incredibly powerful."
+    },
+    {
+      "start": 1602.4199999999998,
+      "end": 1608.5,
+      "text": "Having a canonical two sentence description skill is not just a way to like generate a"
+    },
+    {
+      "start": 1608.5,
+      "end": 1610.78,
+      "text": "snippet of text for a founder."
+    },
+    {
+      "start": 1610.78,
+      "end": 1616.06,
+      "text": "It's a way to help me get better at understanding what makes for effective founder communication,"
+    },
+    {
+      "start": 1616.06,
+      "end": 1617.06,
+      "text": "right?"
+    },
+    {
+      "start": 1617.06,
+      "end": 1620.98,
+      "text": "Because now I can tap into everything that Diana and Hards and you two have learned"
+    },
+    {
+      "start": 1620.98,
+      "end": 1624.9,
+      "text": "over the many years you've done this job, which are now kind of baked into this skill"
+    },
+    {
+      "start": 1624.9,
+      "end": 1626.82,
+      "text": "through the conversations that you've had."
+    },
+    {
+      "start": 1626.82,
+      "end": 1628.58,
+      "text": "It's like a shared organizational brain."
+    },
+    {
+      "start": 1628.58,
+      "end": 1629.58,
+      "text": "Yes."
+    },
+    {
+      "start": 1629.58,
+      "end": 1633.34,
+      "text": "It's like the closest thing to us being able to like connect our brains, right?"
+    },
+    {
+      "start": 1633.34,
+      "end": 1634.34,
+      "text": "It totally is, right?"
+    },
+    {
+      "start": 1634.34,
+      "end": 1638.58,
+      "text": "And I can have an agent now come and I can do practice sessions with it, right?"
+    },
+    {
+      "start": 1638.58,
+      "end": 1640.22,
+      "text": "I can have it critique."
+    },
+    {
+      "start": 1640.22,
+      "end": 1645.34,
+      "text": "My like there are so many possibilities once you get all of this knowledge into a place"
+    },
+    {
+      "start": 1645.34,
+      "end": 1648.46,
+      "text": "where an agent can work with it."
+    },
+    {
+      "start": 1648.46,
+      "end": 1652.18,
+      "text": "It's a very empowering thing for every human in the organization."
+    },
+    {
+      "start": 1652.18,
+      "end": 1655.3400000000001,
+      "text": "There's some subtle interesting things around here that like, you know, other people might"
+    },
+    {
+      "start": 1655.3400000000001,
+      "end": 1657.5,
+      "text": "get wrong that like I feel like we've gotten right."
+    },
+    {
+      "start": 1657.5,
+      "end": 1664.42,
+      "text": "I mean, one of them is by default the agent conversation is actually globally viewable"
+    },
+    {
+      "start": 1664.42,
+      "end": 1667.78,
+      "text": "by any full time employee at YC."
+    },
+    {
+      "start": 1667.78,
+      "end": 1670.58,
+      "text": "You know, we sort of weren't sure about that decision."
+    },
+    {
+      "start": 1670.58,
+      "end": 1676.18,
+      "text": "I mean, it felt right and it felt like living in the future, but it did not come easily."
+    },
+    {
+      "start": 1676.18,
+      "end": 1681.0600000000002,
+      "text": "I feel like we had a lot of conversations about like, well, then everyone sees everything."
+    },
+    {
+      "start": 1681.0600000000002,
+      "end": 1682.0600000000002,
+      "text": "Is that okay?"
+    },
+    {
+      "start": 1682.0600000000002,
+      "end": 1683.6200000000001,
+      "text": "And like, you know, what is not okay?"
+    },
+    {
+      "start": 1683.6200000000001,
+      "end": 1687.9,
+      "text": "And then I'm glad we made the choice to keep it open, actually, because people learned"
+    },
+    {
+      "start": 1687.9,
+      "end": 1690.94,
+      "text": "how to use it from watching how other people use it."
+    },
+    {
+      "start": 1690.94,
+      "end": 1695.94,
+      "text": "We use that transparency to solve several problems at the same time."
+    },
+    {
+      "start": 1695.94,
+      "end": 1701.54,
+      "text": "One, every agent conversation, as you mentioned, was broadcast internally to a Slack channel."
+    },
+    {
+      "start": 1701.54,
+      "end": 1706.1399999999999,
+      "text": "And anybody could join that Slack channel and look and learn, right?"
+    },
+    {
+      "start": 1706.1399999999999,
+      "end": 1710.42,
+      "text": "And I remember this is another kind of big unlock when you started using it really heavily."
+    },
+    {
+      "start": 1710.42,
+      "end": 1713.62,
+      "text": "You were like super creative with the things you were doing with it."
+    },
+    {
+      "start": 1713.62,
+      "end": 1718.22,
+      "text": "And a lot of us watched that and was like, oh, wow, I didn't even occur to that now."
+    },
+    {
+      "start": 1718.22,
+      "end": 1719.82,
+      "text": "To use it that way, right?"
+    },
+    {
+      "start": 1719.82,
+      "end": 1724.6599999999999,
+      "text": "It allows you to be a little more lenient on internal security, right?"
+    },
+    {
+      "start": 1724.6599999999999,
+      "end": 1728.46,
+      "text": "One of the things we talked about earlier was this trade off where these agents are at"
+    },
+    {
+      "start": 1728.46,
+      "end": 1734.22,
+      "text": "their most powerful when they are given unrestricted access to lots of context, which runs counter"
+    },
+    {
+      "start": 1734.22,
+      "end": 1736.18,
+      "text": "to the way most organizations work."
+    },
+    {
+      "start": 1736.18,
+      "end": 1741.46,
+      "text": "It turns out that by defaulting to public broadcast for these conversations, you kind of"
+    },
+    {
+      "start": 1741.46,
+      "end": 1746.5,
+      "text": "institute a bit of a social control on what people can do with it."
+    },
+    {
+      "start": 1746.5,
+      "end": 1752.9,
+      "text": "That as we learned, I think has been like reasonably effective inside of this high trust environment"
+    },
+    {
+      "start": 1752.9,
+      "end": 1755.22,
+      "text": "at keeping private information private."
+    },
+    {
+      "start": 1755.38,
+      "end": 1762.58,
+      "text": "Yeah, what's interesting is it betrays two traits of truly agentic, like 1,000X super intelligent"
+    },
+    {
+      "start": 1762.58,
+      "end": 1768.58,
+      "text": "organizations that I would not have necessarily guessed would exist, but are now like must exist."
+    },
+    {
+      "start": 1768.58,
+      "end": 1773.38,
+      "text": "If you want to create this type of organization, you have to be relatively egalitarian and you"
+    },
+    {
+      "start": 1773.38,
+      "end": 1775.6200000000001,
+      "text": "also have to be trust by default."
+    },
+    {
+      "start": 1775.6200000000001,
+      "end": 1780.26,
+      "text": "And then neither of those things actually are most organizations in the world."
+    },
+    {
+      "start": 1780.26,
+      "end": 1783.58,
+      "text": "If you're the founder of an organization, you actually have to have those at the core"
+    },
+    {
+      "start": 1783.58,
+      "end": 1784.9,
+      "text": "of what you're doing."
+    },
+    {
+      "start": 1784.9,
+      "end": 1789.7,
+      "text": "I think that kind of environment, honestly, works best at startups when it's a small group"
+    },
+    {
+      "start": 1789.7,
+      "end": 1794.8200000000002,
+      "text": "of people that are all aligned in operating in a high trust environment."
+    },
+    {
+      "start": 1794.8200000000002,
+      "end": 1799.3400000000001,
+      "text": "The other thing you have to do is be willing to spend like 10 to $100,000 a year on tokens,"
+    },
+    {
+      "start": 1799.3400000000001,
+      "end": 1804.7,
+      "text": "but if you're willing to do it and you invest in the skills and you actually do everything"
+    },
+    {
+      "start": 1804.7,
+      "end": 1809.22,
+      "text": "in an open way with your team that way, basically what I realize is it allows you to"
+    },
+    {
+      "start": 1809.22,
+      "end": 1812.22,
+      "text": "live in 2028."
+    },
+    {
+      "start": 1812.22,
+      "end": 1819.8600000000001,
+      "text": "What you spend $100,000 or $1,000,000 a year on now, it will be commonplace in two years."
+    },
+    {
+      "start": 1819.8600000000001,
+      "end": 1824.46,
+      "text": "It won't cost $100,000 in a year, it'll cost $10,000, and the year after that, it'll"
+    },
+    {
+      "start": 1824.46,
+      "end": 1828.82,
+      "text": "be a couple of hundred bucks and everyone will do it and we'll call it like this is how"
+    },
+    {
+      "start": 1828.82,
+      "end": 1830.22,
+      "text": "companies are now."
+    },
+    {
+      "start": 1830.22,
+      "end": 1836.18,
+      "text": "So basically, there's a one time time warp where you can leapfrog every incumbent, all"
+    },
+    {
+      "start": 1836.18,
+      "end": 1841.18,
+      "text": "Fortune 500s, all startups that exist by doing this."
+    },
+    {
+      "start": 1841.18,
+      "end": 1845.5,
+      "text": "Like I'm imagining in the 90s, I wonder if it felt similarly when companies started buying"
+    },
+    {
+      "start": 1845.5,
+      "end": 1847.14,
+      "text": "computers for their employees."
+    },
+    {
+      "start": 1847.14,
+      "end": 1850.94,
+      "text": "Yeah, they were probably very expensive and probably only certain companies really invested"
+    },
+    {
+      "start": 1850.94,
+      "end": 1857.14,
+      "text": "in buying these expensive, flaky computer systems for their employees, but what a super"
+    },
+    {
+      "start": 1857.14,
+      "end": 1860.38,
+      "text": "power to have a computer when your competitors don't have computers."
+    },
+    {
+      "start": 1860.5400000000002,
+      "end": 1866.94,
+      "text": "I think more tactically how I've seen this affect YC has been raising the floor."
+    },
+    {
+      "start": 1866.94,
+      "end": 1867.94,
+      "text": "The floor in a sense."
+    },
+    {
+      "start": 1867.94,
+      "end": 1871.3000000000002,
+      "text": "What I mean by that is that you could have a new employee joining and maybe would have"
+    },
+    {
+      "start": 1871.3000000000002,
+      "end": 1876.42,
+      "text": "taken them six months to ramp up, but with this is sort of like they automatically get"
+    },
+    {
+      "start": 1876.42,
+      "end": 1879.94,
+      "text": "a lot of the context from the company working and they know how the best people on the"
+    },
+    {
+      "start": 1879.94,
+      "end": 1886.66,
+      "text": "star players in the organization do things by apprenticeship automatically with AI instead"
+    },
+    {
+      "start": 1886.66,
+      "end": 1891.22,
+      "text": "of a because partner time is expensive or sometimes the best people in the org, they're"
+    },
+    {
+      "start": 1891.22,
+      "end": 1892.8200000000002,
+      "text": "very busy, right?"
+    },
+    {
+      "start": 1892.8200000000002,
+      "end": 1897.42,
+      "text": "And you get to kind of run the simulation of what is like to be like Pete when he does like"
+    },
+    {
+      "start": 1897.42,
+      "end": 1902.78,
+      "text": "an awesome job of coaching founders on sales or like Gary when he's like talking to founders"
+    },
+    {
+      "start": 1902.78,
+      "end": 1904.8200000000002,
+      "text": "are giving very specific advice."
+    },
+    {
+      "start": 1904.8200000000002,
+      "end": 1910.66,
+      "text": "I think it helps all the new new entrance in the organization just be a mini version"
+    },
+    {
+      "start": 1910.66,
+      "end": 1912.42,
+      "text": "of you a lot faster."
+    },
+    {
+      "start": 1912.42,
+      "end": 1916.46,
+      "text": "One of the first things that I appreciated about being able to use a coding agent was"
+    },
+    {
+      "start": 1916.46,
+      "end": 1922.02,
+      "text": "that all of the dumb questions I was too embarrassed to ask, I had no trouble asking"
+    },
+    {
+      "start": 1922.02,
+      "end": 1926.82,
+      "text": "asking the agent and this is kind of that same thing but at an organizational level, right?"
+    },
+    {
+      "start": 1926.82,
+      "end": 1931.46,
+      "text": "You're a brand new employee, you're embarrassed to ask, you don't want to bug hard with a question"
+    },
+    {
+      "start": 1931.46,
+      "end": 1933.3,
+      "text": "and now you don't have to, right?"
+    },
+    {
+      "start": 1933.3,
+      "end": 1938.82,
+      "text": "Which on that means a lot more questions get asked and answered and people ramp up much"
+    },
+    {
+      "start": 1938.82,
+      "end": 1940.14,
+      "text": "more quickly."
+    },
+    {
+      "start": 1940.14,
+      "end": 1944.94,
+      "text": "After you had built all of this agent infrastructure at YC, it inspired you to write this essay"
+    },
+    {
+      "start": 1944.94,
+      "end": 1949.14,
+      "text": "Horseless Carriages that went like pretty viral on the internet, maybe you can like explain"
+    },
+    {
+      "start": 1949.14,
+      "end": 1950.74,
+      "text": "the ideas behind Horseless Carriages."
+    },
+    {
+      "start": 1950.74,
+      "end": 1952.38,
+      "text": "I think you're still very relevant now."
+    },
+    {
+      "start": 1952.38,
+      "end": 1958.14,
+      "text": "It was a critique of a lot of the AI software that I saw being built at the time."
+    },
+    {
+      "start": 1958.14,
+      "end": 1961.38,
+      "text": "And to be totally honest, I think a lot of it still falls into this."
+    },
+    {
+      "start": 1961.38,
+      "end": 1962.38,
+      "text": "It's still like that."
+    },
+    {
+      "start": 1962.38,
+      "end": 1963.38,
+      "text": "Yeah, it didn't change."
+    },
+    {
+      "start": 1963.38,
+      "end": 1964.38,
+      "text": "Yes."
+    },
+    {
+      "start": 1964.38,
+      "end": 1971.02,
+      "text": "I just saw a lot of examples of companies building software and adding AI features by sort"
+    },
+    {
+      "start": 1971.02,
+      "end": 1975.62,
+      "text": "of slotting a little bit of AI inside of a lot of software, right?"
+    },
+    {
+      "start": 1975.62,
+      "end": 1982.62,
+      "text": "And the example that I used at the time was the kind of email writer that the Gmail team"
+    },
+    {
+      "start": 1982.62,
+      "end": 1983.62,
+      "text": "had shipped."
+    },
+    {
+      "start": 1983.62,
+      "end": 1989.42,
+      "text": "But the real idea underneath was this kind of that the potential for AI is to shift control"
+    },
+    {
+      "start": 1989.42,
+      "end": 1993.78,
+      "text": "of software from the developer to the user, right?"
+    },
+    {
+      "start": 1993.78,
+      "end": 1998.42,
+      "text": "And the simple example I started with was basically that all of these kind of like AI"
+    },
+    {
+      "start": 1998.42,
+      "end": 2005.6200000000001,
+      "text": "as a little feature kept a bunch of prompts context about how the AI should do a job locked"
+    },
+    {
+      "start": 2005.6200000000001,
+      "end": 2009.66,
+      "text": "away and hidden from the user, which was just this classic example of like, well, it's"
+    },
+    {
+      "start": 2009.66,
+      "end": 2012.94,
+      "text": "the developer's job to figure out how all of this stuff should work."
+    },
+    {
+      "start": 2012.94,
+      "end": 2017.02,
+      "text": "So the developer should write that and we should protect the user from that kind of complexity."
+    },
+    {
+      "start": 2017.02,
+      "end": 2018.42,
+      "text": "Safety is on the hate it."
+    },
+    {
+      "start": 2018.42,
+      "end": 2019.42,
+      "text": "Right."
+    },
+    {
+      "start": 2019.42,
+      "end": 2024.3400000000001,
+      "text": "And it's just again, going back to this contrast between watching the way that some of these"
+    },
+    {
+      "start": 2024.3400000000001,
+      "end": 2030.9,
+      "text": "tools work and what it was like to use a coding agent on my computer that could do anything,"
+    },
+    {
+      "start": 2030.9,
+      "end": 2031.9,
+      "text": "right?"
+    },
+    {
+      "start": 2031.9,
+      "end": 2034.46,
+      "text": "And feeling like I had superpowers."
+    },
+    {
+      "start": 2034.46,
+      "end": 2040.9,
+      "text": "I think the conclusion that this essay points to is that as we get better at building AI"
+    },
+    {
+      "start": 2040.9,
+      "end": 2048.1800000000003,
+      "text": "native software, it's going to look a lot more like the agent wrapping software deterministic"
+    },
+    {
+      "start": 2048.1800000000003,
+      "end": 2053.1800000000003,
+      "text": "tools rather than deterministic software wrapping in AI, right?"
+    },
+    {
+      "start": 2053.18,
+      "end": 2057.8599999999997,
+      "text": "And we've done our best to expose that to internal employees with some of these primitives"
+    },
+    {
+      "start": 2057.8599999999997,
+      "end": 2061.1,
+      "text": "that we've built, but we have a lot, we have a long way to go."
+    },
+    {
+      "start": 2061.1,
+      "end": 2065.06,
+      "text": "The chat as the interface, I just feel something, there's like things going around right now"
+    },
+    {
+      "start": 2065.06,
+      "end": 2069.18,
+      "text": "about how there's a need to build new interface for like AI and what does that look like?"
+    },
+    {
+      "start": 2069.18,
+      "end": 2073.22,
+      "text": "And I think that just comes from people who haven't like touched and felt it, yeah?"
+    },
+    {
+      "start": 2073.22,
+      "end": 2076.8999999999996,
+      "text": "Chat is actually pretty good because like you trust the agent, you increasingly trust"
+    },
+    {
+      "start": 2076.8999999999996,
+      "end": 2080.54,
+      "text": "the agent to do more of the work and you trust its decisions and you don't actually"
+    },
+    {
+      "start": 2080.54,
+      "end": 2085.5,
+      "text": "need to like have too much of a UI to go in and like review the things it's doing."
+    },
+    {
+      "start": 2085.5,
+      "end": 2086.5,
+      "text": "It's fun."
+    },
+    {
+      "start": 2086.5,
+      "end": 2087.74,
+      "text": "It's fun for just in time software."
+    },
+    {
+      "start": 2087.74,
+      "end": 2088.98,
+      "text": "Yeah, basically, right?"
+    },
+    {
+      "start": 2088.98,
+      "end": 2094.02,
+      "text": "But yes, occasionally you want it to present you like maybe like a specific view or something,"
+    },
+    {
+      "start": 2094.02,
+      "end": 2095.02,
+      "text": "but."
+    },
+    {
+      "start": 2095.02,
+      "end": 2099.14,
+      "text": "And it could make the software and build it as a single page JavaScript just purposely"
+    },
+    {
+      "start": 2099.14,
+      "end": 2103.34,
+      "text": "built for you at that moment, and it could be a skill file that could be like called"
+    },
+    {
+      "start": 2103.34,
+      "end": 2104.34,
+      "text": "anytime you want."
+    },
+    {
+      "start": 2104.34,
+      "end": 2108.2599999999998,
+      "text": "I was thinking a lot about this because I used to be in the camp that, oh, perhaps when"
+    },
+    {
+      "start": 2108.26,
+      "end": 2113.1800000000003,
+      "text": "Chat GPD came out in 2023, that perhaps Chat was not going to be the UI for all these"
+    },
+    {
+      "start": 2113.1800000000003,
+      "end": 2115.5,
+      "text": "AI applications."
+    },
+    {
+      "start": 2115.5,
+      "end": 2117.0200000000004,
+      "text": "And I've definitely changed my mind."
+    },
+    {
+      "start": 2117.0200000000004,
+      "end": 2121.5,
+      "text": "Part of it is after experiencing all these tools and I think the more I reflect upon it,"
+    },
+    {
+      "start": 2121.5,
+      "end": 2126.7000000000003,
+      "text": "why Chat is probably the better interface is because it's the closest thing to human language"
+    },
+    {
+      "start": 2126.7000000000003,
+      "end": 2132.7400000000002,
+      "text": "and human language and writing is basically a closest thing to expression of thinking."
+    },
+    {
+      "start": 2132.7400000000002,
+      "end": 2136.78,
+      "text": "So Chat is the closest stepping stone to clear intelligence."
+    },
+    {
+      "start": 2136.78,
+      "end": 2137.78,
+      "text": "Yeah."
+    },
+    {
+      "start": 2137.78,
+      "end": 2140.0600000000004,
+      "text": "You can't just put it in a box."
+    },
+    {
+      "start": 2140.0600000000004,
+      "end": 2143.6600000000003,
+      "text": "I think it just constrain is too much to have a very specific box."
+    },
+    {
+      "start": 2143.6600000000003,
+      "end": 2148.46,
+      "text": "So that's why I thought it's like, okay, all in with Chat interfaces, are you speaking"
+    },
+    {
+      "start": 2148.46,
+      "end": 2149.46,
+      "text": "to the other camp?"
+    },
+    {
+      "start": 2149.46,
+      "end": 2153.2200000000003,
+      "text": "And it's like, it's multi-mode, or I know we've talked about like telegram is not ideal,"
+    },
+    {
+      "start": 2153.2200000000003,
+      "end": 2154.2200000000003,
+      "text": "but it's pretty good."
+    },
+    {
+      "start": 2154.2200000000003,
+      "end": 2155.2200000000003,
+      "text": "Yeah, it's really good."
+    },
+    {
+      "start": 2155.2200000000003,
+      "end": 2158.6600000000003,
+      "text": "I mean, the voice memo, sometimes when I don't want to type, you just do the voice memo"
+    },
+    {
+      "start": 2158.6600000000003,
+      "end": 2163.7000000000003,
+      "text": "and it's, it feels like I'm talking to, I can give it text, I can give it voice,"
+    },
+    {
+      "start": 2163.7,
+      "end": 2167.62,
+      "text": "I can give it pictures of things, like files, like it's like pretty good."
+    },
+    {
+      "start": 2167.62,
+      "end": 2169.5,
+      "text": "Yeah, I just experienced this."
+    },
+    {
+      "start": 2169.5,
+      "end": 2173.66,
+      "text": "So like January, I think the last episode we did, I just talked about this, like I spent"
+    },
+    {
+      "start": 2173.66,
+      "end": 2180.3399999999997,
+      "text": "January and through February building half a million lines of code for a Rails app,"
+    },
+    {
+      "start": 2180.3399999999997,
+      "end": 2183.9399999999996,
+      "text": "which was Gary's list, and it was like, yeah, I know people make fun of me for like, it"
+    },
+    {
+      "start": 2183.9399999999996,
+      "end": 2186.74,
+      "text": "was a blog, but it was like, I built the blog in like the first week."
+    },
+    {
+      "start": 2186.74,
+      "end": 2191.98,
+      "text": "Like I spent a month and a half building a full, agentic framework that did like my own"
+    },
+    {
+      "start": 2191.98,
+      "end": 2197.06,
+      "text": "version of deep research and like fact checking, but the thing is I built it the way I would"
+    },
+    {
+      "start": 2197.06,
+      "end": 2201.54,
+      "text": "have built software in 2013, the last time I wrote code, it was like the web 2.0 version"
+    },
+    {
+      "start": 2201.54,
+      "end": 2204.54,
+      "text": "of this, and cloud code lets you do that."
+    },
+    {
+      "start": 2204.54,
+      "end": 2209.66,
+      "text": "And what's crazy to connect is like, I'm working like, I don't know, I think I wrote"
+    },
+    {
+      "start": 2209.66,
+      "end": 2214.5,
+      "text": "like 40,000 lines of code the last three days just for G-brain."
+    },
+    {
+      "start": 2214.5,
+      "end": 2219.7400000000002,
+      "text": "And G-brain is basically Gary's list 2.0, but it's totally a source, right?"
+    },
+    {
+      "start": 2219.7400000000002,
+      "end": 2226.26,
+      "text": "So everything I had to write for agentic retrieval, everything I had to do for voice extraction,"
+    },
+    {
+      "start": 2226.26,
+      "end": 2232.0600000000004,
+      "text": "everything I had to do for fact checking, all of that now exists inside G-brain and I just"
+    },
+    {
+      "start": 2232.0600000000004,
+      "end": 2238.1400000000003,
+      "text": "gave it to my, you know, Gary's list team yesterday as their own OpenClaw instance."
+    },
+    {
+      "start": 2238.1400000000003,
+      "end": 2239.5800000000004,
+      "text": "And they're flying now, right?"
+    },
+    {
+      "start": 2239.5800000000004,
+      "end": 2244.86,
+      "text": "Like they were complaining about like, I had made, you know, this monolithic writer chat"
+    },
+    {
+      "start": 2244.86,
+      "end": 2249.1000000000004,
+      "text": "interface and it was like full of bugs because I was like, re-implementing things that"
+    },
+    {
+      "start": 2249.1,
+      "end": 2251.46,
+      "text": "OpenClaw and Telegram already do."
+    },
+    {
+      "start": 2251.46,
+      "end": 2257.2999999999997,
+      "text": "And now they just use OpenClaw Telegram and my retrieval system with like all the same"
+    },
+    {
+      "start": 2257.2999999999997,
+      "end": 2260.58,
+      "text": "data that I extracted it out and with our MCP."
+    },
+    {
+      "start": 2260.58,
+      "end": 2261.58,
+      "text": "And it's working great."
+    },
+    {
+      "start": 2261.58,
+      "end": 2266.9,
+      "text": "Like basically, you know, Gary's list 2.0, the next rewrite thankfully is not half a million"
+    },
+    {
+      "start": 2266.9,
+      "end": 2273.62,
+      "text": "lines of Rails code that is like insane to actually, you know, it's rigid, it takes"
+    },
+    {
+      "start": 2273.62,
+      "end": 2275.5,
+      "text": "a long time, it like takes like 10 times long."
+    },
+    {
+      "start": 2275.5,
+      "end": 2280.7,
+      "text": "You know, even though it was 1-100th the amount of time to do it by hand, you don't have"
+    },
+    {
+      "start": 2280.7,
+      "end": 2281.7,
+      "text": "to do it by hand."
+    },
+    {
+      "start": 2281.7,
+      "end": 2288.3,
+      "text": "Like that half a million lines of code in Rails is easily like 10,000 lines of like TypeScript"
+    },
+    {
+      "start": 2288.3,
+      "end": 2291.46,
+      "text": "and like maybe 2,000 lines of markdown."
+    },
+    {
+      "start": 2291.46,
+      "end": 2293.86,
+      "text": "And all of that is way more dynamic."
+    },
+    {
+      "start": 2293.86,
+      "end": 2298.66,
+      "text": "Like you could just say like actually for the second paragraph, I really like including"
+    },
+    {
+      "start": 2298.66,
+      "end": 2302.18,
+      "text": "a biography of like the politician we're focusing on."
+    },
+    {
+      "start": 2302.18,
+      "end": 2304.98,
+      "text": "And it's like, I don't have to code that in Rails."
+    },
+    {
+      "start": 2304.98,
+      "end": 2311.14,
+      "text": "I don't even have to write that into a Ruby file that then gets evaled in like, you"
+    },
+    {
+      "start": 2311.14,
+      "end": 2314.9,
+      "text": "know, my complex eval infrastructure, like OpenClaw just knows that."
+    },
+    {
+      "start": 2314.9,
+      "end": 2316.66,
+      "text": "And I have an eval skill."
+    },
+    {
+      "start": 2316.66,
+      "end": 2321.02,
+      "text": "My editor-in-chief can just change it on the fly and I didn't touch it."
+    },
+    {
+      "start": 2321.02,
+      "end": 2323.1,
+      "text": "And it's like, this is insane actually."
+    },
+    {
+      "start": 2323.1,
+      "end": 2327.18,
+      "text": "Like this is actually the dawn of Justin Time Software and I can see it right now."
+    },
+    {
+      "start": 2327.18,
+      "end": 2332.82,
+      "text": "The best AI software that I've used, whether it's inside of YC or tools that others have"
+    },
+    {
+      "start": 2332.82,
+      "end": 2336.6600000000003,
+      "text": "built, tend to be very small."
+    },
+    {
+      "start": 2336.6600000000003,
+      "end": 2342.38,
+      "text": "And just add kind of the smallest amount of code ahead of time that you need in order"
+    },
+    {
+      "start": 2342.38,
+      "end": 2345.34,
+      "text": "to let the model shine."
+    },
+    {
+      "start": 2345.34,
+      "end": 2348.3,
+      "text": "And you can build an awful lot with that, right?"
+    },
+    {
+      "start": 2348.3,
+      "end": 2352.1400000000003,
+      "text": "I can write 10,000 lines of code like you're saying."
+    },
+    {
+      "start": 2352.1400000000003,
+      "end": 2357.42,
+      "text": "But the ability to start at this like extremely simple thing that I need to understand very"
+    },
+    {
+      "start": 2357.42,
+      "end": 2360.7400000000002,
+      "text": "little in order to use is incredibly powerful."
+    },
+    {
+      "start": 2360.7400000000002,
+      "end": 2363.86,
+      "text": "And I think that's, I think most software in the future is going to look like that."
+    },
+    {
+      "start": 2363.86,
+      "end": 2367.26,
+      "text": "We were talking about this earlier, but I think that is what OpenClaw did really well."
+    },
+    {
+      "start": 2367.26,
+      "end": 2369.34,
+      "text": "Like there were like a few things that you wanted."
+    },
+    {
+      "start": 2369.34,
+      "end": 2373.7000000000003,
+      "text": "You wanted like some ability to give it a bit of personality, you wanted it to like persist"
+    },
+    {
+      "start": 2373.7000000000003,
+      "end": 2376.3,
+      "text": "and last for a long time and have some constant memory."
+    },
+    {
+      "start": 2376.3,
+      "end": 2381.9,
+      "text": "And it's not like perfect, but that's actually like good enough as like for that use case."
+    },
+    {
+      "start": 2381.9,
+      "end": 2383.1400000000003,
+      "text": "A cloud code too."
+    },
+    {
+      "start": 2383.1400000000003,
+      "end": 2388.6600000000003,
+      "text": "Every time Boris comes and speaks at Westie, he spoke with Diana earlier this week."
+    },
+    {
+      "start": 2388.66,
+      "end": 2392.3399999999997,
+      "text": "And one of the things that really stands out is how obsessed he is with simplicity and"
+    },
+    {
+      "start": 2392.3399999999997,
+      "end": 2395.74,
+      "text": "with just like making the product as small as possible."
+    },
+    {
+      "start": 2395.74,
+      "end": 2400.46,
+      "text": "My favorite example of this is this open source harness called pie."
+    },
+    {
+      "start": 2400.46,
+      "end": 2401.46,
+      "text": "Which is a pie."
+    },
+    {
+      "start": 2401.46,
+      "end": 2406.22,
+      "text": "That's what OpenClaw uses out of the box, it's this beautiful piece of software which is"
+    },
+    {
+      "start": 2406.22,
+      "end": 2409.18,
+      "text": "just like the smallest possible coding agent."
+    },
+    {
+      "start": 2409.18,
+      "end": 2413.02,
+      "text": "You can use pie to modify and extend pie, right?"
+    },
+    {
+      "start": 2413.02,
+      "end": 2417.2599999999998,
+      "text": "And it's this kind of idea of like self-extending and self-referential software, it's really"
+    },
+    {
+      "start": 2417.26,
+      "end": 2418.26,
+      "text": "fascinating."
+    },
+    {
+      "start": 2418.26,
+      "end": 2420.78,
+      "text": "And you're right, OpenClaw is built on top of that."
+    },
+    {
+      "start": 2420.78,
+      "end": 2424.1000000000004,
+      "text": "One of the things I'm very curious to see is how many other sort of pieces of classic"
+    },
+    {
+      "start": 2424.1000000000004,
+      "end": 2429.98,
+      "text": "software emerge in this form as this kind of minimal thing that you start with and then"
+    },
+    {
+      "start": 2429.98,
+      "end": 2433.0200000000004,
+      "text": "use an agent to extend over time."
+    },
+    {
+      "start": 2433.0200000000004,
+      "end": 2436.82,
+      "text": "I think more and more, I mean, looking at honestly the benefits that we've gotten from having"
+    },
+    {
+      "start": 2436.82,
+      "end": 2442.26,
+      "text": "our own customizable software, I suspect that a lot of commercial software will come"
+    },
+    {
+      "start": 2442.26,
+      "end": 2445.98,
+      "text": "with this capability out of the box in the future."
+    },
+    {
+      "start": 2445.98,
+      "end": 2449.7,
+      "text": "There's a really interesting subtle thing that I wanted to talk about around like what"
+    },
+    {
+      "start": 2449.7,
+      "end": 2456.14,
+      "text": "I learned from your essay, which is like AI can either be centralizing or decentralizing."
+    },
+    {
+      "start": 2456.14,
+      "end": 2461.1,
+      "text": "And the Google Gmail, like I can't change the prompt thing, is like the perfect example"
+    },
+    {
+      "start": 2461.1,
+      "end": 2462.1,
+      "text": "of that."
+    },
+    {
+      "start": 2462.1,
+      "end": 2465.86,
+      "text": "We basically have a choice to be made over the next, I don't think it's even that long."
+    },
+    {
+      "start": 2465.86,
+      "end": 2471.66,
+      "text": "I think it's like 18 to 24 months, it might take five years but there are sort of two scenarios"
+    },
+    {
+      "start": 2471.66,
+      "end": 2478.7799999999997,
+      "text": "and what comes to mind is literally like the 1984 Macintosh commercial by Apple where"
+    },
+    {
+      "start": 2478.7799999999997,
+      "end": 2483.02,
+      "text": "it's like, is 2034 going to be like 1984?"
+    },
+    {
+      "start": 2483.02,
+      "end": 2489.06,
+      "text": "And the 1984 case would be, we have centralized control, like there are five kings, there's"
+    },
+    {
+      "start": 2489.06,
+      "end": 2495.22,
+      "text": "only one of them maybe wins, they have the most advanced AI, they have end run around"
+    },
+    {
+      "start": 2495.22,
+      "end": 2499.62,
+      "text": "all compute and power, they have all the space data centers because you can't build any"
+    },
+    {
+      "start": 2499.62,
+      "end": 2502.22,
+      "text": "terrestrial data centers in America anyway."
+    },
+    {
+      "start": 2502.22,
+      "end": 2507.3399999999997,
+      "text": "There's this like centralization of control and not only that, they don't let you run"
+    },
+    {
+      "start": 2507.3399999999997,
+      "end": 2513.2599999999998,
+      "text": "your own prompts, like they literally do the Gmail thing, but like for your whole computing"
+    },
+    {
+      "start": 2513.2599999999998,
+      "end": 2515.06,
+      "text": "existence, right?"
+    },
+    {
+      "start": 2515.06,
+      "end": 2519.5,
+      "text": "And this would be as if like personal computers never existed and there were only mainframes"
+    },
+    {
+      "start": 2519.5,
+      "end": 2523.06,
+      "text": "and many computers, like this is sort of lost to the sands of time."
+    },
+    {
+      "start": 2523.06,
+      "end": 2528.02,
+      "text": "But you know, in the 1960s and 70s when computers first came out, like you couldn't go to"
+    },
+    {
+      "start": 2528.02,
+      "end": 2533.14,
+      "text": "the store like you can today, you couldn't go to an Apple store and just buy an iPhone,"
+    },
+    {
+      "start": 2533.14,
+      "end": 2540.02,
+      "text": "let alone a Mac, you had to get access to like this thing that was worth like hundreds"
+    },
+    {
+      "start": 2540.02,
+      "end": 2544.14,
+      "text": "of thousands of dollars to millions of dollars and it was like, it was like tightly locked"
+    },
+    {
+      "start": 2544.14,
+      "end": 2549.34,
+      "text": "down by corporate policies here and the thing that really spurred the computing revolution"
+    },
+    {
+      "start": 2549.34,
+      "end": 2553.14,
+      "text": "was when people started having personal computers that they could experiment on."
+    },
+    {
+      "start": 2553.14,
+      "end": 2554.14,
+      "text": "Yeah."
+    },
+    {
+      "start": 2554.14,
+      "end": 2555.14,
+      "text": "And it was like the priesthood, right?"
+    },
+    {
+      "start": 2555.14,
+      "end": 2560.9,
+      "text": "There's a small priesthood and an institutional base that controlled capital, literally the"
+    },
+    {
+      "start": 2560.9,
+      "end": 2562.22,
+      "text": "means of production."
+    },
+    {
+      "start": 2562.22,
+      "end": 2567.8599999999997,
+      "text": "And so, you know, this is like a coherent future that we could live in that I don't want"
+    },
+    {
+      "start": 2567.8599999999997,
+      "end": 2568.8599999999997,
+      "text": "to live in."
+    },
+    {
+      "start": 2568.8599999999997,
+      "end": 2573.9,
+      "text": "And the alternative to that is actually embedded in the homebrew computer club."
+    },
+    {
+      "start": 2573.9,
+      "end": 2578.56,
+      "text": "It's embedded in the revolution that Steve Jobs and Steve Wozniak gave us when they were"
+    },
+    {
+      "start": 2578.56,
+      "end": 2582.46,
+      "text": "in the garage in Mountain View, literally soldering together breadboards."
+    },
+    {
+      "start": 2582.46,
+      "end": 2585.86,
+      "text": "I mean, like sold 500 of these Apple ones."
+    },
+    {
+      "start": 2585.86,
+      "end": 2587.98,
+      "text": "And I think we're at the Apple one moment right now."
+    },
+    {
+      "start": 2587.98,
+      "end": 2592.3,
+      "text": "We are coming up with the primitives, we are learning how do these things work and how"
+    },
+    {
+      "start": 2592.3,
+      "end": 2594.98,
+      "text": "do we sell it and how do we package it."
+    },
+    {
+      "start": 2594.98,
+      "end": 2597.58,
+      "text": "But then there's like a lot of choices right now, right?"
+    },
+    {
+      "start": 2597.58,
+      "end": 2604.62,
+      "text": "Like most people, the magic, you know, a billion users use ChatGPT and ChatGPT, like gives"
+    },
+    {
+      "start": 2604.62,
+      "end": 2609.18,
+      "text": "you a little access, but MCP is really locked down."
+    },
+    {
+      "start": 2609.18,
+      "end": 2615.3799999999997,
+      "text": "You actually, you know, can't hook things up to your own databases that easily."
+    },
+    {
+      "start": 2615.3799999999997,
+      "end": 2619.14,
+      "text": "And you know, for what safety, like I would argue, Claude is like a little bit more open,"
+    },
+    {
+      "start": 2619.14,
+      "end": 2624.3399999999997,
+      "text": "but not really, perplexity computer is probably the best version of it, but it's still like,"
+    },
+    {
+      "start": 2624.3399999999997,
+      "end": 2629.3799999999997,
+      "text": "you know, pretty limited compared to what you could do with OpenClaw and Hermes agent."
+    },
+    {
+      "start": 2629.3799999999997,
+      "end": 2635.66,
+      "text": "And so, what does the revolution look like that is like the true personal AI moment?"
+    },
+    {
+      "start": 2635.66,
+      "end": 2640.8999999999996,
+      "text": "And that's what I hope that we are building with things like G-Brain and, you know, Hermes"
+    },
+    {
+      "start": 2640.8999999999996,
+      "end": 2648.8199999999997,
+      "text": "agent and OpenClaw, like the ability to run your own software, to change your own prompts,"
+    },
+    {
+      "start": 2648.8199999999997,
+      "end": 2655.2999999999997,
+      "text": "to test all of it, to have your own private repo that like you know is only yours."
+    },
+    {
+      "start": 2655.2999999999997,
+      "end": 2660.14,
+      "text": "To be able to choose which model to use, and maybe it's an open weight model, like to"
+    },
+    {
+      "start": 2660.14,
+      "end": 2665.8599999999997,
+      "text": "me, that's sort of the white pill for AI, is we could have corporate control, no control"
+    },
+    {
+      "start": 2665.8599999999997,
+      "end": 2670.66,
+      "text": "of your own prompts, and like literally the AI happens to you, you know, you're under"
+    },
+    {
+      "start": 2670.66,
+      "end": 2677.18,
+      "text": "the API line, or like there's this other alternative where I want like a billion people"
+    },
+    {
+      "start": 2677.18,
+      "end": 2681.42,
+      "text": "to actually control and program for themselves."
+    },
+    {
+      "start": 2681.42,
+      "end": 2682.7,
+      "text": "What are these things?"
+    },
+    {
+      "start": 2682.7,
+      "end": 2687.3399999999997,
+      "text": "This should be an extension of yourself and what you care about, not what, you know,"
+    },
+    {
+      "start": 2687.54,
+      "end": 2691.38,
+      "text": "or alphabet, or even open AI or anthropic care about."
+    },
+    {
+      "start": 2691.38,
+      "end": 2697.2200000000003,
+      "text": "I always really bristle when I see AI framed as a way to replace people because it just"
+    },
+    {
+      "start": 2697.2200000000003,
+      "end": 2702.42,
+      "text": "doesn't match the way that I have experienced it, in the way that so many people around"
+    },
+    {
+      "start": 2702.42,
+      "end": 2707.46,
+      "text": "me have experienced it, not as a replacement for humans, but as a thing that empowers."
+    },
+    {
+      "start": 2707.46,
+      "end": 2713.0,
+      "text": "If you look at kind of how tech has developed since the era of mainframes to PCs, to the"
+    },
+    {
+      "start": 2713.0,
+      "end": 2718.12,
+      "text": "internet, which gave everyone like a publishing platform, like it's a story overall above"
+    },
+    {
+      "start": 2718.12,
+      "end": 2722.76,
+      "text": "all of individual empowerment, and I think AI is going to play out the same way."
+    },
+    {
+      "start": 2722.76,
+      "end": 2727.44,
+      "text": "I think it is going to enable us to do more than we could before."
+    },
+    {
+      "start": 2727.44,
+      "end": 2732.04,
+      "text": "I think it's going to eliminate kind of the drudgery style work that like made a lot of my"
+    },
+    {
+      "start": 2732.04,
+      "end": 2733.92,
+      "text": "job painful in the past."
+    },
+    {
+      "start": 2733.92,
+      "end": 2736.44,
+      "text": "To me, it's like we have to make choices to do so."
+    },
+    {
+      "start": 2736.44,
+      "end": 2742.28,
+      "text": "By default, like a company is not open, by default, a company is command and control."
+    },
+    {
+      "start": 2742.28,
+      "end": 2747.44,
+      "text": "By default, maybe the leadership gets access to these tools, but like the line level people,"
+    },
+    {
+      "start": 2747.44,
+      "end": 2750.44,
+      "text": "the staff people don't."
+    },
+    {
+      "start": 2750.44,
+      "end": 2755.32,
+      "text": "We need a radically different type of organization, and we need to actually offer computing in"
+    },
+    {
+      "start": 2755.32,
+      "end": 2757.5600000000004,
+      "text": "a different way."
+    },
+    {
+      "start": 2757.5600000000004,
+      "end": 2761.1600000000003,
+      "text": "These are all choices, and the people who are watching are going to be the people who"
+    },
+    {
+      "start": 2761.1600000000003,
+      "end": 2765.92,
+      "text": "build all these things in society, so we better choose well."
+    },
+    {
+      "start": 2765.92,
+      "end": 2768.2400000000002,
+      "text": "That's all the time we have for today."
+    },
+    {
+      "start": 2768.2400000000002,
+      "end": 2772.7200000000003,
+      "text": "I think we covered some pretty heavy staff, but Pete, thanks for joining us."
+    },
+    {
+      "start": 2772.7200000000003,
+      "end": 2773.7200000000003,
+      "text": "Thank you."
+    },
+    {
+      "start": 2773.7200000000003,
+      "end": 2774.7200000000003,
+      "text": "Thank you."
+    },
+    {
+      "start": 2774.7200000000003,
+      "end": 2775.7200000000003,
+      "text": "Thanks for watching guys."
+    },
+    {
+      "start": 2775.7200000000003,
+      "end": 2776.7200000000003,
+      "text": "We'll see you guys on the next one."
+    }
+  ]
+}

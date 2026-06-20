@@ -1,0 +1,1526 @@
+{
+  "id": "b3dc340c020c7ecc",
+  "show": "Goldman Sachs Exchanges",
+  "theme": "Macro & Rates",
+  "title": "The AI Investment Boom: When Will It Pay Off?",
+  "audio_url": "https://traffic.megaphone.fm/GLD6068973850.mp3",
+  "source": "local-whisper",
+  "duration": 1450.5,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.88,
+      "text": "Look, at some point you've got to make money. You make investments in a business so that"
+    },
+    {
+      "start": 8.88,
+      "end": 12.86,
+      "text": "you can generate returns and make money. And we've gotten further away from that over"
+    },
+    {
+      "start": 12.86,
+      "end": 16.240000000000002,
+      "text": "the last couple of years, instead of closer to it. That doesn't mean it's never going"
+    },
+    {
+      "start": 16.240000000000002,
+      "end": 19.28,
+      "text": "to happen. It just means the stakes are higher."
+    },
+    {
+      "start": 19.28,
+      "end": 23.400000000000002,
+      "text": "Welcome to another episode of Goldman Sachs Exchanges. I'm Al Sonathan, and I'm here with"
+    },
+    {
+      "start": 23.400000000000002,
+      "end": 27.48,
+      "text": "George Lee, co-head of the Goldman Sachs Global Institute. Together we're co-hosting"
+    },
+    {
+      "start": 27.48,
+      "end": 31.46,
+      "text": "a series of episodes, exploring the rise of AI, and everything it could mean for"
+    },
+    {
+      "start": 31.46,
+      "end": 34.480000000000004,
+      "text": "companies, investors, and economies."
+    },
+    {
+      "start": 34.480000000000004,
+      "end": 39.08,
+      "text": "George, great to see you again. Great to be here."
+    },
+    {
+      "start": 39.08,
+      "end": 43.16,
+      "text": "And this should be fun, George, because today we're talking to someone who, at least in"
+    },
+    {
+      "start": 43.16,
+      "end": 47.44,
+      "text": "the past several years, has really disagreed a fair amount, I think, or taken a different"
+    },
+    {
+      "start": 47.44,
+      "end": 53.019999999999996,
+      "text": "view than you on AI. Our guest is Jim Cabello, head of Global Equity Research, here at"
+    },
+    {
+      "start": 53.02,
+      "end": 57.06,
+      "text": "Goldman Sachs. And again, you've had many debates with Jim about this topic."
+    },
+    {
+      "start": 57.06,
+      "end": 60.82,
+      "text": "Well, first of all, it's great to have Jim here. He is both a great friend and a great"
+    },
+    {
+      "start": 60.82,
+      "end": 65.14,
+      "text": "thinker. And while we differ on some matters related AI, we actually, there's much that we"
+    },
+    {
+      "start": 65.14,
+      "end": 69.38,
+      "text": "agree on. And it's been very fun to have this dialogue over multiple years. So, welcome"
+    },
+    {
+      "start": 69.38,
+      "end": 70.38,
+      "text": "Jim."
+    },
+    {
+      "start": 70.38,
+      "end": 73.22,
+      "text": "Yeah, no, it's great to be here. Thank you. And I agree. George is everything that makes"
+    },
+    {
+      "start": 73.22,
+      "end": 77.54,
+      "text": "Goldman Sachs great to me. And it's been incredible going on this journey with you. And"
+    },
+    {
+      "start": 77.54,
+      "end": 78.54,
+      "text": "here we are again."
+    },
+    {
+      "start": 78.54,
+      "end": 80.34,
+      "text": "Here we are again, exactly."
+    },
+    {
+      "start": 80.34,
+      "end": 84.52000000000001,
+      "text": "So Jim, as we mentioned a couple of years ago, you came out with what I would characterize"
+    },
+    {
+      "start": 84.52000000000001,
+      "end": 90.56,
+      "text": "as a pretty skeptical, somewhat out of consensus view of generative AI. And you particularly"
+    },
+    {
+      "start": 90.56,
+      "end": 95.52000000000001,
+      "text": "questioned the economics of the technology. You had a lot of doubts about whether the"
+    },
+    {
+      "start": 95.52000000000001,
+      "end": 100.16,
+      "text": "returns the technology would generate, whatever really justify all of this cat-bex we have"
+    },
+    {
+      "start": 100.16,
+      "end": 104.80000000000001,
+      "text": "seen pouring into the technology over the last couple of years. So, to your zone, where do"
+    },
+    {
+      "start": 104.80000000000001,
+      "end": 105.80000000000001,
+      "text": "you think you've been right?"
+    },
+    {
+      "start": 105.80000000000001,
+      "end": 106.80000000000001,
+      "text": "Yeah."
+    },
+    {
+      "start": 106.80000000000001,
+      "end": 107.80000000000001,
+      "text": "And where have you been wrong?"
+    },
+    {
+      "start": 107.80000000000001,
+      "end": 108.80000000000001,
+      "text": "Yeah."
+    },
+    {
+      "start": 108.8,
+      "end": 112.52,
+      "text": "We like to start off with where we've been wrong. And so, we just published another report"
+    },
+    {
+      "start": 112.52,
+      "end": 115.8,
+      "text": "most recently where we started off with where we've been wrong. We called it the Mark"
+    },
+    {
+      "start": 115.8,
+      "end": 120.12,
+      "text": "to Market two years later versus the report that you and I worked on together. So, firstly,"
+    },
+    {
+      "start": 120.12,
+      "end": 124.28,
+      "text": "consumer adoption of AI has been magnificent, much greater than I expected. George accurately"
+    },
+    {
+      "start": 124.28,
+      "end": 128.96,
+      "text": "predicted that spot on. So, we've been wrong about that. One of the things that we talked"
+    },
+    {
+      "start": 128.96,
+      "end": 132.68,
+      "text": "a lot about in the original report, we talked about in this report is most consumers are"
+    },
+    {
+      "start": 132.68,
+      "end": 137.07999999999998,
+      "text": "still using a free version of AI. So, really, to get to the heart of the economic issue,"
+    },
+    {
+      "start": 137.08,
+      "end": 141.16000000000003,
+      "text": "we still really need to focus on the enterprise, but I do really think it's important to acknowledge"
+    },
+    {
+      "start": 141.16000000000003,
+      "end": 145.46,
+      "text": "how great consumer adoption has been and just how accurate George has been about that."
+    },
+    {
+      "start": 145.46,
+      "end": 149.24,
+      "text": "The second thing we talked about in the most recent report where we've been wrong was,"
+    },
+    {
+      "start": 149.24,
+      "end": 154.12,
+      "text": "we predicted two years ago that if the hyper-scaler stocks underperformed for a significant"
+    },
+    {
+      "start": 154.12,
+      "end": 158.68,
+      "text": "period of time, we would expect that they would scale back on the cat-bex. And they have"
+    },
+    {
+      "start": 158.68,
+      "end": 163.08,
+      "text": "underperformed because of the significant investment in cat-bex and the negative impact on their"
+    },
+    {
+      "start": 163.08,
+      "end": 166.88000000000002,
+      "text": "free cash flow, but instead of cutting the cat-bex, they've actually raised the cat-bex."
+    },
+    {
+      "start": 166.88000000000002,
+      "end": 171.36,
+      "text": "So, I think that that calls into question the economics even more going forward, but the"
+    },
+    {
+      "start": 171.36,
+      "end": 175.88000000000002,
+      "text": "reality of it is that they've massively increased the cat-bex despite the stocks underperforming,"
+    },
+    {
+      "start": 175.88000000000002,
+      "end": 181.64000000000001,
+      "text": "which is not what we expected. And then, I would add that I think the technology itself"
+    },
+    {
+      "start": 181.64000000000001,
+      "end": 186.68,
+      "text": "has made incredible progress, very consistent with George's predictions, and I think any"
+    },
+    {
+      "start": 186.68,
+      "end": 192.16000000000003,
+      "text": "conversation has to really emphasize that and acknowledge that. All of that said, I think"
+    },
+    {
+      "start": 192.16,
+      "end": 197.52,
+      "text": "the economics are still very much in question and of anything. I'm probably, as or more skeptical,"
+    },
+    {
+      "start": 197.52,
+      "end": 202.32,
+      "text": "on the economics today than I was before, despite how incredible the technology is."
+    },
+    {
+      "start": 202.32,
+      "end": 206.64,
+      "text": "Before George we said, let me just ask you, why do you think we have continued to see all of this"
+    },
+    {
+      "start": 206.64,
+      "end": 212.32,
+      "text": "cat-bex? I think there's a tremendous amount of FOMO at every level of the supply chain. And it"
+    },
+    {
+      "start": 212.32,
+      "end": 218.16,
+      "text": "doesn't mean that it's not justified. I just think that we're spending well in advance of where"
+    },
+    {
+      "start": 218.16,
+      "end": 222.72,
+      "text": "the economics are right now. And I think it's because everybody is afraid of what happens if the"
+    },
+    {
+      "start": 222.72,
+      "end": 229.12,
+      "text": "technology really takes off and finds significant positive economic use cases, and your competitors"
+    },
+    {
+      "start": 229.12,
+      "end": 232.64,
+      "text": "have that figured out and you don't. And I think that's everything from the enterprise level"
+    },
+    {
+      "start": 232.64,
+      "end": 237.35999999999999,
+      "text": "to the model layer, to the hyperscaler layer. And one of the things that we talk a lot about in"
+    },
+    {
+      "start": 237.35999999999999,
+      "end": 242.48,
+      "text": "our report is all of the value, all the economic value has continued to accrue to the semiconductor"
+    },
+    {
+      "start": 242.48,
+      "end": 247.2,
+      "text": "companies. It's been incredible economic value that's accrued to the semiconductor companies."
+    },
+    {
+      "start": 247.20000000000002,
+      "end": 250.96,
+      "text": "And we do talk a lot in the report that we've really never seen anything like that. I covered"
+    },
+    {
+      "start": 250.96,
+      "end": 257.12,
+      "text": "semiconductor stocks directly for 16 years. And in every cycle, the semiconductor stocks thrive"
+    },
+    {
+      "start": 257.12,
+      "end": 262.56,
+      "text": "when their customers thrive. Here in this cycle, the semiconductor companies are thriving at the"
+    },
+    {
+      "start": 262.56,
+      "end": 267.92,
+      "text": "economic expense of everybody above them in the chain. And so at some point that has to rectify"
+    },
+    {
+      "start": 267.92,
+      "end": 272.56,
+      "text": "itself. Either everybody above them in the chain needs to start to generate a profit as well,"
+    },
+    {
+      "start": 272.56,
+      "end": 277.36,
+      "text": "or they're going to have to eventually scale back on the semiconductor spending. And that's where"
+    },
+    {
+      "start": 277.36,
+      "end": 283.28000000000003,
+      "text": "we make the focus of this report. So George, is Jim right to be concerned about these economics?"
+    },
+    {
+      "start": 283.28000000000003,
+      "end": 287.04,
+      "text": "Yeah, I think there's actually one of the areas where we agree and we published a paper recently"
+    },
+    {
+      "start": 287.04,
+      "end": 291.28,
+      "text": "out of the Goldman Sachs Global Institute that talked about the scale of this investment,"
+    },
+    {
+      "start": 291.28,
+      "end": 297.04,
+      "text": "just how high the bar will be, how high the hill is that we have to climb to generate sufficient"
+    },
+    {
+      "start": 297.04,
+      "end": 302.24,
+      "text": "payback. And the nub of our analysis is pivoting off some of the work that Jim's done"
+    },
+    {
+      "start": 302.24,
+      "end": 308.0,
+      "text": "is that you have to move beyond the traditional notion of disruption of existing profit pools."
+    },
+    {
+      "start": 308.0,
+      "end": 312.32,
+      "text": "Jim and his team did a great piece about the advertising business and how much of that could be"
+    },
+    {
+      "start": 312.32,
+      "end": 317.84000000000003,
+      "text": "intervened by AI players, etc. And I think if you go profit pool by profit pool and sum up the"
+    },
+    {
+      "start": 317.84000000000003,
+      "end": 323.36,
+      "text": "opportunity, you've still fall short of a significant enough payoff from what we think will be"
+    },
+    {
+      "start": 323.36,
+      "end": 328.88,
+      "text": "seven to eight trillion dollars spent here. Now that to me is not the end game. I think the"
+    },
+    {
+      "start": 329.04,
+      "end": 335.28,
+      "text": "opportunity and in fact the imperative for this technology is to help create net new economic"
+    },
+    {
+      "start": 335.28,
+      "end": 341.6,
+      "text": "activity, breed new tams, create new affordances that we can't imagine. And this has been the history"
+    },
+    {
+      "start": 341.6,
+      "end": 346.88,
+      "text": "of major technological waves, whether it's agricultural revolution, industrial revolution,"
+    },
+    {
+      "start": 346.88,
+      "end": 351.6,
+      "text": "computer revolution, etc. But I certainly would stipulate to Jim's point that there's a big hill"
+    },
+    {
+      "start": 351.6,
+      "end": 357.76,
+      "text": "to climb for this payoff. The second thing I think we agree on though, I think we differ in terms"
+    },
+    {
+      "start": 357.76,
+      "end": 363.59999999999997,
+      "text": "of time scale on this is enterprise adoption is really important to this. It has been slower than"
+    },
+    {
+      "start": 363.59999999999997,
+      "end": 368.15999999999997,
+      "text": "we might have hoped or expected. And yet I try to anchor back to the fact that we are three and a"
+    },
+    {
+      "start": 368.15999999999997,
+      "end": 374.48,
+      "text": "half years into this. And this is a technology that is both novel. It's paramitically different than"
+    },
+    {
+      "start": 374.48,
+      "end": 380.0,
+      "text": "old technologies because it's probabilistic versus deterministic. There's a brand new stack of"
+    },
+    {
+      "start": 380.0,
+      "end": 384.88,
+      "text": "technologies required to deploy it in the enterprise. And there's an entirely new set of control planes"
+    },
+    {
+      "start": 384.96,
+      "end": 391.2,
+      "text": "necessary to use it responsibly effectively and compliantly. And so all of that just takes time. I"
+    },
+    {
+      "start": 391.2,
+      "end": 396.8,
+      "text": "continue to be very optimistic about the potential for this technology to reshape the way businesses work."
+    },
+    {
+      "start": 396.8,
+      "end": 402.08,
+      "text": "Just going to take a little bit longer than the avid consumer adoption that Jim referenced."
+    },
+    {
+      "start": 402.8,
+      "end": 406.88,
+      "text": "Aren't there all these tools, but that's been the big development in the last several months."
+    },
+    {
+      "start": 406.88,
+      "end": 411.92,
+      "text": "There's been these agentic tools that are now in terms of seeing the vision ahead of how to"
+    },
+    {
+      "start": 411.92,
+      "end": 417.2,
+      "text": "incorporate some of this technology. So doesn't that give you some optimism, some reason for hope, Jim?"
+    },
+    {
+      "start": 417.2,
+      "end": 421.92,
+      "text": "Yeah, the technology itself is terrific. And as George predicted a couple of years ago, the"
+    },
+    {
+      "start": 421.92,
+      "end": 427.52000000000004,
+      "text": "piece of improvement in the technology is terrific. The economics of those same technologies"
+    },
+    {
+      "start": 427.52000000000004,
+      "end": 431.52000000000004,
+      "text": "is still really challenging. Now, it doesn't mean they're always going to be challenging. But in a lot"
+    },
+    {
+      "start": 431.52000000000004,
+      "end": 436.08000000000004,
+      "text": "of ways companies are losing more money today implementing this technology than they were two years"
+    },
+    {
+      "start": 436.08000000000004,
+      "end": 440.16,
+      "text": "ago. So as George accurately described, the hell that has to get climbed is even steeper today"
+    },
+    {
+      "start": 440.24,
+      "end": 444.56,
+      "text": "than it was before because we spent more money. And there's a lot of things that go along with just"
+    },
+    {
+      "start": 444.56,
+      "end": 450.16,
+      "text": "the tools. One of the things that we talk a lot about in the report is there are agents today that"
+    },
+    {
+      "start": 450.16,
+      "end": 455.20000000000005,
+      "text": "are terrific. There are models today that are terrific. But in some cases, the data and a lot of"
+    },
+    {
+      "start": 455.20000000000005,
+      "end": 460.72,
+      "text": "cases actually, the data isn't ready to be agented yet. So we're putting agents on top of data"
+    },
+    {
+      "start": 460.72,
+      "end": 466.16,
+      "text": "that isn't ready to be agented. And that's creating another economic challenge for companies."
+    },
+    {
+      "start": 466.16,
+      "end": 471.36,
+      "text": "Again, all of these things can get addressed. But I think sometimes in the euphoria of the market"
+    },
+    {
+      "start": 471.36,
+      "end": 475.6,
+      "text": "talking about these technologies, we lose sight of some of the blocking and tackling things that"
+    },
+    {
+      "start": 475.6,
+      "end": 480.40000000000003,
+      "text": "needs to happen. But there's data management issues, there's model optimization or orchestration"
+    },
+    {
+      "start": 480.40000000000003,
+      "end": 486.64000000000004,
+      "text": "layer issues. There's still very much the question of the SLM versus LLM dynamic that George and I"
+    },
+    {
+      "start": 486.64000000000004,
+      "end": 490.88,
+      "text": "have been talking about for three years now. So there's a lot of things that need to be addressed"
+    },
+    {
+      "start": 490.88,
+      "end": 496.08,
+      "text": "on the economic side of things. And I would just say I think the agent thing is similar to my last"
+    },
+    {
+      "start": 496.08,
+      "end": 500.88,
+      "text": "theme. It's even more novel than generative AI. Generally, the reasoning paradigm is a year and"
+    },
+    {
+      "start": 500.88,
+      "end": 505.84,
+      "text": "a half, two years old. Agents really became more prolific in the last year to year and a half."
+    },
+    {
+      "start": 505.84,
+      "end": 511.92,
+      "text": "You could argue that really the takeoff in product market fit for agentic coding really only occurred"
+    },
+    {
+      "start": 511.92,
+      "end": 517.84,
+      "text": "at the end of last year. And so again, it's a fast takeoff. But these are complex technologies. It"
+    },
+    {
+      "start": 517.84,
+      "end": 523.6,
+      "text": "takes a lot to create that control plane, that orchestration that Jim is referencing. And these agents"
+    },
+    {
+      "start": 523.6,
+      "end": 529.6800000000001,
+      "text": "are so powerful that the need to guard rail them carefully and thoughtfully. That's its own hill to"
+    },
+    {
+      "start": 529.6800000000001,
+      "end": 535.6800000000001,
+      "text": "climb here that again, I think holds massive potential. One thing I looked up the other day is"
+    },
+    {
+      "start": 535.6800000000001,
+      "end": 540.96,
+      "text": "if you take the public pronouncements of what the independent model companies are generating in"
+    },
+    {
+      "start": 540.96,
+      "end": 547.52,
+      "text": "terms of their revenue and sum that up. And you compare it to how fast we got to that level"
+    },
+    {
+      "start": 547.52,
+      "end": 552.1600000000001,
+      "text": "of revenue in the cloud era. It's like, hey, we've gotten a significant amount of revenue in three"
+    },
+    {
+      "start": 552.1600000000001,
+      "end": 557.6800000000001,
+      "text": "years from the model companies. It took something like 15, 16, 17 years for the cloud companies"
+    },
+    {
+      "start": 557.6800000000001,
+      "end": 566.08,
+      "text": "in aggregate to get there. So early days, but very fast takeoff. And I think the product market fit"
+    },
+    {
+      "start": 566.08,
+      "end": 571.76,
+      "text": "in coding is something we should take account of. We also should note that coding is probably the"
+    },
+    {
+      "start": 571.76,
+      "end": 578.48,
+      "text": "best application for this technology. It is a verifiable domain having the kind of product"
+    },
+    {
+      "start": 578.48,
+      "end": 583.9200000000001,
+      "text": "market fit we have in coding expand to other domains. Maybe it's a little bit more challenging"
+    },
+    {
+      "start": 583.9200000000001,
+      "end": 589.2800000000001,
+      "text": "require a little bit more science and art. Look, these are the fastest growing companies in the history"
+    },
+    {
+      "start": 589.2800000000001,
+      "end": 595.0400000000001,
+      "text": "of corporate America, right? On the top line. Now again, the economics, the profits are all flowing"
+    },
+    {
+      "start": 595.04,
+      "end": 598.88,
+      "text": "to the semiconductor companies. But from a top line perspective, these are the fastest growing"
+    },
+    {
+      "start": 598.88,
+      "end": 602.8,
+      "text": "companies ever. Yeah. So Jim, I actually have a question on that. Your report I think was"
+    },
+    {
+      "start": 602.8,
+      "end": 607.68,
+      "text": "super interesting in terms of the outsize economics going to the foundational infrastructure"
+    },
+    {
+      "start": 607.68,
+      "end": 613.1999999999999,
+      "text": "providers here. Isn't it always thus? I think back to the internet era that we both lived through"
+    },
+    {
+      "start": 614.0,
+      "end": 620.8,
+      "text": "Cisco, Sun, Oracle, Intel were big beneficiaries for quite a while. Was that different than this?"
+    },
+    {
+      "start": 620.8800000000001,
+      "end": 626.2400000000001,
+      "text": "Maybe it's just the semiconductor layer in particular. Yeah. I think it's the semiconductor layer in"
+    },
+    {
+      "start": 626.2400000000001,
+      "end": 631.84,
+      "text": "particular that is unique. I mean, obviously, and when we published, Alison, we published the report"
+    },
+    {
+      "start": 631.84,
+      "end": 635.9200000000001,
+      "text": "a couple years ago, we said at the time we should focus on the picks and shovels because that's where"
+    },
+    {
+      "start": 635.9200000000001,
+      "end": 640.8000000000001,
+      "text": "we think the economic value is going to accrue in the beginning. That did play out. At some point,"
+    },
+    {
+      "start": 640.8000000000001,
+      "end": 645.3600000000001,
+      "text": "though, that has to shift. They can't only be those companies that benefit. And again, particularly"
+    },
+    {
+      "start": 645.36,
+      "end": 650.88,
+      "text": "the semiconductor companies. And when most of the losses upstream in the chain are pretty magnificent"
+    },
+    {
+      "start": 650.88,
+      "end": 655.92,
+      "text": "and at some point, that has to get flipped on its head. In my mind, we can and we'll talk about this"
+    },
+    {
+      "start": 655.92,
+      "end": 660.88,
+      "text": "every day for the next five years. But I really think it all boils down to one thing. Do the"
+    },
+    {
+      "start": 660.88,
+      "end": 666.72,
+      "text": "enterprises make or save money implementing AI? If they do, this technology is going to fulfill"
+    },
+    {
+      "start": 666.72,
+      "end": 670.72,
+      "text": "its promise. If we're having the same debate two years from now, and we're still saying,"
+    },
+    {
+      "start": 670.72,
+      "end": 675.12,
+      "text": "well, it's early, then we might have a challenge because at some point, when does the short term"
+    },
+    {
+      "start": 675.12,
+      "end": 678.64,
+      "text": "become the long term, right? Because we can say in the short term companies can lose money"
+    },
+    {
+      "start": 678.64,
+      "end": 682.96,
+      "text": "implementing the technology, but that can't happen forever. And we're also, when we talked about"
+    },
+    {
+      "start": 682.96,
+      "end": 687.28,
+      "text": "this, George, you and I before, we're in one of the greatest bull markets in history and we're in"
+    },
+    {
+      "start": 687.28,
+      "end": 692.5600000000001,
+      "text": "a great spot of corporate America, profits in general, a great overall economic environment with"
+    },
+    {
+      "start": 692.5600000000001,
+      "end": 696.96,
+      "text": "some challenges, but a great economic environment. And so it's the right thing for companies to do to"
+    },
+    {
+      "start": 696.96,
+      "end": 702.24,
+      "text": "be making investments for the long term in this kind of environment if we, we all hope this doesn't"
+    },
+    {
+      "start": 702.24,
+      "end": 706.48,
+      "text": "happen, but if we did hit a more of a rough patch in the markets or the economy, some of this"
+    },
+    {
+      "start": 706.48,
+      "end": 710.88,
+      "text": "spending that the market is okay doing in a good environment might get scaled back a little bit."
+    },
+    {
+      "start": 710.88,
+      "end": 715.52,
+      "text": "Now, I don't know that would be a bad thing, right? Like, in this report, I talk a lot about how"
+    },
+    {
+      "start": 715.52,
+      "end": 721.2,
+      "text": "I would favor the hyperscaler stocks today over the semiconductor stocks, which is a change from"
+    },
+    {
+      "start": 721.2,
+      "end": 725.84,
+      "text": "two years ago. And the reason for that is if there's three scenarios that you could see playing out"
+    },
+    {
+      "start": 725.84,
+      "end": 730.08,
+      "text": "over the next couple of years, I think the hyperscaler stocks will perform the semiconductor stocks"
+    },
+    {
+      "start": 730.08,
+      "end": 734.96,
+      "text": "in two of those three scenarios. One is corporate start making a profit and enterprises start"
+    },
+    {
+      "start": 734.96,
+      "end": 740.08,
+      "text": "generating a return on this investment. Then I think that there's economic value to flow throughout"
+    },
+    {
+      "start": 740.08,
+      "end": 743.84,
+      "text": "the whole chain, not just the semiconductor companies. And I think the hyperscaler stocks will get"
+    },
+    {
+      "start": 743.84,
+      "end": 748.24,
+      "text": "rewarded because there's doubt on that those stocks have under before in the market by so much."
+    },
+    {
+      "start": 748.24,
+      "end": 752.64,
+      "text": "The second is that the hyperscaler companies say, look, we might need to moderate the spending"
+    },
+    {
+      "start": 752.64,
+      "end": 756.96,
+      "text": "a little bit. And we're not talking about companies going from 200 billion a year and catbacks to zero."
+    },
+    {
+      "start": 756.96,
+      "end": 762.0,
+      "text": "We're talking about slight moderation of the catbacks paste so that they can start to claw back"
+    },
+    {
+      "start": 762.0,
+      "end": 766.8000000000001,
+      "text": "some free cash flow. And I think the hyperscaler stocks would outperform semi-stocks in that scenario as"
+    },
+    {
+      "start": 766.8000000000001,
+      "end": 772.24,
+      "text": "well. The one scenario where the semi-stocks continued outperform is the status quo persists where"
+    },
+    {
+      "start": 772.24,
+      "end": 776.72,
+      "text": "the only companies making money in the chain and the semiconductor companies. Again, this has gone"
+    },
+    {
+      "start": 776.72,
+      "end": 780.72,
+      "text": "on longer than I thought to begin with, but that can't go on forever. We can't have all these"
+    },
+    {
+      "start": 780.72,
+      "end": 784.32,
+      "text": "incredible companies upstream in the chain losing money because again, even in your internet"
+    },
+    {
+      "start": 784.32,
+      "end": 788.24,
+      "text": "analogy, eventually, the best companies upstream started to make money. So totally."
+    },
+    {
+      "start": 788.24,
+      "end": 792.6400000000001,
+      "text": "I know that's not how the market is positioned right now. The positioning of the market is incredibly"
+    },
+    {
+      "start": 792.6400000000001,
+      "end": 797.12,
+      "text": "bullish on semis and bearish on everything below that. At some point, that has to turn around."
+    },
+    {
+      "start": 797.12,
+      "end": 801.5200000000001,
+      "text": "I would say that two years ago, you said 18 months, two years. Yeah."
+    },
+    {
+      "start": 801.5200000000001,
+      "end": 805.5200000000001,
+      "text": "And now we're two years forward. You're talking about another two years. So the market seems to have"
+    },
+    {
+      "start": 806.08,
+      "end": 811.44,
+      "text": "some faith in this. Oh, the market. Look, again, this is the best bull market of our lifetime. I don't"
+    },
+    {
+      "start": 811.44,
+      "end": 815.6,
+      "text": "think there's any question about that. And this is a reason. It's a little bit of a circular."
+    },
+    {
+      "start": 815.6,
+      "end": 820.32,
+      "text": "This technology is the reason for it. And then that bull market is powering a lot of the investment"
+    },
+    {
+      "start": 820.32,
+      "end": 824.32,
+      "text": "that's happening. I think at some point, again, the short term has to become the long term,"
+    },
+    {
+      "start": 824.32,
+      "end": 828.32,
+      "text": "but the market's giving a long leash as well. It should. Because again, I think the market's looking"
+    },
+    {
+      "start": 828.32,
+      "end": 833.36,
+      "text": "at the progress on the technology and saying, well, eventually, the profits will flow through."
+    },
+    {
+      "start": 833.36,
+      "end": 836.8800000000001,
+      "text": "That may well happen. I would just like to see that happen at some point."
+    },
+    {
+      "start": 836.8800000000001,
+      "end": 840.5600000000001,
+      "text": "One of the returns issues that Jim and I have talked a lot about that I think is fascinating to"
+    },
+    {
+      "start": 840.5600000000001,
+      "end": 846.4000000000001,
+      "text": "consider here is to what extent, even if you are an extreme believer in the power of this technology"
+    },
+    {
+      "start": 846.4000000000001,
+      "end": 852.48,
+      "text": "like I am, there's a potential in the enterprise that the advantage you gain from deploying it"
+    },
+    {
+      "start": 852.48,
+      "end": 857.2800000000001,
+      "text": "is somewhat fleeting. In other words, there's a chance that you can create some temporal advantage"
+    },
+    {
+      "start": 857.2800000000001,
+      "end": 861.0400000000001,
+      "text": "by being the first person on the block to effectively deploy the technology to lower your"
+    },
+    {
+      "start": 861.0400000000001,
+      "end": 866.48,
+      "text": "engineering costs or increase your straight through processing times, whatever. But ultimately,"
+    },
+    {
+      "start": 866.48,
+      "end": 870.5600000000001,
+      "text": "everyone in your sector is going to catch up and will the margin advantages get competed away?"
+    },
+    {
+      "start": 871.36,
+      "end": 876.96,
+      "text": "Second, like many technology evolutions we've seen in history, will the surplus we generate"
+    },
+    {
+      "start": 876.96,
+      "end": 884.72,
+      "text": "vanish into consumers pockets in a way? This value capture and then measurement of ROI,"
+    },
+    {
+      "start": 884.72,
+      "end": 889.28,
+      "text": "which is a super complex topic around technology, I think is one of the most fascinating"
+    },
+    {
+      "start": 889.28,
+      "end": 896.08,
+      "text": "dimensions of this, where in a way, companies are and will deploy this technology because it seems"
+    },
+    {
+      "start": 896.08,
+      "end": 902.8000000000001,
+      "text": "so intuitive, logical, and it feels like it's creating savings, advantage, all of that."
+    },
+    {
+      "start": 902.8000000000001,
+      "end": 907.84,
+      "text": "And yet the measurement of that intangible hard terms is sometimes very elusive. And so"
+    },
+    {
+      "start": 907.84,
+      "end": 912.32,
+      "text": "this adds to the uncertainty that Jim's talking about. That's so incredibly well said. And one of"
+    },
+    {
+      "start": 912.32,
+      "end": 916.5600000000001,
+      "text": "the things I've always loved about having these discussions with George is he's so balanced on this,"
+    },
+    {
+      "start": 916.5600000000001,
+      "end": 921.76,
+      "text": "right? You look at some of the questions around this is are these expenditures just a cost of doing"
+    },
+    {
+      "start": 921.76,
+      "end": 926.24,
+      "text": "business now and it doesn't really give you a big advantage. It's just the cost of being in"
+    },
+    {
+      "start": 926.24,
+      "end": 930.64,
+      "text": "business and then it becomes an issue of scale is scale really what matters in business now more"
+    },
+    {
+      "start": 930.64,
+      "end": 934.72,
+      "text": "than ever. I mean, scale's always been a big advantage. But when you have some of these models come"
+    },
+    {
+      "start": 934.72,
+      "end": 939.04,
+      "text": "out and all of a sudden you wake up one day and you've to spend $50 million as an enterprise on a new"
+    },
+    {
+      "start": 939.04,
+      "end": 944.0,
+      "text": "model, you don't even know that wasn't part of the original plans. And that's not really revenue"
+    },
+    {
+      "start": 944.0,
+      "end": 948.56,
+      "text": "generating. That's almost more defense than offense. You know, there are fewer and fewer companies that"
+    },
+    {
+      "start": 948.5600000000001,
+      "end": 953.2,
+      "text": "can afford to do that. So scale becomes an absolutely massive advantage in this environment."
+    },
+    {
+      "start": 953.2,
+      "end": 957.84,
+      "text": "Absolutely right. I mean, the other interesting side of the coin of gosh, will we make these"
+    },
+    {
+      "start": 957.84,
+      "end": 962.4000000000001,
+      "text": "investments and while margin advantage get competed away, the other side of that coin is if I don't"
+    },
+    {
+      "start": 962.4000000000001,
+      "end": 967.44,
+      "text": "make these investments, I'm at a permanent margin disadvantage. And this is one of the game theoretical"
+    },
+    {
+      "start": 967.44,
+      "end": 972.24,
+      "text": "things that I think continues to drive spending. The other big topic of course, Jim is the"
+    },
+    {
+      "start": 972.24,
+      "end": 978.64,
+      "text": "implication on employment. And you've made some pretty interesting comments about Wall Street"
+    },
+    {
+      "start": 978.64,
+      "end": 985.36,
+      "text": "or management perception, C-suite's perception of the impact of this technology on worker productivity"
+    },
+    {
+      "start": 985.36,
+      "end": 989.52,
+      "text": "versus what workers are actually experiencing and what the tech companies are saying. Yeah."
+    },
+    {
+      "start": 989.52,
+      "end": 995.12,
+      "text": "Talk to us a little about that misperception or gap in perception that you're serving. Yeah, pretty"
+    },
+    {
+      "start": 995.12,
+      "end": 1001.6800000000001,
+      "text": "much every third party survey that has been done finds this big gap between the C-suite"
+    },
+    {
+      "start": 1001.7600000000001,
+      "end": 1007.1200000000001,
+      "text": "expectations around the impact of the technology versus the line workers view on the actual impact"
+    },
+    {
+      "start": 1007.1200000000001,
+      "end": 1010.48,
+      "text": "that the technology is having. Now there's a lot of different parts to that, right? There's"
+    },
+    {
+      "start": 1010.48,
+      "end": 1015.0400000000001,
+      "text": "so many different components. Now every survey pretty much says the same thing which is the line"
+    },
+    {
+      "start": 1015.0400000000001,
+      "end": 1020.72,
+      "text": "workers aren't getting as much benefit from it as the C-suite expected. Now every survey, every"
+    },
+    {
+      "start": 1020.72,
+      "end": 1025.52,
+      "text": "analysis has to be taken in context. Then obviously the C-suite is bullish on their investments or they"
+    },
+    {
+      "start": 1025.52,
+      "end": 1030.0800000000002,
+      "text": "wouldn't be making the investments and the line workers in some ways are scared that this technology"
+    },
+    {
+      "start": 1030.08,
+      "end": 1034.6399999999999,
+      "text": "could replace what they're doing. So we have to take these surveys with that as context. However,"
+    },
+    {
+      "start": 1034.6399999999999,
+      "end": 1040.56,
+      "text": "all the surveys do say the same thing which is there isn't as much productivity today is where"
+    },
+    {
+      "start": 1040.56,
+      "end": 1044.6399999999999,
+      "text": "the expectations were when the investments are being made. There's things that can change that."
+    },
+    {
+      "start": 1044.6399999999999,
+      "end": 1049.12,
+      "text": "Again, I think the data layer is a huge part of that, right? Because so many times people are doing"
+    },
+    {
+      "start": 1049.12,
+      "end": 1053.84,
+      "text": "these queries today and they're coming up with the incorrect results or incomplete results and a"
+    },
+    {
+      "start": 1053.84,
+      "end": 1058.32,
+      "text": "lot of that has to do with the data across an organization not speaking with one another."
+    },
+    {
+      "start": 1058.32,
+      "end": 1062.0,
+      "text": "So I do think there's a pretty significant disconnect today on that."
+    },
+    {
+      "start": 1062.0,
+      "end": 1067.4399999999998,
+      "text": "Two issues that Jim touches on there, I think, are fascinating is this issue of C-suite versus"
+    },
+    {
+      "start": 1067.4399999999998,
+      "end": 1074.08,
+      "text": "line worker illustrates a really interesting divergence in the C-co system which is as a big company"
+    },
+    {
+      "start": 1074.08,
+      "end": 1081.12,
+      "text": "with incumbent work habits, enshrined workflows, ways of doing things, legacy systems, et cetera,"
+    },
+    {
+      "start": 1081.12,
+      "end": 1086.24,
+      "text": "retrofitting this brand new technology has its own challenges and there's a certain drag coefficient"
+    },
+    {
+      "start": 1086.24,
+      "end": 1090.0,
+      "text": "to it that may be responsible for what Jim's talking about. Like line workers going like,"
+    },
+    {
+      "start": 1090.0,
+      "end": 1095.1200000000001,
+      "text": "I have to change the way I do things or I'm not used to this, et cetera, where you can see the"
+    },
+    {
+      "start": 1095.1200000000001,
+      "end": 1099.76,
+      "text": "real takeoff and productivity of these technologies is in very young companies,"
+    },
+    {
+      "start": 1099.76,
+      "end": 1105.76,
+      "text": "called them new native AI native companies which are built from the jump for this technology."
+    },
+    {
+      "start": 1105.76,
+      "end": 1110.96,
+      "text": "They're organizationally designed. Their technology stack is designed and living close to Silicon"
+    },
+    {
+      "start": 1110.96,
+      "end": 1115.6,
+      "text": "Valley, I get to see when you're starting a company in this era, the amount of productivity gain"
+    },
+    {
+      "start": 1115.6000000000001,
+      "end": 1120.4800000000002,
+      "text": "you can get from this technology is extraordinary. Now, in my optimistic sense, I hope that that means"
+    },
+    {
+      "start": 1120.4800000000002,
+      "end": 1125.0400000000002,
+      "text": "that same kind of productivity leap will be ultimately available to bigger companies as we complete the"
+    },
+    {
+      "start": 1125.0400000000002,
+      "end": 1131.0400000000002,
+      "text": "retrofit, but that is an uncertainty and certainly the time gap there is uncertain. The other thing"
+    },
+    {
+      "start": 1131.0400000000002,
+      "end": 1137.5200000000002,
+      "text": "we haven't talked much about is this somewhat sudden turn towards populist resentment of AI"
+    },
+    {
+      "start": 1138.16,
+      "end": 1144.72,
+      "text": "and whether it's being seen people booted commencement addresses or being shot at in their homes"
+    },
+    {
+      "start": 1144.72,
+      "end": 1150.16,
+      "text": "because they're responsible for deployment of a data center in a legislative region, et cetera."
+    },
+    {
+      "start": 1150.16,
+      "end": 1155.52,
+      "text": "We're getting to a point where this is a deeply unpopular technology, interestingly almost uniquely"
+    },
+    {
+      "start": 1155.52,
+      "end": 1160.88,
+      "text": "in the US versus other parts of the world and that may be one of the things that really contributes"
+    },
+    {
+      "start": 1160.88,
+      "end": 1166.08,
+      "text": "to slower progress here that I'm trying to keep my eye on closely. Yeah, it's a really challenging"
+    },
+    {
+      "start": 1166.08,
+      "end": 1170.56,
+      "text": "issue. I try to stay away from a lot of these political kind of issues because I don't think there's"
+    },
+    {
+      "start": 1170.56,
+      "end": 1174.3999999999999,
+      "text": "any winning these debates. I have had some real conversations with some of the people that have"
+    },
+    {
+      "start": 1174.3999999999999,
+      "end": 1178.96,
+      "text": "been recently in the middle of some of those things that you just talked about and it's a shame."
+    },
+    {
+      "start": 1178.96,
+      "end": 1182.56,
+      "text": "I think a lot of it's going to potentially come to a head around the midterm elections where we're"
+    },
+    {
+      "start": 1182.56,
+      "end": 1187.6799999999998,
+      "text": "going to see if people are going to vote along these lines and I would put all of it in the broader"
+    },
+    {
+      "start": 1187.6799999999998,
+      "end": 1193.52,
+      "text": "economics bucket. I've tend to focus on enterprise economics. I think the overall expenditures"
+    },
+    {
+      "start": 1193.52,
+      "end": 1198.1599999999999,
+      "text": "versus the returns and where those returns are accruing in the supply chain. How much of it is"
+    },
+    {
+      "start": 1198.16,
+      "end": 1202.16,
+      "text": "going to flow back to the individual? Can we make a case that individuals are benefiting"
+    },
+    {
+      "start": 1202.16,
+      "end": 1205.68,
+      "text": "economically from using the technology and that's going to offset some of the increased"
+    },
+    {
+      "start": 1205.68,
+      "end": 1209.44,
+      "text": "electricity costs and things of that nature? I mean, I think those are all questions that need"
+    },
+    {
+      "start": 1209.44,
+      "end": 1213.92,
+      "text": "to be answered. Yes, I think just to wrap that as I'm hearing both of you, I mean, I don't think"
+    },
+    {
+      "start": 1213.92,
+      "end": 1219.1200000000001,
+      "text": "there is too much daylight between your views. I think the consensus between you is that there's"
+    },
+    {
+      "start": 1219.1200000000001,
+      "end": 1224.4,
+      "text": "just a lot more that we need to observe and learn over the coming years and I think Jim, you're"
+    },
+    {
+      "start": 1224.4,
+      "end": 1230.5600000000002,
+      "text": "really just questioning at what point will we hit a wall if we aren't seeing some of these"
+    },
+    {
+      "start": 1230.5600000000002,
+      "end": 1235.52,
+      "text": "advances and productivity gains and enterprise revenues? Yeah, look at some point you got to make"
+    },
+    {
+      "start": 1235.52,
+      "end": 1239.44,
+      "text": "money. I mean, you make investments in a business so that you can generate returns and make money"
+    },
+    {
+      "start": 1239.44,
+      "end": 1244.0,
+      "text": "and we've gotten further away from that over the last couple years instead of closer to it."
+    },
+    {
+      "start": 1244.0,
+      "end": 1247.8400000000001,
+      "text": "That doesn't mean it's never going to happen. It just means the stakes are higher and like George"
+    },
+    {
+      "start": 1247.8400000000001,
+      "end": 1252.48,
+      "text": "started off by saying the wall we need to climb is a little higher. It can absolutely happen and in"
+    },
+    {
+      "start": 1252.64,
+      "end": 1256.88,
+      "text": "the last report I tried to lay out from a technical perspective or quasi technical perspective."
+    },
+    {
+      "start": 1256.88,
+      "end": 1261.28,
+      "text": "What the kinds of things I think people need to be focused on, I don't think investors should just"
+    },
+    {
+      "start": 1261.28,
+      "end": 1266.4,
+      "text": "be blindly assuming it's going to happen. I think you need to question along the way, but question"
+    },
+    {
+      "start": 1266.4,
+      "end": 1271.2,
+      "text": "with a reasonable balance of instead of saying it's never going to happen or it's definitely"
+    },
+    {
+      "start": 1271.2,
+      "end": 1275.44,
+      "text": "going to happen kind of laying out the markers of here's what needs to happen, you know, moment"
+    },
+    {
+      "start": 1275.44,
+      "end": 1280.88,
+      "text": "and time today to gauge the most likely outcomes. Yeah, this is illustrative of the fun that we have"
+    },
+    {
+      "start": 1280.88,
+      "end": 1285.68,
+      "text": "with this dialogue. And as Jim says, we're so early that this kind of debate will continue for"
+    },
+    {
+      "start": 1285.68,
+      "end": 1290.8000000000002,
+      "text": "years to come. I think one of the great things about our partnership on this, like Jim is extremely"
+    },
+    {
+      "start": 1290.8000000000002,
+      "end": 1297.92,
+      "text": "good at trenchantly and accurately pricing the spot of where we are in this technology. My inclination"
+    },
+    {
+      "start": 1297.92,
+      "end": 1303.8400000000001,
+      "text": "and suppose in some ways, my role is to look a little bit farther down field. That implies a leap"
+    },
+    {
+      "start": 1303.8400000000001,
+      "end": 1309.0400000000002,
+      "text": "of technological and in some ways, economic faith to do so. But that balance I think gets us to a"
+    },
+    {
+      "start": 1309.04,
+      "end": 1313.84,
+      "text": "really nice synthesis of where we are today and where we might go. Thanks again, Jim, for joining us."
+    },
+    {
+      "start": 1313.84,
+      "end": 1318.0,
+      "text": "This has been great. Thank you so much. It's been a pleasure as always. So, George, again,"
+    },
+    {
+      "start": 1318.0,
+      "end": 1322.72,
+      "text": "fascinating conversation. I say that every single time, but I genuinely mean it every single time."
+    },
+    {
+      "start": 1322.72,
+      "end": 1327.52,
+      "text": "And I think that you did a good job summing up the views and where you guys can't. Any takeaways"
+    },
+    {
+      "start": 1327.52,
+      "end": 1332.8,
+      "text": "from you? It's like fascinating. And by Allison, it's always such a pleasure to do this with you. And"
+    },
+    {
+      "start": 1332.8,
+      "end": 1337.84,
+      "text": "I agree these are always fascinating discussions. This one's particularly fun because it's part of this"
+    },
+    {
+      "start": 1337.84,
+      "end": 1342.8799999999999,
+      "text": "linear legacy of us for Jim and I for the past three, three and a half years talking about this"
+    },
+    {
+      "start": 1342.8799999999999,
+      "end": 1347.52,
+      "text": "issue. And it's really fun just to see how both of us have evolved our thinking. And one thing we"
+    },
+    {
+      "start": 1347.52,
+      "end": 1351.84,
+      "text": "probably most agree on is the number of unanswered questions ahead of us, which makes this really"
+    },
+    {
+      "start": 1351.84,
+      "end": 1355.84,
+      "text": "exciting and fun to talk about. And it means I think we're going to have to bring Jim back on."
+    },
+    {
+      "start": 1355.84,
+      "end": 1359.6799999999998,
+      "text": "You know, absolutely, absolutely. Thanks, George. See you next time. You too."
+    },
+    {
+      "start": 1360.32,
+      "end": 1365.6799999999998,
+      "text": "This episode of Goldman Sachs and Strangers was recorded on Tuesday, May 26, 2026. I'm Allison"
+    },
+    {
+      "start": 1365.8400000000001,
+      "end": 1366.88,
+      "text": "Nathan. Thanks for listening."
+    },
+    {
+      "start": 1370.3200000000002,
+      "end": 1373.68,
+      "text": "The opinions and views expressed herein are as of the date of publication subject to change"
+    },
+    {
+      "start": 1373.68,
+      "end": 1377.28,
+      "text": "without notice and may not necessarily reflect the institutional views of Goldman Sachs or its"
+    },
+    {
+      "start": 1377.28,
+      "end": 1381.52,
+      "text": "affiliates. The material provided is intended for informational purposes only and does not"
+    },
+    {
+      "start": 1381.52,
+      "end": 1385.6000000000001,
+      "text": "constitute investment advice, a recommendation from any Goldman Sachs entity to take any particular"
+    },
+    {
+      "start": 1385.6000000000001,
+      "end": 1390.16,
+      "text": "action or an offer or solicitation to purchase or sell any securities or financial products."
+    },
+    {
+      "start": 1390.16,
+      "end": 1394.24,
+      "text": "This material may contain forward-looking statements. Past performance is not indicative of future"
+    },
+    {
+      "start": 1394.96,
+      "end": 1398.48,
+      "text": "results. Neither Goldman Sachs nor any of its affiliates make any representations or warranties,"
+    },
+    {
+      "start": 1398.48,
+      "end": 1402.0,
+      "text": "expressed or implied as to the accuracy or completeness of the statements or information"
+    },
+    {
+      "start": 1402.0,
+      "end": 1406.16,
+      "text": "contained herein, and disclaim any liability whatsoever for reliance on such information for"
+    },
+    {
+      "start": 1406.16,
+      "end": 1410.24,
+      "text": "any purpose. Each name of a third-party organization mentioned is the property of the company to"
+    },
+    {
+      "start": 1410.24,
+      "end": 1414.16,
+      "text": "which it relates, is used here strictly for informational and identification purposes only,"
+    },
+    {
+      "start": 1414.16,
+      "end": 1418.72,
+      "text": "and is not used to imply any ownership or license rights between any such company and Goldman Sachs."
+    },
+    {
+      "start": 1418.72,
+      "end": 1422.96,
+      "text": "A transcript is provided for convenience and may differ from the original video or audio content."
+    },
+    {
+      "start": 1422.96,
+      "end": 1426.64,
+      "text": "Goldman Sachs is not responsible for any errors in the transcript. This material should not be"
+    },
+    {
+      "start": 1426.64,
+      "end": 1430.88,
+      "text": "copied, distributed, published or reproduced in whole or in part or disclosed by any recipient to"
+    },
+    {
+      "start": 1430.88,
+      "end": 1434.88,
+      "text": "any other person without the expressed written consent of Goldman Sachs. Disclosure is applicable"
+    },
+    {
+      "start": 1434.88,
+      "end": 1438.4,
+      "text": "to research with respect to issuers. If any, mentioned herein, are available through your"
+    },
+    {
+      "start": 1438.4,
+      "end": 1445.52,
+      "text": "Goldman Sachs representative or at www.gs.com slash research slash hedge.html. Goldman Sachs does not"
+    },
+    {
+      "start": 1445.52,
+      "end": 1450.48,
+      "text": "endorse any candidate or any political party. Copyright 2026, Goldman Sachs, all rights reserved."
+    }
+  ]
+}

@@ -1,0 +1,3046 @@
+{
+  "id": "fd1b6b92795e7229",
+  "show": "Rational Reminder",
+  "theme": "Quant",
+  "title": "How Canadian ETFs Actually Work | #413 (Morley Conn)",
+  "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/rationalreminder/RR_-_EP.413_Morley_Conn_-_AUDIO_V1.mp3?dest-id=763774",
+  "source": "local-whisper",
+  "duration": 4088.9,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.4,
+      "text": "This is the Rational Reminder Podcast, a weekly reality check on sensible investing and"
+    },
+    {
+      "start": 8.4,
+      "end": 10.52,
+      "text": "financial decision making from two Canadians."
+    },
+    {
+      "start": 10.52,
+      "end": 14.68,
+      "text": "We are hosted by me, Benjamin Felix, Chief Investment Officer, and Cameron Passmore, Chief"
+    },
+    {
+      "start": 14.68,
+      "end": 17.44,
+      "text": "Executive Officer at PWL Capital."
+    },
+    {
+      "start": 17.44,
+      "end": 22.8,
+      "text": "Welcome to episode 413 in Ben, I got to thank you because you brought me back to, and"
+    },
+    {
+      "start": 22.8,
+      "end": 28.0,
+      "text": "I can remember the dinners, I think I've talked about this in episodes years ago."
+    },
+    {
+      "start": 28.08,
+      "end": 36.24,
+      "text": "When we first discovered ETFs back in the mid 90s, and to understand how they were, because"
+    },
+    {
+      "start": 36.24,
+      "end": 41.04,
+      "text": "understanding how mutual fund works is very straightforward, understanding how an ETF works,"
+    },
+    {
+      "start": 41.04,
+      "end": 46.32,
+      "text": "and how much goes on behind the scenes is so fascinating but so head scratching."
+    },
+    {
+      "start": 46.32,
+      "end": 50.96,
+      "text": "So, if you imagine 30 years ago or so, where none of this made any sense when you're"
+    },
+    {
+      "start": 50.96,
+      "end": 53.92,
+      "text": "explaining, we're like creation redemption, but how does this happen?"
+    },
+    {
+      "start": 54.56,
+      "end": 60.72,
+      "text": "I was in New York just after 9-11 happened, and happened to get a tour of the AMEX,"
+    },
+    {
+      "start": 60.72,
+      "end": 66.64,
+      "text": "the American Stock Exchange floor, and we were watching traders on the floor doing these arbitrage"
+    },
+    {
+      "start": 66.64,
+      "end": 71.68,
+      "text": "trades to close the gap with NAVEN, all of a sudden things started making sense."
+    },
+    {
+      "start": 71.68,
+      "end": 77.6,
+      "text": "Of course, longer rationalized into the NYS, I think, since then, but it's just such an unbelievable"
+    },
+    {
+      "start": 77.68,
+      "end": 84.32000000000001,
+      "text": "mechanism, and today's guest, Morley Khan, did a great job explaining so many things that"
+    },
+    {
+      "start": 84.32000000000001,
+      "end": 88.72000000000001,
+      "text": "happened behind the scenes, and again, it just brought me back 30 years. It's just wild."
+    },
+    {
+      "start": 88.72000000000001,
+      "end": 94.72000000000001,
+      "text": "Morley, he's got over 30 years of experience and in sales and trading roles across foreign exchange"
+    },
+    {
+      "start": 94.72000000000001,
+      "end": 100.96000000000001,
+      "text": "money markets and equities. Right now, he's responsible for sales and strategy in ETF services at"
+    },
+    {
+      "start": 100.96000000000001,
+      "end": 107.28,
+      "text": "Scotia Bank, Global Banking, and Markets. So, we talk about ETF market makers. He is working"
+    },
+    {
+      "start": 107.28,
+      "end": 113.60000000000001,
+      "text": "in that capacity. He's working at Scotia in the market making function. He's got an MBA from the"
+    },
+    {
+      "start": 113.60000000000001,
+      "end": 119.84,
+      "text": "University of Windsor and a BA from York University. He's also a CFH Harder Holder and a CMT."
+    },
+    {
+      "start": 120.4,
+      "end": 125.68,
+      "text": "He recently joined the board of the Canadian Security Traders Association and is a past member of"
+    },
+    {
+      "start": 125.68,
+      "end": 132.32,
+      "text": "the Institutional Equity Traders Association board. He knows a lot about what goes on behind the scenes"
+    },
+    {
+      "start": 132.32,
+      "end": 137.92000000000002,
+      "text": "in terms of how an ETF actually functions and all the work that goes into it that people don't tend"
+    },
+    {
+      "start": 137.92000000000002,
+      "end": 142.8,
+      "text": "to see or think about. He listens to the podcast, we chat with that a little bit during their"
+    },
+    {
+      "start": 142.8,
+      "end": 147.60000000000002,
+      "text": "recording and he reached out and was like, hey, you guys have done so much great content, but you've"
+    },
+    {
+      "start": 147.60000000000002,
+      "end": 154.32,
+      "text": "never done like a really deep dive on how ETFs work and the Canadian ETF market in particular,"
+    },
+    {
+      "start": 154.95999999999998,
+      "end": 160.32,
+      "text": "which has some pretty meaningful differences relative to the US market. We went deep on all that stuff."
+    },
+    {
+      "start": 160.32,
+      "end": 165.28,
+      "text": "Yeah, he does a good job explaining it and it's complicated. I thought it was interesting how we"
+    },
+    {
+      "start": 165.28,
+      "end": 171.68,
+      "text": "talked about not just the science and the math and the programming but also the art and the risk"
+    },
+    {
+      "start": 171.68,
+      "end": 176.32,
+      "text": "taking. It's a lot more to it than you think. I think we all take it for granted, but it's an"
+    },
+    {
+      "start": 176.32,
+      "end": 183.76,
+      "text": "incredible tool. It's done an incredible job of getting people engaged in personal investing."
+    },
+    {
+      "start": 184.4,
+      "end": 189.12,
+      "text": "It's also done a great job of reducing costs, creating liquidity. It's just an amazing creation."
+    },
+    {
+      "start": 189.12,
+      "end": 192.64,
+      "text": "Yeah, it really is. So you're good to go. Let's go to our conversation with Morley Con."
+    },
+    {
+      "start": 197.76,
+      "end": 203.35999999999999,
+      "text": "Morley Con, welcome to the Rashmurmider podcast. Thank you, Ben. Thanks, Cameron. It's a real"
+    },
+    {
+      "start": 203.36,
+      "end": 210.16000000000003,
+      "text": "honor to be here. I'm a long-standing viewer and listener of the podcast and the caliber"
+    },
+    {
+      "start": 210.16000000000003,
+      "end": 216.8,
+      "text": "guests that you've had on here really makes it a true honor to be on the show. And in honor of"
+    },
+    {
+      "start": 216.8,
+      "end": 225.44000000000003,
+      "text": "being on the show, guys, I actually cooked up some ETFs in your honor and it's got some really"
+    },
+    {
+      "start": 225.44,
+      "end": 233.92,
+      "text": "healthy single-stock ETFs in it. We've got some leverity ETFs, some thematics because I know Ben,"
+    },
+    {
+      "start": 233.92,
+      "end": 239.12,
+      "text": "you love the taste of thematics. We even have some bufferity ETFs in there as well. So perhaps"
+    },
+    {
+      "start": 239.12,
+      "end": 246.24,
+      "text": "after our conversation, we can enjoy some ETFs sloped together. I've got to ask Morley,"
+    },
+    {
+      "start": 246.24,
+      "end": 253.52,
+      "text": "is there any Scotia ETFs slop in that bucket? Of course not. Of course, there's none. I am an"
+    },
+    {
+      "start": 253.52,
+      "end": 260.96000000000004,
+      "text": "equal opportunist, but there's no Scotia slop in that concoction that I've made today. Glad to hear"
+    },
+    {
+      "start": 260.96000000000004,
+      "end": 266.16,
+      "text": "it. Okay. To jump into the questions we have for you, can you talk about who the players are that"
+    },
+    {
+      "start": 266.16,
+      "end": 272.64,
+      "text": "are involved with creating and managing an ETF? The ETF is created by the asset managers. These are"
+    },
+    {
+      "start": 272.64,
+      "end": 279.36,
+      "text": "also referred to as the ETF issuers. They will conceive of new ideas to bring to market."
+    },
+    {
+      "start": 280.16,
+      "end": 286.32,
+      "text": "Then they will lead with those and they will of course then work with their portfolio managers"
+    },
+    {
+      "start": 286.88,
+      "end": 292.56,
+      "text": "who will then manage those baskets of securities. Could be stocks, commodities, bonds,"
+    },
+    {
+      "start": 292.56,
+      "end": 299.36,
+      "text": "what have you. Then the next natural player is going to be the custodian, guys. The custodian"
+    },
+    {
+      "start": 299.36,
+      "end": 304.96000000000004,
+      "text": "is responsible for the movement of funds in and out of the ETF and the custodian because they have"
+    },
+    {
+      "start": 304.96,
+      "end": 310.71999999999997,
+      "text": "access to those positions in the ETF, we'll provide and we'll talk a little bit more about"
+    },
+    {
+      "start": 310.71999999999997,
+      "end": 318.79999999999995,
+      "text": "this afterwards. We'll provide authorized participants, the market makers with updated portfolio"
+    },
+    {
+      "start": 318.79999999999995,
+      "end": 325.59999999999997,
+      "text": "positions so that the market makers can properly calculate what the net asset value is and price"
+    },
+    {
+      "start": 325.59999999999997,
+      "end": 332.96,
+      "text": "properly the ETFs. Then of course as well, you've got the investment advisors and then you have the"
+    },
+    {
+      "start": 333.35999999999996,
+      "end": 339.68,
+      "text": "investment dealers themselves who are going to be out there marketing the product to the investing"
+    },
+    {
+      "start": 339.68,
+      "end": 344.71999999999997,
+      "text": "public. What is each one of them actually doing? The investment dealers, I think people"
+    },
+    {
+      "start": 344.71999999999997,
+      "end": 349.91999999999996,
+      "text": "understand they're selling the product, the investment manager, the ETF issuer, I think people"
+    },
+    {
+      "start": 349.91999999999996,
+      "end": 355.91999999999996,
+      "text": "generally get that. What are the other players doing? The market maker who's also in Canada known"
+    },
+    {
+      "start": 355.91999999999996,
+      "end": 362.0,
+      "text": "as the authorized participant. In some markets in the world, guys, those can be separate but the"
+    },
+    {
+      "start": 362.0,
+      "end": 369.12,
+      "text": "market maker will put bids and offers out in the marketplace on the ETFs, so we'll be out there"
+    },
+    {
+      "start": 369.12,
+      "end": 374.48,
+      "text": "continuously buying and selling the various ETFs that are in the marketplace and in Canada,"
+    },
+    {
+      "start": 374.48,
+      "end": 381.28,
+      "text": "often the market maker and the authorized participants are the same entity, same institution and so"
+    },
+    {
+      "start": 381.28,
+      "end": 387.6,
+      "text": "the authorized participants, they will do what's called the creation redemption process which is"
+    },
+    {
+      "start": 387.6,
+      "end": 396.72,
+      "text": "a really important integral part of the ETF trading process. That is what balances the arbitrage and"
+    },
+    {
+      "start": 396.72,
+      "end": 401.04,
+      "text": "we'll talk more, hopefully we'll get into a little bit more detail in and around that through"
+    },
+    {
+      "start": 401.04,
+      "end": 405.76000000000005,
+      "text": "this discussion. I find this so fascinating more than this brings me back 30 years when we first"
+    },
+    {
+      "start": 405.76000000000005,
+      "end": 411.52000000000004,
+      "text": "discovered ETFs as they came to market and I mean these exact same questions is just such a fascinating"
+    },
+    {
+      "start": 412.47999999999996,
+      "end": 419.35999999999996,
+      "text": "interesting how this all happens. So let's be more precise on this. How is an ETF unit created"
+    },
+    {
+      "start": 419.35999999999996,
+      "end": 424.71999999999997,
+      "text": "and redeemed because it's such an important part of an ETF? To get into how ETFs are created redeemed,"
+    },
+    {
+      "start": 424.71999999999997,
+      "end": 429.35999999999996,
+      "text": "let's talk a little bit first about the various liquidity channels in the marketplace."
+    },
+    {
+      "start": 429.35999999999996,
+      "end": 435.68,
+      "text": "There's secondary and then there's primary. The first tier of trading and liquidity would be"
+    },
+    {
+      "start": 435.68,
+      "end": 442.0,
+      "text": "literally on the exchange board between buyers and sellers of the product. That interaction can"
+    },
+    {
+      "start": 442.0,
+      "end": 449.52,
+      "text": "also be market makers, the authorized participants with the public as well but it's that sort of"
+    },
+    {
+      "start": 449.52,
+      "end": 457.76,
+      "text": "transacted. The second secondary level of liquidity that you will see is authorized participants'"
+    },
+    {
+      "start": 457.76,
+      "end": 466.15999999999997,
+      "text": "dealers trading their inventories with the public as well. So that will add another tier."
+    },
+    {
+      "start": 466.15999999999997,
+      "end": 471.2,
+      "text": "The first year being buyers and sellers meeting together on the board and then these market"
+    },
+    {
+      "start": 471.2,
+      "end": 478.08,
+      "text": "makers of ETFs ourselves included will run inventories of various ETFs that we are involved with."
+    },
+    {
+      "start": 478.08,
+      "end": 485.36,
+      "text": "Particularly if we are deemed the designated broker, the designated broker is the ETF market maker"
+    },
+    {
+      "start": 486.08000000000004,
+      "end": 494.24,
+      "text": "who will have provided the original financing, seeding capital for that ETF to start issuing"
+    },
+    {
+      "start": 494.24,
+      "end": 501.6,
+      "text": "on the stock exchange. So we'll be out there both buying and selling, showing reasonably tight"
+    },
+    {
+      "start": 501.6,
+      "end": 508.64,
+      "text": "markets for that ETF. Our interactions with the market are another secondary level of liquidity."
+    },
+    {
+      "start": 508.64,
+      "end": 516.64,
+      "text": "So if we load up on a particular ETF or long we've bought a lot of the product we might be on the"
+    },
+    {
+      "start": 516.64,
+      "end": 524.16,
+      "text": "board offering out that product and selling in the marketplace. The third level of liquidity"
+    },
+    {
+      "start": 524.16,
+      "end": 530.08,
+      "text": "is what's known as primary. Now that can be a situation where and this is a little bit of the"
+    },
+    {
+      "start": 530.08,
+      "end": 538.5600000000001,
+      "text": "stopgap or the the lever that the stress valve for the marketplace. When there's more buyers or"
+    },
+    {
+      "start": 538.5600000000001,
+      "end": 545.6,
+      "text": "there's more sellers, we as the market makers can go to the issuer as authorized participants"
+    },
+    {
+      "start": 546.24,
+      "end": 554.32,
+      "text": "and it gets more units issued into the marketplace. How do we do this? If I was to sell, I didn't own"
+    },
+    {
+      "start": 554.4000000000001,
+      "end": 562.1600000000001,
+      "text": "100,000 shares of a particular ETF and I had a buyer of 100,000. I would sell that product to that"
+    },
+    {
+      "start": 563.12,
+      "end": 571.9200000000001,
+      "text": "investor and I would hedge myself off with a basket of the underlying of that ETF. At the end of the"
+    },
+    {
+      "start": 571.9200000000001,
+      "end": 582.8800000000001,
+      "text": "day, I would go to the ETF issuer and say ETF issuer, I need 100,000 of your ETF units. This is"
+    },
+    {
+      "start": 582.88,
+      "end": 591.4399999999999,
+      "text": "new issue that the ETF issue or will issue to me into the marketplace. I in turn will exchange"
+    },
+    {
+      "start": 592.0,
+      "end": 599.52,
+      "text": "that basket of stocks that I have bought to hedge my position with the ETF issuer. There's two"
+    },
+    {
+      "start": 599.52,
+      "end": 606.64,
+      "text": "types of exchanges that the market makers can do with an ETF issuer, guys. There is exchange"
+    },
+    {
+      "start": 606.64,
+      "end": 613.28,
+      "text": "in kind which is exchanging the underlying securities that make up the ETF and then there's"
+    },
+    {
+      "start": 613.28,
+      "end": 621.28,
+      "text": "also a cash exchange. We're instead of providing them with the ETF securities, I give them cash"
+    },
+    {
+      "start": 621.28,
+      "end": 628.4,
+      "text": "which the buyer gave to me, exchanged to me and then the issuer will go out and buy those securities."
+    },
+    {
+      "start": 628.96,
+      "end": 634.24,
+      "text": "So there's a few different ways that the creation redemption process will occur."
+    },
+    {
+      "start": 634.72,
+      "end": 642.48,
+      "text": "Don't know if I knew about where you would sell ETF units, hedge your position and then get new"
+    },
+    {
+      "start": 642.48,
+      "end": 648.16,
+      "text": "shares created at the end of the day. Makes sense. So we mentioned the two different mechanisms that"
+    },
+    {
+      "start": 648.16,
+      "end": 656.16,
+      "text": "in kind and cash. How is the creation and redemption process related to how the underlying ETF portfolio"
+    },
+    {
+      "start": 656.16,
+      "end": 664.0,
+      "text": "is actually managed? The portfolio managers, because the ETFs will trade in today, the portfolio managers"
+    },
+    {
+      "start": 664.0,
+      "end": 670.24,
+      "text": "need to be up on the liquidity requirements in the baskets, in the various ETFs that they manage."
+    },
+    {
+      "start": 670.88,
+      "end": 677.12,
+      "text": "It's definitely a different portfolio management experience than you would see in a traditional"
+    },
+    {
+      "start": 677.12,
+      "end": 685.68,
+      "text": "mutual fund. They need to make sure that they have sufficient cash intraday to cover off the various"
+    },
+    {
+      "start": 685.68,
+      "end": 692.0,
+      "text": "flows of funds that they're going to see. And that can be very active for more liquid, actively"
+    },
+    {
+      "start": 692.0,
+      "end": 697.12,
+      "text": "traded ETFs, guys. Are there other differences from typical mutual fund portfolio management other"
+    },
+    {
+      "start": 697.12,
+      "end": 704.8,
+      "text": "than the cash balances? With ETFs, you can trade intraday or you can also trade end of day."
+    },
+    {
+      "start": 705.6,
+      "end": 710.56,
+      "text": "With the ETFs, though as well, guys, is that those secondary flows that I mentioned that occur"
+    },
+    {
+      "start": 710.56,
+      "end": 716.72,
+      "text": "on the board, they can occur and you can have so much trade intraday on an ETF that it doesn't"
+    },
+    {
+      "start": 716.72,
+      "end": 723.6800000000001,
+      "text": "actually lead to a creation requirement, a creation or a redemption requirement in the fund."
+    },
+    {
+      "start": 723.6800000000001,
+      "end": 729.12,
+      "text": "So because there's the ability to trade in the market all day, the portfolio managers might not"
+    },
+    {
+      "start": 729.12,
+      "end": 735.9200000000001,
+      "text": "even be impacted by that. Whereas with a mutual fund, you don't have that offset. And so you might"
+    },
+    {
+      "start": 735.9200000000001,
+      "end": 742.48,
+      "text": "have a net equal buyer and seller on a mutual fund, but it's a lot less likely. Yeah, that's interesting."
+    },
+    {
+      "start": 742.48,
+      "end": 746.8000000000001,
+      "text": "So if people are pulling money out of mutual funds, it's not typically being offset by people"
+    },
+    {
+      "start": 746.8000000000001,
+      "end": 752.08,
+      "text": "putting money in. Correct. And so it's hitting the portfolio manager process more directly, but with ETFs,"
+    },
+    {
+      "start": 752.08,
+      "end": 756.88,
+      "text": "you could have a whole bunch of people trading their units with each other and not having to go"
+    },
+    {
+      "start": 756.88,
+      "end": 761.52,
+      "text": "directly to the primary market. Like there's no new shares being created. They're just being passed"
+    },
+    {
+      "start": 761.52,
+      "end": 768.16,
+      "text": "around people who are trading with each other. Correct. In the US, US markets, you'll see"
+    },
+    {
+      "start": 769.12,
+      "end": 777.04,
+      "text": "trading of 20 to 30 times. That's the run and gun cowboy wild west. You'll have 20 to 30 times"
+    },
+    {
+      "start": 777.04,
+      "end": 784.48,
+      "text": "the volume of ETF trading. Then you will see in primary net inflow or outflow for that matter. It's"
+    },
+    {
+      "start": 784.48,
+      "end": 791.1999999999999,
+      "text": "usually been inflow in these markets, but it's net inflow that you will see. Canada's a little more"
+    },
+    {
+      "start": 791.1999999999999,
+      "end": 797.76,
+      "text": "tame and it's closer to somewhere between six to 10 times, but you definitely see a lot more trade"
+    },
+    {
+      "start": 798.7199999999999,
+      "end": 806.7199999999999,
+      "text": "in the market in these funds than you do see in net new issuance. Okay. So there's more activity"
+    },
+    {
+      "start": 806.7199999999999,
+      "end": 812.24,
+      "text": "happening in the secondary market. How does that affect the ability of ETFs to use the capital"
+    },
+    {
+      "start": 812.24,
+      "end": 818.0799999999999,
+      "text": "gains refund mechanism? And maybe you can touch on what that is. The capital gains refund mechanism"
+    },
+    {
+      "start": 818.0799999999999,
+      "end": 826.0799999999999,
+      "text": "is a refund. Well, let's get back to the fact that both in Canada ETFs are issued out of a mutual"
+    },
+    {
+      "start": 826.08,
+      "end": 831.36,
+      "text": "fund trust. So we're actually very similar outside of some of the components. The fact that they"
+    },
+    {
+      "start": 831.36,
+      "end": 836.8000000000001,
+      "text": "trade intraday on an exchange and there are a cause of the creation redemption process. They are"
+    },
+    {
+      "start": 836.8000000000001,
+      "end": 843.84,
+      "text": "different than mutual funds. They are issued both as mutual fund trust. And so from a tax standpoint,"
+    },
+    {
+      "start": 843.84,
+      "end": 851.44,
+      "text": "if a holder or if the issuers required to sell the cause of redemption, some stocks or other"
+    },
+    {
+      "start": 851.5200000000001,
+      "end": 859.2800000000001,
+      "text": "securities in the fund and recognize some sort of capital gain, that redemption, that sale is going"
+    },
+    {
+      "start": 859.2800000000001,
+      "end": 867.7600000000001,
+      "text": "to impact not only the investor that's selling, but it has potential to impact all of the holders"
+    },
+    {
+      "start": 867.7600000000001,
+      "end": 876.32,
+      "text": "of the fund. And the capital gained refund in Canada that's used to mitigate some of this"
+    },
+    {
+      "start": 876.88,
+      "end": 883.6800000000001,
+      "text": "for the holders, the existing holders of the fund. So they're not hit as severely as they otherwise"
+    },
+    {
+      "start": 883.6800000000001,
+      "end": 892.32,
+      "text": "would be. But the secondary trade that occurs is a really important part of avoiding even having"
+    },
+    {
+      "start": 892.32,
+      "end": 900.32,
+      "text": "to trip and recognize capital gains in the fund. Now, if there's enough trade in the market and"
+    },
+    {
+      "start": 900.32,
+      "end": 905.6,
+      "text": "market makers are involved in that trade and are involved in like if we were to buy a sufficient"
+    },
+    {
+      "start": 905.6,
+      "end": 912.88,
+      "text": "amount, there was a net flow out of a particular ETF. And we as the market maker were buying a lot,"
+    },
+    {
+      "start": 913.52,
+      "end": 919.44,
+      "text": "at some point, if we hit what are referred to as the prescribed number of units, the number of"
+    },
+    {
+      "start": 919.44,
+      "end": 927.6,
+      "text": "units that you can redeem as a market maker, you can redeem to the issuer that will potentially"
+    },
+    {
+      "start": 927.6,
+      "end": 934.5600000000001,
+      "text": "lead to a capital gain event for holders of the ETF. But before that occurs, the secondary trade"
+    },
+    {
+      "start": 934.5600000000001,
+      "end": 941.84,
+      "text": "that occurs between buyer and seller will avoid some of that possible capital gain. So there's"
+    },
+    {
+      "start": 941.84,
+      "end": 948.24,
+      "text": "probably less capital gain refund mechanism available because there's less primary market transactions,"
+    },
+    {
+      "start": 948.24,
+      "end": 953.12,
+      "text": "but there's also probably less capital gains being realized inside the ETF because so much the"
+    },
+    {
+      "start": 953.12,
+      "end": 957.6,
+      "text": "activity is happening on the secondary market in the first place. Yes, exactly. What happens"
+    },
+    {
+      "start": 957.6,
+      "end": 964.72,
+      "text": "when an ETF's net asset value or NAV diverges from its market price? Well, because we have the"
+    },
+    {
+      "start": 964.72,
+      "end": 973.0400000000001,
+      "text": "creation redemption process, the market makers, the authorized participants are going to be out there"
+    },
+    {
+      "start": 973.0400000000001,
+      "end": 982.48,
+      "text": "providing bids and offers on the various securities. If an ETF trades too far outside of the value,"
+    },
+    {
+      "start": 982.48,
+      "end": 988.5600000000001,
+      "text": "if it's trading too below its net asset value, market makers are going to be buying that security"
+    },
+    {
+      "start": 988.5600000000001,
+      "end": 993.6800000000001,
+      "text": "and in the reverse, they're going to be selling it if it's trading above net asset value,"
+    },
+    {
+      "start": 993.6800000000001,
+      "end": 1000.24,
+      "text": "their value, and they're going to be hedging themselves with securities the other way."
+    },
+    {
+      "start": 1000.88,
+      "end": 1007.84,
+      "text": "You do see dislocations in the market that occur from time to time, guys. March 2020, you had"
+    },
+    {
+      "start": 1007.9200000000001,
+      "end": 1016.08,
+      "text": "major dislocation in some fixed income ETFs across North America. Now, what happened then during the"
+    },
+    {
+      "start": 1016.08,
+      "end": 1023.76,
+      "text": "COVID crisis panic, the underlying cash markets, interestingly enough, the credit markets"
+    },
+    {
+      "start": 1023.76,
+      "end": 1031.52,
+      "text": "froze up. And so you weren't even able to trade much in those markets. The ETF market surprisingly"
+    },
+    {
+      "start": 1032.48,
+      "end": 1039.68,
+      "text": "provided a lot more liquidity during that time. So that frozen cash market was kind of static and"
+    },
+    {
+      "start": 1040.48,
+      "end": 1046.56,
+      "text": "markets weren't really moving when at the same time the ETF market was truly moving. So there was"
+    },
+    {
+      "start": 1046.56,
+      "end": 1052.8,
+      "text": "some thoughts and opinion that those ETFs were trading at certain points of 30% discounts"
+    },
+    {
+      "start": 1052.8,
+      "end": 1060.0,
+      "text": "to where the quoted market was in the cash market. But the cash market wasn't trading anywhere near"
+    },
+    {
+      "start": 1060.0,
+      "end": 1066.72,
+      "text": "as much volume both in Canada and the US as was the ETF market. So the true representation at that"
+    },
+    {
+      "start": 1066.72,
+      "end": 1074.08,
+      "text": "point in time was the ETF market. So that 30% discount and nav is kind of questionable. And I don't"
+    },
+    {
+      "start": 1074.08,
+      "end": 1079.52,
+      "text": "think that that really did exist. If the cash market was trading as actively, that would have been"
+    },
+    {
+      "start": 1079.52,
+      "end": 1085.52,
+      "text": "a narrower spread. But the market makers and even others participants in the market will come in"
+    },
+    {
+      "start": 1086.08,
+      "end": 1091.2,
+      "text": "if there's ever arbitrage opportunities pricing to be had in the ETF space."
+    },
+    {
+      "start": 1091.2,
+      "end": 1094.96,
+      "text": "In that case, it sounds like they might not have been actually doing much because there probably"
+    },
+    {
+      "start": 1094.96,
+      "end": 1100.96,
+      "text": "wasn't an arbitrage there. There was, if you trade it small, but there certainly wasn't given the size"
+    },
+    {
+      "start": 1100.96,
+      "end": 1105.68,
+      "text": "that was going through the ETF market at that time. Yeah, we had a guest years ago. We were talking"
+    },
+    {
+      "start": 1105.68,
+      "end": 1112.56,
+      "text": "about ETFs and they explained it as ETFs being an additional pricing vector for illiquid assets."
+    },
+    {
+      "start": 1112.6399999999999,
+      "end": 1118.3999999999999,
+      "text": "This illiquid assets not being priced by the market, but in the ETF wrapper, it is. And so that"
+    },
+    {
+      "start": 1118.3999999999999,
+      "end": 1122.56,
+      "text": "you might see those big discounts now, but to your point, that's probably just a better representation"
+    },
+    {
+      "start": 1122.56,
+      "end": 1129.6799999999998,
+      "text": "of the actual price rather than a big discount. And there's a lot of competitive market makers"
+    },
+    {
+      "start": 1130.3999999999999,
+      "end": 1138.56,
+      "text": "continuously posting through automated trading prices in ETFs all the time guys. And so you don't"
+    },
+    {
+      "start": 1139.52,
+      "end": 1146.0,
+      "text": "see huge arbitrage opportunities day in day out. From time to time, there are dislocations in the market"
+    },
+    {
+      "start": 1146.0,
+      "end": 1152.56,
+      "text": "and events do occur. Those are small little windows in time. How does ETF block pricing work when"
+    },
+    {
+      "start": 1152.56,
+      "end": 1159.6799999999998,
+      "text": "there are illiquid or infrequently priced underlying assets? My market making desk is constantly working"
+    },
+    {
+      "start": 1159.6799999999998,
+      "end": 1167.2,
+      "text": "and looking to find new proxies, new price and reference points and new relationships on various"
+    },
+    {
+      "start": 1167.2,
+      "end": 1174.64,
+      "text": "ETFs that they trade, whether it's futures, whether it's US markets or other asset classes,"
+    },
+    {
+      "start": 1174.64,
+      "end": 1180.88,
+      "text": "they're always looking for additional price points and tools that they can use to hedge their"
+    },
+    {
+      "start": 1180.88,
+      "end": 1186.64,
+      "text": "exposure. So proxies are a really important part. And what they'll be looking as well to do is look"
+    },
+    {
+      "start": 1186.64,
+      "end": 1193.28,
+      "text": "for correlations, historical correlations in these assets. So they have more tools available"
+    },
+    {
+      "start": 1193.36,
+      "end": 1200.8,
+      "text": "to trade various ETFs, particularly if they're less liquid, less active. And so that's an important"
+    },
+    {
+      "start": 1200.8,
+      "end": 1205.84,
+      "text": "part of what we're constantly looking for. And those can be in all sorts of different markets."
+    },
+    {
+      "start": 1205.84,
+      "end": 1212.72,
+      "text": "I hear some in the US market will also trade credit default swap indices, which are broad-based"
+    },
+    {
+      "start": 1212.72,
+      "end": 1219.28,
+      "text": "credit indices against their ETF positions to hedge themselves. It's a constant battle that we're"
+    },
+    {
+      "start": 1219.28,
+      "end": 1226.0,
+      "text": "looking to solve. So that's definitely an important part of trading, especially when it comes to more"
+    },
+    {
+      "start": 1226.8799999999999,
+      "end": 1232.0,
+      "text": "less liquid ETFs. I think we just dig into that a bit. So how does the authorized participant"
+    },
+    {
+      "start": 1232.0,
+      "end": 1238.08,
+      "text": "actually manage its risk when that underlying easy liquid or trading even on a closed market?"
+    },
+    {
+      "start": 1238.08,
+      "end": 1244.72,
+      "text": "When it's closed, we will widen spreads. We will definitely have to widen spreads when the risk is"
+    },
+    {
+      "start": 1244.72,
+      "end": 1250.96,
+      "text": "at a heightened levels. And we will still quote, there's been situations very recently I can think"
+    },
+    {
+      "start": 1250.96,
+      "end": 1257.92,
+      "text": "about when Europe was closed, but we've had a client wanting to move a large block of ETFs"
+    },
+    {
+      "start": 1257.92,
+      "end": 1265.04,
+      "text": "that had a European equity exposure in it. We will look to, if the US market is open as well,"
+    },
+    {
+      "start": 1265.04,
+      "end": 1273.04,
+      "text": "we'll look to US comparable ETF proxies that are also trading if the underlying ETFs. So that can"
+    },
+    {
+      "start": 1273.04,
+      "end": 1280.96,
+      "text": "be a key tool for us to use, but pricing will adjust because we are taking on balance sheet risk"
+    },
+    {
+      "start": 1280.96,
+      "end": 1287.36,
+      "text": "Cameron when we're pricing up large blocks during times when the underlying liquidity of that"
+    },
+    {
+      "start": 1287.36,
+      "end": 1292.8799999999999,
+      "text": "market is not where it normally is. Can you talk more about what determines how wide the"
+    },
+    {
+      "start": 1292.8799999999999,
+      "end": 1300.24,
+      "text": "bit asks spread on an ETF is? Well, one factor that in the wideness of an ETF spread that I did"
+    },
+    {
+      "start": 1300.24,
+      "end": 1309.04,
+      "text": "mention before about the redemption and issuance credit redeem process, you have what's called a"
+    },
+    {
+      "start": 1309.04,
+      "end": 1316.8,
+      "text": "calf, a cash adjustment factor. So when we trade and exchange cash instead of securities,"
+    },
+    {
+      "start": 1317.44,
+      "end": 1323.68,
+      "text": "the issuer is going to take that cash and go out into the marketplace and buy those securities."
+    },
+    {
+      "start": 1323.68,
+      "end": 1329.84,
+      "text": "If it's in some less liquid or foreign market, they are going to charge this capital adjustment"
+    },
+    {
+      "start": 1329.84,
+      "end": 1337.04,
+      "text": "factor. And we embed that. It's usually anywhere between five and 25 basis points guys,"
+    },
+    {
+      "start": 1337.04,
+      "end": 1344.3999999999999,
+      "text": "but we will embed that in our models in the ETF pricing. And so we reflected in the pricing"
+    },
+    {
+      "start": 1344.3999999999999,
+      "end": 1349.6,
+      "text": "in the marketplace because we are going to be charged it by the issuer. And so we have to charge"
+    },
+    {
+      "start": 1349.6,
+      "end": 1355.6799999999998,
+      "text": "it to the market. You will see many products, many securities do not have a calf, this capital"
+    },
+    {
+      "start": 1355.68,
+      "end": 1361.76,
+      "text": "adjustment factor, but you do have it on some products from time to time. So that will widen"
+    },
+    {
+      "start": 1361.76,
+      "end": 1367.92,
+      "text": "the bit offer spread. Time of day will widen the bit offer spread volatility in the market will"
+    },
+    {
+      "start": 1367.92,
+      "end": 1374.64,
+      "text": "also drive it. Also the number of market makers that are holding the offer on a particular"
+    },
+    {
+      "start": 1374.64,
+      "end": 1380.72,
+      "text": "security. So there's a number of different factors that will drive that bit offer spread activity"
+    },
+    {
+      "start": 1380.8,
+      "end": 1388.0,
+      "text": "as well in the underlying. And we can get even more into that is it's a lot of liquidity of ETFs"
+    },
+    {
+      "start": 1388.0,
+      "end": 1394.96,
+      "text": "is as much driven by the underlying securities than it is anything about the ETF. The ETF itself"
+    },
+    {
+      "start": 1394.96,
+      "end": 1400.64,
+      "text": "is just a wrapper. The underlying securities are what drive that liquidity is a wider spread"
+    },
+    {
+      "start": 1401.52,
+      "end": 1407.6000000000001,
+      "text": "good for the market maker. Is there a profit in a wider spread? Not really because I can tell you"
+    },
+    {
+      "start": 1407.6000000000001,
+      "end": 1413.8400000000001,
+      "text": "this, the wider spread products are not trading as much. You know, we mentioned before the roles"
+    },
+    {
+      "start": 1413.8400000000001,
+      "end": 1422.2400000000002,
+      "text": "of the various players in the ETFs, the issuers, the ETF issuers, the asset managers will often have"
+    },
+    {
+      "start": 1422.2400000000002,
+      "end": 1429.0400000000002,
+      "text": "a capital markets and ETF capital markets desk. We are going to that desk and communicating with that"
+    },
+    {
+      "start": 1429.0400000000002,
+      "end": 1436.4800000000002,
+      "text": "desk when it comes to creation redeem. That desk is also out there looking at all of the trades that"
+    },
+    {
+      "start": 1436.48,
+      "end": 1443.52,
+      "text": "occur in their products. And they are watching as well the bit offer spread in their products. They want"
+    },
+    {
+      "start": 1443.52,
+      "end": 1450.72,
+      "text": "that spread obviously to be as tight as possible. They want the ETF issuers investment experience"
+    },
+    {
+      "start": 1450.72,
+      "end": 1458.0,
+      "text": "to be as positive as possible so that they keep coming back as repeat buyers. So they have an interest"
+    },
+    {
+      "start": 1458.0,
+      "end": 1464.64,
+      "text": "in that spread being as tight as possible. The market makers also have a real interest in making sure"
+    },
+    {
+      "start": 1464.72,
+      "end": 1473.0400000000002,
+      "text": "that our ETF investors experiences as good as possible. That's why arbitrage is not. It's talked about"
+    },
+    {
+      "start": 1473.0400000000002,
+      "end": 1480.48,
+      "text": "that drives the creation redeem process. But arbitrage is not what market makers are out there looking"
+    },
+    {
+      "start": 1480.48,
+      "end": 1489.6000000000001,
+      "text": "to capitalize on and bit offer spread alone. It's to trade as much as possible with ETF investors"
+    },
+    {
+      "start": 1489.6000000000001,
+      "end": 1494.88,
+      "text": "because that's how we're going to make our money. The commissions and the bit offer spread. If"
+    },
+    {
+      "start": 1494.88,
+      "end": 1500.8000000000002,
+      "text": "spreads are wide, investors aren't going to trade as much. So the tighter the spreads are, the better"
+    },
+    {
+      "start": 1500.8000000000002,
+      "end": 1508.64,
+      "text": "off, their experience is going to be and our experience as well. Guys, we joke that as market makers,"
+    },
+    {
+      "start": 1508.64,
+      "end": 1514.4,
+      "text": "we want the investors to turn their portfolio over four times a day. Well, that would be great."
+    },
+    {
+      "start": 1514.4,
+      "end": 1520.5600000000002,
+      "text": "More commissions, more bit offer spread. Whereas the issuers want them to trade once a year. They"
+    },
+    {
+      "start": 1520.5600000000002,
+      "end": 1527.3600000000001,
+      "text": "just want to keep those funds under management as long as possible. But really, I joke because"
+    },
+    {
+      "start": 1527.3600000000001,
+      "end": 1531.92,
+      "text": "what we all really want to do is ensure a positive experience for investors."
+    },
+    {
+      "start": 1532.5600000000002,
+      "end": 1539.44,
+      "text": "The market maker is making money off of commissions and a little bit off spreads. Is that what I heard?"
+    },
+    {
+      "start": 1539.44,
+      "end": 1544.56,
+      "text": "A little bit, but I can tell you this, for every trade we do, it's so competitive for every trade"
+    },
+    {
+      "start": 1544.56,
+      "end": 1552.0800000000002,
+      "text": "that we do where there might be a little we're often losing as well. It's a very competitive marketplace"
+    },
+    {
+      "start": 1552.0800000000002,
+      "end": 1557.8400000000001,
+      "text": "as well. And you guys can see also on so many of the ETF pairs, particularly the more traded ones,"
+    },
+    {
+      "start": 1558.48,
+      "end": 1565.68,
+      "text": "it's one two cents wide. So that is certainly not driving our PNL. It is the commissions that we do"
+    },
+    {
+      "start": 1565.68,
+      "end": 1572.64,
+      "text": "earn from our institutional clients. And also as well is the overall relationship that we have"
+    },
+    {
+      "start": 1573.28,
+      "end": 1580.96,
+      "text": "with many of these asset managers, these ETF issuers that we work with. The ETF ecosystem is"
+    },
+    {
+      "start": 1580.96,
+      "end": 1587.04,
+      "text": "it's a low margin business. It's a very low margin business. But it ties through because it"
+    },
+    {
+      "start": 1587.04,
+      "end": 1593.2,
+      "text": "covers so many different asset classes. And these asset managers are quite large. It ties through"
+    },
+    {
+      "start": 1593.2,
+      "end": 1599.68,
+      "text": "to many other aspects of the business. So how does the authorized participants arbitrage activity"
+    },
+    {
+      "start": 1599.68,
+      "end": 1607.92,
+      "text": "affect market depth when people are placing really large trades? When we have a large trade to do,"
+    },
+    {
+      "start": 1607.92,
+      "end": 1614.32,
+      "text": "our market makers need to gauge where they can hedge that position, where they can get out of that,"
+    },
+    {
+      "start": 1614.32,
+      "end": 1619.68,
+      "text": "get off at their buying, for example, or even selling for that matter, where can they offset that"
+    },
+    {
+      "start": 1619.68,
+      "end": 1626.3200000000002,
+      "text": "risk position on an intraday basis, and so that they can ensure that they're hedged off so that"
+    },
+    {
+      "start": 1626.3200000000002,
+      "end": 1632.0,
+      "text": "at the end of the day, when they meet if we're going to do some primary issuance and we're going"
+    },
+    {
+      "start": 1632.0,
+      "end": 1639.8400000000001,
+      "text": "to be meeting the issuer for a nav trade on the close to offset our positions. We're in a position"
+    },
+    {
+      "start": 1639.8400000000001,
+      "end": 1646.0,
+      "text": "to be hedged. And if there's an intraday market movement, we'll be able to manage that."
+    },
+    {
+      "start": 1646.56,
+      "end": 1652.72,
+      "text": "And the market is so competitive as well, Cameron. When you are asked to trade on blocks,"
+    },
+    {
+      "start": 1652.72,
+      "end": 1659.6,
+      "text": "if you were going to be trying to arb these large state institutions, you're not going to do"
+    },
+    {
+      "start": 1659.6,
+      "end": 1664.32,
+      "text": "another trade with that institution the next time they're looking to trade because there's just"
+    },
+    {
+      "start": 1664.32,
+      "end": 1672.8,
+      "text": "too many other banks that will do that trade on the cup on the where fair value of that product should"
+    },
+    {
+      "start": 1672.8,
+      "end": 1678.32,
+      "text": "be. Now, also as well, Cameron, we need to take into consideration that a seller comes in on a"
+    },
+    {
+      "start": 1678.32,
+      "end": 1684.48,
+      "text": "large block of product. We need to take into consideration, there's where the visible market is"
+    },
+    {
+      "start": 1684.48,
+      "end": 1690.32,
+      "text": "at that point. It could be if it's an actively traded ETF, you know, a few pennies of penny wide."
+    },
+    {
+      "start": 1690.8799999999999,
+      "end": 1696.72,
+      "text": "But if we're looking to move a million shares of an ETF, we need to take into consideration as"
+    },
+    {
+      "start": 1696.72,
+      "end": 1703.1200000000001,
+      "text": "market makers where we're going to be able to clear the stock or bonds that we're not going to"
+    },
+    {
+      "start": 1703.1200000000001,
+      "end": 1710.56,
+      "text": "need to sell on the other side. That takes experience. It takes losing money, Cameron. So I can tell you"
+    },
+    {
+      "start": 1710.56,
+      "end": 1716.4,
+      "text": "this as a trader, I've been in this business 30 years, you don't learn from your winning trades, Cameron."
+    },
+    {
+      "start": 1716.4,
+      "end": 1724.0,
+      "text": "You only learn from your losing trades. It's a right of passage in this market and ETFs in particular"
+    },
+    {
+      "start": 1724.0,
+      "end": 1730.24,
+      "text": "as a market maker. You're going to lose at some point a six-figure, mid-six-figure P&L"
+    },
+    {
+      "start": 1730.8,
+      "end": 1737.28,
+      "text": "and that's just part of the right of passage of learning how to properly price blocks as well."
+    },
+    {
+      "start": 1737.28,
+      "end": 1745.2,
+      "text": "Every different product will have a different trading personality. Gold ETFs will trade differently"
+    },
+    {
+      "start": 1745.2,
+      "end": 1752.96,
+      "text": "than REITs or for that matter energy or broader market and so an ETF market maker over time will"
+    },
+    {
+      "start": 1752.96,
+      "end": 1760.24,
+      "text": "learn where they can move set amount of risk so that they can protect themselves and hedge"
+    },
+    {
+      "start": 1760.24,
+      "end": 1767.1200000000001,
+      "text": "themselves off on an ETF transaction. If I understand correctly from the perspective of someone"
+    },
+    {
+      "start": 1767.1200000000001,
+      "end": 1773.1200000000001,
+      "text": "placing a large ETF trade, there's a lot of stuff going on in the background that makes it so"
+    },
+    {
+      "start": 1773.1200000000001,
+      "end": 1778.48,
+      "text": "that even if you look at the market data and it doesn't look like you could trade that much,"
+    },
+    {
+      "start": 1778.48,
+      "end": 1782.64,
+      "text": "there's a whole lot of machinery going on behind the scenes to make it so that you can actually"
+    },
+    {
+      "start": 1782.64,
+      "end": 1787.1200000000001,
+      "text": "can place really large trades without a whole lot of friction. Does that sound right?"
+    },
+    {
+      "start": 1787.1200000000001,
+      "end": 1794.88,
+      "text": "That is very accurate, which was often why we will quote a large blocks. We will refer to the"
+    },
+    {
+      "start": 1794.88,
+      "end": 1803.2800000000002,
+      "text": "current market but we will price that basket or that basket of underlying stocks that are linked"
+    },
+    {
+      "start": 1803.2800000000002,
+      "end": 1810.24,
+      "text": "to that ETF at some sort of spread over the current price. That could be in basis points,"
+    },
+    {
+      "start": 1810.24,
+      "end": 1818.72,
+      "text": "that could be in sense but that is very, very standard fair in ETF market making and that is"
+    },
+    {
+      "start": 1818.72,
+      "end": 1827.76,
+      "text": "correct because the liquidity when all of a sudden done is driven by the underlying components of"
+    },
+    {
+      "start": 1827.76,
+      "end": 1834.0,
+      "text": "the ETF, not that visible ETF quote that you see on the stock exchange board."
+    },
+    {
+      "start": 1834.8,
+      "end": 1839.52,
+      "text": "Yeah, that makes sense. You mentioned a nav trade. Can you talk with maybe what that is and"
+    },
+    {
+      "start": 1839.52,
+      "end": 1845.28,
+      "text": "what the difference is between a nav trade and an at risk trade? Certainly an at risk trade will"
+    },
+    {
+      "start": 1845.28,
+      "end": 1852.8,
+      "text": "be an interday type of trade that will do with retail investors and or institutions. There"
+    },
+    {
+      "start": 1852.8,
+      "end": 1859.84,
+      "text": "is some very large retail investors out there as well guys. So we will see large flow from our"
+    },
+    {
+      "start": 1859.92,
+      "end": 1867.1200000000001,
+      "text": "advisor front as well. But it is an at risk trade that needs to be done with the immediacy of the"
+    },
+    {
+      "start": 1867.1200000000001,
+      "end": 1874.88,
+      "text": "market because they want certainty of execution. Maybe they have a view on the market that particular"
+    },
+    {
+      "start": 1874.88,
+      "end": 1881.6000000000001,
+      "text": "day. Maybe it is just driven by the sheer need to get the trade done. It could be a view."
+    },
+    {
+      "start": 1882.3200000000002,
+      "end": 1889.92,
+      "text": "With the net asset value trade, that is an agreement where we will exchange, we will trade with the"
+    },
+    {
+      "start": 1889.92,
+      "end": 1898.16,
+      "text": "client at the closing price based on the net asset value of that fund. It is all of the component"
+    },
+    {
+      "start": 1898.16,
+      "end": 1906.3200000000002,
+      "text": "parts in their percentages in that ETF. We will meet at a price that is the closing price net"
+    },
+    {
+      "start": 1906.32,
+      "end": 1912.6399999999999,
+      "text": "asset value, fair value. So if they are buyer or seller, we will execute at the closing price."
+    },
+    {
+      "start": 1913.36,
+      "end": 1917.36,
+      "text": "It is just a very, very different. It is almost more like your traditional"
+    },
+    {
+      "start": 1918.1599999999999,
+      "end": 1923.2,
+      "text": "mutual fund type trade. But there are definitely some investors out there in the marketplace"
+    },
+    {
+      "start": 1923.2,
+      "end": 1929.52,
+      "text": "that are more comfortable doing net asset value trades and make that a standard fair for their"
+    },
+    {
+      "start": 1929.52,
+      "end": 1935.12,
+      "text": "transactions. So this is like if we needed to buy whatever $1 million or $10 million of some"
+    },
+    {
+      "start": 1935.92,
+      "end": 1939.2,
+      "text": "ETF on that risk trade, is that just like going to the market and buying it?"
+    },
+    {
+      "start": 1939.2,
+      "end": 1942.24,
+      "text": "Yeah, exactly. Okay. And then a nav trade is like..."
+    },
+    {
+      "start": 1942.24,
+      "end": 1945.6000000000001,
+      "text": "It is a closing price. It would be the closing market price."
+    },
+    {
+      "start": 1945.6000000000001,
+      "end": 1948.8000000000002,
+      "text": "And is that like we're calling you up and saying, hey, we want to do a nav trade?"
+    },
+    {
+      "start": 1948.8000000000002,
+      "end": 1951.44,
+      "text": "That's right. Very standard fair. Interesting. Okay."
+    },
+    {
+      "start": 1951.44,
+      "end": 1956.5600000000002,
+      "text": "And it's your risk and it's also our risk. As the dealer on the other side of the trade,"
+    },
+    {
+      "start": 1956.5600000000002,
+      "end": 1963.2800000000002,
+      "text": "it will be our risk on a risk trade. So what involvement do market makers have with new ETF products?"
+    },
+    {
+      "start": 1963.84,
+      "end": 1969.44,
+      "text": "Since we're in constant conversation and contact with the asset managers,"
+    },
+    {
+      "start": 1969.44,
+      "end": 1978.24,
+      "text": "the ETF issuers, and as well we are speaking to all swaths of investor from investment advisor"
+    },
+    {
+      "start": 1978.24,
+      "end": 1986.48,
+      "text": "to institutions, we're hearing what investors want and need and are looking for that might not"
+    },
+    {
+      "start": 1986.48,
+      "end": 1991.92,
+      "text": "be out there in the marketplace right now. Like some of this ETF slop that you guys love so much."
+    },
+    {
+      "start": 1992.64,
+      "end": 1998.88,
+      "text": "Getting aside, so a number of products actually have developed and grown that originated from"
+    },
+    {
+      "start": 1998.88,
+      "end": 2005.3600000000001,
+      "text": "conversations with market makers, and then ETF issuers took them up on some of these ideas"
+    },
+    {
+      "start": 2005.3600000000001,
+      "end": 2010.3200000000002,
+      "text": "and did bring products to market. I must confess that there's definitely been some of the leverage"
+    },
+    {
+      "start": 2010.3200000000002,
+      "end": 2015.8400000000001,
+      "text": "products have been in that category guys. That has definitely been the case. And as well,"
+    },
+    {
+      "start": 2015.8400000000001,
+      "end": 2020.5600000000002,
+      "text": "some of the cover call products have also come out of some of those sorts of conversations."
+    },
+    {
+      "start": 2021.2,
+      "end": 2025.84,
+      "text": "Inevitably though, it's what we are hearing what investors would like to see."
+    },
+    {
+      "start": 2026.56,
+      "end": 2030.48,
+      "text": "One of the cool things about ETFs is that you can take covered calls as one example,"
+    },
+    {
+      "start": 2031.36,
+      "end": 2035.36,
+      "text": "a relatively complex strategy to implement on your own. And you can put it in a product and it"
+    },
+    {
+      "start": 2035.36,
+      "end": 2039.52,
+      "text": "becomes super easy. And as much as I don't think people should be investing in covered call"
+    },
+    {
+      "start": 2039.52,
+      "end": 2044.08,
+      "text": "products, if you were so inclined to do so, having an in an ETF is pretty incredible."
+    },
+    {
+      "start": 2044.08,
+      "end": 2049.12,
+      "text": "It really is. We talked about average trades and nav trades. We talked about block trading and ETF"
+    },
+    {
+      "start": 2049.12,
+      "end": 2053.44,
+      "text": "pricing and all that kind of stuff. When you think about retail investors, what do you think they"
+    },
+    {
+      "start": 2053.44,
+      "end": 2057.6,
+      "text": "need to be aware of and thinking about when they're going to their discount broker account and"
+    },
+    {
+      "start": 2057.6,
+      "end": 2064.88,
+      "text": "trading ETF units? Oh my goodness. Investors need to definitely take into consideration when the"
+    },
+    {
+      "start": 2064.88,
+      "end": 2071.68,
+      "text": "markets are on holiday. And it sounds so simple guys. But when the US market is on holiday,"
+    },
+    {
+      "start": 2072.3199999999997,
+      "end": 2078.64,
+      "text": "you should not be trading Canadian market ETFs who underlie the US market. It makes sense."
+    },
+    {
+      "start": 2079.44,
+      "end": 2085.68,
+      "text": "But investors still do it. The same applies to Europe. Same applies to Remembrance Day when"
+    },
+    {
+      "start": 2085.68,
+      "end": 2092.8799999999997,
+      "text": "the Canadian bond market is closed. Just stay away. Those are better days. You want the best and"
+    },
+    {
+      "start": 2092.8799999999997,
+      "end": 2098.64,
+      "text": "most efficient price discovery in whatever security you're trading. So don't do it on days"
+    },
+    {
+      "start": 2099.2799999999997,
+      "end": 2104.7999999999997,
+      "text": "when markets are in holiday mode because you're going to get a holiday mode price."
+    },
+    {
+      "start": 2105.44,
+      "end": 2112.56,
+      "text": "I also would stay away from the first 20 to 30 minutes of the market opening and I would also"
+    },
+    {
+      "start": 2112.56,
+      "end": 2119.3599999999997,
+      "text": "stay away from the 20 to 30 minute close. These are messier periods of time. In particular,"
+    },
+    {
+      "start": 2119.3599999999997,
+      "end": 2127.7599999999998,
+      "text": "that opening is when market makers are still trying to figure out where these ETFs are with all their"
+    },
+    {
+      "start": 2127.76,
+      "end": 2136.96,
+      "text": "various underlying securities and pricing can be all over the place. You could maybe have a deal"
+    },
+    {
+      "start": 2136.96,
+      "end": 2143.28,
+      "text": "but you more often than not will not. And so you are better off to let the dust settle."
+    },
+    {
+      "start": 2143.92,
+      "end": 2152.32,
+      "text": "Market opens 930. Look at the market 10 o'clock afterwards. So those are definitely factors that"
+    },
+    {
+      "start": 2152.4,
+      "end": 2158.48,
+      "text": "people should take into consideration. Can a retail investor place a nav trade if they wanted to?"
+    },
+    {
+      "start": 2159.2000000000003,
+      "end": 2166.32,
+      "text": "Investment advisor certainly could. It would be a little bit more challenging for a DIY. Do it"
+    },
+    {
+      "start": 2166.32,
+      "end": 2173.2000000000003,
+      "text": "yourself investor direct investor. Replace that trade. Don't know if it's impossible but technically"
+    },
+    {
+      "start": 2173.2000000000003,
+      "end": 2177.6000000000004,
+      "text": "right now I think it would be a bit of a challenge. We certainly do them for investment advisors."
+    },
+    {
+      "start": 2178.4,
+      "end": 2184.64,
+      "text": "One of our biggest clients is our investment advisor network guys. So we speak to them,"
+    },
+    {
+      "start": 2184.64,
+      "end": 2189.92,
+      "text": "provide them with a lot of trading advice and guidance on best execution practices"
+    },
+    {
+      "start": 2191.12,
+      "end": 2194.3199999999997,
+      "text": "and see them as a very important partner to what we're trying to achieve."
+    },
+    {
+      "start": 2195.04,
+      "end": 2199.6,
+      "text": "Which is great. It makes a lot of sense. When you talk about not trading when a market is closed,"
+    },
+    {
+      "start": 2199.6,
+      "end": 2203.92,
+      "text": "which of course intuitively makes a lot of sense, is the bigger risk that you're going to get a wide"
+    },
+    {
+      "start": 2203.92,
+      "end": 2208.64,
+      "text": "spread or just that you're going to get noisy pricing of the underlying noisy pricing for sure."
+    },
+    {
+      "start": 2208.64,
+      "end": 2215.76,
+      "text": "Most definitely on holiday days, you do see less players in the marketplace. There is definitely"
+    },
+    {
+      "start": 2215.76,
+      "end": 2221.04,
+      "text": "a liquidity factor as well to take into consideration. There's just less prices out there. There's less"
+    },
+    {
+      "start": 2221.04,
+      "end": 2227.12,
+      "text": "participants. I think that it's not as much the spread as just a really bad fill and there's been"
+    },
+    {
+      "start": 2227.12,
+      "end": 2233.84,
+      "text": "some famous ones in the past that have occurred and they've been insizable trade. So there's been"
+    },
+    {
+      "start": 2233.84,
+      "end": 2240.0,
+      "text": "some lessons learned about that type of trade. It's not just also retail investors that need to"
+    },
+    {
+      "start": 2240.0,
+      "end": 2244.8,
+      "text": "be careful of that. There's been institutions that have borne the brunt of that as well."
+    },
+    {
+      "start": 2245.52,
+      "end": 2251.1200000000003,
+      "text": "So here's the best execution practice question for you. When does it make sense to place a block"
+    },
+    {
+      "start": 2251.1200000000003,
+      "end": 2258.88,
+      "text": "trade order for an ETF? I'm going to give just a lame answer, but it completely depends on what"
+    },
+    {
+      "start": 2258.88,
+      "end": 2266.4,
+      "text": "you are looking to achieve. What is the goal? What are you looking to achieve with that trade?"
+    },
+    {
+      "start": 2266.4,
+      "end": 2271.6,
+      "text": "Cameron, is it the immediacy because you think that the market's going to rally that particular"
+    },
+    {
+      "start": 2271.6,
+      "end": 2278.4,
+      "text": "day? Is it a risk reduction trade that is occurring and you need to get off that exposure as quickly"
+    },
+    {
+      "start": 2278.4,
+      "end": 2287.52,
+      "text": "as possible? Is it the need to transact before a central bank decision occurs at either"
+    },
+    {
+      "start": 2287.52,
+      "end": 2294.48,
+      "text": "at 10 o'clock, Bank of Canada or into the afternoon with the Fed? It completely depends on what"
+    },
+    {
+      "start": 2294.48,
+      "end": 2299.68,
+      "text": "the drivers are of the portfolio manager's decision-making process and its traders for that matter."
+    },
+    {
+      "start": 2300.56,
+      "end": 2305.36,
+      "text": "What is well? There's a lot of quantitative trade that occurs, systematic trade that will go"
+    },
+    {
+      "start": 2305.36,
+      "end": 2311.84,
+      "text": "through the market. So it can be driven by levels as well, technical levels, breakouts. There's"
+    },
+    {
+      "start": 2311.84,
+      "end": 2319.52,
+      "text": "a lot of that type of activity that occurs in the ETF market. So technical levels, systematic,"
+    },
+    {
+      "start": 2320.1600000000003,
+      "end": 2326.1600000000003,
+      "text": "a lot of drivers for where blocks will trade. How do the ETF blocks actually get priced?"
+    },
+    {
+      "start": 2326.1600000000003,
+      "end": 2335.28,
+      "text": "With great difficulty, I'm kidding. It goes back to where do I think I can hedge my exposure?"
+    },
+    {
+      "start": 2335.84,
+      "end": 2343.1200000000003,
+      "text": "And for most decently sized trades, it's not going to be too far off of where the current market"
+    },
+    {
+      "start": 2343.1200000000003,
+      "end": 2352.96,
+      "text": "quote is. But if it's a larger trade in some sort of sector ETF, for example, or a more esoteric"
+    },
+    {
+      "start": 2353.6000000000004,
+      "end": 2360.0800000000004,
+      "text": "bond ETF, the market makers really need to think, where am I going to get the offset?"
+    },
+    {
+      "start": 2360.72,
+      "end": 2367.68,
+      "text": "What is it going to cost me? And it's really an art and a science. The market making of ETFs"
+    },
+    {
+      "start": 2367.68,
+      "end": 2375.6,
+      "text": "is an art and science. There are tools that market makers will use that will give them indications to,"
+    },
+    {
+      "start": 2375.6,
+      "end": 2382.56,
+      "text": "you know, what the depth looks like of a given basket of stocks and how far down you think or how"
+    },
+    {
+      "start": 2382.56,
+      "end": 2387.44,
+      "text": "high up you think you're going to have to go with you or a certain percentage of the market volume."
+    },
+    {
+      "start": 2388.0,
+      "end": 2393.44,
+      "text": "Those don't help you in non-exchange traded products though, guys. And so those will help"
+    },
+    {
+      "start": 2394.08,
+      "end": 2401.76,
+      "text": "it goes back to experience pricing a lot of block trades and knowing where you think you're going"
+    },
+    {
+      "start": 2401.76,
+      "end": 2408.48,
+      "text": "to be able to hedge that risk. Another factor is market tone on the day. It's a positive day. Do"
+    },
+    {
+      "start": 2408.48,
+      "end": 2414.32,
+      "text": "you think it's going to be difficult to get your hedges in? Or is it a negative day? And it's going"
+    },
+    {
+      "start": 2414.32,
+      "end": 2422.0800000000004,
+      "text": "to be difficult to find buyers of the underlying securities. That sort of tone, it's only sitting on"
+    },
+    {
+      "start": 2422.0800000000004,
+      "end": 2429.04,
+      "text": "a desk and seeing and experiencing it for a prolonged period of time, you'll really get a sense of"
+    },
+    {
+      "start": 2429.04,
+      "end": 2433.76,
+      "text": "how to price and how to trade it. We've been talking about block trades. But can you maybe just"
+    },
+    {
+      "start": 2433.76,
+      "end": 2438.4,
+      "text": "for listeners say describe what a block trade actually is and how that's different from other"
+    },
+    {
+      "start": 2438.4,
+      "end": 2444.56,
+      "text": "types of trades? The term block trade is pretty wide anyways because it depends on the underlying"
+    },
+    {
+      "start": 2444.56,
+      "end": 2452.0,
+      "text": "market. I have a screen set up that any trade in theory, a million dollars or more is considered"
+    },
+    {
+      "start": 2452.0,
+      "end": 2459.04,
+      "text": "kind of a block trade, but a million dollar trade, a million dollars worth of trade in something"
+    },
+    {
+      "start": 2459.04,
+      "end": 2467.84,
+      "text": "like a very liquid trade underlying the TSX 60 or 300 or the S&P 500 for that matter. That's"
+    },
+    {
+      "start": 2467.84,
+      "end": 2473.44,
+      "text": "nothing like block trades would be in the hundreds of millions like sizable trade that would be very"
+    },
+    {
+      "start": 2473.44,
+      "end": 2480.08,
+      "text": "challenging to trade would be hundreds of millions of dollars worth of trade. But in theory, a trade"
+    },
+    {
+      "start": 2480.7200000000003,
+      "end": 2487.2000000000003,
+      "text": "in excess of a million dollars could be considered a block. But as mentioned, trades of that size"
+    },
+    {
+      "start": 2487.2000000000003,
+      "end": 2495.2000000000003,
+      "text": "in very active ETFs are not a big deal. It's only more sizable, but it's going to depend. There's"
+    },
+    {
+      "start": 2495.2000000000003,
+      "end": 2501.1200000000003,
+      "text": "going to be some types of ETFs where 10 million dollars is going to be a very significant move"
+    },
+    {
+      "start": 2501.6800000000003,
+      "end": 2511.1200000000003,
+      "text": "moving 10 million worth of those securities. Whereas in more active, big indices, as mentioned,"
+    },
+    {
+      "start": 2511.1200000000003,
+      "end": 2516.7200000000003,
+      "text": "it's going to be a lot larger. But we use the gauge of a million dollars, but it really does vary"
+    },
+    {
+      "start": 2516.7200000000003,
+      "end": 2522.4,
+      "text": "from ticker to ticker. It really does just speak to the ETF structure though, right? If people"
+    },
+    {
+      "start": 2522.4,
+      "end": 2528.1600000000003,
+      "text": "want it to trade those underlying, you're basically talking about how hard it is to do it well and"
+    },
+    {
+      "start": 2528.1600000000003,
+      "end": 2533.04,
+      "text": "get good prices on the securities. But when someone's trading an ETF unit, they're just buying the unit"
+    },
+    {
+      "start": 2533.04,
+      "end": 2535.84,
+      "text": "and you guys basically are doing all the hard work behind the scenes."
+    },
+    {
+      "start": 2536.56,
+      "end": 2541.84,
+      "text": "Yes, there's a lot of work that goes behind the scenes. Each of the banks for our market making"
+    },
+    {
+      "start": 2541.84,
+      "end": 2547.76,
+      "text": "ETF market making operations, we have teams of developers that support our models."
+    },
+    {
+      "start": 2548.48,
+      "end": 2555.76,
+      "text": "So we get, as mentioned, from the custodians, we will get the inventory, the portfolio"
+    },
+    {
+      "start": 2555.76,
+      "end": 2564.1600000000003,
+      "text": "basket view of various ETFs in the morning. And then we will input those, update our models"
+    },
+    {
+      "start": 2564.1600000000003,
+      "end": 2571.76,
+      "text": "that our developers work on to price all of these different ETFs. So there's a lot that goes"
+    },
+    {
+      "start": 2571.76,
+      "end": 2578.0,
+      "text": "into it. There is a huge infrastructure. It's a very challenging business because the margins"
+    },
+    {
+      "start": 2578.8,
+      "end": 2587.2000000000003,
+      "text": "are tight, very competitive pricing, and yet there's a big capital outlay in both tech and people"
+    },
+    {
+      "start": 2587.2000000000003,
+      "end": 2594.0800000000004,
+      "text": "that's required. So if an ETF gets closed down, what happens to the asset society ETF?"
+    },
+    {
+      "start": 2594.7200000000003,
+      "end": 2599.92,
+      "text": "It does happen from time to time, and there's a few ways that it can happen. One,"
+    },
+    {
+      "start": 2600.56,
+      "end": 2607.76,
+      "text": "closing of an ETF does happen when an issuer just deems that a product quite frankly has been"
+    },
+    {
+      "start": 2607.76,
+      "end": 2614.8,
+      "text": "unsuccessful and they just want to close it down. The size of the Canadian ETF markets,"
+    },
+    {
+      "start": 2614.8,
+      "end": 2627.2000000000003,
+      "text": "850 billion right now. We've got about almost 1900 tickers. The US market is 14.7 trillion"
+    },
+    {
+      "start": 2627.2000000000003,
+      "end": 2635.44,
+      "text": "with the T. They've got around 5,000 tickers. Wow. We have too many tickers in Canada. Yes,"
+    },
+    {
+      "start": 2635.44,
+      "end": 2642.88,
+      "text": "we do. So what issuers will do is they will close and cancel out products that"
+    },
+    {
+      "start": 2643.6800000000003,
+      "end": 2652.0000000000005,
+      "text": "don't get critical mass. And it's unfortunately not done enough. Issures will leave products"
+    },
+    {
+      "start": 2652.0,
+      "end": 2658.96,
+      "text": "outstanding, but to close them out to your question, to close them out, it's a pretty straightforward"
+    },
+    {
+      "start": 2658.96,
+      "end": 2667.52,
+      "text": "process. It's literally a few weeks time. It'll be press released, and the issuer, if there's any"
+    },
+    {
+      "start": 2667.52,
+      "end": 2675.68,
+      "text": "liabilities outstanding, those will need to be repaid, any lending, if there's leverage involved."
+    },
+    {
+      "start": 2675.68,
+      "end": 2682.8799999999997,
+      "text": "And then the net assets will all be returned to the ETF investors. I can tell you that"
+    },
+    {
+      "start": 2682.8799999999997,
+      "end": 2689.12,
+      "text": "we are seeing some issuers cancel and close out products with a little bit more regularity"
+    },
+    {
+      "start": 2689.12,
+      "end": 2696.16,
+      "text": "these days, which is actually, I think, really positive. I think that an ETF that fails is not a"
+    },
+    {
+      "start": 2696.16,
+      "end": 2701.9199999999996,
+      "text": "negative for the market, for the business, for the issuer. I think it just proves and shows that"
+    },
+    {
+      "start": 2701.92,
+      "end": 2707.6800000000003,
+      "text": "we're going to innovate and innovation should not be deemed in a negative light. It should be"
+    },
+    {
+      "start": 2707.6800000000003,
+      "end": 2714.16,
+      "text": "seen as positive, because that's how we get new products. We meet new needs of investors. And"
+    },
+    {
+      "start": 2714.16,
+      "end": 2720.16,
+      "text": "I think it shouldn't be deemed in the negative light that it has in the past. I showed that as well"
+    },
+    {
+      "start": 2720.16,
+      "end": 2728.08,
+      "text": "camera, that another reason why a ETF might get closed down is if the actual the issuer was to go"
+    },
+    {
+      "start": 2728.56,
+      "end": 2735.12,
+      "text": "receivership. There was one that occurred in the market in Canada in the last few years."
+    },
+    {
+      "start": 2736.0,
+      "end": 2743.6,
+      "text": "And when the ETF issue were unfortunately went into bankruptcy, it ended up taking eight to nine"
+    },
+    {
+      "start": 2743.6,
+      "end": 2750.16,
+      "text": "months before, well, first off, the ETFs all halted. And it took eight to nine months before the"
+    },
+    {
+      "start": 2750.16,
+      "end": 2757.7599999999998,
+      "text": "ETF investors got back their funds, and they did not get back their full funds. Obviously,"
+    },
+    {
+      "start": 2757.76,
+      "end": 2764.0,
+      "text": "in most situation, normal situations where it's not driven by a bankruptcy, you're going to get"
+    },
+    {
+      "start": 2764.0,
+      "end": 2770.8,
+      "text": "your full funds. But in that situation was very unusual. It rarely happens. ETF investors certainly"
+    },
+    {
+      "start": 2770.8,
+      "end": 2775.6000000000004,
+      "text": "did not get hundred pennies on the dollar. I know the story you're talking about. That was a"
+    },
+    {
+      "start": 2775.6000000000004,
+      "end": 2785.2000000000003,
+      "text": "crazy one. What percentage of ETF flows are retail versus institutional? In Canada, it's about"
+    },
+    {
+      "start": 2785.2000000000003,
+      "end": 2795.76,
+      "text": "65% retail trade. 65 to 70% is easily retail trade. Retail drives the trade. You do have those"
+    },
+    {
+      "start": 2795.76,
+      "end": 2802.4800000000005,
+      "text": "large trades that happen from time to time, but retail is all over this market. This is actually"
+    },
+    {
+      "start": 2802.4800000000005,
+      "end": 2807.76,
+      "text": "kind of interesting, guys, in the sense that in the US, it's somewhere around the same, somewhere"
+    },
+    {
+      "start": 2807.84,
+      "end": 2818.2400000000002,
+      "text": "between 65, 70%, but in that retail number, the RIAs are included. Now, I don't know about you,"
+    },
+    {
+      "start": 2818.2400000000002,
+      "end": 2824.0800000000004,
+      "text": "but some of these RIAs that registered investment advisors are monsters. They're as big as"
+    },
+    {
+      "start": 2824.0800000000004,
+      "end": 2834.48,
+      "text": "institutions, and they're about 35% of the market. So if you take the IRAs out and include them,"
+    },
+    {
+      "start": 2834.48,
+      "end": 2839.36,
+      "text": "it's more like almost, I don't know, are they institutions or are they not institutions? They"
+    },
+    {
+      "start": 2839.36,
+      "end": 2846.48,
+      "text": "run billions of dollars. I would argue that in the US, it's probably about two thirds institutional,"
+    },
+    {
+      "start": 2846.48,
+      "end": 2852.48,
+      "text": "if you include the RIAs as institutions. So it is definitely a different market down there than it"
+    },
+    {
+      "start": 2852.48,
+      "end": 2861.76,
+      "text": "is up here. And what types of institutions are using ETFs? Everyone. It runs the gamut from multi-asset,"
+    },
+    {
+      "start": 2862.48,
+      "end": 2868.4,
+      "text": "balanced, fun-type asset managers, and all the banks have them. They are actually some of the"
+    },
+    {
+      "start": 2868.4,
+      "end": 2875.6000000000004,
+      "text": "largest users of ETFs in the marketplace. Hedge funds use them. A lot of actually, believe it or"
+    },
+    {
+      "start": 2875.6000000000004,
+      "end": 2883.1200000000003,
+      "text": "not, guys, active, single security investors will use ETFs as well. I'll get into that a little bit"
+    },
+    {
+      "start": 2883.1200000000003,
+      "end": 2890.7200000000003,
+      "text": "soon. Hedge funds use them. Pension funds certainly use them. I would say every walk and type of"
+    },
+    {
+      "start": 2890.7200000000003,
+      "end": 2897.36,
+      "text": "investor, institutional investor is using ETFs in some sort of way in the marketplace, for sure."
+    },
+    {
+      "start": 2898.0000000000005,
+      "end": 2905.0400000000004,
+      "text": "How does the activity in the ETF market between retail and institutional differ, like in the way"
+    },
+    {
+      "start": 2905.0400000000004,
+      "end": 2914.5600000000004,
+      "text": "that they're trading them? The retail will use ETFs as the component part to their portfolio"
+    },
+    {
+      "start": 2915.04,
+      "end": 2922.56,
+      "text": "strategy. It is the core. So once someone adopts ETFs, and I can't say this across the board,"
+    },
+    {
+      "start": 2922.56,
+      "end": 2928.72,
+      "text": "but I would say it's a general rule that we see. Once they start using ETFs as their core strategy,"
+    },
+    {
+      "start": 2928.72,
+      "end": 2934.32,
+      "text": "it becomes slowly over time. It becomes the full strategy, and they'll use it for almost everything."
+    },
+    {
+      "start": 2934.32,
+      "end": 2940.08,
+      "text": "And then not everyone does that, but it certainly is more used in that way. Whereas I would say"
+    },
+    {
+      "start": 2940.08,
+      "end": 2946.24,
+      "text": "institutions, there's a lot more tools that they have at their disposal. They'll use total"
+    },
+    {
+      "start": 2946.24,
+      "end": 2955.12,
+      "text": "return swaps. They will use futures. They're going to use all sorts of other different structures"
+    },
+    {
+      "start": 2955.12,
+      "end": 2964.16,
+      "text": "to invest. So the ETF is just one component that they will use to invest in markets. There are"
+    },
+    {
+      "start": 2964.16,
+      "end": 2971.04,
+      "text": "institutions that will look at the cost between putting on total return swaps versus futures,"
+    },
+    {
+      "start": 2971.04,
+      "end": 2978.08,
+      "text": "versus having on ETFs, putting ETFs as their exposure. They will look at the cost for these various"
+    },
+    {
+      "start": 2978.08,
+      "end": 2983.8399999999997,
+      "text": "tools, and they will decide which one they want to allocate to. A really anecdotal interesting"
+    },
+    {
+      "start": 2983.8399999999997,
+      "end": 2991.52,
+      "text": "point of guys in the last little while, last few weeks ahead of all of these big AI-related"
+    },
+    {
+      "start": 2991.52,
+      "end": 3001.36,
+      "text": "and SpaceX IPOs, the cost of synthetic index-type exposure has gone sky high through the roof."
+    },
+    {
+      "start": 3002.0,
+      "end": 3009.92,
+      "text": "Why? Because there's a lot of funding, pre-funding that's being asked for by institutions,"
+    },
+    {
+      "start": 3010.8,
+      "end": 3017.6,
+      "text": "by all sorts of different financial service companies in the marketplace. There's a lot of"
+    },
+    {
+      "start": 3017.68,
+      "end": 3025.12,
+      "text": "borrowing that's being done right now to get various index exposures and to get exposure to"
+    },
+    {
+      "start": 3025.8399999999997,
+      "end": 3032.7999999999997,
+      "text": "some of these new IPOs. And so the cost of synthetic like benchmark, money market spreads of"
+    },
+    {
+      "start": 3032.7999999999997,
+      "end": 3042.4,
+      "text": "45-like seedore, or in the US sofa, plus 45 to 50, up to like 100 basis points over."
+    },
+    {
+      "start": 3042.4,
+      "end": 3048.32,
+      "text": "The total return swaps just so that I'm not throwing jargon here. These total return swaps are how"
+    },
+    {
+      "start": 3048.32,
+      "end": 3056.0,
+      "text": "investors, large institutional investors, will get equity index exposure without putting out"
+    },
+    {
+      "start": 3056.0,
+      "end": 3064.2400000000002,
+      "text": "cash. What they'll do is they will buy a swap, and they will get a return on an index, and in return,"
+    },
+    {
+      "start": 3064.2400000000002,
+      "end": 3071.44,
+      "text": "they will pay for that by paying some spread above a funding rate. So that's just one tool that they"
+    },
+    {
+      "start": 3071.44,
+      "end": 3078.8,
+      "text": "will use in lieu of ETFs. So lots of different tools of their disposal. So you touched on this,"
+    },
+    {
+      "start": 3078.8,
+      "end": 3085.28,
+      "text": "but how are the Canadian and US ETF markets different? It's really interesting. We talked about before"
+    },
+    {
+      "start": 3085.28,
+      "end": 3094.08,
+      "text": "how retail is so prevalent in the Canadian space. The Canadian market is somewhere actively managed"
+    },
+    {
+      "start": 3094.08,
+      "end": 3101.68,
+      "text": "products are somewhere between 25 and 30% of the Canadian market. Whereas in the US market,"
+    },
+    {
+      "start": 3102.72,
+      "end": 3109.92,
+      "text": "they're only about 8 to not even 10%. And that's that 47 trillion market. That's where all the"
+    },
+    {
+      "start": 3109.92,
+      "end": 3116.3199999999997,
+      "text": "activity has been in the last little while, or an inordinate amount of the activity in the US market."
+    },
+    {
+      "start": 3116.32,
+      "end": 3124.8,
+      "text": "But traditionally, the US market, because it was also as well, it's institutional bent. Investors"
+    },
+    {
+      "start": 3124.8,
+      "end": 3132.4,
+      "text": "in the US market were really looking traditionally for beta exposure. They were looking for market pure"
+    },
+    {
+      "start": 3132.4,
+      "end": 3138.88,
+      "text": "market index exposure. Whereas in Canada, because we have so many more retail investors,"
+    },
+    {
+      "start": 3139.52,
+      "end": 3146.2400000000002,
+      "text": "they're looking as well for actively managed alternatives. And even though these are actively"
+    },
+    {
+      "start": 3146.2400000000002,
+      "end": 3156.32,
+      "text": "managed funds, they are still more attractively priced than traditional mutual funds of a comparable"
+    },
+    {
+      "start": 3156.32,
+      "end": 3165.04,
+      "text": "ilk. And so that is one very big difference between the US and Canada. We're already alluded to it"
+    },
+    {
+      "start": 3165.04,
+      "end": 3173.6,
+      "text": "already, but the amount of trade in the US market is just insane. It is such a capitalist cowboy"
+    },
+    {
+      "start": 3174.4,
+      "end": 3183.2,
+      "text": "market. There are so many different strategies being utilized. The liquidity is truly amazing. Whereas"
+    },
+    {
+      "start": 3183.2,
+      "end": 3189.12,
+      "text": "the Canadian market is still developing from that standpoint. As well, another difference"
+    },
+    {
+      "start": 3189.68,
+      "end": 3197.7599999999998,
+      "text": "is because there's such a big RIA component to the US ETF market, that sophisticated group"
+    },
+    {
+      "start": 3197.7599999999998,
+      "end": 3205.8399999999997,
+      "text": "of investors looks to the ETF market to buy a lot of derivative-based ETF products. Yes,"
+    },
+    {
+      "start": 3205.8399999999997,
+      "end": 3210.7999999999997,
+      "text": "then these are buffer type products, believe it or not, they are actually buying. There is a lot"
+    },
+    {
+      "start": 3210.7999999999997,
+      "end": 3218.08,
+      "text": "more interest in derivative-based products in the US market than there is right now in the Canadian"
+    },
+    {
+      "start": 3218.08,
+      "end": 3226.0,
+      "text": "market. I would say that from a simplicity standpoint, because the Canadian market is as retail"
+    },
+    {
+      "start": 3226.0,
+      "end": 3232.72,
+      "text": "focused as it is, I think that the education involved with some of these derivative strategies"
+    },
+    {
+      "start": 3233.6,
+      "end": 3241.2799999999997,
+      "text": "is keeping investors from those products to date, but let's not oversell the retail investor."
+    },
+    {
+      "start": 3241.84,
+      "end": 3247.04,
+      "text": "They are keeping up to speed and they are getting involved in more products over time that do"
+    },
+    {
+      "start": 3247.04,
+      "end": 3253.44,
+      "text": "have sophistication. I think it's a matter of time before we do start to see more derivative-based"
+    },
+    {
+      "start": 3253.44,
+      "end": 3260.8,
+      "text": "strategies grow in the Canadian market. Perhaps that means that yes, we are going to have more ETF"
+    },
+    {
+      "start": 3260.8,
+      "end": 3268.0,
+      "text": "slop. It's just a matter of what investors are looking for over time as their tastes change and"
+    },
+    {
+      "start": 3268.0,
+      "end": 3272.64,
+      "text": "they become more sophisticated in some of what they're looking to achieve. We've got the slop"
+    },
+    {
+      "start": 3272.7999999999997,
+      "end": 3277.6,
+      "text": "regardless. We've got tons of structured products in Canada, so it's either going to be structured"
+    },
+    {
+      "start": 3277.6,
+      "end": 3282.48,
+      "text": "products directly from the bank or it's going to be a buffer ETF, but the products exist either"
+    },
+    {
+      "start": 3282.48,
+      "end": 3288.16,
+      "text": "way. It's just different ways to access them. There is different wrappers. The ETF one just seems"
+    },
+    {
+      "start": 3288.16,
+      "end": 3294.96,
+      "text": "to be coming more popular over time. How does the tax efficiency of ETFs in Canada differ from that"
+    },
+    {
+      "start": 3294.96,
+      "end": 3303.6,
+      "text": "of the US? ETFs in the US are more advantageous for investors down there. Yes. There is a bigger"
+    },
+    {
+      "start": 3303.6,
+      "end": 3312.88,
+      "text": "difference between utilizing ETFs and ETFs are more attractive vis-a-vis mutual funds in the US"
+    },
+    {
+      "start": 3312.88,
+      "end": 3321.6,
+      "text": "from a tax standpoint. In Canada, ETFs, because of some of the secondary trade that we mentioned before,"
+    },
+    {
+      "start": 3322.4,
+      "end": 3328.64,
+      "text": "they do have some tax advantages that aren't available to mutual funds, but they're not"
+    },
+    {
+      "start": 3329.2799999999997,
+      "end": 3339.2,
+      "text": "quite as attractive in comparison to mutual funds as US ETFs are. In the US market, ETF holders"
+    },
+    {
+      "start": 3339.2,
+      "end": 3346.56,
+      "text": "do not have to be concerned with absorbing the capital gains of other holders of their funds."
+    },
+    {
+      "start": 3346.56,
+      "end": 3353.36,
+      "text": "That capital gain pinpointed will be isolated to that investor. Whereas, yes, up here in Canada,"
+    },
+    {
+      "start": 3354.08,
+      "end": 3360.64,
+      "text": "if you own an ETF and you aren't transacting, there is still the possibility. Even though we"
+    },
+    {
+      "start": 3360.64,
+      "end": 3367.04,
+      "text": "have the capital gains refund, there is the possibility that you will still be impacted"
+    },
+    {
+      "start": 3367.04,
+      "end": 3373.92,
+      "text": "from a tax standpoint if transactions do occur in the fund and you aren't involved in them. That"
+    },
+    {
+      "start": 3373.92,
+      "end": 3379.12,
+      "text": "is a big difference between the two jurisdictions. What are some of the most common"
+    },
+    {
+      "start": 3380.0,
+      "end": 3386.16,
+      "text": "misconceptions about ETFs that you see? One of the biggest ones is, and this is institutions as"
+    },
+    {
+      "start": 3386.16,
+      "end": 3391.28,
+      "text": "well that will do this, is that they'll look at the assets under management, and if they're not,"
+    },
+    {
+      "start": 3391.28,
+      "end": 3396.56,
+      "text": "for example, a billion, they won't have interest in investing. Whereas, that's not reflective at all."
+    },
+    {
+      "start": 3397.12,
+      "end": 3403.36,
+      "text": "It's the underlying securities, getting back to that, the underlying securities are the true"
+    },
+    {
+      "start": 3403.36,
+      "end": 3413.52,
+      "text": "arbiter of the liquidity of that ETF at any point in time. Even institutions will err on that."
+    },
+    {
+      "start": 3413.52,
+      "end": 3418.56,
+      "text": "But one factor as well, Cameron, for institutions, is many want to own an ETF"
+    },
+    {
+      "start": 3419.2799999999997,
+      "end": 3424.72,
+      "text": "that they'll want to own up to 10% of the ETFs. If they want some sort of critical mass"
+    },
+    {
+      "start": 3424.7200000000003,
+      "end": 3432.2400000000002,
+      "text": "position of 50 to 100 million, they do want to see more AUM. That is a legitimate factor."
+    },
+    {
+      "start": 3432.2400000000002,
+      "end": 3439.28,
+      "text": "But just the fact that an ETF, the size or the amount of trade that's occurring liquidity"
+    },
+    {
+      "start": 3439.28,
+      "end": 3446.4800000000005,
+      "text": "at any point in time, is no true indicator to how much truly we can trade in that ETF. So a lot"
+    },
+    {
+      "start": 3446.4800000000005,
+      "end": 3452.8,
+      "text": "of misconceptions occur around that. And then, Cameron, I have to admit to you, one of the biggest"
+    },
+    {
+      "start": 3452.8,
+      "end": 3459.1200000000003,
+      "text": "misconceptions that I was guilty of when I originally heard the high yield bond funds,"
+    },
+    {
+      "start": 3459.1200000000003,
+      "end": 3466.96,
+      "text": "bond ETFs were coming to the marketplace, I said, this will never fly. This was back in like"
+    },
+    {
+      "start": 3466.96,
+      "end": 3477.6000000000004,
+      "text": "2000, circus 2006, 2009 sort of era. I thought, okay, you've got a less liquid over the counter bond,"
+    },
+    {
+      "start": 3478.4,
+      "end": 3484.56,
+      "text": "and you're going to package it into a listed security. This will never fly. This will not work."
+    },
+    {
+      "start": 3484.56,
+      "end": 3492.64,
+      "text": "We come into the first dust up, first market type sell-off, or very, very unfavorable market conditions."
+    },
+    {
+      "start": 3492.64,
+      "end": 3500.16,
+      "text": "This won't fly. I could not have been more wrong, guys, because through every disaster scenario,"
+    },
+    {
+      "start": 3500.16,
+      "end": 3506.0,
+      "text": "and we've had many disaster scenarios, every time the market has gone through difficult times,"
+    },
+    {
+      "start": 3506.56,
+      "end": 3514.32,
+      "text": "we have seen more liquidity come into both high yield bond funds, and as well ETFs in general."
+    },
+    {
+      "start": 3514.32,
+      "end": 3520.88,
+      "text": "It has truly amazed me, and I could not have been more wrong. So even today, when we look at"
+    },
+    {
+      "start": 3521.44,
+      "end": 3529.68,
+      "text": "what's going on on the private equity side, and there's been a few ETFs that have tried to"
+    },
+    {
+      "start": 3529.6800000000003,
+      "end": 3536.7200000000003,
+      "text": "introduce on a lower percentage level albeit of 15%, which is what the SEC allows them to do,"
+    },
+    {
+      "start": 3536.7200000000003,
+      "end": 3543.4400000000005,
+      "text": "but they've introduced some private credit to the ETFs. Those ETFs have not been a smashing success."
+    },
+    {
+      "start": 3543.4400000000005,
+      "end": 3549.92,
+      "text": "It's been a tough tape for private credit in general with some of the very well-pronounced"
+    },
+    {
+      "start": 3549.92,
+      "end": 3557.36,
+      "text": "bankruptcies of private credit companies, and I think that it's going to take time to develop,"
+    },
+    {
+      "start": 3558.2400000000002,
+      "end": 3563.84,
+      "text": "but just like I thought that there was no way that high yield could ever do this, I don't think we"
+    },
+    {
+      "start": 3563.84,
+      "end": 3571.1200000000003,
+      "text": "can discount that down the road, private credit will also make its way into ETFs in a more significant"
+    },
+    {
+      "start": 3571.1200000000003,
+      "end": 3578.4,
+      "text": "way. It's not now the liquidity isn't there. The innovation and technology to trade those securities"
+    },
+    {
+      "start": 3578.4,
+      "end": 3586.2400000000002,
+      "text": "is not quite where it needs to be, but I'm not going to say definitively that it's a done deal,"
+    },
+    {
+      "start": 3586.2400000000002,
+      "end": 3592.32,
+      "text": "that it's not going to happen in the future because I was so wrong in the past when it came to"
+    },
+    {
+      "start": 3592.32,
+      "end": 3599.28,
+      "text": "opining how well these ETFs would do. How do you think CRM3 total cost reporting,"
+    },
+    {
+      "start": 3599.28,
+      "end": 3605.44,
+      "text": "which Canada is a new disclosure regime where financial advisors have to show all of the fees,"
+    },
+    {
+      "start": 3605.44,
+      "end": 3611.2000000000003,
+      "text": "including fund fees in dollar terms to their clients each year? How do you think that'll affect"
+    },
+    {
+      "start": 3611.2000000000003,
+      "end": 3619.36,
+      "text": "the ETF market? The total cost reporting that comes out of the client relationship model phase 3"
+    },
+    {
+      "start": 3620.1600000000003,
+      "end": 3627.44,
+      "text": "that the Canadian securities administrator, they're a collective of all of the securities commissions,"
+    },
+    {
+      "start": 3627.44,
+      "end": 3634.1600000000003,
+      "text": "the provincial securities commissions, and they put together rules and consultation that then"
+    },
+    {
+      "start": 3634.16,
+      "end": 3641.2799999999997,
+      "text": "eventually becomes finding law by the securities commissions just to give some background here."
+    },
+    {
+      "start": 3641.2799999999997,
+      "end": 3649.68,
+      "text": "So the Canadian securities administrator along with Ciro has implemented this total cost reporting"
+    },
+    {
+      "start": 3649.68,
+      "end": 3657.2799999999997,
+      "text": "as part of the client relationship model, and it's to increase disclosure around"
+    },
+    {
+      "start": 3657.28,
+      "end": 3664.2400000000002,
+      "text": "cost linked to ETFs to all ETFs issued in the market. And interestingly enough,"
+    },
+    {
+      "start": 3664.2400000000002,
+      "end": 3672.32,
+      "text": "this total cost reporting is going to go into place by 2027. So issuers and the market is working"
+    },
+    {
+      "start": 3672.32,
+      "end": 3678.1600000000003,
+      "text": "on it right now. It's going to be very favorable to ETFs, and we've already actually seen some of"
+    },
+    {
+      "start": 3678.24,
+      "end": 3688.3199999999997,
+      "text": "that occur. Why? Because now mutual funds, alt funds, and ETFs are going to have to provide additional"
+    },
+    {
+      "start": 3688.3199999999997,
+      "end": 3694.8799999999997,
+      "text": "disclosure, full disclosure on all their costs. If you're using leverage, you need to reflect that"
+    },
+    {
+      "start": 3694.8799999999997,
+      "end": 3703.7599999999998,
+      "text": "cost. If you're using swap facilities, you need to give all of your other sundry costs that your"
+    },
+    {
+      "start": 3703.76,
+      "end": 3710.88,
+      "text": "fund is enduring, including performance related fees. So those funds that are underperforming"
+    },
+    {
+      "start": 3710.88,
+      "end": 3717.76,
+      "text": "and are high costs are at risk of seeing investors through IA's in particular,"
+    },
+    {
+      "start": 3718.4,
+      "end": 3724.5600000000004,
+      "text": "sell down those positions, and move more into lower cost alternatives. In particular, of course,"
+    },
+    {
+      "start": 3724.5600000000004,
+      "end": 3732.1600000000003,
+      "text": "lower cost alternatives is what the ETF market is all about. And so this is definitely a tailwind"
+    },
+    {
+      "start": 3732.7999999999997,
+      "end": 3740.8799999999997,
+      "text": "for the ETF industry. The huge spike we've seen in ETF activity and flows this year,"
+    },
+    {
+      "start": 3740.8799999999997,
+      "end": 3748.56,
+      "text": "inflows into the market. Last year, guys, we saw about 125 billion and inflows into the ETF market."
+    },
+    {
+      "start": 3749.3599999999997,
+      "end": 3756.72,
+      "text": "And we're on pace now at the end of May around 88, 85 billion. We're on pace to get to like 200"
+    },
+    {
+      "start": 3756.7200000000003,
+      "end": 3764.88,
+      "text": "billion. And I think some of that flow is driven by some IA's moving out of high cost products"
+    },
+    {
+      "start": 3765.6000000000004,
+      "end": 3772.2400000000002,
+      "text": "and into lower cost products, hence the ETF market. I've had conversations with IA's where this"
+    },
+    {
+      "start": 3772.2400000000002,
+      "end": 3777.5200000000004,
+      "text": "is definitely occurring. They're very sensitive to it. So it is truly a reality."
+    },
+    {
+      "start": 3778.2400000000002,
+      "end": 3782.88,
+      "text": "Final question for you, Marley. And this has been fun. How do you define success in your life?"
+    },
+    {
+      "start": 3783.6,
+      "end": 3787.76,
+      "text": "Oh my goodness. This is your classic question. Classic. Yes. Classic question."
+    },
+    {
+      "start": 3788.56,
+      "end": 3794.88,
+      "text": "As I think I mentioned, guys, I've been in this business 30 years. I've loved it. The investment"
+    },
+    {
+      "start": 3794.88,
+      "end": 3802.0,
+      "text": "business is so challenging. It's so interesting. I've had the great opportunity to work with"
+    },
+    {
+      "start": 3802.7200000000003,
+      "end": 3812.08,
+      "text": "just such intelligent clients, colleagues, and yes, even competitors. And yet, as good as this business"
+    },
+    {
+      "start": 3813.04,
+      "end": 3819.04,
+      "text": "we're just always working towards the next goal, next achievement. And that's great. That's"
+    },
+    {
+      "start": 3819.04,
+      "end": 3828.56,
+      "text": "capitalism. That's business. But there's never enough. Every year it's more and more. And so I think"
+    },
+    {
+      "start": 3829.2799999999997,
+      "end": 3837.6,
+      "text": "we need to gauge success outside of just this business alone. And we need to really work on those"
+    },
+    {
+      "start": 3838.4,
+      "end": 3847.04,
+      "text": "sources outside of this business alone. And that's family. That's friends. It's hobbies and"
+    },
+    {
+      "start": 3847.04,
+      "end": 3854.0,
+      "text": "interests. You will find true satisfaction and achievement in those. And you will find"
+    },
+    {
+      "start": 3854.0,
+      "end": 3861.7599999999998,
+      "text": "enough. Whereas in this business, as good as it is, there will never be enough. There is more return"
+    },
+    {
+      "start": 3861.76,
+      "end": 3869.2000000000003,
+      "text": "to be had. There is more ETF adoption to occur. There is more of everything. And so you will never"
+    },
+    {
+      "start": 3869.2000000000003,
+      "end": 3875.5200000000004,
+      "text": "find true satisfaction from this business alone. You need to find it in your personal life."
+    },
+    {
+      "start": 3875.5200000000004,
+      "end": 3882.96,
+      "text": "As mentioned through family, friends, hobbies. It can be religion. It can be many different walks."
+    },
+    {
+      "start": 3883.6800000000003,
+      "end": 3890.5600000000004,
+      "text": "You will find your success in those parts of your lives. For me, that is where I will find my true"
+    },
+    {
+      "start": 3890.56,
+      "end": 3896.7999999999997,
+      "text": "success and where I will find enough. And it's also the opportunity to, in those parts of my life,"
+    },
+    {
+      "start": 3896.7999999999997,
+      "end": 3904.32,
+      "text": "to give. And to give more than I get. And that's how I'm going to find my true satisfaction in life."
+    },
+    {
+      "start": 3904.32,
+      "end": 3908.32,
+      "text": "Really a nice answer. Been a great conversation, Raleigh. We really appreciate you coming on and"
+    },
+    {
+      "start": 3908.32,
+      "end": 3913.36,
+      "text": "shedding some light on how the ETF market in Canada works. And for bringing the nice soup."
+    },
+    {
+      "start": 3913.36,
+      "end": 3920.32,
+      "text": "My pleasure, guys. And now let's enjoy some flop together. This is the first prop I think we've had"
+    },
+    {
+      "start": 3920.32,
+      "end": 3926.1600000000003,
+      "text": "on this show. Thanks for joining us. It was really fun. I really enjoyed it to you guys."
+    },
+    {
+      "start": 3926.1600000000003,
+      "end": 3930.4,
+      "text": "Great to meet you. Thank you. Yeah, that was great, Marley. Thanks a lot. Take care. Cheers."
+    },
+    {
+      "start": 3935.1200000000003,
+      "end": 3939.52,
+      "text": "Hey, everyone. It's producer Matt. Thank you so much for tuning in to this week's episode."
+    },
+    {
+      "start": 3939.52,
+      "end": 3944.48,
+      "text": "Before we sign off, here's the disclaimer you've been waiting for. Portfolio management and"
+    },
+    {
+      "start": 3944.48,
+      "end": 3949.92,
+      "text": "brokerage services in Canada are offered exclusively by PWL Capital, which is regulated by the Canadian"
+    },
+    {
+      "start": 3949.92,
+      "end": 3954.64,
+      "text": "investment regulatory organization and is a member of the Canadian investor protection fund."
+    },
+    {
+      "start": 3954.64,
+      "end": 3959.36,
+      "text": "Investment advisory services in the United States of America are offered exclusively by one"
+    },
+    {
+      "start": 3959.36,
+      "end": 3965.2000000000003,
+      "text": "digital investment advisors LLC. One digital and PWL Capital are affiliated entities and"
+    },
+    {
+      "start": 3965.2000000000003,
+      "end": 3970.7200000000003,
+      "text": "they mostly get on really well with each other. However, each company has financial responsibility"
+    },
+    {
+      "start": 3970.7200000000003,
+      "end": 3976.48,
+      "text": "for only its own products and services. Nothing herein constitutes an offer or solicitation"
+    },
+    {
+      "start": 3976.56,
+      "end": 3981.6,
+      "text": "to buy or sell any security. Occasionally, we tell you not to buy crappy investments in the first"
+    },
+    {
+      "start": 3981.6,
+      "end": 3986.88,
+      "text": "place, but that's not the same thing as telling you to sell them. This communication is distributed"
+    },
+    {
+      "start": 3986.88,
+      "end": 3991.76,
+      "text": "for informational purposes only. The information contained herein has been derived from sources"
+    },
+    {
+      "start": 3991.76,
+      "end": 3998.88,
+      "text": "believed to be truthy, but not necessarily accurate. We really do try, but we can't make any guarantees."
+    },
+    {
+      "start": 3998.88,
+      "end": 4003.68,
+      "text": "Even if nothing we say is fundamentally wrong, it might not be the whole story. Furthermore,"
+    },
+    {
+      "start": 4003.6800000000003,
+      "end": 4009.6800000000003,
+      "text": "nothing herein should be construed as investment, tax, or legal advice. Even though we call the podcast"
+    },
+    {
+      "start": 4009.6800000000003,
+      "end": 4015.2000000000003,
+      "text": "your weekly reality check on sensible investing and financial decision making, you shouldn't rely on us"
+    },
+    {
+      "start": 4015.2000000000003,
+      "end": 4020.1600000000003,
+      "text": "when making actual decisions, only hypothetical ones. Different types of investments and investment"
+    },
+    {
+      "start": 4020.1600000000003,
+      "end": 4025.2000000000003,
+      "text": "strategies have varying degrees of risk and are not suitable for all investors. You should consult"
+    },
+    {
+      "start": 4025.2000000000003,
+      "end": 4029.92,
+      "text": "with a professional advisor to see how the information contained herein may apply to your individual"
+    },
+    {
+      "start": 4029.92,
+      "end": 4035.2000000000003,
+      "text": "circumstances. It might not apply at all. Honestly, you can probably ignore most of it. All"
+    },
+    {
+      "start": 4035.2000000000003,
+      "end": 4040.4,
+      "text": "market indices discussed are unmanaged, do not incur management fees and cannot be invested"
+    },
+    {
+      "start": 4040.4,
+      "end": 4045.76,
+      "text": "indirectly, which is a shame, because it would be awesome if you could. All investing involves"
+    },
+    {
+      "start": 4045.76,
+      "end": 4052.48,
+      "text": "risk of loss, including loss of money, loss of sleep, loss of hair, and loss of reputation."
+    },
+    {
+      "start": 4052.48,
+      "end": 4057.6,
+      "text": "Nothing herein should be construed as a guarantee of any specific outcome or profit."
+    },
+    {
+      "start": 4057.68,
+      "end": 4062.64,
+      "text": "Pass performance is not indicative of or a guarantee of future results. If it were,"
+    },
+    {
+      "start": 4062.64,
+      "end": 4068.0,
+      "text": "it would be much easier to be a Leafs fan. All statements and opinions presented herein"
+    },
+    {
+      "start": 4068.0,
+      "end": 4074.0,
+      "text": "are those of the individual hosts and our guests, and are current only as of this communications"
+    },
+    {
+      "start": 4074.0,
+      "end": 4079.2,
+      "text": "original publication date. No one should be surprised if they have all since recanted. Neither one"
+    },
+    {
+      "start": 4079.2,
+      "end": 4085.52,
+      "text": "digital nor PWL capital has any obligation to provide revised statements and or opinions in the event"
+    },
+    {
+      "start": 4085.52,
+      "end": 4088.88,
+      "text": "of change circumstances. See you next time."
+    }
+  ]
+}

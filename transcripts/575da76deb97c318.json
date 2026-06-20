@@ -1,0 +1,1696 @@
+{
+  "id": "575da76deb97c318",
+  "show": "Masters in Business",
+  "theme": "Investor Talks",
+  "title": "At The Money: How Fixed-Income Investors can use ETFs to their Best Advantage.",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/9f1ff0b7-b28d-4639-aa3c-b465016f3ba7/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+  "source": "feed",
+  "duration": 1120.1,
+  "segments": [
+    {
+      "start": 1.56,
+      "end": 6.2,
+      "text": "Speaker 1: Ah money is Diamon, and make money is diamond and"
+    },
+    {
+      "start": 6.32,
+      "end": 11.239,
+      "text": "Speaker 1: me money games donon and me money is Donon, and"
+    },
+    {
+      "start": 11.36,
+      "end": 16.32,
+      "text": "Speaker 1: make money is dimon and me money games common, and"
+    },
+    {
+      "start": 16.4,
+      "end": 21.4,
+      "text": "Speaker 1: me money is Domon and me money games common to."
+    },
+    {
+      "start": 21.44,
+      "end": 25.64,
+      "text": "Speaker 2: Make Investors who are looking for yields were once required"
+    },
+    {
+      "start": 25.68,
+      "end": 31.24,
+      "text": "Speaker 2: to purchase individual bonds or mutual funds. Today ETFs have"
+    },
+    {
+      "start": 31.52,
+      "end": 35.12,
+      "text": "Speaker 2: changed the fixed income market just as surely as they've"
+    },
+    {
+      "start": 35.2,
+      "end": 39.76,
+      "text": "Speaker 2: changed the equity markets. Investors can purchase low cost bonding"
+    },
+    {
+      "start": 39.84,
+      "end": 44.28,
+      "text": "Speaker 2: tfs in just about any flavor you can imagine. I'm"
+    },
+    {
+      "start": 44.32,
+      "end": 47.12,
+      "text": "Speaker 2: Barry Ridults, and on today's edition of At the Money,"
+    },
+    {
+      "start": 47.56,
+      "end": 51.8,
+      "text": "Speaker 2: we're going to explain how fixed income investors can use"
+    },
+    {
+      "start": 51.92,
+      "end": 56.319,
+      "text": "Speaker 2: ETFs to their best advantage. To help us unpack all"
+    },
+    {
+      "start": 56.32,
+      "end": 59.4,
+      "text": "Speaker 2: of this and what it means for your portfolio, let's"
+    },
+    {
+      "start": 59.44,
+      "end": 63.52,
+      "text": "Speaker 2: bring in Still Lately. He's managing director at Blackrock and"
+    },
+    {
+      "start": 63.64,
+      "end": 68.12,
+      "text": "Speaker 2: Global head of I Shares Fixed Income ETFs. Previously he"
+    },
+    {
+      "start": 68.24,
+      "end": 71.399,
+      "text": "Speaker 2: was the head of I Shares Fixed Income Strategy. He"
+    },
+    {
+      "start": 71.4,
+      "end": 75.6,
+      "text": "Speaker 2: helps to oversee more than a trillion dollars in fixed"
+    },
+    {
+      "start": 75.64,
+      "end": 81.32,
+      "text": "Speaker 2: income assets. So Steve, let's just start simply why ETFs?"
+    },
+    {
+      "start": 81.4,
+      "end": 86.16,
+      "text": "Speaker 2: What are the advantages over bond, separately managed accounts or"
+    },
+    {
+      "start": 86.24,
+      "end": 86.959,
+      "text": "Speaker 2: mutual funds?"
+    },
+    {
+      "start": 88.6,
+      "end": 90.64,
+      "text": "Speaker 3: Good to see you, Barry, Thanks for having me. So"
+    },
+    {
+      "start": 90.72,
+      "end": 93.36,
+      "text": "Speaker 3: this has been a bit of a journey that spans"
+    },
+    {
+      "start": 93.44,
+      "end": 97.52000000000001,
+      "text": "Speaker 3: decades actually, and so to really understand the power of"
+    },
+    {
+      "start": 98.0,
+      "end": 101.199,
+      "text": "Speaker 3: bondi tfs, you have to kind of go back before"
+    },
+    {
+      "start": 101.2,
+      "end": 101.88,
+      "text": "Speaker 3: they existed."
+    },
+    {
+      "start": 101.959,
+      "end": 104.6,
+      "text": "Speaker 4: So let's call that, you know, kind of late nineties."
+    },
+    {
+      "start": 105.36,
+      "end": 109.36,
+      "text": "Speaker 3: The very first bondi tf came out in Canada into"
+    },
+    {
+      "start": 109.6,
+      "end": 112.08,
+      "text": "Speaker 3: the year two thousand and then in the US in"
+    },
+    {
+      "start": 112.12,
+      "end": 114.52000000000001,
+      "text": "Speaker 3: two thousand and two. But if you go back to"
+    },
+    {
+      "start": 114.56,
+      "end": 119.72,
+      "text": "Speaker 3: the nineties, buying bonds was a non trivial exercise, and"
+    },
+    {
+      "start": 119.72,
+      "end": 121.52,
+      "text": "Speaker 3: the way it was done it was a very much"
+    },
+    {
+      "start": 121.6,
+      "end": 125.08,
+      "text": "Speaker 3: voice driven market. Pick up the phone, you call several people,"
+    },
+    {
+      "start": 125.12,
+      "end": 127.72,
+      "text": "Speaker 3: you get several quotes, hoping the market's not moving on you,"
+    },
+    {
+      "start": 127.76,
+      "end": 130.84,
+      "text": "Speaker 3: at the same time, not quite sure if you exactly"
+    },
+    {
+      "start": 130.88,
+      "end": 135.079,
+      "text": "Speaker 3: got the best price. There was very little transparency et cetera,"
+    },
+    {
+      "start": 135.12,
+      "end": 138.079,
+      "text": "Speaker 3: et cetera, and kind of uneven access."
+    },
+    {
+      "start": 138.12,
+      "end": 139.36,
+      "text": "Speaker 4: So depending on who."
+    },
+    {
+      "start": 139.24,
+      "end": 142.04,
+      "text": "Speaker 3: You were and what kind of wallet you had, you"
+    },
+    {
+      "start": 142.12,
+      "end": 147.24,
+      "text": "Speaker 3: might get different treatment. And so that was a problem"
+    },
+    {
+      "start": 147.32,
+      "end": 151.76,
+      "text": "Speaker 3: for some investors, not for all. For investors who had access,"
+    },
+    {
+      "start": 152.16,
+      "end": 153.96,
+      "text": "Speaker 3: you know, maybe they viewed that as an advantage, but"
+    },
+    {
+      "start": 154.0,
+      "end": 156.44,
+      "text": "Speaker 3: for a lot of us it was really challenging to"
+    },
+    {
+      "start": 156.48,
+      "end": 159.4,
+      "text": "Speaker 3: build a high quality, diversified bond portfolio."
+    },
+    {
+      "start": 159.6,
+      "end": 161.84,
+      "text": "Speaker 4: So what do bond ETFs do?"
+    },
+    {
+      "start": 162.8,
+      "end": 167.36,
+      "text": "Speaker 3: They actually opened that whole world up to transparency. You"
+    },
+    {
+      "start": 167.88,
+      "end": 170.959,
+      "text": "Speaker 3: basically now had not even a single bond, but a"
+    },
+    {
+      "start": 171.07999999999998,
+      "end": 175.2,
+      "text": "Speaker 3: portfolio bonds that trade on exchange. You know what's in it."
+    },
+    {
+      "start": 175.48,
+      "end": 179.16,
+      "text": "Speaker 3: You could see the price on exchange every second ticking"
+    },
+    {
+      "start": 179.2,
+      "end": 181.36,
+      "text": "Speaker 3: buy so you don't have to pick up the phone"
+    },
+    {
+      "start": 181.36,
+      "end": 183.96,
+      "text": "Speaker 3: and call people. You just simply can trade on exchange"
+    },
+    {
+      "start": 184.0,
+      "end": 187.2,
+      "text": "Speaker 3: and you know you're getting the best price that's quoted"
+    },
+    {
+      "start": 187.24,
+      "end": 190.48,
+      "text": "Speaker 3: on exchange. Now, again, like anything, you have to use"
+    },
+    {
+      "start": 190.48,
+      "end": 194.36,
+      "text": "Speaker 3: proper discipline when executing orders, etc. But it was just"
+    },
+    {
+      "start": 194.84,
+      "end": 198.44,
+      "text": "Speaker 3: a shocking revolutionary thing to be able to trade bonds"
+    },
+    {
+      "start": 198.68,
+      "end": 199.639,
+      "text": "Speaker 3: on an exchange."
+    },
+    {
+      "start": 200.0,
+      "end": 202.56,
+      "text": "Speaker 2: So that makes a lot of sense. I remember when"
+    },
+    {
+      "start": 202.6,
+      "end": 207.28,
+      "text": "Speaker 2: this market was very dealer driven, but there was always"
+    },
+    {
+      "start": 207.32,
+      "end": 209.76,
+      "text": "Speaker 2: an option, or at least over the past let's call"
+    },
+    {
+      "start": 209.8,
+      "end": 213.6,
+      "text": "Speaker 2: it forty years, an option of bond mutual funds. There"
+    },
+    {
+      "start": 213.639,
+      "end": 218.72,
+      "text": "Speaker 2: are obvious advantages for equity ETFs over equity mutual funds."
+    },
+    {
+      "start": 219.8,
+      "end": 223.52,
+      "text": "Speaker 2: How does that translate to fixed income ETFs? What are"
+    },
+    {
+      "start": 223.56,
+      "end": 227.0,
+      "text": "Speaker 2: their advantages over fixed income mutual funds?"
+    },
+    {
+      "start": 227.4,
+      "end": 228.2,
+      "text": "Speaker 4: Well, there are a couple."
+    },
+    {
+      "start": 229.36,
+      "end": 232.4,
+      "text": "Speaker 3: You know, mutual funds still play a role. You'll tend"
+    },
+    {
+      "start": 232.4,
+      "end": 235.32,
+      "text": "Speaker 3: to see them in four oh one k's and things"
+    },
+    {
+      "start": 235.4,
+      "end": 239.2,
+      "text": "Speaker 3: like that. That's more of an architecture thing. But away"
+    },
+    {
+      "start": 239.24,
+      "end": 242.68,
+      "text": "Speaker 3: from that, mutual funds price one one time a day"
+    },
+    {
+      "start": 242.84,
+      "end": 244.44,
+      "text": "Speaker 3: at the at the end of the day, right, so"
+    },
+    {
+      "start": 244.48,
+      "end": 247.56,
+      "text": "Speaker 3: you don't know in the middle of the day really"
+    },
+    {
+      "start": 247.64,
+      "end": 249.92,
+      "text": "Speaker 3: what the what the valuation is. And so I think"
+    },
+    {
+      "start": 249.96,
+      "end": 253.56,
+      "text": "Speaker 3: a lot of advisors and and investors have found the"
+    },
+    {
+      "start": 253.64,
+      "end": 256.84,
+      "text": "Speaker 3: idea of being able to trade intra day at a"
+    },
+    {
+      "start": 256.92,
+      "end": 260.919,
+      "text": "Speaker 3: known price really attractive because as you can imagine, you know, Barry,"
+    },
+    {
+      "start": 260.96,
+      "end": 264.279,
+      "text": "Speaker 3: let's just say you get you know, a strong inflation number,"
+    },
+    {
+      "start": 264.44,
+      "end": 267.32,
+      "text": "Speaker 3: or you know an employment reporter or what have you,"
+    },
+    {
+      "start": 267.36,
+      "end": 270.04,
+      "text": "Speaker 3: and you want to move on that. You can put"
+    },
+    {
+      "start": 270.08,
+      "end": 272.28,
+      "text": "Speaker 3: in an order for your mutual fund and sure that'll"
+    },
+    {
+      "start": 272.32,
+      "end": 273.72,
+      "text": "Speaker 3: get filled at the end of the day. You really"
+    },
+    {
+      "start": 273.76,
+      "end": 276.68,
+      "text": "Speaker 3: don't know what value BONDI TF you can just go"
+    },
+    {
+      "start": 276.68,
+      "end": 279.8,
+      "text": "Speaker 3: and exchange immediately and you can decide whether that's the"
+    },
+    {
+      "start": 279.88,
+      "end": 281.4,
+      "text": "Speaker 3: right price or not, and you can act on it."
+    },
+    {
+      "start": 281.48,
+      "end": 282.039,
+      "text": "Speaker 4: So there's that."
+    },
+    {
+      "start": 282.279,
+      "end": 285.119,
+      "text": "Speaker 3: The second part of it would just be the transparency"
+    },
+    {
+      "start": 285.15999999999997,
+      "end": 290.12,
+      "text": "Speaker 3: issue for mutual funds. You may you know, have you know,"
+    },
+    {
+      "start": 290.52,
+      "end": 292.96,
+      "text": "Speaker 3: quarterly reporting or what have you as opposed to daily"
+    },
+    {
+      "start": 293.44,
+      "end": 296.56,
+      "text": "Speaker 3: for most bondietfs, and that includes active strategies. So a"
+    },
+    {
+      "start": 296.6,
+      "end": 301.839,
+      "text": "Speaker 3: lot of investors are attracted that daily transparency as well."
+    },
+    {
+      "start": 300.839,
+      "end": 303.08,
+      "text": "Speaker 2: And there used to be I don't know, tens of"
+    },
+    {
+      "start": 303.16,
+      "end": 308.0,
+      "text": "Speaker 2: thousands of mutual fund out on the fixed income side."
+    },
+    {
+      "start": 308.4,
+      "end": 312.44,
+      "text": "Speaker 2: What sort of selection do ETFs present for bonds or"
+    },
+    {
+      "start": 312.44,
+      "end": 317.12,
+      "text": "Speaker 2: fixed income in the exchange traded fund wrapper."
+    },
+    {
+      "start": 317.72,
+      "end": 322.039,
+      "text": "Speaker 3: Well, it's been exploding, particularly, I would say, since the"
+    },
+    {
+      "start": 322.08,
+      "end": 325.84,
+      "text": "Speaker 3: ETF rule in twenty nineteen, and then also you know"
+    },
+    {
+      "start": 325.92,
+      "end": 330.839,
+      "text": "Speaker 3: the pandemic and the subsequent policy responses I think unleashed"
+    },
+    {
+      "start": 330.839,
+      "end": 334.15999999999997,
+      "text": "Speaker 3: a whole new level of demand with the normalization and yields."
+    },
+    {
+      "start": 334.279,
+      "end": 336.919,
+      "text": "Speaker 3: But standing here today, I think we're over a thousand"
+    },
+    {
+      "start": 336.96,
+      "end": 341.24,
+      "text": "Speaker 3: bond ETFs in the United States alone. I Shares has"
+    },
+    {
+      "start": 341.32,
+      "end": 344.479,
+      "text": "Speaker 3: over one hundred and sixty in the US. We have"
+    },
+    {
+      "start": 344.8,
+      "end": 348.0,
+      "text": "Speaker 3: one point three trillion assets in the US or sorry,"
+    },
+    {
+      "start": 348.279,
+      "end": 351.0,
+      "text": "Speaker 3: nine hundred over nine hundred billion in the US and"
+    },
+    {
+      "start": 351.04,
+      "end": 355.279,
+      "text": "Speaker 3: one point three trillion globally. But the selection is enormous"
+    },
+    {
+      "start": 355.36,
+      "end": 359.92,
+      "text": "Speaker 3: now and it spans not just asset class meaning treasuries, credit,"
+    },
+    {
+      "start": 360.16,
+      "end": 364.08,
+      "text": "Speaker 3: high yield, emerging markets, et cetera, but also within a"
+    },
+    {
+      "start": 364.08,
+      "end": 367.88,
+      "text": "Speaker 3: given asset class, you now have maturity cuts, you have"
+    },
+    {
+      "start": 368.04,
+      "end": 371.279,
+      "text": "Speaker 3: outcome overlays. On top of that, you have hedged products."
+    },
+    {
+      "start": 371.32,
+      "end": 373.96,
+      "text": "Speaker 3: So it's been very very much built out, and you"
+    },
+    {
+      "start": 374.04,
+      "end": 376.68,
+      "text": "Speaker 3: also now have quite a lot of active strategies within"
+    },
+    {
+      "start": 376.72,
+      "end": 378.52,
+      "text": "Speaker 3: those asset classes or sectors."
+    },
+    {
+      "start": 379.08,
+      "end": 383.2,
+      "text": "Speaker 2: One of the criticisms that the equity side of ETFs"
+    },
+    {
+      "start": 383.24,
+      "end": 385.72,
+      "text": "Speaker 2: always get is, well, just wait till the next crash"
+    },
+    {
+      "start": 385.88,
+      "end": 390.4,
+      "text": "Speaker 2: or period of stress. You'll see how poorly these perform."
+    },
+    {
+      "start": 391.0,
+      "end": 394.44,
+      "text": "Speaker 2: That didn't happen during the pandemic crash. And then we"
+    },
+    {
+      "start": 394.48,
+      "end": 397.96,
+      "text": "Speaker 2: started hearing the same criticisms about fixed income ETFs. Just"
+    },
+    {
+      "start": 398.0,
+      "end": 402.56,
+      "text": "Speaker 2: wait till a moment of stress. How did ETFs perform"
+    },
+    {
+      "start": 402.76,
+      "end": 406.28,
+      "text": "Speaker 2: either in twenty twenty during COVID and how did fixed"
+    },
+    {
+      "start": 406.32,
+      "end": 410.76,
+      "text": "Speaker 2: income ETFs perform during the rate shot in twenty twenty two."
+    },
+    {
+      "start": 411.6,
+      "end": 414.72,
+      "text": "Speaker 3: Yeah, and this is what I think really garnered the"
+    },
+    {
+      "start": 414.76,
+      "end": 418.76,
+      "text": "Speaker 3: next wave of adoption because over the years, if you"
+    },
+    {
+      "start": 418.839,
+      "end": 422.0,
+      "text": "Speaker 3: go back to you know, sort of the global financial crisis,"
+    },
+    {
+      "start": 422.04,
+      "end": 425.0,
+      "text": "Speaker 3: they existed then, and we did have a lot of"
+    },
+    {
+      "start": 425.08,
+      "end": 428.479,
+      "text": "Speaker 3: investors who were interested in them just because of this"
+    },
+    {
+      "start": 428.56,
+      "end": 430.88,
+      "text": "Speaker 3: idea that Okay, during a crisis, I can see where"
+    },
+    {
+      "start": 430.92,
+      "end": 434.08,
+      "text": "Speaker 3: things are trading on exchange, and Okay, that's valuable because"
+    },
+    {
+      "start": 434.08,
+      "end": 436.92,
+      "text": "Speaker 3: now I can look at an investment grade credit ETF"
+    },
+    {
+      "start": 437.12,
+      "end": 440.12,
+      "text": "Speaker 3: like LQUD or a high OLDTF like HIG during the"
+    },
+    {
+      "start": 440.16,
+      "end": 443.48,
+      "text": "Speaker 3: crisis and see what's happening, which is very hard to"
+    },
+    {
+      "start": 443.52,
+      "end": 447.559,
+      "text": "Speaker 3: do if you remember back then, So the criticism was, well,"
+    },
+    {
+      "start": 448.16,
+      "end": 451.36,
+      "text": "Speaker 3: they're small, they haven't been around that long. Not really"
+    },
+    {
+      "start": 451.36,
+      "end": 453.52,
+      "text": "Speaker 3: sure if I want to use them yet, I need"
+    },
+    {
+      "start": 453.56,
+      "end": 455.679,
+      "text": "Speaker 3: to see them get larger and go through."
+    },
+    {
+      "start": 455.52,
+      "end": 456.88,
+      "text": "Speaker 4: More stress tests."
+    },
+    {
+      "start": 456.92,
+      "end": 461.48,
+      "text": "Speaker 3: Okay, So between the global financial crisis and twenty twenty,"
+    },
+    {
+      "start": 461.52,
+      "end": 463.84000000000003,
+      "text": "Speaker 3: there were kind of minor bumps here and there, but"
+    },
+    {
+      "start": 463.92,
+      "end": 469.4,
+      "text": "Speaker 3: nothing severe. I think twenty twenty, especially February March, when"
+    },
+    {
+      "start": 469.4,
+      "end": 472.8,
+      "text": "Speaker 3: even you know, some treasuries and investment grade were struggling"
+    },
+    {
+      "start": 472.8,
+      "end": 475.96,
+      "text": "Speaker 3: to trade. I think that finally got people over the line."
+    },
+    {
+      "start": 476.0,
+      "end": 478.6,
+      "text": "Speaker 3: Because at the worst of it, it was hard to"
+    },
+    {
+      "start": 478.64,
+      "end": 482.04,
+      "text": "Speaker 3: trade offer and treasure, it was hard to trade investment grade."
+    },
+    {
+      "start": 482.48,
+      "end": 484.96,
+      "text": "Speaker 3: But ETFs, even though they may have been trading at"
+    },
+    {
+      "start": 485.0,
+      "end": 489.2,
+      "text": "Speaker 3: a discount, were tradable, and they were trading in record volume,"
+    },
+    {
+      "start": 489.28,
+      "end": 491.84,
+      "text": "Speaker 3: and I think that finally finally got a lot of"
+    },
+    {
+      "start": 491.88,
+      "end": 492.8,
+      "text": "Speaker 3: people over the hump."
+    },
+    {
+      "start": 493.0,
+      "end": 494.56,
+      "text": "Speaker 4: That was the test they were waiting."
+    },
+    {
+      "start": 494.36,
+      "end": 497.52,
+      "text": "Speaker 2: For, and they definitely passed with line collars."
+    },
+    {
+      "start": 497.68,
+      "end": 499.68,
+      "text": "Speaker 3: Yeah, and then the rape shock was just icing on"
+    },
+    {
+      "start": 499.72,
+      "end": 503.4,
+      "text": "Speaker 3: the cake, you know, another stress episode, which which further"
+    },
+    {
+      "start": 503.64,
+      "end": 506.52,
+      "text": "Speaker 3: I think cemented investor confidence in the wrapper."
+    },
+    {
+      "start": 506.8,
+      "end": 510.72,
+      "text": "Speaker 2: So let's move beyond the structure of ETFs and start"
+    },
+    {
+      "start": 510.76,
+      "end": 516.48,
+      "text": "Speaker 2: talking about fixed income investing in ETFs. Money markets are"
+    },
+    {
+      "start": 516.88,
+      "end": 520.36,
+      "text": "Speaker 2: three six, three seven, And as we're recording this, yields"
+    },
+    {
+      "start": 520.4,
+      "end": 523.28,
+      "text": "Speaker 2: went up a little bit today on non farm payroll data."
+    },
+    {
+      "start": 524.44,
+      "end": 527.24,
+      "text": "Speaker 2: But you know, you're not that far off from four percent,"
+    },
+    {
+      "start": 527.84,
+      "end": 532.24,
+      "text": "Speaker 2: pretty competitive with the middle of the curve for bond yields."
+    },
+    {
+      "start": 532.84,
+      "end": 537.24,
+      "text": "Speaker 2: Why should investors think about rolling out of money markets"
+    },
+    {
+      "start": 537.6,
+      "end": 540.92,
+      "text": "Speaker 2: and into bond ETFs in this rate and environment."
+    },
+    {
+      "start": 541.16,
+      "end": 543.6,
+      "text": "Speaker 3: And this this is the question, and I think it"
+    },
+    {
+      "start": 543.679,
+      "end": 547.44,
+      "text": "Speaker 3: doesn't have to be a binary choice, right, So what"
+    },
+    {
+      "start": 547.48,
+      "end": 551.12,
+      "text": "Speaker 3: we've been saying is that, you know, if you think"
+    },
+    {
+      "start": 551.16,
+      "end": 553.92,
+      "text": "Speaker 3: about what sort of happened with views on the FED"
+    },
+    {
+      "start": 554.16,
+      "end": 556.12,
+      "text": "Speaker 3: over the last you know, call it six months, it's"
+    },
+    {
+      "start": 556.2,
+      "end": 558.8,
+      "text": "Speaker 3: changed a lot, right. We went from having some cuts"
+    },
+    {
+      "start": 558.8,
+      "end": 561.88,
+      "text": "Speaker 3: priced in now we've got you know, as we're standing"
+    },
+    {
+      "start": 561.92,
+      "end": 564.76,
+      "text": "Speaker 3: here today, now we have a full hike priced in"
+    },
+    {
+      "start": 564.88,
+      "end": 566.92,
+      "text": "Speaker 3: by the end of the year. We have another one"
+    },
+    {
+      "start": 567.04,
+      "end": 570.16,
+      "text": "Speaker 3: priced in for next year, maybe more. And that could"
+    },
+    {
+      "start": 570.28,
+      "end": 572.52,
+      "text": "Speaker 3: change just as rapidly going the other way. And so"
+    },
+    {
+      "start": 572.559,
+      "end": 576.36,
+      "text": "Speaker 3: it's really less about you know, trying to time or"
+    },
+    {
+      "start": 576.4,
+      "end": 580.88,
+      "text": "Speaker 3: finesse this and more about just diversifying. So sure you're"
+    },
+    {
+      "start": 580.92,
+      "end": 584.4,
+      "text": "Speaker 3: gonna be able to earn decent carry in your money"
+    },
+    {
+      "start": 584.44,
+      "end": 588.16,
+      "text": "Speaker 3: market account right now, but as a diversifier, what we've"
+    },
+    {
+      "start": 588.16,
+      "end": 590.64,
+      "text": "Speaker 3: been saying is take at least some of that step"
+    },
+    {
+      "start": 590.64,
+      "end": 593.96,
+      "text": "Speaker 3: out on the curve. You know, let's call it intermediate,"
+    },
+    {
+      "start": 594.52,
+      "end": 596.96,
+      "text": "Speaker 3: you know, maybe three to seven years something like that,"
+    },
+    {
+      "start": 597.92,
+      "end": 601.0,
+      "text": "Speaker 3: because in the event that things do, for example, the"
+    },
+    {
+      "start": 601.04,
+      "end": 604.6,
+      "text": "Speaker 3: geopolitical picture could change very very rapidly. You could get"
+    },
+    {
+      "start": 604.679,
+      "end": 608.8,
+      "text": "Speaker 3: sort of oil prices receding, inflation kind of coming back down."
+    },
+    {
+      "start": 608.6,
+      "end": 609.04,
+      "text": "Speaker 4: Et cetera."
+    },
+    {
+      "start": 609.64,
+      "end": 612.16,
+      "text": "Speaker 3: That will get us back off to the races the"
+    },
+    {
+      "start": 612.16,
+      "end": 614.44,
+      "text": "Speaker 3: other direction. And you know, it's really funny, Barry, if"
+    },
+    {
+      "start": 614.48,
+      "end": 616.84,
+      "text": "Speaker 3: you look at the ten year yield over the last"
+    },
+    {
+      "start": 616.84,
+      "end": 618.68,
+      "text": "Speaker 3: three years, it kind of looks like a Siginn wave."
+    },
+    {
+      "start": 619.32,
+      "end": 622.16,
+      "text": "Speaker 3: You've been you know, three sixty up to five and"
+    },
+    {
+      "start": 622.2,
+      "end": 625.32,
+      "text": "Speaker 3: everywhere in between, over and over and over again. And"
+    },
+    {
+      "start": 625.36,
+      "end": 627.6,
+      "text": "Speaker 3: so it's very very hard to time this right. So"
+    },
+    {
+      "start": 628.36,
+      "end": 630.52,
+      "text": "Speaker 3: just don't put all your eggs in one basket. Have"
+    },
+    {
+      "start": 630.6,
+      "end": 632.88,
+      "text": "Speaker 3: your bets, you know, sort of spread out on the curve,"
+    },
+    {
+      "start": 633.4,
+      "end": 635.199,
+      "text": "Speaker 3: because you never know how fast it will change."
+    },
+    {
+      "start": 635.44,
+      "end": 639.16,
+      "text": "Speaker 2: Yeah, it's kind of fascinating talking about the reversals. How"
+    },
+    {
+      "start": 639.2,
+      "end": 642.24,
+      "text": "Speaker 2: long were we waiting for the FED to start cutting"
+    },
+    {
+      "start": 642.36,
+      "end": 645.28,
+      "text": "Speaker 2: and it seemed like it took years and years of"
+    },
+    {
+      "start": 645.48,
+      "end": 650.6,
+      "text": "Speaker 2: people being wrong, and now we're reversing, not only reversing"
+    },
+    {
+      "start": 651.52,
+      "end": 654.199,
+      "text": "Speaker 2: the idea of cuts, but given the war, given what's"
+    },
+    {
+      "start": 654.24,
+      "end": 657.56,
+      "text": "Speaker 2: going on inflation. It's amazing that it took such a"
+    },
+    {
+      "start": 657.559,
+      "end": 661.52,
+      "text": "Speaker 2: short period of time to price in two hikes. But"
+    },
+    {
+      "start": 661.8,
+      "end": 664.76,
+      "text": "Speaker 2: given where we are in the FED cycle, I don't"
+    },
+    {
+      "start": 664.76,
+      "end": 668.319,
+      "text": "Speaker 2: even want to say cutting cycle. What does this lack"
+    },
+    {
+      "start": 668.36,
+      "end": 671.48,
+      "text": "Speaker 2: of clarity mean for a fixed income investors? How should"
+    },
+    {
+      "start": 671.48,
+      "end": 672.52,
+      "text": "Speaker 2: they think about?"
+    },
+    {
+      "start": 672.96,
+      "end": 673.6,
+      "text": "Speaker 4: Are we cutting?"
+    },
+    {
+      "start": 673.64,
+      "end": 675.76,
+      "text": "Speaker 2: Are we raising? Are we going into a recession? Are"
+    },
+    {
+      "start": 675.8,
+      "end": 679.04,
+      "text": "Speaker 2: we not going into recession? It seems like it's been"
+    },
+    {
+      "start": 679.2,
+      "end": 680.84,
+      "text": "Speaker 2: especially confusing period."
+    },
+    {
+      "start": 682.04,
+      "end": 685.92,
+      "text": "Speaker 3: Yeah, And this is what's really fascinating to watch is"
+    },
+    {
+      "start": 685.96,
+      "end": 690.36,
+      "text": "Speaker 3: that investors very interestingly, just based on the flows. You know,"
+    },
+    {
+      "start": 690.4,
+      "end": 693.36,
+      "text": "Speaker 3: we're having record flows, you know, yet again this year,"
+    },
+    {
+      "start": 693.4,
+      "end": 697.679,
+      "text": "Speaker 3: and that's on top of records prior several years. We"
+    },
+    {
+      "start": 697.76,
+      "end": 700.28,
+      "text": "Speaker 3: are seeing investors kind of look through this volatility and"
+    },
+    {
+      "start": 701.12,
+      "end": 704.12,
+      "text": "Speaker 3: so far, you know, I want to say that we're"
+    },
+    {
+      "start": 704.2,
+      "end": 707.56,
+      "text": "Speaker 3: up somewhere around twenty to thirty percent, I'm relative to"
+    },
+    {
+      "start": 707.64,
+      "end": 711.36,
+      "text": "Speaker 3: last year. So investors don't seem to be too concerned"
+    },
+    {
+      "start": 712.2,
+      "end": 715.52,
+      "text": "Speaker 3: by the dramatically, you know, kind of changing landscape here."
+    },
+    {
+      "start": 715.559,
+      "end": 718.8,
+      "text": "Speaker 3: What they are focused on is the income opportunity. So"
+    },
+    {
+      "start": 719.16,
+      "end": 722.4,
+      "text": "Speaker 3: the majority have fixed income assets are now yielding above"
+    },
+    {
+      "start": 722.44,
+      "end": 723.04,
+      "text": "Speaker 3: four percent."
+    },
+    {
+      "start": 723.4,
+      "end": 724.52,
+      "text": "Speaker 4: That was not the case."
+    },
+    {
+      "start": 724.559,
+      "end": 727.079,
+      "text": "Speaker 3: I think it was something like twenty percent before before"
+    },
+    {
+      "start": 727.12,
+      "end": 730.8,
+      "text": "Speaker 3: the pandemic between the crisis and the pandemic, and so"
+    },
+    {
+      "start": 731.24,
+      "end": 734.439,
+      "text": "Speaker 3: investors are actually looking at this as an opportunity where"
+    },
+    {
+      "start": 734.44,
+      "end": 736.92,
+      "text": "Speaker 3: they can now earn income infixed income for the first"
+    },
+    {
+      "start": 737.0,
+      "end": 740.0,
+      "text": "Speaker 3: time in many years, and they're very focused on that"
+    },
+    {
+      "start": 740.4,
+      "end": 742.52,
+      "text": "Speaker 3: as opposed to just you know, the tenure, whether it's"
+    },
+    {
+      "start": 742.559,
+      "end": 744.88,
+      "text": "Speaker 3: at four or five percent. They're focused on the income"
+    },
+    {
+      "start": 745.24,
+      "end": 746.719,
+      "text": "Speaker 3: and so that's how they're allocating."
+    },
+    {
+      "start": 747.4,
+      "end": 750.8,
+      "text": "Speaker 2: So we're talking a little bit about inflation. I would"
+    },
+    {
+      "start": 750.84,
+      "end": 753.52,
+      "text": "Speaker 2: be remiss if I didn't bring up the I shares"
+    },
+    {
+      "start": 753.84,
+      "end": 758.6,
+      "text": "Speaker 2: tips ETF. Our clients are owners of this. They've done"
+    },
+    {
+      "start": 758.679,
+      "end": 761.2,
+      "text": "Speaker 2: really well over the past couple of years. Tell us"
+    },
+    {
+      "start": 761.24,
+      "end": 765.32,
+      "text": "Speaker 2: a little bit about why people should think about having"
+    },
+    {
+      "start": 765.4,
+      "end": 767.479,
+      "text": "Speaker 2: a tips bond ETF in their portfolio."
+    },
+    {
+      "start": 768.08,
+      "end": 771.96,
+      "text": "Speaker 3: Yeah, and it's it's proven to be really really powerful"
+    },
+    {
+      "start": 772.4,
+      "end": 776.4,
+      "text": "Speaker 3: because it was not expected. Everybody had pronounced inflation dead."
+    },
+    {
+      "start": 777.2,
+      "end": 779.8389999999999,
+      "text": "Speaker 3: We saw it come roaring back, and then there was"
+    },
+    {
+      "start": 779.88,
+      "end": 783.92,
+      "text": "Speaker 3: the idea of very strong policy response to rein it"
+    },
+    {
+      "start": 783.96,
+      "end": 786.6,
+      "text": "Speaker 3: back in. Now we've gotten a supply shock and energy,"
+    },
+    {
+      "start": 786.64,
+      "end": 789.319,
+      "text": "Speaker 3: which is sort of you know, thrown things a little"
+    },
+    {
+      "start": 789.32,
+      "end": 792.52,
+      "text": "Speaker 3: bit in doubt again, and so it goes, you know,"
+    },
+    {
+      "start": 792.96,
+      "end": 796.64,
+      "text": "Speaker 3: to the point that you should have a resilient portfolio,"
+    },
+    {
+      "start": 796.679,
+      "end": 799.439,
+      "text": "Speaker 3: and that resilience some of which has to be anchored"
+    },
+    {
+      "start": 799.44,
+      "end": 802.52,
+      "text": "Speaker 3: in try to protect against inflation. And so it's up"
+    },
+    {
+      "start": 802.559,
+      "end": 805.079,
+      "text": "Speaker 3: to the investor to decide how much or how little"
+    },
+    {
+      "start": 805.12,
+      "end": 806.6,
+      "text": "Speaker 3: they want to lean into that. And so you can"
+    },
+    {
+      "start": 806.679,
+      "end": 810.52,
+      "text": "Speaker 3: buy individual tips bond ETFs like s t I P"
+    },
+    {
+      "start": 810.72,
+      "end": 813.12,
+      "text": "Speaker 3: or t I P. We even have a shorter one"
+    },
+    {
+      "start": 813.16,
+      "end": 815.68,
+      "text": "Speaker 3: which is one year, called ICPI if you really want"
+    },
+    {
+      "start": 815.679,
+      "end": 819.92,
+      "text": "Speaker 3: to just peg inflation itself. But I think other exposures"
+    },
+    {
+      "start": 819.92,
+      "end": 822.36,
+      "text": "Speaker 3: are now incorporating it. So you know, we just we"
+    },
+    {
+      "start": 822.48,
+      "end": 827.56,
+      "text": "Speaker 3: just launched late last year a broader bond ETF. So"
+    },
+    {
+      "start": 827.64,
+      "end": 829.44,
+      "text": "Speaker 3: you think of the AG the universal, we have something"
+    },
+    {
+      "start": 829.48,
+      "end": 834.08,
+      "text": "Speaker 3: called the total which is BTOT that includes an inflation component."
+    },
+    {
+      "start": 834.84,
+      "end": 836.9590000000001,
+      "text": "Speaker 3: So the AG in the universal don't have that."
+    },
+    {
+      "start": 837.04,
+      "end": 837.84,
+      "text": "Speaker 4: This one does."
+    },
+    {
+      "start": 838.32,
+      "end": 840.64,
+      "text": "Speaker 3: And that is a nod to the idea that going"
+    },
+    {
+      "start": 840.679,
+      "end": 844.64,
+      "text": "Speaker 3: forward you probably want to have some protection against inflation."
+    },
+    {
+      "start": 845.52,
+      "end": 848.16,
+      "text": "Speaker 3: It'll wax and wane, but I think you know it"
+    },
+    {
+      "start": 848.72,
+      "end": 850.48,
+      "text": "Speaker 3: shows you now that it's necessary."
+    },
+    {
+      "start": 851.08,
+      "end": 854.16,
+      "text": "Speaker 2: So tips are one sort of opportunity that's in the"
+    },
+    {
+      "start": 854.2,
+      "end": 858.72,
+      "text": "Speaker 2: fixed income ETF area today. What other areas are attractive?"
+    },
+    {
+      "start": 858.76,
+      "end": 862.92,
+      "text": "Speaker 2: Do you like? Investment grade corporates, high yield munis, even"
+    },
+    {
+      "start": 862.96,
+      "end": 866.8,
+      "text": "Speaker 2: agency mortgages and active bond e tf's what what do"
+    },
+    {
+      "start": 866.84,
+      "end": 870.2,
+      "text": "Speaker 2: you see the greatest opportunity set in in the world"
+    },
+    {
+      "start": 870.2,
+      "end": 871.88,
+      "text": "Speaker 2: of ETFs and fixed income."
+    },
+    {
+      "start": 872.24,
+      "end": 873.92,
+      "text": "Speaker 4: So let's do that in two steps."
+    },
+    {
+      "start": 874.0,
+      "end": 877.44,
+      "text": "Speaker 3: I think overall, you know, I think you want to"
+    },
+    {
+      "start": 877.6,
+      "end": 882.12,
+      "text": "Speaker 3: be in sort of that high quality tilt right for"
+    },
+    {
+      "start": 882.36,
+      "end": 886.04,
+      "text": "Speaker 3: many investors, that is, that is a comfortable thing from"
+    },
+    {
+      "start": 886.08,
+      "end": 889.16,
+      "text": "Speaker 3: a risk profile standpoint. So getting back to the two"
+    },
+    {
+      "start": 889.2,
+      "end": 890.72,
+      "text": "Speaker 3: dimensions here, credit and duration."
+    },
+    {
+      "start": 891.28,
+      "end": 892.76,
+      "text": "Speaker 4: So credit we were."
+    },
+    {
+      "start": 892.68,
+      "end": 895.92,
+      "text": "Speaker 3: We've seen the flows go mostly into very high quality"
+    },
+    {
+      "start": 896.12,
+      "end": 899.56,
+      "text": "Speaker 3: so I think treasury's investment grade, et cetera, but also"
+    },
+    {
+      "start": 900.08,
+      "end": 903.32,
+      "text": "Speaker 3: kind of that intermediate duration component as opposed to being"
+    },
+    {
+      "start": 903.44,
+      "end": 906.04,
+      "text": "Speaker 3: much longer in the curve. So investors are sort of"
+    },
+    {
+      "start": 906.08,
+      "end": 911.56,
+      "text": "Speaker 3: anchoring on high quality intermediate duration. Away from that, what"
+    },
+    {
+      "start": 912.0,
+      "end": 913.84,
+      "text": "Speaker 3: also has been getting a lot of interest, you know,"
+    },
+    {
+      "start": 913.92,
+      "end": 917.52,
+      "text": "Speaker 3: going back to the income theme, investors really like what"
+    },
+    {
+      "start": 917.56,
+      "end": 921.64,
+      "text": "Speaker 3: we're calling these plus sectors. And what that means is, Okay,"
+    },
+    {
+      "start": 921.76,
+      "end": 924.92,
+      "text": "Speaker 3: outside of treasuries and investment grade, what do you have."
+    },
+    {
+      "start": 925.16,
+      "end": 926.52,
+      "text": "Speaker 4: Yeah, you have high yield."
+    },
+    {
+      "start": 926.28,
+      "end": 928.92,
+      "text": "Speaker 3: And emerging markets that may not suit all investors, but"
+    },
+    {
+      "start": 928.96,
+      "end": 932.88,
+      "text": "Speaker 3: you also have things like securitized assets which offer you know,"
+    },
+    {
+      "start": 932.92,
+      "end": 937.28,
+      "text": "Speaker 3: a pretty attractive income profile relative to relative to their"
+    },
+    {
+      "start": 937.36,
+      "end": 940.0,
+      "text": "Speaker 3: duration risk, et cetera. And so you know, think of"
+    },
+    {
+      "start": 940.04,
+      "end": 943.0,
+      "text": "Speaker 3: that as mortgages are one part of that, but then"
+    },
+    {
+      "start": 943.04,
+      "end": 946.88,
+      "text": "Speaker 3: you can also have asset backed securities, commercial mortgage backed securities,"
+    },
+    {
+      "start": 946.96,
+      "end": 950.6,
+      "text": "Speaker 3: things like that. So securitized assets have been really popular"
+    },
+    {
+      "start": 950.64,
+      "end": 951.12,
+      "text": "Speaker 3: as well."
+    },
+    {
+      "start": 952.0,
+      "end": 955.04,
+      "text": "Speaker 4: On the active side, as you know."
+    },
+    {
+      "start": 955.2,
+      "end": 958.8,
+      "text": "Speaker 3: Rick Reader launched a multisector income ETF called b I"
+    },
+    {
+      "start": 958.92,
+      "end": 961.72,
+      "text": "Speaker 3: n C Bank has exposure to a lot of those"
+    },
+    {
+      "start": 961.76,
+      "end": 965.72,
+      "text": "Speaker 3: plus sectors, and that fund has proven to be enormously popular. Again,"
+    },
+    {
+      "start": 966.08,
+      "end": 971.24,
+      "text": "Speaker 3: that income theme without taking outsized risk. And so it's"
+    },
+    {
+      "start": 971.32,
+      "end": 975.28,
+      "text": "Speaker 3: that sort of general theme, let's lean into income, deemphasize duration,"
+    },
+    {
+      "start": 975.92,
+      "end": 978.04,
+      "text": "Speaker 3: not take a huge amount of credit risk. I think"
+    },
+    {
+      "start": 978.08,
+      "end": 980.72,
+      "text": "Speaker 3: that sort of captures a lot of what we're seeing"
+    },
+    {
+      "start": 981.2,
+      "end": 982.36,
+      "text": "Speaker 3: investor interest in."
+    },
+    {
+      "start": 982.88,
+      "end": 987.44,
+      "text": "Speaker 2: Last question, how should investors be thinking about the fact"
+    },
+    {
+      "start": 987.48,
+      "end": 990.8,
+      "text": "Speaker 2: that we have a new f OMC chair and Kevin Walsh,"
+    },
+    {
+      "start": 991.24,
+      "end": 995.08,
+      "text": "Speaker 2: what does that mean in terms of thoughts about duration,"
+    },
+    {
+      "start": 995.6,
+      "end": 999.64,
+      "text": "Speaker 2: especially given how hawk ish so many members of the"
+    },
+    {
+      "start": 999.68,
+      "end": 1005.36,
+      "text": "Speaker 2: committee are and how publicly he stated he's interested in"
+    },
+    {
+      "start": 1005.44,
+      "end": 1006.04,
+      "text": "Speaker 2: FED cuts."
+    },
+    {
+      "start": 1006.88,
+      "end": 1009.84,
+      "text": "Speaker 3: Well, and this gets to something we've talked about in"
+    },
+    {
+      "start": 1009.88,
+      "end": 1012.96,
+      "text": "Speaker 3: the past, Barry, which is, you know, the market itself"
+    },
+    {
+      "start": 1013.08,
+      "end": 1016.16,
+      "text": "Speaker 3: has already priced in what it thinks will happen."
+    },
+    {
+      "start": 1016.24,
+      "end": 1017.04,
+      "text": "Speaker 4: So the real."
+    },
+    {
+      "start": 1016.88,
+      "end": 1020.88,
+      "text": "Speaker 3: Question is less about who's you know, at the head"
+    },
+    {
+      "start": 1020.92,
+      "end": 1023.4,
+      "text": "Speaker 3: of the FED right now, more about if you look"
+    },
+    {
+      "start": 1023.44,
+      "end": 1027.359,
+      "text": "Speaker 3: at where the market's pricing fed action. Meaning we talked"
+    },
+    {
+      "start": 1027.359,
+      "end": 1030.32,
+      "text": "Speaker 3: about this early in the conversation. We went from cuts"
+    },
+    {
+      "start": 1030.359,
+      "end": 1032.679,
+      "text": "Speaker 3: to you know, a high priced end this year and"
+    },
+    {
+      "start": 1032.72,
+      "end": 1036.24,
+      "text": "Speaker 3: maybe more next year. Do you, as an investor believe that, right?"
+    },
+    {
+      "start": 1036.32,
+      "end": 1039.24,
+      "text": "Speaker 3: And that's the question because if you look at the"
+    },
+    {
+      "start": 1039.72,
+      "end": 1042.0,
+      "text": "Speaker 3: futures contracts, or if you look at the shape of"
+    },
+    {
+      "start": 1042.04,
+      "end": 1043.96,
+      "text": "Speaker 3: the yl curve, you have to make up your mind"
+    },
+    {
+      "start": 1044.0,
+      "end": 1045.76,
+      "text": "Speaker 3: do you believe that or not. If you don't believe it,"
+    },
+    {
+      "start": 1046.16,
+      "end": 1048.119,
+      "text": "Speaker 3: you know, are you more hawkish than that? Are you"
+    },
+    {
+      "start": 1048.16,
+      "end": 1050.679,
+      "text": "Speaker 3: more worried about inflation than that? You may want to"
+    },
+    {
+      "start": 1050.76,
+      "end": 1053.239,
+      "text": "Speaker 3: rain in your duration risk if you think that that"
+    },
+    {
+      "start": 1053.4,
+      "end": 1055.76,
+      "text": "Speaker 3: none of that's going to materialize, and then you could"
+    },
+    {
+      "start": 1055.76,
+      "end": 1058.68,
+      "text": "Speaker 3: even go back to cuts. You may want to move"
+    },
+    {
+      "start": 1058.68,
+      "end": 1061.8,
+      "text": "Speaker 3: out further on the curve. However, for many investors, if"
+    },
+    {
+      "start": 1061.8,
+      "end": 1065.28,
+      "text": "Speaker 3: you don't even want to try to call that again,"
+    },
+    {
+      "start": 1065.76,
+      "end": 1069.56,
+      "text": "Speaker 3: just be diversified, right, so you know, maybe just sort"
+    },
+    {
+      "start": 1069.56,
+      "end": 1071.96,
+      "text": "Speaker 3: of anchor in the middle part of the of the curve,"
+    },
+    {
+      "start": 1072.04,
+      "end": 1074.919,
+      "text": "Speaker 3: the intermediate duration. Don't go all the way to the"
+    },
+    {
+      "start": 1074.96,
+      "end": 1076.84,
+      "text": "Speaker 3: short end, don't go all the way to the long end."
+    },
+    {
+      "start": 1076.84,
+      "end": 1078.84,
+      "text": "Speaker 3: You don't really know how this is all going to"
+    },
+    {
+      "start": 1078.88,
+      "end": 1081.68,
+      "text": "Speaker 3: play out, and most investors aren't really interested in trying"
+    },
+    {
+      "start": 1081.68,
+      "end": 1086.08,
+      "text": "Speaker 3: to predict that. So just get your exposure, lean into income,"
+    },
+    {
+      "start": 1086.88,
+      "end": 1088.48,
+      "text": "Speaker 3: and then just you be patient."
+    },
+    {
+      "start": 1089.28,
+      "end": 1092.76,
+      "text": "Speaker 2: So to wrap up, investors who want some fixed income"
+    },
+    {
+      "start": 1093.64,
+      "end": 1097.84,
+      "text": "Speaker 2: exposure have a variety of choices today that they didn't"
+    },
+    {
+      "start": 1097.92,
+      "end": 1101.28,
+      "text": "Speaker 2: have just as recently as five years ago. It doesn't"
+    },
+    {
+      "start": 1101.32,
+      "end": 1106.6,
+      "text": "Speaker 2: matter if it's mortgage backs, inflation, hedged, global ad domestic."
+    },
+    {
+      "start": 1106.72,
+      "end": 1110.76,
+      "text": "Speaker 2: Whatever you want in terms of exposure to fixed income,"
+    },
+    {
+      "start": 1111.16,
+      "end": 1115.32,
+      "text": "Speaker 2: you can get that through bondyts. I'm Barry Ridolts. You're"
+    },
+    {
+      "start": 1115.4,
+      "end": 1120.12,
+      "text": "Speaker 2: listening to Bloomberg's At the Money"
+    }
+  ]
+}

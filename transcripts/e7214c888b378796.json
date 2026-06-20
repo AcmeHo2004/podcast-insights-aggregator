@@ -1,0 +1,2791 @@
+{
+  "id": "e7214c888b378796",
+  "show": "The Meb Faber Show",
+  "theme": "Quant",
+  "title": "Bryan Taylor: There Is No Equity Risk Premium (Investing in America Series) #635",
+  "audio_url": "https://traffic.megaphone.fm/TIFM2175184998.mp3",
+  "source": "local-whisper",
+  "duration": 3347.3,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.92,
+      "text": "Unfortunately, current government policy is not following the twig theory."
+    },
+    {
+      "start": 4.92,
+      "end": 8.56,
+      "text": "I mean, they're following restrictions on trade through tariffs."
+    },
+    {
+      "start": 8.68,
+      "end": 12.120000000000001,
+      "text": "We're currently involved with a war in Iran."
+    },
+    {
+      "start": 12.24,
+      "end": 14.0,
+      "text": "Inflation is picking up."
+    },
+    {
+      "start": 14.040000000000001,
+      "end": 22.52,
+      "text": "Stop markets provided double digit returns in the 1920s, 50s, 80s, the 2010s."
+    },
+    {
+      "start": 22.84,
+      "end": 28.16,
+      "text": "And if you follow that logic, the 2040s are going to be providing great returns."
+    },
+    {
+      "start": 28.24,
+      "end": 32.08,
+      "text": "On the other hand, that does not bode well for the 2030s."
+    },
+    {
+      "start": 32.24,
+      "end": 34.32,
+      "text": "There was this period, almost 70 years."
+    },
+    {
+      "start": 34.52,
+      "end": 41.0,
+      "text": "Essentially, the majority of the 20th century, where US bonds had a negative real return."
+    },
+    {
+      "start": 41.2,
+      "end": 42.72,
+      "text": "I mean, that's absolutely true."
+    },
+    {
+      "start": 49.400000000000006,
+      "end": 54.92,
+      "text": "Welcome to a special series of the mep favor show on the past, present and future of America."
+    },
+    {
+      "start": 55.2,
+      "end": 59.160000000000004,
+      "text": "I'm sitting down with some of the most notable historians, thinkers, investors,"
+    },
+    {
+      "start": 59.160000000000004,
+      "end": 64.2,
+      "text": "and US financial history, all tied to my new coffee table book, Investing in America."
+    },
+    {
+      "start": 64.32000000000001,
+      "end": 68.6,
+      "text": "The rise of a 250 year bull market out to live for us."
+    },
+    {
+      "start": 69.68,
+      "end": 72.48,
+      "text": "Metfabers, the co-founder and chief investment officer at Cambria Investment Management."
+    },
+    {
+      "start": 72.72,
+      "end": 73.72,
+      "text": "Did it industry regulations?"
+    },
+    {
+      "start": 73.72,
+      "end": 75.76,
+      "text": "He will not discuss any of Cambria's funds on this podcast."
+    },
+    {
+      "start": 76.04,
+      "end": 78.64,
+      "text": "All opinions expressed by podcast participants are solely their own opinions"
+    },
+    {
+      "start": 78.64,
+      "end": 81.16,
+      "text": "and do not reflect the opinion of Cambria Investment Management or its affiliates."
+    },
+    {
+      "start": 81.4,
+      "end": 83.48,
+      "text": "For more information, visit Cambriainvestments.com."
+    },
+    {
+      "start": 85.92,
+      "end": 88.24000000000001,
+      "text": "This episode is brought to you by Ivy Invest."
+    },
+    {
+      "start": 88.4,
+      "end": 92.2,
+      "text": "You know, I've talked a lot on the show about endowment style investing, the Yale model,"
+    },
+    {
+      "start": 92.2,
+      "end": 96.28,
+      "text": "the Swinson Playbook, public markets, private equity, private credit, real estate,"
+    },
+    {
+      "start": 96.28,
+      "end": 99.16,
+      "text": "all blended together into a portfolio built for the long game."
+    },
+    {
+      "start": 99.52,
+      "end": 101.48,
+      "text": "The data on this approach is pretty compelling."
+    },
+    {
+      "start": 101.76,
+      "end": 103.24000000000001,
+      "text": "The problem has always been the same."
+    },
+    {
+      "start": 103.24000000000001,
+      "end": 106.48,
+      "text": "It was basically impossible for regular investors to actually do it."
+    },
+    {
+      "start": 106.88,
+      "end": 109.44,
+      "text": "Well, here's somebody who lived through that world from the inside."
+    },
+    {
+      "start": 109.68,
+      "end": 114.2,
+      "text": "Wendy Lee spent 18 years managing multi-billion dollar endowment funds in New York."
+    },
+    {
+      "start": 114.48,
+      "end": 116.96000000000001,
+      "text": "And at some point, she had a pretty simple realization."
+    },
+    {
+      "start": 117.24000000000001,
+      "end": 122.44,
+      "text": "This is exactly how she had won investor own money, but even she couldn't access it as an individual."
+    },
+    {
+      "start": 122.88,
+      "end": 124.88,
+      "text": "So she built a thing that didn't exist."
+    },
+    {
+      "start": 125.0,
+      "end": 129.72,
+      "text": "Ivy Invest is one of the first endowment style funds designed for everyday investors."
+    },
+    {
+      "start": 129.96,
+      "end": 134.12,
+      "text": "You get a single fund with exposure to private equity, real estate, private credit,"
+    },
+    {
+      "start": 134.4,
+      "end": 137.88,
+      "text": "and public markets, the whole mix starting at just a thousand bucks."
+    },
+    {
+      "start": 138.24,
+      "end": 141.04,
+      "text": "I actually had Wendy on the podcast go back and listen to that episode."
+    },
+    {
+      "start": 141.04,
+      "end": 141.88,
+      "text": "It's worth your time."
+    },
+    {
+      "start": 142.2,
+      "end": 144.72,
+      "text": "For now, check them out at ivinvest.co."
+    },
+    {
+      "start": 145.04,
+      "end": 147.96,
+      "text": "That's ivyinvest.co."
+    },
+    {
+      "start": 148.48,
+      "end": 150.4,
+      "text": "Before investing, carefully consider the investment objective, risk,"
+    },
+    {
+      "start": 150.4,
+      "end": 152.51999999999998,
+      "text": "charges, and expenses of the institutional investment strategy fund."
+    },
+    {
+      "start": 152.72,
+      "end": 154.28,
+      "text": "The prospectus contains this and other information."
+    },
+    {
+      "start": 154.4,
+      "end": 156.0,
+      "text": "Pass performance does not guarantee future results."
+    },
+    {
+      "start": 156.04,
+      "end": 157.28,
+      "text": "Learn more at ivyinvest.co."
+    },
+    {
+      "start": 159.6,
+      "end": 160.84,
+      "text": "Welcome back, everybody."
+    },
+    {
+      "start": 160.84,
+      "end": 161.76,
+      "text": "It's summertime."
+    },
+    {
+      "start": 161.76,
+      "end": 165.16,
+      "text": "Today we got a special episode, our returning guests."
+    },
+    {
+      "start": 165.16,
+      "end": 170.68,
+      "text": "I think it's four time is Dr. Brian Taylor, founder, chief economist of global financial data,"
+    },
+    {
+      "start": 170.68,
+      "end": 175.48000000000002,
+      "text": "also known as Finneon, Brian and his team have built the most comprehensive database"
+    },
+    {
+      "start": 175.48000000000002,
+      "end": 178.28,
+      "text": "of historical financial market data in the world."
+    },
+    {
+      "start": 178.72,
+      "end": 183.20000000000002,
+      "text": "He just published a new book, five financial errors, how financial markets transform the world,"
+    },
+    {
+      "start": 183.48000000000002,
+      "end": 188.72,
+      "text": "which uses nine centuries stock bond, build data, explain what actually drives returns"
+    },
+    {
+      "start": 188.72,
+      "end": 189.56,
+      "text": "across history."
+    },
+    {
+      "start": 189.92000000000002,
+      "end": 193.12,
+      "text": "Today we're focusing the lens a little bit on the US, but we'll look all around the world."
+    },
+    {
+      "start": 193.12,
+      "end": 194.36,
+      "text": "Brian, welcome back to the show."
+    },
+    {
+      "start": 194.52,
+      "end": 195.72,
+      "text": "Oh, thank you very much."
+    },
+    {
+      "start": 196.20000000000002,
+      "end": 200.08,
+      "text": "You talk about a couple hundred years of returns."
+    },
+    {
+      "start": 200.08,
+      "end": 203.32000000000002,
+      "text": "You know, most people only focus on the last, first of all, they only focus on the last"
+    },
+    {
+      "start": 203.32000000000002,
+      "end": 207.56,
+      "text": "17, but really if they focus maybe the last 20 of their own lifetime,"
+    },
+    {
+      "start": 208.12,
+      "end": 210.96,
+      "text": "talk to us about, you have some pretty controversial takes in this book."
+    },
+    {
+      "start": 211.0,
+      "end": 214.44,
+      "text": "What's the most important thing to you at two hundred and what 30,"
+    },
+    {
+      "start": 214.44,
+      "end": 218.84,
+      "text": "50 years of US stock bond tell us, what are your main takes from this twig framework?"
+    },
+    {
+      "start": 219.36,
+      "end": 219.76000000000002,
+      "text": "Okay."
+    },
+    {
+      "start": 219.76000000000002,
+      "end": 228.24,
+      "text": "Well, twig is an acronym standing for taxes, war, inflation and the government."
+    },
+    {
+      "start": 228.64000000000001,
+      "end": 232.20000000000002,
+      "text": "And if you look back at returns over time,"
+    },
+    {
+      "start": 232.72,
+      "end": 238.4,
+      "text": "if those factors are in the right combination,"
+    },
+    {
+      "start": 238.60000000000002,
+      "end": 243.04000000000002,
+      "text": "you get the highest returns to the stock markets for investors."
+    },
+    {
+      "start": 243.24,
+      "end": 245.60000000000002,
+      "text": "Well, excuse me, for trade, T is for trade."
+    },
+    {
+      "start": 246.0,
+      "end": 251.4,
+      "text": "And you want free trade because the countries that have been successful over time"
+    },
+    {
+      "start": 251.68,
+      "end": 257.24,
+      "text": "in providing high returns to investors are the countries that have pursued trade."
+    },
+    {
+      "start": 257.56,
+      "end": 261.88,
+      "text": "I mean, if you look at the countries like Switzerland or Singapore,"
+    },
+    {
+      "start": 262.16,
+      "end": 266.6,
+      "text": "which have a lot of exports to the rest of the world, they have done very well."
+    },
+    {
+      "start": 267.0,
+      "end": 272.32,
+      "text": "Countries that have used import substitution that have tried to avoid trade"
+    },
+    {
+      "start": 273.28000000000003,
+      "end": 277.64,
+      "text": "such as Brazil or Argentina have done poorly for investors."
+    },
+    {
+      "start": 278.88,
+      "end": 280.8,
+      "text": "The W stands for war."
+    },
+    {
+      "start": 281.2,
+      "end": 283.64,
+      "text": "War is bad for investors, period."
+    },
+    {
+      "start": 284.64,
+      "end": 288.24,
+      "text": "For several reasons, one, there's the destruction that goes along with it."
+    },
+    {
+      "start": 288.59999999999997,
+      "end": 292.8,
+      "text": "Second, the government intervenes to control the environment,"
+    },
+    {
+      "start": 293.08,
+      "end": 297.36,
+      "text": "reducing the amount of investment that goes into the private sector."
+    },
+    {
+      "start": 298.24,
+      "end": 300.36,
+      "text": "The government raises taxes."
+    },
+    {
+      "start": 300.52,
+      "end": 304.64,
+      "text": "The government uses inflation as a way of funding the war."
+    },
+    {
+      "start": 304.84,
+      "end": 308.4,
+      "text": "All of those are negative outcomes for investors."
+    },
+    {
+      "start": 308.72,
+      "end": 311.64000000000004,
+      "text": "And if you look back in the past,"
+    },
+    {
+      "start": 311.84000000000003,
+      "end": 316.6,
+      "text": "in the periods when a country like Austria or Germany had very poor returns"
+    },
+    {
+      "start": 316.6,
+      "end": 322.12000000000006,
+      "text": "or Japan, it was during the war because of the costs of conducting the war."
+    },
+    {
+      "start": 322.72,
+      "end": 324.40000000000003,
+      "text": "The eye stands for inflation."
+    },
+    {
+      "start": 325.00000000000006,
+      "end": 328.64000000000004,
+      "text": "Inflation is the worst enemy affixed income investors"
+    },
+    {
+      "start": 328.88000000000005,
+      "end": 332.96000000000004,
+      "text": "because once inflation goes up, that's money that's lost forever."
+    },
+    {
+      "start": 332.96000000000004,
+      "end": 334.20000000000005,
+      "text": "You can't get it back."
+    },
+    {
+      "start": 334.84,
+      "end": 339.24,
+      "text": "And so if you look at the hyperinflations that occurred in Germany,"
+    },
+    {
+      "start": 339.92,
+      "end": 344.64,
+      "text": "in Japan after World War II and so forth, it just totally wiped out investors."
+    },
+    {
+      "start": 345.0,
+      "end": 352.84,
+      "text": "And if you look globally at the returns between 1965 and 1981,"
+    },
+    {
+      "start": 353.08,
+      "end": 354.4,
+      "text": "that affected everyone."
+    },
+    {
+      "start": 354.4,
+      "end": 359.03999999999996,
+      "text": "Everyone got low returns throughout the developed world because of the inflation."
+    },
+    {
+      "start": 359.44,
+      "end": 362.12,
+      "text": "The G is for government intervention."
+    },
+    {
+      "start": 362.56,
+      "end": 366.72,
+      "text": "If the government is intervening in the economy, either through nationalization"
+    },
+    {
+      "start": 366.92,
+      "end": 369.68,
+      "text": "or completely taking over the economy,"
+    },
+    {
+      "start": 369.88,
+      "end": 373.88,
+      "text": "then that's going to provide poor returns to investors."
+    },
+    {
+      "start": 374.16,
+      "end": 378.36,
+      "text": "So what I have learned from my analysis of the past is that"
+    },
+    {
+      "start": 379.12,
+      "end": 384.88,
+      "text": "if all of these four factors are coordinated correctly,"
+    },
+    {
+      "start": 385.28000000000003,
+      "end": 389.24,
+      "text": "if there is a maximum of trade, no war,"
+    },
+    {
+      "start": 390.12,
+      "end": 394.44,
+      "text": "minimum of inflation and a minimum of government intervention,"
+    },
+    {
+      "start": 394.72,
+      "end": 398.6,
+      "text": "that's when investors get the highest returns possible."
+    },
+    {
+      "start": 398.96000000000004,
+      "end": 404.12,
+      "text": "However, if you have the opposite, which is restrictions on trade,"
+    },
+    {
+      "start": 404.68,
+      "end": 408.44,
+      "text": "war, inflation, government intervention,"
+    },
+    {
+      "start": 408.8,
+      "end": 410.76,
+      "text": "that's when returns are the lowest."
+    },
+    {
+      "start": 410.76,
+      "end": 416.24,
+      "text": "That's when they can be negative and investors actually end up losing money."
+    },
+    {
+      "start": 416.56,
+      "end": 423.16,
+      "text": "So that was my takeaway from my several centuries of analysis of financial markets."
+    },
+    {
+      "start": 423.56,
+      "end": 429.92,
+      "text": "And, you know, unfortunately, the government doesn't always look at these factors"
+    },
+    {
+      "start": 430.2,
+      "end": 435.28000000000003,
+      "text": "and try to follow those rules to maximize returns to investors."
+    },
+    {
+      "start": 435.28000000000003,
+      "end": 441.48,
+      "text": "But if they want to focus on that, that's how they can maximize the returns."
+    },
+    {
+      "start": 442.2,
+      "end": 445.44,
+      "text": "Try to put this in context a little bit for people."
+    },
+    {
+      "start": 445.8,
+      "end": 449.08,
+      "text": "If you look at kind of US history, which has got a couple of hundred years here,"
+    },
+    {
+      "start": 449.52,
+      "end": 453.12,
+      "text": "is there been a time where you think that like all four of these have been firing"
+    },
+    {
+      "start": 453.12,
+      "end": 457.12,
+      "text": "in the right direction where like, all right, like everything is looking good."
+    },
+    {
+      "start": 457.16,
+      "end": 459.36,
+      "text": "Things are working on the twig theory."
+    },
+    {
+      "start": 459.92,
+      "end": 464.64,
+      "text": "And then also we can flip that and say, is there been a time when all four are looking not so good?"
+    },
+    {
+      "start": 465.28,
+      "end": 470.2,
+      "text": "Well, I think the 1980s and the 1990s are a very good example of when all the"
+    },
+    {
+      "start": 470.47999999999996,
+      "end": 476.32,
+      "text": "pistons were firing correctly because you were promoting free trade."
+    },
+    {
+      "start": 476.52,
+      "end": 480.32,
+      "text": "You had a change from the canteen era to the Reagan era."
+    },
+    {
+      "start": 480.64,
+      "end": 482.76,
+      "text": "You had no war."
+    },
+    {
+      "start": 483.03999999999996,
+      "end": 485.03999999999996,
+      "text": "You had the peace dividend back there."
+    },
+    {
+      "start": 485.4,
+      "end": 487.48,
+      "text": "You were reducing inflation."
+    },
+    {
+      "start": 487.48,
+      "end": 488.96,
+      "text": "You had disinflation."
+    },
+    {
+      "start": 489.36,
+      "end": 497.32,
+      "text": "And then the under Reagan Bush, the government was trying to reduce its role in the economy."
+    },
+    {
+      "start": 497.59999999999997,
+      "end": 502.96,
+      "text": "And consequently, you had double digit returns for two decades in the United States."
+    },
+    {
+      "start": 503.56,
+      "end": 508.24,
+      "text": "On the other hand, during World War One, you had just the opposite."
+    },
+    {
+      "start": 508.52,
+      "end": 513.84,
+      "text": "You had war, you had inflation, you had the government intervening in the economy."
+    },
+    {
+      "start": 514.16,
+      "end": 517.0,
+      "text": "You had restrictions on trade because of the war."
+    },
+    {
+      "start": 517.3199999999999,
+      "end": 523.6,
+      "text": "And consequently, the 1910s are one of the few decades in which there were negative returns to investors."
+    },
+    {
+      "start": 523.76,
+      "end": 529.48,
+      "text": "So you can take those two examples and just see how the twig theory works."
+    },
+    {
+      "start": 529.9200000000001,
+      "end": 536.8000000000001,
+      "text": "If we were to look at it today, we got to grade it in 2026 of the four, what's the biggest tailwind"
+    },
+    {
+      "start": 536.8000000000001,
+      "end": 538.0400000000001,
+      "text": "and what's the biggest headwind?"
+    },
+    {
+      "start": 538.0400000000001,
+      "end": 538.8000000000001,
+      "text": "They all look good."
+    },
+    {
+      "start": 538.8000000000001,
+      "end": 539.44,
+      "text": "All look bad."
+    },
+    {
+      "start": 539.44,
+      "end": 540.44,
+      "text": "Is it a mixed bag?"
+    },
+    {
+      "start": 541.5600000000001,
+      "end": 546.84,
+      "text": "Well, unfortunately, current government policy is not following the twig theory."
+    },
+    {
+      "start": 546.84,
+      "end": 550.48,
+      "text": "I mean, they're following restrictions on trade through tariffs."
+    },
+    {
+      "start": 551.48,
+      "end": 554.96,
+      "text": "We're currently involved with a war in Iran."
+    },
+    {
+      "start": 556.16,
+      "end": 557.9200000000001,
+      "text": "Inflation is picking up."
+    },
+    {
+      "start": 558.96,
+      "end": 562.96,
+      "text": "The government is trying to promote AI."
+    },
+    {
+      "start": 562.96,
+      "end": 564.4,
+      "text": "So that's a positive."
+    },
+    {
+      "start": 564.72,
+      "end": 569.2,
+      "text": "So, you know, what I would see is that you need to reverse some of those policies,"
+    },
+    {
+      "start": 569.6,
+      "end": 575.52,
+      "text": "not use the tariffs to restrict trade, but to promote trade to every degree possible."
+    },
+    {
+      "start": 575.9200000000001,
+      "end": 580.16,
+      "text": "I mean, obviously in the war, as far as possible,"
+    },
+    {
+      "start": 580.64,
+      "end": 584.64,
+      "text": "and I think doing that will reduce the level of inflation in the economy."
+    },
+    {
+      "start": 585.36,
+      "end": 587.52,
+      "text": "So that would be my recommendations."
+    },
+    {
+      "start": 588.24,
+      "end": 594.96,
+      "text": "So much of us managing money today, particularly the older cohort, you base all your decisions"
+    },
+    {
+      "start": 594.96,
+      "end": 596.96,
+      "text": "on kind of learned history, what you experience."
+    },
+    {
+      "start": 596.96,
+      "end": 601.84,
+      "text": "And there was this magical, we were kind of spoiled 1980s, 1990s period."
+    },
+    {
+      "start": 601.84,
+      "end": 608.64,
+      "text": "And even on end of the 2000s for bonds specifically, but you talk about in the book,"
+    },
+    {
+      "start": 608.64,
+      "end": 611.84,
+      "text": "you're like, you know, hey, look, there was this period, almost 70 years."
+    },
+    {
+      "start": 612.72,
+      "end": 620.16,
+      "text": "So essentially, the majority of the 20th century were US bonds from their early teens to the 1981,"
+    },
+    {
+      "start": 620.16,
+      "end": 622.88,
+      "text": "where they had a negative real return."
+    },
+    {
+      "start": 622.88,
+      "end": 623.28,
+      "text": "Yes."
+    },
+    {
+      "start": 623.28,
+      "end": 624.56,
+      "text": "I don't know how many people know that."
+    },
+    {
+      "start": 625.68,
+      "end": 627.28,
+      "text": "I mean, that's absolutely true."
+    },
+    {
+      "start": 627.28,
+      "end": 633.4399999999999,
+      "text": "In the book, I talk about the two interest rate pyramids, because you had the first interest rate"
+    },
+    {
+      "start": 633.44,
+      "end": 640.4000000000001,
+      "text": "period pyramid, what happens there is you have an increase in interest rates because of inflation."
+    },
+    {
+      "start": 640.96,
+      "end": 646.48,
+      "text": "And then the government reduces the inflation, which then reduces the interest rates."
+    },
+    {
+      "start": 646.48,
+      "end": 656.5600000000001,
+      "text": "The first interest rate pyramid occurred from around 1896 until 1920, mainly driven by World War I"
+    },
+    {
+      "start": 656.5600000000001,
+      "end": 658.32,
+      "text": "and the inflation that came out of that."
+    },
+    {
+      "start": 658.8000000000001,
+      "end": 664.6400000000001,
+      "text": "Then you had a decline in interest rates into World War II."
+    },
+    {
+      "start": 664.6400000000001,
+      "end": 672.48,
+      "text": "But then the real interest rate pyramid occurred from 1941 until 1981, in which interest rates"
+    },
+    {
+      "start": 672.48,
+      "end": 681.0400000000001,
+      "text": "went from around 2% on government bonds up to double digit levels, 15, 16%, and then you had"
+    },
+    {
+      "start": 681.04,
+      "end": 689.92,
+      "text": "a 40-year period from 1981 to 2021, in which interest rates went from 15% on the 10-year bond"
+    },
+    {
+      "start": 689.92,
+      "end": 693.28,
+      "text": "down to under 1%, under a half percent."
+    },
+    {
+      "start": 693.76,
+      "end": 701.28,
+      "text": "And then in Europe, interest rates were negative on the 10-year bond, as well as in Japan."
+    },
+    {
+      "start": 701.28,
+      "end": 709.12,
+      "text": "Now, during 2022, interest rates jumped back up, which imposed losses on all fixed income investors."
+    },
+    {
+      "start": 709.6,
+      "end": 716.5600000000001,
+      "text": "And hopefully, the interest rates will stay around the 4% level for some years to come."
+    },
+    {
+      "start": 716.5600000000001,
+      "end": 721.84,
+      "text": "I think the Fed is definitely wary of increasing interest rates."
+    },
+    {
+      "start": 721.84,
+      "end": 727.84,
+      "text": "I think Warsh will do a good job on that, but we have to avoid another interest rate pyramid."
+    },
+    {
+      "start": 728.5600000000001,
+      "end": 731.04,
+      "text": "And I think they will do that. We shall see."
+    },
+    {
+      "start": 731.52,
+      "end": 736.32,
+      "text": "In the book, you say, look, you want to project out what, in your kind of 20 lessons,"
+    },
+    {
+      "start": 736.32,
+      "end": 740.08,
+      "text": "you want to project out what bonds are going to do as a pretty simple predictor."
+    },
+    {
+      "start": 741.5200000000001,
+      "end": 742.8000000000001,
+      "text": "You want to tell us what it is?"
+    },
+    {
+      "start": 742.8000000000001,
+      "end": 748.5600000000001,
+      "text": "Well, the current yield on the 10-year bond tells you basically what return you're going to get,"
+    },
+    {
+      "start": 748.5600000000001,
+      "end": 753.0400000000001,
+      "text": "because if interest rates go up, you suffer a capital loss."
+    },
+    {
+      "start": 753.6800000000001,
+      "end": 758.32,
+      "text": "If interest rates go down, you suffer a capital loss. If interest rates go up, you get a capital gain."
+    },
+    {
+      "start": 758.32,
+      "end": 766.0,
+      "text": "And the two offset each other. And so that way, if interest rates go up from 4% to 10%,"
+    },
+    {
+      "start": 766.4000000000001,
+      "end": 773.84,
+      "text": "you're going to lose money on your bond investment. And that'll offset the change in the interest rates."
+    },
+    {
+      "start": 773.84,
+      "end": 782.24,
+      "text": "So it is a very good predictor. And of course, with cash, the yield on the treasury bills,"
+    },
+    {
+      "start": 782.24,
+      "end": 785.2800000000001,
+      "text": "that's going to be primarily dependent upon inflation."
+    },
+    {
+      "start": 785.2800000000001,
+      "end": 789.0400000000001,
+      "text": "Let's talk about the equity risk premium. You want to get into your thoughts here?"
+    },
+    {
+      "start": 789.7600000000001,
+      "end": 795.9200000000001,
+      "text": "Well, the equity risk premium varies dramatically over time and between countries."
+    },
+    {
+      "start": 796.48,
+      "end": 803.36,
+      "text": "What I did was I looked at the 10-year equity risk premium for each country to see how the"
+    },
+    {
+      "start": 803.36,
+      "end": 809.9200000000001,
+      "text": "returns to stocks versus bonds changed over time. And part of the discussion of the equity"
+    },
+    {
+      "start": 809.9200000000001,
+      "end": 817.5200000000001,
+      "text": "risk premium is that there is a equity risk premium that exists in the market. And the evidence"
+    },
+    {
+      "start": 817.5200000000001,
+      "end": 823.9200000000001,
+      "text": "shows it simply doesn't exist because the return on bonds and the return on stocks move"
+    },
+    {
+      "start": 823.9200000000001,
+      "end": 833.1200000000001,
+      "text": "independently of one another. And so, for example, in 2021, when you had the large change in interest"
+    },
+    {
+      "start": 833.1200000000001,
+      "end": 842.8000000000001,
+      "text": "rates, that is going to dramatically affect the return to bonds and increase the equity risk premium,"
+    },
+    {
+      "start": 842.8000000000001,
+      "end": 848.6400000000001,
+      "text": "simply because the return to stocks doesn't change, then you're still going to get a high equity"
+    },
+    {
+      "start": 848.64,
+      "end": 854.88,
+      "text": "risk premium. You had a high equity risk premium after World War II, simply because"
+    },
+    {
+      "start": 854.88,
+      "end": 862.88,
+      "text": "the returns to stocks were increasing. And then the return to bonds was gradually decreasing"
+    },
+    {
+      "start": 862.88,
+      "end": 869.1999999999999,
+      "text": "because of the fact that you had rising interest rates. And so you have to look at the interplay"
+    },
+    {
+      "start": 869.1999999999999,
+      "end": 874.88,
+      "text": "of the two. And you can't really say that there is a equity risk premium. What you have to do is"
+    },
+    {
+      "start": 874.88,
+      "end": 883.36,
+      "text": "look at where you are at the current situation and then try to predict how the returns to equities"
+    },
+    {
+      "start": 883.36,
+      "end": 890.8,
+      "text": "and to bonds going to occur independently of one another over the investment time frame that"
+    },
+    {
+      "start": 890.8,
+      "end": 895.04,
+      "text": "you're looking at. Do you know anyone else that believes this? Because I feel like this is one of"
+    },
+    {
+      "start": 895.04,
+      "end": 900.08,
+      "text": "those finance tropes of year and it's taught in every school. I don't know if I know anyone else"
+    },
+    {
+      "start": 900.08,
+      "end": 906.32,
+      "text": "that believes this. Well, I think that's just because most people haven't done the historical"
+    },
+    {
+      "start": 906.32,
+      "end": 914.72,
+      "text": "research to do the analysis across countries. I mean, if you go to the Finneon Guide, which is"
+    },
+    {
+      "start": 914.72,
+      "end": 922.48,
+      "text": "available on the SSRN, you have all of this analysis there for 27 different countries over the course"
+    },
+    {
+      "start": 922.48,
+      "end": 930.24,
+      "text": "of two centuries. And I don't think anyone has ever done that specific analysis in order to come"
+    },
+    {
+      "start": 930.24,
+      "end": 935.9200000000001,
+      "text": "to those conclusions. But I think if they review the data that I have collected over the past three"
+    },
+    {
+      "start": 935.9200000000001,
+      "end": 942.24,
+      "text": "decades, hopefully they will agree with me and learn from it. I think the biggest surprise for people."
+    },
+    {
+      "start": 942.24,
+      "end": 948.16,
+      "text": "So they assume there's equity risk premium. And I think that there's no more iron cloud law in"
+    },
+    {
+      "start": 948.16,
+      "end": 952.48,
+      "text": "all of investing that people believe that stocks outperform bonds. And then I ask them, do you"
+    },
+    {
+      "start": 952.48,
+      "end": 959.36,
+      "text": "know how long stocks have gone underperforming bonds before? And even in the US, it's decades,"
+    },
+    {
+      "start": 959.36,
+      "end": 966.56,
+      "text": "right? And it just feels like a huge amish mass on people what they want to believe is true."
+    },
+    {
+      "start": 966.56,
+      "end": 970.9599999999999,
+      "text": "And what is actually true? And I think you've helped eliminate more of that than anybody."
+    },
+    {
+      "start": 971.6,
+      "end": 978.8000000000001,
+      "text": "The United States has had a higher return to equities relative to bonds in most countries."
+    },
+    {
+      "start": 978.8000000000001,
+      "end": 986.72,
+      "text": "I mean, in many countries, you've had many 10-year periods when equities underperform bonds"
+    },
+    {
+      "start": 987.36,
+      "end": 994.08,
+      "text": "is especially true in Europe. And so you have to ask, what is your time horizon? Now certainly,"
+    },
+    {
+      "start": 994.08,
+      "end": 1000.08,
+      "text": "if you're looking at 10 or 20 years, equities are probably going to outperform bonds. I mean,"
+    },
+    {
+      "start": 1000.1600000000001,
+      "end": 1005.84,
+      "text": "that's just the balance of the evidence there. However, if you're looking at a shorter time period,"
+    },
+    {
+      "start": 1005.84,
+      "end": 1012.96,
+      "text": "two or three years, bonds could easily outperform equities or equities underperform. I mean,"
+    },
+    {
+      "start": 1012.96,
+      "end": 1019.36,
+      "text": "that's just what the evidence is. And when I put together all this data in the books,"
+    },
+    {
+      "start": 1019.36,
+      "end": 1025.44,
+      "text": "what I wanted to do was just to make it available so everyone can make their own choices about how to"
+    },
+    {
+      "start": 1025.44,
+      "end": 1032.96,
+      "text": "invest and what to invest in. And what for them is the proper allocation between stocks and bonds."
+    },
+    {
+      "start": 1032.96,
+      "end": 1038.48,
+      "text": "I mean, when I was a broker, we used to say invest until you can sleep at night. If you can't"
+    },
+    {
+      "start": 1038.48,
+      "end": 1046.24,
+      "text": "sleep at night, then you don't have the proper investment portfolio for yourself. But that depends"
+    },
+    {
+      "start": 1046.24,
+      "end": 1054.16,
+      "text": "upon everybody's individual tolerance for risk. I was listening to a few different videos and"
+    },
+    {
+      "start": 1054.16,
+      "end": 1059.92,
+      "text": "debates and discussions among my kind of favorite market historians. It's like you and McCory and"
+    },
+    {
+      "start": 1059.92,
+      "end": 1065.28,
+      "text": "Arnaut and a bunch of different people, Seagull, Chat and about historical market returns. And"
+    },
+    {
+      "start": 1065.28,
+      "end": 1071.44,
+      "text": "all sorts of different ideas. And it's really fun to think about the history as like a being an"
+    },
+    {
+      "start": 1071.44,
+      "end": 1076.0,
+      "text": "archaeologist. And we'll put those links in the show notes listeners in addition to Brian has some"
+    },
+    {
+      "start": 1076.0,
+      "end": 1083.28,
+      "text": "really great papers on the SSRN, including his most recent Phineon Guide to Global Markets 2026 edition,"
+    },
+    {
+      "start": 1083.28,
+      "end": 1088.56,
+      "text": "which just dropped a couple of months ago that is a must read. But as you read these, again,"
+    },
+    {
+      "start": 1088.56,
+      "end": 1093.52,
+      "text": "it's kind of like you can come to your own conclusions and you look at the data and hey look,"
+    },
+    {
+      "start": 1093.52,
+      "end": 1098.8799999999999,
+      "text": "you don't want to believe it great. But you kind of see all these periods and start to understand"
+    },
+    {
+      "start": 1098.8799999999999,
+      "end": 1105.84,
+      "text": "that these belief systems that you have may not hold up at a period at which you want them to,"
+    },
+    {
+      "start": 1105.84,
+      "end": 1110.8799999999999,
+      "text": "which is an entire career in many cases like 10, 20 years. Like most of us think about yourself in 20"
+    },
+    {
+      "start": 1110.88,
+      "end": 1116.72,
+      "text": "years and you're like, that's two decades for this ironclad belief I have to not be true."
+    },
+    {
+      "start": 1116.72,
+      "end": 1120.48,
+      "text": "That's hard for people to say Santa's not real, you know."
+    },
+    {
+      "start": 1121.1200000000001,
+      "end": 1127.68,
+      "text": "Well, in another aspect that I bring out in the five financial eras book is the 30-year cycle"
+    },
+    {
+      "start": 1127.68,
+      "end": 1136.0,
+      "text": "in stocks that you've during the past century had 30-year cycles in which given the decade that"
+    },
+    {
+      "start": 1136.0,
+      "end": 1143.84,
+      "text": "you're in, stop markets will do well or do poorly. Stop markets provided double-digit returns"
+    },
+    {
+      "start": 1143.84,
+      "end": 1153.68,
+      "text": "in the 1920s, the 1950s, the 1980s, the 2010s. And you know, if you follow that logic, the 2040s"
+    },
+    {
+      "start": 1153.68,
+      "end": 1160.8,
+      "text": "are going to be providing great returns to investors. On the other hand, you've had poor returns"
+    },
+    {
+      "start": 1161.36,
+      "end": 1172.56,
+      "text": "in the 1940s, the 1970s, the 2000s when you had two vicious bear markets and that does not"
+    },
+    {
+      "start": 1172.56,
+      "end": 1179.2,
+      "text": "bode well for the 2030s. Now, whether that 30-year pattern continues or not, we'll find out"
+    },
+    {
+      "start": 1179.2,
+      "end": 1185.68,
+      "text": "the hard way, but that's just something to be cautious about when you're making your investment"
+    },
+    {
+      "start": 1185.68,
+      "end": 1192.0800000000002,
+      "text": "decisions. This is a chart of it's very simple. It's just US stock dividend, the government bond"
+    },
+    {
+      "start": 1192.0800000000002,
+      "end": 1201.1200000000001,
+      "text": "yield. And if you would, if you would follow it from 1800 to like the 1960s, US dividend yields were"
+    },
+    {
+      "start": 1201.1200000000001,
+      "end": 1207.1200000000001,
+      "text": "always higher than government bonds. And then they weren't. And then they weren't ever again"
+    },
+    {
+      "start": 1207.1200000000001,
+      "end": 1215.3600000000001,
+      "text": "almost. Well, up until the 1950s investors looked at the dividend yield and the"
+    },
+    {
+      "start": 1215.3600000000001,
+      "end": 1222.4,
+      "text": "interest rate on bonds. That was their primary directive for deciding to invest. Capital gains were"
+    },
+    {
+      "start": 1222.4,
+      "end": 1229.5200000000002,
+      "text": "of a secondary importance. But starting after World War II, you had larger capital gains."
+    },
+    {
+      "start": 1229.5200000000002,
+      "end": 1238.2400000000002,
+      "text": "And then you had taxes. I mean, you did not have taxes in the 1800s and that affects your decisions"
+    },
+    {
+      "start": 1238.2400000000002,
+      "end": 1244.48,
+      "text": "because if you have your money in the stock market, you can delay paying taxes until you sell."
+    },
+    {
+      "start": 1244.48,
+      "end": 1251.84,
+      "text": "That with no taxes in the 1800s, that provided a different perspective on things. And so these"
+    },
+    {
+      "start": 1251.84,
+      "end": 1258.88,
+      "text": "changes in government policy affect the results in the marketplace. And that shows it."
+    },
+    {
+      "start": 1259.52,
+      "end": 1265.3600000000001,
+      "text": "You guys have a discussion where you're talking about debt and thinking about just general"
+    },
+    {
+      "start": 1265.3600000000001,
+      "end": 1273.1200000000001,
+      "text": "size of the debt relative to various kind of benchmarks. How do you think about this in the framing"
+    },
+    {
+      "start": 1273.1200000000001,
+      "end": 1277.7600000000002,
+      "text": "of history, not just in the US, but globally as well? Is that something we should get hot and"
+    },
+    {
+      "start": 1277.7600000000002,
+      "end": 1285.2,
+      "text": "bothered about or not worry about so much? In the book I look at both the level of government debt"
+    },
+    {
+      "start": 1285.2,
+      "end": 1292.0000000000002,
+      "text": "and also the stock market capitalization. And what I've generally found is that if the stock market"
+    },
+    {
+      "start": 1292.0000000000002,
+      "end": 1298.96,
+      "text": "capitalization is greater than the level of government debt within the country, that generally is"
+    },
+    {
+      "start": 1298.96,
+      "end": 1306.72,
+      "text": "positive for stocks. However, if the government debt is greater than the stock market capitalization,"
+    },
+    {
+      "start": 1306.72,
+      "end": 1314.72,
+      "text": "that's generally negative for stocks. Now, what you find in the US is that until the 1980s,"
+    },
+    {
+      "start": 1315.52,
+      "end": 1322.16,
+      "text": "the two sort of moved inversely to one another. And this was true in the UK and in the US"
+    },
+    {
+      "start": 1322.72,
+      "end": 1331.8400000000001,
+      "text": "that when the stock market capitalization would increase, the level of government debt would go down."
+    },
+    {
+      "start": 1332.4,
+      "end": 1339.3600000000001,
+      "text": "And I see that as a natural cause and effect in the past because the decline in the government"
+    },
+    {
+      "start": 1339.3600000000001,
+      "end": 1347.44,
+      "text": "debt relative to GDP released capital, which could be invested in the stock market was invested"
+    },
+    {
+      "start": 1347.44,
+      "end": 1354.88,
+      "text": "in the stock market and helped the stock market to provide higher returns. Since around 1980, however,"
+    },
+    {
+      "start": 1354.88,
+      "end": 1362.16,
+      "text": "both government debt and stock market capitalization have increased. Now, so far, the stock market"
+    },
+    {
+      "start": 1362.16,
+      "end": 1368.48,
+      "text": "capitalization has increased more than the government debt, which is a positive sign. However,"
+    },
+    {
+      "start": 1368.48,
+      "end": 1374.72,
+      "text": "if that trend were to reverse, that would definitely be a negative for the market. And so you"
+    },
+    {
+      "start": 1374.8,
+      "end": 1380.4,
+      "text": "have to look at the two of them together. You can't look at one in isolation relative to the other."
+    },
+    {
+      "start": 1380.4,
+      "end": 1385.52,
+      "text": "But it is a matter of concern, because right now in the United States, the government debt is"
+    },
+    {
+      "start": 1385.52,
+      "end": 1392.96,
+      "text": "greater than GDP. And that was fine when interest rates were low, you know, back in the teens,"
+    },
+    {
+      "start": 1392.96,
+      "end": 1397.44,
+      "text": "but now that interest rates are higher, it could become a matter of concern."
+    },
+    {
+      "start": 1397.44,
+      "end": 1403.04,
+      "text": "I love seeing charts that I've never seen before. I've never seen US dividends as a percentage of"
+    },
+    {
+      "start": 1403.04,
+      "end": 1407.92,
+      "text": "GDP. So talking about some of these GDP figures, and that's interesting too, because US"
+    },
+    {
+      "start": 1407.92,
+      "end": 1413.68,
+      "text": "dividends are pretty low in the US right now. But more than anything that shows the market's growing,"
+    },
+    {
+      "start": 1413.68,
+      "end": 1420.48,
+      "text": "the size of the US stock market is expansive. And the reason I put that in the book is that everyone"
+    },
+    {
+      "start": 1420.48,
+      "end": 1425.92,
+      "text": "talked about, oh, the dividend yield has gone down. And then that's bad for the stock market. But they"
+    },
+    {
+      "start": 1425.92,
+      "end": 1431.76,
+      "text": "don't look at one of the reasons why the dividend yield has gone down is that the stock market"
+    },
+    {
+      "start": 1431.76,
+      "end": 1441.2,
+      "text": "capitalization has increased dramatically. So you can't continue to have a 6% dividend yield"
+    },
+    {
+      "start": 1441.2,
+      "end": 1447.52,
+      "text": "when the stock market capitalization is twice GDP, which is what it currently is. I mean, the two"
+    },
+    {
+      "start": 1447.52,
+      "end": 1454.48,
+      "text": "are going to move inversely to one another. However, if you take that into account the size of"
+    },
+    {
+      "start": 1454.48,
+      "end": 1460.08,
+      "text": "the stock market capitalization and the dividend yield, there really hasn't been that much change"
+    },
+    {
+      "start": 1460.08,
+      "end": 1464.6399999999999,
+      "text": "over time. And I think that's an important point which a lot of investors have missed."
+    },
+    {
+      "start": 1465.36,
+      "end": 1472.8,
+      "text": "So US is somewhere around, you can correct me, I don't know, two thirds, 60% a world market cap"
+    },
+    {
+      "start": 1472.8,
+      "end": 1478.08,
+      "text": "right now and maybe a quarter of GDP. What was the record for US as a percentage of market cap?"
+    },
+    {
+      "start": 1478.08,
+      "end": 1485.1999999999998,
+      "text": "Did it hit 70 in the early part of the 20th century? Yeah. During the 1950s, it was definitely 70%."
+    },
+    {
+      "start": 1486.16,
+      "end": 1492.0800000000002,
+      "text": "And then at that point, Canada was 10%. I mean, I talk about the Anglo countries that"
+    },
+    {
+      "start": 1492.0800000000002,
+      "end": 1498.8,
+      "text": "throughout history, the Anglo countries, which are the UK, Canada, the United States, Australia,"
+    },
+    {
+      "start": 1498.8,
+      "end": 1506.8,
+      "text": "New Zealand have consistently controlled 70 to 80% of the total stock market capitalization of"
+    },
+    {
+      "start": 1506.8,
+      "end": 1512.96,
+      "text": "the world. And that continues to be true. I mean, I can remember 20 years ago, people are talking"
+    },
+    {
+      "start": 1513.04,
+      "end": 1519.52,
+      "text": "about, oh, emerging markets are going to expand dramatically. You don't want to invest in any of"
+    },
+    {
+      "start": 1519.52,
+      "end": 1523.68,
+      "text": "the developed markets because they're going to shrink. And that just hasn't proved true. I mean,"
+    },
+    {
+      "start": 1523.68,
+      "end": 1533.2,
+      "text": "what's happened is because of the computers, the internet, AI, all of those have been captured"
+    },
+    {
+      "start": 1533.2,
+      "end": 1538.4,
+      "text": "by the United States and expanded dramatically. I mean, you have something like Facebook, which is"
+    },
+    {
+      "start": 1538.96,
+      "end": 1545.6000000000001,
+      "text": "throughout every country in the world. And so consequently, the United States has had a higher"
+    },
+    {
+      "start": 1546.16,
+      "end": 1553.52,
+      "text": "return to investors over the past 15 years than emerging markets. And so the United States"
+    },
+    {
+      "start": 1553.52,
+      "end": 1559.68,
+      "text": "constantly comes back. I mean, there are time periods when the US has done poorly relative"
+    },
+    {
+      "start": 1559.68,
+      "end": 1566.96,
+      "text": "to the rest of the world. But then the United States finds a new way to grow its capital markets,"
+    },
+    {
+      "start": 1566.96,
+      "end": 1573.28,
+      "text": "grow its companies, and look at the AI revolution, which we're having right now. I mean,"
+    },
+    {
+      "start": 1573.28,
+      "end": 1581.3600000000001,
+      "text": "that's centered here in the United States. Now China also is focusing on growing the AI. But AI is"
+    },
+    {
+      "start": 1581.3600000000001,
+      "end": 1588.0,
+      "text": "in the United States. It's not in Europe or other countries. And we'll see 10 years from now exactly"
+    },
+    {
+      "start": 1588.0,
+      "end": 1596.08,
+      "text": "where AI has gone. No one knows where it's going. But it's definitely the current revolution in the"
+    },
+    {
+      "start": 1596.08,
+      "end": 1601.6799999999998,
+      "text": "stock market. And all of the large companies are pursuing it for that particular reason."
+    },
+    {
+      "start": 1603.04,
+      "end": 1608.48,
+      "text": "I mean, there's a lot of technology changes that are occurring. I mean, if you look at the wars in"
+    },
+    {
+      "start": 1608.48,
+      "end": 1615.04,
+      "text": "Ukraine and Iran, drones are driving those wars. Drones weren't used in previous wars. And so you"
+    },
+    {
+      "start": 1615.04,
+      "end": 1622.8799999999999,
+      "text": "have a lot of technological revolution in war, in computers, in the internet, everywhere in biotechnology."
+    },
+    {
+      "start": 1622.88,
+      "end": 1629.2,
+      "text": "I mean, look at how quickly we got a vaccine for COVID when it came out. It was within one year."
+    },
+    {
+      "start": 1629.2,
+      "end": 1634.5600000000002,
+      "text": "That never could have happened in the past. And so technology is driving the stock market. It's"
+    },
+    {
+      "start": 1634.5600000000002,
+      "end": 1640.3200000000002,
+      "text": "driving the future. And who knows where we'll be 20 years from now. I mean, I constantly say if,"
+    },
+    {
+      "start": 1640.3200000000002,
+      "end": 1645.92,
+      "text": "you know, some kid from today was thrown back into the 1970s and didn't have the internet,"
+    },
+    {
+      "start": 1645.92,
+      "end": 1650.5600000000002,
+      "text": "didn't have their own phone, didn't have all the things they have today. They'd go bonkers."
+    },
+    {
+      "start": 1650.8799999999999,
+      "end": 1653.28,
+      "text": "What's it going to be like 20 years from now? Nobody knows."
+    },
+    {
+      "start": 1653.9199999999998,
+      "end": 1659.36,
+      "text": "And that's the fun part. You know, reading back through your book, you go back obviously to the"
+    },
+    {
+      "start": 1659.36,
+      "end": 1666.08,
+      "text": "1800s in the US, but hey, back to the 1600s and kind of the founding of the joint stock companies."
+    },
+    {
+      "start": 1666.08,
+      "end": 1671.6799999999998,
+      "text": "And another lens, Amsterdam, and then later London. And you know, it's a similar situation like"
+    },
+    {
+      "start": 1671.6799999999998,
+      "end": 1677.36,
+      "text": "imagine talking to some of these people. And I did a tweet recently because we were joking about"
+    },
+    {
+      "start": 1677.3600000000001,
+      "end": 1684.2400000000002,
+      "text": "South Korea's stock market going kind of baddie the past year. And at least on most measures,"
+    },
+    {
+      "start": 1684.2400000000002,
+      "end": 1691.2,
+      "text": "it's now larger than the UK. And I was like, imagine telling someone in the 50s or post-Korean war,"
+    },
+    {
+      "start": 1691.2,
+      "end": 1698.3200000000002,
+      "text": "that South Korea would one day have a bigger stock market in our lifetime than the UK. And people"
+    },
+    {
+      "start": 1698.3200000000002,
+      "end": 1705.68,
+      "text": "be like, you're crazy. And same thing. Do you think New York and the US has a monopoly on the"
+    },
+    {
+      "start": 1705.68,
+      "end": 1712.0,
+      "text": "kind of foreseeable future as the HQ or do you think history will cause that to shift again in our"
+    },
+    {
+      "start": 1712.0,
+      "end": 1720.64,
+      "text": "lifetime? No, I think as long as the government encourages that, it will continue to be the center"
+    },
+    {
+      "start": 1720.64,
+      "end": 1727.92,
+      "text": "of financial markets for the world. But the government has to be there to help it to achieve that."
+    },
+    {
+      "start": 1727.92,
+      "end": 1732.72,
+      "text": "You know, and the other thing you didn't point out is that currently Korean per capita GDP is"
+    },
+    {
+      "start": 1732.72,
+      "end": 1740.64,
+      "text": "greater than Japanese per capita GDP. Now a lot of that has been driven by the interest in"
+    },
+    {
+      "start": 1740.64,
+      "end": 1747.76,
+      "text": "semi-conductors that have been produced in Korea. But I mean, that's just how the world constantly"
+    },
+    {
+      "start": 1747.76,
+      "end": 1756.0,
+      "text": "changes. And it will continue to change unpredictable. The cool part about your book is that,"
+    },
+    {
+      "start": 1756.0,
+      "end": 1761.68,
+      "text": "you know, it demonstrates in all these various countries, particularly in the stock market,"
+    },
+    {
+      "start": 1761.68,
+      "end": 1767.8400000000001,
+      "text": "but also in bonds and other areas, particularly when you, you, the global markets,"
+    },
+    {
+      "start": 1768.48,
+      "end": 1773.92,
+      "text": "they've sustained and have had great returns over time. And that may, even in the US,"
+    },
+    {
+      "start": 1773.92,
+      "end": 1779.44,
+      "text": "that may have been banks and insurance in the early days, 100 years ago, what railroads,"
+    },
+    {
+      "start": 1779.44,
+      "end": 1787.68,
+      "text": "utilities, and today, tech AI, who knows what else in the coming years? And that's kind of the"
+    },
+    {
+      "start": 1787.76,
+      "end": 1791.8400000000001,
+      "text": "beauty of this free market capitalism, I think. What do you think?"
+    },
+    {
+      "start": 1791.8400000000001,
+      "end": 1800.0800000000002,
+      "text": "No, I agree. I mean, one thing that I've thought about recently is, you know, during the 17th century,"
+    },
+    {
+      "start": 1800.0800000000002,
+      "end": 1807.92,
+      "text": "you had the scientific revolution. You had people like Leibniz, Bacon, Galileo, Newton,"
+    },
+    {
+      "start": 1808.8,
+      "end": 1817.2,
+      "text": "bringing forth ideas about nature and analysis of nature and not depending upon"
+    },
+    {
+      "start": 1817.28,
+      "end": 1826.48,
+      "text": "the ancient Greeks for their ideas. The scientific revolution of the 17th century led to the"
+    },
+    {
+      "start": 1826.48,
+      "end": 1834.56,
+      "text": "industrial revolution of the 18th century, in which the steam engines, the railroads and so forth"
+    },
+    {
+      "start": 1834.56,
+      "end": 1843.04,
+      "text": "came forth. And that led to what I call the equity revolution of the 18th hundreds of the 19th"
+    },
+    {
+      "start": 1843.04,
+      "end": 1851.36,
+      "text": "century, because if you look at the GDP, the equity as a market cap as a share of GDP,"
+    },
+    {
+      "start": 1851.92,
+      "end": 1862.3999999999999,
+      "text": "at in 1800, it was only 1% by World War II. It was up to 40%. And so every country in the world"
+    },
+    {
+      "start": 1862.3999999999999,
+      "end": 1870.8799999999999,
+      "text": "by 1914, when World War I began, had their own stock markets, you know, had hundreds of firms"
+    },
+    {
+      "start": 1870.88,
+      "end": 1877.6000000000001,
+      "text": "throughout the world, thousands of firms, in which people could invest. I mean, the stock market"
+    },
+    {
+      "start": 1877.6000000000001,
+      "end": 1884.64,
+      "text": "completely transformed the world in the 1800s. Angus Madison has done research on GDP. And he"
+    },
+    {
+      "start": 1884.64,
+      "end": 1893.1200000000001,
+      "text": "said, you know, if you go from Roman times up until around 1820, there was very small changes in"
+    },
+    {
+      "start": 1893.1200000000001,
+      "end": 1900.64,
+      "text": "per capita GDP, but 1820 was sort of a break point. That's when per capita GDP started to grow"
+    },
+    {
+      "start": 1900.64,
+      "end": 1907.92,
+      "text": "for the whole world. And that was precisely when people started creating companies and investing"
+    },
+    {
+      "start": 1907.92,
+      "end": 1916.16,
+      "text": "in equities and driving the revolution that increased the global per capita stock market capitalization"
+    },
+    {
+      "start": 1916.16,
+      "end": 1925.52,
+      "text": "of GDP from 1% up to 40%. Now, the unfortunate thing was that it stayed around 40% from 1914 until"
+    },
+    {
+      "start": 1925.52,
+      "end": 1935.44,
+      "text": "1981. And that's when you had a globalization beginning and you had a second jump from around 40%"
+    },
+    {
+      "start": 1935.44,
+      "end": 1943.68,
+      "text": "up to 100% and 200% now in the United States. And so that's what's really driven the remarkable"
+    },
+    {
+      "start": 1943.68,
+      "end": 1950.4,
+      "text": "growth that's occurred during the past 50 years. People love to talk today about some of these"
+    },
+    {
+      "start": 1950.4,
+      "end": 1957.92,
+      "text": "like mega companies, Apple, Microsoft, and Vidya by the time this hits the publish button, SpaceX"
+    },
+    {
+      "start": 1957.92,
+      "end": 1963.52,
+      "text": "is likely public. How do you think about this in terms of history? Is there some precedent? I"
+    },
+    {
+      "start": 1963.52,
+      "end": 1968.5600000000002,
+      "text": "imagine if we go back to the VOC days, there was only a few stocks to even talk about. So they"
+    },
+    {
+      "start": 1968.56,
+      "end": 1974.56,
+      "text": "were pretty concentrated. But has this been the norm or is this something that is particularly"
+    },
+    {
+      "start": 1974.56,
+      "end": 1982.1599999999999,
+      "text": "unusual? Well, right now, the concentration in the stock market where you look at the top 10 companies"
+    },
+    {
+      "start": 1982.1599999999999,
+      "end": 1989.28,
+      "text": "as a share of the total stock market capitalization is the highest it's ever been. Now, there was a"
+    },
+    {
+      "start": 1989.28,
+      "end": 2000.16,
+      "text": "period back in the 1950s and 1960s when it was also as high as it was today. I think the concern"
+    },
+    {
+      "start": 2000.16,
+      "end": 2006.8799999999999,
+      "text": "is that because of the concentration that it's a sign of a bubble and the stock market's going to"
+    },
+    {
+      "start": 2006.8799999999999,
+      "end": 2014.8799999999999,
+      "text": "collapse as a result. But if you look back at the concentration that occurred in the 50s and 60s,"
+    },
+    {
+      "start": 2015.44,
+      "end": 2023.1200000000001,
+      "text": "it didn't necessarily lead to a bubble because then after you had the stock market increasing for"
+    },
+    {
+      "start": 2023.1200000000001,
+      "end": 2030.0,
+      "text": "those mega companies back in the 50s and 60s, it spread out to the rest of the market and enabled"
+    },
+    {
+      "start": 2030.0,
+      "end": 2036.64,
+      "text": "the rest of the market to continue to grow. So I don't see it as a negative in the way that some"
+    },
+    {
+      "start": 2036.64,
+      "end": 2043.2,
+      "text": "people say it. I just see it as a sign of the times of what's going on. I think it will continue to"
+    },
+    {
+      "start": 2043.2,
+      "end": 2048.56,
+      "text": "bring growth to the market. Let's hear some of your favorite stats. Are there any particular"
+    },
+    {
+      "start": 2048.56,
+      "end": 2055.76,
+      "text": "things that stick out about financial history, about global history with financial markets that you"
+    },
+    {
+      "start": 2055.76,
+      "end": 2060.4,
+      "text": "think just like you keep coming back to where you're like, man, that's just an interesting tidbit."
+    },
+    {
+      "start": 2060.4,
+      "end": 2065.76,
+      "text": "That's an interesting story, something that you think most people either may not be familiar with"
+    },
+    {
+      "start": 2065.76,
+      "end": 2073.28,
+      "text": "have never heard before about markets. Well, again, if you go to the five financial eras,"
+    },
+    {
+      "start": 2073.28,
+      "end": 2079.6000000000004,
+      "text": "just talking about the changes in the mindset. I mean, the reason I wrote the book was when you"
+    },
+    {
+      "start": 2079.6000000000004,
+      "end": 2086.1600000000003,
+      "text": "had looked at, when other people had looked at the equity risk premium and tried to analyze"
+    },
+    {
+      "start": 2086.1600000000003,
+      "end": 2092.1600000000003,
+      "text": "what the equity risk premium was over time, they looked at it from an overall perspective."
+    },
+    {
+      "start": 2092.16,
+      "end": 2097.7599999999998,
+      "text": "Okay, what was the equity risk premium in the United States from 1900 till the present and didn't"
+    },
+    {
+      "start": 2097.7599999999998,
+      "end": 2104.56,
+      "text": "really break down the different eras. And when I did my financial archaeology studying the past,"
+    },
+    {
+      "start": 2105.44,
+      "end": 2111.68,
+      "text": "I found that you can't really look at the overall returns over long periods of time. You have to"
+    },
+    {
+      "start": 2111.68,
+      "end": 2120.0,
+      "text": "look at particular periods and see what were the factors that were either encouraging higher returns"
+    },
+    {
+      "start": 2120.0,
+      "end": 2126.16,
+      "text": "or preventing higher returns from encouraging. And that's where I came up with the twig theory."
+    },
+    {
+      "start": 2126.16,
+      "end": 2133.2,
+      "text": "And so if you look at the world wars and the code war period, that's when markets did"
+    },
+    {
+      "start": 2133.2,
+      "end": 2140.4,
+      "text": "horribly because the government intervened and really prevented the private sector from growing."
+    },
+    {
+      "start": 2140.4,
+      "end": 2147.52,
+      "text": "But then after 1981, you did have much higher growth because there is more interest in"
+    },
+    {
+      "start": 2148.48,
+      "end": 2156.64,
+      "text": "the private markets. Now that needs to continue in order for the stock markets to continue to grow."
+    },
+    {
+      "start": 2156.64,
+      "end": 2164.4,
+      "text": "But that's what I would mainly focus on is how the returns have changed over different periods"
+    },
+    {
+      "start": 2164.4,
+      "end": 2172.48,
+      "text": "of time and how the mindsets for investors have changed according to the exogenous events"
+    },
+    {
+      "start": 2172.48,
+      "end": 2178.64,
+      "text": "that happened at each point in time. This summer, Fandoo is the best place to bet on goals,"
+    },
+    {
+      "start": 2178.64,
+      "end": 2185.2,
+      "text": "including equalizers. Yep, headers. Every goal is worth more on Fandoo. So let there be goals."
+    },
+    {
+      "start": 2185.2,
+      "end": 2189.28,
+      "text": "New customers get 350 in bonus bets guaranteed when you bet $5 for seven days."
+    },
+    {
+      "start": 2189.28,
+      "end": 2192.56,
+      "text": "21 plus in presence in select states. First online real money wager only."
+    },
+    {
+      "start": 2192.56,
+      "end": 2196.48,
+      "text": "Minimum $5 wager required for seven consecutive days. $5 first deposit required."
+    },
+    {
+      "start": 2196.48,
+      "end": 2199.68,
+      "text": "Bonus issue does not withdraw but bonus bets which expire seven days after receipt."
+    },
+    {
+      "start": 2199.68,
+      "end": 2204.48,
+      "text": "Restrictions apply. See full terms at Fandoo.com slash sportsbook gambling problem called 1-800-Gamber"
+    },
+    {
+      "start": 2204.48,
+      "end": 2211.44,
+      "text": "or 1-800-My-Reset. There's a comment that I think it was McCory said in one of his papers where he"
+    },
+    {
+      "start": 2211.44,
+      "end": 2219.12,
+      "text": "talks about the right hand chart bias. And this is a really interesting philosophical topic where"
+    },
+    {
+      "start": 2220.16,
+      "end": 2227.2,
+      "text": "basically exactly what you're talking about. You can divvy up periods where various markets are"
+    },
+    {
+      "start": 2227.2000000000003,
+      "end": 2232.88,
+      "text": "what's going on the world. But a lot of people love to just look at the entire history or at that point"
+    },
+    {
+      "start": 2232.88,
+      "end": 2238.88,
+      "text": "in time. And depending on when you clip the right side of the chart that point in time could lead"
+    },
+    {
+      "start": 2238.88,
+      "end": 2245.44,
+      "text": "you to totally different conclusions. And so like so a good example we talk about even on the equity"
+    },
+    {
+      "start": 2245.44,
+      "end": 2251.84,
+      "text": "risk premium back in COVID and comparing US stocks to the long bond because interest rates were"
+    },
+    {
+      "start": 2251.92,
+      "end": 2258.4,
+      "text": "like zero. I was like US stocks and long bonds have had the same returns for like 40 years. And if"
+    },
+    {
+      "start": 2258.4,
+      "end": 2263.84,
+      "text": "you just extrapolated that you're like well I just should never you know US stocks but then of course"
+    },
+    {
+      "start": 2263.84,
+      "end": 2268.96,
+      "text": "the opposite flipped right after. And then you make the decision in 10 years 20 years later you're like"
+    },
+    {
+      "start": 2268.96,
+      "end": 2274.1600000000003,
+      "text": "oh my god well US stocks always outperform. Just like depending on where you draw the line in the"
+    },
+    {
+      "start": 2274.1600000000003,
+      "end": 2281.28,
+      "text": "sand it changes the whole thing. But if you go by decade or century or whatever period it becomes"
+    },
+    {
+      "start": 2281.28,
+      "end": 2288.32,
+      "text": "quite a bit more apparent that it's a huge variability on outcomes. Right and between 1981"
+    },
+    {
+      "start": 2288.32,
+      "end": 2297.36,
+      "text": "and 2020 you had declining yields on government bonds which allowed bonds to provide higher returns"
+    },
+    {
+      "start": 2297.36,
+      "end": 2302.8,
+      "text": "to all fixed income investors. Well that's not going to happen in the future. I mean interest rate"
+    },
+    {
+      "start": 2302.8,
+      "end": 2311.0400000000004,
+      "text": "to jumped up to 4% on the 10 year bond in that range 3% in Europe. And they're not going back"
+    },
+    {
+      "start": 2311.04,
+      "end": 2317.2,
+      "text": "down. So you can't rely upon that in the future. You have to completely change your perspective"
+    },
+    {
+      "start": 2317.2,
+      "end": 2322.8,
+      "text": "and anyone who's just going to look at well what happened since 1981 they're going to get the wrong"
+    },
+    {
+      "start": 2322.8,
+      "end": 2330.0,
+      "text": "perspective. You have to look forward and try to apply how are things going to be in the next 10"
+    },
+    {
+      "start": 2330.0,
+      "end": 2335.52,
+      "text": "years regardless of what happened in the previous 10 years. One of the things that I think you know"
+    },
+    {
+      "start": 2335.52,
+      "end": 2341.68,
+      "text": "everyone's always so scared about bear markets. And if you look back in history in your book"
+    },
+    {
+      "start": 2341.68,
+      "end": 2348.48,
+      "text": "in others you find times there's plenty of bear markets. I think a feature they've been around forever"
+    },
+    {
+      "start": 2348.48,
+      "end": 2354.0,
+      "text": "they happen all the time. Sometimes there's even some big ones. Sometimes there's even some"
+    },
+    {
+      "start": 2354.0,
+      "end": 2361.68,
+      "text": "really big ones. But it feels like you know they always recover particularly on a global basis in"
+    },
+    {
+      "start": 2361.68,
+      "end": 2367.6,
+      "text": "US. However there's been a couple times when they don't where it's a straight zeroing out."
+    },
+    {
+      "start": 2368.3999999999996,
+      "end": 2373.6,
+      "text": "Maybe talk to us a little bit about that. It seems to me that that's almost always government"
+    },
+    {
+      "start": 2373.6,
+      "end": 2379.52,
+      "text": "induced. Maybe not always I'm trying to think government or hyperinflation induced where like"
+    },
+    {
+      "start": 2379.52,
+      "end": 2384.3999999999996,
+      "text": "China shuts down their market or Russia shuts down their market in the early mid 20th century"
+    },
+    {
+      "start": 2385.12,
+      "end": 2389.44,
+      "text": "or something just gets hyperinflated. But even the hyperinflated ones that stock market usually"
+    },
+    {
+      "start": 2389.44,
+      "end": 2394.2400000000002,
+      "text": "survives. Anyway give us some examples. Talk to us a little bit about bear markets and the dreaded"
+    },
+    {
+      "start": 2394.2400000000002,
+      "end": 2401.76,
+      "text": "minus 100. Well I mean the two best examples of that are Russia and China. And it's interesting to"
+    },
+    {
+      "start": 2401.76,
+      "end": 2411.04,
+      "text": "compare the two because the Russians stop market shut down in 1917. And no one was really expecting"
+    },
+    {
+      "start": 2411.04,
+      "end": 2419.28,
+      "text": "the October revolution to occur and for the Soviets to take over and you know completely shut down"
+    },
+    {
+      "start": 2419.28,
+      "end": 2425.44,
+      "text": "the stop market completely cut down shut down the bond market. It was just a total loss. In fact"
+    },
+    {
+      "start": 2425.44,
+      "end": 2432.96,
+      "text": "if you look at Paris in the 1920s they continued to trade Russian stocks and bonds you know add a"
+    },
+    {
+      "start": 2432.96,
+      "end": 2439.0400000000004,
+      "text": "deep deep discount you know out of the hope that Russia the Russian government would change they"
+    },
+    {
+      "start": 2439.0400000000004,
+      "end": 2446.5600000000004,
+      "text": "would pay back some of the returns. But of course that never happened. And so in the case of Russia"
+    },
+    {
+      "start": 2446.64,
+      "end": 2454.48,
+      "text": "after 1917 it was an unexpected event. People just got completely wiped out. Now China was a completely"
+    },
+    {
+      "start": 2454.48,
+      "end": 2466.56,
+      "text": "different situation because Japan invaded China during 1937. And it wasn't until 1949 that the"
+    },
+    {
+      "start": 2466.56,
+      "end": 2474.72,
+      "text": "stop markets were shut down in Shanghai. And so for 12 years there people in China gradually move"
+    },
+    {
+      "start": 2474.7200000000003,
+      "end": 2481.28,
+      "text": "their money out of the stop market. They would move it to other markets to Japan to Hong Kong"
+    },
+    {
+      "start": 2482.0000000000005,
+      "end": 2491.2000000000003,
+      "text": "to the United States. So that whereas in the 1930s the stop market capitalization of Shanghai was about"
+    },
+    {
+      "start": 2491.2000000000003,
+      "end": 2498.0000000000005,
+      "text": "and other Chinese markets was about a billion dollars by 1949 when they finally shut the market"
+    },
+    {
+      "start": 2498.0000000000005,
+      "end": 2503.1200000000003,
+      "text": "down. It was only 50 million dollars. So you know investors are smart. If they can read the writing"
+    },
+    {
+      "start": 2503.12,
+      "end": 2509.7599999999998,
+      "text": "on the wall they're going to take their money out. And so it's an interesting comparison between China"
+    },
+    {
+      "start": 2509.7599999999998,
+      "end": 2517.8399999999997,
+      "text": "and Russia for that particular region. But equity markets reflect the real values of the companies."
+    },
+    {
+      "start": 2517.8399999999997,
+      "end": 2525.3599999999997,
+      "text": "So even when during a hyperinflation you have a 90% decline or during a depression you have an 80%"
+    },
+    {
+      "start": 2525.36,
+      "end": 2533.44,
+      "text": "decline in the stop market. Ultimately as long as the real value of the economy recovers"
+    },
+    {
+      "start": 2533.44,
+      "end": 2538.88,
+      "text": "which it inevitably will you will eventually get your money back. It may take a couple decades"
+    },
+    {
+      "start": 2538.88,
+      "end": 2546.08,
+      "text": "but things will eventually return. And so you know the question is what is the likelihood of a"
+    },
+    {
+      "start": 2546.08,
+      "end": 2553.28,
+      "text": "Chinese Eastern European or Russian collapse and complete loss of funds in the future?"
+    },
+    {
+      "start": 2554.2400000000002,
+      "end": 2560.5600000000004,
+      "text": "I see little chance of that today but who knows it could happen. Talk to me a little bit about"
+    },
+    {
+      "start": 2560.5600000000004,
+      "end": 2566.88,
+      "text": "the culture of just investing in general. You know you've studied this for hundreds of years now"
+    },
+    {
+      "start": 2566.88,
+      "end": 2576.32,
+      "text": "and I imagine it shifted largely from like a pretty small subset of people and institutions"
+    },
+    {
+      "start": 2577.28,
+      "end": 2583.76,
+      "text": "in the US it's I'm guessing more widespread than really any country in the world as far as this"
+    },
+    {
+      "start": 2583.76,
+      "end": 2590.7200000000003,
+      "text": "ownership mentality. Is that accurate? Is it growing? Do we see this elsewhere in other countries"
+    },
+    {
+      "start": 2590.7200000000003,
+      "end": 2599.2000000000003,
+      "text": "as far as how they approach investing? Any thoughts? It's definitely change. I mean what's interesting"
+    },
+    {
+      "start": 2599.92,
+      "end": 2609.2000000000003,
+      "text": "is when I go back to the 1800s and I look at the financial pages for virtually any country."
+    },
+    {
+      "start": 2609.2000000000003,
+      "end": 2615.36,
+      "text": "The primary interest was in bonds. It wasn't inequities. I mean there were a few major companies"
+    },
+    {
+      "start": 2615.36,
+      "end": 2624.88,
+      "text": "that were listed but most of it was the British console, the French rinse, others and so really in"
+    },
+    {
+      "start": 2624.88,
+      "end": 2636.08,
+      "text": "the 1800s government bonds were the primary investment vehicle. Now you also had US railroad"
+    },
+    {
+      "start": 2636.08,
+      "end": 2642.8,
+      "text": "bonds which people invested in, Russian bonds which people invested in but the focus was definitely"
+    },
+    {
+      "start": 2642.8,
+      "end": 2652.32,
+      "text": "on bonds. In the early 1900s the first half century of the 1900s that's when things really"
+    },
+    {
+      "start": 2652.32,
+      "end": 2661.76,
+      "text": "started to move over into equities and people started to buy this stock or buy that stock and then"
+    },
+    {
+      "start": 2661.76,
+      "end": 2669.44,
+      "text": "it really much roamed after World War II primarily because of the strong performance of stocks"
+    },
+    {
+      "start": 2669.44,
+      "end": 2676.0800000000004,
+      "text": "throughout the world and because of the poor performance of stocks in the 30s and the 40s"
+    },
+    {
+      "start": 2676.16,
+      "end": 2683.68,
+      "text": "people didn't want to touch stocks at all people had a 1929 mentality wins the next collapse going"
+    },
+    {
+      "start": 2683.68,
+      "end": 2690.0,
+      "text": "to occur and it took the strong performance after World War II to get people to start investing."
+    },
+    {
+      "start": 2690.0,
+      "end": 2696.88,
+      "text": "Nowadays of course what's taken over the stock market are the index funds and people can"
+    },
+    {
+      "start": 2696.88,
+      "end": 2703.68,
+      "text": "invest in any index fund any way they want they don't even have to buy individual stocks and so"
+    },
+    {
+      "start": 2703.68,
+      "end": 2712.3199999999997,
+      "text": "that would sort of be a short history of investing going from bonds in the 1800s to individual"
+    },
+    {
+      "start": 2712.3199999999997,
+      "end": 2722.96,
+      "text": "companies in the 1900s and then into ETFs and index funds in the 21st century but everybody"
+    },
+    {
+      "start": 2722.96,
+      "end": 2730.0,
+      "text": "now to a large degree owns an index fund. Everybody is encouraged to do that and that's what drives"
+    },
+    {
+      "start": 2730.0,
+      "end": 2735.68,
+      "text": "the stock market. I used to actually use that comment of yours you had something called like five"
+    },
+    {
+      "start": 2735.68,
+      "end": 2742.16,
+      "text": "things that were true in the 19th century that were no longer true in the 20th or basically inverse"
+    },
+    {
+      "start": 2742.16,
+      "end": 2747.28,
+      "text": "and the big one you talk about is people really investing for income not necessarily capital"
+    },
+    {
+      "start": 2747.28,
+      "end": 2753.04,
+      "text": "appreciation feels like it was kind of an afterthought or said differently also investing a lot in bonds"
+    },
+    {
+      "start": 2753.7599999999998,
+      "end": 2760.64,
+      "text": "you didn't really really have I think stock indices until Charles Dow. Dow was like 1890s the"
+    },
+    {
+      "start": 2760.64,
+      "end": 2766.08,
+      "text": "Dow Jones right listeners you know you know that first I think it was first railroad and then"
+    },
+    {
+      "start": 2766.08,
+      "end": 2771.44,
+      "text": "industrial and I wonder if that was part of the galvanization where people can say oh no like"
+    },
+    {
+      "start": 2772.24,
+      "end": 2778.88,
+      "text": "I can see how this whole thing is moving rather than just one company. So it definitely was"
+    },
+    {
+      "start": 2778.88,
+      "end": 2789.28,
+      "text": "and you had in the UK the bankers magazine which calculated indices and then the actuaries calculated"
+    },
+    {
+      "start": 2789.28,
+      "end": 2797.84,
+      "text": "indices and you know what really changed things though was the League of Nations because when they"
+    },
+    {
+      "start": 2797.84,
+      "end": 2805.2000000000003,
+      "text": "organized after World War I they wanted to keep track of the economy and how the economy"
+    },
+    {
+      "start": 2805.2000000000003,
+      "end": 2812.8,
+      "text": "performed throughout different countries in the world and so they started to get indices of"
+    },
+    {
+      "start": 2812.8,
+      "end": 2817.84,
+      "text": "industrial production interest rates and so forth and one of the things that they focused on was"
+    },
+    {
+      "start": 2817.84,
+      "end": 2826.6400000000003,
+      "text": "having each country calculate a stock market index for the local stocks and so if you go back to"
+    },
+    {
+      "start": 2826.6400000000003,
+      "end": 2833.28,
+      "text": "League of Nations monthly publications they have it in there every single month and so that started"
+    },
+    {
+      "start": 2833.28,
+      "end": 2840.88,
+      "text": "the interest in global equities through index funds and then of course in the 1930s you had the"
+    },
+    {
+      "start": 2840.88,
+      "end": 2850.96,
+      "text": "cows commission calculating indices for the United States back to 1871 and so it has been a gradual"
+    },
+    {
+      "start": 2851.6000000000004,
+      "end": 2859.44,
+      "text": "increase in interest most of the historical indices prior to World War II were monthly."
+    },
+    {
+      "start": 2859.44,
+      "end": 2867.52,
+      "text": "It was really only in the 1950s 1960s that you started getting the daily indices that you have now"
+    },
+    {
+      "start": 2867.52,
+      "end": 2877.6,
+      "text": "and of course today you have several large companies standard imports MSCI the LSEG who calculate"
+    },
+    {
+      "start": 2878.2400000000002,
+      "end": 2887.2000000000003,
+      "text": "hundreds of thousands of indices so you can keep track of everything and that's the way things will"
+    },
+    {
+      "start": 2887.2000000000003,
+      "end": 2893.44,
+      "text": "continue to be. You had professor Getsman who we just had on the podcast wrote the forward to your"
+    },
+    {
+      "start": 2893.44,
+      "end": 2901.0400000000004,
+      "text": "book and he had a fun book that I had a devil of a time tracking and I had to buy it from Canada"
+    },
+    {
+      "start": 2901.0400000000004,
+      "end": 2906.8,
+      "text": "but about one of the way he's written many books but one of them was on the bubbles of the 1720s"
+    },
+    {
+      "start": 2906.8,
+      "end": 2912.5600000000004,
+      "text": "and it's so fun to look through and you see some of the you know this is a couple of hundred years ago"
+    },
+    {
+      "start": 2912.64,
+      "end": 2919.68,
+      "text": "but you see some very similar traits in you know some of the the specula of particular stocks"
+    },
+    {
+      "start": 2919.68,
+      "end": 2924.7999999999997,
+      "text": "that people get really excited about and but it's funny because it turned into almost like an entire"
+    },
+    {
+      "start": 2925.6,
+      "end": 2931.2,
+      "text": "social phenomenon where there's paintings and articles and people talking about these crazy"
+    },
+    {
+      "start": 2931.2,
+      "end": 2936.24,
+      "text": "periods in history I don't know if whoever goes through those periods again or maybe we're in one"
+    },
+    {
+      "start": 2936.32,
+      "end": 2942.2400000000002,
+      "text": "who knows I don't know but it's fun to see these this critiques from hundreds of years ago"
+    },
+    {
+      "start": 2942.88,
+      "end": 2951.0400000000004,
+      "text": "300 years ago and I mean all of the techniques for the stop market bear rates options all of"
+    },
+    {
+      "start": 2951.0400000000004,
+      "end": 2960.6400000000003,
+      "text": "those began back in the 1600s the Dutch East India stocks started trading in 1602 and by 1608"
+    },
+    {
+      "start": 2960.64,
+      "end": 2968.0,
+      "text": "you had Lamar instituting a bear rate trying to drive the price down so he could take advantage"
+    },
+    {
+      "start": 2968.56,
+      "end": 2976.4,
+      "text": "of selling short and so that happened 400 years ago and so you know in that sense there's"
+    },
+    {
+      "start": 2976.4,
+      "end": 2982.8799999999997,
+      "text": "nothing new under the sun but you know we just keep repeating ourselves in that sense"
+    },
+    {
+      "start": 2983.84,
+      "end": 2990.2400000000002,
+      "text": "now that you've put these two giant wonderful pieces of work to bed or you just taking the summer"
+    },
+    {
+      "start": 2990.2400000000002,
+      "end": 2994.7200000000003,
+      "text": "off sabbatical what else is on your brain these days what are you thinking about what are the"
+    },
+    {
+      "start": 2994.7200000000003,
+      "end": 3000.0,
+      "text": "conversations you're having with people as someone who works on the data side of the business"
+    },
+    {
+      "start": 3000.0,
+      "end": 3005.12,
+      "text": "you must have some fascinating conversations with the end users everything from academic to the"
+    },
+    {
+      "start": 3005.12,
+      "end": 3011.04,
+      "text": "world's you know largest hedge funds and investment funds any interesting feedback that you're getting"
+    },
+    {
+      "start": 3011.92,
+      "end": 3016.8,
+      "text": "right now or things you're thinking about you know I have a chapter in Roger Ibit since"
+    },
+    {
+      "start": 3017.44,
+      "end": 3024.56,
+      "text": "exponential wealth book which will be coming out in the summer and then I wrote the preface to"
+    },
+    {
+      "start": 3024.56,
+      "end": 3031.52,
+      "text": "your book investing in America which will be coming out I believe on July 4th and I really enjoyed"
+    },
+    {
+      "start": 3031.52,
+      "end": 3036.72,
+      "text": "reading that book and you did something in that book which I hadn't seen anyone do before which"
+    },
+    {
+      "start": 3036.7200000000003,
+      "end": 3044.96,
+      "text": "is go through the history of the United States decade by decade to link up the events that occurred"
+    },
+    {
+      "start": 3044.96,
+      "end": 3052.8,
+      "text": "during that decade to the performance in the stock market and no one I had seen had really"
+    },
+    {
+      "start": 3052.8,
+      "end": 3061.44,
+      "text": "taken that long perspective of over 200 years to enlighten people on how things have changed in"
+    },
+    {
+      "start": 3061.44,
+      "end": 3069.6,
+      "text": "the stock market during the past I also have a book called the Global History of Currencies coming"
+    },
+    {
+      "start": 3069.6,
+      "end": 3076.48,
+      "text": "out that will come out this summer oh I want to hear about that one well what I did was I looked"
+    },
+    {
+      "start": 3076.48,
+      "end": 3082.64,
+      "text": "at every single country in the world and I went over the history of currencies within that particular"
+    },
+    {
+      "start": 3082.64,
+      "end": 3090.88,
+      "text": "country how they started out with gold and silver moved to paper currency and then once they had"
+    },
+    {
+      "start": 3090.88,
+      "end": 3096.0,
+      "text": "the paper currency how they would change from one currency to the other I mean if you look at a"
+    },
+    {
+      "start": 3096.0,
+      "end": 3102.4,
+      "text": "country like Brazil or Argentina they've gone through six different currencies over the past 30 or"
+    },
+    {
+      "start": 3102.4,
+      "end": 3112.2400000000002,
+      "text": "40 years so what I wanted to do was to enlighten people for a history of each country how they started"
+    },
+    {
+      "start": 3112.2400000000002,
+      "end": 3119.6800000000003,
+      "text": "their currency how it changed over time and then what is the current situation with that particular"
+    },
+    {
+      "start": 3119.6800000000003,
+      "end": 3128.1600000000003,
+      "text": "currency and so for European countries China as well they're obviously millennia of history"
+    },
+    {
+      "start": 3128.1600000000003,
+      "end": 3135.92,
+      "text": "for each currency for new emerging markets there would be you know maybe only a century of currency"
+    },
+    {
+      "start": 3135.92,
+      "end": 3143.1200000000003,
+      "text": "but the purpose was to document all of the changes in currency that had occurred over time for each"
+    },
+    {
+      "start": 3143.12,
+      "end": 3150.24,
+      "text": "country and so Macmillan is publishing the book and it should come out in the summer any general"
+    },
+    {
+      "start": 3150.24,
+      "end": 3154.88,
+      "text": "takeaways or advice to you know people as they think about investing and think about currencies in"
+    },
+    {
+      "start": 3154.88,
+      "end": 3161.2,
+      "text": "general well the United States has had one the most stable currencies in the world I mean if you"
+    },
+    {
+      "start": 3161.2,
+      "end": 3168.16,
+      "text": "want to look at the relative value of the US dollar to other currencies really only the Swiss"
+    },
+    {
+      "start": 3168.16,
+      "end": 3176.24,
+      "text": "Frank has outperformed the United States over the past hundred years now most of the developed"
+    },
+    {
+      "start": 3176.24,
+      "end": 3183.3599999999997,
+      "text": "countries today have fairly stable currencies they might fluctuate up and down relative to the US"
+    },
+    {
+      "start": 3183.3599999999997,
+      "end": 3190.3199999999997,
+      "text": "dollar but you know if you look at France Germany the euro they fluctuate around a mean on the"
+    },
+    {
+      "start": 3190.32,
+      "end": 3197.36,
+      "text": "other hand for developing countries their currency just tends to depreciate over time because"
+    },
+    {
+      "start": 3197.36,
+      "end": 3203.92,
+      "text": "the governments are unwilling to maintain the stable currency and also the principle on which"
+    },
+    {
+      "start": 3203.92,
+      "end": 3209.2000000000003,
+      "text": "continent you're on I mean the Asian countries generally work to maintain the value of their"
+    },
+    {
+      "start": 3209.2000000000003,
+      "end": 3217.76,
+      "text": "currencies but on the other hand many of the countries in Africa or South America especially don't"
+    },
+    {
+      "start": 3218.32,
+      "end": 3225.44,
+      "text": "and so you know you can learn which countries have historically stuck to a strong currency and"
+    },
+    {
+      "start": 3225.44,
+      "end": 3232.1600000000003,
+      "text": "which ones haven't and learn from that and use that to influence your investments that you make"
+    },
+    {
+      "start": 3232.1600000000003,
+      "end": 3237.92,
+      "text": "globally I'm excited to read this it's super fun even the tidbits I just love when we were looking"
+    },
+    {
+      "start": 3237.92,
+      "end": 3243.84,
+      "text": "through ideas on our book one of my favorites was the motto on the US dollars used to be an old"
+    },
+    {
+      "start": 3243.84,
+      "end": 3248.08,
+      "text": "bin franklin quote just said mine your business right they're like time as I think it was time"
+    },
+    {
+      "start": 3248.08,
+      "end": 3252.6400000000003,
+      "text": "as precious mine you're buying your business I think it's funnier though just to say it is mine"
+    },
+    {
+      "start": 3252.6400000000003,
+      "end": 3258.56,
+      "text": "your business as opposed to in God we trust which is the modern one Brian thanks so much for joining us"
+    },
+    {
+      "start": 3258.56,
+      "end": 3266.4,
+      "text": "today oh thank you for having me here podcast listeners we'll post show notes to today's"
+    },
+    {
+      "start": 3266.4,
+      "end": 3271.92,
+      "text": "conversation at mebfavor.com for slash podcast if you love the show if you hate it shoot us feedback"
+    },
+    {
+      "start": 3271.92,
+      "end": 3278.16,
+      "text": "at the mebfavor.com we love to read the reviews please review us on iTunes and subscribe to show"
+    },
+    {
+      "start": 3278.16,
+      "end": 3282.2400000000002,
+      "text": "anywhere a good podcast or found thanks for listening friends and good investing"
+    },
+    {
+      "start": 3287.84,
+      "end": 3292.88,
+      "text": "Granger knows when you're a procurement manager for an office park you're not managing one building"
+    },
+    {
+      "start": 3292.88,
+      "end": 3298.32,
+      "text": "you're managing all of them and to stay ahead you need to see through walls and around corners"
+    },
+    {
+      "start": 3298.4,
+      "end": 3304.1600000000003,
+      "text": "lights about to fail filters ready to clog H back on its last leg if you wait until something breaks"
+    },
+    {
+      "start": 3304.1600000000003,
+      "end": 3310.4,
+      "text": "you're all ready behind count on Granger for quality products easy reordering and 24 seven support"
+    },
+    {
+      "start": 3310.4,
+      "end": 3316.48,
+      "text": "call 1-800 Granger click Granger.com or just stop by Granger for the ones who get it done"
+    },
+    {
+      "start": 3317.44,
+      "end": 3322.2400000000002,
+      "text": "you're great at protecting your data but lots of places could still expose you to identity theft"
+    },
+    {
+      "start": 3322.2400000000002,
+      "end": 3327.44,
+      "text": "I thought it was safe if that happens life lock gives you a US based restoration agent who will"
+    },
+    {
+      "start": 3327.44,
+      "end": 3333.76,
+      "text": "stick by your side from start to finish phone calls filing documentation preparing insurance claims"
+    },
+    {
+      "start": 3333.76,
+      "end": 3340.0,
+      "text": "your agent handles it all in fact we're so confident restoration is guaranteed for your money back"
+    },
+    {
+      "start": 3340.0,
+      "end": 3345.28,
+      "text": "isn't it nice to have someone like that on your side save up to 30% your first year at lifelock.com"
+    },
+    {
+      "start": 3345.28,
+      "end": 3347.28,
+      "text": "slash podcast terms apply"
+    }
+  ]
+}

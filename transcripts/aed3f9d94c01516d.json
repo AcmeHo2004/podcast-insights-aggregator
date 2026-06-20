@@ -1,0 +1,7006 @@
+{
+  "id": "aed3f9d94c01516d",
+  "show": "Invest Like the Best",
+  "theme": "Investor Talks",
+  "title": "Alex Sacerdote - How to Invest Through Technology Cycles - [Invest Like the Best, EP.477]",
+  "audio_url": "https://traffic.megaphone.fm/CLS6537493219.mp3",
+  "source": "local-whisper",
+  "duration": 4325.0,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "I know firsthand how complex the tech stack is for asset managers,"
+    },
+    {
+      "start": 3.44,
+      "end": 6.96,
+      "text": "and seemingly every new tool and data source makes the problem even worse,"
+    },
+    {
+      "start": 6.96,
+      "end": 9.92,
+      "text": "adding more complexity, more headcount, and more risk."
+    },
+    {
+      "start": 9.92,
+      "end": 11.6,
+      "text": "Rigeline offers a better way forward,"
+    },
+    {
+      "start": 11.6,
+      "end": 15.4,
+      "text": "one unified platform that automates away all that complexity across portfolio,"
+    },
+    {
+      "start": 15.4,
+      "end": 20.28,
+      "text": "accounting, reconciliation, reporting, trading, compliance, and more, all at scale."
+    },
+    {
+      "start": 20.28,
+      "end": 22.52,
+      "text": "Rigeline is revolutionizing investment management,"
+    },
+    {
+      "start": 22.52,
+      "end": 26.6,
+      "text": "helping ambitious firms scale faster, operate smarter, and stay ahead of the curve."
+    },
+    {
+      "start": 26.6,
+      "end": 28.400000000000002,
+      "text": "See what Rigeline can unlock for your firm,"
+    },
+    {
+      "start": 28.400000000000002,
+      "end": 31.000000000000004,
+      "text": "schedule a demo at RigelineApps.com."
+    },
+    {
+      "start": 31.000000000000004,
+      "end": 35.120000000000005,
+      "text": "OpenAI, cursor, andthropic, perplexity, and versel all have something in common."
+    },
+    {
+      "start": 35.120000000000005,
+      "end": 36.92,
+      "text": "They all use WorkOS,"
+    },
+    {
+      "start": 36.92,
+      "end": 37.68,
+      "text": "and here's why."
+    },
+    {
+      "start": 37.68,
+      "end": 39.72,
+      "text": "To achieve enterprise adoption at scale,"
+    },
+    {
+      "start": 39.72,
+      "end": 42.64,
+      "text": "you have to deliver on core capabilities, like SSO,"
+    },
+    {
+      "start": 42.64,
+      "end": 45.0,
+      "text": "SKIM, RBAC, and audit logs."
+    },
+    {
+      "start": 45.0,
+      "end": 46.480000000000004,
+      "text": "That's where WorkOS comes in."
+    },
+    {
+      "start": 46.480000000000004,
+      "end": 49.84,
+      "text": "Instead of spending months building these mission-critical capabilities yourself,"
+    },
+    {
+      "start": 49.84,
+      "end": 53.72,
+      "text": "you can just use WorkOS APIs to gain all of them on day zero."
+    },
+    {
+      "start": 53.72,
+      "end": 58.08,
+      "text": "That's why so many of the top AI teams you hear about already run on WorkOS."
+    },
+    {
+      "start": 58.12,
+      "end": 60.559999999999995,
+      "text": "WorkOS is the fastest way to become enterprise-ready"
+    },
+    {
+      "start": 60.559999999999995,
+      "end": 63.4,
+      "text": "and stay focused on what matters most, your product."
+    },
+    {
+      "start": 63.4,
+      "end": 65.48,
+      "text": "Visit WorkOS.com to get started."
+    },
+    {
+      "start": 65.48,
+      "end": 69.16,
+      "text": "Felix Byrogo is a personal finance agent that turns a single prompt"
+    },
+    {
+      "start": 69.16,
+      "end": 73.72,
+      "text": "into finished client-ready work using your firm's own templates, context, and standards."
+    },
+    {
+      "start": 73.72,
+      "end": 75.16,
+      "text": "Send Felix an email like,"
+    },
+    {
+      "start": 75.16,
+      "end": 76.88,
+      "text": "take these comments and turn them for me,"
+    },
+    {
+      "start": 76.88,
+      "end": 79.6,
+      "text": "or update my tracker with the context of these emails,"
+    },
+    {
+      "start": 79.6,
+      "end": 82.28,
+      "text": "or run the ability to pay math on this buyer,"
+    },
+    {
+      "start": 82.28,
+      "end": 86.96,
+      "text": "and Felix sends back Finnish PowerPoint decks, Excel models, and source research."
+    },
+    {
+      "start": 86.96000000000001,
+      "end": 88.88000000000001,
+      "text": "Felix works the way your team already does,"
+    },
+    {
+      "start": 88.88000000000001,
+      "end": 91.68,
+      "text": "delivering work quickly and accurately around the clock."
+    },
+    {
+      "start": 91.68,
+      "end": 94.80000000000001,
+      "text": "Learn more at rogo.ai slash Felix."
+    },
+    {
+      "start": 96.80000000000001,
+      "end": 97.84,
+      "text": "Hello and welcome, everyone."
+    },
+    {
+      "start": 97.84,
+      "end": 100.2,
+      "text": "I'm Patrick O'Shaughnessy, and this is Invest Like The Best."
+    },
+    {
+      "start": 100.2,
+      "end": 104.32000000000001,
+      "text": "This show is an open-ended exploration of markets, ideas, stories, and strategies"
+    },
+    {
+      "start": 104.32000000000001,
+      "end": 107.16000000000001,
+      "text": "that will help you better invest both your time and your money."
+    },
+    {
+      "start": 107.16000000000001,
+      "end": 109.52000000000001,
+      "text": "If you enjoy these conversations and want to go deeper,"
+    },
+    {
+      "start": 109.52000000000001,
+      "end": 112.96000000000001,
+      "text": "check out Colossus, our quarterly publication with in-depth profiles"
+    },
+    {
+      "start": 112.96000000000001,
+      "end": 115.16000000000001,
+      "text": "of the people shaping business and investing."
+    },
+    {
+      "start": 115.16,
+      "end": 119.11999999999999,
+      "text": "You can find Colossus along with all of our podcasts at Colossus.com."
+    },
+    {
+      "start": 120.88,
+      "end": 123.88,
+      "text": "Patrick O'Shaughnessy is the CEO of Positive Sum."
+    },
+    {
+      "start": 123.88,
+      "end": 126.92,
+      "text": "All opinions expressed by Patrick and podcast guests"
+    },
+    {
+      "start": 126.92,
+      "end": 131.04,
+      "text": "are solely their own opinions and do not reflect the opinion of Positive Sum."
+    },
+    {
+      "start": 131.04,
+      "end": 133.64,
+      "text": "This podcast is for informational purposes only"
+    },
+    {
+      "start": 133.64,
+      "end": 137.12,
+      "text": "and should not be relied upon as a basis for investment decisions."
+    },
+    {
+      "start": 137.12,
+      "end": 142.0,
+      "text": "Clients of Positive Sum may maintain positions in the securities discussed in this podcast."
+    },
+    {
+      "start": 142.0,
+      "end": 145.6,
+      "text": "To learn more, visit psum.vc."
+    },
+    {
+      "start": 148.24,
+      "end": 151.96,
+      "text": "My guest today is Alex Sackerdote, founder of Whale Rock Capital Management."
+    },
+    {
+      "start": 151.96,
+      "end": 154.04,
+      "text": "Whale Rock is a technology-focused investment firm"
+    },
+    {
+      "start": 154.04,
+      "end": 156.64,
+      "text": "that manages more than $17 billion across hedge fund,"
+    },
+    {
+      "start": 156.64,
+      "end": 158.64,
+      "text": "my only and hybrid strategies."
+    },
+    {
+      "start": 158.64,
+      "end": 161.12,
+      "text": "Over the past three years, it's been one of the best performing funds"
+    },
+    {
+      "start": 161.12,
+      "end": 164.04,
+      "text": "compounding a roughly 44% per year."
+    },
+    {
+      "start": 164.04,
+      "end": 167.24,
+      "text": "Alex invests through a single lens that he has refined over 20 years."
+    },
+    {
+      "start": 167.24,
+      "end": 170.32,
+      "text": "He looks for technology-esque curves, durable competitive advantages,"
+    },
+    {
+      "start": 170.32,
+      "end": 172.48,
+      "text": "and underappreciated earnings power."
+    },
+    {
+      "start": 172.48,
+      "end": 176.28,
+      "text": "This conversation is a tour through how he applies that framework today."
+    },
+    {
+      "start": 176.28,
+      "end": 179.16,
+      "text": "We start with this highest conviction position, which is anthropic,"
+    },
+    {
+      "start": 179.16,
+      "end": 181.16,
+      "text": "and use it to work through the entire AI stack"
+    },
+    {
+      "start": 181.16,
+      "end": 183.28,
+      "text": "from chips to models to applications."
+    },
+    {
+      "start": 183.28,
+      "end": 185.56,
+      "text": "Please enjoy my conversation with Alex Sackerdote."
+    },
+    {
+      "start": 187.56,
+      "end": 190.88,
+      "text": "Alex, you were saying that your highest conviction position is anthropic."
+    },
+    {
+      "start": 190.88,
+      "end": 194.2,
+      "text": "Right now, can you tell the story of discovering it,"
+    },
+    {
+      "start": 194.2,
+      "end": 198.2,
+      "text": "making the investment using this anecdote as an excuse to talk about"
+    },
+    {
+      "start": 198.24,
+      "end": 200.60000000000002,
+      "text": "all the things that I think you and I are mutually interested right now,"
+    },
+    {
+      "start": 200.60000000000002,
+      "end": 202.56000000000003,
+      "text": "investors like you investing in private markets,"
+    },
+    {
+      "start": 202.56000000000003,
+      "end": 204.24,
+      "text": "and swapping the business AI, everything."
+    },
+    {
+      "start": 204.24,
+      "end": 205.56000000000003,
+      "text": "It's a great way to zoom in."
+    },
+    {
+      "start": 205.56000000000003,
+      "end": 208.20000000000002,
+      "text": "Why is it your highest conviction and how did you get started?"
+    },
+    {
+      "start": 208.20000000000002,
+      "end": 210.68,
+      "text": "When the gun went off with OpenAI,"
+    },
+    {
+      "start": 210.68,
+      "end": 214.16000000000003,
+      "text": "Chatchy PT in November, 2022,"
+    },
+    {
+      "start": 214.16000000000003,
+      "end": 217.84000000000003,
+      "text": "we immediately took the firm and did a massive deep dive"
+    },
+    {
+      "start": 217.84000000000003,
+      "end": 220.12,
+      "text": "with our 10-person team."
+    },
+    {
+      "start": 220.12,
+      "end": 224.16000000000003,
+      "text": "Anytime you have a new compute paradigm, there's a new stack,"
+    },
+    {
+      "start": 224.16000000000003,
+      "end": 227.72000000000003,
+      "text": "and that creates new winners and losers on the old stack."
+    },
+    {
+      "start": 227.76,
+      "end": 229.24,
+      "text": "Now, Jensen talks a lot about it,"
+    },
+    {
+      "start": 229.24,
+      "end": 232.52,
+      "text": "but it's power at the bottom, chips at the bottom,"
+    },
+    {
+      "start": 232.52,
+      "end": 235.92,
+      "text": "the clouds, and then the foundational models,"
+    },
+    {
+      "start": 235.92,
+      "end": 238.36,
+      "text": "and then the applications on top."
+    },
+    {
+      "start": 238.36,
+      "end": 242.92,
+      "text": "And at that time, this was 2023 early, we said,"
+    },
+    {
+      "start": 242.92,
+      "end": 246.16,
+      "text": "we want to be in the chips in the infrastructure first,"
+    },
+    {
+      "start": 246.16,
+      "end": 250.44,
+      "text": "and not only do they get the demand first,"
+    },
+    {
+      "start": 250.44,
+      "end": 252.44,
+      "text": "but we know who the winners are,"
+    },
+    {
+      "start": 252.44,
+      "end": 254.24,
+      "text": "and no matter who wins above,"
+    },
+    {
+      "start": 254.24,
+      "end": 256.04,
+      "text": "which we weren't sure at the time,"
+    },
+    {
+      "start": 256.04,
+      "end": 259.04,
+      "text": "we know we're going to need tremendous amounts of compute."
+    },
+    {
+      "start": 259.04,
+      "end": 260.6,
+      "text": "And we did a deep dive into that,"
+    },
+    {
+      "start": 260.6,
+      "end": 262.6,
+      "text": "which we can talk about later,"
+    },
+    {
+      "start": 262.6,
+      "end": 265.56,
+      "text": "but over the next two or three years,"
+    },
+    {
+      "start": 265.56,
+      "end": 267.48,
+      "text": "we started to get more clarity"
+    },
+    {
+      "start": 267.48,
+      "end": 271.44,
+      "text": "on how the foundational model layer would evolve."
+    },
+    {
+      "start": 271.44,
+      "end": 274.28000000000003,
+      "text": "And at the time two or three years ago,"
+    },
+    {
+      "start": 274.28000000000003,
+      "end": 277.48,
+      "text": "there were 60 different companies going after it,"
+    },
+    {
+      "start": 277.48,
+      "end": 279.32000000000005,
+      "text": "OpenAI was kind of in the lead,"
+    },
+    {
+      "start": 279.32000000000005,
+      "end": 282.84000000000003,
+      "text": "and we did a webinar in April 2023,"
+    },
+    {
+      "start": 282.84000000000003,
+      "end": 286.24,
+      "text": "and we said, look, this might be a winner-take-all."
+    },
+    {
+      "start": 286.24,
+      "end": 288.12,
+      "text": "It might be a total commodity,"
+    },
+    {
+      "start": 288.12,
+      "end": 290.24,
+      "text": "because there's open source players."
+    },
+    {
+      "start": 290.24,
+      "end": 292.16,
+      "text": "It might be a race to zero,"
+    },
+    {
+      "start": 292.16,
+      "end": 294.08000000000004,
+      "text": "or it might be an oligopoly"
+    },
+    {
+      "start": 294.08000000000004,
+      "end": 297.48,
+      "text": "where there's three or four leading players."
+    },
+    {
+      "start": 297.48,
+      "end": 301.20000000000005,
+      "text": "And what we saw over the following three years"
+    },
+    {
+      "start": 301.20000000000005,
+      "end": 306.20000000000005,
+      "text": "was that almost all the startups fell away and died."
+    },
+    {
+      "start": 306.88000000000005,
+      "end": 309.24,
+      "text": "And then some of the largest companies in the world,"
+    },
+    {
+      "start": 309.24,
+      "end": 311.6,
+      "text": "including Amazon, and others,"
+    },
+    {
+      "start": 311.6,
+      "end": 314.76000000000005,
+      "text": "and Meta, Amazon, never really showed up."
+    },
+    {
+      "start": 314.76000000000005,
+      "end": 316.12,
+      "text": "We'll see what happens with Meta,"
+    },
+    {
+      "start": 316.12,
+      "end": 318.20000000000005,
+      "text": "but they came in strong,"
+    },
+    {
+      "start": 318.20000000000005,
+      "end": 320.64000000000004,
+      "text": "basically their effort faltered,"
+    },
+    {
+      "start": 320.64000000000004,
+      "end": 323.0,
+      "text": "and they had to do a total reboot."
+    },
+    {
+      "start": 323.0,
+      "end": 325.20000000000005,
+      "text": "In the meantime, and Thropic,"
+    },
+    {
+      "start": 325.20000000000005,
+      "end": 327.24,
+      "text": "kind of was this dark horse candidate,"
+    },
+    {
+      "start": 327.24,
+      "end": 332.12,
+      "text": "the startup, they focused really purely on the enterprise."
+    },
+    {
+      "start": 332.12,
+      "end": 334.6,
+      "text": "OpenAI had kind of won the consumer,"
+    },
+    {
+      "start": 334.6,
+      "end": 337.12,
+      "text": "and then Gemini could never be counted out,"
+    },
+    {
+      "start": 337.12,
+      "end": 339.08000000000004,
+      "text": "be loved Google, as well."
+    },
+    {
+      "start": 339.08000000000004,
+      "end": 341.16,
+      "text": "It's one of our largest positions."
+    },
+    {
+      "start": 341.16,
+      "end": 344.44,
+      "text": "So it really started to look like a three horse race"
+    },
+    {
+      "start": 344.44,
+      "end": 347.24,
+      "text": "and somewhat of an oligopoly."
+    },
+    {
+      "start": 347.24,
+      "end": 352.0,
+      "text": "Very similar to how the cloud market evolved,"
+    },
+    {
+      "start": 352.0,
+      "end": 357.0,
+      "text": "where three companies underpin the entire SaaS cloud world"
+    },
+    {
+      "start": 358.52000000000004,
+      "end": 361.88,
+      "text": "and have really excellent businesses."
+    },
+    {
+      "start": 361.88,
+      "end": 365.32000000000005,
+      "text": "And then we also were aware of the open source risk."
+    },
+    {
+      "start": 365.32000000000005,
+      "end": 367.6,
+      "text": "From China, we started to get comfortable"
+    },
+    {
+      "start": 367.6,
+      "end": 371.88,
+      "text": "that the quality of the tokens from the leading edge"
+    },
+    {
+      "start": 371.88,
+      "end": 376.12,
+      "text": "were superior, because if you're 80% close to the top"
+    },
+    {
+      "start": 376.12,
+      "end": 380.76000000000005,
+      "text": "of the benchmarks, going from 80 to 85 is a huge unlock."
+    },
+    {
+      "start": 380.76000000000005,
+      "end": 383.24,
+      "text": "The open source guys, they don't have as much compute"
+    },
+    {
+      "start": 383.24,
+      "end": 385.88,
+      "text": "so they can come close to the leading edge,"
+    },
+    {
+      "start": 385.88,
+      "end": 387.84000000000003,
+      "text": "but they can't leapfrog it,"
+    },
+    {
+      "start": 387.84000000000003,
+      "end": 389.0,
+      "text": "and then they kind of falter."
+    },
+    {
+      "start": 389.0,
+      "end": 393.24,
+      "text": "Meanwhile, the scaling laws and other means"
+    },
+    {
+      "start": 393.24,
+      "end": 397.40000000000003,
+      "text": "of improving the models, the feedback loops, et cetera."
+    },
+    {
+      "start": 397.40000000000003,
+      "end": 399.36,
+      "text": "We saw that there was a very strong runway"
+    },
+    {
+      "start": 399.36,
+      "end": 401.92,
+      "text": "and everyone we talked to close to the industry"
+    },
+    {
+      "start": 401.92,
+      "end": 404.52000000000004,
+      "text": "saw that the scaling laws would continue."
+    },
+    {
+      "start": 404.52000000000004,
+      "end": 407.68,
+      "text": "We developed this thesis that would be a three horse race."
+    },
+    {
+      "start": 407.68,
+      "end": 410.92,
+      "text": "The big kicker was code."
+    },
+    {
+      "start": 410.92,
+      "end": 414.84000000000003,
+      "text": "And this is the true unlock of AI."
+    },
+    {
+      "start": 414.84000000000003,
+      "end": 418.04,
+      "text": "In the first few years, we knew AI would be big,"
+    },
+    {
+      "start": 418.04,
+      "end": 419.44000000000005,
+      "text": "but we were skeptical also."
+    },
+    {
+      "start": 419.44000000000005,
+      "end": 421.32000000000005,
+      "text": "We made large investments because we knew"
+    },
+    {
+      "start": 421.32000000000005,
+      "end": 424.04,
+      "text": "the training would be there, but we weren't sure"
+    },
+    {
+      "start": 424.04,
+      "end": 425.84000000000003,
+      "text": "how much revenue might come."
+    },
+    {
+      "start": 425.84000000000003,
+      "end": 427.76000000000005,
+      "text": "And if it could truly replace labor,"
+    },
+    {
+      "start": 427.76000000000005,
+      "end": 430.52000000000004,
+      "text": "because if you remember, the early versions of the models"
+    },
+    {
+      "start": 430.52000000000004,
+      "end": 433.76000000000005,
+      "text": "were good, but there was a lot of negative feedback"
+    },
+    {
+      "start": 433.76000000000005,
+      "end": 435.28000000000003,
+      "text": "from corporates."
+    },
+    {
+      "start": 435.28000000000003,
+      "end": 441.00000000000006,
+      "text": "And could they be truly agentic in 2025?"
+    },
+    {
+      "start": 441.00000000000006,
+      "end": 444.88000000000005,
+      "text": "The first clawed code and the coding tools really began"
+    },
+    {
+      "start": 444.88000000000005,
+      "end": 446.32000000000005,
+      "text": "to explode."
+    },
+    {
+      "start": 446.32000000000005,
+      "end": 449.92,
+      "text": "You saw the first gen was like Microsoft co-pilot,"
+    },
+    {
+      "start": 449.92,
+      "end": 452.16,
+      "text": "which is like $20 a month."
+    },
+    {
+      "start": 452.16,
+      "end": 455.12,
+      "text": "And that could sort of improve your grammar of coding,"
+    },
+    {
+      "start": 455.12,
+      "end": 459.76,
+      "text": "maybe find a bug, maybe make a block of code, like a paragraph."
+    },
+    {
+      "start": 459.76,
+      "end": 463.72,
+      "text": "And then Anthropic came out sometime in the middle of the year,"
+    },
+    {
+      "start": 463.72,
+      "end": 465.72,
+      "text": "and it could do so much more."
+    },
+    {
+      "start": 465.72,
+      "end": 467.4,
+      "text": "And it started to get to this point"
+    },
+    {
+      "start": 467.4,
+      "end": 469.36,
+      "text": "where it could run agentically."
+    },
+    {
+      "start": 469.36,
+      "end": 471.76,
+      "text": "And the coding market just exploded."
+    },
+    {
+      "start": 471.76,
+      "end": 475.4,
+      "text": "And then we started hearing people who could use it unfettered."
+    },
+    {
+      "start": 475.4,
+      "end": 479.32,
+      "text": "We heard that even within Anthropic, at that time,"
+    },
+    {
+      "start": 479.32,
+      "end": 483.04,
+      "text": "people were spending $100 a day on tokens,"
+    },
+    {
+      "start": 483.04,
+      "end": 487.0,
+      "text": "which if you do the math comes out to $20 or $30,000 a year."
+    },
+    {
+      "start": 487.0,
+      "end": 489.84000000000003,
+      "text": "And if you think about how many coders there are in the world,"
+    },
+    {
+      "start": 489.84000000000003,
+      "end": 492.84000000000003,
+      "text": "$20 million, you've got a half a trillion dollar market"
+    },
+    {
+      "start": 492.84000000000003,
+      "end": 495.12,
+      "text": "just from coding alone."
+    },
+    {
+      "start": 495.12,
+      "end": 500.0,
+      "text": "And mind you, that was on 7, 8, 9-month-old technology."
+    },
+    {
+      "start": 500.0,
+      "end": 503.04,
+      "text": "We could see just on the coding market alone"
+    },
+    {
+      "start": 503.04,
+      "end": 507.6,
+      "text": "that Anthropic had a tremendous opportunity ahead of it."
+    },
+    {
+      "start": 507.6,
+      "end": 513.24,
+      "text": "So we made the investment at the 180 valuation we said."
+    },
+    {
+      "start": 513.24,
+      "end": 516.4,
+      "text": "And I think they were hoping to get to a nine."
+    },
+    {
+      "start": 516.4,
+      "end": 517.6,
+      "text": "Yeah, one to nine, yeah."
+    },
+    {
+      "start": 517.6,
+      "end": 518.6,
+      "text": "One to nine."
+    },
+    {
+      "start": 518.6,
+      "end": 521.12,
+      "text": "And then the numbers were like nothing we'd ever seen"
+    },
+    {
+      "start": 521.12,
+      "end": 525.5600000000001,
+      "text": "before 100 to a billion on the way to nine."
+    },
+    {
+      "start": 525.5600000000001,
+      "end": 527.88,
+      "text": "But when we did it in August of 2025,"
+    },
+    {
+      "start": 527.88,
+      "end": 532.12,
+      "text": "nobody had any idea what 2026 could be."
+    },
+    {
+      "start": 532.12,
+      "end": 535.1600000000001,
+      "text": "The second big unlock lately is that"
+    },
+    {
+      "start": 535.16,
+      "end": 539.4399999999999,
+      "text": "Claude code is gone to almost completely agentic."
+    },
+    {
+      "start": 539.4399999999999,
+      "end": 542.76,
+      "text": "You had Andre Carpati and Linus Torvold's"
+    },
+    {
+      "start": 542.76,
+      "end": 545.88,
+      "text": "two of the smartest people in coding"
+    },
+    {
+      "start": 545.88,
+      "end": 547.8,
+      "text": "and they completely flip-flopped."
+    },
+    {
+      "start": 547.8,
+      "end": 553.28,
+      "text": "And Carpati said last year's code tools could write 20%,"
+    },
+    {
+      "start": 553.28,
+      "end": 555.12,
+      "text": "and 80% would be handwritten."
+    },
+    {
+      "start": 555.12,
+      "end": 558.1999999999999,
+      "text": "That flipped when the latest model came out."
+    },
+    {
+      "start": 558.1999999999999,
+      "end": 561.56,
+      "text": "And now he hasn't written a line of code except in English."
+    },
+    {
+      "start": 561.56,
+      "end": 564.76,
+      "text": "And not to mention the pure unlock"
+    },
+    {
+      "start": 564.76,
+      "end": 568.04,
+      "text": "that we're going to get for the people that never knew how to code."
+    },
+    {
+      "start": 568.04,
+      "end": 572.76,
+      "text": "So just coding alone has completely taken off."
+    },
+    {
+      "start": 572.76,
+      "end": 579.2,
+      "text": "One difference between the cloud GCP AWS and the AI companies"
+    },
+    {
+      "start": 579.2,
+      "end": 582.4399999999999,
+      "text": "is the clouds generally it's commodity."
+    },
+    {
+      "start": 582.4399999999999,
+      "end": 584.84,
+      "text": "They're selling you servers and storage."
+    },
+    {
+      "start": 584.84,
+      "end": 586.36,
+      "text": "They have a lot of software on top"
+    },
+    {
+      "start": 586.36,
+      "end": 588.4,
+      "text": "and there is stickiness to it."
+    },
+    {
+      "start": 588.4,
+      "end": 592.64,
+      "text": "But in the AI models, everyone thought it would be pure commodity."
+    },
+    {
+      "start": 592.64,
+      "end": 595.8,
+      "text": "But there's tremendous differentiation within."
+    },
+    {
+      "start": 595.8,
+      "end": 599.24,
+      "text": "There's different training methods and different skills"
+    },
+    {
+      "start": 599.24,
+      "end": 600.04,
+      "text": "that they're good at."
+    },
+    {
+      "start": 600.04,
+      "end": 603.16,
+      "text": "And a lot of people have routers that switch in between"
+    },
+    {
+      "start": 603.16,
+      "end": 605.16,
+      "text": "which sort of makes it sound like they're commodity."
+    },
+    {
+      "start": 605.16,
+      "end": 606.8,
+      "text": "But then through topic, they're very good"
+    },
+    {
+      "start": 606.8,
+      "end": 610.92,
+      "text": "for anything that has to do with private equity and finance."
+    },
+    {
+      "start": 610.92,
+      "end": 613.8,
+      "text": "Google is very good for ingesting PDFs."
+    },
+    {
+      "start": 613.8,
+      "end": 617.64,
+      "text": "There's a lot of like differentiation critical IP,"
+    },
+    {
+      "start": 617.64,
+      "end": 620.12,
+      "text": "which is a great competitive advantage."
+    },
+    {
+      "start": 620.12,
+      "end": 623.76,
+      "text": "Many companies have come after the coding franchise"
+    },
+    {
+      "start": 623.76,
+      "end": 626.88,
+      "text": "and Anthropic has been able to keep ahead."
+    },
+    {
+      "start": 626.88,
+      "end": 629.92,
+      "text": "The other thing that's good about the foundational models"
+    },
+    {
+      "start": 629.92,
+      "end": 633.96,
+      "text": "and Anthropic is it's not just the API or the model."
+    },
+    {
+      "start": 633.96,
+      "end": 638.64,
+      "text": "They're building a whole monopoly or a whole ecosystem"
+    },
+    {
+      "start": 638.64,
+      "end": 641.6,
+      "text": "of products around the API."
+    },
+    {
+      "start": 641.6,
+      "end": 646.4,
+      "text": "So they've got the SDK, cloud for co-work, orchestration layer"
+    },
+    {
+      "start": 646.4,
+      "end": 649.48,
+      "text": "and all the tools they call it sort of a harness"
+    },
+    {
+      "start": 649.52,
+      "end": 653.52,
+      "text": "which is the software around the API"
+    },
+    {
+      "start": 653.52,
+      "end": 655.28,
+      "text": "that gets the most out of the model."
+    },
+    {
+      "start": 655.28,
+      "end": 658.76,
+      "text": "This was one of the things we saw with AWS really early on"
+    },
+    {
+      "start": 658.76,
+      "end": 662.5600000000001,
+      "text": "in 2013 was, oh, people thought it was a commodity server"
+    },
+    {
+      "start": 662.5600000000001,
+      "end": 664.9200000000001,
+      "text": "up in a warehouse big deal."
+    },
+    {
+      "start": 664.9200000000001,
+      "end": 667.0,
+      "text": "They saw this was a new way of doing computing."
+    },
+    {
+      "start": 667.0,
+      "end": 669.72,
+      "text": "So they invented all these products"
+    },
+    {
+      "start": 669.72,
+      "end": 672.32,
+      "text": "that they could see before everybody else"
+    },
+    {
+      "start": 672.32,
+      "end": 675.12,
+      "text": "that slowly built lock-in."
+    },
+    {
+      "start": 675.12,
+      "end": 678.5600000000001,
+      "text": "The other way we think about this is where are we on this S curve?"
+    },
+    {
+      "start": 678.5600000000001,
+      "end": 683.0000000000001,
+      "text": "And we have this infrastructure layer S curve"
+    },
+    {
+      "start": 683.0000000000001,
+      "end": 685.6,
+      "text": "which we think is 10% penetrated."
+    },
+    {
+      "start": 685.6,
+      "end": 688.6800000000001,
+      "text": "And by the way, we think it's still one of the best ways"
+    },
+    {
+      "start": 688.6800000000001,
+      "end": 692.0400000000001,
+      "text": "to play AI and we'll talk about how that feeds back through."
+    },
+    {
+      "start": 692.0400000000001,
+      "end": 695.5200000000001,
+      "text": "But if you think about it 200 or I don't know how many"
+    },
+    {
+      "start": 695.5200000000001,
+      "end": 697.7600000000001,
+      "text": "800 million people are using AI,"
+    },
+    {
+      "start": 697.7600000000001,
+      "end": 700.9200000000001,
+      "text": "they're just using AI 1.0 which is like a surge engine"
+    },
+    {
+      "start": 700.9200000000001,
+      "end": 702.12,
+      "text": "on steroids."
+    },
+    {
+      "start": 702.12,
+      "end": 703.6,
+      "text": "But now with these new primitives"
+    },
+    {
+      "start": 703.6,
+      "end": 706.36,
+      "text": "where you have clawed on your computer linking it in,"
+    },
+    {
+      "start": 706.36,
+      "end": 707.9200000000001,
+      "text": "then you build skills."
+    },
+    {
+      "start": 707.92,
+      "end": 711.16,
+      "text": "And then they're going to build true AI bots."
+    },
+    {
+      "start": 711.16,
+      "end": 713.3199999999999,
+      "text": "Big corporations are going to build much larger."
+    },
+    {
+      "start": 713.3199999999999,
+      "end": 716.64,
+      "text": "But where are we in terms of the amount of people doing that?"
+    },
+    {
+      "start": 716.64,
+      "end": 721.12,
+      "text": "I mean, Sunder said it's 10 bips of the knowledge workers"
+    },
+    {
+      "start": 721.12,
+      "end": 722.12,
+      "text": "of the world."
+    },
+    {
+      "start": 722.12,
+      "end": 726.7199999999999,
+      "text": "So Anthropic has something like 14 or 15 million DAUs,"
+    },
+    {
+      "start": 726.7199999999999,
+      "end": 729.9599999999999,
+      "text": "probably a small portion of those are truly doing AI"
+    },
+    {
+      "start": 729.9599999999999,
+      "end": 731.4,
+      "text": "the way you can do it."
+    },
+    {
+      "start": 731.4,
+      "end": 734.16,
+      "text": "So that 10 bips, it's classic S curve"
+    },
+    {
+      "start": 734.16,
+      "end": 736.1999999999999,
+      "text": "where these are the tanker errors"
+    },
+    {
+      "start": 736.2,
+      "end": 738.12,
+      "text": "and then it's going to go to the early adopters."
+    },
+    {
+      "start": 738.12,
+      "end": 739.8000000000001,
+      "text": "Then it's going to go to the early mainstream."
+    },
+    {
+      "start": 739.8000000000001,
+      "end": 746.08,
+      "text": "But you're going to go from 10 bips to 1 to 2 or 3% to 5%"
+    },
+    {
+      "start": 746.08,
+      "end": 748.84,
+      "text": "to 15% in the next four years."
+    },
+    {
+      "start": 748.84,
+      "end": 750.8000000000001,
+      "text": "And kind of a light switch this year"
+    },
+    {
+      "start": 750.8000000000001,
+      "end": 753.96,
+      "text": "went off in the enterprise where everybody"
+    },
+    {
+      "start": 753.96,
+      "end": 758.0400000000001,
+      "text": "realizes they need to do this now and do it fast."
+    },
+    {
+      "start": 758.0400000000001,
+      "end": 760.6800000000001,
+      "text": "But it's still internet 1.0 when it's like,"
+    },
+    {
+      "start": 760.6800000000001,
+      "end": 763.88,
+      "text": "you knew you needed a website in 1998."
+    },
+    {
+      "start": 763.88,
+      "end": 767.0,
+      "text": "But it's like hard to build that website."
+    },
+    {
+      "start": 767.0,
+      "end": 768.96,
+      "text": "But this is coming together fast."
+    },
+    {
+      "start": 768.96,
+      "end": 773.0,
+      "text": "And so the enterprise AI or enterprise application AI"
+    },
+    {
+      "start": 773.0,
+      "end": 776.16,
+      "text": "market is less than 1% penetrated."
+    },
+    {
+      "start": 776.16,
+      "end": 777.8,
+      "text": "And we talk about S curves."
+    },
+    {
+      "start": 777.8,
+      "end": 781.52,
+      "text": "We call this an L curve, just straight up."
+    },
+    {
+      "start": 781.52,
+      "end": 783.88,
+      "text": "We'll take this to the infrastructure."
+    },
+    {
+      "start": 783.88,
+      "end": 787.96,
+      "text": "We're at 10 basis points of people really using AI."
+    },
+    {
+      "start": 787.96,
+      "end": 790.56,
+      "text": "And there's not enough compute in the world."
+    },
+    {
+      "start": 790.56,
+      "end": 793.08,
+      "text": "So Anthropic has half of what they need right now."
+    },
+    {
+      "start": 793.08,
+      "end": 796.48,
+      "text": "And that's before this huge take up."
+    },
+    {
+      "start": 796.48,
+      "end": 798.5200000000001,
+      "text": "Mark Andreessen said in the next four years,"
+    },
+    {
+      "start": 798.5200000000001,
+      "end": 800.36,
+      "text": "one thing he's sure of is there's"
+    },
+    {
+      "start": 800.36,
+      "end": 802.5600000000001,
+      "text": "not going to be enough compute."
+    },
+    {
+      "start": 802.5600000000001,
+      "end": 805.2800000000001,
+      "text": "I'm so curious, when an investor like you, who historically"
+    },
+    {
+      "start": 805.2800000000001,
+      "end": 806.8000000000001,
+      "text": "was a public markets investor, you could"
+    },
+    {
+      "start": 806.8000000000001,
+      "end": 808.76,
+      "text": "hit buy and buy whatever you want,"
+    },
+    {
+      "start": 808.76,
+      "end": 812.1600000000001,
+      "text": "is now operating in lots of the most important private market"
+    },
+    {
+      "start": 812.1600000000001,
+      "end": 812.64,
+      "text": "companies."
+    },
+    {
+      "start": 812.64,
+      "end": 814.2,
+      "text": "We can talk about Stripe or Databricks"
+    },
+    {
+      "start": 814.2,
+      "end": 815.6800000000001,
+      "text": "or Open AI or Anthropic."
+    },
+    {
+      "start": 815.6800000000001,
+      "end": 820.0400000000001,
+      "text": "How do you get the positions at the size that you want"
+    },
+    {
+      "start": 820.04,
+      "end": 823.36,
+      "text": "coming from the legacy of being able to just buy?"
+    },
+    {
+      "start": 823.36,
+      "end": 826.4,
+      "text": "How much of it is creativity just directly with the company?"
+    },
+    {
+      "start": 826.4,
+      "end": 828.12,
+      "text": "If it is directly with the company,"
+    },
+    {
+      "start": 828.12,
+      "end": 830.36,
+      "text": "so it's a double opt-in, they have to decide to let you"
+    },
+    {
+      "start": 830.36,
+      "end": 832.0799999999999,
+      "text": "into, how do you do that?"
+    },
+    {
+      "start": 832.0799999999999,
+      "end": 835.4,
+      "text": "What have you learned about getting the allocation you want"
+    },
+    {
+      "start": 835.4,
+      "end": 838.64,
+      "text": "or the amount of equity you want in a private company"
+    },
+    {
+      "start": 838.64,
+      "end": 842.1999999999999,
+      "text": "given that wasn't your original background?"
+    },
+    {
+      "start": 842.1999999999999,
+      "end": 846.24,
+      "text": "We got to know the company, one of our analysts, new people,"
+    },
+    {
+      "start": 846.24,
+      "end": 849.0799999999999,
+      "text": "and the finance group there."
+    },
+    {
+      "start": 849.12,
+      "end": 851.6,
+      "text": "We had a look at the $60 billion around it."
+    },
+    {
+      "start": 851.6,
+      "end": 854.0400000000001,
+      "text": "We didn't know the company as well."
+    },
+    {
+      "start": 854.0400000000001,
+      "end": 855.5600000000001,
+      "text": "The gross margins were negative."
+    },
+    {
+      "start": 855.5600000000001,
+      "end": 860.0,
+      "text": "And frankly, we hadn't seen coding explode the way it had."
+    },
+    {
+      "start": 860.0,
+      "end": 861.36,
+      "text": "And one thing about public markets"
+    },
+    {
+      "start": 861.36,
+      "end": 864.96,
+      "text": "is you get to know companies over a long period of time."
+    },
+    {
+      "start": 864.96,
+      "end": 868.0400000000001,
+      "text": "And you can kind of invest on your own schedule."
+    },
+    {
+      "start": 868.0400000000001,
+      "end": 871.6800000000001,
+      "text": "Then I got a chance to spend some time with Dario."
+    },
+    {
+      "start": 871.6800000000001,
+      "end": 874.6400000000001,
+      "text": "I started to realize these guys, their management team"
+    },
+    {
+      "start": 874.6400000000001,
+      "end": 875.24,
+      "text": "is excellent."
+    },
+    {
+      "start": 875.24,
+      "end": 879.0,
+      "text": "The focus, the dedication, they had almost no turnover."
+    },
+    {
+      "start": 879.0,
+      "end": 880.6,
+      "text": "The quality of code."
+    },
+    {
+      "start": 880.6,
+      "end": 884.2,
+      "text": "And then the business plan was really starting to play out."
+    },
+    {
+      "start": 884.2,
+      "end": 887.44,
+      "text": "It's one thing to grow from $100 to $1 billion,"
+    },
+    {
+      "start": 887.44,
+      "end": 889.56,
+      "text": "but it's another to do nine."
+    },
+    {
+      "start": 889.56,
+      "end": 893.8,
+      "text": "And then so we reached out to the company as much as we could."
+    },
+    {
+      "start": 893.8,
+      "end": 895.24,
+      "text": "They took a meeting with us."
+    },
+    {
+      "start": 895.24,
+      "end": 898.32,
+      "text": "We did a 90-page PowerPoint deck"
+    },
+    {
+      "start": 898.32,
+      "end": 901.32,
+      "text": "where we used Cloud Code to scour the internet"
+    },
+    {
+      "start": 901.32,
+      "end": 904.28,
+      "text": "for all the feedback we could about the coding market"
+    },
+    {
+      "start": 904.28,
+      "end": 905.92,
+      "text": "and what their products were good at,"
+    },
+    {
+      "start": 905.92,
+      "end": 907.96,
+      "text": "where they might need to improve."
+    },
+    {
+      "start": 907.96,
+      "end": 911.12,
+      "text": "And we also did our whole overview of what the coding market"
+    },
+    {
+      "start": 911.12,
+      "end": 912.44,
+      "text": "would be."
+    },
+    {
+      "start": 912.44,
+      "end": 914.6800000000001,
+      "text": "They welcomed us into this round."
+    },
+    {
+      "start": 914.6800000000001,
+      "end": 917.6,
+      "text": "And then we stayed close with the CFO."
+    },
+    {
+      "start": 917.6,
+      "end": 920.08,
+      "text": "It's been great to build a relationship with them."
+    },
+    {
+      "start": 920.08,
+      "end": 921.9200000000001,
+      "text": "And I think we punched above our weight"
+    },
+    {
+      "start": 921.9200000000001,
+      "end": 924.0,
+      "text": "in terms of the allocation."
+    },
+    {
+      "start": 924.0,
+      "end": 927.6,
+      "text": "So that one was a total home run."
+    },
+    {
+      "start": 927.6,
+      "end": 930.76,
+      "text": "We are in this period where the unicorn market"
+    },
+    {
+      "start": 930.76,
+      "end": 934.88,
+      "text": "is bigger than most stock markets in Europe, maybe even combined."
+    },
+    {
+      "start": 934.88,
+      "end": 936.12,
+      "text": "It's definitely bigger in Germany."
+    },
+    {
+      "start": 936.12,
+      "end": 938.0,
+      "text": "It's definitely bigger than the UK."
+    },
+    {
+      "start": 938.0,
+      "end": 940.8,
+      "text": "Even before we invested in private's first one was 2020,"
+    },
+    {
+      "start": 940.8,
+      "end": 942.2,
+      "text": "we have to know these companies."
+    },
+    {
+      "start": 942.2,
+      "end": 944.28,
+      "text": "And you really have to know them now"
+    },
+    {
+      "start": 944.28,
+      "end": 946.68,
+      "text": "because sometimes they're the biggest companies"
+    },
+    {
+      "start": 946.68,
+      "end": 948.96,
+      "text": "in the space and have huge impacts."
+    },
+    {
+      "start": 948.96,
+      "end": 952.12,
+      "text": "So we do two to 3,000 face-to-face meetings"
+    },
+    {
+      "start": 952.12,
+      "end": 954.04,
+      "text": "with management teams a year."
+    },
+    {
+      "start": 954.04,
+      "end": 957.16,
+      "text": "And about 10% or 15% of those are with private."
+    },
+    {
+      "start": 957.16,
+      "end": 961.12,
+      "text": "And then we focus in on the companies"
+    },
+    {
+      "start": 961.12,
+      "end": 964.64,
+      "text": "that we really want to learn about and find ways"
+    },
+    {
+      "start": 964.64,
+      "end": 967.64,
+      "text": "to meet with them, get involved in their rounds."
+    },
+    {
+      "start": 967.64,
+      "end": 970.16,
+      "text": "Our first one was Stripe."
+    },
+    {
+      "start": 970.16,
+      "end": 972.48,
+      "text": "We had a large investment at the time."
+    },
+    {
+      "start": 972.48,
+      "end": 975.12,
+      "text": "This is 2017, 18, 19, and 2020."
+    },
+    {
+      "start": 975.12,
+      "end": 978.84,
+      "text": "We own Audion, which is a fantastic payments company."
+    },
+    {
+      "start": 978.84,
+      "end": 981.0,
+      "text": "And they're a next-gen cloud payments company"
+    },
+    {
+      "start": 981.0,
+      "end": 984.3199999999999,
+      "text": "taking from world pay and the cloud modern payments"
+    },
+    {
+      "start": 984.3199999999999,
+      "end": 988.72,
+      "text": "was 5% of total $80 trillion market or what have you."
+    },
+    {
+      "start": 988.72,
+      "end": 991.84,
+      "text": "But you can invest in Audion unless you know Stripe,"
+    },
+    {
+      "start": 991.84,
+      "end": 992.88,
+      "text": "like the back of your hand."
+    },
+    {
+      "start": 992.88,
+      "end": 995.16,
+      "text": "So we did tremendous amounts of due diligence,"
+    },
+    {
+      "start": 995.16,
+      "end": 997.16,
+      "text": "talked to 200 customers in Audion."
+    },
+    {
+      "start": 997.16,
+      "end": 1000.04,
+      "text": "But when we asked about Audion, we asked about Stripe."
+    },
+    {
+      "start": 1000.04,
+      "end": 1002.4,
+      "text": "And we realized this is Coke and Pepsi."
+    },
+    {
+      "start": 1002.4,
+      "end": 1004.12,
+      "text": "We said, we got to find a way to invest."
+    },
+    {
+      "start": 1004.12,
+      "end": 1007.52,
+      "text": "And I finally got to meet the Carlson brothers in 2019."
+    },
+    {
+      "start": 1007.52,
+      "end": 1009.16,
+      "text": "And so that was our first one."
+    },
+    {
+      "start": 1009.16,
+      "end": 1011.48,
+      "text": "We weren't really known for privates."
+    },
+    {
+      "start": 1011.48,
+      "end": 1014.8,
+      "text": "I've got a friend who's involved with a venture firm"
+    },
+    {
+      "start": 1014.8,
+      "end": 1016.28,
+      "text": "that has tremendous amounts."
+    },
+    {
+      "start": 1016.28,
+      "end": 1017.68,
+      "text": "And I talked to him about it."
+    },
+    {
+      "start": 1017.68,
+      "end": 1021.2,
+      "text": "And I said, let me know if you ever want to sell some."
+    },
+    {
+      "start": 1021.2,
+      "end": 1026.6000000000001,
+      "text": "And then I get a call from him during COVID in April of 2020."
+    },
+    {
+      "start": 1026.6000000000001,
+      "end": 1028.68,
+      "text": "We knew a lot about Stripe."
+    },
+    {
+      "start": 1028.68,
+      "end": 1030.28,
+      "text": "We didn't have the full financials,"
+    },
+    {
+      "start": 1030.28,
+      "end": 1032.8400000000001,
+      "text": "but we knew enough that at that valuation,"
+    },
+    {
+      "start": 1032.8400000000001,
+      "end": 1035.72,
+      "text": "I think it was $35 billion, they disclose"
+    },
+    {
+      "start": 1035.72,
+      "end": 1038.88,
+      "text": "we had over half a trillion of TPV."
+    },
+    {
+      "start": 1038.88,
+      "end": 1042.3600000000001,
+      "text": "And we knew that Audion's take rate was 25 or 30 bips."
+    },
+    {
+      "start": 1042.3600000000001,
+      "end": 1046.1200000000001,
+      "text": "And we knew Stripe's was 40 or 50."
+    },
+    {
+      "start": 1046.1200000000001,
+      "end": 1047.8,
+      "text": "And we knew how many employees they had."
+    },
+    {
+      "start": 1047.8,
+      "end": 1050.28,
+      "text": "So we could kind of get at the profitability."
+    },
+    {
+      "start": 1050.28,
+      "end": 1052.16,
+      "text": "It turned out the take rate was higher."
+    },
+    {
+      "start": 1052.16,
+      "end": 1054.92,
+      "text": "It turned out they were being modest about their TPV."
+    },
+    {
+      "start": 1054.92,
+      "end": 1056.6399999999999,
+      "text": "It was much higher than the 550."
+    },
+    {
+      "start": 1056.6399999999999,
+      "end": 1059.24,
+      "text": "It was closer to the one trillion."
+    },
+    {
+      "start": 1059.24,
+      "end": 1061.28,
+      "text": "We underwrote the thing under our assumptions."
+    },
+    {
+      "start": 1061.28,
+      "end": 1062.3999999999999,
+      "text": "And it was much better."
+    },
+    {
+      "start": 1062.3999999999999,
+      "end": 1068.52,
+      "text": "And then we were able to upsize that from the seller to a $100 million block."
+    },
+    {
+      "start": 1068.52,
+      "end": 1069.6,
+      "text": "The VCs are an own."
+    },
+    {
+      "start": 1069.6,
+      "end": 1071.16,
+      "text": "And then most of them are going to sell."
+    },
+    {
+      "start": 1071.16,
+      "end": 1074.8799999999999,
+      "text": "They like it that will own and own in the public market,"
+    },
+    {
+      "start": 1074.8799999999999,
+      "end": 1077.0,
+      "text": "which we did with new bank as well,"
+    },
+    {
+      "start": 1077.0,
+      "end": 1080.2,
+      "text": "owned it for a long period of time in the public market as well."
+    },
+    {
+      "start": 1081.1200000000001,
+      "end": 1083.6000000000001,
+      "text": "As your business scales up, everything gets more complex,"
+    },
+    {
+      "start": 1083.6000000000001,
+      "end": 1085.92,
+      "text": "especially your compliance and security needs."
+    },
+    {
+      "start": 1085.92,
+      "end": 1088.16,
+      "text": "With so many tools offering bandages and patches,"
+    },
+    {
+      "start": 1088.16,
+      "end": 1089.96,
+      "text": "it's unfortunately far too easy for something"
+    },
+    {
+      "start": 1089.96,
+      "end": 1091.4,
+      "text": "to slip through the cracks."
+    },
+    {
+      "start": 1091.4,
+      "end": 1094.32,
+      "text": "Fortunately, Vanta is a powerful tool designed to simplify"
+    },
+    {
+      "start": 1094.32,
+      "end": 1096.52,
+      "text": "and automate your security work and deliver"
+    },
+    {
+      "start": 1096.52,
+      "end": 1099.24,
+      "text": "a single source of truth for compliance and risk."
+    },
+    {
+      "start": 1099.24,
+      "end": 1102.76,
+      "text": "There's a reason that ramp, cursor, and snowflake all use Vanta."
+    },
+    {
+      "start": 1102.76,
+      "end": 1104.0800000000002,
+      "text": "It frees them to focus on building"
+    },
+    {
+      "start": 1104.0800000000002,
+      "end": 1106.0,
+      "text": "amazing differentiated products, knowing"
+    },
+    {
+      "start": 1106.0,
+      "end": 1108.44,
+      "text": "that compliance and security are under control."
+    },
+    {
+      "start": 1108.44,
+      "end": 1110.04,
+      "text": "Invest like the best listeners get a special"
+    },
+    {
+      "start": 1110.04,
+      "end": 1112.48,
+      "text": "offer of $1,000 off Vanta when you go to"
+    },
+    {
+      "start": 1112.48,
+      "end": 1114.52,
+      "text": "vanta.com slash invest."
+    },
+    {
+      "start": 1115.48,
+      "end": 1117.56,
+      "text": "I know firsthand how complex the tech stack is"
+    },
+    {
+      "start": 1117.56,
+      "end": 1119.12,
+      "text": "for asset management firms."
+    },
+    {
+      "start": 1119.12,
+      "end": 1121.04,
+      "text": "And seemingly every new tool and data source"
+    },
+    {
+      "start": 1121.04,
+      "end": 1122.48,
+      "text": "makes the problem even worse,"
+    },
+    {
+      "start": 1122.48,
+      "end": 1125.28,
+      "text": "adding more complexity, more head count, and more risk."
+    },
+    {
+      "start": 1125.28,
+      "end": 1126.8799999999999,
+      "text": "Ridge line offers a better way forward."
+    },
+    {
+      "start": 1126.8799999999999,
+      "end": 1128.92,
+      "text": "One unified platform that automates away"
+    },
+    {
+      "start": 1128.92,
+      "end": 1131.04,
+      "text": "that complexity across portfolio accounting,"
+    },
+    {
+      "start": 1131.04,
+      "end": 1134.48,
+      "text": "reconciliation, reporting, trading, compliance, and more."
+    },
+    {
+      "start": 1134.48,
+      "end": 1135.72,
+      "text": "All at scale."
+    },
+    {
+      "start": 1135.72,
+      "end": 1137.92,
+      "text": "Ridge line is revolutionizing investment management,"
+    },
+    {
+      "start": 1137.92,
+      "end": 1139.76,
+      "text": "helping ambitious firms scale faster,"
+    },
+    {
+      "start": 1139.76,
+      "end": 1141.8799999999999,
+      "text": "operates smarter, and stay ahead of the curve."
+    },
+    {
+      "start": 1141.8799999999999,
+      "end": 1143.8,
+      "text": "See what Ridge line can unlock for your firm,"
+    },
+    {
+      "start": 1143.8,
+      "end": 1146.84,
+      "text": "schedule a demo at ridgeline.ai."
+    },
+    {
+      "start": 1146.84,
+      "end": 1148.96,
+      "text": "Maybe now is the right time to lay out"
+    },
+    {
+      "start": 1148.96,
+      "end": 1150.8799999999999,
+      "text": "everything you've ever learned about S-curfs."
+    },
+    {
+      "start": 1150.8799999999999,
+      "end": 1153.8,
+      "text": "Obviously your firm is sort of predicated on this idea"
+    },
+    {
+      "start": 1153.8,
+      "end": 1157.04,
+      "text": "of technology adoption, life cycles,"
+    },
+    {
+      "start": 1157.04,
+      "end": 1159.96,
+      "text": "and investing in companies at the right time"
+    },
+    {
+      "start": 1159.96,
+      "end": 1163.36,
+      "text": "amidst a certain platform change or S-curve change."
+    },
+    {
+      "start": 1163.36,
+      "end": 1165.64,
+      "text": "I'd love you to go into the super deep detail"
+    },
+    {
+      "start": 1165.64,
+      "end": 1167.8,
+      "text": "of what you've learned since this is the lens"
+    },
+    {
+      "start": 1167.8,
+      "end": 1169.68,
+      "text": "through which you viewed markets and stocks"
+    },
+    {
+      "start": 1169.68,
+      "end": 1170.84,
+      "text": "for a long time."
+    },
+    {
+      "start": 1170.84,
+      "end": 1173.6399999999999,
+      "text": "Bring us into the nitty gritty fine-growing nuanced detail"
+    },
+    {
+      "start": 1173.6399999999999,
+      "end": 1177.2,
+      "text": "of why S-curfs can be so useful for investing."
+    },
+    {
+      "start": 1177.2,
+      "end": 1178.56,
+      "text": "We have an investment framework."
+    },
+    {
+      "start": 1178.56,
+      "end": 1182.56,
+      "text": "It's S-curve, competitive advantage,"
+    },
+    {
+      "start": 1182.56,
+      "end": 1184.76,
+      "text": "and then underappreciated earnings power."
+    },
+    {
+      "start": 1184.76,
+      "end": 1187.12,
+      "text": "And when you get the right part of the S-curve,"
+    },
+    {
+      "start": 1187.12,
+      "end": 1188.96,
+      "text": "you get exponential unit growth."
+    },
+    {
+      "start": 1188.96,
+      "end": 1191.48,
+      "text": "If you have a very strong business model,"
+    },
+    {
+      "start": 1191.48,
+      "end": 1193.76,
+      "text": "which in tech there's so many of those"
+    },
+    {
+      "start": 1193.76,
+      "end": 1195.96,
+      "text": "for so many different types of modes,"
+    },
+    {
+      "start": 1195.96,
+      "end": 1197.6399999999999,
+      "text": "your earnings don't grow linearly."
+    },
+    {
+      "start": 1197.64,
+      "end": 1199.0,
+      "text": "They grow exponentially."
+    },
+    {
+      "start": 1199.0,
+      "end": 1200.3200000000002,
+      "text": "And that's the last piece."
+    },
+    {
+      "start": 1200.3200000000002,
+      "end": 1204.5600000000002,
+      "text": "Invest when there's underappreciated long-term earnings power."
+    },
+    {
+      "start": 1204.5600000000002,
+      "end": 1208.64,
+      "text": "And very often, the earnings can grow from $1 to $10."
+    },
+    {
+      "start": 1208.64,
+      "end": 1211.0,
+      "text": "And it happens way more than you think."
+    },
+    {
+      "start": 1211.0,
+      "end": 1213.72,
+      "text": "And it allows you to buy some of the best companies"
+    },
+    {
+      "start": 1213.72,
+      "end": 1217.1200000000001,
+      "text": "in the world for extremely low key ease."
+    },
+    {
+      "start": 1217.1200000000001,
+      "end": 1220.72,
+      "text": "When we were buying Nvidia in 2023,"
+    },
+    {
+      "start": 1220.72,
+      "end": 1222.44,
+      "text": "we were paying four times earnings."
+    },
+    {
+      "start": 1222.44,
+      "end": 1226.96,
+      "text": "When we bought Tesla in 2019 for the car S-curve,"
+    },
+    {
+      "start": 1226.96,
+      "end": 1228.56,
+      "text": "we were paying five times earnings."
+    },
+    {
+      "start": 1228.56,
+      "end": 1230.04,
+      "text": "When we were owning Apple,"
+    },
+    {
+      "start": 1230.04,
+      "end": 1231.64,
+      "text": "we were paying four times earnings."
+    },
+    {
+      "start": 1231.64,
+      "end": 1233.6000000000001,
+      "text": "When we bought Amazon for AWS,"
+    },
+    {
+      "start": 1233.6000000000001,
+      "end": 1235.1200000000001,
+      "text": "we were getting it for free."
+    },
+    {
+      "start": 1235.1200000000001,
+      "end": 1238.08,
+      "text": "The world doesn't think exponentially"
+    },
+    {
+      "start": 1238.08,
+      "end": 1241.32,
+      "text": "and they're so focused on the next year or the next quarter."
+    },
+    {
+      "start": 1241.32,
+      "end": 1245.28,
+      "text": "Very few people believe you can accurately predict"
+    },
+    {
+      "start": 1245.28,
+      "end": 1247.3600000000001,
+      "text": "two, three, four years out."
+    },
+    {
+      "start": 1247.3600000000001,
+      "end": 1249.88,
+      "text": "But if you follow and understand the S-curve,"
+    },
+    {
+      "start": 1249.88,
+      "end": 1252.6000000000001,
+      "text": "you know the modes and you know how to model."
+    },
+    {
+      "start": 1252.6000000000001,
+      "end": 1255.48,
+      "text": "You really can predict these great things."
+    },
+    {
+      "start": 1255.48,
+      "end": 1256.76,
+      "text": "So let's go to the S-curve."
+    },
+    {
+      "start": 1256.76,
+      "end": 1260.84,
+      "text": "So the S-curve is crucial because every technology"
+    },
+    {
+      "start": 1260.84,
+      "end": 1265.2,
+      "text": "follows this pattern where it comes out."
+    },
+    {
+      "start": 1265.2,
+      "end": 1268.0,
+      "text": "The smartphones were out 10 years before the iPhone."
+    },
+    {
+      "start": 1268.0,
+      "end": 1272.64,
+      "text": "The internet was out 20 years before Netscape."
+    },
+    {
+      "start": 1272.64,
+      "end": 1275.48,
+      "text": "AI has been out hidden inside of these companies,"
+    },
+    {
+      "start": 1275.48,
+      "end": 1279.28,
+      "text": "but it wasn't until Chatchy Petit took a public"
+    },
+    {
+      "start": 1279.28,
+      "end": 1281.44,
+      "text": "and ignited what it was."
+    },
+    {
+      "start": 1281.44,
+      "end": 1283.24,
+      "text": "So electric vehicles,"
+    },
+    {
+      "start": 1283.24,
+      "end": 1286.1200000000001,
+      "text": "test them in public 15 years before 2019"
+    },
+    {
+      "start": 1286.1200000000001,
+      "end": 1287.4,
+      "text": "when it went vertical,"
+    },
+    {
+      "start": 1287.4,
+      "end": 1289.64,
+      "text": "because there were so many barriers to adoption."
+    },
+    {
+      "start": 1289.64,
+      "end": 1292.64,
+      "text": "The first smartphones, they were clunky."
+    },
+    {
+      "start": 1292.64,
+      "end": 1294.04,
+      "text": "They didn't have touch screen."
+    },
+    {
+      "start": 1294.04,
+      "end": 1295.92,
+      "text": "There wasn't a wireless data system"
+    },
+    {
+      "start": 1295.92,
+      "end": 1297.68,
+      "text": "and then they were too expensive."
+    },
+    {
+      "start": 1297.68,
+      "end": 1299.4,
+      "text": "They were five or six hundred dollars."
+    },
+    {
+      "start": 1299.4,
+      "end": 1302.64,
+      "text": "Steve Jobs got the price to 200."
+    },
+    {
+      "start": 1302.64,
+      "end": 1305.1200000000001,
+      "text": "There was AT&T at a 3G network."
+    },
+    {
+      "start": 1305.1200000000001,
+      "end": 1306.08,
+      "text": "It was touch screen."
+    },
+    {
+      "start": 1306.08,
+      "end": 1308.6,
+      "text": "It was so easy your grandmother can do it."
+    },
+    {
+      "start": 1308.6,
+      "end": 1311.1200000000001,
+      "text": "And he built an ecosystem and made it simple."
+    },
+    {
+      "start": 1311.1200000000001,
+      "end": 1312.92,
+      "text": "So all the barriers to adoption"
+    },
+    {
+      "start": 1312.92,
+      "end": 1315.8000000000002,
+      "text": "were eliminated and then you rock it"
+    },
+    {
+      "start": 1315.8000000000002,
+      "end": 1318.0,
+      "text": "when those barriers are removed."
+    },
+    {
+      "start": 1318.0,
+      "end": 1320.48,
+      "text": "That's the tornado of demand"
+    },
+    {
+      "start": 1320.48,
+      "end": 1324.1200000000001,
+      "text": "that everybody in the world knows they need this right away."
+    },
+    {
+      "start": 1324.1200000000001,
+      "end": 1326.0800000000002,
+      "text": "And so that's the flip that happens."
+    },
+    {
+      "start": 1326.0800000000002,
+      "end": 1327.92,
+      "text": "It happened with electric vehicles."
+    },
+    {
+      "start": 1327.92,
+      "end": 1329.76,
+      "text": "The price was too high."
+    },
+    {
+      "start": 1329.76,
+      "end": 1332.0,
+      "text": "Elon got the price to 40,000."
+    },
+    {
+      "start": 1332.0,
+      "end": 1333.88,
+      "text": "Range anxiety was there."
+    },
+    {
+      "start": 1333.88,
+      "end": 1336.64,
+      "text": "He got the range to 300 miles."
+    },
+    {
+      "start": 1336.64,
+      "end": 1338.52,
+      "text": "The supply chain was finally in place"
+    },
+    {
+      "start": 1338.52,
+      "end": 1341.52,
+      "text": "so he could turn out millions of these things."
+    },
+    {
+      "start": 1341.56,
+      "end": 1343.12,
+      "text": "That triggers the inflection."
+    },
+    {
+      "start": 1343.12,
+      "end": 1344.8799999999999,
+      "text": "Now the other nuance, it's not just,"
+    },
+    {
+      "start": 1344.8799999999999,
+      "end": 1346.68,
+      "text": "oh, it's taken off now."
+    },
+    {
+      "start": 1346.68,
+      "end": 1348.24,
+      "text": "It's how big is this S-curve?"
+    },
+    {
+      "start": 1348.24,
+      "end": 1351.6,
+      "text": "How tall it is so you know when to sell"
+    },
+    {
+      "start": 1351.6,
+      "end": 1353.44,
+      "text": "how long to hold on?"
+    },
+    {
+      "start": 1353.44,
+      "end": 1355.32,
+      "text": "Because we're underwriting out two or three years."
+    },
+    {
+      "start": 1355.32,
+      "end": 1358.32,
+      "text": "We have to know what the growth looks like thereafter."
+    },
+    {
+      "start": 1358.32,
+      "end": 1360.4,
+      "text": "And these S-curves can be dynamic."
+    },
+    {
+      "start": 1360.4,
+      "end": 1363.72,
+      "text": "So when Amazon had AWS"
+    },
+    {
+      "start": 1363.72,
+      "end": 1368.32,
+      "text": "and it was a hidden line item inside of Amazon"
+    },
+    {
+      "start": 1368.32,
+      "end": 1371.16,
+      "text": "covered by retail internet analysts,"
+    },
+    {
+      "start": 1371.16,
+      "end": 1373.3200000000002,
+      "text": "we realized the TAM for this,"
+    },
+    {
+      "start": 1373.3200000000002,
+      "end": 1375.76,
+      "text": "it was the largest TAM in enterprise IT ever"
+    },
+    {
+      "start": 1375.76,
+      "end": 1378.68,
+      "text": "because previously the TAM was routers,"
+    },
+    {
+      "start": 1378.68,
+      "end": 1383.68,
+      "text": "memory, storage, Dell, EMC, but they were doing it all."
+    },
+    {
+      "start": 1383.92,
+      "end": 1385.5600000000002,
+      "text": "You wanna know how tall the S-curve is."
+    },
+    {
+      "start": 1385.5600000000002,
+      "end": 1387.0400000000002,
+      "text": "So we figured out they were addressing"
+    },
+    {
+      "start": 1387.0400000000002,
+      "end": 1392.0400000000002,
+      "text": "600 billion of IT systems directly addressing that."
+    },
+    {
+      "start": 1393.2,
+      "end": 1394.28,
+      "text": "And then we said,"
+    },
+    {
+      "start": 1394.28,
+      "end": 1397.5600000000002,
+      "text": "it's probably gonna be 50% deflationary"
+    },
+    {
+      "start": 1397.56,
+      "end": 1401.32,
+      "text": "and then therefore we're one or two percent penetrated."
+    },
+    {
+      "start": 1401.32,
+      "end": 1404.24,
+      "text": "But then over time we realized it actually wasn't deflationary"
+    },
+    {
+      "start": 1404.24,
+      "end": 1406.08,
+      "text": "if you talk to anybody now,"
+    },
+    {
+      "start": 1406.08,
+      "end": 1408.96,
+      "text": "I say if you build it yourself, it's about the same price."
+    },
+    {
+      "start": 1408.96,
+      "end": 1411.36,
+      "text": "So that means the TAM was so much bigger."
+    },
+    {
+      "start": 1411.36,
+      "end": 1414.6,
+      "text": "There's mega S-curves and there's sub S-curves."
+    },
+    {
+      "start": 1414.6,
+      "end": 1418.1599999999999,
+      "text": "We've been lucky that we've had internet 1.0,"
+    },
+    {
+      "start": 1418.1599999999999,
+      "end": 1423.1599999999999,
+      "text": "mobile, cloud, e-commerce, and now AI,"
+    },
+    {
+      "start": 1423.32,
+      "end": 1425.84,
+      "text": "which we can confidently say is the biggest"
+    },
+    {
+      "start": 1425.8799999999999,
+      "end": 1428.56,
+      "text": "and all these things build upon one another."
+    },
+    {
+      "start": 1428.56,
+      "end": 1431.36,
+      "text": "With the electric vehicle S-curve,"
+    },
+    {
+      "start": 1431.36,
+      "end": 1432.6799999999998,
+      "text": "you have to pay attention too"
+    },
+    {
+      "start": 1432.6799999999998,
+      "end": 1437.24,
+      "text": "because we thought probably maybe 40 to 50% of the cars"
+    },
+    {
+      "start": 1437.24,
+      "end": 1441.6399999999999,
+      "text": "will go electric, but it did hit a big wall at 10 or 15%."
+    },
+    {
+      "start": 1441.6399999999999,
+      "end": 1445.56,
+      "text": "Usually the S-curves go kind of all the way,"
+    },
+    {
+      "start": 1445.56,
+      "end": 1447.48,
+      "text": "but in this case for a variety of reasons,"
+    },
+    {
+      "start": 1447.48,
+      "end": 1451.84,
+      "text": "so you have to adjust and you have to stay on top of it."
+    },
+    {
+      "start": 1451.84,
+      "end": 1453.6399999999999,
+      "text": "And generally when something gets"
+    },
+    {
+      "start": 1453.6399999999999,
+      "end": 1457.04,
+      "text": "to sort of 30, 40% penetrated,"
+    },
+    {
+      "start": 1457.04,
+      "end": 1459.9199999999998,
+      "text": "then you stop having exponential growth,"
+    },
+    {
+      "start": 1459.9199999999998,
+      "end": 1462.08,
+      "text": "which means the cell side catches up"
+    },
+    {
+      "start": 1462.08,
+      "end": 1464.3999999999999,
+      "text": "and there's no longer big beats."
+    },
+    {
+      "start": 1464.3999999999999,
+      "end": 1465.9599999999998,
+      "text": "And is that when you sell?"
+    },
+    {
+      "start": 1465.9599999999998,
+      "end": 1467.84,
+      "text": "Generally, we like the high growth"
+    },
+    {
+      "start": 1467.84,
+      "end": 1469.4399999999998,
+      "text": "and it was a mistake with Apple"
+    },
+    {
+      "start": 1469.4399999999998,
+      "end": 1471.6799999999998,
+      "text": "because in the first five or six years of Apple,"
+    },
+    {
+      "start": 1471.6799999999998,
+      "end": 1472.52,
+      "text": "it was awesome."
+    },
+    {
+      "start": 1472.52,
+      "end": 1473.72,
+      "text": "I mean, it was our largest position"
+    },
+    {
+      "start": 1473.72,
+      "end": 1478.0,
+      "text": "and we'd go 50, 70% a year, except for 08."
+    },
+    {
+      "start": 1478.0,
+      "end": 1479.6,
+      "text": "And then we sold in 2012"
+    },
+    {
+      "start": 1479.6000000000001,
+      "end": 1483.7600000000002,
+      "text": "when it got to sort of 50% of the US had a smartphone."
+    },
+    {
+      "start": 1483.7600000000002,
+      "end": 1487.8000000000002,
+      "text": "And with Apple, they maintained their leadership position."
+    },
+    {
+      "start": 1487.8000000000002,
+      "end": 1490.4,
+      "text": "It had a couple of years of underperformance"
+    },
+    {
+      "start": 1490.4,
+      "end": 1492.0000000000002,
+      "text": "and then the multiple got low"
+    },
+    {
+      "start": 1492.0000000000002,
+      "end": 1495.44,
+      "text": "and they added several ancillary things"
+    },
+    {
+      "start": 1495.44,
+      "end": 1498.4800000000002,
+      "text": "and then they also got to play in the application"
+    },
+    {
+      "start": 1498.4800000000002,
+      "end": 1500.2800000000002,
+      "text": "because they got 30% of the app."
+    },
+    {
+      "start": 1500.2800000000002,
+      "end": 1503.6000000000001,
+      "text": "So they were able to compound very nicely, say 20%,"
+    },
+    {
+      "start": 1503.6000000000001,
+      "end": 1507.5200000000002,
+      "text": "but the big years were in zero to 50% part of the curve."
+    },
+    {
+      "start": 1507.52,
+      "end": 1508.92,
+      "text": "I'm so fascinated by this."
+    },
+    {
+      "start": 1508.92,
+      "end": 1511.48,
+      "text": "Sometimes decade plus long flat line"
+    },
+    {
+      "start": 1511.48,
+      "end": 1513.16,
+      "text": "at the beginning of one of these curves,"
+    },
+    {
+      "start": 1513.16,
+      "end": 1515.16,
+      "text": "which makes me wonder what you've learned"
+    },
+    {
+      "start": 1515.16,
+      "end": 1517.12,
+      "text": "about the right moment to buy"
+    },
+    {
+      "start": 1517.12,
+      "end": 1519.76,
+      "text": "or even start paying attention before you buy."
+    },
+    {
+      "start": 1519.76,
+      "end": 1520.6399999999999,
+      "text": "How do you measure that?"
+    },
+    {
+      "start": 1520.6399999999999,
+      "end": 1522.16,
+      "text": "Is it always different?"
+    },
+    {
+      "start": 1522.16,
+      "end": 1524.8799999999999,
+      "text": "What are the pitfalls that you've fallen into?"
+    },
+    {
+      "start": 1524.8799999999999,
+      "end": 1526.84,
+      "text": "How do you know when start thinking about buying"
+    },
+    {
+      "start": 1526.84,
+      "end": 1528.12,
+      "text": "in one of these things?"
+    },
+    {
+      "start": 1528.12,
+      "end": 1532.2,
+      "text": "Andy Grove says when you have strategic inflection points,"
+    },
+    {
+      "start": 1532.2,
+      "end": 1534.16,
+      "text": "you can't trust the data."
+    },
+    {
+      "start": 1534.16,
+      "end": 1536.16,
+      "text": "And strategic inflection points"
+    },
+    {
+      "start": 1536.16,
+      "end": 1540.0,
+      "text": "are about intuition, anecdotal evidence."
+    },
+    {
+      "start": 1540.0,
+      "end": 1542.8000000000002,
+      "text": "I love this book called The Tao Jones Averages,"
+    },
+    {
+      "start": 1542.8000000000002,
+      "end": 1544.72,
+      "text": "a Guide to Whole Brain Investing,"
+    },
+    {
+      "start": 1544.72,
+      "end": 1546.16,
+      "text": "which is right brain and left brain"
+    },
+    {
+      "start": 1546.16,
+      "end": 1548.2,
+      "text": "and the best investors have the right,"
+    },
+    {
+      "start": 1548.2,
+      "end": 1550.1200000000001,
+      "text": "the creative side where it's visual,"
+    },
+    {
+      "start": 1550.1200000000001,
+      "end": 1551.92,
+      "text": "it's connecting the dots."
+    },
+    {
+      "start": 1551.92,
+      "end": 1554.6000000000001,
+      "text": "We invested in the mobile video game,"
+    },
+    {
+      "start": 1554.6000000000001,
+      "end": 1556.5600000000002,
+      "text": "S-curve for so long,"
+    },
+    {
+      "start": 1556.5600000000002,
+      "end": 1558.44,
+      "text": "the screens were small on the phones"
+    },
+    {
+      "start": 1558.44,
+      "end": 1560.0400000000002,
+      "text": "and the processing power wasn't good."
+    },
+    {
+      "start": 1560.0400000000002,
+      "end": 1562.68,
+      "text": "So you had all these casual games,"
+    },
+    {
+      "start": 1562.68,
+      "end": 1563.88,
+      "text": "but then I was in China"
+    },
+    {
+      "start": 1563.88,
+      "end": 1565.68,
+      "text": "and I saw this little 12 year old boy"
+    },
+    {
+      "start": 1565.68,
+      "end": 1569.5600000000002,
+      "text": "with a huge phone and he was playing a awesome video game"
+    },
+    {
+      "start": 1569.5600000000002,
+      "end": 1571.6000000000001,
+      "text": "like, oh my God, it's now coming to the phone."
+    },
+    {
+      "start": 1571.6000000000001,
+      "end": 1575.16,
+      "text": "So it's visual enterprise is hard"
+    },
+    {
+      "start": 1575.16,
+      "end": 1576.76,
+      "text": "because you can't see it."
+    },
+    {
+      "start": 1576.76,
+      "end": 1580.44,
+      "text": "Smart phone you can see, oh my God, I got it, it's amazing."
+    },
+    {
+      "start": 1580.44,
+      "end": 1583.24,
+      "text": "With AI, there's some intuition there."
+    },
+    {
+      "start": 1583.24,
+      "end": 1586.4,
+      "text": "But enterprise, you don't really get to do that."
+    },
+    {
+      "start": 1586.4,
+      "end": 1588.64,
+      "text": "We go to the Gartner IT Symposium,"
+    },
+    {
+      "start": 1588.64,
+      "end": 1592.52,
+      "text": "30,000 American CIOs go there."
+    },
+    {
+      "start": 1592.52,
+      "end": 1594.36,
+      "text": "We saw this happen with Splunk"
+    },
+    {
+      "start": 1594.36,
+      "end": 1597.72,
+      "text": "where that used to be an amazing database company"
+    },
+    {
+      "start": 1597.72,
+      "end": 1599.84,
+      "text": "and their room where they were explaining"
+    },
+    {
+      "start": 1599.84,
+      "end": 1602.0,
+      "text": "was like standing room only."
+    },
+    {
+      "start": 1602.0,
+      "end": 1604.72,
+      "text": "And we saw that with VMware 30 years ago"
+    },
+    {
+      "start": 1604.72,
+      "end": 1606.72,
+      "text": "where they virtualized the server."
+    },
+    {
+      "start": 1606.72,
+      "end": 1608.44,
+      "text": "There was standing room only"
+    },
+    {
+      "start": 1608.44,
+      "end": 1611.84,
+      "text": "and you could just see the corporate demand just beginning"
+    },
+    {
+      "start": 1611.84,
+      "end": 1614.92,
+      "text": "and with AWS, we went there"
+    },
+    {
+      "start": 1614.92,
+      "end": 1619.92,
+      "text": "and their grand ballroom was completely packed"
+    },
+    {
+      "start": 1619.92,
+      "end": 1621.4,
+      "text": "and that was at nine o'clock"
+    },
+    {
+      "start": 1621.4,
+      "end": 1624.76,
+      "text": "and at 10 o'clock the grand ballroom was completely packed."
+    },
+    {
+      "start": 1624.76,
+      "end": 1627.72,
+      "text": "11 o'clock so you could see the demand exploding"
+    },
+    {
+      "start": 1627.72,
+      "end": 1630.0,
+      "text": "before it happened."
+    },
+    {
+      "start": 1630.0,
+      "end": 1631.6000000000001,
+      "text": "We look for all kinds of clues"
+    },
+    {
+      "start": 1631.6000000000001,
+      "end": 1634.92,
+      "text": "and there's a whole pattern recognition that happens"
+    },
+    {
+      "start": 1634.92,
+      "end": 1638.0800000000002,
+      "text": "and by the way, it's okay to be late."
+    },
+    {
+      "start": 1638.0800000000002,
+      "end": 1641.2800000000002,
+      "text": "It's okay to miss the first one, two, three years"
+    },
+    {
+      "start": 1641.2800000000002,
+      "end": 1644.64,
+      "text": "in a lot of cases because if the top of the S curve"
+    },
+    {
+      "start": 1644.64,
+      "end": 1648.4,
+      "text": "is half a trillion, the growth can go on for a long time"
+    },
+    {
+      "start": 1648.4,
+      "end": 1650.64,
+      "text": "so you don't always have to be right there."
+    },
+    {
+      "start": 1650.64,
+      "end": 1653.4,
+      "text": "It's okay to miss the first hundred percent."
+    },
+    {
+      "start": 1653.4,
+      "end": 1655.6000000000001,
+      "text": "Peter Lynch, I started a fidelity"
+    },
+    {
+      "start": 1655.6000000000001,
+      "end": 1657.6000000000001,
+      "text": "and he loved to mentor the kids"
+    },
+    {
+      "start": 1657.6000000000001,
+      "end": 1658.48,
+      "text": "so I got some time with him."
+    },
+    {
+      "start": 1658.48,
+      "end": 1660.72,
+      "text": "He said, white out the chart."
+    },
+    {
+      "start": 1661.8000000000002,
+      "end": 1663.6000000000001,
+      "text": "It's all about the future."
+    },
+    {
+      "start": 1663.6000000000001,
+      "end": 1665.0,
+      "text": "So it's okay to miss"
+    },
+    {
+      "start": 1665.0,
+      "end": 1666.5600000000002,
+      "text": "but what helps about the S curves"
+    },
+    {
+      "start": 1666.5600000000002,
+      "end": 1668.5200000000002,
+      "text": "is sort of how long it goes for."
+    },
+    {
+      "start": 1668.5200000000002,
+      "end": 1670.92,
+      "text": "Then there's the slope of the S curve"
+    },
+    {
+      "start": 1670.92,
+      "end": 1672.3600000000001,
+      "text": "which is important."
+    },
+    {
+      "start": 1672.3600000000001,
+      "end": 1673.88,
+      "text": "And a lot of people think"
+    },
+    {
+      "start": 1673.88,
+      "end": 1677.48,
+      "text": "because we're in a modern world, everything's so fast"
+    },
+    {
+      "start": 1677.48,
+      "end": 1679.2,
+      "text": "but there's a lot of factors"
+    },
+    {
+      "start": 1679.2,
+      "end": 1682.32,
+      "text": "that determine the pace of the adoption"
+    },
+    {
+      "start": 1682.32,
+      "end": 1685.48,
+      "text": "and we commissioned this gentleman, Horace Daydo"
+    },
+    {
+      "start": 1685.48,
+      "end": 1687.56,
+      "text": "used to work with Clayton Christianchen"
+    },
+    {
+      "start": 1687.56,
+      "end": 1689.0,
+      "text": "to go look in history"
+    },
+    {
+      "start": 1689.0,
+      "end": 1692.64,
+      "text": "and we have the big S curves on our wall over the last hundred years."
+    },
+    {
+      "start": 1692.64,
+      "end": 1697.56,
+      "text": "And the radio S curve was one of the fastest ever."
+    },
+    {
+      "start": 1697.56,
+      "end": 1701.08,
+      "text": "It took seven years to reach like a hundred percent penetration"
+    },
+    {
+      "start": 1701.08,
+      "end": 1704.68,
+      "text": "but the dishwasher S curve is like that"
+    },
+    {
+      "start": 1704.68,
+      "end": 1709.24,
+      "text": "because it needs to be plugged into the back end."
+    },
+    {
+      "start": 1709.24,
+      "end": 1711.6000000000001,
+      "text": "B2B stuff can take a long time"
+    },
+    {
+      "start": 1711.6000000000001,
+      "end": 1714.52,
+      "text": "because it needs to be plugged into the existing systems."
+    },
+    {
+      "start": 1714.52,
+      "end": 1718.16,
+      "text": "Consumers generally tend to go a lot faster."
+    },
+    {
+      "start": 1718.16,
+      "end": 1719.72,
+      "text": "I love that the radio and the dishwasher"
+    },
+    {
+      "start": 1719.72,
+      "end": 1721.52,
+      "text": "the two models for adoption."
+    },
+    {
+      "start": 1721.52,
+      "end": 1723.28,
+      "text": "I covered internet at fidelity."
+    },
+    {
+      "start": 1723.28,
+      "end": 1725.28,
+      "text": "My first stock was Amazon."
+    },
+    {
+      "start": 1725.28,
+      "end": 1728.0,
+      "text": "That's a whole other story which was a lot of fun."
+    },
+    {
+      "start": 1728.0,
+      "end": 1729.76,
+      "text": "But I also did B2B internet"
+    },
+    {
+      "start": 1729.76,
+      "end": 1733.5600000000002,
+      "text": "and there was a whole huge bull case on that."
+    },
+    {
+      "start": 1733.56,
+      "end": 1736.56,
+      "text": "The underlying infrastructure wasn't in place"
+    },
+    {
+      "start": 1736.56,
+      "end": 1738.08,
+      "text": "for B2B to happen."
+    },
+    {
+      "start": 1738.08,
+      "end": 1741.56,
+      "text": "Ultimately happened 20 years later with SaaS."
+    },
+    {
+      "start": 1741.56,
+      "end": 1743.72,
+      "text": "That is a risk with AI"
+    },
+    {
+      "start": 1743.72,
+      "end": 1748.72,
+      "text": "in that these big companies are very security conscious."
+    },
+    {
+      "start": 1749.28,
+      "end": 1750.12,
+      "text": "Can be slow to move."
+    },
+    {
+      "start": 1750.12,
+      "end": 1752.8,
+      "text": "There's a lot of cultural issues with AI"
+    },
+    {
+      "start": 1752.8,
+      "end": 1757.96,
+      "text": "where you really need a few evangelists to push it through."
+    },
+    {
+      "start": 1757.96,
+      "end": 1759.8799999999999,
+      "text": "The top management needs to push it through"
+    },
+    {
+      "start": 1759.8799999999999,
+      "end": 1762.96,
+      "text": "but then the IT is saying this is risky"
+    },
+    {
+      "start": 1762.96,
+      "end": 1764.2,
+      "text": "and that happened with cloud two."
+    },
+    {
+      "start": 1764.2,
+      "end": 1766.8,
+      "text": "That was one of the big things with cloud where"
+    },
+    {
+      "start": 1766.8,
+      "end": 1768.64,
+      "text": "everybody was afraid it's unsecured"
+    },
+    {
+      "start": 1768.64,
+      "end": 1770.16,
+      "text": "to have your data in the cloud"
+    },
+    {
+      "start": 1770.16,
+      "end": 1774.1200000000001,
+      "text": "and then we saw the CIA do it and we saw Capital One"
+    },
+    {
+      "start": 1774.1200000000001,
+      "end": 1775.68,
+      "text": "and we talked to the Capital One CIA."
+    },
+    {
+      "start": 1775.68,
+      "end": 1777.8,
+      "text": "He said it's more secure in the cloud"
+    },
+    {
+      "start": 1777.8,
+      "end": 1780.32,
+      "text": "and then it really started to take off."
+    },
+    {
+      "start": 1780.32,
+      "end": 1784.64,
+      "text": "Those takeoffs maybe because SaaS is like the dishwasher"
+    },
+    {
+      "start": 1784.64,
+      "end": 1787.3600000000001,
+      "text": "and because cloud it's gotta be plugged in."
+    },
+    {
+      "start": 1787.3600000000001,
+      "end": 1789.2,
+      "text": "It meant that yeah it was growing"
+    },
+    {
+      "start": 1789.2,
+      "end": 1793.16,
+      "text": "but it was sort of a 30 to 40 maybe a 50% growth rate"
+    },
+    {
+      "start": 1793.16,
+      "end": 1796.28,
+      "text": "but what's amazing about AI is you just at least"
+    },
+    {
+      "start": 1796.28,
+      "end": 1800.28,
+      "text": "with consumers or even this you just open up the browser"
+    },
+    {
+      "start": 1800.28,
+      "end": 1801.52,
+      "text": "and it's there."
+    },
+    {
+      "start": 1801.52,
+      "end": 1804.28,
+      "text": "And so that's why we're getting this straight up"
+    },
+    {
+      "start": 1804.28,
+      "end": 1807.4,
+      "text": "and I think there's enough runway in the near term"
+    },
+    {
+      "start": 1807.4,
+      "end": 1809.6000000000001,
+      "text": "going from 10 Bips to people really using it"
+    },
+    {
+      "start": 1809.6000000000001,
+      "end": 1811.88,
+      "text": "to two to five or whatever"
+    },
+    {
+      "start": 1811.88,
+      "end": 1814.48,
+      "text": "which is gonna cause it to keep on going straight up."
+    },
+    {
+      "start": 1814.48,
+      "end": 1817.0,
+      "text": "This we call it a backwards L curve."
+    },
+    {
+      "start": 1817.0,
+      "end": 1819.52,
+      "text": "So it's really pretty exciting."
+    },
+    {
+      "start": 1819.52,
+      "end": 1822.44,
+      "text": "What have you learned about when the group"
+    },
+    {
+      "start": 1822.44,
+      "end": 1824.52,
+      "text": "that ends up being the leader separates itself"
+    },
+    {
+      "start": 1824.52,
+      "end": 1826.48,
+      "text": "from one of these competitive packs?"
+    },
+    {
+      "start": 1826.48,
+      "end": 1829.04,
+      "text": "So you're talking there mostly about"
+    },
+    {
+      "start": 1829.04,
+      "end": 1832.2,
+      "text": "overall growth of the S curve in demand."
+    },
+    {
+      "start": 1832.2,
+      "end": 1835.16,
+      "text": "There's always multiple players fighting for it."
+    },
+    {
+      "start": 1835.16,
+      "end": 1837.08,
+      "text": "It seems like you kind of invest after"
+    },
+    {
+      "start": 1837.08,
+      "end": 1838.88,
+      "text": "someone has separated themselves from the pack"
+    },
+    {
+      "start": 1838.88,
+      "end": 1841.36,
+      "text": "not try to pick the winners from the pack."
+    },
+    {
+      "start": 1841.36,
+      "end": 1845.76,
+      "text": "You look for the S curve then we do an exhaustive study"
+    },
+    {
+      "start": 1845.76,
+      "end": 1849.44,
+      "text": "of everybody with exposure in that area"
+    },
+    {
+      "start": 1849.44,
+      "end": 1852.8799999999999,
+      "text": "and try and find the one with a very powerful"
+    },
+    {
+      "start": 1852.8799999999999,
+      "end": 1854.48,
+      "text": "competitive advantage."
+    },
+    {
+      "start": 1854.48,
+      "end": 1856.56,
+      "text": "And a lot of people didn't like tech,"
+    },
+    {
+      "start": 1856.56,
+      "end": 1857.84,
+      "text": "Warren Buffett didn't like tech"
+    },
+    {
+      "start": 1857.84,
+      "end": 1859.56,
+      "text": "because he couldn't predict the future."
+    },
+    {
+      "start": 1859.56,
+      "end": 1860.4,
+      "text": "You used to fast."
+    },
+    {
+      "start": 1860.4,
+      "end": 1864.0,
+      "text": "And so the S curve is our map we're looking in the future."
+    },
+    {
+      "start": 1864.0,
+      "end": 1865.68,
+      "text": "Now a lot of people were worried about tech"
+    },
+    {
+      "start": 1865.68,
+      "end": 1867.52,
+      "text": "because they thought there was so much disruption"
+    },
+    {
+      "start": 1867.52,
+      "end": 1872.08,
+      "text": "you could never trust a company to be a long live asset."
+    },
+    {
+      "start": 1872.08,
+      "end": 1874.32,
+      "text": "What we found over the years is"
+    },
+    {
+      "start": 1874.32,
+      "end": 1876.96,
+      "text": "some of the competitive advantages"
+    },
+    {
+      "start": 1876.96,
+      "end": 1880.2,
+      "text": "within the digital world are more powerful"
+    },
+    {
+      "start": 1880.2,
+      "end": 1882.84,
+      "text": "if not equally or more powerful"
+    },
+    {
+      "start": 1882.84,
+      "end": 1884.72,
+      "text": "than in the offline world."
+    },
+    {
+      "start": 1884.72,
+      "end": 1887.2,
+      "text": "You've got the network effect that was so powerful"
+    },
+    {
+      "start": 1887.2,
+      "end": 1891.24,
+      "text": "for LinkedIn, Facebook, Polybaba, you name it."
+    },
+    {
+      "start": 1891.24,
+      "end": 1894.1599999999999,
+      "text": "Then you can become an industry standard."
+    },
+    {
+      "start": 1894.1599999999999,
+      "end": 1897.1599999999999,
+      "text": "Oracle and Bloomberg are the industry standard."
+    },
+    {
+      "start": 1897.1599999999999,
+      "end": 1900.76,
+      "text": "Oracle charge a lot and there's free versions."
+    },
+    {
+      "start": 1900.76,
+      "end": 1902.1599999999999,
+      "text": "There's open source Oracle"
+    },
+    {
+      "start": 1902.16,
+      "end": 1905.48,
+      "text": "but they had all the database administrators."
+    },
+    {
+      "start": 1905.48,
+      "end": 1908.48,
+      "text": "They had all the software that was tuned to work with them."
+    },
+    {
+      "start": 1908.48,
+      "end": 1909.92,
+      "text": "They basically had a chokehold"
+    },
+    {
+      "start": 1909.92,
+      "end": 1913.4,
+      "text": "on the relational database market forever."
+    },
+    {
+      "start": 1913.4,
+      "end": 1915.3200000000002,
+      "text": "You can get to scale very quickly"
+    },
+    {
+      "start": 1915.3200000000002,
+      "end": 1918.1200000000001,
+      "text": "because these S curves grow"
+    },
+    {
+      "start": 1918.1200000000001,
+      "end": 1921.6000000000001,
+      "text": "and all the sudden in tropics doing 30 billion in sales"
+    },
+    {
+      "start": 1921.6000000000001,
+      "end": 1925.16,
+      "text": "or Amazon had so much scale and then got it quickly."
+    },
+    {
+      "start": 1925.16,
+      "end": 1928.28,
+      "text": "So they got a Walmart size scale advantage"
+    },
+    {
+      "start": 1928.28,
+      "end": 1931.92,
+      "text": "in five years versus 40 years for Walmart."
+    },
+    {
+      "start": 1931.92,
+      "end": 1934.4,
+      "text": "So you can have network effects scale."
+    },
+    {
+      "start": 1934.4,
+      "end": 1937.5600000000002,
+      "text": "You can become industry standard."
+    },
+    {
+      "start": 1937.5600000000002,
+      "end": 1940.76,
+      "text": "You can be a platform that people build on top of."
+    },
+    {
+      "start": 1940.76,
+      "end": 1943.64,
+      "text": "You can have critical intellectual property"
+    },
+    {
+      "start": 1943.64,
+      "end": 1945.24,
+      "text": "which was what Qualcomm had."
+    },
+    {
+      "start": 1945.24,
+      "end": 1947.4,
+      "text": "You couldn't make a phone without paying them"
+    },
+    {
+      "start": 1947.4,
+      "end": 1950.52,
+      "text": "or ASML has critical intellectual property."
+    },
+    {
+      "start": 1950.52,
+      "end": 1953.88,
+      "text": "You can't make a chip without their lithography."
+    },
+    {
+      "start": 1953.88,
+      "end": 1956.72,
+      "text": "You can also have brand and brands very important"
+    },
+    {
+      "start": 1956.72,
+      "end": 1959.48,
+      "text": "because Google, Amazon, they got to grow."
+    },
+    {
+      "start": 1959.48,
+      "end": 1961.5600000000002,
+      "text": "They never had to advertise."
+    },
+    {
+      "start": 1961.56,
+      "end": 1964.04,
+      "text": "Elon's never had to advertise for anything"
+    },
+    {
+      "start": 1964.04,
+      "end": 1966.08,
+      "text": "and cost to acquire versus lifetimes"
+    },
+    {
+      "start": 1966.08,
+      "end": 1967.52,
+      "text": "the whole business model."
+    },
+    {
+      "start": 1967.52,
+      "end": 1969.08,
+      "text": "Almost all the companies I mentioned"
+    },
+    {
+      "start": 1969.08,
+      "end": 1972.1599999999999,
+      "text": "have all of these rolled into one."
+    },
+    {
+      "start": 1972.1599999999999,
+      "end": 1974.44,
+      "text": "Sometimes we can notice these things"
+    },
+    {
+      "start": 1974.44,
+      "end": 1976.2,
+      "text": "before the rest of the world."
+    },
+    {
+      "start": 1976.2,
+      "end": 1980.44,
+      "text": "One of our high points was we pitched Amazon for AWS"
+    },
+    {
+      "start": 1980.44,
+      "end": 1984.56,
+      "text": "a 2013 at the Robinhood Investors Conference"
+    },
+    {
+      "start": 1984.56,
+      "end": 1987.72,
+      "text": "and we said the bulls have no idea what they're sitting on."
+    },
+    {
+      "start": 1987.72,
+      "end": 1990.1599999999999,
+      "text": "Amazon's won the war before it even started"
+    },
+    {
+      "start": 1990.16,
+      "end": 1992.76,
+      "text": "and at that time we said there's Coke and there's no Pepsi."
+    },
+    {
+      "start": 1992.76,
+      "end": 1994.1200000000001,
+      "text": "Did turn out there was Pepsi"
+    },
+    {
+      "start": 1994.1200000000001,
+      "end": 1996.44,
+      "text": "but it was big enough to last"
+    },
+    {
+      "start": 1996.44,
+      "end": 1998.72,
+      "text": "and we could see they had a seven-year lead."
+    },
+    {
+      "start": 1998.72,
+      "end": 2000.68,
+      "text": "So first mover is important."
+    },
+    {
+      "start": 2000.68,
+      "end": 2004.3200000000002,
+      "text": "Then they became a whole ecosystem and a platform."
+    },
+    {
+      "start": 2004.3200000000002,
+      "end": 2005.6000000000001,
+      "text": "Then they got scale."
+    },
+    {
+      "start": 2005.6000000000001,
+      "end": 2007.5600000000002,
+      "text": "So they were 10 times the size of everybody else"
+    },
+    {
+      "start": 2007.5600000000002,
+      "end": 2010.48,
+      "text": "nobody confessed in the R&D to catch them."
+    },
+    {
+      "start": 2010.48,
+      "end": 2013.96,
+      "text": "But you're right that if you don't have a competitive advantage"
+    },
+    {
+      "start": 2013.96,
+      "end": 2016.8000000000002,
+      "text": "you can be in the best S-curve of all time."
+    },
+    {
+      "start": 2016.8000000000002,
+      "end": 2017.64,
+      "text": "It still wears out."
+    },
+    {
+      "start": 2017.68,
+      "end": 2022.2,
+      "text": "But if your name was Rim, Pa, Nokia, HEC, LG, Motorola"
+    },
+    {
+      "start": 2022.2,
+      "end": 2025.0800000000002,
+      "text": "can go on forever, 0, 0, 0, negative, negative,"
+    },
+    {
+      "start": 2025.0800000000002,
+      "end": 2026.3600000000001,
+      "text": "negative, negative, negative."
+    },
+    {
+      "start": 2026.3600000000001,
+      "end": 2028.48,
+      "text": "And that's what we saw at the foundational model layer"
+    },
+    {
+      "start": 2028.48,
+      "end": 2031.8000000000002,
+      "text": "where there's like 50 companies trying to do that"
+    },
+    {
+      "start": 2031.8000000000002,
+      "end": 2035.0,
+      "text": "and they all have fallen away"
+    },
+    {
+      "start": 2035.0,
+      "end": 2038.6000000000001,
+      "text": "and two or three have emerged at the top."
+    },
+    {
+      "start": 2038.6000000000001,
+      "end": 2039.96,
+      "text": "There's a lot of reasons to think"
+    },
+    {
+      "start": 2039.96,
+      "end": 2042.96,
+      "text": "they will continue to hold their position."
+    },
+    {
+      "start": 2042.96,
+      "end": 2044.0,
+      "text": "Google's a little trickier"
+    },
+    {
+      "start": 2044.0,
+      "end": 2046.24,
+      "text": "because they have this other huge"
+    },
+    {
+      "start": 2046.24,
+      "end": 2048.68,
+      "text": "massive complex business attached to the Gemini business."
+    },
+    {
+      "start": 2048.68,
+      "end": 2052.24,
+      "text": "But if you take Anthropical Open AI as pure place"
+    },
+    {
+      "start": 2052.24,
+      "end": 2053.6,
+      "text": "and you dig through those"
+    },
+    {
+      "start": 2053.6,
+      "end": 2056.16,
+      "text": "and you reason through their competitive advantages,"
+    },
+    {
+      "start": 2056.16,
+      "end": 2059.48,
+      "text": "why aren't they susceptible to erosion of those things?"
+    },
+    {
+      "start": 2059.48,
+      "end": 2062.48,
+      "text": "Of all the S-curves we've done,"
+    },
+    {
+      "start": 2062.48,
+      "end": 2067.04,
+      "text": "AI is by far the most complex and the fastest changing."
+    },
+    {
+      "start": 2067.04,
+      "end": 2070.84,
+      "text": "We have to keep in mind that there are risks."
+    },
+    {
+      "start": 2070.84,
+      "end": 2073.24,
+      "text": "The rewards are the highest"
+    },
+    {
+      "start": 2073.2400000000002,
+      "end": 2076.6800000000003,
+      "text": "because we're talking about a market in the trillions,"
+    },
+    {
+      "start": 2076.6800000000003,
+      "end": 2078.4,
+      "text": "maybe clouds 800 billion."
+    },
+    {
+      "start": 2078.4,
+      "end": 2081.0000000000005,
+      "text": "This might be, we now think three to five,"
+    },
+    {
+      "start": 2081.0000000000005,
+      "end": 2083.0000000000005,
+      "text": "but there's higher risk, higher reward."
+    },
+    {
+      "start": 2083.0000000000005,
+      "end": 2085.92,
+      "text": "But let's just say with Anthropic now,"
+    },
+    {
+      "start": 2085.92,
+      "end": 2089.2000000000003,
+      "text": "it looks like they have critical intellectual property."
+    },
+    {
+      "start": 2089.2000000000003,
+      "end": 2091.4,
+      "text": "Generally they've been able to maintain"
+    },
+    {
+      "start": 2091.4,
+      "end": 2093.7200000000003,
+      "text": "their high market sharing code."
+    },
+    {
+      "start": 2093.7200000000003,
+      "end": 2097.6000000000004,
+      "text": "Number two is they've built a strong brand"
+    },
+    {
+      "start": 2097.6000000000004,
+      "end": 2100.84,
+      "text": "for enterprise to where go talk to any CIO"
+    },
+    {
+      "start": 2101.0,
+      "end": 2103.6000000000004,
+      "text": "the first thing I'll say is Clawed."
+    },
+    {
+      "start": 2103.6000000000004,
+      "end": 2107.1200000000003,
+      "text": "Three, they're gonna have escape velocity and scale."
+    },
+    {
+      "start": 2107.1200000000003,
+      "end": 2109.92,
+      "text": "And what was scary for Open AI and Anthropic"
+    },
+    {
+      "start": 2109.92,
+      "end": 2112.28,
+      "text": "fighting these big companies like Google"
+    },
+    {
+      "start": 2112.28,
+      "end": 2114.8,
+      "text": "was they had these huge cash cows"
+    },
+    {
+      "start": 2114.8,
+      "end": 2116.6000000000004,
+      "text": "and to both of the management teams"
+    },
+    {
+      "start": 2116.6000000000004,
+      "end": 2118.1200000000003,
+      "text": "credited Open AI and Anthropic,"
+    },
+    {
+      "start": 2118.1200000000003,
+      "end": 2121.6400000000003,
+      "text": "they were able to work in these super capital"
+    },
+    {
+      "start": 2121.6400000000003,
+      "end": 2125.2400000000002,
+      "text": "intensive industries and find ways to raise capital."
+    },
+    {
+      "start": 2125.2400000000002,
+      "end": 2127.08,
+      "text": "And certainly with Anthropic,"
+    },
+    {
+      "start": 2127.08,
+      "end": 2129.2400000000002,
+      "text": "with their 10x sales growth"
+    },
+    {
+      "start": 2129.2400000000002,
+      "end": 2130.44,
+      "text": "and their fundraising ability,"
+    },
+    {
+      "start": 2130.44,
+      "end": 2132.7200000000003,
+      "text": "it looks like they've reached escape velocity."
+    },
+    {
+      "start": 2132.7200000000003,
+      "end": 2134.4,
+      "text": "So now they have scale."
+    },
+    {
+      "start": 2135.4,
+      "end": 2140.2000000000003,
+      "text": "And the other thing that Anthropic and Open AI could have"
+    },
+    {
+      "start": 2140.2000000000003,
+      "end": 2143.32,
+      "text": "is Anthropic now that they're leading in code,"
+    },
+    {
+      "start": 2143.32,
+      "end": 2146.08,
+      "text": "they set that code back onto their model"
+    },
+    {
+      "start": 2146.08,
+      "end": 2149.32,
+      "text": "and it's this concept of the recursive improvement."
+    },
+    {
+      "start": 2149.32,
+      "end": 2152.2400000000002,
+      "text": "And if you look at the pace of their innovation,"
+    },
+    {
+      "start": 2152.2400000000002,
+      "end": 2153.96,
+      "text": "it's accelerating."
+    },
+    {
+      "start": 2153.96,
+      "end": 2157.36,
+      "text": "Maybe they can have this lift off stage."
+    },
+    {
+      "start": 2157.36,
+      "end": 2159.1200000000003,
+      "text": "Open AI, they were focused"
+    },
+    {
+      "start": 2159.1200000000003,
+      "end": 2162.28,
+      "text": "on so many different other sectors."
+    },
+    {
+      "start": 2162.28,
+      "end": 2165.2400000000002,
+      "text": "They're starting to do better in enterprise"
+    },
+    {
+      "start": 2165.2400000000002,
+      "end": 2166.56,
+      "text": "and their coding tools good"
+    },
+    {
+      "start": 2166.56,
+      "end": 2168.88,
+      "text": "and they're starting to see accelerating growth"
+    },
+    {
+      "start": 2168.88,
+      "end": 2170.28,
+      "text": "on that side."
+    },
+    {
+      "start": 2170.28,
+      "end": 2173.28,
+      "text": "And then look the consumer franchise,"
+    },
+    {
+      "start": 2173.28,
+      "end": 2175.28,
+      "text": "it looks like enterprise right now is much better"
+    },
+    {
+      "start": 2175.28,
+      "end": 2178.04,
+      "text": "because you and I were willing to pay a lot"
+    },
+    {
+      "start": 2178.04,
+      "end": 2180.1600000000003,
+      "text": "because it's replacing human beings."
+    },
+    {
+      "start": 2180.1600000000003,
+      "end": 2183.1600000000003,
+      "text": "Now consumer, maybe you can get advertising,"
+    },
+    {
+      "start": 2183.1600000000003,
+      "end": 2187.08,
+      "text": "but maybe they would pay for a Clawbot type"
+    },
+    {
+      "start": 2187.08,
+      "end": 2190.36,
+      "text": "system if you could make that perfectly well for them."
+    },
+    {
+      "start": 2190.36,
+      "end": 2193.2799999999997,
+      "text": "But they have gazillion eyeballs there."
+    },
+    {
+      "start": 2193.2799999999997,
+      "end": 2194.6,
+      "text": "Things do shift."
+    },
+    {
+      "start": 2194.6,
+      "end": 2197.92,
+      "text": "We have this charts that we almost do for all of our pitches."
+    },
+    {
+      "start": 2197.92,
+      "end": 2201.56,
+      "text": "On the internet, the leader goes bigger, faster, and wins."
+    },
+    {
+      "start": 2201.56,
+      "end": 2202.96,
+      "text": "Most of the time the leader gets it."
+    },
+    {
+      "start": 2202.96,
+      "end": 2205.16,
+      "text": "Shopify becomes the leader, it just keeps on going."
+    },
+    {
+      "start": 2205.16,
+      "end": 2206.88,
+      "text": "Amazon, the leader keeps on going."
+    },
+    {
+      "start": 2206.88,
+      "end": 2210.68,
+      "text": "SaaS company, XYZ, you get the lead at compounds on itself."
+    },
+    {
+      "start": 2210.68,
+      "end": 2212.56,
+      "text": "And another thing is you need to be big."
+    },
+    {
+      "start": 2212.56,
+      "end": 2214.64,
+      "text": "Another is scale, you need the compute"
+    },
+    {
+      "start": 2214.64,
+      "end": 2216.08,
+      "text": "and you got to pay for the compute."
+    },
+    {
+      "start": 2216.12,
+      "end": 2218.7599999999998,
+      "text": "So there's only so many people that can do that."
+    },
+    {
+      "start": 2218.7599999999998,
+      "end": 2220.6,
+      "text": "Those are some of the modes that we think"
+    },
+    {
+      "start": 2220.6,
+      "end": 2223.48,
+      "text": "are now showing up in this business."
+    },
+    {
+      "start": 2223.48,
+      "end": 2226.12,
+      "text": "Now there are some exceptions to that rule,"
+    },
+    {
+      "start": 2226.12,
+      "end": 2228.6,
+      "text": "usually with the paradigm shift, AOL,"
+    },
+    {
+      "start": 2228.6,
+      "end": 2230.64,
+      "text": "and then dial up went to broadband"
+    },
+    {
+      "start": 2230.64,
+      "end": 2232.72,
+      "text": "and they didn't make the change."
+    },
+    {
+      "start": 2232.72,
+      "end": 2235.88,
+      "text": "Netscape came out early and it wasn't as strong"
+    },
+    {
+      "start": 2235.88,
+      "end": 2237.68,
+      "text": "of a business model."
+    },
+    {
+      "start": 2237.68,
+      "end": 2241.72,
+      "text": "And if you talk to anyone in the valley or any startups,"
+    },
+    {
+      "start": 2241.72,
+      "end": 2243.92,
+      "text": "they'll tell you that they're building on top"
+    },
+    {
+      "start": 2243.92,
+      "end": 2246.7200000000003,
+      "text": "of these three and the world's a huge place"
+    },
+    {
+      "start": 2246.7200000000003,
+      "end": 2247.96,
+      "text": "and the economy's a huge place"
+    },
+    {
+      "start": 2247.96,
+      "end": 2250.6800000000003,
+      "text": "that they'll be able to differentiate within those."
+    },
+    {
+      "start": 2250.6800000000003,
+      "end": 2252.04,
+      "text": "I'm so curious then what you think"
+    },
+    {
+      "start": 2252.04,
+      "end": 2254.04,
+      "text": "all of this means for software."
+    },
+    {
+      "start": 2254.04,
+      "end": 2255.28,
+      "text": "When I look through your portfolio,"
+    },
+    {
+      "start": 2255.28,
+      "end": 2257.96,
+      "text": "I don't see a ton of big software companies,"
+    },
+    {
+      "start": 2257.96,
+      "end": 2259.4,
+      "text": "enterprise software companies."
+    },
+    {
+      "start": 2259.4,
+      "end": 2261.36,
+      "text": "I don't know if you once had them and sold them,"
+    },
+    {
+      "start": 2261.36,
+      "end": 2263.48,
+      "text": "but it's hard to have the experience"
+    },
+    {
+      "start": 2263.48,
+      "end": 2266.88,
+      "text": "of building really useful, cool little tools"
+    },
+    {
+      "start": 2266.88,
+      "end": 2269.88,
+      "text": "even if they're still toys and not have the thought of,"
+    },
+    {
+      "start": 2269.88,
+      "end": 2271.92,
+      "text": "wow, if I spend enough time on this,"
+    },
+    {
+      "start": 2271.92,
+      "end": 2273.64,
+      "text": "even if I'm not technical,"
+    },
+    {
+      "start": 2273.64,
+      "end": 2277.08,
+      "text": "if I could build a ERP equivalent replacement"
+    },
+    {
+      "start": 2277.08,
+      "end": 2279.0,
+      "text": "or something for my company,"
+    },
+    {
+      "start": 2279.0,
+      "end": 2280.7599999999998,
+      "text": "there doesn't seem to be a fundamental reason"
+    },
+    {
+      "start": 2280.7599999999998,
+      "end": 2282.08,
+      "text": "why that's not possible"
+    },
+    {
+      "start": 2282.08,
+      "end": 2284.68,
+      "text": "and then those companies could be in lots of trouble."
+    },
+    {
+      "start": 2284.68,
+      "end": 2286.52,
+      "text": "Seems like everyone has a strong view on this one"
+    },
+    {
+      "start": 2286.52,
+      "end": 2288.6,
+      "text": "where the other I'm curious how you've approached"
+    },
+    {
+      "start": 2288.6,
+      "end": 2289.8399999999997,
+      "text": "those sorts of companies,"
+    },
+    {
+      "start": 2289.8399999999997,
+      "end": 2292.12,
+      "text": "given that you don't seem to own a ton of them."
+    },
+    {
+      "start": 2292.12,
+      "end": 2294.92,
+      "text": "Five years ago, we might have had 40 or 50%"
+    },
+    {
+      "start": 2294.92,
+      "end": 2297.16,
+      "text": "of our portfolio and software."
+    },
+    {
+      "start": 2297.16,
+      "end": 2302.16,
+      "text": "And early on in our April 2023 webinar,"
+    },
+    {
+      "start": 2302.3999999999996,
+      "end": 2305.0,
+      "text": "we said definitely invest in chips first,"
+    },
+    {
+      "start": 2305.0,
+      "end": 2307.04,
+      "text": "but at the application layer,"
+    },
+    {
+      "start": 2307.04,
+      "end": 2309.7999999999997,
+      "text": "initially we thought these companies are huge,"
+    },
+    {
+      "start": 2309.7999999999997,
+      "end": 2311.3199999999997,
+      "text": "they have huge sales forces,"
+    },
+    {
+      "start": 2311.3199999999997,
+      "end": 2314.72,
+      "text": "they can take these AI APIs and build products"
+    },
+    {
+      "start": 2314.72,
+      "end": 2316.12,
+      "text": "and they have the data,"
+    },
+    {
+      "start": 2316.12,
+      "end": 2318.48,
+      "text": "this is gonna be amazing for software."
+    },
+    {
+      "start": 2318.48,
+      "end": 2323.48,
+      "text": "Pretty quickly we realized their AI products were"
+    },
+    {
+      "start": 2324.44,
+      "end": 2326.92,
+      "text": "not very good, they weren't moving the needle,"
+    },
+    {
+      "start": 2326.92,
+      "end": 2328.72,
+      "text": "nobody could charge for them."
+    },
+    {
+      "start": 2328.76,
+      "end": 2332.4800000000005,
+      "text": "We basically sold almost all of our software"
+    },
+    {
+      "start": 2332.4800000000005,
+      "end": 2334.7200000000003,
+      "text": "entering this year, we were in that short."
+    },
+    {
+      "start": 2334.7200000000003,
+      "end": 2337.76,
+      "text": "It really helped us in the first quarter."
+    },
+    {
+      "start": 2337.76,
+      "end": 2340.32,
+      "text": "There's so many layers to this."
+    },
+    {
+      "start": 2340.32,
+      "end": 2344.92,
+      "text": "I mean, the old way of software is like using a pen and paper"
+    },
+    {
+      "start": 2344.92,
+      "end": 2347.4800000000005,
+      "text": "or it's like a horse and buggy."
+    },
+    {
+      "start": 2347.4800000000005,
+      "end": 2350.0400000000004,
+      "text": "The new way of software is like a jet engine"
+    },
+    {
+      "start": 2350.0400000000004,
+      "end": 2353.4,
+      "text": "or frankly, the transporter from Star Trek."
+    },
+    {
+      "start": 2353.4,
+      "end": 2357.2000000000003,
+      "text": "It's so revolutionary changing"
+    },
+    {
+      "start": 2357.2000000000003,
+      "end": 2360.1600000000003,
+      "text": "that it feels like it has to be disruptive."
+    },
+    {
+      "start": 2360.1600000000003,
+      "end": 2363.6000000000004,
+      "text": "If it's not disruptive now or right away,"
+    },
+    {
+      "start": 2363.6000000000004,
+      "end": 2365.36,
+      "text": "the software companies have another problem"
+    },
+    {
+      "start": 2365.36,
+      "end": 2369.0800000000004,
+      "text": "which is their list on the to do list"
+    },
+    {
+      "start": 2369.0800000000004,
+      "end": 2372.6000000000004,
+      "text": "or priority list of any CIO has fallen a lot."
+    },
+    {
+      "start": 2372.6000000000004,
+      "end": 2376.9600000000005,
+      "text": "So even if AI is not going to be disruptive,"
+    },
+    {
+      "start": 2376.9600000000005,
+      "end": 2379.88,
+      "text": "they're spending it on anthropic tokens"
+    },
+    {
+      "start": 2379.88,
+      "end": 2382.6400000000003,
+      "text": "because there's faster ROI there."
+    },
+    {
+      "start": 2382.6400000000003,
+      "end": 2386.0800000000004,
+      "text": "Second, if they're spending all that money over there,"
+    },
+    {
+      "start": 2386.08,
+      "end": 2388.12,
+      "text": "it pushes on the budget."
+    },
+    {
+      "start": 2388.12,
+      "end": 2389.6,
+      "text": "So that hurts them."
+    },
+    {
+      "start": 2389.6,
+      "end": 2392.56,
+      "text": "Third, a lot of software companies"
+    },
+    {
+      "start": 2392.56,
+      "end": 2395.48,
+      "text": "were able to raise price every year."
+    },
+    {
+      "start": 2395.48,
+      "end": 2399.2799999999997,
+      "text": "And now they're probably nervous about doing that."
+    },
+    {
+      "start": 2399.2799999999997,
+      "end": 2402.7999999999997,
+      "text": "Then fourth, we'll see what happens with jobs"
+    },
+    {
+      "start": 2402.7999999999997,
+      "end": 2406.36,
+      "text": "because there's smart people on both sides of that."
+    },
+    {
+      "start": 2406.36,
+      "end": 2410.2799999999997,
+      "text": "But we are seeing some companies really got their jobs."
+    },
+    {
+      "start": 2410.2799999999997,
+      "end": 2411.52,
+      "text": "Free hiring or whatever."
+    },
+    {
+      "start": 2411.52,
+      "end": 2414.24,
+      "text": "Free hiring and so that hurts on seats."
+    },
+    {
+      "start": 2414.2400000000002,
+      "end": 2416.36,
+      "text": "In terms of them building their own apps,"
+    },
+    {
+      "start": 2416.36,
+      "end": 2417.48,
+      "text": "if you want to be optimistic,"
+    },
+    {
+      "start": 2417.48,
+      "end": 2419.44,
+      "text": "it's taken them a while to do that."
+    },
+    {
+      "start": 2419.44,
+      "end": 2421.88,
+      "text": "We talked about how early the primitives in AR."
+    },
+    {
+      "start": 2421.88,
+      "end": 2424.5600000000004,
+      "text": "So maybe they have just taken a while"
+    },
+    {
+      "start": 2424.5600000000004,
+      "end": 2427.44,
+      "text": "to get something they can commercialize."
+    },
+    {
+      "start": 2427.44,
+      "end": 2430.1200000000003,
+      "text": "But they might not have the right people."
+    },
+    {
+      "start": 2430.1200000000003,
+      "end": 2431.6800000000003,
+      "text": "It's a different selling motion"
+    },
+    {
+      "start": 2431.6800000000003,
+      "end": 2435.5600000000004,
+      "text": "from selling a fixed system versus if you're installing"
+    },
+    {
+      "start": 2435.5600000000004,
+      "end": 2437.32,
+      "text": "something that does human work,"
+    },
+    {
+      "start": 2437.32,
+      "end": 2438.48,
+      "text": "you got to be right at the side"
+    },
+    {
+      "start": 2438.48,
+      "end": 2440.6000000000004,
+      "text": "to make sure it's really getting done."
+    },
+    {
+      "start": 2440.64,
+      "end": 2444.88,
+      "text": "You need the FDEs for deployed engineers."
+    },
+    {
+      "start": 2444.88,
+      "end": 2448.7599999999998,
+      "text": "They might not have the right people internally to do that."
+    },
+    {
+      "start": 2448.7599999999998,
+      "end": 2450.36,
+      "text": "Then of course there's the risk"
+    },
+    {
+      "start": 2450.36,
+      "end": 2452.72,
+      "text": "of you can build it yourself."
+    },
+    {
+      "start": 2452.72,
+      "end": 2454.04,
+      "text": "The bulls will say,"
+    },
+    {
+      "start": 2454.04,
+      "end": 2457.0,
+      "text": "well, they're never gonna build their own ERP system."
+    },
+    {
+      "start": 2457.0,
+      "end": 2458.0,
+      "text": "And that's probably right."
+    },
+    {
+      "start": 2458.0,
+      "end": 2461.68,
+      "text": "And it is true that old tech is very sticky."
+    },
+    {
+      "start": 2461.68,
+      "end": 2464.64,
+      "text": "Mobile video games didn't hurt console games"
+    },
+    {
+      "start": 2464.64,
+      "end": 2467.2799999999997,
+      "text": "and the tablet didn't hurt the PC"
+    },
+    {
+      "start": 2467.2799999999997,
+      "end": 2469.8399999999997,
+      "text": "and the smartphone didn't hurt the PC."
+    },
+    {
+      "start": 2469.84,
+      "end": 2472.0,
+      "text": "There's a lot of integrations and work"
+    },
+    {
+      "start": 2472.0,
+      "end": 2474.0,
+      "text": "that goes into the software."
+    },
+    {
+      "start": 2474.0,
+      "end": 2475.48,
+      "text": "That's all true."
+    },
+    {
+      "start": 2475.48,
+      "end": 2478.1200000000003,
+      "text": "And companies do like to buy."
+    },
+    {
+      "start": 2478.1200000000003,
+      "end": 2480.76,
+      "text": "They don't like to build themselves that much."
+    },
+    {
+      "start": 2480.76,
+      "end": 2481.7200000000003,
+      "text": "That's all true."
+    },
+    {
+      "start": 2481.7200000000003,
+      "end": 2483.6400000000003,
+      "text": "But you can't imagine a world"
+    },
+    {
+      "start": 2483.6400000000003,
+      "end": 2486.92,
+      "text": "where in one, two, three, four, five years,"
+    },
+    {
+      "start": 2486.92,
+      "end": 2489.8,
+      "text": "you could have a brand new AI native company"
+    },
+    {
+      "start": 2489.8,
+      "end": 2493.96,
+      "text": "going after each one of these very strong incumbents"
+    },
+    {
+      "start": 2493.96,
+      "end": 2495.92,
+      "text": "and if their data advantage could get obviated,"
+    },
+    {
+      "start": 2495.92,
+      "end": 2498.44,
+      "text": "it might be easy to take it out"
+    },
+    {
+      "start": 2498.44,
+      "end": 2500.88,
+      "text": "and put the new one in with AI."
+    },
+    {
+      "start": 2500.88,
+      "end": 2502.48,
+      "text": "The valuations are very high"
+    },
+    {
+      "start": 2502.48,
+      "end": 2505.12,
+      "text": "and everybody knows their under pressure."
+    },
+    {
+      "start": 2505.12,
+      "end": 2507.04,
+      "text": "Some people are tempted to buy these"
+    },
+    {
+      "start": 2507.04,
+      "end": 2510.76,
+      "text": "but the AI coding tools are just getting better and better."
+    },
+    {
+      "start": 2510.76,
+      "end": 2512.28,
+      "text": "We'll have to wait and see."
+    },
+    {
+      "start": 2512.28,
+      "end": 2516.0,
+      "text": "We're watching these software companies very closely"
+    },
+    {
+      "start": 2516.0,
+      "end": 2517.6,
+      "text": "to see if they're getting any revenue"
+    },
+    {
+      "start": 2517.6,
+      "end": 2519.6,
+      "text": "that can change that trajectory."
+    },
+    {
+      "start": 2519.6,
+      "end": 2522.64,
+      "text": "But it's hard because if you're a company like Salesforce,"
+    },
+    {
+      "start": 2522.64,
+      "end": 2525.0,
+      "text": "you've got 40 billion in sales."
+    },
+    {
+      "start": 2525.0,
+      "end": 2529.64,
+      "text": "You might have 500 of ARR, 700 to AR of AI."
+    },
+    {
+      "start": 2529.64,
+      "end": 2531.48,
+      "text": "So you've got this huge base."
+    },
+    {
+      "start": 2531.48,
+      "end": 2533.2,
+      "text": "Now maybe this starts to work"
+    },
+    {
+      "start": 2533.2,
+      "end": 2535.08,
+      "text": "but it takes a while."
+    },
+    {
+      "start": 2535.08,
+      "end": 2537.36,
+      "text": "In software, there's the rule of 40"
+    },
+    {
+      "start": 2537.36,
+      "end": 2539.64,
+      "text": "which is your growth rate"
+    },
+    {
+      "start": 2539.64,
+      "end": 2541.28,
+      "text": "plus your operating margin"
+    },
+    {
+      "start": 2541.28,
+      "end": 2544.16,
+      "text": "and if you have 20% growth rate, 20% and that's good."
+    },
+    {
+      "start": 2544.16,
+      "end": 2547.24,
+      "text": "For AI, we have a new rule of 40."
+    },
+    {
+      "start": 2547.24,
+      "end": 2550.2,
+      "text": "What percent of your sales are AI?"
+    },
+    {
+      "start": 2550.2,
+      "end": 2553.6,
+      "text": "30% and what's your market share in that category?"
+    },
+    {
+      "start": 2553.6,
+      "end": 2554.84,
+      "text": "Say 30%."
+    },
+    {
+      "start": 2554.84,
+      "end": 2555.6800000000003,
+      "text": "You'd be 60."
+    },
+    {
+      "start": 2555.6800000000003,
+      "end": 2557.56,
+      "text": "That's a great place to look"
+    },
+    {
+      "start": 2557.56,
+      "end": 2558.56,
+      "text": "because you've got exposure"
+    },
+    {
+      "start": 2558.56,
+      "end": 2560.92,
+      "text": "and you've got a strong market position."
+    },
+    {
+      "start": 2560.92,
+      "end": 2564.2400000000002,
+      "text": "Problem with software is their AI's one or two percent"
+    },
+    {
+      "start": 2564.2400000000002,
+      "end": 2566.52,
+      "text": "at this stage and it's a long way to go."
+    },
+    {
+      "start": 2566.52,
+      "end": 2569.8,
+      "text": "One thing we are picking up though now lately,"
+    },
+    {
+      "start": 2569.8,
+      "end": 2570.88,
+      "text": "this is a half big"
+    },
+    {
+      "start": 2570.88,
+      "end": 2573.96,
+      "text": "but AI could make some of these software platforms"
+    },
+    {
+      "start": 2573.96,
+      "end": 2576.1600000000003,
+      "text": "more important because what's the first thing you do"
+    },
+    {
+      "start": 2576.1600000000003,
+      "end": 2578.7200000000003,
+      "text": "with cloud, you plug it into Slack."
+    },
+    {
+      "start": 2578.7200000000003,
+      "end": 2581.32,
+      "text": "If that can become a key repository"
+    },
+    {
+      "start": 2581.32,
+      "end": 2584.6800000000003,
+      "text": "that will make Slack a permanent fixture"
+    },
+    {
+      "start": 2584.68,
+      "end": 2585.7599999999998,
+      "text": "within the organization"
+    },
+    {
+      "start": 2585.7599999999998,
+      "end": 2587.72,
+      "text": "and so maybe the next wave of AI"
+    },
+    {
+      "start": 2587.72,
+      "end": 2590.08,
+      "text": "will be these agents that use tools"
+    },
+    {
+      "start": 2590.08,
+      "end": 2594.2,
+      "text": "and they might operate inside of the existing incumbent."
+    },
+    {
+      "start": 2594.2,
+      "end": 2597.2799999999997,
+      "text": "Software tools to use them like a human being would."
+    },
+    {
+      "start": 2597.2799999999997,
+      "end": 2598.52,
+      "text": "Just to pull in that thread"
+    },
+    {
+      "start": 2598.52,
+      "end": 2600.6,
+      "text": "seems like the commonality of the tools they might use"
+    },
+    {
+      "start": 2600.6,
+      "end": 2603.3199999999997,
+      "text": "that are the most sticky would be network based tools."
+    },
+    {
+      "start": 2603.3199999999997,
+      "end": 2606.68,
+      "text": "So Slack is a great example of the software and Slack itself."
+    },
+    {
+      "start": 2606.68,
+      "end": 2608.52,
+      "text": "The software is not the special part."
+    },
+    {
+      "start": 2608.52,
+      "end": 2610.56,
+      "text": "It's that everyone is there."
+    },
+    {
+      "start": 2610.56,
+      "end": 2613.56,
+      "text": "I'm curious what kinds of things you would want"
+    },
+    {
+      "start": 2613.56,
+      "end": 2615.52,
+      "text": "is it just the presence of a network effect"
+    },
+    {
+      "start": 2615.52,
+      "end": 2618.12,
+      "text": "is that the only thing that really matters."
+    },
+    {
+      "start": 2619.0,
+      "end": 2620.6,
+      "text": "Still early in our thinking here"
+    },
+    {
+      "start": 2620.6,
+      "end": 2625.2799999999997,
+      "text": "but even maybe work day or the HR systems"
+    },
+    {
+      "start": 2625.2799999999997,
+      "end": 2627.88,
+      "text": "or the big systems of record,"
+    },
+    {
+      "start": 2627.88,
+      "end": 2630.7599999999998,
+      "text": "the agents may be running on top of them."
+    },
+    {
+      "start": 2630.7599999999998,
+      "end": 2631.68,
+      "text": "It's good and bad."
+    },
+    {
+      "start": 2631.68,
+      "end": 2634.2799999999997,
+      "text": "I mean, CRM is going headless"
+    },
+    {
+      "start": 2634.2799999999997,
+      "end": 2636.6,
+      "text": "or they're making a headless version"
+    },
+    {
+      "start": 2636.6,
+      "end": 2638.0,
+      "text": "and that's the bear case too"
+    },
+    {
+      "start": 2638.0,
+      "end": 2640.7999999999997,
+      "text": "that you get relegated to just being a database."
+    },
+    {
+      "start": 2640.7999999999997,
+      "end": 2642.64,
+      "text": "There's a human interface to it"
+    },
+    {
+      "start": 2642.64,
+      "end": 2644.68,
+      "text": "then they need to make the AI interface"
+    },
+    {
+      "start": 2644.68,
+      "end": 2645.8399999999997,
+      "text": "which is no interface."
+    },
+    {
+      "start": 2645.8399999999997,
+      "end": 2649.2,
+      "text": "It's just them going right into the data."
+    },
+    {
+      "start": 2649.2,
+      "end": 2651.68,
+      "text": "You lose that customer interaction"
+    },
+    {
+      "start": 2651.68,
+      "end": 2654.52,
+      "text": "but if the agents are going right to CRM"
+    },
+    {
+      "start": 2654.52,
+      "end": 2657.0,
+      "text": "and doing the work inside of CRM"
+    },
+    {
+      "start": 2657.0,
+      "end": 2658.8799999999997,
+      "text": "that will solidify CRM"
+    },
+    {
+      "start": 2658.8799999999997,
+      "end": 2661.2,
+      "text": "so you won't have to think it's going away."
+    },
+    {
+      "start": 2661.2,
+      "end": 2662.08,
+      "text": "Can we talk about chips?"
+    },
+    {
+      "start": 2662.08,
+      "end": 2663.64,
+      "text": "You've referenced them a few times."
+    },
+    {
+      "start": 2663.64,
+      "end": 2664.8799999999997,
+      "text": "Infrastructure chips."
+    },
+    {
+      "start": 2664.8799999999997,
+      "end": 2666.12,
+      "text": "Everything around the data center"
+    },
+    {
+      "start": 2666.12,
+      "end": 2668.16,
+      "text": "maybe I don't know how you can see of it."
+    },
+    {
+      "start": 2668.16,
+      "end": 2669.7999999999997,
+      "text": "Why is this so interesting to you?"
+    },
+    {
+      "start": 2669.88,
+      "end": 2673.04,
+      "text": "I love the modified rule of 44 percentage"
+    },
+    {
+      "start": 2673.04,
+      "end": 2675.1200000000003,
+      "text": "that say I'm percentage market share in the category."
+    },
+    {
+      "start": 2675.1200000000003,
+      "end": 2678.32,
+      "text": "It's interesting that what company shine on that?"
+    },
+    {
+      "start": 2678.32,
+      "end": 2680.6000000000004,
+      "text": "What are laggards that are surprising?"
+    },
+    {
+      "start": 2681.6000000000004,
+      "end": 2683.76,
+      "text": "For the past 40 years"
+    },
+    {
+      "start": 2683.76,
+      "end": 2686.6000000000004,
+      "text": "nothing has changed in the data center."
+    },
+    {
+      "start": 2686.6000000000004,
+      "end": 2690.32,
+      "text": "Even with cloud Intel X86"
+    },
+    {
+      "start": 2690.32,
+      "end": 2693.6000000000004,
+      "text": "became the data center chip sometime in the 90s"
+    },
+    {
+      "start": 2693.6000000000004,
+      "end": 2696.76,
+      "text": "and compute grew in the cloud era"
+    },
+    {
+      "start": 2696.76,
+      "end": 2701.76,
+      "text": "and compute workloads grow 25 to 40% every year"
+    },
+    {
+      "start": 2702.48,
+      "end": 2705.4,
+      "text": "but Moore's Law is improving at that rate."
+    },
+    {
+      "start": 2705.4,
+      "end": 2708.6800000000003,
+      "text": "It didn't require tremendous innovation"
+    },
+    {
+      "start": 2708.6800000000003,
+      "end": 2712.1600000000003,
+      "text": "and there really was almost no growth in hardware"
+    },
+    {
+      "start": 2712.1600000000003,
+      "end": 2714.2400000000002,
+      "text": "for years and years and years."
+    },
+    {
+      "start": 2714.2400000000002,
+      "end": 2718.1200000000003,
+      "text": "And the whole industry basically commoditized"
+    },
+    {
+      "start": 2718.1200000000003,
+      "end": 2722.32,
+      "text": "every part, every chip, every part of the server"
+    },
+    {
+      "start": 2722.32,
+      "end": 2724.96,
+      "text": "the printed circuit board to the memory"
+    },
+    {
+      "start": 2725.2400000000002,
+      "end": 2727.96,
+      "text": "to the enclosures, to the networking."
+    },
+    {
+      "start": 2727.96,
+      "end": 2729.68,
+      "text": "There was no innovation."
+    },
+    {
+      "start": 2729.68,
+      "end": 2732.28,
+      "text": "You would go from one gig to 10 gig."
+    },
+    {
+      "start": 2733.28,
+      "end": 2735.08,
+      "text": "That would take seven years."
+    },
+    {
+      "start": 2735.08,
+      "end": 2737.96,
+      "text": "And when you do switch in the first year"
+    },
+    {
+      "start": 2737.96,
+      "end": 2740.0,
+      "text": "it does take some innovation to get to 10 gig"
+    },
+    {
+      "start": 2740.0,
+      "end": 2741.16,
+      "text": "and we'll create a little cycle"
+    },
+    {
+      "start": 2741.16,
+      "end": 2743.32,
+      "text": "but then it would commoditize."
+    },
+    {
+      "start": 2743.32,
+      "end": 2745.32,
+      "text": "Now you go to AI."
+    },
+    {
+      "start": 2745.32,
+      "end": 2749.76,
+      "text": "The workloads are growing 10X every year"
+    },
+    {
+      "start": 2749.76,
+      "end": 2754.6,
+      "text": "and they're pushing every single aspect of this hardware"
+    },
+    {
+      "start": 2754.6,
+      "end": 2757.7599999999998,
+      "text": "to the physical limits of what it can do."
+    },
+    {
+      "start": 2757.7599999999998,
+      "end": 2762.7599999999998,
+      "text": "Not only are you creating tremendous unit growth"
+    },
+    {
+      "start": 2762.7599999999998,
+      "end": 2764.88,
+      "text": "but we call it the decommoditization"
+    },
+    {
+      "start": 2764.88,
+      "end": 2766.68,
+      "text": "of the hardware industry."
+    },
+    {
+      "start": 2766.68,
+      "end": 2768.96,
+      "text": "I met with Sean McGuire like three years ago"
+    },
+    {
+      "start": 2768.96,
+      "end": 2770.24,
+      "text": "and he said I wish I could come back"
+    },
+    {
+      "start": 2770.24,
+      "end": 2772.7599999999998,
+      "text": "and be a hardware hedge fund"
+    },
+    {
+      "start": 2772.7599999999998,
+      "end": 2774.7999999999997,
+      "text": "because all the companies are public"
+    },
+    {
+      "start": 2774.7999999999997,
+      "end": 2776.92,
+      "text": "and they all have powerful IP"
+    },
+    {
+      "start": 2776.92,
+      "end": 2778.7599999999998,
+      "text": "and Sequoia made some of their best investments"
+    },
+    {
+      "start": 2778.7599999999998,
+      "end": 2782.48,
+      "text": "back in the hardware day with Apple and Cisco and others"
+    },
+    {
+      "start": 2782.76,
+      "end": 2785.68,
+      "text": "and we're in this renaissance of chips"
+    },
+    {
+      "start": 2785.68,
+      "end": 2790.16,
+      "text": "so not only do you have tremendous unit growth,"
+    },
+    {
+      "start": 2790.16,
+      "end": 2792.44,
+      "text": "it's requiring tremendous innovation."
+    },
+    {
+      "start": 2792.44,
+      "end": 2796.44,
+      "text": "That means every aspect of the server,"
+    },
+    {
+      "start": 2796.44,
+      "end": 2799.96,
+      "text": "memory which used to be a pure commodity"
+    },
+    {
+      "start": 2799.96,
+      "end": 2804.68,
+      "text": "that's high bandwidth memory is stack 10 chips on top,"
+    },
+    {
+      "start": 2804.68,
+      "end": 2807.96,
+      "text": "input outputs or 10X what they were before"
+    },
+    {
+      "start": 2807.96,
+      "end": 2810.56,
+      "text": "took Samsung for years to do it"
+    },
+    {
+      "start": 2810.56,
+      "end": 2812.32,
+      "text": "and it's a critical piece"
+    },
+    {
+      "start": 2812.32,
+      "end": 2814.36,
+      "text": "and then that is constantly upgrading"
+    },
+    {
+      "start": 2814.36,
+      "end": 2817.2000000000003,
+      "text": "so they've got to be working with Nvidia"
+    },
+    {
+      "start": 2817.2000000000003,
+      "end": 2820.28,
+      "text": "for three or four generations in advance."
+    },
+    {
+      "start": 2820.28,
+      "end": 2822.2400000000002,
+      "text": "We had this with Celestica."
+    },
+    {
+      "start": 2822.2400000000002,
+      "end": 2826.4,
+      "text": "Celestica was a contract manufacturer."
+    },
+    {
+      "start": 2826.4,
+      "end": 2831.4,
+      "text": "This has been a disaster industry since 1999."
+    },
+    {
+      "start": 2831.4,
+      "end": 2835.28,
+      "text": "It went all offshore to China, it was commodity"
+    },
+    {
+      "start": 2835.28,
+      "end": 2840.2000000000003,
+      "text": "but they hung on Celestica's heritage was IBM supercomputing"
+    },
+    {
+      "start": 2840.2000000000003,
+      "end": 2843.5200000000004,
+      "text": "and it kept all that talent and skill"
+    },
+    {
+      "start": 2843.5200000000004,
+      "end": 2846.2400000000002,
+      "text": "and then we noticed they were the sole supplier"
+    },
+    {
+      "start": 2846.2400000000002,
+      "end": 2849.4800000000005,
+      "text": "of the Google TPU server three years ago."
+    },
+    {
+      "start": 2849.4800000000005,
+      "end": 2851.9600000000005,
+      "text": "The stock was trading at eight times earnings"
+    },
+    {
+      "start": 2851.9600000000005,
+      "end": 2853.88,
+      "text": "and then they also had this whole business"
+    },
+    {
+      "start": 2853.88,
+      "end": 2856.4800000000005,
+      "text": "of selling Ethernet white box"
+    },
+    {
+      "start": 2856.4800000000005,
+      "end": 2859.0400000000004,
+      "text": "which is code word for commodity,"
+    },
+    {
+      "start": 2859.0400000000004,
+      "end": 2863.6400000000003,
+      "text": "white box Ethernet switches into the clouds."
+    },
+    {
+      "start": 2863.6400000000003,
+      "end": 2866.88,
+      "text": "It turns out these are excellent businesses"
+    },
+    {
+      "start": 2866.88,
+      "end": 2869.28,
+      "text": "not only do they have tremendous growth"
+    },
+    {
+      "start": 2869.28,
+      "end": 2874.28,
+      "text": "but to do an AI server, it's liquid cooled,"
+    },
+    {
+      "start": 2874.36,
+      "end": 2876.4,
+      "text": "it's running so much hotter."
+    },
+    {
+      "start": 2876.4,
+      "end": 2879.0,
+      "text": "It's two or three hundred thousand dollar piece"
+    },
+    {
+      "start": 2879.0,
+      "end": 2882.52,
+      "text": "of machinery whereas an old server was five thousand dollars"
+    },
+    {
+      "start": 2882.52,
+      "end": 2884.0400000000004,
+      "text": "for the brakes you just throw it away."
+    },
+    {
+      "start": 2884.0400000000004,
+      "end": 2886.52,
+      "text": "If this thing breaks the whole thing goes down"
+    },
+    {
+      "start": 2886.52,
+      "end": 2889.0,
+      "text": "so you become a commodity supplier"
+    },
+    {
+      "start": 2889.0,
+      "end": 2892.48,
+      "text": "to like selling a critical part on a plane"
+    },
+    {
+      "start": 2892.48,
+      "end": 2894.7200000000003,
+      "text": "you'll never get swapped out."
+    },
+    {
+      "start": 2894.7200000000003,
+      "end": 2898.36,
+      "text": "It turned out they were quite good at liquid cooling."
+    },
+    {
+      "start": 2898.36,
+      "end": 2900.4,
+      "text": "A lot of other people tried to do it and fail"
+    },
+    {
+      "start": 2900.4,
+      "end": 2901.84,
+      "text": "and so they've retained that position"
+    },
+    {
+      "start": 2901.84,
+      "end": 2905.32,
+      "text": "then it also turned out that the Ethernet market"
+    },
+    {
+      "start": 2905.32,
+      "end": 2910.32,
+      "text": "in the old days you would go from 100 gig to 400 to 800"
+    },
+    {
+      "start": 2911.44,
+      "end": 2914.48,
+      "text": "it would be a seven year cycle to upgrade."
+    },
+    {
+      "start": 2914.48,
+      "end": 2917.08,
+      "text": "Now they're upgrading every year."
+    },
+    {
+      "start": 2917.08,
+      "end": 2918.88,
+      "text": "That's really hard to do."
+    },
+    {
+      "start": 2918.88,
+      "end": 2920.56,
+      "text": "Then there's a whole software layer,"
+    },
+    {
+      "start": 2920.56,
+      "end": 2922.56,
+      "text": "the open source sonic layer,"
+    },
+    {
+      "start": 2922.56,
+      "end": 2924.4,
+      "text": "the guys at Celestica invented"
+    },
+    {
+      "start": 2924.4,
+      "end": 2927.1600000000003,
+      "text": "were some of the people that wrote that open source software"
+    },
+    {
+      "start": 2927.16,
+      "end": 2929.44,
+      "text": "they worked very closely with Broadcom."
+    },
+    {
+      "start": 2929.44,
+      "end": 2932.12,
+      "text": "What we thought was just a great growth driver"
+    },
+    {
+      "start": 2932.12,
+      "end": 2934.7999999999997,
+      "text": "turned out to be great competitive advantages"
+    },
+    {
+      "start": 2934.7999999999997,
+      "end": 2938.8799999999997,
+      "text": "and they have like 50, 60% share of the cloud Ethernet switch"
+    },
+    {
+      "start": 2938.8799999999997,
+      "end": 2942.44,
+      "text": "market which is a crucial market for AI"
+    },
+    {
+      "start": 2942.44,
+      "end": 2945.56,
+      "text": "because AI is incredibly network intensive."
+    },
+    {
+      "start": 2945.56,
+      "end": 2948.0,
+      "text": "And then even something like the printed circuit board"
+    },
+    {
+      "start": 2948.0,
+      "end": 2950.04,
+      "text": "a regular server you need 10 layers,"
+    },
+    {
+      "start": 2950.04,
+      "end": 2953.04,
+      "text": "these AI server you need a 40 layer"
+    },
+    {
+      "start": 2953.04,
+      "end": 2956.08,
+      "text": "and there's very few PCB suppliers"
+    },
+    {
+      "start": 2956.08,
+      "end": 2957.56,
+      "text": "that can make this,"
+    },
+    {
+      "start": 2957.56,
+      "end": 2959.44,
+      "text": "there's all kinds of complexities in there"
+    },
+    {
+      "start": 2959.44,
+      "end": 2962.16,
+      "text": "then we also own elite materials"
+    },
+    {
+      "start": 2962.16,
+      "end": 2963.68,
+      "text": "which makes the leading ingredient"
+    },
+    {
+      "start": 2963.68,
+      "end": 2965.84,
+      "text": "which is copper clad laminate"
+    },
+    {
+      "start": 2965.84,
+      "end": 2968.0,
+      "text": "which goes into these boards,"
+    },
+    {
+      "start": 2968.0,
+      "end": 2970.84,
+      "text": "the PCB units are growing,"
+    },
+    {
+      "start": 2970.84,
+      "end": 2972.12,
+      "text": "the layer counts are rising."
+    },
+    {
+      "start": 2972.12,
+      "end": 2977.12,
+      "text": "So you've got like a 50 to 60% keger just in the units"
+    },
+    {
+      "start": 2977.44,
+      "end": 2980.16,
+      "text": "and then the ASPs are rising"
+    },
+    {
+      "start": 2980.16,
+      "end": 2982.48,
+      "text": "and then the gross profits are rising"
+    },
+    {
+      "start": 2983.44,
+      "end": 2985.6,
+      "text": "and your visibility which used to be"
+    },
+    {
+      "start": 2985.6,
+      "end": 2988.04,
+      "text": "hey we'll call you next week if we need you to like"
+    },
+    {
+      "start": 2988.04,
+      "end": 2990.08,
+      "text": "hey we need you for the next four years"
+    },
+    {
+      "start": 2990.08,
+      "end": 2992.96,
+      "text": "to be like designing this roadmap with us."
+    },
+    {
+      "start": 2992.96,
+      "end": 2996.24,
+      "text": "You've gone from a 5% grow or low margin"
+    },
+    {
+      "start": 2996.24,
+      "end": 3001.24,
+      "text": "to a 35% 40, 50 top line keger for the next four years"
+    },
+    {
+      "start": 3002.24,
+      "end": 3004.16,
+      "text": "with rising margins."
+    },
+    {
+      "start": 3004.16,
+      "end": 3006.4,
+      "text": "On top of that there's shortages of everything"
+    },
+    {
+      "start": 3006.4,
+      "end": 3010.6,
+      "text": "so even if it is a commodity it's gonna be a great cycle."
+    },
+    {
+      "start": 3010.6,
+      "end": 3013.72,
+      "text": "So we see that up and down the supply chain"
+    },
+    {
+      "start": 3013.7200000000003,
+      "end": 3016.88,
+      "text": "you find these companies like I mean corning"
+    },
+    {
+      "start": 3016.88,
+      "end": 3018.32,
+      "text": "they make the fiber,"
+    },
+    {
+      "start": 3018.32,
+      "end": 3021.88,
+      "text": "they've got some ridiculously high share of the fiber"
+    },
+    {
+      "start": 3021.88,
+      "end": 3024.92,
+      "text": "that I was reading this Microsoft data center"
+    },
+    {
+      "start": 3024.92,
+      "end": 3026.84,
+      "text": "they just built, there's enough fiber"
+    },
+    {
+      "start": 3026.84,
+      "end": 3031.1600000000003,
+      "text": "to circle the world four and a half times in that one thing"
+    },
+    {
+      "start": 3031.1600000000003,
+      "end": 3034.2400000000002,
+      "text": "and their fiber is thinner and more bendable"
+    },
+    {
+      "start": 3034.2400000000002,
+      "end": 3039.2000000000003,
+      "text": "and can be specially manufactured to the exact specs"
+    },
+    {
+      "start": 3039.2000000000003,
+      "end": 3040.5200000000004,
+      "text": "and it's higher margin"
+    },
+    {
+      "start": 3040.5200000000004,
+      "end": 3043.2400000000002,
+      "text": "and it's the fastest growing part of their business"
+    },
+    {
+      "start": 3043.2400000000002,
+      "end": 3046.44,
+      "text": "in networking there's scale out"
+    },
+    {
+      "start": 3046.44,
+      "end": 3049.96,
+      "text": "which is connecting all the server racks together"
+    },
+    {
+      "start": 3049.96,
+      "end": 3053.4,
+      "text": "and their scale across which is connecting the data centers"
+    },
+    {
+      "start": 3053.4,
+      "end": 3057.6400000000003,
+      "text": "together and when you wanna build one of these huge clusters"
+    },
+    {
+      "start": 3057.6400000000003,
+      "end": 3060.92,
+      "text": "and you can't get all the power in one place for training"
+    },
+    {
+      "start": 3060.92,
+      "end": 3063.0000000000005,
+      "text": "you wanna wire them together"
+    },
+    {
+      "start": 3063.0000000000005,
+      "end": 3065.0800000000004,
+      "text": "but the wires that you need like 10X"
+    },
+    {
+      "start": 3065.0800000000004,
+      "end": 3067.2000000000003,
+      "text": "the wire has to be so much thicker"
+    },
+    {
+      "start": 3067.2000000000003,
+      "end": 3069.2000000000003,
+      "text": "so that's creating huge growth"
+    },
+    {
+      "start": 3069.2000000000003,
+      "end": 3073.28,
+      "text": "and where the real kicker comes in is when you do scale up"
+    },
+    {
+      "start": 3073.28,
+      "end": 3077.44,
+      "text": "that's connecting every GPU in the rack to the other ones"
+    },
+    {
+      "start": 3077.44,
+      "end": 3079.7200000000003,
+      "text": "that's done over copper eventually"
+    },
+    {
+      "start": 3079.7200000000003,
+      "end": 3082.9600000000005,
+      "text": "that'll be done over fiber when that happens"
+    },
+    {
+      "start": 3082.9600000000005,
+      "end": 3086.88,
+      "text": "that two to three X's cornings opportunity"
+    },
+    {
+      "start": 3086.88,
+      "end": 3091.2400000000002,
+      "text": "so you just have at every layer of the rack"
+    },
+    {
+      "start": 3091.2400000000002,
+      "end": 3092.8,
+      "text": "everyone's overwhelmed"
+    },
+    {
+      "start": 3092.8,
+      "end": 3095.76,
+      "text": "everyone's overwhelmed but in the power supplies"
+    },
+    {
+      "start": 3095.76,
+      "end": 3100.76,
+      "text": "every Nvidia chip or rack uses 50 to 125% more power"
+    },
+    {
+      "start": 3102.92,
+      "end": 3107.92,
+      "text": "that drives the ASPs of delta and advanced energy"
+    },
+    {
+      "start": 3108.48,
+      "end": 3110.6400000000003,
+      "text": "I can't believe these stories when I hear"
+    },
+    {
+      "start": 3110.6400000000003,
+      "end": 3114.88,
+      "text": "I'm like wait, so your ASPs are gonna go up 40%"
+    },
+    {
+      "start": 3114.88,
+      "end": 3117.0800000000004,
+      "text": "for the next four years in a row"
+    },
+    {
+      "start": 3117.0800000000004,
+      "end": 3121.1200000000003,
+      "text": "and it's higher margin, the broader pictures"
+    },
+    {
+      "start": 3121.1200000000003,
+      "end": 3124.1600000000003,
+      "text": "the AI demand if we're right with this L curve"
+    },
+    {
+      "start": 3124.16,
+      "end": 3127.92,
+      "text": "we're already short, the DRAM market, the NAND market"
+    },
+    {
+      "start": 3127.92,
+      "end": 3132.08,
+      "text": "the PCBM or we're already 30% short"
+    },
+    {
+      "start": 3132.08,
+      "end": 3134.3199999999997,
+      "text": "all these things as we are now"
+    },
+    {
+      "start": 3134.3199999999997,
+      "end": 3137.6,
+      "text": "a measure of percent AI, percent market share"
+    },
+    {
+      "start": 3137.6,
+      "end": 3139.0,
+      "text": "do you care more about the absolute"
+    },
+    {
+      "start": 3139.0,
+      "end": 3141.68,
+      "text": "or the rate of change of those metrics"
+    },
+    {
+      "start": 3141.68,
+      "end": 3144.8799999999997,
+      "text": "we did this presentation in 2024"
+    },
+    {
+      "start": 3144.8799999999997,
+      "end": 3146.8799999999997,
+      "text": "where we listed everybody's market share"
+    },
+    {
+      "start": 3146.8799999999997,
+      "end": 3149.3599999999997,
+      "text": "and then I asked Claud to plot it to a thing"
+    },
+    {
+      "start": 3149.3599999999997,
+      "end": 3151.52,
+      "text": "and it actually didn't get it right"
+    },
+    {
+      "start": 3151.52,
+      "end": 3153.92,
+      "text": "because what it didn't get is the rate of change"
+    },
+    {
+      "start": 3153.92,
+      "end": 3155.36,
+      "text": "so the rate of change is important"
+    },
+    {
+      "start": 3155.36,
+      "end": 3156.7200000000003,
+      "text": "and that's incredible too"
+    },
+    {
+      "start": 3156.7200000000003,
+      "end": 3160.44,
+      "text": "because you go from 10% to 30%"
+    },
+    {
+      "start": 3160.44,
+      "end": 3163.36,
+      "text": "and your growth rate accelerates and your margins accelerate"
+    },
+    {
+      "start": 3163.36,
+      "end": 3165.44,
+      "text": "so rate of change is very important"
+    },
+    {
+      "start": 3167.64,
+      "end": 3170.08,
+      "text": "Your finance team isn't losing money on big mistakes"
+    },
+    {
+      "start": 3170.08,
+      "end": 3172.28,
+      "text": "it's leaking through a thousand tiny decisions"
+    },
+    {
+      "start": 3172.28,
+      "end": 3173.36,
+      "text": "nobody's watching"
+    },
+    {
+      "start": 3173.36,
+      "end": 3176.0,
+      "text": "ramp puts guard rails on spending before it happens"
+    },
+    {
+      "start": 3176.0,
+      "end": 3179.08,
+      "text": "real-time limits, automatic rules, zero firefighting"
+    },
+    {
+      "start": 3179.08,
+      "end": 3181.44,
+      "text": "try it at ramp.com slash and best"
+    },
+    {
+      "start": 3182.44,
+      "end": 3184.8,
+      "text": "As your business grows, vanta scales with you"
+    },
+    {
+      "start": 3184.8,
+      "end": 3187.44,
+      "text": "automating compliance and giving you a single source of truth"
+    },
+    {
+      "start": 3187.44,
+      "end": 3188.88,
+      "text": "for security and risk"
+    },
+    {
+      "start": 3188.88,
+      "end": 3192.56,
+      "text": "learn more at vanta.com slash invest"
+    },
+    {
+      "start": 3192.56,
+      "end": 3193.92,
+      "text": "every investment firm is unique"
+    },
+    {
+      "start": 3193.92,
+      "end": 3196.48,
+      "text": "and generic AI doesn't understand your process"
+    },
+    {
+      "start": 3196.48,
+      "end": 3199.52,
+      "text": "rogo does, it's an AI platform built specifically for Wall Street"
+    },
+    {
+      "start": 3199.52,
+      "end": 3200.56,
+      "text": "connected to your data"
+    },
+    {
+      "start": 3200.56,
+      "end": 3203.2000000000003,
+      "text": "understanding your process and producing real outputs"
+    },
+    {
+      "start": 3203.2000000000003,
+      "end": 3206.96,
+      "text": "check them out at rogo.ai slash invest"
+    },
+    {
+      "start": 3206.96,
+      "end": 3208.8,
+      "text": "the best AI and software companies"
+    },
+    {
+      "start": 3208.8,
+      "end": 3210.88,
+      "text": "from open AI to cursor to perplexity"
+    },
+    {
+      "start": 3210.88,
+      "end": 3213.28,
+      "text": "use work OS to become enterprise ready overnight"
+    },
+    {
+      "start": 3213.28,
+      "end": 3214.36,
+      "text": "not in months"
+    },
+    {
+      "start": 3214.36,
+      "end": 3216.88,
+      "text": "visit work os.com to skip the unglamorous"
+    },
+    {
+      "start": 3216.88,
+      "end": 3220.4,
+      "text": "infrastructure work and focus on your product"
+    },
+    {
+      "start": 3220.4,
+      "end": 3222.88,
+      "text": "Ridge line is redefining asset management technology"
+    },
+    {
+      "start": 3222.88,
+      "end": 3225.28,
+      "text": "as a true partner not just a software vendor"
+    },
+    {
+      "start": 3225.28,
+      "end": 3228.48,
+      "text": "they've helped firms 5x and scale enabling faster growth"
+    },
+    {
+      "start": 3228.48,
+      "end": 3230.7200000000003,
+      "text": "smarter operations and a competitive edge"
+    },
+    {
+      "start": 3230.7200000000003,
+      "end": 3234.2400000000002,
+      "text": "visit ridgelineapps.com to see what they can unlock for your firm"
+    },
+    {
+      "start": 3237.44,
+      "end": 3239.6800000000003,
+      "text": "why don't more people get this right in public markets"
+    },
+    {
+      "start": 3239.6800000000003,
+      "end": 3242.8,
+      "text": "if your whole framework is s curve competitive advantage"
+    },
+    {
+      "start": 3242.8,
+      "end": 3244.88,
+      "text": "under appreciated earnings power"
+    },
+    {
+      "start": 3244.88,
+      "end": 3247.1200000000003,
+      "text": "it feels like the movie's been played out"
+    },
+    {
+      "start": 3247.1200000000003,
+      "end": 3252.0000000000005,
+      "text": "a lot over the last 25 30 years why do you tell everyone your secret"
+    },
+    {
+      "start": 3252.7200000000003,
+      "end": 3255.4400000000005,
+      "text": "it's like why does the casino"
+    },
+    {
+      "start": 3255.4400000000005,
+      "end": 3258.9600000000005,
+      "text": "teach people how to play blackjack it's really hard to do"
+    },
+    {
+      "start": 3258.9600000000005,
+      "end": 3261.0400000000004,
+      "text": "you have to be comfortable investing"
+    },
+    {
+      "start": 3261.0400000000004,
+      "end": 3264.8,
+      "text": "i've been doing tech for 20 years of well rock we've got a team"
+    },
+    {
+      "start": 3264.8,
+      "end": 3268.9600000000005,
+      "text": "that's been doing this covered many cycles no one's paid attention"
+    },
+    {
+      "start": 3268.96,
+      "end": 3274.32,
+      "text": "to hardware and chips at all so you got all these newbies coming into it"
+    },
+    {
+      "start": 3274.32,
+      "end": 3277.76,
+      "text": "you're in Gavin that's it yeah and Gavin's done a great job"
+    },
+    {
+      "start": 3277.76,
+      "end": 3281.28,
+      "text": "people weren't comfortable with it it's harder to do than it seems and"
+    },
+    {
+      "start": 3281.28,
+      "end": 3285.04,
+      "text": "a lot of these companies their charts are up so it's scary can i buy and"
+    },
+    {
+      "start": 3285.04,
+      "end": 3288.96,
+      "text": "and then you also have to have the holistic view because if you don't have"
+    },
+    {
+      "start": 3288.96,
+      "end": 3292.88,
+      "text": "conviction every time within video over the last four years it's"
+    },
+    {
+      "start": 3292.88,
+      "end": 3297.68,
+      "text": "oh they had a great year oh my god it's got to be a bubble"
+    },
+    {
+      "start": 3297.6800000000003,
+      "end": 3301.76,
+      "text": "and then they had another great year and it's like six months of marking time"
+    },
+    {
+      "start": 3301.76,
+      "end": 3306.0800000000004,
+      "text": "it's got to be a bubble this is like getting out of hand this is pretty scary"
+    },
+    {
+      "start": 3306.0800000000004,
+      "end": 3311.6000000000004,
+      "text": "the bear cases are not totally without merit but"
+    },
+    {
+      "start": 3311.6000000000004,
+      "end": 3314.6400000000003,
+      "text": "if you can see the whole picture and understand how these things are"
+    },
+    {
+      "start": 3314.6400000000003,
+      "end": 3319.1200000000003,
+      "text": "unfolding and gain conviction in that frankly if you're just a semi-analyst"
+    },
+    {
+      "start": 3319.1200000000003,
+      "end": 3324.4,
+      "text": "so many semi-analysts missed it because they didn't see what was really happening"
+    },
+    {
+      "start": 3324.4,
+      "end": 3328.0,
+      "text": "at the foundational model layer and how this broader picture"
+    },
+    {
+      "start": 3328.0,
+      "end": 3331.36,
+      "text": "so it helps to have the big picture it helps to have"
+    },
+    {
+      "start": 3331.36,
+      "end": 3335.12,
+      "text": "decades and scores of s curves that you're looking at and"
+    },
+    {
+      "start": 3335.12,
+      "end": 3340.32,
+      "text": "where it plays in different things what makes you the most concerned or uncertain"
+    },
+    {
+      "start": 3340.32,
+      "end": 3344.08,
+      "text": "is it just the rate of which all the stuff changes and what keeps you"
+    },
+    {
+      "start": 3344.08,
+      "end": 3348.4,
+      "text": "worried amidst what seems like pretty extreme bullishness"
+    },
+    {
+      "start": 3348.4,
+      "end": 3352.96,
+      "text": "one thing that bothers me is there's a lot of negativity in the general"
+    },
+    {
+      "start": 3352.96,
+      "end": 3356.7200000000003,
+      "text": "population about AI and there's a lot of negativity"
+    },
+    {
+      "start": 3356.7200000000003,
+      "end": 3361.04,
+      "text": "in some aspects of the government you know I think Maine just banned data centers"
+    },
+    {
+      "start": 3361.04,
+      "end": 3366.2400000000002,
+      "text": "and only 20 percent of the people are optimistic about AI"
+    },
+    {
+      "start": 3366.2400000000002,
+      "end": 3371.2,
+      "text": "and potential for negative regulation but I do think kind of the gene is out of"
+    },
+    {
+      "start": 3371.2,
+      "end": 3376.4,
+      "text": "the bottle another risk is that if AI slows down"
+    },
+    {
+      "start": 3376.4,
+      "end": 3381.92,
+      "text": "in its improvements I think there's a whole lot of AI adoption to happen even if"
+    },
+    {
+      "start": 3381.92,
+      "end": 3385.36,
+      "text": "the models didn't improve but Jensen said this"
+    },
+    {
+      "start": 3385.36,
+      "end": 3389.76,
+      "text": "years ago when he was talking about his graphics chips if good enough"
+    },
+    {
+      "start": 3389.76,
+      "end": 3394.88,
+      "text": "is good enough I won't have a business every year he made the graphics"
+    },
+    {
+      "start": 3394.88,
+      "end": 3398.8,
+      "text": "a little bit better and people always wanted the best"
+    },
+    {
+      "start": 3398.8,
+      "end": 3405.12,
+      "text": "in AI if Anthropics sort of hits a wall and stops improving or open AI"
+    },
+    {
+      "start": 3405.12,
+      "end": 3409.76,
+      "text": "then the open source models will catch up it might be a race to the bottom"
+    },
+    {
+      "start": 3410.2400000000002,
+      "end": 3414.1600000000003,
+      "text": "won't be good for the stocks probably it could be good for the"
+    },
+    {
+      "start": 3414.1600000000003,
+      "end": 3418.32,
+      "text": "chip companies chip companies don't care who wins"
+    },
+    {
+      "start": 3418.32,
+      "end": 3420.96,
+      "text": "so that's another positive and they'll benefit"
+    },
+    {
+      "start": 3420.96,
+      "end": 3425.28,
+      "text": "Jensen really wants open source to like take off it's all he kept on mentioning"
+    },
+    {
+      "start": 3425.28,
+      "end": 3430.96,
+      "text": "that is last GTC so that could be a risk another thing is if"
+    },
+    {
+      "start": 3430.96,
+      "end": 3436.32,
+      "text": "one or two of the players falters and loses its position and can't"
+    },
+    {
+      "start": 3436.32,
+      "end": 3439.44,
+      "text": "compete that could be like a lot of compute"
+    },
+    {
+      "start": 3439.44,
+      "end": 3443.76,
+      "text": "that they don't need in the future now if AI is so big somebody else will suck"
+    },
+    {
+      "start": 3443.76,
+      "end": 3447.84,
+      "text": "that up and we saw that with Oracle canceled a big deal and"
+    },
+    {
+      "start": 3447.84,
+      "end": 3453.2000000000003,
+      "text": "Meta went right in but let's just say Meta decided not to be involved"
+    },
+    {
+      "start": 3453.2000000000003,
+      "end": 3457.44,
+      "text": "with AI hey we can't keep up it's just going to be a waste of our resources"
+    },
+    {
+      "start": 3457.44,
+      "end": 3461.6800000000003,
+      "text": "we watch that very carefully in general we see more"
+    },
+    {
+      "start": 3461.6800000000003,
+      "end": 3465.76,
+      "text": "companies truly going after this and even Microsoft going trying to build their"
+    },
+    {
+      "start": 3465.76,
+      "end": 3469.76,
+      "text": "own those are some of the key risks seems like you really have done very"
+    },
+    {
+      "start": 3469.76,
+      "end": 3474.5600000000004,
+      "text": "little in the application layer of AI historically the apps ended up being"
+    },
+    {
+      "start": 3474.5600000000004,
+      "end": 3477.84,
+      "text": "most of the market cap not the infrastructure and there wasn't really a model"
+    },
+    {
+      "start": 3477.84,
+      "end": 3480.32,
+      "text": "layer in the past I guess you could say it's a clouds or something"
+    },
+    {
+      "start": 3480.32,
+      "end": 3485.6000000000004,
+      "text": "why focus so much on the bottom layers of Jensen's five layer cake versus"
+    },
+    {
+      "start": 3485.6000000000004,
+      "end": 3490.0,
+      "text": "things than the application later they're actually getting used by consumers"
+    },
+    {
+      "start": 3490.0,
+      "end": 3494.0800000000004,
+      "text": "well a it always comes later so the first three or four years of the"
+    },
+    {
+      "start": 3494.08,
+      "end": 3499.04,
+      "text": "iPhone and then the applications really took time so maybe it's just"
+    },
+    {
+      "start": 3499.04,
+      "end": 3503.6,
+      "text": "starting today we found that area to be pretty risky"
+    },
+    {
+      "start": 3503.6,
+      "end": 3508.4,
+      "text": "because where does the foundational model and and where does the application begin"
+    },
+    {
+      "start": 3508.4,
+      "end": 3513.2,
+      "text": "can the applications build enough of a mode where they can fend off and build"
+    },
+    {
+      "start": 3513.2,
+      "end": 3518.24,
+      "text": "businesses in that we thought we would see it in some of the incumbents"
+    },
+    {
+      "start": 3518.24,
+      "end": 3522.24,
+      "text": "a CRM and they're starting and maybe just a matter of time"
+    },
+    {
+      "start": 3522.2400000000002,
+      "end": 3525.6800000000003,
+      "text": "but we really haven't seen it in the enterprise world"
+    },
+    {
+      "start": 3525.6800000000003,
+      "end": 3530.5600000000004,
+      "text": "there are some very good startup application companies out there"
+    },
+    {
+      "start": 3530.5600000000004,
+      "end": 3536.6400000000003,
+      "text": "but the ecosystems not clear when we started the ecosystem and chips was clear"
+    },
+    {
+      "start": 3536.6400000000003,
+      "end": 3541.6000000000004,
+      "text": "when we started the foundational model ecosystem wasn't clear now it's clear to us"
+    },
+    {
+      "start": 3541.6000000000004,
+      "end": 3545.76,
+      "text": "and at the application layer it's still kind of unclear and a little bit"
+    },
+    {
+      "start": 3545.76,
+      "end": 3549.92,
+      "text": "dangerous but there will be great application companies built"
+    },
+    {
+      "start": 3549.92,
+      "end": 3552.7200000000003,
+      "text": "we really were watching Brett Taylor at Sierra"
+    },
+    {
+      "start": 3552.7200000000003,
+      "end": 3557.84,
+      "text": "Brett was CEO of CRM he wrote Google Maps he was CIO"
+    },
+    {
+      "start": 3557.84,
+      "end": 3562.64,
+      "text": "Facebook he's building this fantastic company called Sierra we're not involved"
+    },
+    {
+      "start": 3562.64,
+      "end": 3566.16,
+      "text": "but that's where the rubber hits the road will he be able to turn this into"
+    },
+    {
+      "start": 3566.16,
+      "end": 3570.4,
+      "text": "a huge company and he's doing quite well and we'll see"
+    },
+    {
+      "start": 3570.4,
+      "end": 3574.64,
+      "text": "it's a matter of timing when these things really start to come"
+    },
+    {
+      "start": 3574.64,
+      "end": 3578.56,
+      "text": "into their own improve their sustainable they usually doesn't start in the first"
+    },
+    {
+      "start": 3578.56,
+      "end": 3581.12,
+      "text": "three or four years it comes a little bit later"
+    },
+    {
+      "start": 3581.12,
+      "end": 3586.0,
+      "text": "at your office you have this giant award wall for the best research job or"
+    },
+    {
+      "start": 3586.0,
+      "end": 3589.2799999999997,
+      "text": "project of the year given to an analyst and I think you wanted"
+    },
+    {
+      "start": 3589.2799999999997,
+      "end": 3592.96,
+      "text": "you gave yourself a word of the narrative you're by yourself"
+    },
+    {
+      "start": 3592.96,
+      "end": 3597.36,
+      "text": "but you've got this now long 20-year history of every year one or more people"
+    },
+    {
+      "start": 3597.36,
+      "end": 3601.52,
+      "text": "with their name on this wall for having done the best job on a research project that year"
+    },
+    {
+      "start": 3602.32,
+      "end": 3607.52,
+      "text": "I'm so curious about the nature of that research and how it's changing as a result of all of this"
+    },
+    {
+      "start": 3607.52,
+      "end": 3611.68,
+      "text": "say you know the person that's going to win the award this year and the sort of work"
+    },
+    {
+      "start": 3611.68,
+      "end": 3616.0,
+      "text": "that that requires a human to do when so much of the work that probably would have"
+    },
+    {
+      "start": 3616.0,
+      "end": 3621.28,
+      "text": "won you the award in 2009 or something could probably be fully automated or done in an hour"
+    },
+    {
+      "start": 3621.28,
+      "end": 3626.0,
+      "text": "with cloud code or something today how is the nature of research and what gets you on that"
+    },
+    {
+      "start": 3626.0,
+      "end": 3632.48,
+      "text": "whale rock award wall changing in real time I would like to say that we're so advanced in our AI"
+    },
+    {
+      "start": 3632.48,
+      "end": 3638.64,
+      "text": "systems that it's a huge change but so far it's helping us get up to speed and we have a"
+    },
+    {
+      "start": 3638.64,
+      "end": 3644.56,
+      "text": "handful of great apps but it's not supplanting the job of the analyst and so much of what we're"
+    },
+    {
+      "start": 3644.56,
+      "end": 3650.4,
+      "text": "doing is we're meeting with as many companies as humanly possible we're developing relationships"
+    },
+    {
+      "start": 3650.4,
+      "end": 3657.12,
+      "text": "with the management teams that we cover we're talking to the competitors the system we use is"
+    },
+    {
+      "start": 3657.12,
+      "end": 3663.2,
+      "text": "right out of common stocks and uncommon profits which was written by Philip Fisher in the 1950s"
+    },
+    {
+      "start": 3663.7599999999998,
+      "end": 3669.68,
+      "text": "and it's the scuttlebutt approach it's growth investing it's get out there and talk to suppliers"
+    },
+    {
+      "start": 3669.68,
+      "end": 3675.7599999999998,
+      "text": "customers competitors looking for the key characteristics of these leading companies and really"
+    },
+    {
+      "start": 3675.7599999999998,
+      "end": 3683.3599999999997,
+      "text": "developing conviction in them now if it's a new complicated area like ABF substrates or PCBs"
+    },
+    {
+      "start": 3683.36,
+      "end": 3690.32,
+      "text": "we're able to get up to speed on those things quickly but it can't pick stocks for you in any"
+    },
+    {
+      "start": 3690.32,
+      "end": 3696.56,
+      "text": "kind of a way I will say that if you're an analyst who's good at the blocking and tackling"
+    },
+    {
+      "start": 3696.56,
+      "end": 3702.32,
+      "text": "there's a role for that but you need to have obviously the insight on top so we're now like using"
+    },
+    {
+      "start": 3702.32,
+      "end": 3709.1200000000003,
+      "text": "AI to write notes or review the quarter and those notes are much better but they're better be"
+    },
+    {
+      "start": 3710.08,
+      "end": 3715.7599999999998,
+      "text": "a really good paragraph on top which is the wisdom what does this mean how does this deal with"
+    },
+    {
+      "start": 3715.7599999999998,
+      "end": 3722.88,
+      "text": "our thesis what changed don't just be a reporter so the AI can be a great reporter it can't"
+    },
+    {
+      "start": 3722.88,
+      "end": 3728.24,
+      "text": "pick into the future the job that the guys did on Apple oven two years ago I think we got two of"
+    },
+    {
+      "start": 3728.24,
+      "end": 3734.7999999999997,
+      "text": "the best ad tech guys I knew ad tech I started actually nearby here in New York at an internet"
+    },
+    {
+      "start": 3734.88,
+      "end": 3741.04,
+      "text": "advertising startup and after I did banking I knew internet advertising and ad tech which is"
+    },
+    {
+      "start": 3741.04,
+      "end": 3748.4,
+      "text": "historically a terrible industry but Michael and Sam really figured out the Apple oven story"
+    },
+    {
+      "start": 3748.4,
+      "end": 3752.88,
+      "text": "before anybody and they followed it when it was private they know all the competitors they know"
+    },
+    {
+      "start": 3752.88,
+      "end": 3761.04,
+      "text": "all the intricacies of terminology and Sam went to the Las Vegas app advertising conference and we"
+    },
+    {
+      "start": 3761.44,
+      "end": 3767.6,
+      "text": "went to Con and we talked to scores and scores of people so did the work on a model and developed a"
+    },
+    {
+      "start": 3767.6,
+      "end": 3773.36,
+      "text": "great relationship with Adam Faroghies one of the best managers out there I don't see AI doing that"
+    },
+    {
+      "start": 3774.0,
+      "end": 3778.56,
+      "text": "what role does talking to other investors outside of your firm play in your life"
+    },
+    {
+      "start": 3779.52,
+      "end": 3785.36,
+      "text": "one of the great things is just the friendships I've built with so many smart investors"
+    },
+    {
+      "start": 3785.92,
+      "end": 3792.7200000000003,
+      "text": "and frankly Philip Fisher said part of his process was get to know a good 10 or 15 like minded"
+    },
+    {
+      "start": 3792.7200000000003,
+      "end": 3798.56,
+      "text": "people around the country and share ideas they're great friends to make a lot of them have been"
+    },
+    {
+      "start": 3798.56,
+      "end": 3804.7200000000003,
+      "text": "on your podcasts you develop good friendships and then you share ideas talk ideas it's important"
+    },
+    {
+      "start": 3804.7200000000003,
+      "end": 3812.6400000000003,
+      "text": "that it's a two way street I call it the tripod when I like something and then my analyst likes it"
+    },
+    {
+      "start": 3812.64,
+      "end": 3819.6,
+      "text": "and then somebody who I really respect also likes it that's three legs of the stool can really help"
+    },
+    {
+      "start": 3819.6,
+      "end": 3825.04,
+      "text": "the conviction what have you learned about shaping the products that you offer your investors"
+    },
+    {
+      "start": 3825.7599999999998,
+      "end": 3830.96,
+      "text": "across the history of the firm it's not just one monolithic structure anymore there's several"
+    },
+    {
+      "start": 3830.96,
+      "end": 3834.3199999999997,
+      "text": "things that if I'm an investor and I want to give you money there's a couple ways I can do that"
+    },
+    {
+      "start": 3834.8799999999997,
+      "end": 3839.7599999999998,
+      "text": "how did you arrive at those things and how can you turn that experience into advice for other"
+    },
+    {
+      "start": 3839.76,
+      "end": 3847.5200000000004,
+      "text": "investors that are trying to provide their LPs with the right set of options so the first 15 years"
+    },
+    {
+      "start": 3847.5200000000004,
+      "end": 3853.28,
+      "text": "it was a long short fund and we want to be focused and if you defocus that can be hard so we grew"
+    },
+    {
+      "start": 3853.28,
+      "end": 3860.32,
+      "text": "that and we got that to the scale that we wanted to we're 20 years old maybe 10 years in people"
+    },
+    {
+      "start": 3860.32,
+      "end": 3867.6800000000003,
+      "text": "started to ask for a long only product sometime in maybe 2015 we formalized that we might be doing"
+    },
+    {
+      "start": 3867.76,
+      "end": 3875.28,
+      "text": "privates and so we gave investors the option to opt in or opt out and you could do 15% or 25%"
+    },
+    {
+      "start": 3875.28,
+      "end": 3881.92,
+      "text": "so we didn't break the seal on the privates until 2020 we just think there's a huge structural"
+    },
+    {
+      "start": 3881.92,
+      "end": 3887.76,
+      "text": "underweight of the largest tech companies in the world we also realized that a lot of our performance"
+    },
+    {
+      "start": 3888.4,
+      "end": 3894.6400000000003,
+      "text": "over the years was from some of the largest companies whether it be Apple or Amazon or Tesla"
+    },
+    {
+      "start": 3894.64,
+      "end": 3900.4,
+      "text": "and so a lot of our largest pools of capital and diamonds or what have you they realized they"
+    },
+    {
+      "start": 3900.4,
+      "end": 3905.7599999999998,
+      "text": "have been massively underweight the largest tech companies in the world because they have a lot of"
+    },
+    {
+      "start": 3905.7599999999998,
+      "end": 3913.2,
+      "text": "privates they don't have a ton of public and then maybe half the public is international and then"
+    },
+    {
+      "start": 3913.2,
+      "end": 3918.64,
+      "text": "of their public bucket there's a belief that there's no alpha in large cap so they underweight"
+    },
+    {
+      "start": 3918.64,
+      "end": 3923.04,
+      "text": "large cap and they have a lot of small and mid managers that are stock pickers because it's"
+    },
+    {
+      "start": 3923.04,
+      "end": 3928.72,
+      "text": "intuitive that large cap can't have alpha and then in their hedge fund portfolio even if it's"
+    },
+    {
+      "start": 3928.72,
+      "end": 3934.72,
+      "text": "long biased they're not going to have 15% in Nvidia and all these other things we realized that"
+    },
+    {
+      "start": 3934.72,
+      "end": 3939.12,
+      "text": "people are worried that there's these big companies this is just a product of the digital economy in"
+    },
+    {
+      "start": 3939.12,
+      "end": 3945.12,
+      "text": "that and tech the leader usually grows bigger and wins and develops very high market share quickly"
+    },
+    {
+      "start": 3945.12,
+      "end": 3950.0,
+      "text": "and there's great competitive advantages they're also selling around the globe so this is going to"
+    },
+    {
+      "start": 3950.0,
+      "end": 3955.84,
+      "text": "lead to massive profit pools and massive market caps and it's just going to happen in the future"
+    },
+    {
+      "start": 3956.64,
+      "end": 3960.72,
+      "text": "most endowments are betting against this because they're completely underweight this"
+    },
+    {
+      "start": 3961.36,
+      "end": 3967.44,
+      "text": "I think there's tremendous alpha in the largest cap because if you think about it a small cap it"
+    },
+    {
+      "start": 3967.44,
+      "end": 3975.28,
+      "text": "just takes one person to figure out it's good to move it up but it takes 100 people 100 diversified"
+    },
+    {
+      "start": 3975.28,
+      "end": 3984.0800000000004,
+      "text": "PMs to realize Google's not a loser it's a winner and can we figure that out before 95% of those"
+    },
+    {
+      "start": 3984.0800000000004,
+      "end": 3989.84,
+      "text": "generalist PMs and we've been able to do it you're like your odds in that yeah we like your odds in"
+    },
+    {
+      "start": 3989.84,
+      "end": 3994.88,
+      "text": "that and so there is alpha to be had there and then as an asset category it's great because"
+    },
+    {
+      "start": 3995.44,
+      "end": 4002.2400000000002,
+      "text": "these companies by definition have wonderful modes and maybe they're not the super esker but sometimes"
+    },
+    {
+      "start": 4002.2400000000002,
+      "end": 4010.96,
+      "text": "they are I mean Nvidia sure is and TSM is really lever to it and high-necks is extremely lever to it"
+    },
+    {
+      "start": 4010.96,
+      "end": 4016.88,
+      "text": "and ASML is lever to it we're four months into that one it sort of sounds like really what you've"
+    },
+    {
+      "start": 4016.88,
+      "end": 4023.0400000000004,
+      "text": "built as a research machine to understand the world through the lens of companies the thing"
+    },
+    {
+      "start": 4023.0400000000004,
+      "end": 4027.1200000000003,
+      "text": "you're constantly trying to improve is that research machine and then the way that you then express"
+    },
+    {
+      "start": 4027.1200000000003,
+      "end": 4031.6000000000004,
+      "text": "that through products is multiplied but if I was to try to understand well rock it would be to"
+    },
+    {
+      "start": 4031.6,
+      "end": 4036.24,
+      "text": "investigate the research machine first and foremost we call it the well rock learning machine and"
+    },
+    {
+      "start": 4036.24,
+      "end": 4042.72,
+      "text": "it's a group of 10 highly experienced individuals Warren Buffett reads books and we read books and we"
+    },
+    {
+      "start": 4042.72,
+      "end": 4049.2,
+      "text": "read blogs in tech you got to go out and talk to people so we do 2500 3000 face-to-face meetings"
+    },
+    {
+      "start": 4049.2,
+      "end": 4054.3199999999997,
+      "text": "with management teams manga and Buffett talk about compounding knowledge we've been compounding"
+    },
+    {
+      "start": 4054.3199999999997,
+      "end": 4060.0,
+      "text": "that knowledge for 20 years there's changes to the team but broadly there's a lot of"
+    },
+    {
+      "start": 4060.72,
+      "end": 4067.44,
+      "text": "consistency to it Andrew and Michael have been with me for 18 years and the average experience level"
+    },
+    {
+      "start": 4067.44,
+      "end": 4073.76,
+      "text": "on the team is 10 or so years and that includes some of the newer people that research engine can"
+    },
+    {
+      "start": 4073.76,
+      "end": 4079.28,
+      "text": "support all these products and it's the same people that do publics in the private so we're not"
+    },
+    {
+      "start": 4079.28,
+      "end": 4086.24,
+      "text": "gonna scour the world and turn over every a b but when we see something that fits in our system"
+    },
+    {
+      "start": 4086.2400000000002,
+      "end": 4090.8,
+      "text": "we're able to act on it it's so much fun to do this with you when I do this I ask the same"
+    },
+    {
+      "start": 4090.8,
+      "end": 4094.5600000000004,
+      "text": "traditional closing question of everybody what is the kindest thing that anyone's ever done for you"
+    },
+    {
+      "start": 4095.28,
+      "end": 4103.2,
+      "text": "it's definitely my father I was super lucky my father graduated Cornell of doubly electrical"
+    },
+    {
+      "start": 4103.2,
+      "end": 4110.56,
+      "text": "engineering pivoted to Wall Street and had a great career at Goldman Sachs he ran corporate"
+    },
+    {
+      "start": 4110.56,
+      "end": 4118.160000000001,
+      "text": "finance in the 80s and then ran private equity as chairman in the 90s he was just whip smart"
+    },
+    {
+      "start": 4118.160000000001,
+      "end": 4125.52,
+      "text": "but he had such humility and was such a great gentleman when I started Well Rock friends and family"
+    },
+    {
+      "start": 4125.52,
+      "end": 4131.4400000000005,
+      "text": "he was the first call but he said you know I've been at Goldman for 41 years how about I come"
+    },
+    {
+      "start": 4131.4400000000005,
+      "end": 4136.080000000001,
+      "text": "and join you I'll be the gray here I'll be the oversight I'll be the chairman you do what you do"
+    },
+    {
+      "start": 4136.08,
+      "end": 4143.2,
+      "text": "you build the firm in Boston build the team run the money I'll help raise some money and we got"
+    },
+    {
+      "start": 4143.2,
+      "end": 4150.32,
+      "text": "to work together for six years until he passed away in 2011 but I just feel so lucky to have"
+    },
+    {
+      "start": 4150.32,
+      "end": 4156.48,
+      "text": "worked with him it's not easy running a fund we never raised our voice and he was just an"
+    },
+    {
+      "start": 4156.48,
+      "end": 4164.24,
+      "text": "amazing mentor to so many people and when he passed away I got so many letters from people who said"
+    },
+    {
+      "start": 4164.24,
+      "end": 4169.76,
+      "text": "your father was just such an influence on me he was such a gentleman he was such a great mentor to"
+    },
+    {
+      "start": 4169.76,
+      "end": 4176.5599999999995,
+      "text": "me I just feel so lucky to have worked with him and if I could be half the person that he is I'd be"
+    },
+    {
+      "start": 4176.5599999999995,
+      "end": 4183.12,
+      "text": "completely winning how did he do that what was his method why did so many people say that he was modest"
+    },
+    {
+      "start": 4183.12,
+      "end": 4190.48,
+      "text": "he was whip smart he was wise he was also known as a great investor which isn't the most common"
+    },
+    {
+      "start": 4190.4800000000005,
+      "end": 4194.8,
+      "text": "thing at a lot of investment banks he also was on their commitments committee and kept him out of"
+    },
+    {
+      "start": 4194.8,
+      "end": 4202.8,
+      "text": "a lot of tougher situations and he was very warm and people could go into his office with problems"
+    },
+    {
+      "start": 4202.8,
+      "end": 4207.76,
+      "text": "and he handled it with grace whether it's a personal problem or a work issue or what have you"
+    },
+    {
+      "start": 4207.76,
+      "end": 4214.000000000001,
+      "text": "and he just had this soft way and he also had a great sense of humor I'm so lucky Alex thanks"
+    },
+    {
+      "start": 4214.96,
+      "end": 4221.68,
+      "text": "so much if you enjoyed this episode visit Colossus.com you'll find every episode of this podcast"
+    },
+    {
+      "start": 4221.68,
+      "end": 4226.08,
+      "text": "complete with hand out of the transcripts you can also subscribe to Colossus our quarterly print"
+    },
+    {
+      "start": 4226.08,
+      "end": 4230.8,
+      "text": "digital and private audio publication featuring in-depth profiles of the founders investors and"
+    },
+    {
+      "start": 4230.8,
+      "end": 4249.6,
+      "text": "companies that we admire most learn more at Colossus.com slash subscribe"
+    },
+    {
+      "start": 4255.84,
+      "end": 4260.08,
+      "text": "you know how small advantages compound over time that's true in investing and just as true in"
+    },
+    {
+      "start": 4260.08,
+      "end": 4264.72,
+      "text": "how you run your company your spending system is your capital allocation strategy ramp makes it"
+    },
+    {
+      "start": 4264.72,
+      "end": 4270.08,
+      "text": "smarter by default better data better decisions better economics over time see how at ramp.com"
+    },
+    {
+      "start": 4270.08,
+      "end": 4274.72,
+      "text": "slash invest as your business grows vanta scales with you automating compliance and giving you a"
+    },
+    {
+      "start": 4274.72,
+      "end": 4280.5599999999995,
+      "text": "single source of truth for security and risk learn more at vanta.com slash invest every investment firm"
+    },
+    {
+      "start": 4280.5599999999995,
+      "end": 4285.44,
+      "text": "is unique and generic AI doesn't understand your process rogo does it's an AI platform built"
+    },
+    {
+      "start": 4285.44,
+      "end": 4289.6,
+      "text": "specifically for wall street connected to your data understanding your process and producing real"
+    },
+    {
+      "start": 4289.6,
+      "end": 4295.280000000001,
+      "text": "outputs check them out at rogo.ai slash invest the best AI and software companies from open AI"
+    },
+    {
+      "start": 4295.280000000001,
+      "end": 4300.08,
+      "text": "to cursor to perplexity use work OS to become enterprise ready overnight not in months"
+    },
+    {
+      "start": 4300.08,
+      "end": 4304.88,
+      "text": "visit work os.com to skip the unglamorous infrastructure work and focus on your product"
+    },
+    {
+      "start": 4304.88,
+      "end": 4309.68,
+      "text": "ridge line is redefining asset management technology as a true partner not just a software vendor"
+    },
+    {
+      "start": 4309.68,
+      "end": 4314.56,
+      "text": "they've helped firms five x in scale enabling faster growth smarter operations and a competitive"
+    },
+    {
+      "start": 4314.56,
+      "end": 4324.96,
+      "text": "visit ridgelineapps.com to see what they can unlock for your firm"
+    }
+  ]
+}

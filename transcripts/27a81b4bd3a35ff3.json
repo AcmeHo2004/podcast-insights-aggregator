@@ -1,0 +1,876 @@
+{
+  "id": "27a81b4bd3a35ff3",
+  "show": "Thoughts on the Market",
+  "theme": "Macro & Rates",
+  "title": "India’s Next Market Phase",
+  "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/87534b14-8374-460e-b3f6-30259789bfdd.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+  "source": "local-whisper",
+  "duration": 774.0,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Welcome to Thoughts on the Market. I'm Jaitanaya, Morgan Stanley's Chief Asia Economist."
+    },
+    {
+      "start": 5.0,
+      "end": 11.0,
+      "text": "And I'm Rhythm Deswai, Morgan Stanley's Head of India Research and Chief India Equity Strategist."
+    },
+    {
+      "start": 11.0,
+      "end": 16.0,
+      "text": "Today, the biggest takeaways from our India Investment Forum in Mumbai."
+    },
+    {
+      "start": 16.0,
+      "end": 23.0,
+      "text": "From the shifting outlook for India's markets and flows to the sectors driving the next phase of corporate earnings and capex."
+    },
+    {
+      "start": 23.0,
+      "end": 29.0,
+      "text": "It's Friday, June 12th at 7pm in Hong Kong and 4.30pm in Mumbai."
+    },
+    {
+      "start": 30.0,
+      "end": 36.0,
+      "text": "Rhythm Morgan Stanley's India Investment Forum took place in Mumbai last week and I was there with you."
+    },
+    {
+      "start": 36.0,
+      "end": 43.0,
+      "text": "These events are a great opportunity to speak with investors who come across from the globe to attend."
+    },
+    {
+      "start": 43.0,
+      "end": 48.0,
+      "text": "Now that we have had a few days to process the conversations, what stood out to you?"
+    },
+    {
+      "start": 48.0,
+      "end": 53.0,
+      "text": "What was the biggest shift in investor sentiment that you picked on?"
+    },
+    {
+      "start": 53.0,
+      "end": 58.0,
+      "text": "Jaitanaya, I think it's been the case of a continuing story about India."
+    },
+    {
+      "start": 58.0,
+      "end": 69.0,
+      "text": "Domestic investors look that they are bullish and foreign investors continue to stay rather cautious on the Indian markets."
+    },
+    {
+      "start": 69.0,
+      "end": 78.0,
+      "text": "We could see that in the overall attendance. In contrast, I think domestic investors were looking for the next stock that they wanted to buy."
+    },
+    {
+      "start": 78.0,
+      "end": 82.0,
+      "text": "They were seeking opportunities and there was a lot of interest in meeting companies."
+    },
+    {
+      "start": 82.0,
+      "end": 87.0,
+      "text": "Before we get into markets, let me turn back to you from a macro side."
+    },
+    {
+      "start": 87.0,
+      "end": 92.0,
+      "text": "India's growth story remains strong, but relative growth appears to be cooling."
+    },
+    {
+      "start": 92.0,
+      "end": 97.0,
+      "text": "This is in contrast to markets like Japan, Taiwan, Korea and the US."
+    },
+    {
+      "start": 97.0,
+      "end": 102.0,
+      "text": "How should investors think about India's macro positioning in that context?"
+    },
+    {
+      "start": 102.0,
+      "end": 109.0,
+      "text": "When I look at the macro data in India, they are all indicating a meaningful upside in the growth trend."
+    },
+    {
+      "start": 109.0,
+      "end": 114.0,
+      "text": "I'll just cite two key cyclically sensitive macro data points."
+    },
+    {
+      "start": 114.0,
+      "end": 122.0,
+      "text": "One is the banking system credit growth and number two is the auto sales, particularly the passenger vehicle sales."
+    },
+    {
+      "start": 122.0,
+      "end": 128.0,
+      "text": "Bank credit growth is growing as of the last bi-weekly data point that we got."
+    },
+    {
+      "start": 128.0,
+      "end": 137.0,
+      "text": "It's growing at 17.7% year on year and car sales are growing at 27% in the month of May."
+    },
+    {
+      "start": 138.0,
+      "end": 143.0,
+      "text": "But as you were mentioning earlier, the relative growth opportunity is a challenge for India."
+    },
+    {
+      "start": 143.0,
+      "end": 149.0,
+      "text": "And to just share the numbers on the earnings growth for the first quarter that we saw across the region,"
+    },
+    {
+      "start": 149.0,
+      "end": 153.0,
+      "text": "we saw Korea's earnings growth at 170%."
+    },
+    {
+      "start": 153.0,
+      "end": 161.0,
+      "text": "We saw Taiwan's earnings growth at 48% year on year, Japan at 33%."
+    },
+    {
+      "start": 161.0,
+      "end": 166.0,
+      "text": "The US has seen a growth of about 27% year on year."
+    },
+    {
+      "start": 166.0,
+      "end": 170.0,
+      "text": "So in that context, when India is reporting 13% growth,"
+    },
+    {
+      "start": 170.0,
+      "end": 175.0,
+      "text": "it's becoming a challenge for investors to look for opportunities in India relative to other markets,"
+    },
+    {
+      "start": 175.0,
+      "end": 179.0,
+      "text": "either they are more focused on the other markets than India."
+    },
+    {
+      "start": 179.0,
+      "end": 180.0,
+      "text": "So let me come back to you rhythm."
+    },
+    {
+      "start": 180.0,
+      "end": 186.0,
+      "text": "Staying with the investment implications, India projects, stable valuations and strong corporate earnings,"
+    },
+    {
+      "start": 186.0,
+      "end": 189.0,
+      "text": "but its relative growth advantage has narrowed."
+    },
+    {
+      "start": 189.0,
+      "end": 192.0,
+      "text": "How should investors reconcile this contradiction?"
+    },
+    {
+      "start": 193.0,
+      "end": 200.0,
+      "text": "If I go back 35 years as long as we have the MSCI index series and as far as I have been in this industry,"
+    },
+    {
+      "start": 200.0,
+      "end": 204.0,
+      "text": "this is the lowest relative multiple in India has traded at."
+    },
+    {
+      "start": 204.0,
+      "end": 210.0,
+      "text": "And indeed growth last year was weak, but if you see QOQ, we have started to accelerate."
+    },
+    {
+      "start": 210.0,
+      "end": 217.0,
+      "text": "The broad market earnings growth trajectory has shown a doubling in the quarter-ended March over the quarter-ended December."
+    },
+    {
+      "start": 217.0,
+      "end": 222.0,
+      "text": "But it underscores the point you made about the relative growth complex."
+    },
+    {
+      "start": 222.0,
+      "end": 224.0,
+      "text": "It's clearly not in India's favor."
+    },
+    {
+      "start": 224.0,
+      "end": 227.0,
+      "text": "And a lot of the capital in the world is short term oriented,"
+    },
+    {
+      "start": 227.0,
+      "end": 232.0,
+      "text": "and it cares for what growth is going to come in the next quarter or two."
+    },
+    {
+      "start": 232.0,
+      "end": 234.0,
+      "text": "And that's the state of the market right now."
+    },
+    {
+      "start": 234.0,
+      "end": 240.0,
+      "text": "However, what I would say is that equities is a quintessential long duration asset class."
+    },
+    {
+      "start": 240.0,
+      "end": 243.0,
+      "text": "In the long run, what matters is terminal growth."
+    },
+    {
+      "start": 244.0,
+      "end": 248.0,
+      "text": "I don't really think India's terminal growth has moved much."
+    },
+    {
+      "start": 248.0,
+      "end": 253.0,
+      "text": "It remains far superior to a lot of other countries around the world."
+    },
+    {
+      "start": 253.0,
+      "end": 259.0,
+      "text": "And therefore, I think this does present itself as a great opportunity for a long-term investor."
+    },
+    {
+      "start": 259.0,
+      "end": 263.0,
+      "text": "While the markets are digesting this relative growth,"
+    },
+    {
+      "start": 263.0,
+      "end": 268.0,
+      "text": "this advantage that India seems to have over the next three or four quarters."
+    },
+    {
+      "start": 268.0,
+      "end": 273.0,
+      "text": "And with another theme from the forum was policy action to attract capital."
+    },
+    {
+      "start": 273.0,
+      "end": 278.0,
+      "text": "Policymakers announced a number of measures right as our conference ended"
+    },
+    {
+      "start": 278.0,
+      "end": 283.0,
+      "text": "and they aimed to withdraw withholding tax on debt investors,"
+    },
+    {
+      "start": 283.0,
+      "end": 288.0,
+      "text": "also providing banks with an incentive to take up more dollar borrowing."
+    },
+    {
+      "start": 288.0,
+      "end": 293.0,
+      "text": "How central are these measures to sustaining foreign inflows into Indian markets?"
+    },
+    {
+      "start": 293.0,
+      "end": 296.0,
+      "text": "I think the measures taken by policy makers are very important,"
+    },
+    {
+      "start": 296.0,
+      "end": 300.0,
+      "text": "probably amongst the most important policy actions this year."
+    },
+    {
+      "start": 300.0,
+      "end": 304.0,
+      "text": "The removal of taxation on debt investors will make a difference."
+    },
+    {
+      "start": 304.0,
+      "end": 309.0,
+      "text": "The provision for hedging to external commercial borrowings,"
+    },
+    {
+      "start": 309.0,
+      "end": 313.0,
+      "text": "as well as to foreign currency deposits will make a difference."
+    },
+    {
+      "start": 313.0,
+      "end": 318.0,
+      "text": "It should boost flows into India over the next 12 months."
+    },
+    {
+      "start": 318.0,
+      "end": 323.0,
+      "text": "That said, these measures may not help the equity flows."
+    },
+    {
+      "start": 323.0,
+      "end": 328.0,
+      "text": "Because the equity flows, I think, are going to depend on the relative growth situation."
+    },
+    {
+      "start": 328.0,
+      "end": 332.0,
+      "text": "Now, there's only that much India can do to lift its growth."
+    },
+    {
+      "start": 332.0,
+      "end": 334.0,
+      "text": "It may accelerate to the high teens."
+    },
+    {
+      "start": 334.0,
+      "end": 339.0,
+      "text": "So growth elsewhere needs to accelerate for equity investors to return."
+    },
+    {
+      "start": 339.0,
+      "end": 344.0,
+      "text": "Or India needs to see the start of a major IPO cycle."
+    },
+    {
+      "start": 344.0,
+      "end": 347.0,
+      "text": "Because in primary issuances foreigners do come to buy."
+    },
+    {
+      "start": 347.0,
+      "end": 352.0,
+      "text": "And that may change the net picture on FBI flows in the equity markets."
+    },
+    {
+      "start": 352.0,
+      "end": 355.0,
+      "text": "But as far as the debt markets are concerned,"
+    },
+    {
+      "start": 355.0,
+      "end": 359.0,
+      "text": "I think the measures taken last week are going to prove to be quite important."
+    },
+    {
+      "start": 359.0,
+      "end": 363.0,
+      "text": "And India should see the benefits accruing over the next few weeks and months."
+    },
+    {
+      "start": 363.0,
+      "end": 367.0,
+      "text": "Chetan, from your perspective, how important is the policy backdrop right now"
+    },
+    {
+      "start": 367.0,
+      "end": 371.0,
+      "text": "in determining whether India can keep attracting long-term global capital"
+    },
+    {
+      "start": 371.0,
+      "end": 375.0,
+      "text": "despite more competitive returns elsewhere in the short run?"
+    },
+    {
+      "start": 375.0,
+      "end": 379.0,
+      "text": "So rhythm, I think the key focus for the policy makers had been"
+    },
+    {
+      "start": 379.0,
+      "end": 385.0,
+      "text": "with these measures to boost short-term capital inflows to stabilize the currency."
+    },
+    {
+      "start": 385.0,
+      "end": 388.0,
+      "text": "There has been a balance of payment deficit."
+    },
+    {
+      "start": 388.0,
+      "end": 393.0,
+      "text": "So from that perspective, the short-term capital inflow augmentation effort,"
+    },
+    {
+      "start": 393.0,
+      "end": 395.0,
+      "text": "as you mentioned, has been the correct move."
+    },
+    {
+      "start": 395.0,
+      "end": 397.0,
+      "text": "But from the long-term perspective,"
+    },
+    {
+      "start": 397.0,
+      "end": 402.0,
+      "text": "we think that the government needs to boost comparitiveness of the Indian manufacturing sector."
+    },
+    {
+      "start": 402.0,
+      "end": 406.0,
+      "text": "Because in the context in which AI could affect India's services exports,"
+    },
+    {
+      "start": 406.0,
+      "end": 411.0,
+      "text": "there is a need to augment more export receipts from the manufacturing sector."
+    },
+    {
+      "start": 411.0,
+      "end": 416.0,
+      "text": "At the same time, if they improve the comparitiveness of the manufacturing sector,"
+    },
+    {
+      "start": 416.0,
+      "end": 423.0,
+      "text": "it will help India to attract more capital inflows from long-term investors for the purpose of FDI."
+    },
+    {
+      "start": 423.0,
+      "end": 426.0,
+      "text": "And the good news is that the government is on it."
+    },
+    {
+      "start": 426.0,
+      "end": 431.0,
+      "text": "They are taking a number of measures to boost that comparitiveness in the manufacturing."
+    },
+    {
+      "start": 431.0,
+      "end": 434.0,
+      "text": "But we think that there is more action needed."
+    },
+    {
+      "start": 434.0,
+      "end": 440.0,
+      "text": "And hopefully, in the intention to improve the balance of payment dynamics"
+    },
+    {
+      "start": 440.0,
+      "end": 443.0,
+      "text": "and exports from manufacturing sector,"
+    },
+    {
+      "start": 443.0,
+      "end": 446.0,
+      "text": "we will see more actions from the government in the coming months."
+    },
+    {
+      "start": 446.0,
+      "end": 452.0,
+      "text": "Jayadhan, you've also written extensively about the structural capital spending cycle in Asia and India."
+    },
+    {
+      "start": 452.0,
+      "end": 457.0,
+      "text": "Can you walk us through the key details here, especially in the Indian context?"
+    },
+    {
+      "start": 457.0,
+      "end": 462.0,
+      "text": "I think the key story that we are observing, it's sort of more or less global,"
+    },
+    {
+      "start": 462.0,
+      "end": 465.0,
+      "text": "but definitely very clearly seen in Asia,"
+    },
+    {
+      "start": 465.0,
+      "end": 472.0,
+      "text": "that there seems to be a super cycle for capex as well as industrial activity."
+    },
+    {
+      "start": 472.0,
+      "end": 477.0,
+      "text": "This capex cycle is effectively driven by spending in four key sectors"
+    },
+    {
+      "start": 477.0,
+      "end": 483.0,
+      "text": "and that is AI and AI related digital infrastructure, energy, defense,"
+    },
+    {
+      "start": 483.0,
+      "end": 488.0,
+      "text": "and industrial on-shoring related capex."
+    },
+    {
+      "start": 488.0,
+      "end": 494.0,
+      "text": "As far as India is concerned, we are seeing investments in all the four segments that I just mentioned."
+    },
+    {
+      "start": 494.0,
+      "end": 500.0,
+      "text": "In fact, it's significant amount of activity in the space of energy."
+    },
+    {
+      "start": 500.0,
+      "end": 506.0,
+      "text": "And similarly, we are seeing a lot of policy measures that I mentioned earlier"
+    },
+    {
+      "start": 506.0,
+      "end": 509.0,
+      "text": "in terms of boosting manufacturing competitiveness."
+    },
+    {
+      "start": 509.0,
+      "end": 514.0,
+      "text": "But at the heart of it is government's effort to ensure industrial supply chain."
+    },
+    {
+      "start": 514.0,
+      "end": 518.0,
+      "text": "So India's capex has also inflected higher,"
+    },
+    {
+      "start": 518.0,
+      "end": 522.0,
+      "text": "having said that the difference between India and let's say North Asia,"
+    },
+    {
+      "start": 522.0,
+      "end": 525.0,
+      "text": "which is Korea, Taiwan, Japan and China,"
+    },
+    {
+      "start": 525.0,
+      "end": 530.0,
+      "text": "is that they are also a big player in the export market for capital goods"
+    },
+    {
+      "start": 530.0,
+      "end": 533.0,
+      "text": "when there is global capex cycle upswing happening."
+    },
+    {
+      "start": 533.0,
+      "end": 538.0,
+      "text": "Nevertheless, India will see the benefit of this capex cycle in terms of its own growth push,"
+    },
+    {
+      "start": 538.0,
+      "end": 541.0,
+      "text": "as well as improvement in productivity."
+    },
+    {
+      "start": 541.0,
+      "end": 546.0,
+      "text": "So, Rida, how would you think about the sectoral opportunity within the Indian markets?"
+    },
+    {
+      "start": 546.0,
+      "end": 552.0,
+      "text": "We see a lot of interest in some of these sectors which you mentioned."
+    },
+    {
+      "start": 552.0,
+      "end": 555.0,
+      "text": "But actually, I would like to start off with financials."
+    },
+    {
+      "start": 555.0,
+      "end": 559.0,
+      "text": "I see the banks in a very sweet spot."
+    },
+    {
+      "start": 559.0,
+      "end": 561.0,
+      "text": "Balance sheets are in pristine condition."
+    },
+    {
+      "start": 561.0,
+      "end": 564.0,
+      "text": "The interest rate cycle has dropped,"
+    },
+    {
+      "start": 565.0,
+      "end": 569.0,
+      "text": "which means margins for the banks have also bottomed,"
+    },
+    {
+      "start": 569.0,
+      "end": 572.0,
+      "text": "and credit growth is finally accelerating."
+    },
+    {
+      "start": 572.0,
+      "end": 576.0,
+      "text": "If this capex cycle unfolds like the way you are describing it,"
+    },
+    {
+      "start": 576.0,
+      "end": 579.0,
+      "text": "I think financials will stand to gain the most."
+    },
+    {
+      "start": 579.0,
+      "end": 583.0,
+      "text": "And interestingly, the valuations are quite good,"
+    },
+    {
+      "start": 583.0,
+      "end": 586.0,
+      "text": "both on an absolute as well as on a relative basis."
+    },
+    {
+      "start": 586.0,
+      "end": 590.0,
+      "text": "Also, of course, investors can go directly into those sectors"
+    },
+    {
+      "start": 590.0,
+      "end": 599.0,
+      "text": "that are doing this capital spend energy to start with semiconductors, fertilizers, data centers,"
+    },
+    {
+      "start": 599.0,
+      "end": 601.0,
+      "text": "and aerospace."
+    },
+    {
+      "start": 601.0,
+      "end": 608.0,
+      "text": "The only thing to note here is that not everywhere are the valuations attractive enough,"
+    },
+    {
+      "start": 608.0,
+      "end": 614.0,
+      "text": "because in some cases, the market has recognized the coming growth cycle"
+    },
+    {
+      "start": 614.0,
+      "end": 616.0,
+      "text": "and has started to price that in."
+    },
+    {
+      "start": 616.0,
+      "end": 619.0,
+      "text": "So, we have to be careful about the valuations."
+    },
+    {
+      "start": 619.0,
+      "end": 622.0,
+      "text": "I think financials and industrials are clearly great opportunities"
+    },
+    {
+      "start": 622.0,
+      "end": 628.0,
+      "text": "in the context of this capex recovery that India is likely to see in the coming five years."
+    },
+    {
+      "start": 628.0,
+      "end": 632.0,
+      "text": "And additionally, the most requested companies at the summit,"
+    },
+    {
+      "start": 632.0,
+      "end": 634.0,
+      "text": "rhythm-bare consumer sector companies,"
+    },
+    {
+      "start": 634.0,
+      "end": 638.0,
+      "text": "what do you think investors are looking for at this sector over others?"
+    },
+    {
+      "start": 638.0,
+      "end": 642.0,
+      "text": "So, Chita, I think from a structural perspective, the Indian consumer"
+    },
+    {
+      "start": 642.0,
+      "end": 645.0,
+      "text": "is quite clearly the best place to be."
+    },
+    {
+      "start": 645.0,
+      "end": 648.0,
+      "text": "In fact, I would say that it's the leverage that India enjoys"
+    },
+    {
+      "start": 648.0,
+      "end": 650.0,
+      "text": "over the rest of the world."
+    },
+    {
+      "start": 650.0,
+      "end": 654.0,
+      "text": "The 1.5 billion people in this country are split across, say,"
+    },
+    {
+      "start": 654.0,
+      "end": 658.0,
+      "text": "150 cohorts of 10 million each."
+    },
+    {
+      "start": 658.0,
+      "end": 662.0,
+      "text": "And each of these cohorts have got different consumption opportunities."
+    },
+    {
+      "start": 662.0,
+      "end": 667.0,
+      "text": "So, depending on what product or service you're offering to your consumers,"
+    },
+    {
+      "start": 667.0,
+      "end": 673.0,
+      "text": "there's a market in India, and which in nominal terms is growing between 10 and 15%."
+    },
+    {
+      "start": 673.0,
+      "end": 679.0,
+      "text": "As we know, last year India counted for something around 17 or 18% of global GDP growth,"
+    },
+    {
+      "start": 679.0,
+      "end": 684.0,
+      "text": "which means, depending again on what you are selling to your consumer,"
+    },
+    {
+      "start": 684.0,
+      "end": 688.0,
+      "text": "India could be between 10 and 100% of your revenue growth."
+    },
+    {
+      "start": 688.0,
+      "end": 693.0,
+      "text": "So, India's consumer is something that hardly anybody can avoid."
+    },
+    {
+      "start": 693.0,
+      "end": 697.0,
+      "text": "So, in summary, Chaitan, when I look at it from an investment opportunity,"
+    },
+    {
+      "start": 697.0,
+      "end": 700.0,
+      "text": "financials, industrials and consumption,"
+    },
+    {
+      "start": 700.0,
+      "end": 703.0,
+      "text": "not necessarily in that particular order,"
+    },
+    {
+      "start": 703.0,
+      "end": 707.0,
+      "text": "are probably the best places for investors to look at."
+    },
+    {
+      "start": 707.0,
+      "end": 711.0,
+      "text": "However, IT services, I think could be the dark horse."
+    },
+    {
+      "start": 711.0,
+      "end": 717.0,
+      "text": "It's a sector right now which is disrupted or potentially disrupted by AI."
+    },
+    {
+      "start": 717.0,
+      "end": 721.0,
+      "text": "There's a lot of confusion there, but I think as the dust settles on this,"
+    },
+    {
+      "start": 721.0,
+      "end": 726.0,
+      "text": "it may emerge as one of the most interesting areas for investors to look at."
+    },
+    {
+      "start": 726.0,
+      "end": 729.0,
+      "text": "So, there's a lot of stuff in India happening right now."
+    },
+    {
+      "start": 729.0,
+      "end": 731.0,
+      "text": "I think growth is accelerating."
+    },
+    {
+      "start": 731.0,
+      "end": 733.0,
+      "text": "Valuations are looking quite interesting."
+    },
+    {
+      "start": 733.0,
+      "end": 736.0,
+      "text": "In fact, the best that they've been in many, many years."
+    },
+    {
+      "start": 736.0,
+      "end": 740.0,
+      "text": "Training performance suggests that investors are not positioned at all."
+    },
+    {
+      "start": 740.0,
+      "end": 743.0,
+      "text": "And if things start looking up,"
+    },
+    {
+      "start": 743.0,
+      "end": 747.0,
+      "text": "then India could be a very good market in the coming 12 months."
+    },
+    {
+      "start": 747.0,
+      "end": 749.0,
+      "text": "Rhythm, thanks for taking the time to talk."
+    },
+    {
+      "start": 749.0,
+      "end": 751.0,
+      "text": "Great speaking with you, Chaitan."
+    },
+    {
+      "start": 751.0,
+      "end": 752.0,
+      "text": "And thanks for listening."
+    },
+    {
+      "start": 752.0,
+      "end": 755.0,
+      "text": "If you enjoy thoughts on the market, please leave us a review,"
+    },
+    {
+      "start": 755.0,
+      "end": 758.0,
+      "text": "wherever you listen and share the podcasts with a friend or a colleague today."
+    },
+    {
+      "start": 760.0,
+      "end": 765.0,
+      "text": "The preceding content is informational only and based on information available when created."
+    },
+    {
+      "start": 765.0,
+      "end": 769.0,
+      "text": "It is not an offer or solicitation, nor is it tax or legal advice."
+    },
+    {
+      "start": 769.0,
+      "end": 772.0,
+      "text": "It does not consider your financial circumstances and objectives,"
+    },
+    {
+      "start": 772.0,
+      "end": 774.0,
+      "text": "and may not be suitable for you."
+    }
+  ]
+}

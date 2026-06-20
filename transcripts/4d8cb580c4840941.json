@@ -1,0 +1,4221 @@
+{
+  "id": "4d8cb580c4840941",
+  "show": "Macro Voices",
+  "theme": "Macro & Rates",
+  "title": "MacroVoices #533 Morgan Downey: The Return of Oil 101",
+  "audio_url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/uc64ru73dye28db8/Macrovoices-2026-05-21-Morgan-Downey.mp3",
+  "source": "local-whisper",
+  "duration": 4952.7,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.52,
+      "text": "This is MacroVoices, the free weekly financial podcast targeting professional finance,"
+    },
+    {
+      "start": 13.52,
+      "end": 18.84,
+      "text": "high net worth individuals, family offices, and other sophisticated investors."
+    },
+    {
+      "start": 18.84,
+      "end": 23.92,
+      "text": "MacroVoices is all about the brightest minds in the world of finance and macroeconomics"
+    },
+    {
+      "start": 23.92,
+      "end": 28.080000000000002,
+      "text": "telling it like it is, bullish or bearish, no holds barred."
+    },
+    {
+      "start": 28.16,
+      "end": 32.0,
+      "text": "Now, here are your hosts, Eric Townsend and Patrick Ceresna."
+    },
+    {
+      "start": 32.88,
+      "end": 38.88,
+      "text": "MacroVoices Episode 533 was produced on May 21st, 2026. I'm Eric Townsend."
+    },
+    {
+      "start": 39.52,
+      "end": 44.08,
+      "text": "Another week has passed and the Strait of Hormuz is still effectively closed."
+    },
+    {
+      "start": 44.08,
+      "end": 49.760000000000005,
+      "text": "As of recording time, there were rumors flying about that yet another deal was supposedly"
+    },
+    {
+      "start": 49.760000000000005,
+      "end": 54.480000000000004,
+      "text": "imminent, but we heard that story several times before and it didn't happen."
+    },
+    {
+      "start": 55.120000000000005,
+      "end": 59.92,
+      "text": "Many of you who aren't professional crude oil traders don't know the name Morgan Downey."
+    },
+    {
+      "start": 60.56,
+      "end": 67.76,
+      "text": "But for almost everyone who's a pro oil trader, Morgan's 2009 book Oil 101 is as familiar"
+    },
+    {
+      "start": 67.76,
+      "end": 73.2,
+      "text": "as Canes or Hayek. Morgan joins me as a first time guest to talk about this crisis"
+    },
+    {
+      "start": 73.2,
+      "end": 78.56,
+      "text": "and Morgan says that we've reached the point already now where the buffers and safety margins"
+    },
+    {
+      "start": 78.56,
+      "end": 83.60000000000001,
+      "text": "have all been consumed. Morgan says if the Strait stays closed for another month,"
+    },
+    {
+      "start": 83.60000000000001,
+      "end": 90.24000000000001,
+      "text": "we'll be looking at $150-$200 oil prices. We'll discuss why he sees that outcome,"
+    },
+    {
+      "start": 90.24000000000001,
+      "end": 94.64000000000001,
+      "text": "along with several other dimensions of this crisis in this week's feature interview."
+    },
+    {
+      "start": 94.64000000000001,
+      "end": 98.88000000000001,
+      "text": "They'll be sure to stay tuned for our pro scam segment when Patrick's Trade of the Week will"
+    },
+    {
+      "start": 98.88000000000001,
+      "end": 104.64000000000001,
+      "text": "explore a setup built around Morgan Downey's view that this oil shock may have consequences"
+    },
+    {
+      "start": 104.64000000000001,
+      "end": 110.16000000000001,
+      "text": "well beyond the next headline, creating a broader aftermath story for energy markets."
+    },
+    {
+      "start": 110.16,
+      "end": 114.8,
+      "text": "And then we'll have our usual coverage of all the markets with Patrick's post game chart deck."
+    },
+    {
+      "start": 114.8,
+      "end": 119.6,
+      "text": "And I'm Patrick's resident with the macro scoreboard week over week as of the close of Wednesday,"
+    },
+    {
+      "start": 119.6,
+      "end": 128.96,
+      "text": "May 20th, 2026. The S&P 500 index down 15 basis points trading at 74-33. It's unchanged over"
+    },
+    {
+      "start": 128.96,
+      "end": 134.8,
+      "text": "the week, but the question will be will it be the semis or the Iran headlines that will drive"
+    },
+    {
+      "start": 134.8,
+      "end": 139.84,
+      "text": "the next move. We'll take a closer look at that chart and the key technical levels to watch"
+    },
+    {
+      "start": 139.84,
+      "end": 146.32,
+      "text": "in the post game segment. The US dollar index up 61 basis points trading at 99-12."
+    },
+    {
+      "start": 146.32,
+      "end": 153.28,
+      "text": "The July WTI Crude Oil Contract up 154 basis points trading at 98-26."
+    },
+    {
+      "start": 153.28,
+      "end": 158.56,
+      "text": "Substantial volatility in the oil markets has depleted inventories wrestle with the optimism"
+    },
+    {
+      "start": 158.56,
+      "end": 165.68,
+      "text": "that the war ends soon. The July R-Baba gasoline down 259 basis points trading at 338."
+    },
+    {
+      "start": 165.68,
+      "end": 171.52,
+      "text": "The June Gold Contract down 363 basis points trading at 45-35."
+    },
+    {
+      "start": 171.52,
+      "end": 178.08,
+      "text": "Continues to grind with little attention. The July Copper Contract down 510 basis points"
+    },
+    {
+      "start": 178.08,
+      "end": 186.96,
+      "text": "trading at 633. And the May Uranium Contract down 146 basis points trading at 84-55."
+    },
+    {
+      "start": 186.96,
+      "end": 193.12,
+      "text": "Now those US 10-year Treasury yields up 12 basis points trading at 458,"
+    },
+    {
+      "start": 193.12,
+      "end": 198.4,
+      "text": "making fresh new multi-month highs as yields press on inflation concerns."
+    },
+    {
+      "start": 198.4,
+      "end": 204.72,
+      "text": "The key news to watch next week is the core PCE price index and the preliminary GDP numbers."
+    },
+    {
+      "start": 204.72,
+      "end": 210.24,
+      "text": "This week's feature interview guest is Morgan Downey. Eric and Morgan discuss why the"
+    },
+    {
+      "start": 210.24,
+      "end": 216.88,
+      "text": "straight-ahormous disruption may be one of the most significant oil market events in modern history."
+    },
+    {
+      "start": 216.88,
+      "end": 222.16,
+      "text": "Why temporary buffers have kept prices contained so far and how the longer term"
+    },
+    {
+      "start": 222.16,
+      "end": 227.76,
+      "text": "aftermath could reshape energy infrastructure, production and market risk."
+    },
+    {
+      "start": 227.76,
+      "end": 234.96,
+      "text": "Eric's interview with Morgan Downey is coming up as macrovoices continues right here at macrovoices.com."
+    },
+    {
+      "start": 242.56,
+      "end": 247.28,
+      "text": "And now with this week's special guest, here's your host, Eric Townsend."
+    },
+    {
+      "start": 248.24,
+      "end": 254.24,
+      "text": "Joining me now is Boxwood CEO Morgan Downey, who's probably much better known as the author"
+    },
+    {
+      "start": 254.24,
+      "end": 259.12,
+      "text": "of Oil 101. For any listeners who are not familiar with that book, I guess for most"
+    },
+    {
+      "start": 259.12,
+      "end": 262.96,
+      "text": "professional investors, even maybe if you're not on the oil market you haven't heard of it."
+    },
+    {
+      "start": 262.96,
+      "end": 268.48,
+      "text": "But if you are in the oil market, there's nobody who's anybody who didn't start their career"
+    },
+    {
+      "start": 268.48,
+      "end": 273.68,
+      "text": "reading Oil 101 by Morgan Downey, which is a book that really goes from upstream to downstream"
+    },
+    {
+      "start": 273.68,
+      "end": 279.52,
+      "text": "and tells the whole story of how the energy market works from the logistics and the tankers"
+    },
+    {
+      "start": 279.52,
+      "end": 283.68,
+      "text": "all the way to future trading. It's an amazing book. There is a new version. We'll talk about that"
+    },
+    {
+      "start": 283.68,
+      "end": 288.8,
+      "text": "at the end of the interview. But Morgan, I want to start with the big picture. Boy, Middle East,"
+    },
+    {
+      "start": 288.8,
+      "end": 293.36,
+      "text": "I keep telling my listeners. I think it's a really, really big deal. Maybe more than the equity"
+    },
+    {
+      "start": 293.36,
+      "end": 298.0,
+      "text": "market is discounting. You're the expert. You're literally the man who wrote the book on the market."
+    },
+    {
+      "start": 298.0,
+      "end": 304.0,
+      "text": "Is this just another hiccup, another Middle East skirmish, or is this a significant event in"
+    },
+    {
+      "start": 304.0,
+      "end": 310.4,
+      "text": "the history of the oil market? This is the significant event. The next 1500 years,"
+    },
+    {
+      "start": 310.4,
+      "end": 316.0,
+      "text": "whatever the next history of oil over the next 200 years probably is written. We are living in an"
+    },
+    {
+      "start": 316.0,
+      "end": 322.08,
+      "text": "event that people have modeled traders of modelers, risk managers of modelers. The oil market itself"
+    },
+    {
+      "start": 322.08,
+      "end": 328.88,
+      "text": "has modeled it for the last 60 years. This is it. This is the most significant event in the oil"
+    },
+    {
+      "start": 328.88,
+      "end": 338.0,
+      "text": "market. And since probably World War II, even it's greater than the 1970s crises, it's a larger"
+    },
+    {
+      "start": 338.0,
+      "end": 343.76,
+      "text": "event. And what's interesting is that a lot of things that people had presumed were going to happen"
+    },
+    {
+      "start": 343.76,
+      "end": 348.71999999999997,
+      "text": "when a situation like this occurs, the shutting of the Strait of Hormuz, have not happened. We"
+    },
+    {
+      "start": 348.72,
+      "end": 354.40000000000003,
+      "text": "haven't seen $500 oil yet. Yes, because we're still in the middle of the crisis. We're at 100,"
+    },
+    {
+      "start": 354.40000000000003,
+      "end": 361.20000000000005,
+      "text": "just over $100. And we also haven't seen kind of a panic and a kind of equity markets are still"
+    },
+    {
+      "start": 361.20000000000005,
+      "end": 367.36,
+      "text": "relatively strong. So this is a crisis that everyone had worried about that potentially would happen."
+    },
+    {
+      "start": 367.36,
+      "end": 374.40000000000003,
+      "text": "It's happened and it is happening. But now a lot of the assumptions of how the world would react"
+    },
+    {
+      "start": 374.40000000000003,
+      "end": 379.04,
+      "text": "have not come to pass. As I said, equities seem to be sailing along, okay?"
+    },
+    {
+      "start": 379.04,
+      "end": 384.08000000000004,
+      "text": "World prices are a little bit higher, but not at crisis levels higher. It seems that the world's"
+    },
+    {
+      "start": 384.08000000000004,
+      "end": 389.92,
+      "text": "kind of taking this in stride, which is very unusual. The world taking this in stride is not what"
+    },
+    {
+      "start": 389.92,
+      "end": 395.28000000000003,
+      "text": "people would have predicted. So why is that? Because as you say, this is, you know, Strait"
+    },
+    {
+      "start": 395.28000000000003,
+      "end": 401.28000000000003,
+      "text": "of Hormuz closure has literally been the stuff of Doomsday blogs. You know, it's what the"
+    },
+    {
+      "start": 401.28000000000003,
+      "end": 407.12,
+      "text": "dooms say. Oh, my God, Strait of Hormuz closed for a few weeks. You'd see $1,000 oil. You know,"
+    },
+    {
+      "start": 408.32000000000005,
+      "end": 414.08000000000004,
+      "text": "it's been way longer than anybody. And I used to get laughed out of the room for worrying about"
+    },
+    {
+      "start": 414.08000000000004,
+      "end": 419.04,
+      "text": "this because people thought it was a Doomsday scenario that's never going to happen. And even the"
+    },
+    {
+      "start": 419.04,
+      "end": 424.48,
+      "text": "people who were the biggest skeptics Morgan, what they said is that can't happen because the consequences"
+    },
+    {
+      "start": 424.48,
+      "end": 429.28000000000003,
+      "text": "would be so dire that we couldn't possibly let it go on for more than a few weeks. Well,"
+    },
+    {
+      "start": 429.92,
+      "end": 436.48,
+      "text": "yeah, but it did. Nothing really that big of a deal has happened yet. Yep. And I think a few"
+    },
+    {
+      "start": 436.48,
+      "end": 442.56000000000006,
+      "text": "key things have mitigated, at least in the short term, and we're all we're two months into this"
+    },
+    {
+      "start": 442.56000000000006,
+      "end": 448.8,
+      "text": "situation. But a few things have happened. One was at the huge strategic petroleum reserves"
+    },
+    {
+      "start": 448.8,
+      "end": 453.44000000000005,
+      "text": "releases around the world. So you have the US SPR release and a whole bunch of other countries"
+    },
+    {
+      "start": 453.44,
+      "end": 459.84,
+      "text": "within the IEA, the International Energy Organization release desk viewers. China has a big SPR,"
+    },
+    {
+      "start": 459.84,
+      "end": 467.12,
+      "text": "their own domestic SPR. So there was a large short term dumping of oil, physical oil into the oil"
+    },
+    {
+      "start": 467.12,
+      "end": 472.15999999999997,
+      "text": "market. And oil is a very unusual commodity. It was not unusual. It's like any commodity in that"
+    },
+    {
+      "start": 472.15999999999997,
+      "end": 476.8,
+      "text": "the oil industry hates to carry inventories, carrying inventories, storing oil in tanks or in"
+    },
+    {
+      "start": 476.8,
+      "end": 481.44,
+      "text": "pipelines or ships or whatever. It costs money. Well, the oil industry loves to get out of the ground"
+    },
+    {
+      "start": 481.52,
+      "end": 486.88,
+      "text": "and get it to the customer as quickly as possible. It's never really that profitable to store oil."
+    },
+    {
+      "start": 486.88,
+      "end": 492.32,
+      "text": "So the oil industry tends to try and run inventories, stored oil as lean as possible. That's"
+    },
+    {
+      "start": 492.32,
+      "end": 498.32,
+      "text": "always been the case for since the oil industry began 150 years ago. And that lot of oil from"
+    },
+    {
+      "start": 498.32,
+      "end": 503.28,
+      "text": "these strategic petroleum reserves, that's a lot of oil for all to be released in one month."
+    },
+    {
+      "start": 503.28,
+      "end": 509.28,
+      "text": "I'm into the market. It's like someone a snake eating lentilope. It's kind of stalled the rally"
+    },
+    {
+      "start": 509.28000000000003,
+      "end": 515.2,
+      "text": "in oil markets because the oil market kind of has to digest that big lot of oil from the SPR"
+    },
+    {
+      "start": 515.2,
+      "end": 520.4,
+      "text": "releases that were released in one lot. So that was the first thing that stalled the rally. It"
+    },
+    {
+      "start": 520.4,
+      "end": 525.52,
+      "text": "stopped in immediately. It was like throwing a water on a fire just quenched it. The"
+    },
+    {
+      "start": 526.24,
+      "end": 532.0,
+      "text": "challenge is that there's only so much SPR out there. This is not an indefinite situation where"
+    },
+    {
+      "start": 532.0,
+      "end": 537.52,
+      "text": "you can keep dumping SPR into the market. But it did stall that initial rally. And then in addition"
+    },
+    {
+      "start": 537.52,
+      "end": 543.92,
+      "text": "to that, you had some demand reduction. I mean, when you went from we were before the crisis"
+    },
+    {
+      "start": 543.92,
+      "end": 550.8,
+      "text": "in the 60s, basis WTI or even Brent crude. And now we got up to 100. Some demand did fall off."
+    },
+    {
+      "start": 550.8,
+      "end": 555.4399999999999,
+      "text": "It wasn't a huge amount, but a little, usually it's jet fuel is the first thing that reacts when"
+    },
+    {
+      "start": 555.4399999999999,
+      "end": 562.48,
+      "text": "oil spikes. So jet fuel demand fell off a little bit enough that it took the edge off the rally."
+    },
+    {
+      "start": 562.48,
+      "end": 567.1999999999999,
+      "text": "So you had the SPR release. You had a little bit of demand destruction. Demand destruction in oil"
+    },
+    {
+      "start": 567.76,
+      "end": 573.36,
+      "text": "jet fuel is one of the first to go because it's discretionary. People just choose to drive to"
+    },
+    {
+      "start": 573.36,
+      "end": 578.24,
+      "text": "their vacation or take a train rather than fly to the other side of the world. So jet fuel,"
+    },
+    {
+      "start": 578.24,
+      "end": 582.72,
+      "text": "there was a little bit of demand destruction. And then you had the SPR. So you had a little bit"
+    },
+    {
+      "start": 582.72,
+      "end": 587.36,
+      "text": "of demand destruction. And then you had what I kind of think is it kind of the hidden thing that"
+    },
+    {
+      "start": 587.36,
+      "end": 592.08,
+      "text": "has occurred in the oil market over the past five years in particular is that over the past five"
+    },
+    {
+      "start": 592.08,
+      "end": 597.84,
+      "text": "years we had a huge increase in efficiency in inventory use across the oil industry. And it's"
+    },
+    {
+      "start": 597.84,
+      "end": 603.6800000000001,
+      "text": "one of the most boring things to talk about. If you look at BP or Shell or Exxon's financials deep"
+    },
+    {
+      "start": 603.6800000000001,
+      "end": 610.48,
+      "text": "in there, they'll talk about working capital usage and that they've gotten 20, 30% more efficient"
+    },
+    {
+      "start": 610.48,
+      "end": 615.6,
+      "text": "in terms of their working capital usage, which is basically a lot of its inventory storage oil."
+    },
+    {
+      "start": 615.6,
+      "end": 621.6800000000001,
+      "text": "They've reduced their needs to store oil by 20, 30% over the last five years. A lot of that is due"
+    },
+    {
+      "start": 622.1600000000001,
+      "end": 627.7600000000001,
+      "text": "to they've now got sensors, electronic sensors on pipelines and tanks. So they got real-time data on"
+    },
+    {
+      "start": 627.7600000000001,
+      "end": 633.36,
+      "text": "inventory levels. It used to be 10 years ago, 20 years ago, a guy sticking a stick into a big tank."
+    },
+    {
+      "start": 633.36,
+      "end": 638.5600000000001,
+      "text": "It was literally that basic even as recent as 10, 20 years ago, that's all gone out. It's all"
+    },
+    {
+      "start": 638.5600000000001,
+      "end": 644.32,
+      "text": "electronic. You've got much better demand forecasting models. So people can, the oil industry is a lot of"
+    },
+    {
+      "start": 644.32,
+      "end": 649.84,
+      "text": "really low small local markets. It's a big global market. But at the end of the day, there's usually"
+    },
+    {
+      "start": 649.9200000000001,
+      "end": 655.36,
+      "text": "this airport, this tank terminal, this gas station. It's a very local market. And so the oil"
+    },
+    {
+      "start": 655.36,
+      "end": 660.4,
+      "text": "industry has become much better at forecasting local, hyper-local level demand. It's kind of like"
+    },
+    {
+      "start": 661.12,
+      "end": 665.76,
+      "text": "almost the Amazon does delivery. The oil industry has applied that same big data technology to"
+    },
+    {
+      "start": 665.76,
+      "end": 671.52,
+      "text": "inventories such that the world has ran in the numbers here, 8 billion barrels of oil and storage,"
+    },
+    {
+      "start": 671.52,
+      "end": 677.9200000000001,
+      "text": "globally, in SPOs and commercial storage. 10 years ago, had 8 billion. Today, it has also 8 billion."
+    },
+    {
+      "start": 677.92,
+      "end": 683.5999999999999,
+      "text": "But the world has kind of loosened up the need for that 8 billion by about 1 billion barrels."
+    },
+    {
+      "start": 683.5999999999999,
+      "end": 690.16,
+      "text": "So there's a hidden kind of extra availability of oil in the market in these inventories that"
+    },
+    {
+      "start": 690.16,
+      "end": 695.68,
+      "text": "has been loosened up by just technology improvements over the past five years. And if the evidence for"
+    },
+    {
+      "start": 695.68,
+      "end": 701.4399999999999,
+      "text": "this is, you have to just look, just search for a working capital of BP. They announced their last"
+    },
+    {
+      "start": 701.44,
+      "end": 708.8800000000001,
+      "text": "year. They had, as I said, reduced their inventory levels by 25, 30%. And so that, I think, has been"
+    },
+    {
+      "start": 708.8800000000001,
+      "end": 714.8800000000001,
+      "text": "kind of a hidden reason for oil kind of being a little bit looser in terms of this not rallying"
+    },
+    {
+      "start": 714.8800000000001,
+      "end": 720.96,
+      "text": "to $200, $500. And then finally, another reason is there was a lot of oil in floating tankers."
+    },
+    {
+      "start": 720.96,
+      "end": 727.2,
+      "text": "I mean, everyone points to it. There was 150, 180 million barrels of Iranian oil because Iran,"
+    },
+    {
+      "start": 727.6800000000001,
+      "end": 735.0400000000001,
+      "text": "before this crisis, it was sanctioned. And so via mostly US sanctions, but that meant that Chinese"
+    },
+    {
+      "start": 735.0400000000001,
+      "end": 738.5600000000001,
+      "text": "were refineries and a lot of refineries around the world, they would buy the occasional cargo,"
+    },
+    {
+      "start": 738.5600000000001,
+      "end": 744.4000000000001,
+      "text": "but they were very reluctant to deal with Iranian oil. So Iran had to store all this, they kept producing"
+    },
+    {
+      "start": 744.4000000000001,
+      "end": 750.32,
+      "text": "oil. And they just put it in tankers offshore Malaysia and offshore Singapore, New York Singapore."
+    },
+    {
+      "start": 750.88,
+      "end": 756.1600000000001,
+      "text": "And a lot of that oil now is being drawn down. So there was kind of, there was a little bit of excess,"
+    },
+    {
+      "start": 756.16,
+      "end": 762.56,
+      "text": "or not a little bit, a lot of excess supply in the market. And so all of that together combined"
+    },
+    {
+      "start": 762.56,
+      "end": 769.1999999999999,
+      "text": "the big SPU, that was like a first shot that we took the energy out of the rally. And the world"
+    },
+    {
+      "start": 769.1999999999999,
+      "end": 774.8,
+      "text": "is probably another one or two slugs of SPU releases that could hit the market if governments"
+    },
+    {
+      "start": 774.8,
+      "end": 780.16,
+      "text": "decided over the next month or so. But and then you had the inventory efficiencies, you had the"
+    },
+    {
+      "start": 780.16,
+      "end": 784.9599999999999,
+      "text": "floating storage that Iran and a few other countries had. And so you had all of these kind of"
+    },
+    {
+      "start": 784.96,
+      "end": 790.88,
+      "text": "combined to take the edge off the rally, the oil price rally, but the underlying crisis is still"
+    },
+    {
+      "start": 790.88,
+      "end": 794.4000000000001,
+      "text": "there. And you know, one of the one of the things when people talk about a crisis, everyone thinks"
+    },
+    {
+      "start": 794.4000000000001,
+      "end": 799.6,
+      "text": "about we're going to run out of oil, like it's in tanks will go to tank empty tanks. That doesn't"
+    },
+    {
+      "start": 799.6,
+      "end": 803.9200000000001,
+      "text": "happen. People make the analogy of it's a big floating bathtub in that no one's going to run out of"
+    },
+    {
+      "start": 803.9200000000001,
+      "end": 809.6800000000001,
+      "text": "oil. The world is still producing, we before the crisis 105 million browser day, now it's 95"
+    },
+    {
+      "start": 809.6800000000001,
+      "end": 814.72,
+      "text": "million browser per day, roughly. And so the but the world is still producing 95 million browser"
+    },
+    {
+      "start": 814.72,
+      "end": 818.88,
+      "text": "per day. It's still a lot of oil being produced and refined. It's also going to happen is that"
+    },
+    {
+      "start": 818.88,
+      "end": 823.9200000000001,
+      "text": "oil prices now were in a situation where we kind of have to go up unless the crisis ends today."
+    },
+    {
+      "start": 823.9200000000001,
+      "end": 828.72,
+      "text": "And even if it ends today, we this may happen. Oil prices have to go up to kill more demand,"
+    },
+    {
+      "start": 828.72,
+      "end": 833.6800000000001,
+      "text": "demand destruction. And demand destruction, the oil industry started in 1859, demand has only"
+    },
+    {
+      "start": 833.6800000000001,
+      "end": 840.72,
+      "text": "fallen four years in all that time. So over almost 160 years, oil has only fallen demand"
+    },
+    {
+      "start": 840.8000000000001,
+      "end": 847.44,
+      "text": "year on year, even throughout wars, World War One, World War Two, it only fell in 1973, 1978,"
+    },
+    {
+      "start": 848.48,
+      "end": 856.8000000000001,
+      "text": "2009, the housing crisis, and COVID four times over the last 160 years. And so prices are going"
+    },
+    {
+      "start": 856.8000000000001,
+      "end": 862.8000000000001,
+      "text": "to have to rally to cause that fifth year of demand destruction in the oil industry. Oil is very"
+    },
+    {
+      "start": 862.8000000000001,
+      "end": 866.88,
+      "text": "inelastic. People needed to drive two and from work, two and from skill. And it's one of those"
+    },
+    {
+      "start": 866.88,
+      "end": 872.08,
+      "text": "things. It's an essential of modern life. And it doesn't matter how quote-unquote green people"
+    },
+    {
+      "start": 872.08,
+      "end": 879.52,
+      "text": "say they are, you buy anything, literally a pint of milk or gallon of milk in a shop, that"
+    },
+    {
+      "start": 879.52,
+      "end": 885.6,
+      "text": "everything is transported via oil. It's in everything that people touch. And so price has to go"
+    },
+    {
+      "start": 885.6,
+      "end": 891.12,
+      "text": "a lot higher to kill demand. As I said, jet fuel is the first thing to kind of the first cookie"
+    },
+    {
+      "start": 891.2,
+      "end": 898.0,
+      "text": "to crumble in the oil demand sequence. The next one tends to be gasoline for cars and then diesel"
+    },
+    {
+      "start": 898.0,
+      "end": 902.5600000000001,
+      "text": "for trucking and so on. But it's basically, it's starting to happen, but it needs to happen"
+    },
+    {
+      "start": 902.5600000000001,
+      "end": 907.2,
+      "text": "much more severely. And so we're not going to hit a situation where tanks are empty. But we're"
+    },
+    {
+      "start": 907.2,
+      "end": 912.72,
+      "text": "going to have to hit a situation where if this goes on, we are going to go to 200 plus oil."
+    },
+    {
+      "start": 912.72,
+      "end": 917.52,
+      "text": "If this goes on, we're currently the middle of May or towards the end of May here, 2026."
+    },
+    {
+      "start": 918.24,
+      "end": 924.0799999999999,
+      "text": "We're two months into the crisis. If this goes, this can't go on for another month."
+    },
+    {
+      "start": 924.0799999999999,
+      "end": 930.0799999999999,
+      "text": "When we can have a few slugs of SPR releases, but this is not sustainable with $100 oil."
+    },
+    {
+      "start": 930.0799999999999,
+      "end": 934.56,
+      "text": "We need oil prices, either two things have to happen. Oil prices have to go much higher,"
+    },
+    {
+      "start": 935.12,
+      "end": 941.52,
+      "text": "200 plus probably, to kill demand or the crisis ends today. And then even if the crisis ends today,"
+    },
+    {
+      "start": 941.52,
+      "end": 944.8,
+      "text": "there's going to be a wind-up time. All this production in the Middle East has been shut in."
+    },
+    {
+      "start": 944.8000000000001,
+      "end": 948.8800000000001,
+      "text": "It has to be restarted. Tankers have to start going in and out through the"
+    },
+    {
+      "start": 948.8800000000001,
+      "end": 954.96,
+      "text": "straight-of-hormose. So there's going to be a recovery time. Longer term, five years plus,"
+    },
+    {
+      "start": 954.96,
+      "end": 960.32,
+      "text": "I think the straight-of-hormose is going to be removed as a choke point for the world oil market"
+    },
+    {
+      "start": 960.32,
+      "end": 967.36,
+      "text": "within five years. Every Gulf producer, Saudi, UAE, all of them, Iraq, they're all going to"
+    },
+    {
+      "start": 967.36,
+      "end": 973.1200000000001,
+      "text": "start building these pipelines, overland pipelines to avoid the straight-of-hormose regardless of cost."
+    },
+    {
+      "start": 973.12,
+      "end": 976.8,
+      "text": "And the straight-of-hormose is not going to be an issue in five years plus."
+    },
+    {
+      "start": 976.8,
+      "end": 981.6,
+      "text": "So this is a five-year issue. They ran, played their cards. They choke the straight-of-hormose,"
+    },
+    {
+      "start": 981.6,
+      "end": 987.36,
+      "text": "like everyone worried about for years. They've played that card. Now all these pipelines are going to"
+    },
+    {
+      "start": 987.36,
+      "end": 993.92,
+      "text": "be built. It's going to cost $50, $75 billion and put this in context. Is that a lot of money?"
+    },
+    {
+      "start": 993.92,
+      "end": 998.8,
+      "text": "Saudi Arabia on that neon project, that desert city that they were going to build was going to be"
+    },
+    {
+      "start": 998.8000000000001,
+      "end": 1004.5600000000001,
+      "text": "$1 trillion. So $50 to $75 billion, yes, it's a lot of money. In the Saudi oil industry,"
+    },
+    {
+      "start": 1004.5600000000001,
+      "end": 1009.9200000000001,
+      "text": "no, it's not a lot of money. It'll add $1 or $2 a barrel under the cost. And for the Saudis and"
+    },
+    {
+      "start": 1009.9200000000001,
+      "end": 1015.5200000000001,
+      "text": "others to avoid using the straight-of-hormose within five years, they're going to build these pipelines."
+    },
+    {
+      "start": 1015.5200000000001,
+      "end": 1021.2800000000001,
+      "text": "So the straight-of-hormose has got five years left as a choke point. Beyond that, it's going to be"
+    },
+    {
+      "start": 1021.2800000000001,
+      "end": 1027.2,
+      "text": "replaced by pipelines. These pipelines are already drawing boards have already been drafted to get"
+    },
+    {
+      "start": 1027.2,
+      "end": 1034.0,
+      "text": "these things built. So it's a certainty that that straight within five years will no longer be"
+    },
+    {
+      "start": 1034.0,
+      "end": 1040.4,
+      "text": "a choke point. Okay, so recapping what we've discussed so far, it is fairly easy to understand how"
+    },
+    {
+      "start": 1040.4,
+      "end": 1045.3600000000001,
+      "text": "we got to where we are today, which is we came into this crisis with a fairly significant supply"
+    },
+    {
+      "start": 1045.3600000000001,
+      "end": 1051.3600000000001,
+      "text": "surplus. Then as we got into the crisis, there was a whole bunch of SPR releases. There's a whole"
+    },
+    {
+      "start": 1051.3600000000001,
+      "end": 1058.4,
+      "text": "bunch of floating storage for a while. Iran was exporting a lot of its own oil. China has a huge"
+    },
+    {
+      "start": 1058.4,
+      "end": 1064.2400000000002,
+      "text": "SPR and commercial storage. It all makes sense. But the question that's in my mind now is that"
+    },
+    {
+      "start": 1064.2400000000002,
+      "end": 1069.6000000000001,
+      "text": "explains how we got six weeks farther into this than I thought possible at these prices."
+    },
+    {
+      "start": 1069.6000000000001,
+      "end": 1074.5600000000002,
+      "text": "How short is that fuse from here? Is this something where well, we could still go on for three more"
+    },
+    {
+      "start": 1074.5600000000002,
+      "end": 1079.7600000000002,
+      "text": "months and you know, then it's going to really start to get bad or are we down to just a matter of"
+    },
+    {
+      "start": 1079.76,
+      "end": 1086.4,
+      "text": "weeks or less before this really turns into a major big deal? We're down to weeks. Yeah, it's"
+    },
+    {
+      "start": 1086.4,
+      "end": 1092.4,
+      "text": "really become better. And is it linear? Should we expect prices to gradually start creeping higher"
+    },
+    {
+      "start": 1092.4,
+      "end": 1097.68,
+      "text": "and higher and higher? Or is this something where one day an event happens where somebody says,"
+    },
+    {
+      "start": 1097.68,
+      "end": 1102.64,
+      "text": "oh my gosh, you know, we're completely out at location X and that's a Bloomberg headline and"
+    },
+    {
+      "start": 1102.64,
+      "end": 1106.48,
+      "text": "people panic and you know, it all happens at once. Well, I think when people say they're going to"
+    },
+    {
+      "start": 1106.48,
+      "end": 1111.52,
+      "text": "be out, I think that's the only places that will be out of storage will be those places that set"
+    },
+    {
+      "start": 1111.52,
+      "end": 1116.56,
+      "text": "the local price below the international price. So oil will be still available. As I said, there's"
+    },
+    {
+      "start": 1116.56,
+      "end": 1121.68,
+      "text": "still 95 million barrels per day produced outside of, you know, that's available to the global market."
+    },
+    {
+      "start": 1122.32,
+      "end": 1128.56,
+      "text": "There was 105 before this crisis. And so 10 million barrels a day of inventory of, sorry,"
+    },
+    {
+      "start": 1128.56,
+      "end": 1133.1200000000001,
+      "text": "of daily production has to be killed. That demand has to be and the only way to kill demand is"
+    },
+    {
+      "start": 1133.1200000000001,
+      "end": 1138.5600000000002,
+      "text": "higher prices. So $100, it reduces demand a little bit, but it doesn't reduce demand enough."
+    },
+    {
+      "start": 1138.5600000000002,
+      "end": 1144.24,
+      "text": "We're going to have to see a lot higher prices before reduced demand by 10 million barrels per day."
+    },
+    {
+      "start": 1144.24,
+      "end": 1148.4,
+      "text": "What I think is going to happen is that you're going to have a situation where there will be some"
+    },
+    {
+      "start": 1148.4,
+      "end": 1154.96,
+      "text": "sort of, you know, stalemate where a kind of a ceasefire type situation. And the street kind of"
+    },
+    {
+      "start": 1154.96,
+      "end": 1160.4,
+      "text": "opens, but it opens, I think slower than people anticipate because you're going to have to have"
+    },
+    {
+      "start": 1160.4,
+      "end": 1166.0800000000002,
+      "text": "tankers willing to transit that street. And that's a lot of tankers every day. It's 100 plus tankers,"
+    },
+    {
+      "start": 1166.0800000000002,
+      "end": 1172.0800000000002,
+      "text": "you know, that go through that, the straight of hormones. And so you've got to have a situation where"
+    },
+    {
+      "start": 1172.0800000000002,
+      "end": 1176.72,
+      "text": "the process has to be restarted. These tankers from the Middle East to China,"
+    },
+    {
+      "start": 1176.72,
+      "end": 1182.48,
+      "text": "Middle East to Japan, they take a month to make that journey. So this process is like a flywheel."
+    },
+    {
+      "start": 1182.48,
+      "end": 1188.16,
+      "text": "Once it stops, it takes a month or so to get back up and running probably even longer, maybe two"
+    },
+    {
+      "start": 1188.16,
+      "end": 1193.44,
+      "text": "months. And even then, even if the tankers start moving, a lot of this production is shut in."
+    },
+    {
+      "start": 1193.44,
+      "end": 1198.8000000000002,
+      "text": "And so that production, when it starts shunning, literally people have turned valves at the well"
+    },
+    {
+      "start": 1198.8000000000002,
+      "end": 1203.8400000000001,
+      "text": "head to stop oil coming out of these wells. And oil is a flow type process. Everything is always"
+    },
+    {
+      "start": 1203.8400000000001,
+      "end": 1208.4,
+      "text": "in movement. Things, liquids are always in movement. These things have to be restarted as well. And"
+    },
+    {
+      "start": 1208.4,
+      "end": 1214.0,
+      "text": "the hope is that not much damage has been done to these, this production, these wells by"
+    },
+    {
+      "start": 1214.0,
+      "end": 1217.6,
+      "text": "shutting in production. But there's always some damage and always some unknown when that"
+    },
+    {
+      "start": 1217.6,
+      "end": 1224.16,
+      "text": "restarts. And so that whole process, like a flywheel, is going to take one or two months to get"
+    },
+    {
+      "start": 1224.16,
+      "end": 1229.84,
+      "text": "back up and running. So even if today, end of May, 2026, the process starts up and running,"
+    },
+    {
+      "start": 1230.32,
+      "end": 1236.56,
+      "text": "we're into end of July before we've got a full, even close to recovery. So this is going to take"
+    },
+    {
+      "start": 1236.56,
+      "end": 1242.16,
+      "text": "a while. And I think that what's going to happen is people are familiar with equity markets and"
+    },
+    {
+      "start": 1242.16,
+      "end": 1247.28,
+      "text": "foreign exchange markets where you can literally print paper or print equities, issue stocks,"
+    },
+    {
+      "start": 1247.28,
+      "end": 1252.3200000000002,
+      "text": "and it's immediate. Just it's an electronic transaction. Oil is not like that. There's a"
+    },
+    {
+      "start": 1253.92,
+      "end": 1258.96,
+      "text": "physical process. It takes a while to get started and stop. And I think that the markets have"
+    },
+    {
+      "start": 1258.96,
+      "end": 1264.24,
+      "text": "become, I think that this is kind of like a COVID type situation where the government will print"
+    },
+    {
+      "start": 1264.24,
+      "end": 1269.76,
+      "text": "money to get to get the whole process started again. That doesn't help. I mean, it helps certain"
+    },
+    {
+      "start": 1269.76,
+      "end": 1274.8,
+      "text": "markets, but it won't help in oil because this is engineers have to get literally on the ground,"
+    },
+    {
+      "start": 1274.8,
+      "end": 1279.84,
+      "text": "start-up production. In Qatar, there's a lot of natural gas there, LNG, liquefied natural gas,"
+    },
+    {
+      "start": 1279.84,
+      "end": 1285.2,
+      "text": "that facilities have been damaged and might take three or four years to repair. And if they can"
+    },
+    {
+      "start": 1285.2,
+      "end": 1291.36,
+      "text": "even get the repairs done that time because parts are, these turbines are very, I mean, demanded by"
+    },
+    {
+      "start": 1291.36,
+      "end": 1296.64,
+      "text": "a lot of industries, including data centers. But I think that the market has been less panicked."
+    },
+    {
+      "start": 1296.72,
+      "end": 1302.88,
+      "text": "No one likes to panic in any situation. Panic is never helpful. But I think this is, we're in a crisis"
+    },
+    {
+      "start": 1302.88,
+      "end": 1309.76,
+      "text": "where this market is unusually calm. And as I said, and you mentioned there's a bunch of reasons"
+    },
+    {
+      "start": 1309.76,
+      "end": 1314.5600000000002,
+      "text": "why we've kind of haven't rallied fast. The SPR dump, the inventory overhang, all of these"
+    },
+    {
+      "start": 1314.5600000000002,
+      "end": 1318.96,
+      "text": "things have kind of happened. But I think that they've kind of lulled the market into this feeling of"
+    },
+    {
+      "start": 1318.96,
+      "end": 1326.5600000000002,
+      "text": "safety that is not reality. We're still in this crisis. And it's like someone had a heart attack"
+    },
+    {
+      "start": 1326.56,
+      "end": 1329.6799999999998,
+      "text": "and they've made it to the hospital, the emergency room. They're still in the middle of a"
+    },
+    {
+      "start": 1329.6799999999998,
+      "end": 1335.52,
+      "text": "heart attack. You know, it's one of those, we're even to get the heart started and the blood flowing"
+    },
+    {
+      "start": 1335.52,
+      "end": 1343.36,
+      "text": "again. We still need to get that, there's still a risk in this whole situation. And so I would be"
+    },
+    {
+      "start": 1343.36,
+      "end": 1348.1599999999999,
+      "text": "shocked if we're not over $150 within a month. I think this is going to take a lot longer,"
+    },
+    {
+      "start": 1348.8,
+      "end": 1353.12,
+      "text": "even if, as I said, even if peace is declared today, it's going to take a lot longer to restart"
+    },
+    {
+      "start": 1353.1200000000001,
+      "end": 1357.7600000000002,
+      "text": "than people think. They're confidence to restore it in the oil market itself. And for all those"
+    },
+    {
+      "start": 1357.7600000000002,
+      "end": 1362.48,
+      "text": "valves to be turned back on, and for, and when I say turn the valves back on, they're not,"
+    },
+    {
+      "start": 1362.48,
+      "end": 1366.72,
+      "text": "I'm simplifying it grossly by saying that you've got to have a whole situation where a lot of"
+    },
+    {
+      "start": 1366.72,
+      "end": 1372.24,
+      "text": "these Saudi wells, these reservoirs are water flooded where there's water pumped underneath the oil"
+    },
+    {
+      "start": 1372.24,
+      "end": 1379.2800000000002,
+      "text": "to help keep them precious in the reservoirs up so the oil comes out of the ground. And so these,"
+    },
+    {
+      "start": 1379.28,
+      "end": 1384.56,
+      "text": "you know, it's a, there's a, an engineering, very complex engineering process, it's not just"
+    },
+    {
+      "start": 1384.56,
+      "end": 1390.32,
+      "text": "turning a valve behind the scenes to produce all of this oil. And that process has never really"
+    },
+    {
+      "start": 1390.32,
+      "end": 1396.6399999999999,
+      "text": "been shut into this extent ever. And there's a lot of going to be, a lot of unknowns that are going"
+    },
+    {
+      "start": 1396.6399999999999,
+      "end": 1402.56,
+      "text": "to be discovered over the next two, three months, four months that could really complicate the"
+    },
+    {
+      "start": 1402.56,
+      "end": 1408.3999999999999,
+      "text": "restart. So we're still in the middle of the crisis. That's, you know, one thing to think about"
+    },
+    {
+      "start": 1408.5600000000002,
+      "end": 1414.5600000000002,
+      "text": "in terms of, we should, we need to create demand destruction to deal with the current crisis."
+    },
+    {
+      "start": 1414.5600000000002,
+      "end": 1420.0800000000002,
+      "text": "But then going forward, the restart process, how you have this feeling, it could take a lot longer"
+    },
+    {
+      "start": 1420.0800000000002,
+      "end": 1425.44,
+      "text": "than people anticipate. And so my personal views, I think we stay at $100 plus, people think we're"
+    },
+    {
+      "start": 1425.44,
+      "end": 1431.2800000000002,
+      "text": "going to collapse immediately following, you know, the straight reopening in two or three months time,"
+    },
+    {
+      "start": 1431.2800000000002,
+      "end": 1437.44,
+      "text": "I think we stay at $100 plus for a year. Unless there's a barring in economic global economic"
+    },
+    {
+      "start": 1437.6000000000001,
+      "end": 1444.4,
+      "text": "recession or anything like that, I think that this risk premium is going to stay there because"
+    },
+    {
+      "start": 1444.4,
+      "end": 1448.96,
+      "text": "even if there's a piece declared today, there's going to be the risk that Iran falls back in"
+    },
+    {
+      "start": 1448.96,
+      "end": 1456.3200000000002,
+      "text": "and the crisis restarts in another six months time or four months time. So I think that the"
+    },
+    {
+      "start": 1456.3200000000002,
+      "end": 1462.64,
+      "text": "current crisis, we need higher prices immediately to kill oil demand. Secondly, the restart process,"
+    },
+    {
+      "start": 1462.72,
+      "end": 1467.8400000000001,
+      "text": "I think it's going to take a lot longer, six months to one year, maybe even longer. In some"
+    },
+    {
+      "start": 1467.8400000000001,
+      "end": 1472.24,
+      "text": "cases, like the LNG and Qatar is going to take four or five years because engineering facilities"
+    },
+    {
+      "start": 1472.24,
+      "end": 1476.64,
+      "text": "were damaged by drones. I think it's going to take a lot longer than people think. And so I think"
+    },
+    {
+      "start": 1476.64,
+      "end": 1483.3600000000001,
+      "text": "that we may see $100 plus oil barring every session or anything like that, $100 plus oil for a year or"
+    },
+    {
+      "start": 1483.3600000000001,
+      "end": 1488.8000000000002,
+      "text": "two. And which is, that creates opportunities for other parts of the oil industry, the US oil industry,"
+    },
+    {
+      "start": 1488.8,
+      "end": 1494.56,
+      "text": "premium producers are having a great time right at this moment. Let's talk a little bit further"
+    },
+    {
+      "start": 1494.56,
+      "end": 1502.1599999999999,
+      "text": "out then about beyond just the immediate recovery, how the global energy markets evolve afterwards"
+    },
+    {
+      "start": 1502.1599999999999,
+      "end": 1507.12,
+      "text": "because it seems to me we've already seen some pretty strong signals. The United Arab Emirates"
+    },
+    {
+      "start": 1507.12,
+      "end": 1513.6,
+      "text": "was probably half of global spare capacity before this crisis. Pulling out of OPEC seems to me"
+    },
+    {
+      "start": 1513.6,
+      "end": 1518.24,
+      "text": "like a really clear signal that their intention is going to be to pedal as fast as they can and"
+    },
+    {
+      "start": 1518.24,
+      "end": 1522.8,
+      "text": "just produce as much oil as they possibly can as soon as this is over. I guess first of all,"
+    },
+    {
+      "start": 1522.8,
+      "end": 1527.2,
+      "text": "would you agree with that? And if it is, doesn't that kind of leave us in a place where, okay,"
+    },
+    {
+      "start": 1527.2,
+      "end": 1532.0,
+      "text": "then Saudi Arabia would be the only remaining spare capacity. They're not going to just"
+    },
+    {
+      "start": 1532.8,
+      "end": 1536.96,
+      "text": "sit this one out and let everybody else make the profit. They're probably going to produce as fast"
+    },
+    {
+      "start": 1536.96,
+      "end": 1542.96,
+      "text": "as they can too. So doesn't that mean that although maybe that will help bring the prices down and"
+    },
+    {
+      "start": 1542.96,
+      "end": 1547.76,
+      "text": "the supply back online? Doesn't it mean that we end up with no spare capacity at the end of the day?"
+    },
+    {
+      "start": 1548.24,
+      "end": 1553.04,
+      "text": "And then, okay, we'll just make more. Well, wait a minute, there's been under investment"
+    },
+    {
+      "start": 1553.68,
+      "end": 1561.44,
+      "text": "in the energy sector due to ESG for more than a decade now. It seems to me like maybe for the next"
+    },
+    {
+      "start": 1561.44,
+      "end": 1569.68,
+      "text": "decade or so, we've got an investment driven energy crunch. Is that realistic? I think it is"
+    },
+    {
+      "start": 1569.68,
+      "end": 1575.76,
+      "text": "realistic. I think you've got the going back to the UAE, them leaving OPEC. UAE was always"
+    },
+    {
+      "start": 1575.76,
+      "end": 1580.8799999999999,
+      "text": "everyone in OPEC except for OPEC is Saudi Arabia. It always has been Saudi Arabia. They've been"
+    },
+    {
+      "start": 1580.8799999999999,
+      "end": 1587.44,
+      "text": "the big big boy on the on the block in terms of cutting production to maintain prices at higher level"
+    },
+    {
+      "start": 1587.44,
+      "end": 1592.8799999999999,
+      "text": "than otherwise would be. So Saudi has always been the real OPEC. All of these other countries,"
+    },
+    {
+      "start": 1592.8799999999999,
+      "end": 1598.8799999999999,
+      "text": "UAE and everyone else, they've been kind of cover to make it seem like there's a global consensus."
+    },
+    {
+      "start": 1598.8799999999999,
+      "end": 1604.56,
+      "text": "It's kind of, you know, one of these it sells much better when there's a group involved. You know,"
+    },
+    {
+      "start": 1604.56,
+      "end": 1609.04,
+      "text": "it's a cartel. That's what they're priced setting cartel to try and keep prices high. So it's,"
+    },
+    {
+      "start": 1609.04,
+      "end": 1613.04,
+      "text": "it doesn't sell well to the consumer that they're trying to keep prices high. That's why OPEC"
+    },
+    {
+      "start": 1613.04,
+      "end": 1618.6399999999999,
+      "text": "exists. So, Saudi has been hiding behind all these other countries including UAE. UAE itself,"
+    },
+    {
+      "start": 1618.6399999999999,
+      "end": 1623.84,
+      "text": "they've been, they've had, you know, they're politically they've had issues with Saudi Arabia over"
+    },
+    {
+      "start": 1623.84,
+      "end": 1630.08,
+      "text": "the last, you know, for a long time. They're much more focused entity, you know, with Dubai, the"
+    },
+    {
+      "start": 1630.08,
+      "end": 1635.1999999999998,
+      "text": "success of Dubai and tourism and all of that. So they've been much more, you know, they're probably"
+    },
+    {
+      "start": 1635.1999999999998,
+      "end": 1640.48,
+      "text": "10, 20 years ahead of Saudi in terms of diversifying, trying to diversify their economy away from oil."
+    },
+    {
+      "start": 1640.48,
+      "end": 1646.32,
+      "text": "And so I think that them leaving OPEC, it was always something I think that they're all in my"
+    },
+    {
+      "start": 1646.32,
+      "end": 1650.8799999999999,
+      "text": "suspect that they would do, but now that they have done it, and yeah, they're going to produce this"
+    },
+    {
+      "start": 1650.8799999999999,
+      "end": 1655.12,
+      "text": "flat out just like anyone else, they're going to do, they have no OPEC constraint. So it's going to"
+    },
+    {
+      "start": 1655.44,
+      "end": 1661.44,
+      "text": "be, Saudi is going to be the only player left with major spirit capacity in OPEC. So the dynamics"
+    },
+    {
+      "start": 1661.44,
+      "end": 1666.48,
+      "text": "of OPEC in terms of oil prices and that, I think at a ground level, I don't think it's going to change"
+    },
+    {
+      "start": 1666.48,
+      "end": 1671.8400000000001,
+      "text": "the long-term outlet for oil in terms of Saudi was always the big brother in OPEC. It's going to"
+    },
+    {
+      "start": 1671.8400000000001,
+      "end": 1676.24,
+      "text": "continue to be the big brother, yes, UAE left, but I don't think it's as big a deal as the market kind"
+    },
+    {
+      "start": 1676.24,
+      "end": 1682.3200000000002,
+      "text": "of, it's not going to be a big deal long-term. Going to the thing you mentioned about longer term"
+    },
+    {
+      "start": 1682.8799999999999,
+      "end": 1691.52,
+      "text": "ESG and investment in oil and gas, three months ago, we were at $60, give or take WTI. The marginal"
+    },
+    {
+      "start": 1691.52,
+      "end": 1697.9199999999998,
+      "text": "producer in the world was the U.S. Permian producers, all these fracking wells in West Texas. They were"
+    },
+    {
+      "start": 1697.9199999999998,
+      "end": 1704.1599999999999,
+      "text": "the marginal production that grew over the last 10 years. When I rolled oil 101, that was published"
+    },
+    {
+      "start": 1704.1599999999999,
+      "end": 1711.12,
+      "text": "in 2009. Since 2009, what's called conventional oil production, as in you drilled a whole straight"
+    },
+    {
+      "start": 1711.1200000000001,
+      "end": 1715.1200000000001,
+      "text": "down, I mean, I'm simplifying grossly here, but you drill a whole straight down and you"
+    },
+    {
+      "start": 1715.1200000000001,
+      "end": 1721.7600000000002,
+      "text": "know, you hit a reservoir and the oil comes up by itself. That production has kind of stagnated,"
+    },
+    {
+      "start": 1721.7600000000002,
+      "end": 1728.64,
+      "text": "it's kind of sideways over the last 15, 20 years. All of the growth in oil supply over the last 15"
+    },
+    {
+      "start": 1728.64,
+      "end": 1735.3600000000001,
+      "text": "years has been from fracking, which is a U.S. phenomenon, because it's more kind of a manufacturing"
+    },
+    {
+      "start": 1735.5200000000002,
+      "end": 1741.92,
+      "text": "type process. You drill, you move the well on a pad, drilling rate of 50 meters, you drill again,"
+    },
+    {
+      "start": 1741.92,
+      "end": 1746.48,
+      "text": "you frack, you drill sideways, all of these kind of technologies have only been developed in the"
+    },
+    {
+      "start": 1746.48,
+      "end": 1754.88,
+      "text": "last 15, 20 years. Since 2009, oil production has come from this fracking and horizontal drilling,"
+    },
+    {
+      "start": 1754.88,
+      "end": 1761.8400000000001,
+      "text": "as well as heavy oil out of Canada. Those have been the two major supply areas over the past 15"
+    },
+    {
+      "start": 1762.5600000000002,
+      "end": 1768.7200000000003,
+      "text": "years. Both of those things are high cost, very capital intensive. People make the analogy that"
+    },
+    {
+      "start": 1768.7200000000003,
+      "end": 1775.44,
+      "text": "they're akin to manufacturing, because as I said, you used to drill a well and it would be the"
+    },
+    {
+      "start": 1775.44,
+      "end": 1780.96,
+      "text": "only well you would drill within 40 acres. Now, you drill a well, you move 100 meters, you drill"
+    },
+    {
+      "start": 1780.96,
+      "end": 1786.64,
+      "text": "another well or 50 meters, you drill another well. It's become much more capital intensive,"
+    },
+    {
+      "start": 1786.64,
+      "end": 1795.2,
+      "text": "but what that means is that the marginal cost of production over time is now $60, $70 per"
+    },
+    {
+      "start": 1795.2,
+      "end": 1803.5200000000002,
+      "text": "barrel for crude oil. As long as we stay above $70, give or take WTI, crude oil, the oil industry"
+    },
+    {
+      "start": 1803.5200000000002,
+      "end": 1810.5600000000002,
+      "text": "can fund itself. At $100, the oil industry is actually a little bit decently profitable. At 70,"
+    },
+    {
+      "start": 1810.5600000000002,
+      "end": 1816.0,
+      "text": "some marginal producers start kind of shutting in production, in terms of the ESG and the investment"
+    },
+    {
+      "start": 1816.72,
+      "end": 1823.1200000000001,
+      "text": "against energy growth. A lot of that ESG initiatives, those initiatives, were to kind of stall"
+    },
+    {
+      "start": 1824.0800000000002,
+      "end": 1831.2,
+      "text": "oil production, stall net gas production. Those ESG initiatives have kind of fallen out of"
+    },
+    {
+      "start": 1831.2,
+      "end": 1836.88,
+      "text": "favor, and the oil industry has kind of just moved on beyond them. It's at $100 oil, as we are"
+    },
+    {
+      "start": 1836.88,
+      "end": 1841.6000000000001,
+      "text": "today, give or take, and the oil industry doesn't really, I mean, the oil industry is still very"
+    },
+    {
+      "start": 1841.6000000000001,
+      "end": 1846.5600000000002,
+      "text": "conscientious about pollution and making sure the environment is taken care of. It's not a careless"
+    },
+    {
+      "start": 1846.56,
+      "end": 1852.8,
+      "text": "industry, but those kind of ESG where people were trying to reduce energy production. Those"
+    },
+    {
+      "start": 1852.8,
+      "end": 1859.2,
+      "text": "kind of initiatives I think have kind of stalled. There's still a remnant of the philosophical"
+    },
+    {
+      "start": 1859.2,
+      "end": 1863.28,
+      "text": "objections out there. You know, you've got now a big push, you may have seen in social media,"
+    },
+    {
+      "start": 1863.28,
+      "end": 1867.44,
+      "text": "all these people complaining about AI data centers, and everyone's kind of couching it in,"
+    },
+    {
+      "start": 1867.44,
+      "end": 1872.0,
+      "text": "oh, they're too noisy, oh, they consume water, they don't consume water, they actually have"
+    },
+    {
+      "start": 1872.08,
+      "end": 1880.32,
+      "text": "closed systems, or they recycle their usage. People say they're burning net gas and other"
+    },
+    {
+      "start": 1880.32,
+      "end": 1885.84,
+      "text": "fuels. Yes, they do. Yeah, I mean, they do. That's a reality. I mean, the world economy does need"
+    },
+    {
+      "start": 1885.84,
+      "end": 1891.68,
+      "text": "energy, and AI data centers are, you know, four or five percent or will be in the next year to"
+    },
+    {
+      "start": 1891.68,
+      "end": 1899.68,
+      "text": "of global oil consumption, our global net gas and power consumption. So, but that kind of ESG"
+    },
+    {
+      "start": 1899.68,
+      "end": 1904.72,
+      "text": "anti-energy underpinning is still there. It morphs into different forms. It's currently"
+    },
+    {
+      "start": 1904.72,
+      "end": 1910.8,
+      "text": "morphing into an anti-data center initiative. I think that what happens is that, you know,"
+    },
+    {
+      "start": 1910.8,
+      "end": 1915.3600000000001,
+      "text": "people forget because people are disconnected from where their energy comes from. Oil and that gas"
+    },
+    {
+      "start": 1915.3600000000001,
+      "end": 1923.52,
+      "text": "and coal are still 80 percent of the world's energy usage. And for good or bad, for good,"
+    },
+    {
+      "start": 1923.52,
+      "end": 1928.64,
+      "text": "here we are talking on the internet on other sides of the world, and listeners are listening"
+    },
+    {
+      "start": 1928.8000000000002,
+      "end": 1934.0,
+      "text": "in from all over the world. The energy from oil, that gas and coal enables this situation where"
+    },
+    {
+      "start": 1934.0,
+      "end": 1941.44,
+      "text": "we are living in a safe, much safer, more knowledge is available type environment. If you caught"
+    },
+    {
+      "start": 1941.44,
+      "end": 1949.2800000000002,
+      "text": "energy supply, cut net gas, cut oil, cut coal, you're trying to stall a lot of the global economy,"
+    },
+    {
+      "start": 1949.2800000000002,
+      "end": 1954.16,
+      "text": "and people can be disconnected from where basic things come from, even their food. You know,"
+    },
+    {
+      "start": 1954.16,
+      "end": 1958.5600000000002,
+      "text": "a lot of food we've discovered from the closing of the state of our most. Virtualizer also comes"
+    },
+    {
+      "start": 1958.56,
+      "end": 1964.72,
+      "text": "from that gas. You know, it's the famous nitrogen creation process, and it relies on cheap natural"
+    },
+    {
+      "start": 1964.72,
+      "end": 1969.76,
+      "text": "gas. So a lot of fertilizer, a lot of plastics, a lot of the energy to move things around the"
+    },
+    {
+      "start": 1969.76,
+      "end": 1974.56,
+      "text": "world food and the tractors and everything like that. It comes from an energy from oil,"
+    },
+    {
+      "start": 1974.56,
+      "end": 1980.32,
+      "text": "that gas and coal. And if you restrict those energy sources, and if you try and go for just wind"
+    },
+    {
+      "start": 1980.32,
+      "end": 1984.3999999999999,
+      "text": "and just solar, they're good. Winded solar is nothing wrong with them, and they have their place,"
+    },
+    {
+      "start": 1984.4,
+      "end": 1990.64,
+      "text": "but they don't meet all of the flexibility and the use cases you can't, you can't make"
+    },
+    {
+      "start": 1990.64,
+      "end": 1995.52,
+      "text": "fertilizer from solar yet. I mean, maybe one day, you someone will discover something,"
+    },
+    {
+      "start": 1995.52,
+      "end": 2002.4,
+      "text": "but one day the oil and that gas and coal, they are essential to hydrocarbons, are essential"
+    },
+    {
+      "start": 2002.4,
+      "end": 2007.2,
+      "text": "to modern life. And you know, things like nuclear, they're also very useful, and it should be,"
+    },
+    {
+      "start": 2007.2,
+      "end": 2012.88,
+      "text": "I think myself personally, I think they should be expanded as a part of the renewables ecosystem,"
+    },
+    {
+      "start": 2012.96,
+      "end": 2018.96,
+      "text": "and but I think that the oil industry, at a hundred dollar oil, I think is going to be okay."
+    },
+    {
+      "start": 2018.96,
+      "end": 2024.5600000000002,
+      "text": "I think at 70 and 60, which it was a few months ago, it was kind of not struggling, but it wasn't"
+    },
+    {
+      "start": 2025.2800000000002,
+      "end": 2029.92,
+      "text": "it wasn't thriving. So I think at a hundred dollar oil, the world in the next few years"
+    },
+    {
+      "start": 2029.92,
+      "end": 2036.3200000000002,
+      "text": "will get enough oil out of the ground and that gas to enable and enable growth to continue."
+    },
+    {
+      "start": 2036.3200000000002,
+      "end": 2041.2800000000002,
+      "text": "An interesting kind of side note is that Saudi Arabia, they, you know, their famously"
+    },
+    {
+      "start": 2041.28,
+      "end": 2046.0,
+      "text": "cost of oil production is five, ten dollars a barrel, and here we are at a hundred dollars."
+    },
+    {
+      "start": 2046.0,
+      "end": 2051.44,
+      "text": "Unfortunately for Saudi, it's their only industry pretty much, and so if you factor in all of their"
+    },
+    {
+      "start": 2051.44,
+      "end": 2057.6,
+      "text": "government welfare and costs like that from military, their cost of production goes up to 95 dollars."
+    },
+    {
+      "start": 2057.6,
+      "end": 2062.48,
+      "text": "So Saudi is at a hundred dollar oil, it's kind of break even. So I think here,"
+    },
+    {
+      "start": 2063.68,
+      "end": 2069.2,
+      "text": "it's kind of interesting that we got to a hundred dollar oil. I think this is kind of a spot where"
+    },
+    {
+      "start": 2069.2799999999997,
+      "end": 2074.48,
+      "text": "consumers can tolerate, producers can make a decent profit and bring additional barrels onto the market,"
+    },
+    {
+      "start": 2074.48,
+      "end": 2078.96,
+      "text": "but in a crisis, a hundred dollar oil is not enough. We need to get much higher"
+    },
+    {
+      "start": 2078.96,
+      "end": 2084.72,
+      "text": "quicker if this continues, if this crisis continues. I think it looks like it even if it's resolved,"
+    },
+    {
+      "start": 2084.72,
+      "end": 2088.3999999999996,
+      "text": "this is a crisis that's going to take a while to restart. I think we're going to see a hundred"
+    },
+    {
+      "start": 2088.3999999999996,
+      "end": 2093.68,
+      "text": "fifty dollar plus oil over the next month or two, regardless of what happens, even if there's"
+    },
+    {
+      "start": 2093.68,
+      "end": 2099.3599999999997,
+      "text": "peace in today. I think that we're going to, we need to slow down demand, oil demand a little bit"
+    },
+    {
+      "start": 2099.3599999999997,
+      "end": 2105.12,
+      "text": "by 10 million barrels per day, 10 percent roughly, over the next few months or weeks at least."
+    },
+    {
+      "start": 2105.12,
+      "end": 2110.48,
+      "text": "I agree with you, but at the same time, I'm very concerned because from a macro perspective,"
+    },
+    {
+      "start": 2111.2,
+      "end": 2117.12,
+      "text": "the world could easily tolerate a spike to a hundred and fifty dollar oil that lasts for a couple"
+    },
+    {
+      "start": 2117.12,
+      "end": 2122.3199999999997,
+      "text": "of days. But if we're talking about months and months and months of hundred and fifty dollar oil,"
+    },
+    {
+      "start": 2122.3199999999997,
+      "end": 2129.3599999999997,
+      "text": "I think that's a global recession to depression kind of outlook. So the analogy of that,"
+    },
+    {
+      "start": 2129.3599999999997,
+      "end": 2134.7999999999997,
+      "text": "such as the comparison of that is the housing crisis in 2008. People forget that in the run-up"
+    },
+    {
+      "start": 2134.7999999999997,
+      "end": 2139.52,
+      "text": "to the 2008 housing crisis, one of the things that pushed the market, the macro economy over the"
+    },
+    {
+      "start": 2139.52,
+      "end": 2146.48,
+      "text": "edge, was we were at a hundred and fifty dollar WTI. We were at, from 2005 to 2008, the oil market"
+    },
+    {
+      "start": 2146.48,
+      "end": 2152.64,
+      "text": "moved up a hundred dollars a barrel. And just right before the crisis in the summer of 2008,"
+    },
+    {
+      "start": 2152.64,
+      "end": 2157.68,
+      "text": "we were at a hundred and fifty plus per barrel oil. And that was the final straw that pushed"
+    },
+    {
+      "start": 2157.68,
+      "end": 2162.4,
+      "text": "the market over the edge. And right up to the middle of 2008, everyone knew the housing crisis was"
+    },
+    {
+      "start": 2162.4,
+      "end": 2167.52,
+      "text": "kind of highly leveraged, even though people say, oh, I didn't know what was coming and whatever,"
+    },
+    {
+      "start": 2167.52,
+      "end": 2171.84,
+      "text": "it was everyone kind of knew that the market was very leveraged. But the market is still hummed"
+    },
+    {
+      "start": 2171.84,
+      "end": 2178.4,
+      "text": "along, right up until oil got to a hundred and fifty. And then that was it. That money has to come"
+    },
+    {
+      "start": 2178.4,
+      "end": 2184.24,
+      "text": "from somewhere. People only have so much spending money or disposal link them. If they have to choose"
+    },
+    {
+      "start": 2184.24,
+      "end": 2190.72,
+      "text": "between going on vacation or buying a new computer or a new phone or driving to work,"
+    },
+    {
+      "start": 2190.7200000000003,
+      "end": 2195.0400000000004,
+      "text": "they're going to, if it's a hundred and fifty dollar oil, which is five dollar plus six dollar"
+    },
+    {
+      "start": 2195.0400000000004,
+      "end": 2201.44,
+      "text": "plus per gallon gasoline, they're going to choose to drive to work because it's an essential."
+    },
+    {
+      "start": 2201.44,
+      "end": 2206.5600000000004,
+      "text": "So fortunate thing about a hundred and fifty dollar oil will kill the economy. There is no"
+    },
+    {
+      "start": 2206.5600000000004,
+      "end": 2210.7200000000003,
+      "text": "doubt about that. Even if it's over for a few months, it's going to really hurt."
+    },
+    {
+      "start": 2211.28,
+      "end": 2217.1200000000003,
+      "text": "It seems to me the critical question to ask then is if what you've said so far basically leads"
+    },
+    {
+      "start": 2217.12,
+      "end": 2224.4,
+      "text": "me to conclude that the prices only have to stay super high for long enough to cause about"
+    },
+    {
+      "start": 2224.4,
+      "end": 2232.48,
+      "text": "15 million barrels per day of demand destruction. Okay. Can the global economy tolerate 15 million"
+    },
+    {
+      "start": 2232.48,
+      "end": 2238.3199999999997,
+      "text": "barrels a day of demand destruction because, okay, we'll just carpool or is that enough of a hit"
+    },
+    {
+      "start": 2238.3199999999997,
+      "end": 2243.2799999999997,
+      "text": "in, you know, it's about seven or eight percent of global energy consumption. Can you just"
+    },
+    {
+      "start": 2243.28,
+      "end": 2249.2000000000003,
+      "text": "cut that back and everybody carpools to work and it's okay or is that just a shutdown kind of"
+    },
+    {
+      "start": 2249.2000000000003,
+      "end": 2253.0400000000004,
+      "text": "event for the global economy? I think that it's going to be a shutdown type of event. I mean,"
+    },
+    {
+      "start": 2253.0400000000004,
+      "end": 2257.6000000000004,
+      "text": "I don't think it's going to shut down, but it's going to be an event where marginal businesses"
+    },
+    {
+      "start": 2257.6000000000004,
+      "end": 2264.32,
+      "text": "that rely on low oil prices, tourism, even delivery, everything is delivered. You buy anything"
+    },
+    {
+      "start": 2264.32,
+      "end": 2268.6400000000003,
+      "text": "on the internet these days, it comes by oil. You know, people forget it's a diesel truck. I mean,"
+    },
+    {
+      "start": 2268.6400000000003,
+      "end": 2272.4,
+      "text": "maybe the last mile is electric, but the big long haul trucks to drive in highways, they're all"
+    },
+    {
+      "start": 2272.4,
+      "end": 2280.4,
+      "text": "diesel trains or diesel aircraft or jet fuel. And so that getting that 10 million barrels per day"
+    },
+    {
+      "start": 2280.4,
+      "end": 2286.48,
+      "text": "cut in demand destruction, it's going to be very painful because, as I said, oil is inelastic,"
+    },
+    {
+      "start": 2286.48,
+      "end": 2292.32,
+      "text": "it's an essential of daily life. It's one of the last things people cut. And so the only reason they"
+    },
+    {
+      "start": 2292.32,
+      "end": 2299.92,
+      "text": "cut consumption is because prices get too high. And it's going to be, I think it'll be a little bit"
+    },
+    {
+      "start": 2299.92,
+      "end": 2304.32,
+      "text": "painful. It's a traveling to save, but it doesn't happen that often in the oil industry."
+    },
+    {
+      "start": 2304.32,
+      "end": 2310.96,
+      "text": "It's only happened four times in 160 years where oil demand has fallen year on year. And those four"
+    },
+    {
+      "start": 2310.96,
+      "end": 2318.64,
+      "text": "times oil prices had to rally a lot. In going back to 1973, oil prices went up fourfold, four"
+    },
+    {
+      "start": 2318.64,
+      "end": 2324.2400000000002,
+      "text": "hundred percent, which in the space of six months. So we went from back then these are preinflation"
+    },
+    {
+      "start": 2324.2400000000002,
+      "end": 2328.64,
+      "text": "adjusted in dollar prices, but we went up four hundred percent within six months. That was the first"
+    },
+    {
+      "start": 2329.2,
+      "end": 2336.48,
+      "text": "recent times oil prices. And it caused demand destruction. And the one thing I would always"
+    },
+    {
+      "start": 2336.48,
+      "end": 2341.2799999999997,
+      "text": "mention to people is that when they think about the 1970s, because they're the classic oil demand"
+    },
+    {
+      "start": 2341.2799999999997,
+      "end": 2350.56,
+      "text": "destruction in 1973 and 1978. It was the OPEC and the Iran situations in the 1970s. And people"
+    },
+    {
+      "start": 2350.56,
+      "end": 2358.3199999999997,
+      "text": "also have this image, the greenly grainy images of lines at gas stations. And the interesting thing"
+    },
+    {
+      "start": 2358.48,
+      "end": 2363.2000000000003,
+      "text": "to always notice that the only one of the few places in the world that had lines at gas stations was"
+    },
+    {
+      "start": 2363.2000000000003,
+      "end": 2369.2000000000003,
+      "text": "the US. And the reason it had those lines is that the US government as a reaction to the oil crisis"
+    },
+    {
+      "start": 2369.2000000000003,
+      "end": 2375.36,
+      "text": "in the 1970s, the US set the domestic price of oil in the US below the international price."
+    },
+    {
+      "start": 2375.36,
+      "end": 2380.6400000000003,
+      "text": "And so it created a shortage because if you're an oil producer in Saudi Arabia, you wouldn't"
+    },
+    {
+      "start": 2380.6400000000003,
+      "end": 2386.1600000000003,
+      "text": "send your oil to the US because the price was capped. And so the lines were all artificial. They were"
+    },
+    {
+      "start": 2386.16,
+      "end": 2392.08,
+      "text": "government-created lines in the 1970s. So there will be no shortage of oil in this crisis."
+    },
+    {
+      "start": 2392.08,
+      "end": 2398.64,
+      "text": "There will be no lines or shortage of oil if you have no price caps. The flip side of that is that"
+    },
+    {
+      "start": 2398.64,
+      "end": 2404.64,
+      "text": "you might have two hundred dollar per barrel oil with no lines. And so for a lot of governments"
+    },
+    {
+      "start": 2404.64,
+      "end": 2410.16,
+      "text": "will feel like they need to intervene. The problem is oil is a global market. If you put a local"
+    },
+    {
+      "start": 2410.16,
+      "end": 2414.7999999999997,
+      "text": "price cap, you're just going to cause lines in your local country. So if Germany puts a price cap"
+    },
+    {
+      "start": 2414.8,
+      "end": 2419.1200000000003,
+      "text": "or England, UK puts a price cap, there's going to be lines in that country alone."
+    },
+    {
+      "start": 2419.1200000000003,
+      "end": 2422.5600000000004,
+      "text": "Everyone else will be fine. They'll be paying two hundred dollar per barrel, but they'll be"
+    },
+    {
+      "start": 2422.5600000000004,
+      "end": 2428.1600000000003,
+      "text": "they'll have supply. There's kind of that interesting dynamic of comparing because this in this"
+    },
+    {
+      "start": 2428.1600000000003,
+      "end": 2433.1200000000003,
+      "text": "situation, every oil analyst, including myself, we look at back at history and say what happened"
+    },
+    {
+      "start": 2433.1200000000003,
+      "end": 2437.76,
+      "text": "in the past. This time is different. I mean, there's a whole bunch of different dynamics that"
+    },
+    {
+      "start": 2437.76,
+      "end": 2443.84,
+      "text": "are happening right now. But the few lessons to be learned from the 1970s was one big lesson is"
+    },
+    {
+      "start": 2443.92,
+      "end": 2448.8,
+      "text": "if you were a government, do not cap your local price of oil, you were going to cause a local"
+    },
+    {
+      "start": 2448.8,
+      "end": 2454.56,
+      "text": "shortage in your markets. That's the one big lesson that I would encourage. If you're a government"
+    },
+    {
+      "start": 2454.56,
+      "end": 2460.32,
+      "text": "influencing person, do not set a price cap on your local market. It backfires big time."
+    },
+    {
+      "start": 2460.32,
+      "end": 2465.84,
+      "text": "Well, I would counter that with, I can't remember if it was Warren Buffett or Charlie Munger who said"
+    },
+    {
+      "start": 2465.84,
+      "end": 2473.04,
+      "text": "the biggest lesson that history teaches us is that people don't learn from history. And I don't"
+    },
+    {
+      "start": 2473.04,
+      "end": 2476.96,
+      "text": "think governments have learned their lesson or are going to learn their lesson. I predict that"
+    },
+    {
+      "start": 2476.96,
+      "end": 2482.0,
+      "text": "there will be price controls and they will cause all of the adverse consequences that you're"
+    },
+    {
+      "start": 2482.0,
+      "end": 2486.24,
+      "text": "predicting. But that doesn't mean they're not going to do it. Yeah, yeah. There are price"
+    },
+    {
+      "start": 2486.24,
+      "end": 2490.64,
+      "text": "controls out there for certain good. India has famously price controls and they're already"
+    },
+    {
+      "start": 2490.64,
+      "end": 2495.92,
+      "text": "finding shortages of oil. You know, allowing the free market to operate, it feels sometimes it"
+    },
+    {
+      "start": 2495.92,
+      "end": 2500.16,
+      "text": "gives people a sense of there's no, you're losing control because the price has been set out there"
+    },
+    {
+      "start": 2500.24,
+      "end": 2507.3599999999997,
+      "text": "in the market. Sometimes it's almost always the best thing to do. It's just let the market do its"
+    },
+    {
+      "start": 2507.3599999999997,
+      "end": 2512.7999999999997,
+      "text": "thing. Prices will, yes. They will have to go higher to kill some demand to create some demand"
+    },
+    {
+      "start": 2512.7999999999997,
+      "end": 2519.12,
+      "text": "destruction. But at least if your local population wants to buy oil, it's going to be available."
+    },
+    {
+      "start": 2519.12,
+      "end": 2524.08,
+      "text": "It's going to be a little bit higher price, yes. But there's no, apart from Saudi Arabia, I mean,"
+    },
+    {
+      "start": 2524.08,
+      "end": 2528.56,
+      "text": "they really are with their spirit capacity trying to control the price of oil, the marginal price"
+    },
+    {
+      "start": 2528.56,
+      "end": 2533.7599999999998,
+      "text": "of oil. And all these governments, with their dumping of the SPR into the market in a very short"
+    },
+    {
+      "start": 2533.7599999999998,
+      "end": 2537.6,
+      "text": "period of time, they're trying to keep the price down. So there is quote-unquote manipulation"
+    },
+    {
+      "start": 2537.6,
+      "end": 2544.16,
+      "text": "of markets going on. But there's no nefarious secret group or country or company trying to do"
+    },
+    {
+      "start": 2544.16,
+      "end": 2549.36,
+      "text": "anything. Everything's kind of pretty relatively transparent. So it's just a matter of look at history,"
+    },
+    {
+      "start": 2549.36,
+      "end": 2553.2,
+      "text": "look what happened in the 1970s. Don't put a local price cap. You're just going to kill your local"
+    },
+    {
+      "start": 2554.1600000000003,
+      "end": 2560.6400000000003,
+      "text": "economy. It's basic common sense. And yeah, unfortunately, you said some governments fail at"
+    },
+    {
+      "start": 2560.6400000000003,
+      "end": 2566.1600000000003,
+      "text": "basic common sense in history. Now let's come at this from another angle because if I think about"
+    },
+    {
+      "start": 2566.1600000000003,
+      "end": 2571.2000000000003,
+      "text": "the consequences of everything that you're saying, what you're really saying here Morgan is,"
+    },
+    {
+      "start": 2571.2000000000003,
+      "end": 2578.9600000000005,
+      "text": "it's not a question of prices might rise. Prices might not rise. It's a question of prices must rise"
+    },
+    {
+      "start": 2578.96,
+      "end": 2586.96,
+      "text": "enough to cause 10 million barrels or about 10% of global energy demand. We have to see demand"
+    },
+    {
+      "start": 2586.96,
+      "end": 2594.7200000000003,
+      "text": "destruction on the tune of approximately 10% gross of total global energy production or energy"
+    },
+    {
+      "start": 2594.7200000000003,
+      "end": 2602.4,
+      "text": "demand. When's the last time the world went through a 10% reduction in energy demand?"
+    },
+    {
+      "start": 2602.96,
+      "end": 2607.28,
+      "text": "And or came anywhere close to it. And what happened economically then?"
+    },
+    {
+      "start": 2608.08,
+      "end": 2614.64,
+      "text": "Well, so here's where you know, on trading floors and hedge funds and research firms,"
+    },
+    {
+      "start": 2614.64,
+      "end": 2620.08,
+      "text": "they always try and back test when something like this happened before what happened in the market then."
+    },
+    {
+      "start": 2620.08,
+      "end": 2625.84,
+      "text": "The challenge with that is that sometimes the situation is very different. So this is a supply"
+    },
+    {
+      "start": 2625.84,
+      "end": 2631.36,
+      "text": "side shock. The production has stopped oil coming to the market. The consumer still is out there"
+    },
+    {
+      "start": 2631.44,
+      "end": 2638.48,
+      "text": "doing okay. The most recent comparison that was covered, unfortunately it was 2020 when demand"
+    },
+    {
+      "start": 2638.48,
+      "end": 2645.6800000000003,
+      "text": "because of the shutdowns and lock-ins, demand collapsed by a lot. It was 20% to one stage"
+    },
+    {
+      "start": 2645.6800000000003,
+      "end": 2651.6800000000003,
+      "text": "over the month to month in early 2020. And so that was the last time oil had a"
+    },
+    {
+      "start": 2651.6800000000003,
+      "end": 2656.32,
+      "text": "that was consumption side shock. One of the very few consumption side shocks that happened"
+    },
+    {
+      "start": 2656.32,
+      "end": 2662.2400000000002,
+      "text": "to the old market ever. And in that situation, we had the oil market became discombobulated,"
+    },
+    {
+      "start": 2662.2400000000002,
+      "end": 2667.44,
+      "text": "hitting us that word because it's kind of a strange word. But we had WTI priced at negative prices"
+    },
+    {
+      "start": 2667.44,
+      "end": 2672.0800000000004,
+      "text": "because storage tanks became full. It was like the opposite of the current situation in that"
+    },
+    {
+      "start": 2672.0800000000004,
+      "end": 2678.0,
+      "text": "we had demand collapsed because everyone stopped flying, stopped traveling the world kind of"
+    },
+    {
+      "start": 2678.0,
+      "end": 2684.48,
+      "text": "transport, kind of shut down for a month or more than a few months. And oil inventories filled"
+    },
+    {
+      "start": 2684.48,
+      "end": 2688.56,
+      "text": "because the oil is like a flow, it's like a human body. As I said, the oil industry doesn't like"
+    },
+    {
+      "start": 2688.56,
+      "end": 2692.4,
+      "text": "to store oil. It likes to keep everything flowing through the pipes, get it to the consumer,"
+    },
+    {
+      "start": 2692.4,
+      "end": 2698.72,
+      "text": "drill more, get it to the consumer. And so when COVID happened, demand stopped. The oil industry is"
+    },
+    {
+      "start": 2698.72,
+      "end": 2703.04,
+      "text": "still pumping and because the oil industry hates to shut in wells because it causes all these"
+    },
+    {
+      "start": 2703.04,
+      "end": 2708.64,
+      "text": "down problems. So that was the last time we had kind of a 10% or greater than 10% fall off in"
+    },
+    {
+      "start": 2708.64,
+      "end": 2715.12,
+      "text": "demand. Demand recovered very quickly in COVID even. But the prior situation was 2000,"
+    },
+    {
+      "start": 2715.12,
+      "end": 2721.52,
+      "text": "the financial crisis, 2008-2009. That was the prior situation where the 2020 COVID 10% drop,"
+    },
+    {
+      "start": 2722.3199999999997,
+      "end": 2731.8399999999997,
+      "text": "2008-2009 10% drop in oil demand. And then before that, it was the two 1970 stocks, the 1978 Iran,"
+    },
+    {
+      "start": 2732.6400000000003,
+      "end": 2739.1200000000003,
+      "text": "the Iranian Revolution when the Shah, which was the US style king kind of installed there"
+    },
+    {
+      "start": 2739.1200000000003,
+      "end": 2745.36,
+      "text": "in the 1950s. But the overthrow of the Shah and the installation of the Islamic regime. And then"
+    },
+    {
+      "start": 2745.36,
+      "end": 2753.2000000000003,
+      "text": "1973 was the Arab oil embargo. So those four situations, COVID 2020-2008, the financial crisis,"
+    },
+    {
+      "start": 2753.2000000000003,
+      "end": 2757.44,
+      "text": "and then the two 70 stocks. Those over the last 60 years, those are the four data points,"
+    },
+    {
+      "start": 2757.52,
+      "end": 2762.56,
+      "text": "as an oil analyst or a hedge fund, you've got a trend back test to see, okay, when these"
+    },
+    {
+      "start": 2762.56,
+      "end": 2768.64,
+      "text": "things happened in the past 60 years, what happened to the rest of the economy? In every situation,"
+    },
+    {
+      "start": 2768.64,
+      "end": 2776.2400000000002,
+      "text": "equities took a huge dive immediately. So 2008, obviously, the 1970s, but also equities struggled"
+    },
+    {
+      "start": 2776.2400000000002,
+      "end": 2781.6,
+      "text": "in the 1970s. The only situation where equities rallied was COVID. And we all know what happened in"
+    },
+    {
+      "start": 2781.6,
+      "end": 2789.04,
+      "text": "COVID. There was the money printing. And the stimulus checks went out. And so I think one of the"
+    },
+    {
+      "start": 2789.04,
+      "end": 2795.04,
+      "text": "big reasons behind equities being so strong into this crisis is that that COVID stimulus is still"
+    },
+    {
+      "start": 2795.04,
+      "end": 2799.68,
+      "text": "fresh in people's minds. And everyone thinks that if this thing gets bad enough, as in this crisis"
+    },
+    {
+      "start": 2799.68,
+      "end": 2806.0,
+      "text": "goes on for another month, oil goes to 150, we may have another stimulus. It could be just"
+    },
+    {
+      "start": 2806.08,
+      "end": 2810.96,
+      "text": "turn on the printing prices. It's inflationary and it comes out in the wash in the end."
+    },
+    {
+      "start": 2811.76,
+      "end": 2816.0,
+      "text": "This money printing doesn't come out of nowhere. Everyone has to pay for it in the long term."
+    },
+    {
+      "start": 2816.0,
+      "end": 2823.2,
+      "text": "But short-term, that will have a big boost to equity prices. If you put 10, 20 grand into each"
+    },
+    {
+      "start": 2823.2,
+      "end": 2828.88,
+      "text": "family in the US or in Europe or everywhere around the world because of an oil crisis,"
+    },
+    {
+      "start": 2829.76,
+      "end": 2835.76,
+      "text": "I think that there's a little bit of thinking that equities were going to see a big bailout"
+    },
+    {
+      "start": 2835.76,
+      "end": 2841.84,
+      "text": "in terms of stimulus if this gets worse. And if it gets worse fast, we may see I think the equity"
+    },
+    {
+      "start": 2841.84,
+      "end": 2846.0,
+      "text": "markets are kind of looking forward saying, you know, we're going to have a COVID style bailout if"
+    },
+    {
+      "start": 2846.0,
+      "end": 2852.6400000000003,
+      "text": "this thing gets really bad. And it's sad that the world has that kind of view now that the printing"
+    },
+    {
+      "start": 2852.6400000000003,
+      "end": 2858.32,
+      "text": "prices going to save us or save equity markets. But it did turn COVID and people have got that"
+    },
+    {
+      "start": 2858.32,
+      "end": 2864.48,
+      "text": "fresh in their memory. That was only five years ago. I think that people think that if this oil crisis"
+    },
+    {
+      "start": 2864.48,
+      "end": 2869.76,
+      "text": "gets bad enough, equity markets will be bailed out by the printing press and a stimulus."
+    },
+    {
+      "start": 2870.32,
+      "end": 2875.52,
+      "text": "That's, I think, a lot of what's in addition to the SPOR dumping and all this kind of inventories"
+    },
+    {
+      "start": 2875.52,
+      "end": 2881.92,
+      "text": "in terms of a lot of the oil market itself is kind of the sting has been taken out by"
+    },
+    {
+      "start": 2882.56,
+      "end": 2887.44,
+      "text": "shoving so much inventory into the supply chain over a period of weeks that the oil industry"
+    },
+    {
+      "start": 2887.44,
+      "end": 2892.8,
+      "text": "is kind of struggling to manage these SPOR releases. I think that similarly, I think people are"
+    },
+    {
+      "start": 2892.8,
+      "end": 2897.76,
+      "text": "looking at equities and saying, hey, if the situation gets bad, we'll just do a COVID style print"
+    },
+    {
+      "start": 2897.76,
+      "end": 2904.0,
+      "text": "and give everyone 10 grand and 20 grand and they can go off and, uh, vice tech stocks or fill up"
+    },
+    {
+      "start": 2904.0,
+      "end": 2911.1200000000003,
+      "text": "their tank once or fill up the tank twice and cryptocurrency and, uh, and make it 2020 rain again."
+    },
+    {
+      "start": 2912.0800000000004,
+      "end": 2919.44,
+      "text": "Let's go back to the two most recent major data points, which was the 2020 COVID crisis and the"
+    },
+    {
+      "start": 2919.52,
+      "end": 2931.28,
+      "text": "2008 into 2009, uh, great financial crisis. How long, how many months did demand destruction stay"
+    },
+    {
+      "start": 2931.28,
+      "end": 2939.36,
+      "text": "above 10 percent during each of those events and how many months do you anticipate, even if we"
+    },
+    {
+      "start": 2939.36,
+      "end": 2945.36,
+      "text": "were to open the straight up or moves next week, how many months do we have to have that 10 million"
+    },
+    {
+      "start": 2945.44,
+      "end": 2950.88,
+      "text": "barrels of demand destruction in order to balance this market? In other words, put those two at a"
+    },
+    {
+      "start": 2950.88,
+      "end": 2957.28,
+      "text": "scale. Is this half as big as 2008? Is it just as big as 2008 in terms of how many months of"
+    },
+    {
+      "start": 2957.28,
+      "end": 2961.76,
+      "text": "more than 10 percent demand destruction it's going to involve? That's a very good question."
+    },
+    {
+      "start": 2961.76,
+      "end": 2967.92,
+      "text": "And the interesting answer is it doesn't take very long at all. It takes oil, it gets to 150 and oil"
+    },
+    {
+      "start": 2967.92,
+      "end": 2972.0,
+      "text": "will move there fast. I mean, people think we're going to stay at a hundred dollars for a long"
+    },
+    {
+      "start": 2972.0,
+      "end": 2976.16,
+      "text": "period of time. It keeps the market at three or four weeks from now. If we're still here in the"
+    },
+    {
+      "start": 2976.16,
+      "end": 2980.8,
+      "text": "middle of June, that's where we're going to get to 150. If we're in the same situation,"
+    },
+    {
+      "start": 2980.8,
+      "end": 2985.28,
+      "text": "straight as closed, as I said, I think that even if pieces are declared today, I think this is going"
+    },
+    {
+      "start": 2985.28,
+      "end": 2992.0,
+      "text": "to be the restart time is going to force oil to get to 150 plus even with the restart today."
+    },
+    {
+      "start": 2992.0,
+      "end": 2998.8,
+      "text": "And so it doesn't, and then going back to comparing it to 2008 and 2020, oil didn't have to,"
+    },
+    {
+      "start": 2999.28,
+      "end": 3004.88,
+      "text": "if inflation adjusts the price level back to today's money, oil price is only have to stay above"
+    },
+    {
+      "start": 3004.88,
+      "end": 3013.04,
+      "text": "150 for a few months and you get that destruction. People stop a lot of discretionary consumption"
+    },
+    {
+      "start": 3013.04,
+      "end": 3018.0800000000004,
+      "text": "just falls out of the market immediately. Because when you think about it, people start canceling"
+    },
+    {
+      "start": 3018.0800000000004,
+      "end": 3025.6000000000004,
+      "text": "vacations. They don't book long trips. They stay local. They will cut back on other things. I mean,"
+    },
+    {
+      "start": 3025.6,
+      "end": 3030.72,
+      "text": "people will still buy oil, but they would buy less of it. And there'll be more conscious of"
+    },
+    {
+      "start": 3030.72,
+      "end": 3037.12,
+      "text": "the consumption that involves oil spending. And so it doesn't take that long. I think in 2008,"
+    },
+    {
+      "start": 3037.12,
+      "end": 3042.4,
+      "text": "I think we only stayed above 150 dollars for a few months. I think it literally was two or three"
+    },
+    {
+      "start": 3042.4,
+      "end": 3049.92,
+      "text": "months. And in 2020, oil demand fell below 10%. And again, it was only a few months. And that 2020"
+    },
+    {
+      "start": 3049.92,
+      "end": 3054.7999999999997,
+      "text": "is a complicated one because there were so many, it was in a very unusual situation with the"
+    },
+    {
+      "start": 3054.96,
+      "end": 3061.04,
+      "text": "stimulus checks and the whole situation. 2008 is the better comparison. And it only took about two"
+    },
+    {
+      "start": 3061.04,
+      "end": 3069.2000000000003,
+      "text": "months of 150 dollar plus oil in the middle of 2008 for consumption to fall and stall. And then"
+    },
+    {
+      "start": 3069.2000000000003,
+      "end": 3076.2400000000002,
+      "text": "obviously we had an equity crisis immediately around, you know, after that. So it basically"
+    },
+    {
+      "start": 3076.2400000000002,
+      "end": 3083.76,
+      "text": "this happens fast. And so I would encourage your listeners to be prepared for, you know, if you're"
+    },
+    {
+      "start": 3083.84,
+      "end": 3088.1600000000003,
+      "text": "one of those things, even oil companies are famous for the fact of, you know, they do stress"
+    },
+    {
+      "start": 3088.1600000000003,
+      "end": 3094.0800000000004,
+      "text": "testing of their portfolios. Banks do that now since the financial crisis also. And but they basically,"
+    },
+    {
+      "start": 3094.0800000000004,
+      "end": 3099.36,
+      "text": "I would, if you have, you should be stress testing your portfolio, not just in a negative way,"
+    },
+    {
+      "start": 3099.36,
+      "end": 3103.6000000000004,
+      "text": "in a positive way, because some things will actually become very cheap when you have 150 dollar plus"
+    },
+    {
+      "start": 3103.6000000000004,
+      "end": 3109.2000000000003,
+      "text": "oil. And I would be stress testing your portfolio for 150 to 200 dollar oil happening over the next"
+    },
+    {
+      "start": 3109.2000000000003,
+      "end": 3116.4,
+      "text": "month. What will you do when that happens? Because that is a more than 50% chance of probability of"
+    },
+    {
+      "start": 3116.4,
+      "end": 3122.4,
+      "text": "happening over the next two months, 150 to 200 dollar oil. The economy is going to take a moment"
+    },
+    {
+      "start": 3122.4,
+      "end": 3128.32,
+      "text": "as in it's going to react negatively to macro economy. And it's going to look bad. It's going"
+    },
+    {
+      "start": 3128.32,
+      "end": 3132.2400000000002,
+      "text": "to look people will be starting to say really bad things about the economy. We're in a doom type"
+    },
+    {
+      "start": 3132.2400000000002,
+      "end": 3136.88,
+      "text": "situation. Equities might do okay in this because it said the people are going to think we're"
+    },
+    {
+      "start": 3136.88,
+      "end": 3140.56,
+      "text": "going to money print our way out of it. It doesn't help the oil industry. Unfortunately,"
+    },
+    {
+      "start": 3140.56,
+      "end": 3145.04,
+      "text": "the money printing, but it might help, help equity valuations and multiples might expand because"
+    },
+    {
+      "start": 3145.04,
+      "end": 3152.1600000000003,
+      "text": "of that. But I would, as of today, the end of May 2006, I would be stress testing my portfolio"
+    },
+    {
+      "start": 3152.1600000000003,
+      "end": 3158.6400000000003,
+      "text": "for 150 to 200 dollar oil within the next 30 days. And what will you do when that happens?"
+    },
+    {
+      "start": 3158.6400000000003,
+      "end": 3164.2400000000002,
+      "text": "Some things airlines, a lot of the US airlines are not hedged. Some of the European airlines are"
+    },
+    {
+      "start": 3164.2400000000002,
+      "end": 3168.96,
+      "text": "hedged. A lot of them actually are Ryanair and Lufthansa and a lot of these guys. But so you're"
+    },
+    {
+      "start": 3168.96,
+      "end": 3173.5200000000004,
+      "text": "going to see a lot of these interesting dynamics. They're going to start to appear as oil and gas"
+    },
+    {
+      "start": 3173.5200000000004,
+      "end": 3180.0000000000005,
+      "text": "producers in the US are going to have a really good summer. No one did, they're normal people"
+    },
+    {
+      "start": 3180.0000000000005,
+      "end": 3184.48,
+      "text": "like you and I. They're not kind of gloting over higher oil prices. They would like prices to be"
+    },
+    {
+      "start": 3184.48,
+      "end": 3189.0400000000004,
+      "text": "a hundred dollars or four dollars for an BTU for not gas. People would like those prices to be"
+    },
+    {
+      "start": 3189.12,
+      "end": 3196.72,
+      "text": "their producers. But those producers are going to look could be looking cheap today versus if we"
+    },
+    {
+      "start": 3196.72,
+      "end": 3203.36,
+      "text": "get to 150 to 200 dollar oil, 150 to 200 dollar oil is not sustainable over a longer period of time"
+    },
+    {
+      "start": 3203.36,
+      "end": 3210.08,
+      "text": "at least today. But I would be stress testing my portfolio today in anticipation of this happening"
+    },
+    {
+      "start": 3210.08,
+      "end": 3216.08,
+      "text": "over the next 30 days. Well, on that uplifting note, we're going to have to call time on this interview."
+    },
+    {
+      "start": 3216.08,
+      "end": 3220.96,
+      "text": "I can't thank you enough Morgan for a terrific interview. But before I let you go, there's another"
+    },
+    {
+      "start": 3220.96,
+      "end": 3226.88,
+      "text": "piece of news in the oil market, maybe not quite as big as the hormones crisis, but close. And that"
+    },
+    {
+      "start": 3226.88,
+      "end": 3234.72,
+      "text": "is a new addition of oil 101, the book that almost all of us read in the beginning back when it came"
+    },
+    {
+      "start": 3234.72,
+      "end": 3241.52,
+      "text": "out in 2009. Why now almost 20 years later, I don't think this was brought on by this crisis. You"
+    },
+    {
+      "start": 3241.68,
+      "end": 3248.0,
+      "text": "were writing the new book before the crisis hit. So why the new addition? What's new in it? And for"
+    },
+    {
+      "start": 3248.0,
+      "end": 3253.04,
+      "text": "those listeners who haven't read oil 101, tell us a little bit about just the structure of the book"
+    },
+    {
+      "start": 3253.04,
+      "end": 3257.92,
+      "text": "and what it's about because it's definitely the Bible that everyone goes by. Prior to the first"
+    },
+    {
+      "start": 3257.92,
+      "end": 3265.52,
+      "text": "edition of oil 101, I was an oil trader. I traded, you know, I still do futures, physical oil,"
+    },
+    {
+      "start": 3265.52,
+      "end": 3273.84,
+      "text": "swaps, ODC swaps. But I had to assemble all of my knowledge. And as did everyone in the industry"
+    },
+    {
+      "start": 3273.84,
+      "end": 3278.48,
+      "text": "from dribs and drabs, there was no single source where you could say, okay, I want to learn about"
+    },
+    {
+      "start": 3279.2,
+      "end": 3285.28,
+      "text": "shipping oil and pipelines, as well as refining, as well as a bit of history and context, like a bigger"
+    },
+    {
+      "start": 3285.28,
+      "end": 3291.6,
+      "text": "picture, like zoom up a little bit. But still not in a dumb downway, in a relatively information"
+    },
+    {
+      "start": 3291.6,
+      "end": 3298.08,
+      "text": "intense way. And so I brought the book. I wish someone else had written. I kind of had to write"
+    },
+    {
+      "start": 3298.08,
+      "end": 3303.12,
+      "text": "the book. I felt obliged to do it. And that was in 2009. And the oil industry in 2009, and so we're"
+    },
+    {
+      "start": 3303.12,
+      "end": 3310.96,
+      "text": "now obviously in 2026, 2009, fracking and hydraulic fracking, as well as so back in the big recovery"
+    },
+    {
+      "start": 3310.96,
+      "end": 3316.24,
+      "text": "in US oil production, as well as a whole bunch of other kind of developments like electric cars,"
+    },
+    {
+      "start": 3316.24,
+      "end": 3321.52,
+      "text": "hadn't didn't really exist. It sounds like a long time ago now, 15 years. And so I wrote"
+    },
+    {
+      "start": 3321.52,
+      "end": 3326.08,
+      "text": "the first edition of 2009. It became, it was people bought paper books back then. You know,"
+    },
+    {
+      "start": 3326.08,
+      "end": 3331.92,
+      "text": "people don't do that now. But it became a really, it became a global bestseller. It was basically,"
+    },
+    {
+      "start": 3332.56,
+      "end": 3337.92,
+      "text": "you get a new trade on a desk or you're starting a job in an oil refinery or a knack gas producer in"
+    },
+    {
+      "start": 3337.92,
+      "end": 3343.28,
+      "text": "the US. You get handed this book. And it's stunned the test of time. A lot of it was, you know,"
+    },
+    {
+      "start": 3343.28,
+      "end": 3350.72,
+      "text": "has been evergreen. But a few things did really need to be addressed in the second edition. One was"
+    },
+    {
+      "start": 3350.7200000000003,
+      "end": 3357.44,
+      "text": "the huge growth in US oil production. So that in itself was an interesting tale of how did that"
+    },
+    {
+      "start": 3357.44,
+      "end": 3363.2000000000003,
+      "text": "happen? And it is actually a very interesting story, the whole backstory of how US oil recovery"
+    },
+    {
+      "start": 3363.2000000000003,
+      "end": 3367.6000000000004,
+      "text": "that had been a long term oil production had been a long term decline. How did that turn around?"
+    },
+    {
+      "start": 3367.6000000000004,
+      "end": 3373.1200000000003,
+      "text": "And the US is now the largest oil producer in the world is a net exporter that was 15 years ago."
+    },
+    {
+      "start": 3373.1200000000003,
+      "end": 3379.6800000000003,
+      "text": "That was not the case. It was not looking good. And so a lot of this was turned around by technology."
+    },
+    {
+      "start": 3379.6800000000003,
+      "end": 3385.76,
+      "text": "The oil industry is highly innovative. People think of like, you know, Nvidia and companies like"
+    },
+    {
+      "start": 3385.76,
+      "end": 3390.8,
+      "text": "that when they think of technology, the oil industry is an extremely technology intensive industry."
+    },
+    {
+      "start": 3390.8,
+      "end": 3395.92,
+      "text": "And which is the reason why the US has become one of the largest oil producers, if not the largest"
+    },
+    {
+      "start": 3395.92,
+      "end": 3400.7200000000003,
+      "text": "oil producer, depending on the month at the moment. And so that was kind of one reason just to cover"
+    },
+    {
+      "start": 3400.7200000000003,
+      "end": 3406.7200000000003,
+      "text": "the changing supply, including especially the US oil production growth. And the second thing was,"
+    },
+    {
+      "start": 3406.7200000000003,
+      "end": 3411.76,
+      "text": "I wanted to make it fully electronic. So it's now, it's on, if you go to morgandowney.com,"
+    },
+    {
+      "start": 3412.4800000000005,
+      "end": 3417.76,
+      "text": "it's there on the on the internet. It's got much more interactive, the charts, it's no longer just"
+    },
+    {
+      "start": 3417.76,
+      "end": 3423.84,
+      "text": "a book, because things change so quickly, obviously, these days that it needed to be delivered in"
+    },
+    {
+      "start": 3423.84,
+      "end": 3429.76,
+      "text": "a different format. So the second edition, which is produced in 2026, it has much more interaction."
+    },
+    {
+      "start": 3429.76,
+      "end": 3435.2000000000003,
+      "text": "Everything is interactive about it. As well as it enables me, I have a chapter on the"
+    },
+    {
+      "start": 3435.2000000000003,
+      "end": 3441.1200000000003,
+      "text": "straight-of-form news crisis. And so, and I updated every day or two, it's allows me to talk about,"
+    },
+    {
+      "start": 3441.1200000000003,
+      "end": 3445.6800000000003,
+      "text": "you know, how much inventory is nests pure, how much is being drawn down. So it's basically a"
+    },
+    {
+      "start": 3445.6800000000003,
+      "end": 3451.2000000000003,
+      "text": "modern delivery mechanism for the same book. So you can still buy the physical book, a"
+    },
+    {
+      "start": 3451.2000000000003,
+      "end": 3456.8,
+      "text": "Amazon and things like that. And it's still worth getting because it's some people like the tactile"
+    },
+    {
+      "start": 3456.8,
+      "end": 3461.0400000000004,
+      "text": "nature of being able to flip to the index and look for a particular obscure word like what"
+    },
+    {
+      "start": 3461.7599999999998,
+      "end": 3469.7599999999998,
+      "text": "API mean or some acronym. And so that physical book is still useful, but you can just go to morgandowney.com"
+    },
+    {
+      "start": 3469.7599999999998,
+      "end": 3476.0,
+      "text": "and or just look up oil 101, just Google it and you'll find the book. And it's just a modern"
+    },
+    {
+      "start": 3476.0,
+      "end": 3481.84,
+      "text": "version. It just needed to be more interactive, which is great. It enables the book to keep"
+    },
+    {
+      "start": 3481.84,
+      "end": 3486.32,
+      "text": "up with current, you know, evolving situations like this, the homeless crisis."
+    },
+    {
+      "start": 3486.88,
+      "end": 3491.44,
+      "text": "Okay, Morgan, and just briefly, tell me what is boxwood? You're now a software guy."
+    },
+    {
+      "start": 3492.0,
+      "end": 3497.1200000000003,
+      "text": "Yeah, so this mentioned the oil industry is a very technology industry. And boxwood is a piece"
+    },
+    {
+      "start": 3497.1200000000003,
+      "end": 3501.92,
+      "text": "of software that oil and gas producers, so the people that get oil and gas out of the ground,"
+    },
+    {
+      "start": 3501.92,
+      "end": 3507.84,
+      "text": "primarily in the US, they use it to manage their hedging. So if you're not gas producer and you need"
+    },
+    {
+      "start": 3507.84,
+      "end": 3514.2400000000002,
+      "text": "to lock in $4 per annum B2 gas, you can use this software called boxwood to help you get that"
+    },
+    {
+      "start": 3514.2400000000002,
+      "end": 3520.0800000000004,
+      "text": "overview and as well as detailed level analysis. So it's kind of like air traffic control for"
+    },
+    {
+      "start": 3520.0800000000004,
+      "end": 3526.1600000000003,
+      "text": "financial markets for oil and gas companies. So that allows them to make really fast-moving"
+    },
+    {
+      "start": 3526.1600000000003,
+      "end": 3531.92,
+      "text": "decisions and very smart decisions using the boxwood software. So it's like a tool used by"
+    },
+    {
+      "start": 3531.92,
+      "end": 3538.32,
+      "text": "the CFO, the CEO, the treasurer of oil and gas companies, primarily in the US, but all around the"
+    },
+    {
+      "start": 3538.8,
+      "end": 3545.6800000000003,
+      "text": "world. And it's called boxwood, B-O-X-W-O-O-D. And again, listeners, the book is oil 101. Your research"
+    },
+    {
+      "start": 3545.6800000000003,
+      "end": 3551.52,
+      "text": "roundup email contains a link where you can find both the Amazon link as well as a link to Morgan's"
+    },
+    {
+      "start": 3551.52,
+      "end": 3556.88,
+      "text": "website, which is MorganDowney.com. Patrick Sarresna and I will be back as macrovoices continues"
+    },
+    {
+      "start": 3556.96,
+      "end": 3558.8,
+      "text": "right here at macrovoices.com."
+    },
+    {
+      "start": 3564.88,
+      "end": 3568.88,
+      "text": "Now back to your hosts, Eric Townsend and Patrick Sarresna."
+    },
+    {
+      "start": 3569.44,
+      "end": 3572.88,
+      "text": "Eric, it was great to have Morgan on the show. Now listeners, you're going to find the"
+    },
+    {
+      "start": 3572.88,
+      "end": 3577.92,
+      "text": "download link for this week's Trade of the Week in your research roundup email. If you don't"
+    },
+    {
+      "start": 3577.92,
+      "end": 3583.2000000000003,
+      "text": "have a research roundup email, it means you have not yet registered at macrabossus.com."
+    },
+    {
+      "start": 3583.2000000000003,
+      "end": 3588.88,
+      "text": "Just go to our homepage and look for that red button over Morgan's picture saying looking for"
+    },
+    {
+      "start": 3588.88,
+      "end": 3594.8,
+      "text": "the download. Patrick, for this week's Trade of the Week, MorganDowney argues that this oil shock"
+    },
+    {
+      "start": 3594.8,
+      "end": 3600.88,
+      "text": "may have consequences well beyond the next headline. So how do you position for the bigger aftermath"
+    },
+    {
+      "start": 3600.88,
+      "end": 3606.8,
+      "text": "story? MorganDowney's core point was that the market maybe too focused on the next headline"
+    },
+    {
+      "start": 3606.8,
+      "end": 3612.4800000000005,
+      "text": "around a potential peace deal while missing the much larger aftermath story. The next"
+    },
+    {
+      "start": 3612.48,
+      "end": 3617.84,
+      "text": "short-term move in crude may very well hinge on whether the Stradle Hormuz crisis deescalates"
+    },
+    {
+      "start": 3617.84,
+      "end": 3623.2,
+      "text": "or flares back up. But the bigger investment theme is that the global energy infrastructure"
+    },
+    {
+      "start": 3623.2,
+      "end": 3630.2400000000002,
+      "text": "has just been exposed as more fragile than markets assumed. Even if the shooting stops tomorrow,"
+    },
+    {
+      "start": 3630.2400000000002,
+      "end": 3636.32,
+      "text": "Morgan emphasized that restarting flows, rebuilding confidence, turning wells back on,"
+    },
+    {
+      "start": 3636.32,
+      "end": 3642.08,
+      "text": "restoring tanker traffic and hardening the system against future disruptions could take"
+    },
+    {
+      "start": 3642.08,
+      "end": 3648.72,
+      "text": "months and in some cases years. So rather than trying to trade the next tick in crude oil,"
+    },
+    {
+      "start": 3648.72,
+      "end": 3653.44,
+      "text": "this week's Trade of the Week is about positioning for the energy resilience rebuild through"
+    },
+    {
+      "start": 3653.44,
+      "end": 3658.96,
+      "text": "oil field services. From a trade construction standpoint, the challenge is that the oil field"
+    },
+    {
+      "start": 3658.96,
+      "end": 3665.92,
+      "text": "services trade has already moved aggressively. The Spider S&P oil and gas equipment and services"
+    },
+    {
+      "start": 3665.92,
+      "end": 3678.16,
+      "text": "ETF ticker XES is trading around $132.15. But it has already rallied roughly 72% year to date,"
+    },
+    {
+      "start": 3678.16,
+      "end": 3684.7200000000003,
+      "text": "leaving it vulnerable to a sharp pullback if short-term peace headlines may take pressure off crude."
+    },
+    {
+      "start": 3684.7200000000003,
+      "end": 3691.36,
+      "text": "So rather than taking a full Delta 1 exposure on the ETF, I want to use the longer-dated call"
+    },
+    {
+      "start": 3692.08,
+      "end": 3698.8,
+      "text": "to stay involved in the broader energy resilience thesis while defining the capital at risk."
+    },
+    {
+      "start": 3698.8,
+      "end": 3709.76,
+      "text": "Specifically, the structure buys the December 18, 2026 $135 strike call, trading around $14.25"
+    },
+    {
+      "start": 3709.76,
+      "end": 3718.0,
+      "text": "with roughly 211 days to expiration and a Delta near 53 cents. That gives the trade meaningful"
+    },
+    {
+      "start": 3718.0,
+      "end": 3724.16,
+      "text": "upside participation if the oil field services thesis continues to develop while limiting downside"
+    },
+    {
+      "start": 3724.16,
+      "end": 3730.8,
+      "text": "exposure during a correction. And if we do get a sharp pullback, the option structure provides"
+    },
+    {
+      "start": 3730.8,
+      "end": 3737.36,
+      "text": "flexibility to roll down strikes and reposition into the weakness rather than absorbing the full"
+    },
+    {
+      "start": 3737.36,
+      "end": 3746.08,
+      "text": "drawdown of the ETF itself. From a payoff perspective, the maximum risk is limited to $14.25 premium"
+    },
+    {
+      "start": 3746.08,
+      "end": 3753.2799999999997,
+      "text": "paid while the upside remains open above the $135 strike. The goal is to use the call as a"
+    },
+    {
+      "start": 3753.2799999999997,
+      "end": 3760.16,
+      "text": "defined risk way of maintaining exposure to oil field services upside while preserving flexibility"
+    },
+    {
+      "start": 3760.16,
+      "end": 3766.7999999999997,
+      "text": "to adjust, roll down, and or add exposure if a short-term peace headline created a tactical"
+    },
+    {
+      "start": 3766.7999999999997,
+      "end": 3772.08,
+      "text": "correction. Patrick, every Monday at Big Picture Trading, your webinar explains how retail"
+    },
+    {
+      "start": 3772.08,
+      "end": 3776.88,
+      "text": "investors can put on our most recent trade of the week. For those listeners that want to"
+    },
+    {
+      "start": 3776.88,
+      "end": 3782.64,
+      "text": "explore how to put on these trades in greater detail, don't miss out on a 14-day free trial"
+    },
+    {
+      "start": 3782.64,
+      "end": 3786.7999999999997,
+      "text": "at BigPictureTrading.com. Now let's dive into the post-game chart tick."
+    },
+    {
+      "start": 3786.7999999999997,
+      "end": 3791.7599999999998,
+      "text": "All right, Eric, let's dive into these equity markets. Well, Patrick, this semi-conductor driven"
+    },
+    {
+      "start": 3791.7599999999998,
+      "end": 3796.56,
+      "text": "rally in the S&P seems to be stalling or at least pausing here. I'm not sure what comes next"
+    },
+    {
+      "start": 3796.56,
+      "end": 3801.7599999999998,
+      "text": "if we're going to rally even more from here, but we're certainly overdue for just for a cyclical"
+    },
+    {
+      "start": 3801.76,
+      "end": 3808.1600000000003,
+      "text": "pullback, and not even necessarily a reversal or a crash or anything like that, but this has gone"
+    },
+    {
+      "start": 3808.1600000000003,
+      "end": 3814.0800000000004,
+      "text": "too far too fast in a straight line. So we ought to have at least some Fibonacci retracement. Take"
+    },
+    {
+      "start": 3814.0800000000004,
+      "end": 3823.2000000000003,
+      "text": "out 38.2 to 50 percent of this rally, maybe back down to 7,000 or so or 7,200, you know, some place"
+    },
+    {
+      "start": 3823.2000000000003,
+      "end": 3831.0400000000004,
+      "text": "well below the current 7440 that I'm looking at at recording time. A couple of hundred points"
+    },
+    {
+      "start": 3831.0400000000004,
+      "end": 3837.44,
+      "text": "down would be entirely normal here, even if the bull market remains intact, and I think there's"
+    },
+    {
+      "start": 3837.44,
+      "end": 3843.36,
+      "text": "plenty of arguments to say that it doesn't necessarily need to stay intact. So I think we're overdue"
+    },
+    {
+      "start": 3843.36,
+      "end": 3850.0000000000005,
+      "text": "for a pullback. I would say, however, that I'm reframing my BigPicture view of this market. I think"
+    },
+    {
+      "start": 3850.0,
+      "end": 3854.8,
+      "text": "a lot of our listeners know I've been just scratching my head trying to figure out how we're rallying"
+    },
+    {
+      "start": 3854.8,
+      "end": 3862.0,
+      "text": "to new all-time highs when it's so clear that we're in the middle of the biggest shock to the oil"
+    },
+    {
+      "start": 3862.0,
+      "end": 3869.52,
+      "text": "market that's ever happened. I think the answer is really pretty simple. It's because the market"
+    },
+    {
+      "start": 3869.52,
+      "end": 3875.76,
+      "text": "is anticipating that no matter how bad it gets, it's just going to bring that much more stimulus. Now"
+    },
+    {
+      "start": 3876.4,
+      "end": 3881.44,
+      "text": "I know what many of you are thinking. No, no, no, wait, it works differently. If it's an oil price"
+    },
+    {
+      "start": 3881.44,
+      "end": 3887.84,
+      "text": "driven shock, that means that we're going to be dealing with a big inflation risk and they won't"
+    },
+    {
+      "start": 3887.84,
+      "end": 3893.6800000000003,
+      "text": "be able to stimulate. Well, look, if it's as big as Morgan Downey says it is, then it's not going"
+    },
+    {
+      "start": 3893.6800000000003,
+      "end": 3898.4,
+      "text": "to stay an inflation shock. It's going to become deflation areas. We start to cripple the global"
+    },
+    {
+      "start": 3898.4,
+      "end": 3904.32,
+      "text": "economy. And in an election year, you better believe that the Trump administration is going to do"
+    },
+    {
+      "start": 3904.32,
+      "end": 3909.6800000000003,
+      "text": "everything they can to pressure the Fed, which they've pretty much seated with the people that will"
+    },
+    {
+      "start": 3909.6800000000003,
+      "end": 3917.28,
+      "text": "be loyal to them, to cut, cut, cut rates, even if they're doing so into increasing long-term"
+    },
+    {
+      "start": 3917.28,
+      "end": 3922.88,
+      "text": "yields at the back end of the curve. Yeah, I don't think that's smarter, responsible either,"
+    },
+    {
+      "start": 3922.88,
+      "end": 3927.92,
+      "text": "but I do think that's what they're likely to do. And I suspect that the reason this market hasn't"
+    },
+    {
+      "start": 3927.92,
+      "end": 3936.08,
+      "text": "been that afraid of the oil shock is because traders correctly anticipate that if we get the big,"
+    },
+    {
+      "start": 3936.08,
+      "end": 3942.88,
+      "text": "really bad economic dislocation on the horizon, it'll probably last a couple of weeks, a brief"
+    },
+    {
+      "start": 3942.88,
+      "end": 3948.64,
+      "text": "down in the stock market. And just like COVID, it won't last that long. And while the crisis is"
+    },
+    {
+      "start": 3948.64,
+      "end": 3954.2400000000002,
+      "text": "still ongoing, we'll break to new all-time highs once again. So I think that may be the reason"
+    },
+    {
+      "start": 3954.2400000000002,
+      "end": 3958.7200000000003,
+      "text": "the market is not so afraid of this. That's the only explanation I can come up with. Eric,"
+    },
+    {
+      "start": 3958.7200000000003,
+      "end": 3963.36,
+      "text": "you're certainly right that the semiconductors are overdue for a pullback of some sort. But the"
+    },
+    {
+      "start": 3963.36,
+      "end": 3971.6800000000003,
+      "text": "bigger question here was in video's earnings yesterday, I catalyst. Now, at least in the pre-markets,"
+    },
+    {
+      "start": 3971.6800000000003,
+      "end": 3976.6400000000003,
+      "text": "when we're looking at the outcome, there's very little change in Nvidia. And that in itself is"
+    },
+    {
+      "start": 3976.6400000000003,
+      "end": 3983.84,
+      "text": "a letdown because what a semiconductor melt-up like this needs is momentum and a funnel and things"
+    },
+    {
+      "start": 3983.84,
+      "end": 3990.0,
+      "text": "to feed on itself. When you have the single biggest component in the ETF report of stunning"
+    },
+    {
+      "start": 3990.0,
+      "end": 3996.8,
+      "text": "earnings and it's already been baked into the cake in many cases because of all the crowding"
+    },
+    {
+      "start": 3996.8,
+      "end": 4002.08,
+      "text": "in that space, if we see that Nvidia is actually fading on its earnings, which is not something we're"
+    },
+    {
+      "start": 4002.08,
+      "end": 4007.6800000000003,
+      "text": "seeing yet. But if that became the reality, that would start to give indications that that crowding"
+    },
+    {
+      "start": 4007.6800000000003,
+      "end": 4012.8,
+      "text": "has gotten a little overdone. And then in fact, we may see fading into the weeks to come."
+    },
+    {
+      "start": 4013.44,
+      "end": 4019.84,
+      "text": "Overall, though, the S&P has fulfilled a lot of the upside targets towards 7,500 and we have"
+    },
+    {
+      "start": 4019.84,
+      "end": 4025.6000000000004,
+      "text": "such overextended markets. And the breadth of the market remains stuck around 50%. So you have"
+    },
+    {
+      "start": 4025.6000000000004,
+      "end": 4032.8,
+      "text": "a lack of participation, a very overextended leadership group that may be peedering out of"
+    },
+    {
+      "start": 4032.8,
+      "end": 4038.2400000000002,
+      "text": "momentum. And many upside targets already being achieved at minimum, whether or not this is the"
+    },
+    {
+      "start": 4038.2400000000002,
+      "end": 4044.7200000000003,
+      "text": "reversal point, we can start to conclude that the asymmetry of being long is diminishing."
+    },
+    {
+      "start": 4044.7200000000003,
+      "end": 4049.84,
+      "text": "All right, Eric, let's touch on this dollar. Well, Patrick, we finally closed the gap at 99"
+    },
+    {
+      "start": 4049.84,
+      "end": 4055.44,
+      "text": "spot 39 on the Dixie chart as we've been predicting would happen here on macro voices for the last"
+    },
+    {
+      "start": 4055.44,
+      "end": 4061.2000000000003,
+      "text": "several weeks. I think we could easily see a retest of the top of this trading range up of 101"
+    },
+    {
+      "start": 4061.2000000000003,
+      "end": 4067.44,
+      "text": "whatever it is entirely possible. But ultimately, I think we're going to see much lower Dixie numbers"
+    },
+    {
+      "start": 4067.44,
+      "end": 4072.8,
+      "text": "after the straight is finally opened. So I think the trade here, if you want to trade the dollar"
+    },
+    {
+      "start": 4072.8,
+      "end": 4078.08,
+      "text": "is to maybe give it a little more room to run. And then it's a short after we get to the top"
+    },
+    {
+      "start": 4078.08,
+      "end": 4082.96,
+      "text": "of the trading range. Well, Eric, when I look at that chart on the dollar index, this entire pullback"
+    },
+    {
+      "start": 4082.96,
+      "end": 4088.8,
+      "text": "over the last month has more or less been contained to retracement zones. And the euro has structurally"
+    },
+    {
+      "start": 4088.8,
+      "end": 4095.52,
+      "text": "remained weak with the fact that we're seeing a real catalyst for the European economy potentially"
+    },
+    {
+      "start": 4095.52,
+      "end": 4101.04,
+      "text": "running into recession risks due to rising oil prices and food prices and other things that could"
+    },
+    {
+      "start": 4101.04,
+      "end": 4107.84,
+      "text": "certainly create tightness. Maybe the euro may very well have a weakening cycle here. If that's the"
+    },
+    {
+      "start": 4107.84,
+      "end": 4114.32,
+      "text": "case with the waiting in the dollar index, that could be all the tailwind that dollar index needs for"
+    },
+    {
+      "start": 4114.32,
+      "end": 4120.56,
+      "text": "a potential retest of its previous high at this stage. Whether the breakout happens or not is"
+    },
+    {
+      "start": 4120.64,
+      "end": 4126.160000000001,
+      "text": "the puzzle to solve, but at minimum, the range bound dollar that looks to have very limited"
+    },
+    {
+      "start": 4126.160000000001,
+      "end": 4130.88,
+      "text": "downside on the interim. All right, Eric, let's touch on oil. Well, another week, another"
+    },
+    {
+      "start": 4130.88,
+      "end": 4136.88,
+      "text": "piece deal supposedly on the table just hours away. As of Wednesday afternoon, the market's sitting"
+    },
+    {
+      "start": 4136.88,
+      "end": 4142.64,
+      "text": "with baited breath waiting for that final piece announcement to send prices much lower. Okay."
+    },
+    {
+      "start": 4142.64,
+      "end": 4148.64,
+      "text": "As of what is it about just about 4 a.m. on Thursday morning as I'm recording,"
+    },
+    {
+      "start": 4148.64,
+      "end": 4156.0,
+      "text": "no piece deal yet. And I for one took advantage of Wednesday afternoon's dip. I bought that dip"
+    },
+    {
+      "start": 4156.0,
+      "end": 4163.12,
+      "text": "actually by covering my short calls. Our regular listeners will remember that I've got a 130"
+    },
+    {
+      "start": 4163.12,
+      "end": 4170.320000000001,
+      "text": "vertical bull call spread on the September. And also I've got some on the December contract as well."
+    },
+    {
+      "start": 4170.88,
+      "end": 4175.6,
+      "text": "Those have already tripled in value since I put them on for less than two dollars of spread on"
+    },
+    {
+      "start": 4175.6,
+      "end": 4183.04,
+      "text": "those September contracts. So I use some of those built up profits to just cover the 130 short calls"
+    },
+    {
+      "start": 4183.04,
+      "end": 4189.04,
+      "text": "because I want to leave room for Morgan's prediction to come true that we could go well above"
+    },
+    {
+      "start": 4189.04,
+      "end": 4194.72,
+      "text": "130 in the next couple of months if this thing really gets out of hand. Now that's not a prediction"
+    },
+    {
+      "start": 4194.72,
+      "end": 4200.08,
+      "text": "that it will. What should happen here is the White House should be smart enough to recognize. As Morgan"
+    },
+    {
+      "start": 4200.16,
+      "end": 4207.76,
+      "text": "said, we're out of buffers and safety margins. It's time to cut a deal back off, declare victory,"
+    },
+    {
+      "start": 4207.76,
+      "end": 4213.76,
+      "text": "do something and get the straight reopened. But if this continues, if we spend another month,"
+    },
+    {
+      "start": 4213.76,
+      "end": 4220.16,
+      "text": "I think Morgan's right, we're headed to 150 plus. And I wanted to leave that upside in. So I bought"
+    },
+    {
+      "start": 4220.16,
+      "end": 4224.96,
+      "text": "that dip. I probably should have added to my long futures position at the same time. But for now,"
+    },
+    {
+      "start": 4224.96,
+      "end": 4230.88,
+      "text": "I'm just covering short calls and I'll continue to buy these supposed piece deal dips each time"
+    },
+    {
+      "start": 4230.88,
+      "end": 4235.44,
+      "text": "they happen. Eventually, I'll be wrong, but you know, you only have to get a couple of them right"
+    },
+    {
+      "start": 4235.44,
+      "end": 4242.56,
+      "text": "before one wrong one. It all just gets washed out in the end. When the straight does finally reopen"
+    },
+    {
+      "start": 4242.56,
+      "end": 4248.16,
+      "text": "and reopen for real, it's going to be a really big dip. It's going to be down and down hard. And I"
+    },
+    {
+      "start": 4248.16,
+      "end": 4255.04,
+      "text": "say that's another great big by the dip opportunity, because it's then going to take much longer"
+    },
+    {
+      "start": 4255.04,
+      "end": 4260.639999999999,
+      "text": "than everyone assumes before we get back to normal. And just as Morgan predicted, energy prices,"
+    },
+    {
+      "start": 4260.639999999999,
+      "end": 4268.0,
+      "text": "oil prices are going to go up again after that initial relief sell off. As people realize,"
+    },
+    {
+      "start": 4268.0,
+      "end": 4273.28,
+      "text": "oh, wait, it takes months to clear out the mess that was made in the system. So I think there's"
+    },
+    {
+      "start": 4273.28,
+      "end": 4277.84,
+      "text": "a really big by the dip opportunity coming. I don't know when that comes. But at some point,"
+    },
+    {
+      "start": 4277.84,
+      "end": 4282.88,
+      "text": "we will see the straight really and truly reopen that big dip that happens after that. I say"
+    },
+    {
+      "start": 4282.88,
+      "end": 4288.72,
+      "text": "is another big by the dip opportunity. Well, Eric, when I'm specifically looking at the crude oil"
+    },
+    {
+      "start": 4288.72,
+      "end": 4295.52,
+      "text": "July contract, the front month one, it's convenient that the headline of a piece deal came literally"
+    },
+    {
+      "start": 4295.52,
+      "end": 4303.04,
+      "text": "the day after the crude oil market printed a higher high on that contract. And we were seeing"
+    },
+    {
+      "start": 4303.12,
+      "end": 4308.4,
+      "text": "potential breakout and they talked it back down. And that certainly seems to have been the theme"
+    },
+    {
+      "start": 4308.4,
+      "end": 4314.8,
+      "text": "over the last couple of months, which is as crude oil is rising, we're continuously seeing"
+    },
+    {
+      "start": 4314.8,
+      "end": 4320.88,
+      "text": "stories to try to keep things under control, whether or not we get a piece deal or not is that we're"
+    },
+    {
+      "start": 4320.88,
+      "end": 4328.0,
+      "text": "about to find out. But if this was again going to prove to being a nonstarter for a piece deal,"
+    },
+    {
+      "start": 4328.0,
+      "end": 4334.96,
+      "text": "the crude oil breakout back above the 105 level on that July contract really could set in motion"
+    },
+    {
+      "start": 4334.96,
+      "end": 4343.2,
+      "text": "a move back towards that 115 to 120 area at this stage. Of course, if we do get a big headline"
+    },
+    {
+      "start": 4343.2,
+      "end": 4349.44,
+      "text": "that the resolution has come, it would cause a correction. But I'm at least at this moment remain"
+    },
+    {
+      "start": 4349.44,
+      "end": 4355.92,
+      "text": "also skeptical that this is the one and the vulnerability here that oil goes ripping right back up"
+    },
+    {
+      "start": 4355.92,
+      "end": 4360.96,
+      "text": "is relatively high. All right, Eric, what are your thoughts here on gold? Well, we're back to"
+    },
+    {
+      "start": 4360.96,
+      "end": 4366.96,
+      "text": "every up move in oil is a down move in gold again for a little while there was looking like gold"
+    },
+    {
+      "start": 4366.96,
+      "end": 4374.4,
+      "text": "wanted to find a way to recover. But at this point, I think it's really going to continue to operate"
+    },
+    {
+      "start": 4374.4,
+      "end": 4379.36,
+      "text": "opposite oil. And if you believe Morgan's predictions, it's probably time to get out of your"
+    },
+    {
+      "start": 4379.44,
+      "end": 4385.28,
+      "text": "lungs and gold and wait to get back in at a much lower price. The next obvious support level is"
+    },
+    {
+      "start": 4385.28,
+      "end": 4391.599999999999,
+      "text": "4400 the 200 day moving average. But if we get Morgan's expected outcome, that number is not going"
+    },
+    {
+      "start": 4391.599999999999,
+      "end": 4397.2,
+      "text": "to hold and we've got still lower to come if we're going to go to oil 150 plus. If that happens,"
+    },
+    {
+      "start": 4397.2,
+      "end": 4404.48,
+      "text": "is oil is topping out, it's going to be time to go long gold and long gold in a big way. But I think"
+    },
+    {
+      "start": 4404.4800000000005,
+      "end": 4410.000000000001,
+      "text": "we're quite a ways from being there yet. On the other hand, the weekly RSI, which hasn't been"
+    },
+    {
+      "start": 4410.56,
+      "end": 4419.6,
+      "text": "looking at my chart here hasn't been this oversold since the around September of 2023."
+    },
+    {
+      "start": 4420.240000000001,
+      "end": 4427.68,
+      "text": "Is the last time we dipped below the 30 line on the RSI was back in September of 23. And we're"
+    },
+    {
+      "start": 4427.68,
+      "end": 4432.240000000001,
+      "text": "just right on the hairy edge of it now. So I don't think we've bottomed yet. There's still a little"
+    },
+    {
+      "start": 4432.24,
+      "end": 4439.04,
+      "text": "ways to go. But boy, it's setting up a fantastic buying opportunity in gold when this market bottoms."
+    },
+    {
+      "start": 4439.04,
+      "end": 4443.5199999999995,
+      "text": "And I don't think it's bottomed yet. And there could be quite a ways to go down before it does."
+    },
+    {
+      "start": 4443.5199999999995,
+      "end": 4449.84,
+      "text": "Well, Eric, I'm just going to read the tape on the price action of gold. And when you really look"
+    },
+    {
+      "start": 4449.84,
+      "end": 4456.4,
+      "text": "back at the last four or five weeks, it has to be getting a failing grade. Overall, every rally"
+    },
+    {
+      "start": 4456.400000000001,
+      "end": 4463.68,
+      "text": "has failed. Distribution is dominant. And while you can continuously make a great macro bull case"
+    },
+    {
+      "start": 4463.68,
+      "end": 4469.6,
+      "text": "for gold, which I actually long term in bullish gold, right now at least the price action remains"
+    },
+    {
+      "start": 4469.6,
+      "end": 4475.920000000001,
+      "text": "to be very clearly distributed in its nature. We're in the midst of some sort of a correction."
+    },
+    {
+      "start": 4475.920000000001,
+      "end": 4481.6,
+      "text": "And there's no reason at this moment to believe that that correction is over. So I'm on the short"
+    },
+    {
+      "start": 4481.68,
+      "end": 4487.4400000000005,
+      "text": "term concern that we're going to still go testing some lower levels. But again, I would view that as one"
+    },
+    {
+      "start": 4487.4400000000005,
+      "end": 4492.4800000000005,
+      "text": "enormous buying opportunity is when this correction is over, there will be all of the conditions for"
+    },
+    {
+      "start": 4492.4800000000005,
+      "end": 4497.4400000000005,
+      "text": "gold to have another extraordinary rip higher. All right, Eric, let's touch on uranium here."
+    },
+    {
+      "start": 4497.4400000000005,
+      "end": 4503.92,
+      "text": "As our regular listeners know, I remain super duper uber bullish long term on uranium. But last"
+    },
+    {
+      "start": 4503.92,
+      "end": 4509.200000000001,
+      "text": "week, I said, okay, I'm getting pretty darn nervous here short term. Well, that played out exactly"
+    },
+    {
+      "start": 4509.2,
+      "end": 4516.08,
+      "text": "as expected. We're down about what 10 bucks on URA since last week. It's just been a very,"
+    },
+    {
+      "start": 4516.08,
+      "end": 4522.32,
+      "text": "very soft uranium market. Quite a few of the individual issues. I'm just looking at my various"
+    },
+    {
+      "start": 4522.32,
+      "end": 4529.76,
+      "text": "charts between NextGen and Denison. It looks like Denison is right on its 200 day moving average. URA"
+    },
+    {
+      "start": 4529.76,
+      "end": 4536.96,
+      "text": "is below it. NextGen is a little bit above it. But we're getting the big 200 day test in the past"
+    },
+    {
+      "start": 4536.96,
+      "end": 4542.24,
+      "text": "200 day moving average tests on the uranium issues have been great buying opportunities. So"
+    },
+    {
+      "start": 4542.24,
+      "end": 4547.52,
+      "text": "there's definitely an argument that we're already bottoming and this is your by the dip moment."
+    },
+    {
+      "start": 4547.52,
+      "end": 4553.52,
+      "text": "But frankly, given seasonality patterns in this market, I'm not rushing to buy this dip. At this"
+    },
+    {
+      "start": 4553.52,
+      "end": 4560.08,
+      "text": "point, we're into the soft season in uranium miners. It's normally as we're just coming up on the"
+    },
+    {
+      "start": 4560.08,
+      "end": 4566.72,
+      "text": "WNA conference in London in early September. So around the end of August is when the market"
+    },
+    {
+      "start": 4566.72,
+      "end": 4572.64,
+      "text": "usually is ready to really start to repire if that's what it's going to do through buying season."
+    },
+    {
+      "start": 4573.28,
+      "end": 4579.5199999999995,
+      "text": "I think sitting this one out maybe until I'm not selling my positions, but I'm not"
+    },
+    {
+      "start": 4579.5199999999995,
+      "end": 4583.76,
+      "text": "rushing to buy the dip either. If I'm going to buy something, I'll probably wait until August"
+    },
+    {
+      "start": 4584.320000000001,
+      "end": 4590.88,
+      "text": "to do any more buying in this sector. Unless we get some serious movement in the spot price,"
+    },
+    {
+      "start": 4590.88,
+      "end": 4596.0,
+      "text": "and there's a reason to think that momentum is starting to build. But based on what I'm seeing right"
+    },
+    {
+      "start": 4596.0,
+      "end": 4601.68,
+      "text": "now, I'm probably not going to rush to buy this 200 day test. Well, Eric, when I look at the"
+    },
+    {
+      "start": 4601.68,
+      "end": 4608.88,
+      "text": "uranium charts of the equities, the fact that they failed to hold a breakout and quickly redistributed"
+    },
+    {
+      "start": 4608.96,
+      "end": 4615.68,
+      "text": "back down below, they're moving averages and basically reclaimed previous lows. We have a situation"
+    },
+    {
+      "start": 4615.68,
+      "end": 4622.08,
+      "text": "where overall, there's no sign that uranium stocks are being accumulated here. And again,"
+    },
+    {
+      "start": 4622.08,
+      "end": 4628.72,
+      "text": "while we can anchor off these great fundamental stories of uranium, as of this moment, we're not seeing"
+    },
+    {
+      "start": 4628.72,
+      "end": 4634.8,
+      "text": "investors voting with their money demonstrating that they're ready to take uranium to the next"
+    },
+    {
+      "start": 4634.8,
+      "end": 4641.68,
+      "text": "level higher. Overall, it seems like a very quiet market. And I would anticipate more of the same"
+    },
+    {
+      "start": 4641.68,
+      "end": 4647.28,
+      "text": "until a bigger catalyst actually regains the attention of uranium by investors."
+    },
+    {
+      "start": 4647.28,
+      "end": 4651.6,
+      "text": "Patrick, before we wrap up this week's show, let's hit that 10-year treasury note chart."
+    },
+    {
+      "start": 4651.6,
+      "end": 4658.400000000001,
+      "text": "Eric, we have clearly a huge breakout. I mean, it's not crazy because we haven't cleared the"
+    },
+    {
+      "start": 4658.400000000001,
+      "end": 4667.76,
+      "text": "2025 highs in that kind of 465 to 480 level above. But this has been the first time in a year that"
+    },
+    {
+      "start": 4667.76,
+      "end": 4674.400000000001,
+      "text": "we have seen serious stress on interest rates. And while we've not broken to fresh new highs,"
+    },
+    {
+      "start": 4674.400000000001,
+      "end": 4680.960000000001,
+      "text": "when you go to the 30-year yields, we have cleared some very key hurdles, which is certainly creating"
+    },
+    {
+      "start": 4680.960000000001,
+      "end": 4687.4400000000005,
+      "text": "some overall nervousness about where are the next levels for interest rates and bonds."
+    },
+    {
+      "start": 4687.4400000000005,
+      "end": 4693.4400000000005,
+      "text": "The one thing that I think is also telling is the fact that the rip is not just in the U.S."
+    },
+    {
+      "start": 4694.080000000001,
+      "end": 4700.400000000001,
+      "text": "30-year yield in that case. When you look at the Euro 30-year bonds, the yield was pressing"
+    },
+    {
+      "start": 4700.400000000001,
+      "end": 4706.72,
+      "text": "fresh new highs. The United Kingdom 30-year government bonds were ripping to fresh new highs,"
+    },
+    {
+      "start": 4706.72,
+      "end": 4715.6,
+      "text": "and obviously a huge rip higher in the Japanese 30-year yield. So we are seeing the structural"
+    },
+    {
+      "start": 4715.6,
+      "end": 4721.84,
+      "text": "interest rate market around the world or rising, obviously starting to price some inflation fears"
+    },
+    {
+      "start": 4721.84,
+      "end": 4727.84,
+      "text": "into them. And the question really becomes, when do the breaking bond markets start to impact equity"
+    },
+    {
+      "start": 4727.84,
+      "end": 4732.160000000001,
+      "text": "prices up until now, the equity markets have been brushing it off. And I guess the puzzle to"
+    },
+    {
+      "start": 4732.160000000001,
+      "end": 4737.84,
+      "text": "solve is will we see a point where interest rates and bonds will matter? Folks, if you enjoy Patrick's"
+    },
+    {
+      "start": 4737.84,
+      "end": 4742.4800000000005,
+      "text": "chart decks, you can get them every single day of the week with a free trial of big picture trading."
+    },
+    {
+      "start": 4742.4800000000005,
+      "end": 4747.280000000001,
+      "text": "The details are on the last pages of the slide deck, or just go to bigpicturetrading.com."
+    },
+    {
+      "start": 4747.280000000001,
+      "end": 4750.88,
+      "text": "Patrick, tell them what they can expect to find in this week's research roundup."
+    },
+    {
+      "start": 4750.88,
+      "end": 4754.4800000000005,
+      "text": "When this week's research roundup, you're going to find a transcript for today's interview,"
+    },
+    {
+      "start": 4754.4800000000005,
+      "end": 4758.080000000001,
+      "text": "as well as the trade of the week chart book we just discussed here in the post game,"
+    },
+    {
+      "start": 4758.080000000001,
+      "end": 4762.72,
+      "text": "including a number of links to articles that we found interesting. You're going to find this"
+    },
+    {
+      "start": 4762.72,
+      "end": 4767.84,
+      "text": "link and so much more in this week's research roundup. That does it for this week's episode. We"
+    },
+    {
+      "start": 4767.84,
+      "end": 4772.400000000001,
+      "text": "appreciate all the feedback and support we get from our listeners, and we're always looking"
+    },
+    {
+      "start": 4772.400000000001,
+      "end": 4777.4400000000005,
+      "text": "for suggestions on how we can make the program even better. Now, for those of our listeners that"
+    },
+    {
+      "start": 4777.4400000000005,
+      "end": 4782.000000000001,
+      "text": "write or blog about the markets and would like to share that content with our listeners,"
+    },
+    {
+      "start": 4782.000000000001,
+      "end": 4788.72,
+      "text": "send us an email at researchroundup at macrovoices.com, and we will consider it for our weekly"
+    },
+    {
+      "start": 4788.72,
+      "end": 4795.360000000001,
+      "text": "distributions. If you have not already, follow our main account on X at macrovoices for all the"
+    },
+    {
+      "start": 4795.36,
+      "end": 4802.799999999999,
+      "text": "most recent updates and releases. You can also follow Eric on X at EricS Townsend. That's Eric"
+    },
+    {
+      "start": 4802.799999999999,
+      "end": 4810.08,
+      "text": "spelled with a K. You can also follow me at Patrick's Resna on behalf of Eric Townsend myself."
+    },
+    {
+      "start": 4810.08,
+      "end": 4812.4,
+      "text": "Thanks for listening, and we'll see you all next week."
+    },
+    {
+      "start": 4812.8,
+      "end": 4826.4800000000005,
+      "text": "That concludes this edition of macrovoices. Be sure to tune in each week to hear feature"
+    },
+    {
+      "start": 4826.4800000000005,
+      "end": 4830.080000000001,
+      "text": "interviews with the brightest minds in finance and macroeconomics."
+    },
+    {
+      "start": 4830.72,
+      "end": 4835.76,
+      "text": "macrovoices is made possible by sponsorship from bigpicturetrading.com."
+    },
+    {
+      "start": 4835.76,
+      "end": 4842.160000000001,
+      "text": "The internet's premier source of online education for traders. Please visit bigpicturetrading.com"
+    },
+    {
+      "start": 4842.16,
+      "end": 4849.12,
+      "text": "for more information. Please register your free account at macrovoices.com. Once registered,"
+    },
+    {
+      "start": 4849.12,
+      "end": 4854.5599999999995,
+      "text": "you'll receive our free weekly research roundup email containing links to supporting documents"
+    },
+    {
+      "start": 4854.5599999999995,
+      "end": 4860.0,
+      "text": "from our featured guests and the very best free financial content our volunteer research team"
+    },
+    {
+      "start": 4860.0,
+      "end": 4865.92,
+      "text": "could find on the internet each week. You'll also gain access to our free listener discussion forums"
+    },
+    {
+      "start": 4865.92,
+      "end": 4871.599999999999,
+      "text": "and research library. And the more registered users we have, the more we'll be able to recruit"
+    },
+    {
+      "start": 4871.6,
+      "end": 4877.280000000001,
+      "text": "high profile feature interview guests for future programs. So please register your free account"
+    },
+    {
+      "start": 4877.280000000001,
+      "end": 4885.120000000001,
+      "text": "today at macrovoices.com if you haven't already. You can subscribe to macrovoices on iTunes to"
+    },
+    {
+      "start": 4885.120000000001,
+      "end": 4890.56,
+      "text": "have macrovoices automatically delivered to your mobile device each week free of charge."
+    },
+    {
+      "start": 4890.56,
+      "end": 4896.72,
+      "text": "You can email questions for the program to mailbag at macrovoices.com and we'll answer your"
+    },
+    {
+      "start": 4896.72,
+      "end": 4902.400000000001,
+      "text": "questions on the air from time to time in our mailbag segment. Macrovoices is presented for"
+    },
+    {
+      "start": 4902.400000000001,
+      "end": 4908.320000000001,
+      "text": "informational and entertainment purposes only. The information presented on macrovoices should not"
+    },
+    {
+      "start": 4908.320000000001,
+      "end": 4914.320000000001,
+      "text": "be construed as investment advice. Always consult a licensed investment professional before making"
+    },
+    {
+      "start": 4914.320000000001,
+      "end": 4920.56,
+      "text": "investment decisions. The views and opinions expressed on macrovoices are those of the participants"
+    },
+    {
+      "start": 4920.56,
+      "end": 4926.320000000001,
+      "text": "and do not necessarily reflect those of the show's hosts for sponsors. Macrovoices,"
+    },
+    {
+      "start": 4926.320000000001,
+      "end": 4932.72,
+      "text": "its producers, sponsors and hosts Eric Townsend and Patrick Sarresna shall not be liable for losses"
+    },
+    {
+      "start": 4932.72,
+      "end": 4938.160000000001,
+      "text": "resulting from investment decisions based on information or viewpoints presented on macrovoices."
+    },
+    {
+      "start": 4938.8,
+      "end": 4945.120000000001,
+      "text": "Macrovoices is made possible by sponsorship from bigpicturetrading.com and by funding from"
+    },
+    {
+      "start": 4945.12,
+      "end": 4952.72,
+      "text": "fourth-turning capital management LLC. For more information, visit macrovoices.com."
+    }
+  ]
+}

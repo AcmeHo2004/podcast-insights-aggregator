@@ -1,0 +1,2011 @@
+{
+  "id": "21572fcddefb8380",
+  "show": "No Priors",
+  "theme": "Tech & AI",
+  "title": "Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan",
+  "audio_url": "https://traffic.megaphone.fm/PDP6949464408.mp3",
+  "source": "local-whisper",
+  "duration": 2470.0,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "As you're exponentially doing more things where they are, you're going to start having really bad actions happen."
+    },
+    {
+      "start": 4.8,
+      "end": 9.76,
+      "text": "When we've seen some of that happen lately with agents accidentally publishing code and tokens"
+    },
+    {
+      "start": 9.76,
+      "end": 14.08,
+      "text": "that they weren't supposed to, like definitely enterprises are starting to realize that"
+    },
+    {
+      "start": 14.08,
+      "end": 18.8,
+      "text": "that risk is growing exponentially and that they don't have any way to stop the adoption,"
+    },
+    {
+      "start": 18.8,
+      "end": 25.84,
+      "text": "they just now have to do something to reduce the chance of these agent actions being illegitimate or incorrect."
+    },
+    {
+      "start": 25.84,
+      "end": 29.44,
+      "text": "But we're allowed to look at a lot of historical data of how these agents have behaved"
+    },
+    {
+      "start": 29.44,
+      "end": 34.480000000000004,
+      "text": "but enterprises that are not willing to have a traffic or open AI give that historical data"
+    },
+    {
+      "start": 34.480000000000004,
+      "end": 38.160000000000004,
+      "text": "because they know these are very data-inducing companies that will want to train on that data."
+    },
+    {
+      "start": 44.88,
+      "end": 50.24,
+      "text": "Hi listeners, welcome back to No Pryors. Today I'm here with Max and Barcoca, the co-founder and CEO"
+    },
+    {
+      "start": 50.24,
+      "end": 55.44,
+      "text": "of ONIX Security, an Israel-based startup of researchers, mathematicians, and engineers"
+    },
+    {
+      "start": 55.44,
+      "end": 60.4,
+      "text": "building agents to watch the AI agents. We talk about specialized model training,"
+    },
+    {
+      "start": 60.4,
+      "end": 66.0,
+      "text": "mythos, alignment research, and the Israeli ecosystem in security and now AI. Welcome."
+    },
+    {
+      "start": 66.64,
+      "end": 72.72,
+      "text": "Maxim, thanks so much for doing this. Thank you. Pleasure to be here. Everyone is much more concerned"
+    },
+    {
+      "start": 72.72,
+      "end": 78.64,
+      "text": "about security and the impact of AI on security than they were certainly a few months ago."
+    },
+    {
+      "start": 78.64,
+      "end": 84.0,
+      "text": "The consensus risk story two years ago when you started the company was basically like"
+    },
+    {
+      "start": 84.0,
+      "end": 91.28,
+      "text": "DLP for chatbots, like what are employees putting into chat GPT. Now we have clearly something"
+    },
+    {
+      "start": 91.28,
+      "end": 98.8,
+      "text": "that is not quite panic but close to market-wide panic. How did you decide to bet on agent actions"
+    },
+    {
+      "start": 99.68,
+      "end": 105.76,
+      "text": "when you started? Look, I think for us the pivotal point was auto GPT. I think auto GPT kind of"
+    },
+    {
+      "start": 107.2,
+      "end": 110.64,
+      "text": "let everyone's imagination including ours run wild because it was a-"
+    },
+    {
+      "start": 110.64,
+      "end": 116.96000000000001,
+      "text": "And you remind listeners what that was? Sure. So auto GPT and I'm sorry if I don't know the"
+    },
+    {
+      "start": 116.96000000000001,
+      "end": 122.88,
+      "text": "guy behind it, but a huge fan. They created the first, as far as I know, a first really"
+    },
+    {
+      "start": 122.88,
+      "end": 131.36,
+      "text": "autonomous agent running on LLMs, right? So agent that would let LLM not generate text but decide"
+    },
+    {
+      "start": 131.36,
+      "end": 137.44,
+      "text": "what to do and then give that agent an API access to do that thing a tool to do it."
+    },
+    {
+      "start": 138.16,
+      "end": 144.4,
+      "text": "And then we'd do that in a loop. So basically in theory could let agents do very complicated"
+    },
+    {
+      "start": 144.4,
+      "end": 149.2,
+      "text": "things. Anything a person could do on the computer. Now, granted it didn't work that well,"
+    },
+    {
+      "start": 149.2,
+      "end": 153.2,
+      "text": "it was too early. The models were not good enough. GPT-4 was not good enough,"
+    },
+    {
+      "start": 154.0,
+      "end": 160.96,
+      "text": "but I think it did give everyone a glimpse to the future of you know what if the models were good"
+    },
+    {
+      "start": 161.84,
+      "end": 167.68,
+      "text": "enough. And then basically using that same structure we would have very capable agents doing"
+    },
+    {
+      "start": 167.68,
+      "end": 174.16,
+      "text": "stuff for us. I think that was in many ways cloud code today is not dissimilar to auto GPT"
+    },
+    {
+      "start": 174.16,
+      "end": 178.88,
+      "text": "back then. I think they were a bit early on on again before the models were ready but the"
+    },
+    {
+      "start": 178.88,
+      "end": 184.56,
+      "text": "concept was right. And the thought that stick with me was I was very eye-pilled even back then. So I"
+    },
+    {
+      "start": 185.52,
+      "end": 190.64000000000001,
+      "text": "was I was thinking oh my god, the models are going to be way smarter than us. When that happens"
+    },
+    {
+      "start": 191.36,
+      "end": 198.4,
+      "text": "how do we oversee these very smart agents that are you know they're smarter than us, they're very"
+    },
+    {
+      "start": 198.4,
+      "end": 203.36,
+      "text": "capable and how we're going to feel easy about them doing stuff for us especially when they start"
+    },
+    {
+      "start": 203.36,
+      "end": 207.6,
+      "text": "managing really important stuff you know. Then one day they're managing your water supply and your"
+    },
+    {
+      "start": 207.6,
+      "end": 213.52,
+      "text": "electricity or power grid, right? How do you control them? And that was like the thing I was kind of"
+    },
+    {
+      "start": 213.52,
+      "end": 220.0,
+      "text": "obsessed about that thought. I was also too early so I think at the time enterprises were not using"
+    },
+    {
+      "start": 220.0,
+      "end": 226.96,
+      "text": "any agents and there were hardly any agents out there and talking with a lot of security"
+    },
+    {
+      "start": 226.96,
+      "end": 231.84,
+      "text": "budget at the time they were like oh dude they're way too early like this is not something that's"
+    },
+    {
+      "start": 231.84,
+      "end": 235.84,
+      "text": "going to happen. I asked you the same question I said is anyone going to do this before you run out"
+    },
+    {
+      "start": 235.84,
+      "end": 242.88,
+      "text": "of money? And I think there was a good chance that I would have run out of money before because I"
+    },
+    {
+      "start": 242.88,
+      "end": 248.79999999999998,
+      "text": "think you were right. Like I think there was an element of chance here but then I think the market"
+    },
+    {
+      "start": 248.79999999999998,
+      "end": 256.71999999999997,
+      "text": "did happen so we had suddenly reasoning models that could do long horizon tasks. We had a cloud code"
+    },
+    {
+      "start": 256.71999999999997,
+      "end": 263.52,
+      "text": "which became like the really first widely used autonomous agent and then we had co-work and open"
+    },
+    {
+      "start": 263.52,
+      "end": 271.44,
+      "text": "claw and I think we're starting to see now that these types of agents that are very autonomous even though"
+    },
+    {
+      "start": 271.44,
+      "end": 275.68,
+      "text": "they're like everyone was afraid to build them so everyone started building these low code platforms"
+    },
+    {
+      "start": 275.68,
+      "end": 282.48,
+      "text": "that were much more limited much more based on connectors and those platforms ended up being quite"
+    },
+    {
+      "start": 282.48,
+      "end": 287.2,
+      "text": "limited so that we didn't get the productivity gains from those limited platforms but when we"
+    },
+    {
+      "start": 287.2,
+      "end": 293.12,
+      "text": "started getting the crazy benefits from these very unleashed agents that could do everything that had"
+    },
+    {
+      "start": 293.12,
+      "end": 298.88,
+      "text": "much less controls baked into them and even very large enterprises decided they're going to adopt"
+    },
+    {
+      "start": 298.88,
+      "end": 304.32,
+      "text": "it you know like a tropics revenue is coming from enterprises that are paying for cloud code to do"
+    },
+    {
+      "start": 305.2,
+      "end": 309.92,
+      "text": "a lot of the work that developers used to do that was a bit about kind of how we started and we"
+    },
+    {
+      "start": 309.92,
+      "end": 318.08,
+      "text": "definitely were in luck that very autonomous agents appeared before it was too late. So can you"
+    },
+    {
+      "start": 318.08,
+      "end": 325.12,
+      "text": "describe a little bit just because it's I think both close to impossible and then very useful in"
+    },
+    {
+      "start": 325.12,
+      "end": 329.76,
+      "text": "this period of AI to think about what is deployment right now and then you know what's changing"
+    },
+    {
+      "start": 329.76,
+      "end": 334.8,
+      "text": "about capability what's the one liner and what the onyx product does today and then like how you"
+    },
+    {
+      "start": 334.8,
+      "end": 343.92,
+      "text": "think about long-term vision. Today like onyx is really that's two two things. Number one is we train"
+    },
+    {
+      "start": 344.64,
+      "end": 351.36,
+      "text": "models and build agents that can oversee other agents and the goal of that is to say okay we need"
+    },
+    {
+      "start": 351.36,
+      "end": 356.88,
+      "text": "someone to be able to tell that all of these actions that are now happening by these AI's we're"
+    },
+    {
+      "start": 356.88,
+      "end": 362.64,
+      "text": "adopting are legitimate because that number the number of these actions is going exponentially"
+    },
+    {
+      "start": 362.64,
+      "end": 367.76,
+      "text": "and so things that we thought by the useful in the past let a human in the loop now that you're"
+    },
+    {
+      "start": 367.76,
+      "end": 373.44,
+      "text": "going to have a hundred x a thousand x a million x of these actions and that's not going to work"
+    },
+    {
+      "start": 374.08000000000004,
+      "end": 379.2,
+      "text": "and then we take the capability we basically product as it in the product that we call the"
+    },
+    {
+      "start": 379.2,
+      "end": 383.59999999999997,
+      "text": "a control plane or the security control plane where we come to the present say hey let's"
+    },
+    {
+      "start": 384.56,
+      "end": 390.08,
+      "text": "let's find all of your AI's and autonomous agents and hook them up to onyx to this system where we"
+    },
+    {
+      "start": 390.08,
+      "end": 397.03999999999996,
+      "text": "can oversee what your as you're doing so that you don't run into the risk of as you're exponentially"
+    },
+    {
+      "start": 397.03999999999996,
+      "end": 401.2,
+      "text": "doing more things with the eyes you're going to start having really bad actions happen and when"
+    },
+    {
+      "start": 401.2,
+      "end": 405.84,
+      "text": "we've seen some of that happen lately with down times that were caused by agents doing the wrong"
+    },
+    {
+      "start": 406.40000000000003,
+      "end": 413.44000000000005,
+      "text": "agents accidentally publishing code and tokens that they weren't supposed to and so on so like"
+    },
+    {
+      "start": 413.44000000000005,
+      "end": 418.32000000000005,
+      "text": "definitely enterprise are starting to realize that that risk is grown exponentially and that"
+    },
+    {
+      "start": 419.12,
+      "end": 424.40000000000003,
+      "text": "they don't have any way to stop the adoption so like they just now have to do something to"
+    },
+    {
+      "start": 425.76000000000005,
+      "end": 432.32000000000005,
+      "text": "reduce the chance of these agent actions being illegitimate or incorrect yeah I think"
+    },
+    {
+      "start": 433.04,
+      "end": 439.68,
+      "text": "the one of the core reasons obviously the foundation model labs are going after code is because"
+    },
+    {
+      "start": 439.68,
+      "end": 447.76,
+      "text": "it is very powerful in general and can do you know in theory all things software can over time the flip"
+    },
+    {
+      "start": 447.76,
+      "end": 454.15999999999997,
+      "text": "side of that is it can do all things software can right and so I joyously am already in the camp"
+    },
+    {
+      "start": 454.15999999999997,
+      "end": 459.84,
+      "text": "of having allowed a having been over permissive with my agents such that it deleted data permanently"
+    },
+    {
+      "start": 459.84000000000003,
+      "end": 465.76000000000005,
+      "text": "and caused rework so like oh okay I think I see I need some guardian guardian spirits around it"
+    },
+    {
+      "start": 466.24,
+      "end": 472.56000000000006,
+      "text": "um given your deployments today and talking to large enterprises what is the state of deployment"
+    },
+    {
+      "start": 472.56000000000006,
+      "end": 479.68,
+      "text": "right like how much do you see that's within these more scoped like studio like platforms versus"
+    },
+    {
+      "start": 480.40000000000003,
+      "end": 487.04,
+      "text": "uh you know free free riding coding agents you know how how much are you actually seeing in large"
+    },
+    {
+      "start": 487.04,
+      "end": 493.28000000000003,
+      "text": "enterprises and in different sectors yeah so I think right now in our typical enterprise we're"
+    },
+    {
+      "start": 493.28000000000003,
+      "end": 496.88,
+      "text": "going to see if we break it down to three categories so we break it down to"
+    },
+    {
+      "start": 497.68,
+      "end": 501.28000000000003,
+      "text": "and there are SaaS platforms that are typically more low code"
+    },
+    {
+      "start": 502.0,
+      "end": 506.72,
+      "text": "and where people build agents in this drag and drag way and they're not really autonomous agents"
+    },
+    {
+      "start": 506.72,
+      "end": 512.08,
+      "text": "right they're kind of the same kind of I would think of them or the automations and then there"
+    },
+    {
+      "start": 512.88,
+      "end": 518.24,
+      "text": "and first party agents people are building in their cloud potentially because it's an application"
+    },
+    {
+      "start": 518.24,
+      "end": 522.96,
+      "text": "they want inside the company or even a product they're planning to release to the customers that"
+    },
+    {
+      "start": 522.96,
+      "end": 530.4000000000001,
+      "text": "is agentic and then the third category is very autonomous coding agents and assistants of these"
+    },
+    {
+      "start": 530.4000000000001,
+      "end": 538.08,
+      "text": "categories I would say roughly at this point over 50% is the autonomous and coding agents and"
+    },
+    {
+      "start": 538.08,
+      "end": 548.72,
+      "text": "assistants in the average enterprise then probably 45% is those uh and low code automations and"
+    },
+    {
+      "start": 548.72,
+      "end": 553.6,
+      "text": "the last two percent are really the first party ones that they're building themselves because"
+    },
+    {
+      "start": 553.6,
+      "end": 558.64,
+      "text": "obviously it's much harder to build effective agents so and it's much easier to adopt agents off"
+    },
+    {
+      "start": 558.64,
+      "end": 563.84,
+      "text": "the shelf or building with low code so and that's what we're seeing and and reducing that the"
+    },
+    {
+      "start": 563.9200000000001,
+      "end": 568.72,
+      "text": "automations are also the fastest growing category so it used to be that only developers and we would"
+    },
+    {
+      "start": 568.72,
+      "end": 574.5600000000001,
+      "text": "see cloud code growing like fire and our customer base and now we're seeing a cloud co-work growing"
+    },
+    {
+      "start": 574.5600000000001,
+      "end": 580.8000000000001,
+      "text": "even faster we're starting to see to our own surprise actually people adopting open-cloth"
+    },
+    {
+      "start": 581.6,
+      "end": 588.0,
+      "text": "as a legitimate sanction tool in the company because the CEO is very driven to adopt the I"
+    },
+    {
+      "start": 588.8,
+      "end": 594.08,
+      "text": "and so I think that today autonomous Azure by far the fastest growing category and"
+    },
+    {
+      "start": 595.44,
+      "end": 603.36,
+      "text": "today typically comes without any controls so enterprises already buy let's say a hundred billion"
+    },
+    {
+      "start": 603.36,
+      "end": 611.92,
+      "text": "dollars of security today they have lots of different protections at the endpoint and network"
+    },
+    {
+      "start": 611.92,
+      "end": 621.04,
+      "text": "and cloud and identity domains uh what's relevant here for securing agents or is none of it like how do"
+    },
+    {
+      "start": 621.04,
+      "end": 626.88,
+      "text": "you how do you think about the existing protection set security is always a space where you have some"
+    },
+    {
+      "start": 626.88,
+      "end": 633.76,
+      "text": "overlap between different tooling and but in this and and you have the concept of defensive depth"
+    },
+    {
+      "start": 633.76,
+      "end": 639.28,
+      "text": "as well so you want to have defenses at different levels of your technology stack to solve the problem"
+    },
+    {
+      "start": 640.0799999999999,
+      "end": 647.28,
+      "text": "and that said I think in this space we're kind of and a lot of enterprises are kind of helpless"
+    },
+    {
+      "start": 647.28,
+      "end": 653.4399999999999,
+      "text": "because I'll take an example the identity approach like traditionally if we have an software"
+    },
+    {
+      "start": 653.4399999999999,
+      "end": 658.9599999999999,
+      "text": "system that's running in our company will our first and most important control will be to limit"
+    },
+    {
+      "start": 659.6,
+      "end": 665.68,
+      "text": "what permission it has right because and then no matter what even if it goes wrong even if it's"
+    },
+    {
+      "start": 665.6800000000001,
+      "end": 672.6400000000001,
+      "text": "compromised it can't um typically do it stuff that was originally allowed to do but with these"
+    },
+    {
+      "start": 672.6400000000001,
+      "end": 678.32,
+      "text": "autonomous AI with these assistance with these coding agents we kind of want them to have our"
+    },
+    {
+      "start": 678.32,
+      "end": 684.24,
+      "text": "permissions because we want to we want to tell cloud code to do something or cloud code to do"
+    },
+    {
+      "start": 684.24,
+      "end": 688.1600000000001,
+      "text": "something and we want to then go have lunch and you want to come back and see that it's done"
+    },
+    {
+      "start": 688.8,
+      "end": 695.68,
+      "text": "and we want to give it so many diverse tasks as well that we kind of can't find the rights"
+    },
+    {
+      "start": 695.68,
+      "end": 701.28,
+      "text": "out of permissions to do so suddenly our identity security software is not very useful then"
+    },
+    {
+      "start": 701.28,
+      "end": 709.6,
+      "text": "if you think about endpoint security right or for an API security like if we tell our cloud code that"
+    },
+    {
+      "start": 709.6,
+      "end": 715.68,
+      "text": "we want to recreate a database and it should delete it and recreate it that's great that's"
+    },
+    {
+      "start": 716.32,
+      "end": 720.96,
+      "text": "going to save our dev ops team and our platform teams a lot of time it's it's a great benefit"
+    },
+    {
+      "start": 720.96,
+      "end": 726.0000000000001,
+      "text": "of cloud code but if cloud code is working on an unrelated task and suddenly things that maybe"
+    },
+    {
+      "start": 726.0000000000001,
+      "end": 730.96,
+      "text": "the right thing to do is to delete our database and recreate it maybe we don't want that to happen"
+    },
+    {
+      "start": 731.6,
+      "end": 737.7600000000001,
+      "text": "and unfortunately our endpoint providers or API security tools they don't know what cloud was"
+    },
+    {
+      "start": 737.7600000000001,
+      "end": 743.44,
+      "text": "thinking why is it doing what is doing right so a lot of these existing tools they don't have the"
+    },
+    {
+      "start": 743.44,
+      "end": 748.32,
+      "text": "context to understand what these very flexible unpredictable systems are doing if you're not"
+    },
+    {
+      "start": 749.0400000000001,
+      "end": 753.44,
+      "text": "building some kind of controls that are built for the system then you're either going to end up"
+    },
+    {
+      "start": 754.1600000000001,
+      "end": 759.7600000000001,
+      "text": "they're limiting them a lot making them almost much less useful to the enterprise or"
+    },
+    {
+      "start": 760.5600000000001,
+      "end": 766.08,
+      "text": "you're going to miss a lot of pretty dangerous things that they might be doing as somebody who has"
+    },
+    {
+      "start": 766.08,
+      "end": 772.5600000000001,
+      "text": "worked in security for a long time my first very traditional instinct on a problem like this is like"
+    },
+    {
+      "start": 773.44,
+      "end": 777.9200000000001,
+      "text": "that sounds like a problem for a proxy with a policy engine we make some rules make the rules"
+    },
+    {
+      "start": 777.9200000000001,
+      "end": 784.32,
+      "text": "smarter like why why doesn't that work or did you did you try it there are a few things that"
+    },
+    {
+      "start": 784.32,
+      "end": 791.12,
+      "text": "I mean a process integration method I would say so there are some there are some AI systems where"
+    },
+    {
+      "start": 791.12,
+      "end": 796.6400000000001,
+      "text": "like you would want to integrate with a proxy if that's the easiest way to do it but number one"
+    },
+    {
+      "start": 796.6400000000001,
+      "end": 800.32,
+      "text": "there's a lot of systems where that's just not viable technically because AI today runs"
+    },
+    {
+      "start": 801.2800000000001,
+      "end": 807.12,
+      "text": "on the cloud on someone else's infrastructure on your endpoint and just proxy not always an option"
+    },
+    {
+      "start": 807.7600000000001,
+      "end": 813.5200000000001,
+      "text": "and the second thing is the question okay great you're proxying so you're seeing the data you're seeing"
+    },
+    {
+      "start": 814.48,
+      "end": 818.88,
+      "text": "but that's not the hard problem the hard problem is understanding if what I should do now"
+    },
+    {
+      "start": 818.88,
+      "end": 824.5600000000001,
+      "text": "it turns out that in the case of AI systems that is the hard question like what is the engine"
+    },
+    {
+      "start": 824.6400000000001,
+      "end": 830.48,
+      "text": "that needs to underwrite these different actions and say if they're okay or not and because"
+    },
+    {
+      "start": 832.0000000000001,
+      "end": 836.72,
+      "text": "we need to be able to understand what the other AI system is thinking what is it planning to do"
+    },
+    {
+      "start": 837.5200000000001,
+      "end": 843.12,
+      "text": "and then have our own opinion on that and consider we're trying to understand"
+    },
+    {
+      "start": 843.12,
+      "end": 846.48,
+      "text": "some of the smarter smalls in the world are doing the right thing so who are we to do it how are"
+    },
+    {
+      "start": 846.48,
+      "end": 851.0400000000001,
+      "text": "we're going to do it correctly right and so that turns out to be a really difficult technical question"
+    },
+    {
+      "start": 851.68,
+      "end": 857.8399999999999,
+      "text": "part of the solution for annex has been training its own models like what can you say about that"
+    },
+    {
+      "start": 858.48,
+      "end": 865.52,
+      "text": "if you if you try today let's say we're trying to build a solution to oversee and kind of control"
+    },
+    {
+      "start": 865.52,
+      "end": 869.4399999999999,
+      "text": "how other agents are operating maybe maybe the first thing a lot of our listeners might think"
+    },
+    {
+      "start": 869.4399999999999,
+      "end": 876.88,
+      "text": "is say well I'll just ask cloud code to do it and in a sense they would be right because cloud"
+    },
+    {
+      "start": 876.88,
+      "end": 883.92,
+      "text": "code is great and maybe we can ask it to spawn a version of itself for every agent that we have"
+    },
+    {
+      "start": 883.92,
+      "end": 889.76,
+      "text": "and kind of keep monitoring everything that agent is starting to do and if you think that there's"
+    },
+    {
+      "start": 889.76,
+      "end": 896.48,
+      "text": "a problem intervene so that approach it has obviously it's pretty naive and there are some ways"
+    },
+    {
+      "start": 896.48,
+      "end": 902.48,
+      "text": "in which it totally fails we could talk about but it has some merit to it right so it does seem"
+    },
+    {
+      "start": 902.48,
+      "end": 909.2,
+      "text": "intuitive that it's a good idea to have a capable agents reviewing what other agents are doing"
+    },
+    {
+      "start": 909.2,
+      "end": 914.32,
+      "text": "same as we have capable humans reviewing what other humans are doing right but then the problems"
+    },
+    {
+      "start": 914.32,
+      "end": 924.16,
+      "text": "that you're going to run into is how do I make this work from a cost latency a reliability"
+    },
+    {
+      "start": 924.16,
+      "end": 928.5600000000001,
+      "text": "perspective because if I need to run an agent for every unit you're running as your security"
+    },
+    {
+      "start": 928.5600000000001,
+      "end": 935.84,
+      "text": "vendor and you're going to be paying for me more than you're paying for your AI right so it's not"
+    },
+    {
+      "start": 935.84,
+      "end": 940.48,
+      "text": "it's pretty much a deal breaker and also it's going to be so slow so you're not going to be happy"
+    },
+    {
+      "start": 940.48,
+      "end": 947.6,
+      "text": "with whatever latency you're going to get and so the challenge then becomes to how do I know"
+    },
+    {
+      "start": 948.6400000000001,
+      "end": 955.5200000000001,
+      "text": "what are the times where I need to interject with these smart agents to look at what's happening"
+    },
+    {
+      "start": 956.24,
+      "end": 962.8,
+      "text": "and that's when actually what you want to do is you want to trail to train very smart models that are"
+    },
+    {
+      "start": 963.6,
+      "end": 970.16,
+      "text": "and actually let me purpose that very not smart models but models are just good at one thing they're"
+    },
+    {
+      "start": 970.16,
+      "end": 975.6,
+      "text": "very small they're they almost can't do anything else other than be able to say should I have a smarter"
+    },
+    {
+      "start": 975.6,
+      "end": 980.96,
+      "text": "agent look at this and if you manage to bake in that intuition into those small models well"
+    },
+    {
+      "start": 981.76,
+      "end": 985.1999999999999,
+      "text": "in the sense that they don't miss a lot of stuff and they don't call that other agent too much"
+    },
+    {
+      "start": 985.92,
+      "end": 993.68,
+      "text": "then you can get to a really good balance of we're very performance we have smart agents overseeing"
+    },
+    {
+      "start": 993.68,
+      "end": 1002.64,
+      "text": "things when needed and but we're not but our costs are low and our latency is low and then that"
+    },
+    {
+      "start": 1002.64,
+      "end": 1009.1999999999999,
+      "text": "becomes the challenge because you need to make sure that as the frontier models get smarter and"
+    },
+    {
+      "start": 1009.9200000000001,
+      "end": 1016.72,
+      "text": "harnesses become more evolved you need to be able to have models that are on your side that are"
+    },
+    {
+      "start": 1016.72,
+      "end": 1023.6800000000001,
+      "text": "small and effective it continuously and being able to say now's the time this is the action where"
+    },
+    {
+      "start": 1023.6800000000001,
+      "end": 1029.28,
+      "text": "I think someone should take a closer and and that's why we want to train models for this purpose"
+    },
+    {
+      "start": 1029.28,
+      "end": 1035.44,
+      "text": "and it's you know most of the hard things that we're doing in this space yeah you you and I"
+    },
+    {
+      "start": 1035.44,
+      "end": 1041.68,
+      "text": "actually both love to play Blitz Chess and I look at Guardian as a system that's a little bit"
+    },
+    {
+      "start": 1041.68,
+      "end": 1048.0,
+      "text": "analogous like it's not clear either of us is going to be competitive with Magnus in a real game but"
+    },
+    {
+      "start": 1048.64,
+      "end": 1055.04,
+      "text": "if the if you play if you play enough times with the right data and all you have to do is make"
+    },
+    {
+      "start": 1055.04,
+      "end": 1059.92,
+      "text": "intuitive decisions under time pressure very very quickly it's actually a different game right"
+    },
+    {
+      "start": 1059.92,
+      "end": 1063.92,
+      "text": "and and do you think do you think that makes sense or am I reaching here yeah I actually I didn't"
+    },
+    {
+      "start": 1063.92,
+      "end": 1068.0,
+      "text": "think about it but yeah there's a lot of analogies because I think if you look at top chess players"
+    },
+    {
+      "start": 1068.0,
+      "end": 1074.3200000000002,
+      "text": "in the world like most of the moves that they make are intuitive they don't calculate forward"
+    },
+    {
+      "start": 1074.3200000000002,
+      "end": 1079.28,
+      "text": "they've seen so much games and they've played so much games that they already have a good sense of"
+    },
+    {
+      "start": 1079.28,
+      "end": 1083.76,
+      "text": "what is the right move and that they're not taking too much risk here by taking this move without"
+    },
+    {
+      "start": 1083.76,
+      "end": 1090.88,
+      "text": "calculating and then if you look at those games every once in a while they do stop for suddenly a"
+    },
+    {
+      "start": 1090.88,
+      "end": 1095.5200000000002,
+      "text": "really long period of time to just calculate forward a lot of options because they know"
+    },
+    {
+      "start": 1095.5200000000002,
+      "end": 1100.5600000000002,
+      "text": "this is a critical move in the game there's risk you need to think through what you're doing"
+    },
+    {
+      "start": 1100.5600000000002,
+      "end": 1105.44,
+      "text": "and you need to decide correct I think that's very similar it's the efficient way to to to run"
+    },
+    {
+      "start": 1105.44,
+      "end": 1110.88,
+      "text": "computation right you don't want to spend too much intelligence where you don't have to and you"
+    },
+    {
+      "start": 1110.88,
+      "end": 1116.72,
+      "text": "want to spend a lot of intelligence and we're welcoming a lot in situation where there's high risk"
+    },
+    {
+      "start": 1117.52,
+      "end": 1123.68,
+      "text": "you guys are a team mostly based in Israel today um I think the the world has accepted that"
+    },
+    {
+      "start": 1123.68,
+      "end": 1129.84,
+      "text": "there is a cohort of amazing or Israeli security talent that comes out of you know the military"
+    },
+    {
+      "start": 1129.84,
+      "end": 1135.68,
+      "text": "and offensive security and then you know repeat repeat entrepreneurs like you guys I think the DNA"
+    },
+    {
+      "start": 1135.68,
+      "end": 1141.28,
+      "text": "and on X is a little bit different here your co-founder Gil came out of building synthetic data"
+    },
+    {
+      "start": 1141.28,
+      "end": 1147.6,
+      "text": "and working in video like how do you what would you characterize the like talent at Onyx as particularly"
+    },
+    {
+      "start": 1147.6,
+      "end": 1153.12,
+      "text": "good at and then you know are there are people actually training interesting frontier models in"
+    },
+    {
+      "start": 1153.12,
+      "end": 1159.76,
+      "text": "Israel now so first of all I think Israel is it's a bit start maybe a bit late in the game by"
+    },
+    {
+      "start": 1159.76,
+      "end": 1164.8,
+      "text": "the sketching up quickly so I think there's now amazing companies in Israel building world models"
+    },
+    {
+      "start": 1164.8,
+      "end": 1173.28,
+      "text": "building AI infrastructure that's top of its glass building chips so I think Israel in general"
+    },
+    {
+      "start": 1173.28,
+      "end": 1180.24,
+      "text": "is becoming a very strong in AI and we're proud to be a part of that movement and I think you're right"
+    },
+    {
+      "start": 1180.24,
+      "end": 1187.2,
+      "text": "our company has a very mixed DNA between cyber and AI which kind of reflects minds and"
+    },
+    {
+      "start": 1187.2,
+      "end": 1192.48,
+      "text": "guilds backgrounds most of the people in our company most of our research engineering come from"
+    },
+    {
+      "start": 1192.48,
+      "end": 1200.72,
+      "text": "a unit in the Israeli intelligence where we actually deal with math and cyber and intersection"
+    },
+    {
+      "start": 1200.72,
+      "end": 1206.8,
+      "text": "thereof and so I think it is also reflected in kind of the type of talent that we bring in I think"
+    },
+    {
+      "start": 1206.8,
+      "end": 1211.28,
+      "text": "it's important for a few reasons the first informants that we want to be more than just a security"
+    },
+    {
+      "start": 1211.28,
+      "end": 1218.48,
+      "text": "company launcher we think that to solve this problem well is going to require deep AI expertise"
+    },
+    {
+      "start": 1219.1200000000001,
+      "end": 1223.44,
+      "text": "but then that the problem is not just cyber security the problem is how do we control"
+    },
+    {
+      "start": 1224.48,
+      "end": 1232.56,
+      "text": "advanced AI long term and that problem even if you just forget about you know enterprise security"
+    },
+    {
+      "start": 1232.56,
+      "end": 1238.16,
+      "text": "and the different gaps in various controls that they currently have first principles that problem"
+    },
+    {
+      "start": 1238.16,
+      "end": 1243.04,
+      "text": "just sounds very important to me so I think it will be crucially important if you have AI"
+    },
+    {
+      "start": 1243.04,
+      "end": 1249.92,
+      "text": "companies that are 10 trillion dollar companies we think you want a company that is not the vendor"
+    },
+    {
+      "start": 1249.92,
+      "end": 1257.04,
+      "text": "of the AI itself to oversee and help you control what AI is doing and we think that's an opening that's"
+    },
+    {
+      "start": 1257.04,
+      "end": 1263.52,
+      "text": "you know 100 billion dollar plus opening for a really important company and then if you think"
+    },
+    {
+      "start": 1263.52,
+      "end": 1270.08,
+      "text": "about what is what is going to take and to control advanced AI long term then we're just scratching"
+    },
+    {
+      "start": 1270.08,
+      "end": 1276.3999999999999,
+      "text": "the surface because long term you're going to have to also understand much better what models are"
+    },
+    {
+      "start": 1276.3999999999999,
+      "end": 1280.6399999999999,
+      "text": "thinking what models are what's happening on the entrails of these models as they're operating"
+    },
+    {
+      "start": 1282.32,
+      "end": 1288.3999999999999,
+      "text": "that's also a lot where our research is focused so the industry is quite divided on this issue"
+    },
+    {
+      "start": 1288.3999999999999,
+      "end": 1295.4399999999998,
+      "text": "I mean amongst the people who think about whether or not a mechanistic interpretability or"
+    },
+    {
+      "start": 1295.44,
+      "end": 1301.28,
+      "text": "research into better understanding models is is possible like that's a question and so it's"
+    },
+    {
+      "start": 1301.28,
+      "end": 1309.04,
+      "text": "something you believe in we believe that there's been a lot of strong progress in that direction"
+    },
+    {
+      "start": 1309.04,
+      "end": 1315.52,
+      "text": "we believe that understanding the internal weights and activations what is the internal structure"
+    },
+    {
+      "start": 1316.16,
+      "end": 1321.04,
+      "text": "the mathematical structure of these systems is going to be at least part of the solution"
+    },
+    {
+      "start": 1322.0,
+      "end": 1330.48,
+      "text": "and in many ways we think that and this is maybe and you know we'll only know when we get there"
+    },
+    {
+      "start": 1330.48,
+      "end": 1336.3999999999999,
+      "text": "but we think that for our level of intelligence it's kind of difficult to understand"
+    },
+    {
+      "start": 1337.84,
+      "end": 1343.36,
+      "text": "very quickly what is the internal structure of a large language model what is the"
+    },
+    {
+      "start": 1343.3600000000001,
+      "end": 1348.8000000000002,
+      "text": "internal structure of the weights and activations our level like human intelligence or"
+    },
+    {
+      "start": 1348.8000000000002,
+      "end": 1354.4,
+      "text": "our level of your models okay human intelligence yeah I think like yeah exactly I think as humans"
+    },
+    {
+      "start": 1354.4,
+      "end": 1360.2400000000002,
+      "text": "it might still be very difficult to understand what weights and activations mean and maybe mechanistic"
+    },
+    {
+      "start": 1360.2400000000002,
+      "end": 1364.88,
+      "text": "interpretability it seems like oh maybe that's too hard or shouldn't be possible but"
+    },
+    {
+      "start": 1364.88,
+      "end": 1368.96,
+      "text": "as we're starting to have models that are much smarter than us at least in some important ways"
+    },
+    {
+      "start": 1368.96,
+      "end": 1372.96,
+      "text": "we think that we'll be able to start cracking mechanistic interpretability"
+    },
+    {
+      "start": 1372.96,
+      "end": 1380.64,
+      "text": "much more effectively and I and I think it's going to be extremely rewarding by the way"
+    },
+    {
+      "start": 1381.92,
+      "end": 1388.48,
+      "text": "long-term for understanding intelligence in general like not just overseeing but just understanding"
+    },
+    {
+      "start": 1388.48,
+      "end": 1392.24,
+      "text": "what intelligence is how it works what's the difference between the smarter model and the less"
+    },
+    {
+      "start": 1393.2,
+      "end": 1400.72,
+      "text": "I completely agree that the opportunity to understand and trust and secure and govern"
+    },
+    {
+      "start": 1401.6,
+      "end": 1408.16,
+      "text": "these super intelligent AIs is a it's a very large opportunity the if we just scroll back today"
+    },
+    {
+      "start": 1408.16,
+      "end": 1413.44,
+      "text": "the security person in me says well then I have to give you all the permissions and understanding"
+    },
+    {
+      "start": 1413.44,
+      "end": 1419.6,
+      "text": "that I have to give these companies to like how do you get customers or you know the Fortune 100s"
+    },
+    {
+      "start": 1419.6000000000001,
+      "end": 1423.7600000000002,
+      "text": "you're working with already or you know tech natives everybody cares about their own"
+    },
+    {
+      "start": 1423.7600000000002,
+      "end": 1429.2800000000002,
+      "text": "security and business to trust you now as they you know you're like less than 100 people right"
+    },
+    {
+      "start": 1430.0000000000002,
+      "end": 1436.72,
+      "text": "right and I think it's one of those things that should not be possible so in theory"
+    },
+    {
+      "start": 1438.4,
+      "end": 1445.3600000000001,
+      "text": "in theory like there's no reason why a Fortune 10 or 20 company would work with us because you know"
+    },
+    {
+      "start": 1445.3600000000001,
+      "end": 1450.48,
+      "text": "who are we we're a three-year-old company we're like a few people from you know for that"
+    },
+    {
+      "start": 1450.48,
+      "end": 1458.88,
+      "text": "and math and cyber but I think it's an opening that only happens when the pain is very strong"
+    },
+    {
+      "start": 1458.88,
+      "end": 1466.0800000000002,
+      "text": "so their pain is so strong that they're going to say oh my god I just saw this company come out"
+    },
+    {
+      "start": 1466.0800000000002,
+      "end": 1471.2,
+      "text": "of stealth but it's a problem that I have daily so I'll give them a call and suddenly you get"
+    },
+    {
+      "start": 1471.2,
+      "end": 1476.72,
+      "text": "inbound from these large customers which is of course like the best thing you could hope for"
+    },
+    {
+      "start": 1476.72,
+      "end": 1483.92,
+      "text": "as an entrepreneur and I think it it reflects in my opinion they're understanding that a lot of"
+    },
+    {
+      "start": 1483.92,
+      "end": 1487.8400000000001,
+      "text": "the startups in the space are still small in you but there's going to be a huge company here"
+    },
+    {
+      "start": 1487.8400000000001,
+      "end": 1491.3600000000001,
+      "text": "and we want to find the right horse to bet and so we're going to take a look at these companies"
+    },
+    {
+      "start": 1492.0800000000002,
+      "end": 1497.68,
+      "text": "and number two that if we don't do anything then in a very short time this will disable our"
+    },
+    {
+      "start": 1497.68,
+      "end": 1502.24,
+      "text": "business and the end of the day security people are in the business of revenue preservation"
+    },
+    {
+      "start": 1502.24,
+      "end": 1507.52,
+      "text": "they understand that this is the between the tourists they want a partner with someone that's"
+    },
+    {
+      "start": 1507.52,
+      "end": 1514.88,
+      "text": "promising an early rather than not doing anything the other thing besides agent actions across"
+    },
+    {
+      "start": 1514.88,
+      "end": 1520.16,
+      "text": "their surface area that every see so I know is freaking out about and every engineering leader"
+    },
+    {
+      "start": 1520.16,
+      "end": 1527.52,
+      "text": "is freaking out about is the I would just describe it as the plummeting cost of vulnerability"
+    },
+    {
+      "start": 1527.6,
+      "end": 1539.44,
+      "text": "finding with these coding tools yes and that cost a number of issues for vendors that are"
+    },
+    {
+      "start": 1539.44,
+      "end": 1546.08,
+      "text": "being compromised like how do you think people should react to this other issue I think"
+    },
+    {
+      "start": 1546.08,
+      "end": 1551.76,
+      "text": "mythos is is really like if you if you took me 10 years ago automated vulnerability"
+    },
+    {
+      "start": 1551.76,
+      "end": 1559.04,
+      "text": "research looked like a a dream that would take 20 50 years to to happen and maybe that it's because"
+    },
+    {
+      "start": 1559.04,
+      "end": 1564.32,
+      "text": "you know we were doing a lot of that in the Israeli intelligence and we liked to pat ourselves"
+    },
+    {
+      "start": 1564.32,
+      "end": 1571.12,
+      "text": "on the shoulder how difficult the job is that we're doing but but it did look really far and suddenly"
+    },
+    {
+      "start": 1571.12,
+      "end": 1577.44,
+      "text": "it's coming all at once and so I think that first of all the market is not overreacting I think this"
+    },
+    {
+      "start": 1577.44,
+      "end": 1583.44,
+      "text": "is a huge change in what this means for security teams if you're a pragmatic security person today"
+    },
+    {
+      "start": 1584.0800000000002,
+      "end": 1589.76,
+      "text": "you you understand that you need to move very quickly your strategy might look something like"
+    },
+    {
+      "start": 1589.76,
+      "end": 1595.92,
+      "text": "I need to do the fastest quick fixes I can to mitigate the immediate risk so maybe I'll invest in"
+    },
+    {
+      "start": 1597.2,
+      "end": 1602.4,
+      "text": "whatever the fund developers that haven't found let's try to to mitigate for them whether it is"
+    },
+    {
+      "start": 1602.48,
+      "end": 1610.3200000000002,
+      "text": "through patching or through communicating controls and but then the real solution and every security"
+    },
+    {
+      "start": 1611.2,
+      "end": 1617.8400000000001,
+      "text": "leader and at large enterprise knows it is that we need to have the foundational pieces in place"
+    },
+    {
+      "start": 1617.8400000000001,
+      "end": 1626.24,
+      "text": "to avoid those risks and the foundational pieces are we need to have identity as locked down we need to"
+    },
+    {
+      "start": 1626.24,
+      "end": 1634.32,
+      "text": "have a firewall we need to have endpoint detection and for different asset classes in your enterprise"
+    },
+    {
+      "start": 1634.32,
+      "end": 1638.96,
+      "text": "for different parts of your stack there's a different foundational security mechanism that you need"
+    },
+    {
+      "start": 1638.96,
+      "end": 1645.1200000000001,
+      "text": "in place for the AI attack surface that you now have for the AI's in your company you also need a"
+    },
+    {
+      "start": 1645.1200000000001,
+      "end": 1650.48,
+      "text": "foundational solution that's kind of the role we play in that space so if you're as part of your"
+    },
+    {
+      "start": 1650.48,
+      "end": 1656.24,
+      "text": "preparation for mythist level models and beyond you're going to need a lot of foundational"
+    },
+    {
+      "start": 1657.3600000000001,
+      "end": 1664.0,
+      "text": "security tools to fortify your different parts of the enterprise and we're playing that part in"
+    },
+    {
+      "start": 1664.0,
+      "end": 1670.64,
+      "text": "the AI space do you have a point of view on the phased rollout or controlled rollout with glass"
+    },
+    {
+      "start": 1670.64,
+      "end": 1678.24,
+      "text": "swing and daybreak from from Antony Open AI in this area I don't have a strong opinion but I think it's"
+    },
+    {
+      "start": 1678.64,
+      "end": 1684.16,
+      "text": "a on the one hand like if we knew that there's not going to be anyone who's going to release mythist"
+    },
+    {
+      "start": 1684.16,
+      "end": 1689.76,
+      "text": "level model soon I think that would be great because it gives enough time for me to prepare to build"
+    },
+    {
+      "start": 1689.76,
+      "end": 1695.1200000000001,
+      "text": "and know how to build the playbooks to share that around in the community and to make sure that we're"
+    },
+    {
+      "start": 1695.1200000000001,
+      "end": 1701.44,
+      "text": "not starting to see airlines go down and power plans go down and really like disastrous effects"
+    },
+    {
+      "start": 1701.44,
+      "end": 1708.08,
+      "text": "that could happen the problem is that if anyone gets to a mythist level model earlier than"
+    },
+    {
+      "start": 1708.08,
+      "end": 1714.08,
+      "text": "in retrospect that we looked like a huge mistake because we could have at least given companies the"
+    },
+    {
+      "start": 1714.08,
+      "end": 1718.32,
+      "text": "choice to start moving very quickly and give more companies access to mythists now they're all"
+    },
+    {
+      "start": 1718.32,
+      "end": 1723.36,
+      "text": "vulnerable because you know there's a Chinese model that's mythist level and there's nothing they"
+    },
+    {
+      "start": 1723.36,
+      "end": 1730.48,
+      "text": "can do about it so I think hopefully we managed to do the gradual rollout correctly I would really"
+    },
+    {
+      "start": 1730.48,
+      "end": 1736.1599999999999,
+      "text": "encourage it we expand then amount of companies that get access to this and make it much easier for"
+    },
+    {
+      "start": 1736.16,
+      "end": 1741.3600000000001,
+      "text": "people to get I would advise everyone to assume that these models are coming anyway the only"
+    },
+    {
+      "start": 1741.3600000000001,
+      "end": 1748.0,
+      "text": "thing you can do right now is to invest in these foundational controls that will stop the downstream"
+    },
+    {
+      "start": 1748.0,
+      "end": 1754.3200000000002,
+      "text": "effects of these vulnerabilities are going to be found in their systems do you see in large"
+    },
+    {
+      "start": 1754.3200000000002,
+      "end": 1761.3600000000001,
+      "text": "enterprises like any holdouts right and I would say I actually haven't spent a bunch of time"
+    },
+    {
+      "start": 1761.3600000000001,
+      "end": 1768.48,
+      "text": "talking to people about this recently but I remember a year and a half two years ago there were"
+    },
+    {
+      "start": 1768.48,
+      "end": 1774.5600000000002,
+      "text": "large companies that just said like we're going to ban all of this stuff until it's safe yeah I hard"
+    },
+    {
+      "start": 1774.5600000000002,
+      "end": 1778.72,
+      "text": "to see that anymore I think in the financial sector there's some companies that are more"
+    },
+    {
+      "start": 1780.3200000000002,
+      "end": 1786.0800000000002,
+      "text": "opinionate and what they allow they still allow agents but there may be like more granular"
+    },
+    {
+      "start": 1786.32,
+      "end": 1792.3999999999999,
+      "text": "is to like maybe we're only allowed these two tools I personally think that the companies that"
+    },
+    {
+      "start": 1792.3999999999999,
+      "end": 1796.8799999999999,
+      "text": "are going to do other the companies that are going to allow a lot of different tools because"
+    },
+    {
+      "start": 1797.76,
+      "end": 1802.24,
+      "text": "the landscape is changing so quickly if you bet on open AI here we go that would have been the"
+    },
+    {
+      "start": 1802.24,
+      "end": 1807.9199999999998,
+      "text": "safest bet in the world but suddenly anthropic has much better models and better tools and"
+    },
+    {
+      "start": 1807.9199999999998,
+      "end": 1814.72,
+      "text": "potentially here from now there's someone else much better tools so I think there's a price to pay but"
+    },
+    {
+      "start": 1815.44,
+      "end": 1822.16,
+      "text": "I think if you're a large company your risk profile is and should be different like you know when"
+    },
+    {
+      "start": 1822.16,
+      "end": 1825.52,
+      "text": "when you were startup you want to have your agents do everything for you because you have"
+    },
+    {
+      "start": 1825.52,
+      "end": 1830.16,
+      "text": "everything to gain and you have nothing to lose where you're a large where JP Morgan you have"
+    },
+    {
+      "start": 1830.16,
+      "end": 1835.28,
+      "text": "so much to lose and you can maybe take a bit more time to gain what you can gain from AI"
+    },
+    {
+      "start": 1835.28,
+      "end": 1842.08,
+      "text": "and by the way you know JP Morgan is the doctor guy very quickly I think it is okay for companies"
+    },
+    {
+      "start": 1842.08,
+      "end": 1847.84,
+      "text": "to have a new ones to you the bigger they are on how they're adopting it how do you think about"
+    },
+    {
+      "start": 1847.84,
+      "end": 1853.6799999999998,
+      "text": "that question for yourself like risk profile pace the environment's changing very quickly"
+    },
+    {
+      "start": 1854.72,
+      "end": 1861.6,
+      "text": "and then you know you see a lot of problems growing the scope of the product and the research"
+    },
+    {
+      "start": 1861.6,
+      "end": 1869.52,
+      "text": "these this year is already quite large we are kind of in luck in the AI security space because"
+    },
+    {
+      "start": 1870.32,
+      "end": 1875.76,
+      "text": "yes there are a lot of vendors there's a lot of new technologies that are coming up but the"
+    },
+    {
+      "start": 1876.96,
+      "end": 1885.2,
+      "text": "but the two core pillars of how 2026 AI works have not changed in the last few years so we're still"
+    },
+    {
+      "start": 1885.2,
+      "end": 1894.72,
+      "text": "using largely LLM foundation models that are not entirely this similar to how they were"
+    },
+    {
+      "start": 1894.8,
+      "end": 1901.04,
+      "text": "fures back and we're still building agents in pretty much the same way where we have an LLM"
+    },
+    {
+      "start": 1901.04,
+      "end": 1907.44,
+      "text": "decide what are the tool cause that we're going to make and generate those and so that does allow"
+    },
+    {
+      "start": 1907.44,
+      "end": 1913.2,
+      "text": "a company today like us to skate to a lot of different applications that are utilizing these two"
+    },
+    {
+      "start": 1913.2,
+      "end": 1920.0,
+      "text": "primitives while still keeping the core technology that we're developing fairly lean and focused"
+    },
+    {
+      "start": 1920.64,
+      "end": 1926.48,
+      "text": "now of course there's always a risk that tomorrow there's a completely new LLM"
+    },
+    {
+      "start": 1927.2,
+      "end": 1933.76,
+      "text": "paradigm that could happen or a completely new edge of padding that could happen and that's why"
+    },
+    {
+      "start": 1933.76,
+      "end": 1942.08,
+      "text": "we do try to you know we have strong opinions loosely held about what does AI look like in 2027"
+    },
+    {
+      "start": 1942.08,
+      "end": 1948.0,
+      "text": "we maybe have a good picture for 2026 but for 2027 we're very open minded then we think that's"
+    },
+    {
+      "start": 1948.0,
+      "end": 1955.28,
+      "text": "the right stance to be for the next few years until we see what one does AGI ASI look like"
+    },
+    {
+      "start": 1956.48,
+      "end": 1962.64,
+      "text": "do you see the set of problems you're addressing trust in the models as in governance of them"
+    },
+    {
+      "start": 1962.64,
+      "end": 1968.48,
+      "text": "as something that the labs could ever do we're doing is a structural thing that I ask because the"
+    },
+    {
+      "start": 1968.48,
+      "end": 1975.52,
+      "text": "number one question amongst the startup ecosystem in the Bay Area today is you know if you assume"
+    },
+    {
+      "start": 1975.6,
+      "end": 1981.92,
+      "text": "capability improves or you know when the labs just gets a hungrier from there already currently"
+    },
+    {
+      "start": 1981.92,
+      "end": 1987.76,
+      "text": "ambitious stance why wouldn't they do this too and so I ask you the same question"
+    },
+    {
+      "start": 1988.72,
+      "end": 1996.24,
+      "text": "today if you're if you're a private person or if you're a security buyer there are some places where"
+    },
+    {
+      "start": 1996.24,
+      "end": 2000.4,
+      "text": "you don't want to trust the same person that you're buying it from so you know maybe you know"
+    },
+    {
+      "start": 2001.2,
+      "end": 2005.92,
+      "text": "if you're buying a car you're not going to have the same guy that you're buying it from certified"
+    },
+    {
+      "start": 2005.92,
+      "end": 2010.88,
+      "text": "that the car is good right you're maybe going to have someone else do it and if you're a security"
+    },
+    {
+      "start": 2011.92,
+      "end": 2015.6000000000001,
+      "text": "team you're not going to trust the vendor of a product to tell you that this product is not"
+    },
+    {
+      "start": 2015.6000000000001,
+      "end": 2020.3200000000002,
+      "text": "going to mess your environment you're going to want to have an independent party whose whole business"
+    },
+    {
+      "start": 2020.3200000000002,
+      "end": 2024.88,
+      "text": "depends on telling you that this thing is correct and being right this this thing is legitimate"
+    },
+    {
+      "start": 2024.96,
+      "end": 2030.16,
+      "text": "being right so that's like there's the buyer of psychology in the space that I think really goes"
+    },
+    {
+      "start": 2030.72,
+      "end": 2036.16,
+      "text": "in our favor and then I think there's the core problems the choir models even making mistakes"
+    },
+    {
+      "start": 2036.16,
+      "end": 2042.0800000000002,
+      "text": "why are agents even making mistakes right so they how broadly categorize it into two things one is"
+    },
+    {
+      "start": 2042.8000000000002,
+      "end": 2046.88,
+      "text": "you know there's the jagged intelligence of these models and there's like sometimes"
+    },
+    {
+      "start": 2047.5200000000002,
+      "end": 2053.52,
+      "text": "kind of very silly mistakes that they make and I think that problem will go away I think we're"
+    },
+    {
+      "start": 2053.52,
+      "end": 2059.6,
+      "text": "heading for my smarter models that make less silly mistakes and and our role is not going to be to"
+    },
+    {
+      "start": 2060.32,
+      "end": 2065.68,
+      "text": "prevent silly mistakes that will be taken care of by the the model vendors because they're very"
+    },
+    {
+      "start": 2065.68,
+      "end": 2073.68,
+      "text": "incentivized to do it and I think what is the other fast growing category of things that we're seeing"
+    },
+    {
+      "start": 2073.68,
+      "end": 2080.48,
+      "text": "and models do wrong is places where they're actually not making a thing that is like a silly mistake"
+    },
+    {
+      "start": 2080.48,
+      "end": 2087.36,
+      "text": "but more I would say have an independent you would even say say my aware or say my conscious"
+    },
+    {
+      "start": 2088.32,
+      "end": 2092.96,
+      "text": "perspective on what should happen and that perspective might not always align with your perspective"
+    },
+    {
+      "start": 2093.84,
+      "end": 2099.76,
+      "text": "and I think that is a problem that we've seen grow hand in hand with models getting smarter maybe"
+    },
+    {
+      "start": 2099.76,
+      "end": 2105.52,
+      "text": "just the the way it is that because you get smarter you have more independent thoughts and more"
+    },
+    {
+      "start": 2105.6,
+      "end": 2111.28,
+      "text": "your more conscious and and I think that problem is actually seemingly very hard to tackle today even"
+    },
+    {
+      "start": 2111.28,
+      "end": 2119.04,
+      "text": "for the large vendors and one of the key things that are making it easier for us to understand"
+    },
+    {
+      "start": 2119.04,
+      "end": 2127.2,
+      "text": "and attack these things versus the other vendors is that you know we're allowed to do certain things"
+    },
+    {
+      "start": 2127.2,
+      "end": 2132.24,
+      "text": "that they're not so for example we're allowed to look at a lot of historical data of how these agents"
+    },
+    {
+      "start": 2132.2400000000002,
+      "end": 2138.48,
+      "text": "have behaved but antibodies that are not willing to have an anthropic or open AI give that historical"
+    },
+    {
+      "start": 2138.48,
+      "end": 2143.2000000000003,
+      "text": "data because they know these are very data and we companies that will want to train on that data"
+    },
+    {
+      "start": 2143.92,
+      "end": 2150.88,
+      "text": "and so I think there are some ways in which you are given more in which us we're given more context"
+    },
+    {
+      "start": 2152.0800000000004,
+      "end": 2160.0800000000004,
+      "text": "and more latitude to know if something is happening that is wrong compared to the past compared to how"
+    },
+    {
+      "start": 2160.08,
+      "end": 2165.6,
+      "text": "these agents typically behave and so on that the vendors don't have and is really important in"
+    },
+    {
+      "start": 2165.6,
+      "end": 2171.7599999999998,
+      "text": "solving this problem and the last thing I'll say is that you're not dealing with one vendor so we're"
+    },
+    {
+      "start": 2171.7599999999998,
+      "end": 2177.2799999999997,
+      "text": "heading for a world where there's a multitude of different vendors for many reasons you know you're"
+    },
+    {
+      "start": 2177.2799999999997,
+      "end": 2182.08,
+      "text": "going to have for cost reasons open source models that people are going to use because it's cheaper and"
+    },
+    {
+      "start": 2182.08,
+      "end": 2190.08,
+      "text": "you're going to have and models that are better at different tasks and at different cost profiles"
+    },
+    {
+      "start": 2190.08,
+      "end": 2197.68,
+      "text": "and so it is going to be unrealistic to expect all the vendors to provide the same level of security"
+    },
+    {
+      "start": 2199.44,
+      "end": 2204.96,
+      "text": "and to assume that as you're trying to adopt technology very quickly especially coming from new"
+    },
+    {
+      "start": 2204.96,
+      "end": 2210.0,
+      "text": "vendors that obviously have not yet built out all of that so I think that these are the reason why"
+    },
+    {
+      "start": 2210.0,
+      "end": 2214.96,
+      "text": "I think it would be very difficult for this problem to be just completely solved by the large labs"
+    },
+    {
+      "start": 2215.6,
+      "end": 2221.6,
+      "text": "just to close and also thinking about what you know people in Silicon Valley or outside of security"
+    },
+    {
+      "start": 2221.6,
+      "end": 2228.0,
+      "text": "may not know you're building this from Tel Aviv right I think one of the deepest adversarial thinking"
+    },
+    {
+      "start": 2228.0,
+      "end": 2235.52,
+      "text": "benches in the world is the Israeli ecosystem 80 to 100 whiz armist island and a so group right"
+    },
+    {
+      "start": 2235.7599999999998,
+      "end": 2245.2,
+      "text": "what do you think that the researchers engineers business people in you know the tech ecosystem outside"
+    },
+    {
+      "start": 2245.2,
+      "end": 2251.04,
+      "text": "of security and then in the labs in particular are are missing about what what needs to happen in"
+    },
+    {
+      "start": 2251.04,
+      "end": 2256.32,
+      "text": "security and you know alignment which is what you're talking about here what is really important when"
+    },
+    {
+      "start": 2256.32,
+      "end": 2260.8,
+      "text": "you're building security products in general I think what what people in Israel have really good"
+    },
+    {
+      "start": 2261.76,
+      "end": 2267.1200000000003,
+      "text": "is just understand how security teams work because at the end of the day in the matter what is the"
+    },
+    {
+      "start": 2267.1200000000003,
+      "end": 2273.04,
+      "text": "technical problem we're solving you're building a tool for people for an organization that organization"
+    },
+    {
+      "start": 2273.04,
+      "end": 2278.2400000000002,
+      "text": "has a certain structure there are certain teams there's certain flow of responsibilities of information"
+    },
+    {
+      "start": 2278.96,
+      "end": 2286.2400000000002,
+      "text": "and creating a product for this audience that they they don't just doesn't just solve the"
+    },
+    {
+      "start": 2286.2400000000002,
+      "end": 2292.0000000000005,
+      "text": "technical problem but they actually love is really hard you need to really care about you know just"
+    },
+    {
+      "start": 2292.0000000000005,
+      "end": 2297.5200000000004,
+      "text": "the day-to-day of these different functions and you need to have people in your ecosystems that"
+    },
+    {
+      "start": 2297.5200000000004,
+      "end": 2304.0800000000004,
+      "text": "have built products for them in the past that know them like they know their best friend like they"
+    },
+    {
+      "start": 2304.0800000000004,
+      "end": 2307.92,
+      "text": "know what they do when they step into the office in the morning they bring their coffee what are"
+    },
+    {
+      "start": 2307.92,
+      "end": 2312.1600000000003,
+      "text": "the systems they're opening what is their boss wanting from them what are their colleagues wanting"
+    },
+    {
+      "start": 2312.16,
+      "end": 2316.64,
+      "text": "from them what are they going to get praise for what they're going to get mad for then you need to"
+    },
+    {
+      "start": 2316.64,
+      "end": 2322.3999999999996,
+      "text": "take that and make it to their product and I think that's I think today one of the kind of really"
+    },
+    {
+      "start": 2322.3999999999996,
+      "end": 2329.3599999999997,
+      "text": "hard things that people in Israel learned because they've had so much contact with these buyers and"
+    },
+    {
+      "start": 2329.3599999999997,
+      "end": 2335.52,
+      "text": "end users and yeah we just encourage people to be much more curious about the day-to-day of security"
+    },
+    {
+      "start": 2335.52,
+      "end": 2343.12,
+      "text": "people and it's a cliche to say it but these people are actually saving us daily from"
+    },
+    {
+      "start": 2343.12,
+      "end": 2348.72,
+      "text": "attackers stealing our money taking our data and they're kind of keeping a way of life as it is"
+    },
+    {
+      "start": 2348.72,
+      "end": 2352.88,
+      "text": "in this digital world so yeah I think we're more love to security around the world"
+    },
+    {
+      "start": 2353.52,
+      "end": 2359.12,
+      "text": "I'm going to ask you to just square that with something else you've told me Maxon which is you're the"
+    },
+    {
+      "start": 2359.12,
+      "end": 2364.72,
+      "text": "most AGI-pilled person I'm going to meet in Israel embedded in what you said is a belief that"
+    },
+    {
+      "start": 2364.7200000000003,
+      "end": 2370.8,
+      "text": "we will continue to have defensive security teams for some number of years so you do believe that"
+    },
+    {
+      "start": 2371.5200000000004,
+      "end": 2376.1600000000003,
+      "text": "I do think that security teams are also going to be become completely eye-powered"
+    },
+    {
+      "start": 2377.2000000000003,
+      "end": 2384.1600000000003,
+      "text": "and but I do think that you know they're going to be run by AI agents and like everything else in"
+    },
+    {
+      "start": 2384.1600000000003,
+      "end": 2389.0400000000004,
+      "text": "kind of the knowledge workspace I would in the in the new future but I do think that it's important"
+    },
+    {
+      "start": 2389.04,
+      "end": 2395.92,
+      "text": "to be grounded and today when I sell a product I sell it to a human audience with the few agents"
+    },
+    {
+      "start": 2395.92,
+      "end": 2402.8,
+      "text": "and by the way we also invest in making our systems very convenient for agents to use and it's"
+    },
+    {
+      "start": 2402.8,
+      "end": 2407.52,
+      "text": "important that I focus on delivering an amazing experience today for people to buy the park today"
+    },
+    {
+      "start": 2407.52,
+      "end": 2413.84,
+      "text": "and as that audience becomes more agents than humans it will be important for us to evolve and to"
+    },
+    {
+      "start": 2413.84,
+      "end": 2419.36,
+      "text": "make it work really well for agents during the work so I think the corporates was the same we need to"
+    },
+    {
+      "start": 2420.2400000000002,
+      "end": 2427.52,
+      "text": "really be reminded of who is the end user what is their experience for a human it might be"
+    },
+    {
+      "start": 2427.52,
+      "end": 2432.96,
+      "text": "not overwhelming them with too much information that is irrelevant for an agent it might be not"
+    },
+    {
+      "start": 2432.96,
+      "end": 2438.32,
+      "text": "wasting too many tokens in their context when we talk to them and maybe it's the same thing really"
+    },
+    {
+      "start": 2438.4,
+      "end": 2443.2000000000003,
+      "text": "so I think it's important that we always reminded that who's using the system and what will be"
+    },
+    {
+      "start": 2443.92,
+      "end": 2448.32,
+      "text": "the best experience for them awesome thanks so much for doing this Maxim I appreciate it thank you"
+    },
+    {
+      "start": 2448.32,
+      "end": 2451.04,
+      "text": "very much Adam."
+    },
+    {
+      "start": 2452.0,
+      "end": 2457.6000000000004,
+      "text": "Find us on Twitter at no priors pod subscribe to our youtube channel if you want to see our faces"
+    },
+    {
+      "start": 2457.6000000000004,
+      "end": 2462.56,
+      "text": "follow the show on apple podcasts spotify or wherever you listen that way you get a new episode"
+    },
+    {
+      "start": 2462.56,
+      "end": 2470.0,
+      "text": "and sign up for emails or find transcripts for every episode at no-priors.com"
+    }
+  ]
+}

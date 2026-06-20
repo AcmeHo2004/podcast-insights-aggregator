@@ -1,0 +1,2996 @@
+{
+  "id": "4b0f1fafd4394c06",
+  "show": "Bloomberg Surveillance",
+  "theme": "Macro & Rates",
+  "title": "Equities and the Fed",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/42285bec-a1ca-4c68-bce9-b46d00f67303/audio.mp3?utm_source=Podcast&in_playlist=9739700c-72c3-4176-ae55-ae27003e2b96",
+  "source": "feed",
+  "duration": 1801.6,
+  "segments": [
+    {
+      "start": 2.52,
+      "end": 13.76,
+      "text": "Speaker 1: Bloomberg Audio Studios, podcasts, radio news. This is the Bloomberg"
+    },
+    {
+      "start": 13.84,
+      "end": 17.92,
+      "text": "Speaker 1: Surveillance Podcast. Catch us live weekdays at seven am Eastern"
+    },
+    {
+      "start": 18.2,
+      "end": 21.24,
+      "text": "Speaker 1: on Apple car Play or Android Auto with the Bloomberg"
+    },
+    {
+      "start": 21.32,
+      "end": 24.88,
+      "text": "Speaker 1: Business app. Listen on demand wherever you get your podcasts,"
+    },
+    {
+      "start": 25.28,
+      "end": 27.04,
+      "text": "Speaker 1: or watch us live on YouTube."
+    },
+    {
+      "start": 27.4,
+      "end": 30.76,
+      "text": "Speaker 2: Joining us now Edward YARDNNY for a two hour conversation."
+    },
+    {
+      "start": 31.04,
+      "end": 33.08,
+      "text": "Speaker 2: I got eight ways to go here. You have a"
+    },
+    {
+      "start": 33.12,
+      "end": 35.84,
+      "text": "Speaker 2: young Turk in the green room with you this morning. Yeah,"
+    },
+    {
+      "start": 35.88,
+      "end": 39.32,
+      "text": "Speaker 2: what's your number one advice to a twenty year twenty"
+    },
+    {
+      "start": 39.36,
+      "end": 42.84,
+      "text": "Speaker 2: two year old kid? Who's my god? I'm sitting next"
+    },
+    {
+      "start": 42.84,
+      "end": 45.2,
+      "text": "Speaker 2: to Edward Yard, Denny, what do you tell the young"
+    },
+    {
+      "start": 45.32,
+      "end": 46.68,
+      "text": "Speaker 2: turks read my books?"
+    },
+    {
+      "start": 47.56,
+      "end": 49.8,
+      "text": "Speaker 3: I did buy them before you read that, right, You don't."
+    },
+    {
+      "start": 49.68,
+      "end": 53.12,
+      "text": "Speaker 4: Have to buy them. They're open to the public, you know."
+    },
+    {
+      "start": 54.2,
+      "end": 57.44,
+      "text": "Speaker 4: I share the knowledge that I've gained over the years."
+    },
+    {
+      "start": 57.44,
+      "end": 60.0,
+      "text": "Speaker 4: So in twenty eighteen I wrote a book called predict"
+    },
+    {
+      "start": 60.08,
+      "end": 62.92,
+      "text": "Speaker 4: in the Markets, turned out to be six hundred pages long,"
+    },
+    {
+      "start": 62.96,
+      "end": 65.2,
+      "text": "Speaker 4: about what I learned in the first forty years of"
+    },
+    {
+      "start": 65.56,
+      "end": 67.4,
+      "text": "Speaker 4: my career. Now I'm working in the next four."
+    },
+    {
+      "start": 67.36,
+      "end": 70.2,
+      "text": "Speaker 2: What's the maxim that's been most true across the emotion"
+    },
+    {
+      "start": 70.84,
+      "end": 72.64,
+      "text": "Speaker 2: of this bull market that won't go down?"
+    },
+    {
+      "start": 73.4,
+      "end": 75.64,
+      "text": "Speaker 4: Well, I think it's earnings. I mean, it won't go"
+    },
+    {
+      "start": 75.68,
+      "end": 78.559,
+      "text": "Speaker 4: down because earnings won't go down. I think the reason"
+    },
+    {
+      "start": 78.68,
+      "end": 81.12,
+      "text": "Speaker 4: earnings have been so resident is because the economy has"
+    },
+    {
+      "start": 81.12,
+      "end": 85.52,
+      "text": "Speaker 4: been so resident. You know, it's it's every time we"
+    },
+    {
+      "start": 85.84,
+      "end": 88.4,
+      "text": "Speaker 4: throw something at it, it just hangs in."
+    },
+    {
+      "start": 88.44,
+      "end": 90.6,
+      "text": "Speaker 2: There. Are we getting a free launch from a set"
+    },
+    {
+      "start": 90.64,
+      "end": 94.52000000000001,
+      "text": "Speaker 2: of stimuli that have goosed revenues to generate their free"
+    },
+    {
+      "start": 94.56,
+      "end": 95.12,
+      "text": "Speaker 2: cash flow?"
+    },
+    {
+      "start": 95.319,
+      "end": 98.4,
+      "text": "Speaker 4: And I think there's certainly something to be said for"
+    },
+    {
+      "start": 98.44,
+      "end": 102.88,
+      "text": "Speaker 4: that one and a half to two trillion dollar government deficits."
+    },
+    {
+      "start": 102.88,
+      "end": 107.16,
+      "text": "Speaker 4: Certainly are stimulative, but we've also had a very strong"
+    },
+    {
+      "start": 107.2,
+      "end": 111.72,
+      "text": "Speaker 4: consumer not kind of inconsistent with the so called K"
+    },
+    {
+      "start": 111.92,
+      "end": 115.24000000000001,
+      "text": "Speaker 4: economy thesis. I call it the G economy thesis. It's"
+    },
+    {
+      "start": 115.28,
+      "end": 118.52000000000001,
+      "text": "Speaker 4: really about the baby boomers that are keeping spending going"
+    },
+    {
+      "start": 118.56,
+      "end": 122.56,
+      "text": "Speaker 4: because they're retiring. They've got eighty nine trillion dollars of"
+    },
+    {
+      "start": 122.92,
+      "end": 124.48,
+      "text": "Speaker 4: retirement as the money."
+    },
+    {
+      "start": 124.56,
+      "end": 127.28,
+      "text": "Speaker 2: Lawrence McDonald's talked about it. I mean, it's just there."
+    },
+    {
+      "start": 127.32,
+      "end": 128.4,
+      "text": "Speaker 2: It's just a wall of money."
+    },
+    {
+      "start": 128.52,
+      "end": 131.68,
+      "text": "Speaker 4: And then of course there's the AI capital spending boom,"
+    },
+    {
+      "start": 131.72,
+      "end": 134.28,
+      "text": "Speaker 4: and there's a lot of controversy about whether that's going"
+    },
+    {
+      "start": 134.36,
+      "end": 137.72,
+      "text": "Speaker 4: to pay off or whether it's not. And it's one"
+    },
+    {
+      "start": 137.72,
+      "end": 140.2,
+      "text": "Speaker 4: big bubble that's going to burst. I think it's going"
+    },
+    {
+      "start": 140.24,
+      "end": 140.76,
+      "text": "Speaker 4: to pay off."
+    },
+    {
+      "start": 141.24,
+      "end": 142.6,
+      "text": "Speaker 5: So that's kind of where I want to go ed."
+    },
+    {
+      "start": 142.639,
+      "end": 145.56,
+      "text": "Speaker 5: I mean, you've seen so many cycles, so many major"
+    },
+    {
+      "start": 145.639,
+      "end": 149.88,
+      "text": "Speaker 5: themes in this marketplace, whether it's the Internet or how"
+    },
+    {
+      "start": 149.919,
+      "end": 152.28,
+      "text": "Speaker 5: do you think about AI here? I mean, it seems"
+    },
+    {
+      "start": 152.28,
+      "end": 154.07999999999998,
+      "text": "Speaker 5: like a lot of folks are telling us this is"
+    },
+    {
+      "start": 154.2,
+      "end": 155.44,
+      "text": "Speaker 5: bigger than anything we've seen."
+    },
+    {
+      "start": 155.84,
+      "end": 160.0,
+      "text": "Speaker 4: Well, that's that's my view. And the way I put"
+    },
+    {
+      "start": 160.04,
+      "end": 162.72,
+      "text": "Speaker 4: in perspective is AI is not a revolution, It's an"
+    },
+    {
+      "start": 162.8,
+      "end": 166.679,
+      "text": "Speaker 4: evolution in the digital revolution. The digital revolution started in"
+    },
+    {
+      "start": 166.72,
+      "end": 169.8,
+      "text": "Speaker 4: the mid nineteen sixties with the IBA mainframes, and the"
+    },
+    {
+      "start": 169.84,
+      "end": 174.0,
+      "text": "Speaker 4: digital revolution is all about processing as much information data"
+    },
+    {
+      "start": 174.04,
+      "end": 176.56,
+      "text": "Speaker 4: as we possibly can, as quickly as we can, as"
+    },
+    {
+      "start": 176.639,
+      "end": 179.2,
+      "text": "Speaker 4: cheaply as we can. And we've made a tremendous amount"
+    },
+    {
+      "start": 179.2,
+      "end": 182.28,
+      "text": "Speaker 4: of progress, growing from the IBM mainframe to be soon"
+    },
+    {
+      "start": 182.28,
+      "end": 186.92,
+      "text": "Speaker 4: as laptops, the cloud, and now AIS. I kind of"
+    },
+    {
+      "start": 187.16,
+      "end": 190.0,
+      "text": "Speaker 4: I think time will like this. I view us now"
+    },
+    {
+      "start": 190.04,
+      "end": 194.56,
+      "text": "Speaker 4: as having four factors of production land, labor, capital, and"
+    },
+    {
+      "start": 194.639,
+      "end": 197.56,
+      "text": "Speaker 4: data and data. And we never really thought of data"
+    },
+    {
+      "start": 197.56,
+      "end": 200.4,
+      "text": "Speaker 4: as a factor of production. And this ties into my"
+    },
+    {
+      "start": 200.88,
+      "end": 204.76,
+      "text": "Speaker 4: buzz like your theory to infinity and beyond, there will"
+    },
+    {
+      "start": 204.8,
+      "end": 206.04,
+      "text": "Speaker 4: never be a shortage."
+    },
+    {
+      "start": 205.639,
+      "end": 208.48,
+      "text": "Speaker 5: Of data, right and Bloomberg, we are at our heart"
+    },
+    {
+      "start": 208.56,
+      "end": 210.6,
+      "text": "Speaker 5: a data nice."
+    },
+    {
+      "start": 210.52,
+      "end": 212.64,
+      "text": "Speaker 2: And you're creating more and more data and the world"
+    },
+    {
+      "start": 212.91899999999998,
+      "end": 217.92000000000002,
+      "text": "Speaker 2: that was so good you get to work tomorrow."
+    },
+    {
+      "start": 217.28,
+      "end": 219.56,
+      "text": "Speaker 5: And the analytics around all that data. This is kind"
+    },
+    {
+      "start": 219.56,
+      "end": 220.56,
+      "text": "Speaker 5: of what we do here at Bloomberg."
+    },
+    {
+      "start": 220.8,
+      "end": 222.92000000000002,
+      "text": "Speaker 3: So what are we doing here?"
+    },
+    {
+      "start": 223.04,
+      "end": 225.92000000000002,
+      "text": "Speaker 5: Ed? I mean, can we feel comfortable with this earnings"
+    },
+    {
+      "start": 225.96,
+      "end": 228.6,
+      "text": "Speaker 5: environment out there to continue to support this market exploit"
+    },
+    {
+      "start": 228.68,
+      "end": 230.88,
+      "text": "Speaker 5: we just came through the last couple of quarters have"
+    },
+    {
+      "start": 230.96,
+      "end": 232.28,
+      "text": "Speaker 5: just been extraordinary for earnings."
+    },
+    {
+      "start": 232.64,
+      "end": 237.0,
+      "text": "Speaker 4: Well, let me give you some some lingo on that."
+    },
+    {
+      "start": 237.44,
+      "end": 240.48,
+      "text": "Speaker 4: I'm a believer that we're better off with a bull"
+    },
+    {
+      "start": 240.56,
+      "end": 244.84,
+      "text": "Speaker 4: market based on FEMO than FOMO. Fomo is fear of"
+    },
+    {
+      "start": 244.88,
+      "end": 248.16,
+      "text": "Speaker 4: missing out, and if people have fear of missing out,"
+    },
+    {
+      "start": 248.24,
+      "end": 252.12,
+      "text": "Speaker 4: that'll affect the pe. You'll get the valuation multiple too high,"
+    },
+    {
+      "start": 252.16,
+      "end": 256.04,
+      "text": "Speaker 4: You'll get a bubble and it's bound to burst. Femo"
+    },
+    {
+      "start": 256.2,
+      "end": 259.839,
+      "text": "Speaker 4: is fabulous earnings moment them, earnings have been absolutely fabulous,"
+    },
+    {
+      "start": 260.16,
+      "end": 262.239,
+      "text": "Speaker 4: and I'd rather have a melt up based on earnings"
+    },
+    {
+      "start": 262.24,
+      "end": 264.4,
+      "text": "Speaker 4: than one on evaluation multiples."
+    },
+    {
+      "start": 264.48,
+      "end": 266.76,
+      "text": "Speaker 2: And that's what we have, EDJR. Denny with the Sacks,"
+    },
+    {
+      "start": 266.8,
+      "end": 269.479,
+      "text": "Speaker 2: and we continue. We welcome all of you across America."
+    },
+    {
+      "start": 269.839,
+      "end": 272.44,
+      "text": "Speaker 2: So if I line up my ten most important dinners"
+    },
+    {
+      "start": 273.0,
+      "end": 275.24,
+      "text": "Speaker 2: across the yark of this privilege of the Bloomberg. One"
+    },
+    {
+      "start": 275.24,
+      "end": 278.32,
+      "text": "Speaker 2: of them was of the Richard Berner years ago, and"
+    },
+    {
+      "start": 278.4,
+      "end": 281.48,
+      "text": "Speaker 2: it was in the vicinity of twenty twelve, fourteen years ago."
+    },
+    {
+      "start": 282.04,
+      "end": 285.15999999999997,
+      "text": "Speaker 2: This is Berner of Morgan Stanley building out that franchise"
+    },
+    {
+      "start": 285.2,
+      "end": 288.159,
+      "text": "Speaker 2: with Stephen Roach and then his public service to the nation,"
+    },
+    {
+      "start": 288.839,
+      "end": 291.0,
+      "text": "Speaker 2: and Dick Berner and I sat there and he was"
+    },
+    {
+      "start": 291.08,
+      "end": 295.44,
+      "text": "Speaker 2: on fire at yard Denny over the dots. The dots"
+    },
+    {
+      "start": 295.48,
+      "end": 299.32,
+      "text": "Speaker 2: go back to January twenty twelve. I would suggest we"
+    },
+    {
+      "start": 299.36,
+      "end": 303.28,
+      "text": "Speaker 2: had a shift tectonic. Will know in time. Were the"
+    },
+    {
+      "start": 303.32,
+      "end": 305.96,
+      "text": "Speaker 2: dots efficacious? Were they of Vailue?"
+    },
+    {
+      "start": 307.4,
+      "end": 309.599,
+      "text": "Speaker 4: Well, I'm kind of biased. I'm a Fed watchers. So"
+    },
+    {
+      "start": 309.68,
+      "end": 312.479,
+      "text": "Speaker 4: the more and the more noise they provide for me"
+    },
+    {
+      "start": 312.52,
+      "end": 316.0,
+      "text": "Speaker 4: to try to interpret for people, the better. I like"
+    },
+    {
+      "start": 316.04,
+      "end": 318.88,
+      "text": "Speaker 4: the dot plot. I think it's it's a good insight"
+    },
+    {
+      "start": 318.92,
+      "end": 322.68,
+      "text": "Speaker 4: into where the committee's meeting in the statistic. Yeah, the"
+    },
+    {
+      "start": 322.72,
+      "end": 326.44,
+      "text": "Speaker 4: medium is important, but I think so is the distribution."
+    },
+    {
+      "start": 327.52,
+      "end": 330.76,
+      "text": "Speaker 4: To me, the funniest thing about the dot plot is"
+    },
+    {
+      "start": 331.64,
+      "end": 335.239,
+      "text": "Speaker 4: and when you ask them for their long term estimate"
+    },
+    {
+      "start": 335.48,
+      "end": 338.599,
+      "text": "Speaker 4: for the FED funds rate, and this is often called"
+    },
+    {
+      "start": 338.6,
+      "end": 340.8,
+      "text": "Speaker 4: the neutral rate, and you would think that there's some"
+    },
+    {
+      "start": 340.92,
+      "end": 343.24,
+      "text": "Speaker 4: science of the neutral rate at the Fed, but no"
+    },
+    {
+      "start": 343.4,
+      "end": 347.719,
+      "text": "Speaker 4: science at all. They just nineteen of them, tell them,"
+    },
+    {
+      "start": 347.92,
+      "end": 350.6,
+      "text": "Speaker 4: tell us what they think it is, and sometimes the"
+    },
+    {
+      "start": 350.68,
+      "end": 353.52,
+      "text": "Speaker 4: spread is between three and four percent. It's like, you"
+    },
+    {
+      "start": 353.52,
+      "end": 355.08,
+      "text": "Speaker 4: know that, Well, that's really helpful."
+    },
+    {
+      "start": 356.08,
+      "end": 359.72,
+      "text": "Speaker 2: I look at where mister Worrish is taking us. Yes,"
+    },
+    {
+      "start": 359.76,
+      "end": 362.52,
+      "text": "Speaker 2: that much power, I mean, chairmany have that much power"
+    },
+    {
+      "start": 362.96,
+      "end": 364.719,
+      "text": "Speaker 2: to shift the dialogue, don't they."
+    },
+    {
+      "start": 365.24,
+      "end": 368.479,
+      "text": "Speaker 4: Well, I think the dialogue stays the same, But then"
+    },
+    {
+      "start": 368.6,
+      "end": 370.76,
+      "text": "Speaker 4: how much of it gets communicated to the public is"
+    },
+    {
+      "start": 370.76,
+      "end": 373.479,
+      "text": "Speaker 4: what he seems to be focusing on. I mean, I"
+    },
+    {
+      "start": 373.52,
+      "end": 376.8,
+      "text": "Speaker 4: think the dialogue at the FED is going to actually"
+    },
+    {
+      "start": 376.839,
+      "end": 379.2,
+      "text": "Speaker 4: turn out to be more independent than it had been,"
+    },
+    {
+      "start": 379.76,
+      "end": 384.64,
+      "text": "Speaker 4: you know. But he's actually come around to the old"
+    },
+    {
+      "start": 384.72,
+      "end": 387.4,
+      "text": "Speaker 4: view that a FED chair needs to have a consensus."
+    },
+    {
+      "start": 387.44,
+      "end": 391.76,
+      "text": "Speaker 4: I mean, he could have been the only dissenter at"
+    },
+    {
+      "start": 391.8,
+      "end": 395.599,
+      "text": "Speaker 4: that meeting, but he wasn't. He joined the committee. Email"
+    },
+    {
+      "start": 395.64,
+      "end": 398.04,
+      "text": "Speaker 4: comes in, Mike. He's on the parade roots somewhere. Mike,"
+    },
+    {
+      "start": 398.12,
+      "end": 400.52,
+      "text": "Speaker 4: thank you so much for emailing in today. Can you"
+    },
+    {
+      "start": 400.56,
+      "end": 405.24,
+      "text": "Speaker 4: reaffirm your roaring twenties scenario? And where is your SPI"
+    },
+    {
+      "start": 405.32,
+      "end": 407.839,
+      "text": "Speaker 4: statistic right now? Well, I'm looking for the S and"
+    },
+    {
+      "start": 407.88,
+      "end": 410.08,
+      "text": "Speaker 4: P five hundred to get the eight two hundred and"
+    },
+    {
+      "start": 410.12,
+      "end": 412.4,
+      "text": "Speaker 4: fifty by the end of the year and."
+    },
+    {
+      "start": 412.279,
+      "end": 413.56,
+      "text": "Speaker 6: Still at the end of this year."
+    },
+    {
+      "start": 413.64,
+      "end": 416.2,
+      "text": "Speaker 4: Yeah, yeah, yeah, I mean seventy seven hundred. I mean"
+    },
+    {
+      "start": 417.279,
+      "end": 420.32,
+      "text": "Speaker 4: we're at seventy five hundred, so we're moving the right direction."
+    },
+    {
+      "start": 421.64,
+      "end": 424.96,
+      "text": "Speaker 4: And there's still several months left. And then by the"
+    },
+    {
+      "start": 425.04,
+      "end": 427.839,
+      "text": "Speaker 4: end of the decade, at the end of twenty twenty nine,"
+    },
+    {
+      "start": 427.96,
+      "end": 431.04,
+      "text": "Speaker 4: I'm you're still using ten thousand, and the Roaring twenty"
+    },
+    {
+      "start": 431.04,
+      "end": 433.12,
+      "text": "Speaker 4: twenties has worked out pretty well here for the first"
+    },
+    {
+      "start": 433.16,
+      "end": 436.16,
+      "text": "Speaker 4: sevent you think, yeah, yeah, I think so. You know,"
+    },
+    {
+      "start": 436.36,
+      "end": 439.04,
+      "text": "Speaker 4: it's getting to be more and more roaring."
+    },
+    {
+      "start": 439.0,
+      "end": 440.96,
+      "text": "Speaker 2: Ed Jo Denny, thank you so much for joining us"
+    },
+    {
+      "start": 440.96,
+      "end": 445.16,
+      "text": "Speaker 2: today in historic day with signature at Versailles, Doctor Yard Denny."
+    },
+    {
+      "start": 445.24,
+      "end": 449.04,
+      "text": "Speaker 2: Look for his spectacular note. Can't say enough about it."
+    },
+    {
+      "start": 449.16,
+      "end": 449.84,
+      "text": "Speaker 3: Stay with us."
+    },
+    {
+      "start": 450.08,
+      "end": 453.32,
+      "text": "Speaker 2: More from Bloomberg Surveillance coming up after this."
+    },
+    {
+      "start": 460.56,
+      "end": 464.15999999999997,
+      "text": "Speaker 1: You're listening to the Bloomberg Surveillance podcast. Catch us live"
+    },
+    {
+      "start": 464.2,
+      "end": 467.36,
+      "text": "Speaker 1: weekday afternoons from seven to ten am Eastern Listen on"
+    },
+    {
+      "start": 467.48,
+      "end": 470.88,
+      "text": "Speaker 1: Apple Karplay and Android Auto with the Bloomberg Business app,"
+    },
+    {
+      "start": 471.04,
+      "end": 472.76,
+      "text": "Speaker 1: or watch us live on YouTube."
+    },
+    {
+      "start": 473.15999999999997,
+      "end": 478.15999999999997,
+      "text": "Speaker 2: Anastasia, welcome to Bloomberg Surveillance, obviously with partners seek as well."
+    },
+    {
+      "start": 478.2,
+      "end": 481.96,
+      "text": "Speaker 2: Once again, you nailed it by having the courage to"
+    },
+    {
+      "start": 482.04,
+      "end": 484.119,
+      "text": "Speaker 2: stay in the market. I want you to go back"
+    },
+    {
+      "start": 485.04,
+      "end": 487.2,
+      "text": "Speaker 2: and at the bottom of this war one hundred and"
+    },
+    {
+      "start": 487.24,
+      "end": 490.4,
+      "text": "Speaker 2: twenty dollars a barrel, et cetera. How did you know"
+    },
+    {
+      "start": 490.96,
+      "end": 492.4,
+      "text": "Speaker 2: don't go to cash?"
+    },
+    {
+      "start": 492.48,
+      "end": 495.84,
+      "text": "Speaker 7: Well, I guess it was a tough call to make,"
+    },
+    {
+      "start": 495.96,
+      "end": 498.24,
+      "text": "Speaker 7: or maybe a brave call to make right because a"
+    },
+    {
+      "start": 498.24,
+      "end": 500.96,
+      "text": "Speaker 7: lot of people at the peak were calling for recession"
+    },
+    {
+      "start": 501.0,
+      "end": 504.08,
+      "text": "Speaker 7: probabilities to go up, and there were calls for stressed"
+    },
+    {
+      "start": 504.08,
+      "end": 506.44,
+      "text": "Speaker 7: test scenarios of what if we stayed one hundred and"
+    },
+    {
+      "start": 506.48,
+      "end": 509.32,
+      "text": "Speaker 7: twenty plus a barrel of crude oil? And I think"
+    },
+    {
+      "start": 509.36,
+      "end": 513.44,
+      "text": "Speaker 7: what we ultimately looked at is, you know, fortunately we"
+    },
+    {
+      "start": 513.48,
+      "end": 518.36,
+      "text": "Speaker 7: went into this largest supply outage with buffers and whether"
+    },
+    {
+      "start": 518.4,
+      "end": 520.8,
+      "text": "Speaker 7: it's the inventories that we had on hand, and we"
+    },
+    {
+      "start": 520.88,
+      "end": 524.28,
+      "text": "Speaker 7: could cover two hundred days worth of net imports, and"
+    },
+    {
+      "start": 524.36,
+      "end": 527.319,
+      "text": "Speaker 7: so that you know, allowed for a lot of cushion"
+    },
+    {
+      "start": 527.4,
+      "end": 530.079,
+      "text": "Speaker 7: that in my view, would have prevented us from going"
+    },
+    {
+      "start": 530.16,
+      "end": 530.88,
+      "text": "Speaker 7: into recession."
+    },
+    {
+      "start": 531.24,
+      "end": 532.52,
+      "text": "Speaker 3: And then the other side of that."
+    },
+    {
+      "start": 532.559,
+      "end": 535.72,
+      "text": "Speaker 7: Is, you know, we never I don't think really anybody"
+    },
+    {
+      "start": 535.72,
+      "end": 538.16,
+      "text": "Speaker 7: thought that this conflict would drag on for quarters and"
+    },
+    {
+      "start": 538.24,
+      "end": 541.52,
+      "text": "Speaker 7: quarters in years. We know that there's a political time clock,"
+    },
+    {
+      "start": 541.679,
+      "end": 544.32,
+      "text": "Speaker 7: and you know, there's a level of market patients that"
+    },
+    {
+      "start": 544.48,
+      "end": 547.44,
+      "text": "Speaker 7: was going to force a resolution at some point. So"
+    },
+    {
+      "start": 548.12,
+      "end": 551.12,
+      "text": "Speaker 7: I'm glad to see that we are here and it's"
+    },
+    {
+      "start": 551.16,
+      "end": 553.08,
+      "text": "Speaker 7: been a stunning turn around to the price of oil."
+    },
+    {
+      "start": 553.12,
+      "end": 555.24,
+      "text": "Speaker 7: Tom to your point, from one hundred and twenty to now,"
+    },
+    {
+      "start": 555.44,
+      "end": 557.76,
+      "text": "Speaker 7: you know the forward strip pricing and seventy."
+    },
+    {
+      "start": 557.4,
+      "end": 559.76,
+      "text": "Speaker 6: Five dollars average for the back half of the year."
+    },
+    {
+      "start": 560.12,
+      "end": 564.2,
+      "text": "Speaker 7: That is a much much better backdrop fortunately for risk"
+    },
+    {
+      "start": 564.24,
+      "end": 564.8,
+      "text": "Speaker 7: assets now."
+    },
+    {
+      "start": 565.16,
+      "end": 567.079,
+      "text": "Speaker 5: So I guess investors are probably you know, over the"
+    },
+    {
+      "start": 567.16,
+      "end": 569.72,
+      "text": "Speaker 5: last several days, trying to reset a little bit. And"
+    },
+    {
+      "start": 569.8,
+      "end": 571.76,
+      "text": "Speaker 5: what do we focus on now?"
+    },
+    {
+      "start": 571.96,
+      "end": 574.0,
+      "text": "Speaker 2: Is it earnings? What do we focus at the Fed?"
+    },
+    {
+      "start": 574.2,
+      "end": 576.6,
+      "text": "Speaker 5: We heard from the Fed yesterday they're not going to"
+    },
+    {
+      "start": 576.6,
+      "end": 578.48,
+      "text": "Speaker 5: give us any any love there. So what are the"
+    },
+    {
+      "start": 578.48,
+      "end": 579.6,
+      "text": "Speaker 5: market's focusing on these days?"
+    },
+    {
+      "start": 579.72,
+      "end": 582.2,
+      "text": "Speaker 7: Well, I think it is that interplay between where we"
+    },
+    {
+      "start": 582.24,
+      "end": 584.12,
+      "text": "Speaker 7: are with the state of the economy and where we"
+    },
+    {
+      "start": 584.16,
+      "end": 587.0,
+      "text": "Speaker 7: are with a state of interest rates, and the focus"
+    },
+    {
+      "start": 587.08,
+      "end": 589.92,
+      "text": "Speaker 7: should be on the strength of economic activity first of all,"
+    },
+    {
+      "start": 590.0,
+      "end": 593.48,
+      "text": "Speaker 7: whether you look at the consumer and this continued momentum"
+    },
+    {
+      "start": 593.48,
+      "end": 595.48,
+      "text": "Speaker 7: that we see there, whether you look at the corporations"
+    },
+    {
+      "start": 595.52,
+      "end": 597.679,
+      "text": "Speaker 7: and the great earning season that we just came out of."
+    },
+    {
+      "start": 598.32,
+      "end": 601.079,
+      "text": "Speaker 7: You know, you look at the upsizing of Varning's estimates"
+    },
+    {
+      "start": 601.12,
+      "end": 602.16,
+      "text": "Speaker 7: for example."
+    },
+    {
+      "start": 602.0,
+      "end": 603.76,
+      "text": "Speaker 3: And then there's the Cappec story."
+    },
+    {
+      "start": 603.8,
+      "end": 606.32,
+      "text": "Speaker 7: If you look at the last quarters GDP, you know,"
+    },
+    {
+      "start": 606.36,
+      "end": 608.88,
+      "text": "Speaker 7: the kind of the bright object there has actually been"
+    },
+    {
+      "start": 608.88,
+      "end": 612.2,
+      "text": "Speaker 7: the fixed asset investment. The capex is accelerating in the"
+    },
+    {
+      "start": 612.28,
+      "end": 615.679,
+      "text": "Speaker 7: US thanks to hyperscalers, but also others. So that's the"
+    },
+    {
+      "start": 615.72,
+      "end": 618.56,
+      "text": "Speaker 7: economic backdrop. That's why I think you stay in the markets."
+    },
+    {
+      "start": 618.8,
+      "end": 621.76,
+      "text": "Speaker 7: The other side is the FED. And look my take"
+    },
+    {
+      "start": 621.8,
+      "end": 624.28,
+      "text": "Speaker 7: on that is the markets have interpreted this as in,"
+    },
+    {
+      "start": 624.8,
+      "end": 627.24,
+      "text": "Speaker 7: you know, this is hawkage guidance where we're going to"
+    },
+    {
+      "start": 627.32,
+      "end": 629.559,
+      "text": "Speaker 7: high grates. It's not guidance. As you know, there was"
+    },
+    {
+      "start": 629.64,
+      "end": 632.16,
+      "text": "Speaker 7: no forward guidance. And I think a lot is going"
+    },
+    {
+      "start": 632.2,
+      "end": 633.52,
+      "text": "Speaker 7: to change in the next few months."
+    },
+    {
+      "start": 633.6,
+      "end": 636.679,
+      "text": "Speaker 2: Nasty chamorroso whaus we will continue, whether Edward jar Danny"
+    },
+    {
+      "start": 636.76,
+      "end": 639.16,
+      "text": "Speaker 2: to join, you know a moment futures of fifty five."
+    },
+    {
+      "start": 639.2,
+      "end": 641.56,
+      "text": "Speaker 2: The vix is surprising. I thought it'd be in it's"
+    },
+    {
+      "start": 641.559,
+      "end": 644.64,
+      "text": "Speaker 2: in a stick seventeen point twenty seven, but it's screaming"
+    },
+    {
+      "start": 645.04,
+      "end": 648.88,
+      "text": "Speaker 2: sixteen handled to me. The Bank of England just does"
+    },
+    {
+      "start": 648.88,
+      "end": 651.08,
+      "text": "Speaker 2: a seven to two vote. Meghan Green, who's spent on"
+    },
+    {
+      "start": 651.08,
+      "end": 653.96,
+      "text": "Speaker 2: the show many times, and Hugh Pill a full time"
+    },
+    {
+      "start": 654.24,
+      "end": 658.679,
+      "text": "Speaker 2: a few Pill times over the years, but Meghan Green"
+    },
+    {
+      "start": 658.76,
+      "end": 662.36,
+      "text": "Speaker 2: in Pill vote against it, looking for a rate increase."
+    },
+    {
+      "start": 662.4,
+      "end": 667.12,
+      "text": "Speaker 2: Bank of England stay static, Pound retreats, Guilts retreat and"
+    },
+    {
+      "start": 667.12,
+      "end": 669.76,
+      "text": "Speaker 2: Paul It goes to this idea of a backdrop of"
+    },
+    {
+      "start": 669.88,
+      "end": 672.0,
+      "text": "Speaker 2: fighting inflation, fighting inflation time."
+    },
+    {
+      "start": 672.32,
+      "end": 675.0,
+      "text": "Speaker 5: So, Anastasia, one of the issues for this market is"
+    },
+    {
+      "start": 675.04,
+      "end": 677.76,
+      "text": "Speaker 5: AI and we're trying to figure out o've the investors"
+    },
+    {
+      "start": 678.24,
+      "end": 680.52,
+      "text": "Speaker 5: how to play it other than in Vidia, and it's"
+    },
+    {
+      "start": 680.52,
+      "end": 683.72,
+      "text": "Speaker 5: been an ongoing I think play for this marketplace to"
+    },
+    {
+      "start": 683.72,
+      "end": 685.64,
+      "text": "Speaker 5: figure out where do we go, how do we play it?"
+    },
+    {
+      "start": 685.88,
+      "end": 687.36,
+      "text": "Speaker 2: Are you guys thinking about series?"
+    },
+    {
+      "start": 687.559,
+      "end": 689.64,
+      "text": "Speaker 7: I mean, look, there's actually so much more to do"
+    },
+    {
+      "start": 689.72,
+      "end": 692.72,
+      "text": "Speaker 7: in both public and private markets beyond Nvidia. You know,"
+    },
+    {
+      "start": 692.8,
+      "end": 694.56,
+      "text": "Speaker 7: first of all, you know, one thing that's happened, Paul"
+    },
+    {
+      "start": 694.64,
+      "end": 697.48,
+      "text": "Speaker 7: is over the last few years, the total adressable market"
+    },
+    {
+      "start": 697.48,
+      "end": 700.72,
+      "text": "Speaker 7: for semiconductors because of AI has expanded. So it's started"
+    },
+    {
+      "start": 700.72,
+      "end": 703.559,
+      "text": "Speaker 7: with GPUs, but now as we know, the total addressable"
+    },
+    {
+      "start": 703.6,
+      "end": 706.6,
+      "text": "Speaker 7: market for CPUs for memberships, all of that is being"
+    },
+    {
+      "start": 706.679,
+      "end": 709.68,
+      "text": "Speaker 7: upside so that trade on its own has broadened out."
+    },
+    {
+      "start": 709.84,
+      "end": 709.9590000000001,
+      "text": "Speaker 4: You know."
+    },
+    {
+      "start": 710.12,
+      "end": 712.76,
+      "text": "Speaker 7: Then you think about the infrastructure, and you know, look,"
+    },
+    {
+      "start": 712.8,
+      "end": 714.319,
+      "text": "Speaker 7: there was the first leg I would say, of the"
+    },
+    {
+      "start": 714.44,
+      "end": 718.36,
+      "text": "Speaker 7: data center opportunity, and you know, there's some concern about"
+    },
+    {
+      "start": 718.4,
+      "end": 720.8,
+      "text": "Speaker 7: maybe we've done too much too fast, but the reality"
+    },
+    {
+      "start": 720.96,
+      "end": 723.96,
+      "text": "Speaker 7: is looking ahead, what's happening is we're transitioning from the"
+    },
+    {
+      "start": 724.08,
+      "end": 727.2,
+      "text": "Speaker 7: use of chatbots, the conversational commerce to the use of"
+    },
+    {
+      "start": 727.32,
+      "end": 732.08,
+      "text": "Speaker 7: agentic AI and workflow automation. And what that does is"
+    },
+    {
+      "start": 732.12,
+      "end": 736.28,
+      "text": "Speaker 7: it's likely to drive much more token consumption over the"
+    },
+    {
+      "start": 736.32,
+      "end": 738.24,
+      "text": "Speaker 7: next few years and that's going to require a whole"
+    },
+    {
+      "start": 738.24,
+      "end": 740.88,
+      "text": "Speaker 7: lot of compute. So the next phase of the data"
+    },
+    {
+      "start": 740.88,
+      "end": 744.6,
+      "text": "Speaker 7: center build out has to support this move to agentic AI."
+    },
+    {
+      "start": 745.12,
+      "end": 748.36,
+      "text": "Speaker 7: So we're absolutely looking at data centers. We have several"
+    },
+    {
+      "start": 748.4,
+      "end": 752.64,
+      "text": "Speaker 7: portfolio companies in the space, and you know, they're seeing"
+    },
+    {
+      "start": 752.76,
+      "end": 755.84,
+      "text": "Speaker 7: very strong appetites for their compute capacity."
+    },
+    {
+      "start": 755.92,
+      "end": 758.16,
+      "text": "Speaker 2: Partner Group is out of Switzerland. You've got to handle"
+    },
+    {
+      "start": 758.16,
+      "end": 759.92,
+      "text": "Speaker 2: on continental Europe because you have to go over there"
+    },
+    {
+      "start": 759.96,
+      "end": 764.04,
+      "text": "Speaker 2: and speak to people about American exceptionalism. Do they still"
+    },
+    {
+      "start": 764.08,
+      "end": 766.84,
+      "text": "Speaker 2: want to buy American after all we've been through with"
+    },
+    {
+      "start": 766.92,
+      "end": 767.96,
+      "text": "Speaker 2: the president in the war."
+    },
+    {
+      "start": 768.28,
+      "end": 771.239,
+      "text": "Speaker 7: Yes, the answer is yes. And look, you know there's"
+    },
+    {
+      "start": 771.28,
+      "end": 774.04,
+      "text": "Speaker 7: been a kind of an evolution there, but absolutely, And"
+    },
+    {
+      "start": 774.08,
+      "end": 776.64,
+      "text": "Speaker 7: I was in Europe recently and look, when you think"
+    },
+    {
+      "start": 776.679,
+      "end": 781.16,
+      "text": "Speaker 7: about Europe, you've got extremely depressed consumer confidence, you have"
+    },
+    {
+      "start": 781.28,
+      "end": 784.84,
+      "text": "Speaker 7: sluggish consumer spending. You have the ECB that hiked rates"
+    },
+    {
+      "start": 784.96,
+      "end": 788.12,
+      "text": "Speaker 7: presumably or arguably they shouldn't have. You know, you don't"
+    },
+    {
+      "start": 788.12,
+      "end": 790.92,
+      "text": "Speaker 7: have the cap X momentum, you don't have the support"
+    },
+    {
+      "start": 791.0,
+      "end": 794.079,
+      "text": "Speaker 7: of corporate tax rates. And then if you flip all"
+    },
+    {
+      "start": 794.12,
+      "end": 796.199,
+      "text": "Speaker 7: of that around and look at to the United States."
+    },
+    {
+      "start": 796.28,
+      "end": 799.48,
+      "text": "Speaker 7: We've checked all those boxes. So I think that's why"
+    },
+    {
+      "start": 799.559,
+      "end": 803.359,
+      "text": "Speaker 7: whether in Europe, whether you're Asian Asian investor, you continue"
+    },
+    {
+      "start": 803.4,
+      "end": 806.48,
+      "text": "Speaker 7: to look to the United States, not for the political"
+    },
+    {
+      "start": 806.6,
+      "end": 809.84,
+      "text": "Speaker 7: backdrop that we have, but for the economic backdrop that"
+    },
+    {
+      "start": 809.84,
+      "end": 810.12,
+      "text": "Speaker 7: we have."
+    },
+    {
+      "start": 811.24,
+      "end": 813.16,
+      "text": "Speaker 5: What are we doing with emerging markets here, because that's"
+    },
+    {
+      "start": 813.2,
+      "end": 815.8389999999999,
+      "text": "Speaker 5: been a play really for the last I don't know,"
+    },
+    {
+      "start": 815.84,
+      "end": 817.88,
+      "text": "Speaker 5: a couple of years. Your merging markets have done very well."
+    },
+    {
+      "start": 818.52,
+      "end": 822.48,
+      "text": "Speaker 7: Yeah, I think some parts of emerging markets are quite interesting."
+    },
+    {
+      "start": 822.76,
+      "end": 826.08,
+      "text": "Speaker 7: And you know, let's let's kind of extend the AI"
+    },
+    {
+      "start": 826.52,
+      "end": 829.28,
+      "text": "Speaker 7: trade to Asia for example, and it was also recently"
+    },
+    {
+      "start": 829.32,
+      "end": 831.599,
+      "text": "Speaker 7: in Asian you know, you look around and sixty or"
+    },
+    {
+      "start": 831.64,
+      "end": 834.6,
+      "text": "Speaker 7: seventy percent of what we need to actually build out"
+    },
+    {
+      "start": 834.64,
+      "end": 838.04,
+      "text": "Speaker 7: AI infrastructure is manufactured right there in Asia, whether it's"
+    },
+    {
+      "start": 838.16,
+      "end": 841.6,
+      "text": "Speaker 7: you know, data center chips where, whether it's servers, you know,"
+    },
+    {
+      "start": 841.64,
+      "end": 844.8,
+      "text": "Speaker 7: whether it's all the components. So so I like emerging"
+    },
+    {
+      "start": 844.88,
+      "end": 848.92,
+      "text": "Speaker 7: markets that are enabling that tech trade. Then selectively, you know,"
+    },
+    {
+      "start": 849.04,
+      "end": 851.92,
+      "text": "Speaker 7: I wouldn't say that you just invest in all emergent markets,"
+    },
+    {
+      "start": 851.92,
+      "end": 854.92,
+      "text": "Speaker 7: but if you can identify a theme. For example, we"
+    },
+    {
+      "start": 854.96,
+      "end": 857.24,
+      "text": "Speaker 7: have invested in a company in Brazil which is a"
+    },
+    {
+      "start": 857.32,
+      "end": 860.56,
+      "text": "Speaker 7: fintech company, because it's what scaling in fintech is not"
+    },
+    {
+      "start": 860.68,
+      "end": 861.68,
+      "text": "Speaker 7: just a US story."
+    },
+    {
+      "start": 861.92,
+      "end": 865.04,
+      "text": "Speaker 2: I don't care when you say you're in Europe, Are"
+    },
+    {
+      "start": 865.04,
+      "end": 867.64,
+      "text": "Speaker 2: you really talking about lining up? And Angelina's on the"
+    },
+    {
+      "start": 867.72,
+      "end": 870.44,
+      "text": "Speaker 2: root of Rivilee for that chocolate. Is that what we're"
+    },
+    {
+      "start": 870.48,
+      "end": 871.28,
+      "text": "Speaker 2: really talking about?"
+    },
+    {
+      "start": 871.32,
+      "end": 875.04,
+      "text": "Speaker 7: No, I'm not lining up there, but is absolutely easy."
+    },
+    {
+      "start": 876.16,
+      "end": 878.4,
+      "text": "Speaker 2: Do we predict that Europe's going to have a huge summer."
+    },
+    {
+      "start": 878.88,
+      "end": 883.2,
+      "text": "Speaker 2: I'd like some guests coming down, maybe the fair competition and."
+    },
+    {
+      "start": 883.32,
+      "end": 885.24,
+      "text": "Speaker 6: Go into parts of Europe."
+    },
+    {
+      "start": 887.0,
+      "end": 889.6,
+      "text": "Speaker 2: Parts. What does Kirby do this morning at United? His"
+    },
+    {
+      "start": 889.68,
+      "end": 893.08,
+      "text": "Speaker 2: head must be spinners? Fine, All good, all good, and"
+    },
+    {
+      "start": 893.12,
+      "end": 895.52,
+      "text": "Speaker 2: as as you're anam. Also, thank you so much and"
+    },
+    {
+      "start": 895.6,
+      "end": 899.44,
+      "text": "Speaker 2: congratulations on an important call for the last twelve months, Scuria."
+    },
+    {
+      "start": 900.84,
+      "end": 905.04,
+      "text": "Speaker 2: Stay with us. More from Bloomberg Surveillance coming up after this."
+    },
+    {
+      "start": 912.28,
+      "end": 915.84,
+      "text": "Speaker 1: You're listening to the Bloomberg Surveillance podcast. Catch us Live"
+    },
+    {
+      "start": 915.92,
+      "end": 919.08,
+      "text": "Speaker 1: weekday afternoons from seven to ten am Eastern Listen on"
+    },
+    {
+      "start": 919.16,
+      "end": 922.84,
+      "text": "Speaker 1: Applecarplay and Android Otto with the Bloomberg Business app, or"
+    },
+    {
+      "start": 922.96,
+      "end": 924.68,
+      "text": "Speaker 1: watch us live on YouTube."
+    },
+    {
+      "start": 925.24,
+      "end": 927.56,
+      "text": "Speaker 2: Julie bial has been more than patient. We extended that"
+    },
+    {
+      "start": 927.6,
+      "end": 930.28,
+      "text": "Speaker 2: discussion because Sweeny was trying to get pass into the"
+    },
+    {
+      "start": 930.32,
+      "end": 933.88,
+      "text": "Speaker 2: city hall areas from the Comptroller features of sixty eight"
+    },
+    {
+      "start": 934.84,
+      "end": 938.12,
+      "text": "Speaker 2: Nancy Cup and now dancing in further one point six percent."
+    },
+    {
+      "start": 938.52,
+      "end": 941.36,
+      "text": "Speaker 2: Julie feel's wonderful with a very different perspective with Kane"
+    },
+    {
+      "start": 941.36,
+      "end": 945.239,
+      "text": "Speaker 2: Anderson at Rodney, Julie, how do you deploy new cash"
+    },
+    {
+      "start": 945.36,
+      "end": 946.0,
+      "text": "Speaker 2: this morning?"
+    },
+    {
+      "start": 947.64,
+      "end": 949.48,
+      "text": "Speaker 8: I think that right now you really have to be"
+    },
+    {
+      "start": 949.56,
+      "end": 951.52,
+      "text": "Speaker 8: if you're in small and MidCap, you really have to"
+    },
+    {
+      "start": 951.52,
+      "end": 952.8,
+      "text": "Speaker 8: be thinking about quality."
+    },
+    {
+      "start": 953.2,
+      "end": 955.88,
+      "text": "Speaker 3: The low quality to high quality."
+    },
+    {
+      "start": 955.6,
+      "end": 958.76,
+      "text": "Speaker 8: Is kind of a pretty extreme levels right now, and"
+    },
+    {
+      "start": 958.8,
+      "end": 960.96,
+      "text": "Speaker 8: so I think it's a good opportunity to be able"
+    },
+    {
+      "start": 960.96,
+      "end": 964.4,
+      "text": "Speaker 8: to buy nice things for cheap. Normally we don't get"
+    },
+    {
+      "start": 964.4,
+      "end": 967.04,
+      "text": "Speaker 8: to have these things, these opportunities to buy things at"
+    },
+    {
+      "start": 967.04,
+      "end": 970.12,
+      "text": "Speaker 8: better prices, and so that's pretty attractive for us right now."
+    },
+    {
+      "start": 971.0,
+      "end": 973.68,
+      "text": "Speaker 5: What did you hear from our new FED chair yesterday"
+    },
+    {
+      "start": 973.8,
+      "end": 976.04,
+      "text": "Speaker 5: and did that change kind of how you're thinking about"
+    },
+    {
+      "start": 976.08,
+      "end": 977.08,
+      "text": "Speaker 5: asset allocation?"
+    },
+    {
+      "start": 978.32,
+      "end": 980.92,
+      "text": "Speaker 3: I think, you know, it didn't really change very much."
+    },
+    {
+      "start": 981.08,
+      "end": 983.24,
+      "text": "Speaker 3: I think that what we heard was less."
+    },
+    {
+      "start": 983.04,
+      "end": 986.32,
+      "text": "Speaker 8: Which is an interesting dynamic for most of us, as"
+    },
+    {
+      "start": 986.8,
+      "end": 991.12,
+      "text": "Speaker 8: the trend has really been towards more disclosure, more words, more."
+    },
+    {
+      "start": 990.92,
+      "end": 991.92,
+      "text": "Speaker 3: Graphs, more charts."
+    },
+    {
+      "start": 991.96,
+      "end": 995.04,
+      "text": "Speaker 8: And I think that this kind of austerity of words"
+    },
+    {
+      "start": 995.12,
+      "end": 997.84,
+      "text": "Speaker 8: is probably a positive thing for markets, because I think"
+    },
+    {
+      "start": 997.92,
+      "end": 999.72,
+      "text": "Speaker 8: a lot of that can create a lot of noise,"
+    },
+    {
+      "start": 999.76,
+      "end": 1002.52,
+      "text": "Speaker 8: and what really is driving most of the decision making"
+    },
+    {
+      "start": 1002.6,
+      "end": 1004.96,
+      "text": "Speaker 8: is the data that we can all see. So I"
+    },
+    {
+      "start": 1005.0,
+      "end": 1008.2,
+      "text": "Speaker 8: think it's an interesting posture. I think reducing the balance"
+    },
+    {
+      "start": 1008.24,
+      "end": 1011.4,
+      "text": "Speaker 8: sheet is probably a positive thing, particularly if it gives"
+    },
+    {
+      "start": 1011.48,
+      "end": 1014.48,
+      "text": "Speaker 8: us the opportunity if we do get into a stressful"
+    },
+    {
+      "start": 1014.48,
+      "end": 1016.28,
+      "text": "Speaker 8: situation in the markets."
+    },
+    {
+      "start": 1016.16,
+      "end": 1017.8,
+      "text": "Speaker 3: To be able to add more liquidity."
+    },
+    {
+      "start": 1017.88,
+      "end": 1021.76,
+      "text": "Speaker 8: So I think I agree, and I'm the hawkish tone"
+    },
+    {
+      "start": 1021.88,
+      "end": 1024.879,
+      "text": "Speaker 8: really shouldn't be surprising anyone. That was really the movement"
+    },
+    {
+      "start": 1024.92,
+      "end": 1027.44,
+      "text": "Speaker 8: and direction that we were going in. So I think"
+    },
+    {
+      "start": 1027.44,
+      "end": 1029.84,
+      "text": "Speaker 8: it's kind of in line with most people's expectations."
+    },
+    {
+      "start": 1031.04,
+      "end": 1036.76,
+      "text": "Speaker 5: Where are you the stocks, bonds, commodities, alternatives, How are"
+    },
+    {
+      "start": 1036.76,
+      "end": 1038.32,
+      "text": "Speaker 5: you thinking about allocation these days?"
+    },
+    {
+      "start": 1040.08,
+      "end": 1043.48,
+      "text": "Speaker 8: I think that when you are looking at a broader portfolio,"
+    },
+    {
+      "start": 1043.88,
+      "end": 1046.48,
+      "text": "Speaker 8: the balance of it is really important. I think we"
+    },
+    {
+      "start": 1046.6,
+      "end": 1050.88,
+      "text": "Speaker 8: continue on the equity side to struggle in part because"
+    },
+    {
+      "start": 1051.0,
+      "end": 1053.92,
+      "text": "Speaker 8: credit looks pretty good. Parts of credit look really good."
+    },
+    {
+      "start": 1054.24,
+      "end": 1056.479,
+      "text": "Speaker 8: But I do think that we have to be really"
+    },
+    {
+      "start": 1056.64,
+      "end": 1061.48,
+      "text": "Speaker 8: mindful of quality, the importance of making sure that you're"
+    },
+    {
+      "start": 1061.52,
+      "end": 1064.72,
+      "text": "Speaker 8: exposed to businesses that have the really strong cashlows and"
+    },
+    {
+      "start": 1064.76,
+      "end": 1067.8,
+      "text": "Speaker 8: that can withstand higher interest rates if that should happen."
+    },
+    {
+      "start": 1068.04,
+      "end": 1069.56,
+      "text": "Speaker 3: I think it's pretty important, right."
+    },
+    {
+      "start": 1069.56,
+      "end": 1071.44,
+      "text": "Speaker 8: I wouldn't want to be in a position where we're"
+    },
+    {
+      "start": 1071.8,
+      "end": 1075.32,
+      "text": "Speaker 8: significantly overlevered. And when we think about the AI trade,"
+    },
+    {
+      "start": 1075.72,
+      "end": 1078.56,
+      "text": "Speaker 8: now that we've moved past this point where everything was"
+    },
+    {
+      "start": 1078.6,
+      "end": 1081.2,
+      "text": "Speaker 8: funded with free cash flows, so need to worry. Now"
+    },
+    {
+      "start": 1081.24,
+      "end": 1083.56,
+      "text": "Speaker 8: there's a lot more debt, Now there's a lot more equity."
+    },
+    {
+      "start": 1083.84,
+      "end": 1086.68,
+      "text": "Speaker 8: I think that that creates an important movement towards thinking"
+    },
+    {
+      "start": 1086.68,
+      "end": 1089.52,
+      "text": "Speaker 8: about fundamentals and earnings, not just growth."
+    },
+    {
+      "start": 1090.0,
+      "end": 1092.96,
+      "text": "Speaker 2: What does the East Coast not get about the world"
+    },
+    {
+      "start": 1092.96,
+      "end": 1094.76,
+      "text": "Speaker 2: of Julie Bale. I mean, you look out at the"
+    },
+    {
+      "start": 1094.76,
+      "end": 1098.08,
+      "text": "Speaker 2: West Coast and I think for so many psychologically, it's"
+    },
+    {
+      "start": 1098.16,
+      "end": 1100.919,
+      "text": "Speaker 2: just really different at Julia. I mean, does this the"
+    },
+    {
+      "start": 1100.96,
+      "end": 1104.119,
+      "text": "Speaker 2: whole tech thing, Does it just to have a permanence"
+    },
+    {
+      "start": 1104.16,
+      "end": 1107.359,
+      "text": "Speaker 2: to you? Like you're not worried about a cyclic ending"
+    },
+    {
+      "start": 1107.44,
+      "end": 1109.48,
+      "text": "Speaker 2: of it? No?"
+    },
+    {
+      "start": 1109.68,
+      "end": 1112.56,
+      "text": "Speaker 3: I mean, look I was. I'm French originally, so."
+    },
+    {
+      "start": 1112.52,
+      "end": 1116.119,
+      "text": "Speaker 8: I worry about literally everything that's just that's a lifestyle"
+    },
+    {
+      "start": 1116.2,
+      "end": 1119.64,
+      "text": "Speaker 8: for me, that's like a personality trade. And I think,"
+    },
+    {
+      "start": 1119.64,
+      "end": 1123.48,
+      "text": "Speaker 8: actually that's why I've been relatively successful. But no, I"
+    },
+    {
+      "start": 1123.52,
+      "end": 1127.919,
+      "text": "Speaker 8: think that what I really believe is that the opportunities"
+    },
+    {
+      "start": 1127.96,
+      "end": 1130.84,
+      "text": "Speaker 8: that we're being presented in AI to me look wonderful."
+    },
+    {
+      "start": 1130.88,
+      "end": 1133.6,
+      "text": "Speaker 8: They look really positive, and they look like they can"
+    },
+    {
+      "start": 1133.64,
+      "end": 1136.36,
+      "text": "Speaker 8: be really profound in terms of the nature and quality"
+    },
+    {
+      "start": 1136.359,
+      "end": 1140.32,
+      "text": "Speaker 8: of work. But they're complicated and they're not without their"
+    },
+    {
+      "start": 1140.359,
+      "end": 1143.96,
+      "text": "Speaker 8: own costs. So while I'm really enthusiastic and excited about"
+    },
+    {
+      "start": 1143.96,
+      "end": 1146.719,
+      "text": "Speaker 8: AI for the very long term and the potential it"
+    },
+    {
+      "start": 1146.76,
+      "end": 1149.2,
+      "text": "Speaker 8: has to unlock things in healthcare and all the stuff"
+    },
+    {
+      "start": 1149.24,
+      "end": 1151.76,
+      "text": "Speaker 8: that they tell us is super important, what is a"
+    },
+    {
+      "start": 1151.8,
+      "end": 1154.88,
+      "text": "Speaker 8: little bit different about this build out from a Capex"
+    },
+    {
+      "start": 1154.96,
+      "end": 1158.24,
+      "text": "Speaker 8: standpoint is that what we're building and what we're spending"
+    },
+    {
+      "start": 1158.28,
+      "end": 1161.24,
+      "text": "Speaker 8: a lot of money on has a depreciation and a"
+    },
+    {
+      "start": 1161.4,
+      "end": 1164.4,
+      "text": "Speaker 8: utility that's much shorter than things like the big tech"
+    },
+    {
+      "start": 1164.64,
+      "end": 1167.32,
+      "text": "Speaker 8: you know, the big buildous that we had in telecom,"
+    },
+    {
+      "start": 1167.68,
+      "end": 1170.8,
+      "text": "Speaker 8: in railroads, et cetera. That's that creates a little bit"
+    },
+    {
+      "start": 1170.8,
+      "end": 1173.32,
+      "text": "Speaker 8: of a different dynamic in terms of the pressure to"
+    },
+    {
+      "start": 1173.44,
+      "end": 1176.04,
+      "text": "Speaker 8: create returns in the here and now, and I think"
+    },
+    {
+      "start": 1176.08,
+      "end": 1178.64,
+      "text": "Speaker 8: that that's something that's a little bit different than other"
+    },
+    {
+      "start": 1179.119,
+      "end": 1180.52,
+      "text": "Speaker 8: Capex cycles we've had."
+    },
+    {
+      "start": 1181.44,
+      "end": 1183.72,
+      "text": "Speaker 5: Julie, how about US versus non US? We did have"
+    },
+    {
+      "start": 1183.76,
+      "end": 1186.92,
+      "text": "Speaker 5: a rotation I don't know, late last year early this year,"
+    },
+    {
+      "start": 1186.92,
+      "end": 1189.119,
+      "text": "Speaker 5: but it seemed like that's reversed a little bit. How"
+    },
+    {
+      "start": 1189.119,
+      "end": 1189.8,
+      "text": "Speaker 5: do you think about it?"
+    },
+    {
+      "start": 1190.72,
+      "end": 1193.36,
+      "text": "Speaker 8: I think that we saw a lot of valuation opportunities,"
+    },
+    {
+      "start": 1193.4,
+      "end": 1195.2,
+      "text": "Speaker 8: particularly outside the US."
+    },
+    {
+      "start": 1195.28,
+      "end": 1196.76,
+      "text": "Speaker 3: It had gotten pretty extreme."
+    },
+    {
+      "start": 1196.84,
+      "end": 1200.119,
+      "text": "Speaker 8: How overbought the US looked, and so I think that"
+    },
+    {
+      "start": 1200.2,
+      "end": 1203.36,
+      "text": "Speaker 8: broadly speaking, things look more in balance to me now"
+    },
+    {
+      "start": 1203.359,
+      "end": 1206.6,
+      "text": "Speaker 8: where you don't see the depth of the value that"
+    },
+    {
+      "start": 1206.72,
+      "end": 1209.64,
+      "text": "Speaker 8: is being that we could really find as particularly in Europe,"
+    },
+    {
+      "start": 1209.76,
+      "end": 1213.24,
+      "text": "Speaker 8: it's not quite as compelling to me now, particularly when"
+    },
+    {
+      "start": 1213.28,
+      "end": 1215.2,
+      "text": "Speaker 8: you think about the growth opportunities that."
+    },
+    {
+      "start": 1215.24,
+      "end": 1217.56,
+      "text": "Speaker 3: Really feel like they're being unlocked in the US."
+    },
+    {
+      "start": 1218.119,
+      "end": 1219.72,
+      "text": "Speaker 8: But I do think you want to have a certain"
+    },
+    {
+      "start": 1219.72,
+      "end": 1223.24,
+      "text": "Speaker 8: amount of balance, right because if our economy is over"
+    },
+    {
+      "start": 1223.4,
+      "end": 1227.08,
+      "text": "Speaker 8: levered to AI, and there is some vulnerability to that,"
+    },
+    {
+      "start": 1227.28,
+      "end": 1230.52,
+      "text": "Speaker 8: right anytime you're dependent on a single theme. So I"
+    },
+    {
+      "start": 1230.56,
+      "end": 1233.4,
+      "text": "Speaker 8: think that having a little bit of exposure internationally makes"
+    },
+    {
+      "start": 1233.44,
+      "end": 1236.08,
+      "text": "Speaker 8: sense because it is a little bit less leverage to"
+    },
+    {
+      "start": 1236.16,
+      "end": 1237.879,
+      "text": "Speaker 8: certain of the AI themes."
+    },
+    {
+      "start": 1238.119,
+      "end": 1240.52,
+      "text": "Speaker 2: Julie, thank you so much. Julie bial so much. Are"
+    },
+    {
+      "start": 1240.56,
+      "end": 1242.52,
+      "text": "Speaker 2: you going to be watching France a rock? I mean,"
+    },
+    {
+      "start": 1242.64,
+      "end": 1243.64,
+      "text": "Speaker 2: is that what we're learning?"
+    },
+    {
+      "start": 1244.96,
+      "end": 1246.919,
+      "text": "Speaker 3: Of course? Gotta do it, Gotta do it."
+    },
+    {
+      "start": 1246.96,
+      "end": 1249.2,
+      "text": "Speaker 2: I think it's on Monday. Julie Biale, thank you so much."
+    },
+    {
+      "start": 1249.84,
+      "end": 1252.16,
+      "text": "Speaker 2: Respecting France out there, and you can't say enough about"
+    },
+    {
+      "start": 1252.16,
+      "end": 1256.24,
+      "text": "Speaker 2: her at work on market strategy. Stay with us. More"
+    },
+    {
+      "start": 1256.359,
+      "end": 1259.28,
+      "text": "Speaker 2: from Bloomberg Surveillance coming up after this."
+    },
+    {
+      "start": 1266.52,
+      "end": 1270.08,
+      "text": "Speaker 1: You're listening to the Bloomberg Surveillance podcast Catch US Live"
+    },
+    {
+      "start": 1270.16,
+      "end": 1273.32,
+      "text": "Speaker 1: weekday afternoons from seven to ten am Eastern Listen on"
+    },
+    {
+      "start": 1273.4,
+      "end": 1277.04,
+      "text": "Speaker 1: Applecarplay and Android Otto with the Bloomberg Business app, or"
+    },
+    {
+      "start": 1277.2,
+      "end": 1278.72,
+      "text": "Speaker 1: watch US live on YouTube."
+    },
+    {
+      "start": 1278.88,
+      "end": 1282.76,
+      "text": "Speaker 2: Joining us now in an election effort. He's been doing"
+    },
+    {
+      "start": 1282.76,
+      "end": 1285.6,
+      "text": "Speaker 2: this for a long time. The fifth fourth Controller of"
+    },
+    {
+      "start": 1285.72,
+      "end": 1288.199,
+      "text": "Speaker 2: New York State. Tom, I want to talk about in"
+    },
+    {
+      "start": 1288.28,
+      "end": 1293.72,
+      "text": "Speaker 2: America completely removed from politics. What was it? It's seventeen"
+    },
+    {
+      "start": 1294.32,
+      "end": 1297.08,
+      "text": "Speaker 2: that said to you, I need to run for public office."
+    },
+    {
+      "start": 1298.52,
+      "end": 1301.8,
+      "text": "Speaker 9: Well, you know, I came of age in the late sixties,"
+    },
+    {
+      "start": 1301.8,
+      "end": 1304.919,
+      "text": "Speaker 9: early seventies, inspired by folks like Robert."
+    },
+    {
+      "start": 1304.72,
+      "end": 1305.56,
+      "text": "Speaker 6: Kennedy, Sr."
+    },
+    {
+      "start": 1306.24,
+      "end": 1308.24,
+      "text": "Speaker 9: And you know, it was a timeer, great division in"
+    },
+    {
+      "start": 1308.28,
+      "end": 1310.76,
+      "text": "Speaker 9: the country, a lot of issues, social issues, Vietnam War"
+    },
+    {
+      "start": 1310.8,
+      "end": 1311.359,
+      "text": "Speaker 9: and so on."
+    },
+    {
+      "start": 1311.52,
+      "end": 1314.919,
+      "text": "Speaker 6: Eighteen year old vote just came in actually that I"
+    },
+    {
+      "start": 1314.92,
+      "end": 1315.8,
+      "text": "Speaker 6: could vote, and."
+    },
+    {
+      "start": 1315.76,
+      "end": 1317.44,
+      "text": "Speaker 9: I said, you know what, I want to be part"
+    },
+    {
+      "start": 1317.48,
+      "end": 1319.84,
+      "text": "Speaker 9: of making this world a little bit better."
+    },
+    {
+      "start": 1320.04,
+      "end": 1322.919,
+      "text": "Speaker 6: And I was very active in school issues. I went"
+    },
+    {
+      "start": 1322.96,
+      "end": 1323.84,
+      "text": "Speaker 6: to school board meetings."
+    },
+    {
+      "start": 1323.84,
+      "end": 1325.359,
+      "text": "Speaker 9: I didn't like some of the things I heard, so"
+    },
+    {
+      "start": 1325.44,
+      "end": 1328.0,
+      "text": "Speaker 9: I said, you know, i'll take my civic pleasensis and."
+    },
+    {
+      "start": 1327.96,
+      "end": 1329.28,
+      "text": "Speaker 6: I'll run for a school board."
+    },
+    {
+      "start": 1329.56,
+      "end": 1332.24,
+      "text": "Speaker 9: And I had that unique experience, Tom of my very"
+    },
+    {
+      "start": 1332.24,
+      "end": 1334.64,
+      "text": "Speaker 9: first vote was for myself and I won."
+    },
+    {
+      "start": 1334.84,
+      "end": 1336.84,
+      "text": "Speaker 6: So that kind very cool a path."
+    },
+    {
+      "start": 1336.96,
+      "end": 1339.52,
+      "text": "Speaker 2: Yeah, the big change, Tom DiNapoli, and you know, the"
+    },
+    {
+      "start": 1339.52,
+      "end": 1341.84,
+      "text": "Speaker 2: people running against you and your critics and all that"
+    },
+    {
+      "start": 1341.96,
+      "end": 1346.68,
+      "text": "Speaker 2: say there's nobody watching over allbody watching over state government."
+    },
+    {
+      "start": 1347.2,
+      "end": 1351.52,
+      "text": "Speaker 2: Back then there were tons of media coverage and local coverage,"
+    },
+    {
+      "start": 1351.52,
+      "end": 1355.32,
+      "text": "Speaker 2: and that now is a dearth of local coverage. Is"
+    },
+    {
+      "start": 1355.359,
+      "end": 1359.48,
+      "text": "Speaker 2: there scrutiny on our state processes now that you've been"
+    },
+    {
+      "start": 1359.52,
+      "end": 1360.68,
+      "text": "Speaker 2: doing this for decades?"
+    },
+    {
+      "start": 1361.84,
+      "end": 1362.88,
+      "text": "Speaker 6: Well, it's an interesting point."
+    },
+    {
+      "start": 1362.88,
+      "end": 1365.28,
+      "text": "Speaker 9: You know, there's no doubt when you go to the"
+    },
+    {
+      "start": 1365.4,
+      "end": 1369.36,
+      "text": "Speaker 9: LCA area, the Legislative correspondence area in the state capitol,"
+    },
+    {
+      "start": 1369.68,
+      "end": 1371.8,
+      "text": "Speaker 9: it's probably got about half of the folks there that"
+    },
+    {
+      "start": 1372.359,
+      "end": 1374.16,
+      "text": "Speaker 9: they were there when I first started in the State"
+    },
+    {
+      "start": 1374.16,
+      "end": 1375.44,
+      "text": "Speaker 9: Assembly a number of years ago."
+    },
+    {
+      "start": 1375.96,
+      "end": 1378.2,
+      "text": "Speaker 6: So and you see the coverage just generally."
+    },
+    {
+      "start": 1377.92,
+      "end": 1381.72,
+      "text": "Speaker 9: Shrinking for many of our you know, mainstream newspapers and"
+    },
+    {
+      "start": 1381.8,
+      "end": 1385.359,
+      "text": "Speaker 9: radio and TV. So more press attention would be helpful."
+    },
+    {
+      "start": 1385.48,
+      "end": 1388.52,
+      "text": "Speaker 9: But certainly in terms of our role, our oversight role,"
+    },
+    {
+      "start": 1388.6,
+      "end": 1394.32,
+      "text": "Speaker 9: the ordered authority overseeing state finances, the controller's tradition continues."
+    },
+    {
+      "start": 1394.4,
+      "end": 1398.8,
+      "text": "Speaker 9: So you know, keep in mind we don't have any"
+    },
+    {
+      "start": 1398.88,
+      "end": 1402.56,
+      "text": "Speaker 9: enforcement power. We don't order the governor of the legislature"
+    },
+    {
+      "start": 1402.6,
+      "end": 1405.84,
+      "text": "Speaker 9: what to do. We can only comment on state fiscal practices,"
+    },
+    {
+      "start": 1405.84,
+      "end": 1410.04,
+      "text": "Speaker 9: on debt practices, on spending on covering wasteboard for ud"
+    },
+    {
+      "start": 1410.08,
+      "end": 1413.72,
+      "text": "Speaker 9: and abuse. We do that, and of course I always"
+    },
+    {
+      "start": 1413.72,
+      "end": 1416.72,
+      "text": "Speaker 9: appreciate it when the press pays attention to what we're doing."
+    },
+    {
+      "start": 1417.119,
+      "end": 1419.08,
+      "text": "Speaker 9: But I think with everything going on in the world"
+    },
+    {
+      "start": 1419.119,
+      "end": 1423.6,
+      "text": "Speaker 9: these days, unfortunately, state politics generally does not get attention"
+    },
+    {
+      "start": 1423.76,
+      "end": 1424.28,
+      "text": "Speaker 9: that it should."
+    },
+    {
+      "start": 1424.92,
+      "end": 1427.96,
+      "text": "Speaker 5: Tom, What do you believe is the key issue for"
+    },
+    {
+      "start": 1429.0,
+      "end": 1431.48,
+      "text": "Speaker 5: voters to focus in on as they think about the controller?"
+    },
+    {
+      "start": 1433.2,
+      "end": 1434.84,
+      "text": "Speaker 6: Well, you know, there are a couple."
+    },
+    {
+      "start": 1434.88,
+      "end": 1438.72,
+      "text": "Speaker 9: I mean, one of the obvious ones is the responsibility"
+    },
+    {
+      "start": 1438.76,
+      "end": 1441.879,
+      "text": "Speaker 9: of overseeing the state pension fund. That is the fund"
+    },
+    {
+      "start": 1441.88,
+      "end": 1445.359,
+      "text": "Speaker 9: that is our investment fund to provide retirement security for"
+    },
+    {
+      "start": 1445.4,
+      "end": 1448.52,
+      "text": "Speaker 9: the one point three million New Yorkers public workers all"
+    },
+    {
+      "start": 1448.56,
+      "end": 1451.72,
+      "text": "Speaker 9: across the state. And keeping that fund safely secure and"
+    },
+    {
+      "start": 1451.8,
+      "end": 1454.44,
+      "text": "Speaker 9: keeping politics out of managing the fund, I think is"
+    },
+    {
+      "start": 1454.48,
+      "end": 1458.76,
+      "text": "Speaker 9: a very important responsibility, I think in terms of audits"
+    },
+    {
+      "start": 1458.8,
+      "end": 1463.24,
+      "text": "Speaker 9: and reports and analyzing state spending priorities. Recognizing that we're"
+    },
+    {
+      "start": 1463.359,
+      "end": 1466.12,
+      "text": "Speaker 9: going through a time of a change relationship between Washington"
+    },
+    {
+      "start": 1466.16,
+      "end": 1468.12,
+      "text": "Speaker 9: and the states, so particularly a state like New York"
+    },
+    {
+      "start": 1468.6,
+      "end": 1471.12,
+      "text": "Speaker 9: really starting to feel the effects of the Trump agenda,"
+    },
+    {
+      "start": 1471.2,
+      "end": 1475.359,
+      "text": "Speaker 9: the significant constant, especially in healthcare, nutrition programs, education, and"
+    },
+    {
+      "start": 1475.359,
+      "end": 1478.719,
+      "text": "Speaker 9: so on. So having a controller who could help identify"
+    },
+    {
+      "start": 1479.68,
+      "end": 1481.76,
+      "text": "Speaker 9: what those trends are and how we need to respond"
+    },
+    {
+      "start": 1481.8,
+      "end": 1484.359,
+      "text": "Speaker 9: to them, I think is a very important responsibility. And"
+    },
+    {
+      "start": 1484.44,
+      "end": 1488.0,
+      "text": "Speaker 9: of course, as always, when taxpayer money is being wasted,"
+    },
+    {
+      "start": 1488.24,
+      "end": 1490.2,
+      "text": "Speaker 9: you want a controller who could point out ways to."
+    },
+    {
+      "start": 1490.119,
+      "end": 1490.8,
+      "text": "Speaker 6: Be more efficient."
+    },
+    {
+      "start": 1490.8,
+      "end": 1494.04,
+      "text": "Speaker 9: And in the worst case where people are stealing public dollars,"
+    },
+    {
+      "start": 1494.08,
+      "end": 1497.32,
+      "text": "Speaker 9: and that happens too often, we've had a laser focus."
+    },
+    {
+      "start": 1497.359,
+      "end": 1502.08,
+      "text": "Speaker 9: Will our investigator unit saving taxpayers money by getting restitution"
+    },
+    {
+      "start": 1502.2,
+      "end": 1504.16,
+      "text": "Speaker 9: from those who steal from the state. So a lot"
+    },
+    {
+      "start": 1504.16,
+      "end": 1506.28,
+      "text": "Speaker 9: of important issues this office is involved with."
+    },
+    {
+      "start": 1506.56,
+      "end": 1509.32,
+      "text": "Speaker 2: Can I ask you Bloomberg surveillance question, I think we"
+    },
+    {
+      "start": 1509.8,
+      "end": 1512.04,
+      "text": "Speaker 2: can go down. We're here with Tom to Napoli. I"
+    },
+    {
+      "start": 1512.08,
+      "end": 1513.8,
+      "text": "Speaker 2: look at your pension fund and we had some of"
+    },
+    {
+      "start": 1513.84,
+      "end": 1516.639,
+      "text": "Speaker 2: the others in running for comptroller, and there you know"
+    },
+    {
+      "start": 1516.68,
+      "end": 1519.679,
+      "text": "Speaker 2: their critic is critical of active and passive management, and"
+    },
+    {
+      "start": 1519.76,
+      "end": 1523.32,
+      "text": "Speaker 2: that I'm looking at a three months return near ten percent,"
+    },
+    {
+      "start": 1523.84,
+      "end": 1525.84,
+      "text": "Speaker 2: five year a little bit lower. There was a small"
+    },
+    {
+      "start": 1525.88,
+      "end": 1528.96,
+      "text": "Speaker 2: matter of COVID, but I got a ten year annualized"
+    },
+    {
+      "start": 1529.0,
+      "end": 1534.08,
+      "text": "Speaker 2: return three hundred beeps above nominal GDP. My statistic is"
+    },
+    {
+      "start": 1534.119,
+      "end": 1537.399,
+      "text": "Speaker 2: eight point nine four percent. Mister Danapoli, maybe you have"
+    },
+    {
+      "start": 1537.44,
+      "end": 1541.8,
+      "text": "Speaker 2: a better statistic. How are you accomplishing that? How are"
+    },
+    {
+      "start": 1541.8,
+      "end": 1546.64,
+      "text": "Speaker 2: you getting a nominal GDP plus three hundred basis point return."
+    },
+    {
+      "start": 1548.0,
+      "end": 1551.64,
+      "text": "Speaker 6: We have small professional management of the fund. We have"
+    },
+    {
+      "start": 1551.88,
+      "end": 1553.68,
+      "text": "Speaker 6: a strong belief in diversification."
+    },
+    {
+      "start": 1553.8,
+      "end": 1556.0,
+      "text": "Speaker 9: As part of our asset allocation, we do a series"
+    },
+    {
+      "start": 1556.08,
+      "end": 1559.56,
+      "text": "Speaker 9: review every five years. The biggest part of the portfolio"
+    },
+    {
+      "start": 1559.88,
+      "end": 1563.48,
+      "text": "Speaker 9: is in public equity. Much of that is passively invested"
+    },
+    {
+      "start": 1563.48,
+      "end": 1566.0,
+      "text": "Speaker 9: through index funds, and then we have a little less"
+    },
+    {
+      "start": 1566.0,
+      "end": 1568.679,
+      "text": "Speaker 9: than twenty five percent in fixed income. It is in"
+    },
+    {
+      "start": 1568.72,
+      "end": 1571.4,
+      "text": "Speaker 9: the alternatives in the private markets, you know, real estate,"
+    },
+    {
+      "start": 1571.4,
+      "end": 1577.24,
+      "text": "Speaker 9: private equity, infrastructure, credit where not completely correlated to what's"
+    },
+    {
+      "start": 1577.24,
+      "end": 1578.44,
+      "text": "Speaker 9: happening in the public markets."
+    },
+    {
+      "start": 1578.44,
+      "end": 1580.359,
+      "text": "Speaker 6: That we try to have that."
+    },
+    {
+      "start": 1580.359,
+      "end": 1583.64,
+      "text": "Speaker 9: Balance so that even with the volatility that sometimes obviously"
+    },
+    {
+      "start": 1583.64,
+      "end": 1586.52,
+      "text": "Speaker 9: occurs in the public markets, we could still be steady."
+    },
+    {
+      "start": 1586.72,
+      "end": 1588.92,
+      "text": "Speaker 9: I would say one of the things Tom, we have"
+    },
+    {
+      "start": 1588.96,
+      "end": 1591.04,
+      "text": "Speaker 9: a very conservative assumed rate of return."
+    },
+    {
+      "start": 1591.119,
+      "end": 1593.08,
+      "text": "Speaker 6: So a long term assume rate of return is five"
+    },
+    {
+      "start": 1593.119,
+      "end": 1595.84,
+      "text": "Speaker 6: point nine percent. Most public pension funds."
+    },
+    {
+      "start": 1595.6,
+      "end": 1597.32,
+      "text": "Speaker 9: Are much higher than that. I think we're one of"
+    },
+    {
+      "start": 1597.359,
+      "end": 1600.48,
+      "text": "Speaker 9: only three funds that are below six percent. So we're"
+    },
+    {
+      "start": 1600.56,
+      "end": 1605.92,
+      "text": "Speaker 9: more conservative. So therefore we don't take as much risk"
+    },
+    {
+      "start": 1606.0,
+      "end": 1609.72,
+      "text": "Speaker 9: to chase a higher kind of return assumption. And I"
+    },
+    {
+      "start": 1609.72,
+      "end": 1614.52,
+      "text": "Speaker 9: think that's been our strength diversification conservative firm goal and"
+    },
+    {
+      "start": 1614.64,
+      "end": 1615.48,
+      "text": "Speaker 9: it's worked for us."
+    },
+    {
+      "start": 1616.04,
+      "end": 1616.28,
+      "text": "Speaker 3: Tom."
+    },
+    {
+      "start": 1616.32,
+      "end": 1620.48,
+      "text": "Speaker 5: You mentioned the changing relationship with Washington. Get us a"
+    },
+    {
+      "start": 1620.52,
+      "end": 1623.4,
+      "text": "Speaker 5: sense of how that's really changed with a second Trump"
+    },
+    {
+      "start": 1623.44,
+      "end": 1625.879,
+      "text": "Speaker 5: administration from a dollars and cents perspective."
+    },
+    {
+      "start": 1626.68,
+      "end": 1628.879,
+      "text": "Speaker 9: Well, I mean, just looking at the big beautiful, the"
+    },
+    {
+      "start": 1628.92,
+      "end": 1631.399,
+      "text": "Speaker 9: big ugly, as I would prefer to call it. You know,"
+    },
+    {
+      "start": 1631.44,
+      "end": 1633.879,
+      "text": "Speaker 9: you're talking about probably the next couple of years thirteen"
+    },
+    {
+      "start": 1633.96,
+      "end": 1636.479,
+      "text": "Speaker 9: fourteen billion dollars in health care cuts to the meth"
+    },
+    {
+      "start": 1636.6,
+      "end": 1641.76,
+      "text": "Speaker 9: paid program. That certainly it's a very expensive program, right"
+    },
+    {
+      "start": 1641.88,
+      "end": 1643.44,
+      "text": "Speaker 9: been growing part of the state budget. A lot of"
+    },
+    {
+      "start": 1643.44,
+      "end": 1646.52,
+      "text": "Speaker 9: people depend on that program, so it certainly has an"
+    },
+    {
+      "start": 1646.52,
+      "end": 1649.72,
+      "text": "Speaker 9: impact on our state finances, particularly because we're trying to"
+    },
+    {
+      "start": 1649.76,
+      "end": 1652.68,
+      "text": "Speaker 9: figure out how to box stop for those that will"
+    },
+    {
+      "start": 1652.72,
+      "end": 1655.92,
+      "text": "Speaker 9: lose health insurance coverage. You know, New York State went"
+    },
+    {
+      "start": 1655.96,
+      "end": 1657.72,
+      "text": "Speaker 9: from oh, a few years ago, about ten percent of"
+    },
+    {
+      "start": 1657.72,
+      "end": 1660.72,
+      "text": "Speaker 9: our population without health insurance coverage to less than five percent."
+    },
+    {
+      "start": 1661.44,
+      "end": 1663.44,
+      "text": "Speaker 9: Now that folks are going to be moved off of MINTIC,"
+    },
+    {
+      "start": 1663.68,
+      "end": 1665.84,
+      "text": "Speaker 9: some of them will be able to get coverage in"
+    },
+    {
+      "start": 1665.88,
+      "end": 1668.119,
+      "text": "Speaker 9: the marketplace, some of them won't. Doesn't mean they're not"
+    },
+    {
+      "start": 1668.119,
+      "end": 1669.72,
+      "text": "Speaker 9: going to get health care. We'll probably have to pay"
+    },
+    {
+      "start": 1669.72,
+      "end": 1673.0,
+      "text": "Speaker 9: for it through the charity pools. So you know, these cuts,"
+    },
+    {
+      "start": 1673.08,
+      "end": 1675.68,
+      "text": "Speaker 9: which you know may at one level sound like we're"
+    },
+    {
+      "start": 1675.68,
+      "end": 1677.6,
+      "text": "Speaker 9: saving money in the long run is going to cost"
+    },
+    {
+      "start": 1677.64,
+      "end": 1680.0,
+      "text": "Speaker 9: it so and hurt people as well."
+    },
+    {
+      "start": 1680.359,
+      "end": 1680.56,
+      "text": "Speaker 3: You know."
+    },
+    {
+      "start": 1680.68,
+      "end": 1683.159,
+      "text": "Speaker 2: Time one final question. You know, we talked to Governor"
+    },
+    {
+      "start": 1683.24,
+      "end": 1685.0,
+      "text": "Speaker 2: Lamon in Connecticut every once in a while, and I"
+    },
+    {
+      "start": 1685.04,
+      "end": 1687.919,
+      "text": "Speaker 2: would suggest that mister Lamont grew up a little different"
+    },
+    {
+      "start": 1687.92,
+      "end": 1691.52,
+      "text": "Speaker 2: than mister Danapoli. But both of you are facing this"
+    },
+    {
+      "start": 1691.68,
+      "end": 1696.0,
+      "text": "Speaker 2: presumed migration out of New York State to Florida, Texas"
+    },
+    {
+      "start": 1696.24,
+      "end": 1700.96,
+      "text": "Speaker 2: and four other jurisdictions. How does New York State stop"
+    },
+    {
+      "start": 1701.24,
+      "end": 1705.68,
+      "text": "Speaker 2: the movement to these other areas. What's the DiNapoli formula"
+    },
+    {
+      "start": 1706.2,
+      "end": 1707.88,
+      "text": "Speaker 2: to keep New York State strong?"
+    },
+    {
+      "start": 1709.0,
+      "end": 1711.359,
+      "text": "Speaker 9: Well, it's an important question, and I think you need"
+    },
+    {
+      "start": 1711.4,
+      "end": 1713.04,
+      "text": "Speaker 9: to keep in mind when we look at the taxpayer"
+    },
+    {
+      "start": 1713.08,
+      "end": 1716.76,
+      "text": "Speaker 9: migration numbers. You're right, there isn't out migration, but it's"
+    },
+    {
+      "start": 1716.76,
+      "end": 1719.6,
+      "text": "Speaker 9: not as severe as the critics say. Are we losing"
+    },
+    {
+      "start": 1719.64,
+      "end": 1722.4,
+      "text": "Speaker 9: some folks at the upper end because of tax policy, Yeah,"
+    },
+    {
+      "start": 1722.44,
+      "end": 1725.96,
+      "text": "Speaker 9: a bit. What is a bigger issue is the affordability"
+    },
+    {
+      "start": 1726.04,
+      "end": 1729.0,
+      "text": "Speaker 9: question for people at the middle and lower end. So"
+    },
+    {
+      "start": 1729.28,
+      "end": 1731.32,
+      "text": "Speaker 9: I think it does get back to, you know, some"
+    },
+    {
+      "start": 1731.4,
+      "end": 1734.28,
+      "text": "Speaker 9: big macro national issues that we don't necessarily control. But"
+    },
+    {
+      "start": 1734.76,
+      "end": 1737.0,
+      "text": "Speaker 9: that's why it's important terms of the controller's role to"
+    },
+    {
+      "start": 1737.04,
+      "end": 1739.52,
+      "text": "Speaker 9: make sure that we are not wasting any taxpayer money."
+    },
+    {
+      "start": 1739.56,
+      "end": 1740.2,
+      "text": "Speaker 6: Number one."
+    },
+    {
+      "start": 1740.32,
+      "end": 1742.56,
+      "text": "Speaker 9: Number two, many people still want to come to New"
+    },
+    {
+      "start": 1742.64,
+      "end": 1745.2,
+      "text": "Speaker 9: York and that's where the issues of quality of life,"
+    },
+    {
+      "start": 1745.4,
+      "end": 1748.76,
+      "text": "Speaker 9: public safety, particularly for folks in the city, access to"
+    },
+    {
+      "start": 1748.84,
+      "end": 1752.24,
+      "text": "Speaker 9: public transit that's reliable, all of those issues I think"
+    },
+    {
+      "start": 1752.32,
+      "end": 1755.52,
+      "text": "Speaker 9: become very very important in terms of keeping people here."
+    },
+    {
+      "start": 1755.92,
+      "end": 1757.8,
+      "text": "Speaker 9: But when you look at New York City, this is"
+    },
+    {
+      "start": 1757.84,
+      "end": 1760.0,
+      "text": "Speaker 9: the place where young creative people want to be and"
+    },
+    {
+      "start": 1760.04,
+      "end": 1762.2,
+      "text": "Speaker 9: I don't think that's changed. So we need to we"
+    },
+    {
+      "start": 1762.24,
+      "end": 1764.16,
+      "text": "Speaker 9: need to lean into those kinds of strengths."
+    },
+    {
+      "start": 1764.28,
+      "end": 1766.12,
+      "text": "Speaker 2: Time to happily, Thank you so much. Love to get"
+    },
+    {
+      "start": 1766.12,
+      "end": 1769.08,
+      "text": "Speaker 2: you in the studio here at some point Lexington at"
+    },
+    {
+      "start": 1769.12,
+      "end": 1773.52,
+      "text": "Speaker 2: fifty ninth Street. Mister Danapoli is the New York State Controller."
+    },
+    {
+      "start": 1773.88,
+      "end": 1778.719,
+      "text": "Speaker 1: This is the Bloomberg Surveillance podcast, available on Apple, Spotify,"
+    },
+    {
+      "start": 1778.84,
+      "end": 1783.12,
+      "text": "Speaker 1: and anywhere else you get your podcasts. Listen live each weekday,"
+    },
+    {
+      "start": 1783.24,
+      "end": 1786.48,
+      "text": "Speaker 1: seven to ten am Easter and on Bloomberg dot Com,"
+    },
+    {
+      "start": 1786.6,
+      "end": 1790.44,
+      "text": "Speaker 1: the iHeartRadio app, tune In, and the Bloomberg Business app."
+    },
+    {
+      "start": 1790.72,
+      "end": 1793.84,
+      "text": "Speaker 1: You can also watch us live every weekday on YouTube"
+    },
+    {
+      "start": 1794.12,
+      "end": 1796.16,
+      "text": "Speaker 1: and always on the Bloomberg terminal."
+    },
+    {
+      "start": 1800.04,
+      "end": 1801.6,
+      "text": "Speaker 2: The PA"
+    }
+  ]
+}

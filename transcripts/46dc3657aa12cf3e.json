@@ -1,0 +1,6546 @@
+{
+  "id": "46dc3657aa12cf3e",
+  "show": "Odd Lots",
+  "theme": "Macro & Rates",
+  "title": "Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3b7f6933-fbbc-4e6e-a0de-b46d00ff8723/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+  "source": "feed",
+  "duration": 3960.2,
+  "segments": [
+    {
+      "start": 2.72,
+      "end": 15.84,
+      "text": "Speaker 1: Bloomberg Audio Studios, Podcasts, Radio News."
+    },
+    {
+      "start": 18.6,
+      "end": 22.12,
+      "text": "Speaker 2: Hello and welcome to another episode of The Odd Lots Podcast."
+    },
+    {
+      "start": 22.16,
+      "end": 23.64,
+      "text": "Speaker 3: I'm Joe Wisenthal and."
+    },
+    {
+      "start": 23.6,
+      "end": 24.56,
+      "text": "Speaker 4: I'm Tracy Alloway."
+    },
+    {
+      "start": 24.64,
+      "end": 25.4,
+      "text": "Speaker 3: Tracy, I don't know."
+    },
+    {
+      "start": 25.44,
+      "end": 27.72,
+      "text": "Speaker 2: I think our listeners like it, but you know, a"
+    },
+    {
+      "start": 27.76,
+      "end": 29.8,
+      "text": "Speaker 2: lot of our episodes are about AI these days."
+    },
+    {
+      "start": 29.84,
+      "end": 32.36,
+      "text": "Speaker 3: But to be fair to us, it's a pretty big topic."
+    },
+    {
+      "start": 32.44,
+      "end": 34.839,
+      "text": "Speaker 4: That's all anyone wants to talk about. Whenever we go"
+    },
+    {
+      "start": 34.92,
+      "end": 37.479,
+      "text": "Speaker 4: to dinners with sources and things and people who are"
+    },
+    {
+      "start": 37.479,
+      "end": 40.159,
+      "text": "Speaker 4: not even directly in the tech industry. You know, they"
+    },
+    {
+      "start": 40.24,
+      "end": 42.6,
+      "text": "Speaker 4: might be in market, they might be in policy and economics."
+    },
+    {
+      "start": 42.64,
+      "end": 44.44,
+      "text": "Speaker 4: All they want to talk about is AI, and then"
+    },
+    {
+      "start": 44.479,
+      "end": 48.84,
+      "text": "Speaker 4: inevitably the conversation veers into very sci fi territory where"
+    },
+    {
+      "start": 48.84,
+      "end": 51.96,
+      "text": "Speaker 4: we all start talking about the human extinction scenario. And"
+    },
+    {
+      "start": 52.0,
+      "end": 53.32,
+      "text": "Speaker 4: that's just the norm nowadays."
+    },
+    {
+      "start": 53.36,
+      "end": 54.08,
+      "text": "Speaker 3: I know, it's so weird."
+    },
+    {
+      "start": 54.24,
+      "end": 57.32,
+      "text": "Speaker 2: You know, we're in Hong Kong recently, and when we"
+    },
+    {
+      "start": 57.32,
+      "end": 60.2,
+      "text": "Speaker 2: were in Hong Kong, this was before it was an"
+    },
+    {
+      "start": 60.32,
+      "end": 61.92,
+      "text": "Speaker 2: that there was a deal to open the straight before"
+    },
+    {
+      "start": 61.96,
+      "end": 65.24,
+      "text": "Speaker 2: moves in East Asia was considered to be like ground"
+    },
+    {
+      "start": 65.319,
+      "end": 67.16,
+      "text": "Speaker 2: zero for where the effects should be felt of the"
+    },
+    {
+      "start": 67.2,
+      "end": 69.48,
+      "text": "Speaker 2: oil and jet fuel crisis, et cetera. And we're at"
+    },
+    {
+      "start": 69.52,
+      "end": 71.64,
+      "text": "Speaker 2: this dinner of business people, like, they were not talking"
+    },
+    {
+      "start": 71.64,
+      "end": 72.559,
+      "text": "Speaker 2: about that at all."
+    },
+    {
+      "start": 73.44,
+      "end": 74.68,
+      "text": "Speaker 4: The terminator scenario."
+    },
+    {
+      "start": 74.72,
+      "end": 77.68,
+      "text": "Speaker 2: They just want to talk about token consumption and all"
+    },
+    {
+      "start": 77.72,
+      "end": 80.0,
+      "text": "Speaker 2: of these things like here we are. It's like, wait,"
+    },
+    {
+      "start": 80.03999999999999,
+      "end": 81.72,
+      "text": "Speaker 2: aren't you guys supposed to be like under all kinds"
+    },
+    {
+      "start": 81.76,
+      "end": 82.679,
+      "text": "Speaker 2: of jet fuel stress."
+    },
+    {
+      "start": 82.88,
+      "end": 84.64,
+      "text": "Speaker 3: So this is our defense for."
+    },
+    {
+      "start": 84.64,
+      "end": 88.76,
+      "text": "Speaker 4: The AI episodes. I think it's fair. I will also"
+    },
+    {
+      "start": 88.84,
+      "end": 91.64,
+      "text": "Speaker 4: say when we did the quiz in Hong Kong, we"
+    },
+    {
+      "start": 91.72,
+      "end": 94.36,
+      "text": "Speaker 4: had a bunch of different teams with very creative names."
+    },
+    {
+      "start": 94.4,
+      "end": 96.24000000000001,
+      "text": "Speaker 3: Separated value human capital."
+    },
+    {
+      "start": 96.319,
+      "end": 96.92,
+      "text": "Speaker 4: That was a great one."
+    },
+    {
+      "start": 96.959,
+      "end": 98.4,
+      "text": "Speaker 3: They won the turn, they won the question."
+    },
+    {
+      "start": 98.12,
+      "end": 100.959,
+      "text": "Speaker 4: They won proving that there is value in human capital."
+    },
+    {
+      "start": 101.0,
+      "end": 103.72,
+      "text": "Speaker 4: But did you see that one of the tables was"
+    },
+    {
+      "start": 103.8,
+      "end": 109.36,
+      "text": "Speaker 4: called fable thirteen thirteen fable thirteen, which was very topical"
+    },
+    {
+      "start": 109.44,
+      "end": 110.36,
+      "text": "Speaker 4: at that moment."
+    },
+    {
+      "start": 110.2,
+      "end": 110.75999999999999,
+      "text": "Speaker 3: Very topical."
+    },
+    {
+      "start": 110.8,
+      "end": 113.64,
+      "text": "Speaker 2: We're recording this on June seventeenth, and of course there's"
+    },
+    {
+      "start": 113.64,
+      "end": 116.47999999999999,
+      "text": "Speaker 2: a lot in the news these days, but things move"
+    },
+    {
+      "start": 116.56,
+      "end": 119.8,
+      "text": "Speaker 2: very fascinating. Even if there weren't governmental controversies and all"
+    },
+    {
+      "start": 119.84,
+      "end": 122.0,
+      "text": "Speaker 2: that stuff, you would have to mark the data and"
+    },
+    {
+      "start": 122.08,
+      "end": 125.12,
+      "text": "Speaker 2: AI because of how fast breakthroughs happen. But you know,"
+    },
+    {
+      "start": 125.16,
+      "end": 127.0,
+      "text": "Speaker 2: as you said, like AI sort of feels like the"
+    },
+    {
+      "start": 127.0,
+      "end": 129.52,
+      "text": "Speaker 2: most important thing than anything else. But that's a very"
+    },
+    {
+      "start": 129.56,
+      "end": 132.08,
+      "text": "Speaker 2: conventional wisdom. It was not always conventional wisdom. And I"
+    },
+    {
+      "start": 132.08,
+      "end": 132.799,
+      "text": "Speaker 2: have a DM."
+    },
+    {
+      "start": 132.96,
+      "end": 135.799,
+      "text": "Speaker 3: I know you're not supposed to share dms for public,"
+    },
+    {
+      "start": 135.8,
+      "end": 136.64,
+      "text": "Speaker 3: but I have a DM."
+    },
+    {
+      "start": 136.56,
+      "end": 137.36,
+      "text": "Speaker 4: Got the receipts."
+    },
+    {
+      "start": 137.4,
+      "end": 138.2,
+      "text": "Speaker 3: I have the receipts."
+    },
+    {
+      "start": 138.28,
+      "end": 141.16,
+      "text": "Speaker 2: August second, twenty sixteen, and I DM A colleague Astad,"
+    },
+    {
+      "start": 141.16,
+      "end": 143.76,
+      "text": "Speaker 2: did you leave Bloomberg? He says, yes, I'll be announcing"
+    },
+    {
+      "start": 143.8,
+      "end": 146.12,
+      "text": "Speaker 2: publicly in a bit. Take a couple of months to"
+    },
+    {
+      "start": 146.16,
+      "end": 149.0,
+      "text": "Speaker 2: study a properly than leaving journalism to do something else."
+    },
+    {
+      "start": 149.04,
+      "end": 150.07999999999998,
+      "text": "Speaker 2: Still connected to AI."
+    },
+    {
+      "start": 150.72,
+      "end": 152.28,
+      "text": "Speaker 3: Being our Google reporter was a great thing."
+    },
+    {
+      "start": 152.32,
+      "end": 154.28,
+      "text": "Speaker 4: They're still connected to AIG."
+    },
+    {
+      "start": 154.52,
+      "end": 158.44,
+      "text": "Speaker 2: Then the final August second, twenty sixteen, but AI is"
+    },
+    {
+      "start": 158.48,
+      "end": 160.72,
+      "text": "Speaker 2: more important than anything else, so I felt best to"
+    },
+    {
+      "start": 160.72,
+      "end": 161.16,
+      "text": "Speaker 2: sort of."
+    },
+    {
+      "start": 161.04,
+      "end": 163.28,
+      "text": "Speaker 3: Optimize for that above all those. So then I just said, well,"
+    },
+    {
+      "start": 163.28,
+      "end": 163.76,
+      "text": "Speaker 3: I'm good luck."
+    },
+    {
+      "start": 163.84,
+      "end": 166.96,
+      "text": "Speaker 4: This is someone who truly learned from their sources, unlike"
+    },
+    {
+      "start": 167.12,
+      "end": 169.64,
+      "text": "Speaker 4: us who remain in the podcasting industry."
+    },
+    {
+      "start": 169.91899999999998,
+      "end": 173.0,
+      "text": "Speaker 2: So anyway, that person who would that DM was a"
+    },
+    {
+      "start": 173.04,
+      "end": 175.959,
+      "text": "Speaker 2: former Bloomberg reporter Jack Clark, who's one of our guests today."
+    },
+    {
+      "start": 176.0,
+      "end": 178.4,
+      "text": "Speaker 2: He is the head of Public Benefit and co founder"
+    },
+    {
+      "start": 178.48,
+      "end": 182.079,
+      "text": "Speaker 2: of Anthropic years later, and also Peter McCrory, head of"
+    },
+    {
+      "start": 182.12,
+      "end": 185.36,
+      "text": "Speaker 2: economics at Anthropics, So too perfect guests to talk about"
+    },
+    {
+      "start": 185.4,
+      "end": 188.76,
+      "text": "Speaker 2: all the things and AI these days. So Peter and Jack,"
+    },
+    {
+      "start": 188.8,
+      "end": 190.32,
+      "text": "Speaker 2: thank you so much for coming on the podcast."
+    },
+    {
+      "start": 190.36,
+      "end": 192.72,
+      "text": "Speaker 5: Great to be back. I'm glad I optimized my life."
+    },
+    {
+      "start": 192.8,
+      "end": 195.96,
+      "text": "Speaker 2: Yeah, well to one of the calls of the century."
+    },
+    {
+      "start": 196.0,
+      "end": 199.04,
+      "text": "Speaker 2: So what I actually start with that it's easy to"
+    },
+    {
+      "start": 199.07999999999998,
+      "end": 200.88,
+      "text": "Speaker 2: say in twenty twenty six there, yeah, will be a"
+    },
+    {
+      "start": 200.88,
+      "end": 203.44,
+      "text": "Speaker 2: big deal. You called your shot, you got it right,"
+    },
+    {
+      "start": 203.6,
+      "end": 207.2,
+      "text": "Speaker 2: twenty sixteen. What did you see in August twenty sixteen,"
+    },
+    {
+      "start": 207.28,
+      "end": 209.88,
+      "text": "Speaker 2: or presumably before They're like, oh, you know what, this"
+    },
+    {
+      "start": 210.12,
+      "end": 211.68,
+      "text": "Speaker 2: is the biggest story of our lives."
+    },
+    {
+      "start": 211.72,
+      "end": 214.24,
+      "text": "Speaker 5: So for two years when I was reporting at Bloomberg,"
+    },
+    {
+      "start": 214.32,
+      "end": 217.28,
+      "text": "Speaker 5: I wasted a lot of mister Bloomberg's printing by printing"
+    },
+    {
+      "start": 217.32,
+      "end": 221.0,
+      "text": "Speaker 5: out archive papers about AI research. And what I started"
+    },
+    {
+      "start": 221.0,
+      "end": 223.68,
+      "text": "Speaker 5: to do very Bloombergian thing is I started to make"
+    },
+    {
+      "start": 223.72,
+      "end": 228.36,
+      "text": "Speaker 5: graphs charting AI progress over time, measurements of things like"
+    },
+    {
+      "start": 228.4,
+      "end": 231.68,
+      "text": "Speaker 5: computer vision, measurements of things like the skill with which"
+    },
+    {
+      "start": 231.72,
+      "end": 235.24,
+      "text": "Speaker 5: AI agents were able to compete and play ATARI games."
+    },
+    {
+      "start": 235.44,
+      "end": 237.48,
+      "text": "Speaker 5: And what I saw in these graphs was the beginning"
+    },
+    {
+      "start": 237.56,
+      "end": 240.52,
+      "text": "Speaker 5: of an exponential yeah, and it was everywhere, like if"
+    },
+    {
+      "start": 240.52,
+      "end": 243.8,
+      "text": "Speaker 5: you looked at vision or sound or video or gameplaying,"
+    },
+    {
+      "start": 243.8,
+      "end": 246.84,
+      "text": "Speaker 5: you saw the same trend. And it became obvious to"
+    },
+    {
+      "start": 246.88,
+      "end": 249.28,
+      "text": "Speaker 5: me that this was a general purpose technology if it"
+    },
+    {
+      "start": 249.32,
+      "end": 252.12,
+      "text": "Speaker 5: was right at a start. My one bone that I"
+    },
+    {
+      "start": 252.24,
+      "end": 254.0,
+      "text": "Speaker 5: have to pick with Bloomberg, which I which I'm going"
+    },
+    {
+      "start": 254.04,
+      "end": 256.56,
+      "text": "Speaker 5: to use my privilege just mentioned on air. I never"
+    },
+    {
+      "start": 256.6,
+      "end": 259.799,
+      "text": "Speaker 5: got us to write a story saying Navidia was being"
+    },
+    {
+      "start": 259.92,
+      "end": 262.64,
+      "text": "Speaker 5: used in every single day research paper and I pitched"
+    },
+    {
+      "start": 262.64,
+      "end": 264.479,
+      "text": "Speaker 5: it and I failed to get it across the line"
+    },
+    {
+      "start": 264.48,
+      "end": 265.12,
+      "text": "Speaker 5: before I left."
+    },
+    {
+      "start": 265.52,
+      "end": 268.52,
+      "text": "Speaker 4: Man, I can just imagine you reading all these academic papers."
+    },
+    {
+      "start": 268.72,
+      "end": 275.4,
+      "text": "Speaker 4: Meanwhile the editor is like, we need the BF Yeah, okay,"
+    },
+    {
+      "start": 275.4,
+      "end": 278.76,
+      "text": "Speaker 4: And Peter, I'm very interested in you know, Anthropic. It's"
+    },
+    {
+      "start": 278.8,
+      "end": 281.28,
+      "text": "Speaker 4: a company and trying to make money, and yet it"
+    },
+    {
+      "start": 281.36,
+      "end": 285.88,
+      "text": "Speaker 4: has this economics lab. What's the idea behind having an"
+    },
+    {
+      "start": 285.92,
+      "end": 289.68,
+      "text": "Speaker 4: economics research body within a company that's developing this technology."
+    },
+    {
+      "start": 290.2,
+      "end": 292.24,
+      "text": "Speaker 6: So I mean I was late to the game and"
+    },
+    {
+      "start": 292.48,
+      "end": 295.719,
+      "text": "Speaker 6: joining I joined just a year ago, but I had."
+    },
+    {
+      "start": 295.72,
+      "end": 296.32,
+      "text": "Speaker 3: A year ago."
+    },
+    {
+      "start": 296.4,
+      "end": 298.56,
+      "text": "Speaker 2: People, well whatever, we all know about how much the"
+    },
+    {
+      "start": 298.56,
+      "end": 300.32,
+      "text": "Speaker 2: stock is a price of a year, but you're not"
+    },
+    {
+      "start": 300.96,
+      "end": 301.28,
+      "text": "Speaker 2: go on."
+    },
+    {
+      "start": 301.839,
+      "end": 304.4,
+      "text": "Speaker 6: I think what was very evident. So I'm an applied"
+    },
+    {
+      "start": 304.44,
+      "end": 308.04,
+      "text": "Speaker 6: macroeconomist by training and have tried to understand various types"
+    },
+    {
+      "start": 308.08,
+      "end": 310.64,
+      "text": "Speaker 6: of shocks throughout the economy. Part of what drew me"
+    },
+    {
+      "start": 310.68,
+      "end": 313.32,
+      "text": "Speaker 6: to Anthropic was it was evident to me last year"
+    },
+    {
+      "start": 313.64,
+      "end": 317.68,
+      "text": "Speaker 6: that they cared very deeply about not just advancing the technology,"
+    },
+    {
+      "start": 317.72,
+      "end": 320.479,
+      "text": "Speaker 6: but making sense of how it is set to reshape"
+    },
+    {
+      "start": 320.52,
+      "end": 324.2,
+      "text": "Speaker 6: the labor market, its impact on productivity, on growth, and"
+    },
+    {
+      "start": 324.4,
+      "end": 328.04,
+      "text": "Speaker 6: be willing to put evidence, data and research out into"
+    },
+    {
+      "start": 328.12,
+      "end": 333.0,
+      "text": "Speaker 6: the world that would be broadly beneficial and useful to society."
+    },
+    {
+      "start": 333.0,
+      "end": 335.28,
+      "text": "Speaker 6: And I thought, I want to be a part of"
+    },
+    {
+      "start": 335.36,
+      "end": 338.8,
+      "text": "Speaker 6: building that economic research program and do what I can"
+    },
+    {
+      "start": 339.0,
+      "end": 342.76,
+      "text": "Speaker 6: to provide tentative answers to the most pressing questions. We"
+    },
+    {
+      "start": 342.839,
+      "end": 345.64,
+      "text": "Speaker 6: might not always get it right, but ideally we're helping"
+    },
+    {
+      "start": 345.68,
+      "end": 347.2,
+      "text": "Speaker 6: society make sense of the change."
+    },
+    {
+      "start": 347.36,
+      "end": 349.88,
+      "text": "Speaker 2: The capabilities of the models and all kinds of things"
+    },
+    {
+      "start": 349.88,
+      "end": 354.839,
+      "text": "Speaker 2: are extraordinary, I mean just mind blowing every coding, copyright."
+    },
+    {
+      "start": 354.56,
+      "end": 355.48,
+      "text": "Speaker 3: All kinds of things."
+    },
+    {
+      "start": 356.0,
+      "end": 360.48,
+      "text": "Speaker 2: Actually, why in June twenty twenty six does life Field"
+    },
+    {
+      "start": 360.52,
+      "end": 363.44,
+      "text": "Speaker 2: maybe as normal as it does from an economic perspective?"
+    },
+    {
+      "start": 363.8,
+      "end": 366.44,
+      "text": "Speaker 6: This is a great question and one that I've been"
+    },
+    {
+      "start": 366.8,
+      "end": 369.56,
+      "text": "Speaker 6: wrestling with. I think there are a number of reasons"
+    },
+    {
+      "start": 369.56,
+      "end": 373.44,
+      "text": "Speaker 6: why you might think that the impact has not yet materialized. One,"
+    },
+    {
+      "start": 373.839,
+      "end": 376.76,
+      "text": "Speaker 6: the technology can advance, but it also then needs to"
+    },
+    {
+      "start": 376.8,
+      "end": 380.599,
+      "text": "Speaker 6: diffuse throughout the economy, and there can be bottlenecks from"
+    },
+    {
+      "start": 380.72,
+      "end": 384.4,
+      "text": "Speaker 6: moving from capabilities to actual deployment. We see that with"
+    },
+    {
+      "start": 384.52,
+      "end": 387.68,
+      "text": "Speaker 6: our enterprise customers. So if you want to automate biological"
+    },
+    {
+      "start": 387.72,
+      "end": 391.56,
+      "text": "Speaker 6: research or some other very complicated financial modeling task, you"
+    },
+    {
+      "start": 391.6,
+      "end": 394.36,
+      "text": "Speaker 6: need a lot of contextual information available to the model."
+    },
+    {
+      "start": 394.76,
+      "end": 398.12,
+      "text": "Speaker 6: If you don't have that contextual information, the capabilities alone"
+    },
+    {
+      "start": 398.2,
+      "end": 402.24,
+      "text": "Speaker 6: won't necessarily drive the impact. It also takes time for"
+    },
+    {
+      "start": 402.32,
+      "end": 405.4,
+      "text": "Speaker 6: people to just start using the tools, and so we're"
+    },
+    {
+      "start": 405.44,
+      "end": 409.2,
+      "text": "Speaker 6: still in the somewhat of the early stages. There two"
+    },
+    {
+      "start": 409.24,
+      "end": 411.4,
+      "text": "Speaker 6: places that I would be looking to see an impact."
+    },
+    {
+      "start": 411.68,
+      "end": 414.64,
+      "text": "Speaker 6: One is in terms of productivity growth. We've done some"
+    },
+    {
+      "start": 414.68,
+      "end": 417.08,
+      "text": "Speaker 6: research that points in the direction that this should be"
+    },
+    {
+      "start": 417.15999999999997,
+      "end": 421.719,
+      "text": "Speaker 6: large and consequential. Labor productivity growth has been strong throughout"
+    },
+    {
+      "start": 421.76,
+      "end": 425.279,
+      "text": "Speaker 6: the pandemic and has been sustained so far modestly."
+    },
+    {
+      "start": 425.36,
+      "end": 429.08,
+      "text": "Speaker 3: So we're not talking about like a you know, revolutionary."
+    },
+    {
+      "start": 428.32,
+      "end": 431.52,
+      "text": "Speaker 6: It's not, yeah, but you know, to get on an inflection,"
+    },
+    {
+      "start": 431.6,
+      "end": 434.16,
+      "text": "Speaker 6: you need to at least move a little bit. I"
+    },
+    {
+      "start": 434.16,
+      "end": 437.04,
+      "text": "Speaker 6: think maybe you're seeing some signs there on the labor market,"
+    },
+    {
+      "start": 437.16,
+      "end": 440.56,
+      "text": "Speaker 6: though the labor market isn't a reasonably healthy spot, and"
+    },
+    {
+      "start": 440.6,
+      "end": 443.48,
+      "text": "Speaker 6: I think it might be because it's primarily at so"
+    },
+    {
+      "start": 443.64,
+      "end": 447.96,
+      "text": "Speaker 6: far a labor augmenting skill bias. Technology not yet the"
+    },
+    {
+      "start": 448.04,
+      "end": 452.08,
+      "text": "Speaker 6: full sort of general purpose substitute for all of cognitive labor,"
+    },
+    {
+      "start": 452.12,
+      "end": 454.32,
+      "text": "Speaker 6: although perhaps that's the trajectory that we're."
+    },
+    {
+      "start": 454.15999999999997,
+      "end": 457.15999999999997,
+      "text": "Speaker 5: On, you know, for the size of AI and its capabilities."
+    },
+    {
+      "start": 457.2,
+      "end": 458.92,
+      "text": "Speaker 5: I was talking to Peter about this and he did"
+    },
+    {
+      "start": 458.96,
+      "end": 463.24,
+      "text": "Speaker 5: point out the economy very big, so it still takes"
+    },
+    {
+      "start": 463.24,
+      "end": 465.92,
+      "text": "Speaker 5: a lot to move it. I do think strange things"
+    },
+    {
+      "start": 465.92,
+      "end": 468.88,
+      "text": "Speaker 5: are starting to happen, at least inside the company. We"
+    },
+    {
+      "start": 469.0,
+      "end": 472.48,
+      "text": "Speaker 5: published research from the Anthropic Institute recently on this topic"
+    },
+    {
+      "start": 472.52,
+      "end": 476.6,
+      "text": "Speaker 5: called recursive Self Improvement, where it was inspired by me"
+    },
+    {
+      "start": 476.68,
+      "end": 479.76,
+      "text": "Speaker 5: going on paternity leave in November of last year and"
+    },
+    {
+      "start": 480.0,
+      "end": 483.16,
+      "text": "Speaker 5: coming back in February, and the entire company felt and"
+    },
+    {
+      "start": 483.2,
+      "end": 486.28,
+      "text": "Speaker 5: worked differently, and I assumed it was because models had"
+    },
+    {
+      "start": 486.28,
+      "end": 488.48,
+      "text": "Speaker 5: got better. And when we looked at the data, what"
+    },
+    {
+      "start": 488.52,
+      "end": 492.44,
+      "text": "Speaker 5: you saw was in twenty twenty six, engineers and Anthropic"
+    },
+    {
+      "start": 492.44,
+      "end": 495.48,
+      "text": "Speaker 5: are writing about eight times the amount of code than"
+    },
+    {
+      "start": 495.48,
+      "end": 498.48,
+      "text": "Speaker 5: they did in twenty twenty one through to twenty twenty four."
+    },
+    {
+      "start": 498.84,
+      "end": 501.64,
+      "text": "Speaker 5: And the line started last year with things like Opus"
+    },
+    {
+      "start": 501.68,
+      "end": 503.72,
+      "text": "Speaker 5: four to five and Opus four to six. Then it"
+    },
+    {
+      "start": 503.84,
+      "end": 506.76,
+      "text": "Speaker 5: really got going this year. And I have colleagues now"
+    },
+    {
+      "start": 506.8,
+      "end": 510.2,
+      "text": "Speaker 5: who don't program at all anymore. They just instruct many"
+    },
+    {
+      "start": 510.2,
+      "end": 512.32,
+      "text": "Speaker 5: many cored code agents to run around and do their"
+    },
+    {
+      "start": 512.36,
+      "end": 515.84,
+      "text": "Speaker 5: work for them. I can't reconcile that with the world"
+    },
+    {
+      "start": 515.96,
+      "end": 518.44,
+      "text": "Speaker 5: staying normal for long, but it's going to take a"
+    },
+    {
+      "start": 518.48,
+      "end": 520.68,
+      "text": "Speaker 5: while for that to diffuse into the world and change up."
+    },
+    {
+      "start": 520.84,
+      "end": 524.4,
+      "text": "Speaker 4: Yeah, we'll talk more about recursive self improvement. So this"
+    },
+    {
+      "start": 524.44,
+      "end": 528.8389999999999,
+      "text": "Speaker 4: is when models basically improve on themselves. So in terms"
+    },
+    {
+      "start": 528.84,
+      "end": 531.28,
+      "text": "Speaker 4: of the awkwardness of the current moment or the weirdness"
+    },
+    {
+      "start": 531.28,
+      "end": 534.36,
+      "text": "Speaker 4: of the current moment, you've talked about basically living through"
+    },
+    {
+      "start": 534.72,
+      "end": 538.08,
+      "text": "Speaker 4: the singularity and how strange it is. And you've also"
+    },
+    {
+      "start": 538.12,
+      "end": 542.88,
+      "text": "Speaker 4: described yourself as a technopessimist before. How do you square"
+    },
+    {
+      "start": 543.0,
+      "end": 546.76,
+      "text": "Speaker 4: that with working at Anthropic, which is making some of"
+    },
+    {
+      "start": 546.8,
+      "end": 549.8,
+      "text": "Speaker 4: these weird and potentially dangerous things actually happen."
+    },
+    {
+      "start": 549.92,
+      "end": 553.12,
+      "text": "Speaker 5: So by technological pessimist, I mean I thought the technology"
+    },
+    {
+      "start": 553.12,
+      "end": 555.48,
+      "text": "Speaker 5: would keep getting better, but I didn't think it would"
+    },
+    {
+      "start": 555.48,
+      "end": 558.08,
+      "text": "Speaker 5: get better in the maximalist sense that some of my"
+    },
+    {
+      "start": 558.16,
+      "end": 561.08,
+      "text": "Speaker 5: colleagues did. I didn't think that we would have, say,"
+    },
+    {
+      "start": 561.24,
+      "end": 563.92,
+      "text": "Speaker 5: functionally automated all of coding right now. I find that"
+    },
+    {
+      "start": 563.96,
+      "end": 567.24,
+      "text": "Speaker 5: actually like quite surprising. But basically, over the last few years,"
+    },
+    {
+      "start": 567.24,
+      "end": 569.72,
+      "text": "Speaker 5: and I worked at Opening Eye before and propic I"
+    },
+    {
+      "start": 569.84,
+      "end": 573.12,
+      "text": "Speaker 5: was just hit repeatedly over thehead with what computer scientist"
+    },
+    {
+      "start": 573.2,
+      "end": 576.199,
+      "text": "Speaker 5: Richard Sutton calls the bitter lesson, And the bitter lesson"
+    },
+    {
+      "start": 576.24,
+      "end": 579.16,
+      "text": "Speaker 5: is this concept that the more compute and resources we"
+    },
+    {
+      "start": 579.24,
+      "end": 583.24,
+      "text": "Speaker 5: dump into these relatively generic neural networks, the smarter they"
+    },
+    {
+      "start": 583.28,
+      "end": 587.0,
+      "text": "Speaker 5: get and the more emergent properties they have, and your"
+    },
+    {
+      "start": 587.08,
+      "end": 591.04,
+      "text": "Speaker 5: specialized system or your ability to be pessimistic about future"
+    },
+    {
+      "start": 591.08,
+      "end": 595.28,
+      "text": "Speaker 5: AI progress loses versus just scaling compute and scaling systems."
+    },
+    {
+      "start": 595.48,
+      "end": 598.0,
+      "text": "Speaker 2: This seems to him implications for the labor market, right,"
+    },
+    {
+      "start": 598.08,
+      "end": 601.92,
+      "text": "Speaker 2: because I think example the Bitter Lessons Private History of"
+    },
+    {
+      "start": 602.16,
+      "end": 604.92,
+      "text": "Speaker 2: AI chess, right where at one point they had grand"
+    },
+    {
+      "start": 604.96,
+      "end": 608.88,
+      "text": "Speaker 2: masters come in and teach the models how to play"
+    },
+    {
+      "start": 608.96,
+      "end": 612.52,
+      "text": "Speaker 2: chess and etc. Try to encode their wisdom, and it"
+    },
+    {
+      "start": 612.6,
+      "end": 614.199,
+      "text": "Speaker 2: turned out in the end that the best way to"
+    },
+    {
+      "start": 614.24,
+      "end": 617.88,
+      "text": "Speaker 2: get a chess engine really good is to just teach"
+    },
+    {
+      "start": 617.92,
+      "end": 620.04,
+      "text": "Speaker 2: the model, tell the model the rules of chess. Let's say,"
+    },
+    {
+      "start": 620.2,
+      "end": 622.68,
+      "text": "Speaker 2: go off and play a billion games and find optimal"
+    },
+    {
+      "start": 622.8,
+      "end": 626.0,
+      "text": "Speaker 2: chess without any human insight. The grand masters were not"
+    },
+    {
+      "start": 626.04,
+      "end": 628.72,
+      "text": "Speaker 2: necessary for that process at all, right, And so this"
+    },
+    {
+      "start": 628.8,
+      "end": 631.599,
+      "text": "Speaker 2: would imply to me like have significant implications for the"
+    },
+    {
+      "start": 631.64,
+      "end": 632.24,
+      "text": "Speaker 2: labor market."
+    },
+    {
+      "start": 632.4,
+      "end": 635.24,
+      "text": "Speaker 6: Yeah. I tend to think about this in sort of"
+    },
+    {
+      "start": 635.28,
+      "end": 639.04,
+      "text": "Speaker 6: three aspects of what composes a job. One is you"
+    },
+    {
+      "start": 639.08,
+      "end": 641.88,
+      "text": "Speaker 6: need to decide what to do and direct and delegate."
+    },
+    {
+      "start": 642.52,
+      "end": 645.96,
+      "text": "Speaker 6: You need to then do the actual implementation of the work,"
+    },
+    {
+      "start": 646.0,
+      "end": 647.64,
+      "text": "Speaker 6: and then you need to sort of evaluate or at"
+    },
+    {
+      "start": 647.72,
+      "end": 650.9590000000001,
+      "text": "Speaker 6: least set up systems that can evaluate. At least from"
+    },
+    {
+      "start": 650.96,
+      "end": 654.359,
+      "text": "Speaker 6: my perspective as an economist, this bitter lesson is materializing"
+    },
+    {
+      "start": 654.44,
+      "end": 658.16,
+      "text": "Speaker 6: in terms of very rapid advances in the implementation work"
+    },
+    {
+      "start": 658.2,
+      "end": 663.08,
+      "text": "Speaker 6: of what an economist does data running regressions, building models,"
+    },
+    {
+      "start": 663.2,
+      "end": 668.04,
+      "text": "Speaker 6: solving them using sort of contemporary solution techniques numerical methods."
+    },
+    {
+      "start": 668.72,
+      "end": 671.52,
+      "text": "Speaker 6: I definitely felt that personally with Opus four point five,"
+    },
+    {
+      "start": 671.64,
+      "end": 674.28,
+      "text": "Speaker 6: where I was for the first time able to just"
+    },
+    {
+      "start": 674.44,
+      "end": 677.88,
+      "text": "Speaker 6: delegate a very complex task. I had this very specific"
+    },
+    {
+      "start": 677.92,
+      "end": 682.16,
+      "text": "Speaker 6: research question trying to understand the cyclicality of hiring across"
+    },
+    {
+      "start": 682.2,
+      "end": 685.439,
+      "text": "Speaker 6: different occupations and how that relates to occupational exposure. That's"
+    },
+    {
+      "start": 685.48,
+      "end": 688.12,
+      "text": "Speaker 6: a mouthful. I gave that task to Claude, and Claude"
+    },
+    {
+      "start": 688.2,
+      "end": 690.64,
+      "text": "Speaker 6: was able to just iterate on it, and I could"
+    },
+    {
+      "start": 690.679,
+      "end": 693.4,
+      "text": "Speaker 6: redirect Claude in the same way that you might redirect"
+    },
+    {
+      "start": 693.64,
+      "end": 696.92,
+      "text": "Speaker 6: a grad student. And the big question that I have"
+    },
+    {
+      "start": 697.0,
+      "end": 699.2,
+      "text": "Speaker 6: in mind is, you know, at what point do the"
+    },
+    {
+      "start": 699.24,
+      "end": 702.8,
+      "text": "Speaker 6: boundaries at the direction setting stage, the research taste you"
+    },
+    {
+      "start": 702.88,
+      "end": 707.04,
+      "text": "Speaker 6: might call it, and will the models become sufficiently reliable."
+    },
+    {
+      "start": 706.559,
+      "end": 708.16,
+      "text": "Speaker 2: If I could just get in here, you know, I"
+    },
+    {
+      "start": 708.2,
+      "end": 712.0,
+      "text": "Speaker 2: just read the recent biography of the deep Mind founder."
+    },
+    {
+      "start": 712.32,
+      "end": 715.16,
+      "text": "Speaker 4: This is the Sebastian melody, Yeah, Like, is there going"
+    },
+    {
+      "start": 715.2,
+      "end": 716.96,
+      "text": "Speaker 4: to be a point where it's like, Okay, you have"
+    },
+    {
+      "start": 717.04,
+      "end": 720.6,
+      "text": "Speaker 4: some intuitions right about like what good economics research is."
+    },
+    {
+      "start": 720.84,
+      "end": 723.56,
+      "text": "Speaker 3: And often our intuitions are formed because we tell stories"
+    },
+    {
+      "start": 723.6,
+      "end": 724.319,
+      "text": "Speaker 3: and stuff like that."
+    },
+    {
+      "start": 724.92,
+      "end": 726.52,
+      "text": "Speaker 2: But is there going to be a point where you think,"
+    },
+    {
+      "start": 726.559,
+      "end": 730.36,
+      "text": "Speaker 2: like your intuitions will be unhelpful? And that because that's"
+    },
+    {
+      "start": 730.4,
+      "end": 732.719,
+      "text": "Speaker 2: sort of what I took away from the GO experience,"
+    },
+    {
+      "start": 733.04,
+      "end": 735.76,
+      "text": "Speaker 2: that the model got better once they stripped it of"
+    },
+    {
+      "start": 735.76,
+      "end": 738.6,
+      "text": "Speaker 2: the human games and the human bias, and that actually,"
+    },
+    {
+      "start": 738.8,
+      "end": 742.32,
+      "text": "Speaker 2: like the human intuition that sort of helps us understand, oh,"
+    },
+    {
+      "start": 742.44,
+      "end": 745.68,
+      "text": "Speaker 2: labor market rise, it creates inflationary pressure. These stories that"
+    },
+    {
+      "start": 745.72,
+      "end": 749.56,
+      "text": "Speaker 2: are very sort of intuitible end up impairing the model."
+    },
+    {
+      "start": 749.92,
+      "end": 752.08,
+      "text": "Speaker 2: Do you see that happening in say economics, where it's"
+    },
+    {
+      "start": 752.12,
+      "end": 754.2,
+      "text": "Speaker 2: like some of these stories that we tell forever, they're"
+    },
+    {
+      "start": 754.24,
+      "end": 758.52,
+      "text": "Speaker 2: not actually very helpful for an optimal economy understanding model."
+    },
+    {
+      "start": 758.64,
+      "end": 761.76,
+      "text": "Speaker 6: I expect that these models will soon have better intuitions"
+    },
+    {
+      "start": 761.8,
+      "end": 765.12,
+      "text": "Speaker 6: about how to do good economic research, and that there's"
+    },
+    {
+      "start": 765.16,
+      "end": 767.4,
+      "text": "Speaker 6: this big question of like at what point will we"
+    },
+    {
+      "start": 767.44,
+      "end": 771.24,
+      "text": "Speaker 6: be able to fully automate social science research. We've done"
+    },
+    {
+      "start": 771.28,
+      "end": 773.28,
+      "text": "Speaker 6: some work on this to try to understand how coding"
+    },
+    {
+      "start": 773.28,
+      "end": 776.52,
+      "text": "Speaker 6: agents are beginning to automate social science research, but I"
+    },
+    {
+      "start": 776.52,
+      "end": 778.72,
+      "text": "Speaker 6: don't think we're quite there yet, and I don't know"
+    },
+    {
+      "start": 778.76,
+      "end": 782.0,
+      "text": "Speaker 6: that'll be an exciting time for learning about the world."
+    },
+    {
+      "start": 782.48,
+      "end": 784.88,
+      "text": "Speaker 6: You know what that means for my job? I'm sort"
+    },
+    {
+      "start": 784.88,
+      "end": 786.319,
+      "text": "Speaker 6: of less entirely clear."
+    },
+    {
+      "start": 786.44,
+      "end": 788.96,
+      "text": "Speaker 5: Yeah, I think this is the big wild card in"
+    },
+    {
+      "start": 789.24,
+      "end": 793.04,
+      "text": "Speaker 5: future AI progress. If AI progress continues today, we are"
+    },
+    {
+      "start": 793.16,
+      "end": 796.12,
+      "text": "Speaker 5: likely to get technology that we'll be able to do"
+    },
+    {
+      "start": 796.16,
+      "end": 800.44,
+      "text": "Speaker 5: basically everything, but we will need people who have good instincts,"
+    },
+    {
+      "start": 800.44,
+      "end": 803.2,
+      "text": "Speaker 5: good intuitions, and good ideas to basically set the direction."
+    },
+    {
+      "start": 803.4,
+      "end": 805.12,
+      "text": "Speaker 5: And we see this today in a lot of a"
+    },
+    {
+      "start": 805.16,
+      "end": 807.6,
+      "text": "Speaker 5: lot of our own research, where you need, say an"
+    },
+    {
+      "start": 807.64,
+      "end": 811.4,
+      "text": "Speaker 5: AI safety researcher to give nine clawed agents for different"
+    },
+    {
+      "start": 811.44,
+      "end": 814.24,
+      "text": "Speaker 5: research areas to go and pursue, and then it's very effective."
+    },
+    {
+      "start": 814.6,
+      "end": 817.8,
+      "text": "Speaker 5: If that researcher doesn't give them the research directions, they"
+    },
+    {
+      "start": 818.32,
+      "end": 821.84,
+      "text": "Speaker 5: pursue relatively formulaic research directions and you have entropy collapse."
+    },
+    {
+      "start": 821.84,
+      "end": 823.88,
+      "text": "Speaker 5: You end up with just like boring research and doesn't"
+    },
+    {
+      "start": 823.88,
+      "end": 827.079,
+      "text": "Speaker 5: move the ball forward. At what point will AI systems"
+    },
+    {
+      "start": 827.16,
+      "end": 831.48,
+      "text": "Speaker 5: generate like heterodox insights and genuine creativity. We can't really"
+    },
+    {
+      "start": 831.52,
+      "end": 834.08,
+      "text": "Speaker 5: measure for that today, but what we have of as"
+    },
+    {
+      "start": 834.12,
+      "end": 838.08,
+      "text": "Speaker 5: symptoms of it, starting in experts like Peter, Experts like"
+    },
+    {
+      "start": 838.28,
+      "end": 841.76,
+      "text": "Speaker 5: colleagues in the fields of biology or mathematics or physics"
+    },
+    {
+      "start": 841.84,
+      "end": 845.92,
+      "text": "Speaker 5: outside of anthropic are all starting to be accelerated by AI."
+    },
+    {
+      "start": 846.08,
+      "end": 848.52,
+      "text": "Speaker 5: You know, Terry Taw probably one of the most famous"
+    },
+    {
+      "start": 848.679,
+      "end": 853.92,
+      "text": "Speaker 5: living mathematicians co creates math now with AI systems, and"
+    },
+    {
+      "start": 853.96,
+      "end": 855.8,
+      "text": "Speaker 5: so that that says to me that these things have"
+    },
+    {
+      "start": 855.88,
+      "end": 859.56,
+      "text": "Speaker 5: got there. They're tickling the dragon's tail of like creativity here."
+    },
+    {
+      "start": 860.08,
+      "end": 862.24,
+      "text": "Speaker 6: And you know, we just put out a report yesterday"
+    },
+    {
+      "start": 862.28,
+      "end": 865.88,
+      "text": "Speaker 6: on cloud code usage, and one of the things that"
+    },
+    {
+      "start": 865.88,
+      "end": 868.44,
+      "text": "Speaker 6: we're trying to understand is like what are the returns"
+    },
+    {
+      "start": 868.48,
+      "end": 871.24,
+      "text": "Speaker 6: to expertise and how does that interact with the usage"
+    },
+    {
+      "start": 871.28,
+      "end": 874.32,
+      "text": "Speaker 6: of sort of automated coding agents. And we find that"
+    },
+    {
+      "start": 874.4,
+      "end": 878.24,
+      "text": "Speaker 6: domain expertise, like if you're an accountant who understands some"
+    },
+    {
+      "start": 878.32,
+      "end": 882.24,
+      "text": "Speaker 6: of the edge cases and reconciliation, that that domain expertise"
+    },
+    {
+      "start": 882.4,
+      "end": 884.6,
+      "text": "Speaker 6: controlling for a whole host of factors about the type"
+    },
+    {
+      "start": 884.6,
+      "end": 886.2,
+      "text": "Speaker 6: of work, the estimated monetary value."
+    },
+    {
+      "start": 886.2,
+      "end": 887.32,
+      "text": "Speaker 3: It has an amplifying effect."
+    },
+    {
+      "start": 887.36,
+      "end": 889.8,
+      "text": "Speaker 6: It has an amplifying effect. So this looks like at"
+    },
+    {
+      "start": 889.84,
+      "end": 894.6,
+      "text": "Speaker 6: present as sort of a skill biased expertise enhancing impact."
+    },
+    {
+      "start": 894.72,
+      "end": 897.16,
+      "text": "Speaker 6: But I think this is the key question is at"
+    },
+    {
+      "start": 897.16,
+      "end": 900.56,
+      "text": "Speaker 6: what point and to what extent will this change."
+    },
+    {
+      "start": 900.2,
+      "end": 903.12,
+      "text": "Speaker 4: Well related to this, you know, Jack, when you describe"
+    },
+    {
+      "start": 903.16,
+      "end": 905.48,
+      "text": "Speaker 4: coming back from paternity leave and seeing how much things"
+    },
+    {
+      "start": 905.48,
+      "end": 908.4,
+      "text": "Speaker 4: had changed at Anthropic, I know we're not officially at"
+    },
+    {
+      "start": 908.52,
+      "end": 914.2,
+      "text": "Speaker 4: recursive self improvement point, but it sounds like we're semi there."
+    },
+    {
+      "start": 914.92,
+      "end": 917.24,
+      "text": "Speaker 4: So my question is, like, I get that at the"
+    },
+    {
+      "start": 917.28,
+      "end": 920.52,
+      "text": "Speaker 4: moment you have engineers who are reviewing all the code"
+    },
+    {
+      "start": 920.88,
+      "end": 923.6,
+      "text": "Speaker 4: that the AI is producing, and they're thinking about it"
+    },
+    {
+      "start": 923.64,
+      "end": 926.08,
+      "text": "Speaker 4: and managing it in some way. But you can easily"
+    },
+    {
+      "start": 926.08,
+      "end": 929.64,
+      "text": "Speaker 4: imagine a future where just the sheer quantity of code"
+    },
+    {
+      "start": 929.76,
+      "end": 934.12,
+      "text": "Speaker 4: overwhelms human expertise. Maybe the quality starts out stripping what"
+    },
+    {
+      "start": 934.24,
+      "end": 938.12,
+      "text": "Speaker 4: human engineers are capable of understanding. How do you manage that?"
+    },
+    {
+      "start": 938.72,
+      "end": 942.16,
+      "text": "Speaker 5: Yeah, So there's two ways of thinking about recursive self improvement."
+    },
+    {
+      "start": 942.28,
+      "end": 946.12,
+      "text": "Speaker 5: One is what happens when AI organizations start to see"
+    },
+    {
+      "start": 946.12,
+      "end": 948.8,
+      "text": "Speaker 5: a compounding return from their AI systems. Basically, their in"
+    },
+    {
+      "start": 948.84,
+      "end": 952.28,
+      "text": "Speaker 5: production function improves because of the tools they built. That's"
+    },
+    {
+      "start": 952.32,
+      "end": 955.16,
+      "text": "Speaker 5: clearly happening now. Member. Second is what happens if an"
+    },
+    {
+      "start": 955.2,
+      "end": 958.96,
+      "text": "Speaker 5: AI system can just build itself entirely autonomously given compute,"
+    },
+    {
+      "start": 959.0,
+      "end": 962.56,
+      "text": "Speaker 5: which hasn't happened. What I see inside Anthropic is I"
+    },
+    {
+      "start": 962.56,
+      "end": 964.52,
+      "text": "Speaker 5: think what we'll see in the broader economy, which is"
+    },
+    {
+      "start": 964.52,
+      "end": 968.0,
+      "text": "Speaker 5: we are figuring out how to verify and validate and"
+    },
+    {
+      "start": 968.04,
+      "end": 971.4,
+      "text": "Speaker 5: basically price for risk of an expanding cloud of automated"
+    },
+    {
+      "start": 971.44,
+      "end": 974.36,
+      "text": "Speaker 5: systems which we're sitting on top of. So now we"
+    },
+    {
+      "start": 974.4,
+      "end": 978.04,
+      "text": "Speaker 5: produce way more code. Well, we broke our continuous integration"
+    },
+    {
+      "start": 978.16,
+      "end": 981.32,
+      "text": "Speaker 5: system for integrating code into the codebase because we started"
+    },
+    {
+      "start": 981.32,
+      "end": 983.84,
+      "text": "Speaker 5: pushing eight times more code through it than before. So"
+    },
+    {
+      "start": 983.92,
+      "end": 987.68,
+      "text": "Speaker 5: all of our human engineers worked on unbreaking CI and"
+    },
+    {
+      "start": 987.76,
+      "end": 991.24,
+      "text": "Speaker 5: so I think that inside continuous integration, Thank you, you"
+    },
+    {
+      "start": 991.28,
+      "end": 992.64,
+      "text": "Speaker 5: don't need to know what it is. It's just a"
+    },
+    {
+      "start": 992.64,
+      "end": 994.16,
+      "text": "Speaker 5: thing that helps you push the code into the."
+    },
+    {
+      "start": 996.04,
+      "end": 996.36,
+      "text": "Speaker 4: Ton."
+    },
+    {
+      "start": 996.56,
+      "end": 998.44,
+      "text": "Speaker 5: But there's a lesson in that. Right, we are going"
+    },
+    {
+      "start": 998.48,
+      "end": 1001.32,
+      "text": "Speaker 5: to speed up things in the economy. We're going to"
+    },
+    {
+      "start": 1001.32,
+      "end": 1003.32,
+      "text": "Speaker 5: speed up the way that we produce stuff, and then"
+    },
+    {
+      "start": 1003.32,
+      "end": 1005.4,
+      "text": "Speaker 5: we're going to find, you know, like the weak links"
+    },
+    {
+      "start": 1005.48,
+      "end": 1007.96,
+      "text": "Speaker 5: or the hot paths but break and we as people"
+    },
+    {
+      "start": 1008.0,
+      "end": 1010.24,
+      "text": "Speaker 5: are going to move to sorting those out, and then"
+    },
+    {
+      "start": 1010.32,
+      "end": 1012.8,
+      "text": "Speaker 5: the cycle starts again. And we're kind of sitting on"
+    },
+    {
+      "start": 1012.84,
+      "end": 1029.04,
+      "text": "Speaker 5: this expanding cloud of automated actions."
+    },
+    {
+      "start": 1032.0,
+      "end": 1036.04,
+      "text": "Speaker 2: Since we're talking about like really like feeling like we're"
+    },
+    {
+      "start": 1036.08,
+      "end": 1039.88,
+      "text": "Speaker 2: staring at the horizon of extremely strong AI or maybe"
+    },
+    {
+      "start": 1039.88,
+      "end": 1042.52,
+      "text": "Speaker 2: we'll get there. Maybe the abilits itself might be a"
+    },
+    {
+      "start": 1042.52,
+      "end": 1045.56,
+      "text": "Speaker 2: good time to ask a fable question or Metho's questions."
+    },
+    {
+      "start": 1045.6,
+      "end": 1047.92,
+      "text": "Speaker 2: At this point we're recording this June seventh. We don't"
+    },
+    {
+      "start": 1047.96,
+      "end": 1050.8,
+      "text": "Speaker 2: know when it's going to be available for Americans, let"
+    },
+    {
+      "start": 1050.84,
+      "end": 1052.96,
+      "text": "Speaker 2: alone the rest of the world. Does SAT product have"
+    },
+    {
+      "start": 1053.0,
+      "end": 1058.08,
+      "text": "Speaker 2: a clear idea of what the administration's security concerns are"
+    },
+    {
+      "start": 1058.24,
+      "end": 1059.68,
+      "text": "Speaker 2: and what it will take to resolve them."
+    },
+    {
+      "start": 1059.76,
+      "end": 1063.919,
+      "text": "Speaker 5: Well, obviously live discussion. I can't get into too many specifics."
+    },
+    {
+      "start": 1063.92,
+      "end": 1066.919,
+      "text": "Speaker 5: We're in daily discussions with the government about this. The"
+    },
+    {
+      "start": 1066.96,
+      "end": 1070.24,
+      "text": "Speaker 5: broad thing I'd say is, for many years we've anticipated"
+    },
+    {
+      "start": 1070.28,
+      "end": 1073.119,
+      "text": "Speaker 5: the point where AI systems would have national security properties."
+    },
+    {
+      "start": 1073.48,
+      "end": 1077.879,
+      "text": "Speaker 5: These national security properties are intertwined with their economically valuable properties."
+    },
+    {
+      "start": 1078.52,
+      "end": 1082.32,
+      "text": "Speaker 5: How you manage that as a pol question is basically"
+    },
+    {
+      "start": 1082.359,
+      "end": 1086.12,
+      "text": "Speaker 5: novel territory. Typically these things are decoupled. You're like, hey,"
+    },
+    {
+      "start": 1086.16,
+      "end": 1087.84,
+      "text": "Speaker 5: I built a jet engine over here, which you can"
+    },
+    {
+      "start": 1087.88,
+      "end": 1090.24,
+      "text": "Speaker 5: go into civilian aircraft, and I built a missile over here,"
+    },
+    {
+      "start": 1090.28,
+      "end": 1092.639,
+      "text": "Speaker 5: and you treat them differently. It's odd if you smush"
+    },
+    {
+      "start": 1092.68,
+      "end": 1096.119,
+      "text": "Speaker 5: these things together. Where we'll get to, I'm confident is"
+    },
+    {
+      "start": 1096.84,
+      "end": 1101.159,
+      "text": "Speaker 5: what's a system for assessing the properties of aisystems, including"
+    },
+    {
+      "start": 1101.2,
+      "end": 1104.04,
+      "text": "Speaker 5: national security components, and then what is a system for"
+    },
+    {
+      "start": 1104.119,
+      "end": 1108.4,
+      "text": "Speaker 5: either squelching the national security capabilities from coming to general"
+    },
+    {
+      "start": 1108.44,
+      "end": 1112.24,
+      "text": "Speaker 5: proliferation like bioweapons or cyber weapons, and are there ways"
+    },
+    {
+      "start": 1112.28,
+      "end": 1116.04,
+      "text": "Speaker 5: to do things like know your customer or deployments where"
+    },
+    {
+      "start": 1116.08,
+      "end": 1119.6,
+      "text": "Speaker 5: you let large firms like say drug developers, access for"
+    },
+    {
+      "start": 1119.72,
+      "end": 1123.639,
+      "text": "Speaker 5: most powerful BioModels without accidentally proliferating risks. That's the shape"
+    },
+    {
+      "start": 1123.64,
+      "end": 1125.8,
+      "text": "Speaker 5: of I think where we will end up and what"
+    },
+    {
+      "start": 1125.88,
+      "end": 1129.72,
+      "text": "Speaker 5: we're doing right now. We and other companies and the"
+    },
+    {
+      "start": 1129.8,
+      "end": 1132.8,
+      "text": "Speaker 5: administration are basically tackling this problem in real time. It's"
+    },
+    {
+      "start": 1132.84,
+      "end": 1134.76,
+      "text": "Speaker 5: initially going to be messy, but we're going to end"
+    },
+    {
+      "start": 1134.8,
+      "end": 1136.08,
+      "text": "Speaker 5: up with a system on the other side."
+    },
+    {
+      "start": 1136.119,
+      "end": 1139.52,
+      "text": "Speaker 2: Well, let me just ask you, you know, this specific incident,"
+    },
+    {
+      "start": 1140.08,
+      "end": 1143.0,
+      "text": "Speaker 2: probably more in the future because everyone's just figuring this out."
+    },
+    {
+      "start": 1143.6,
+      "end": 1146.719,
+      "text": "Speaker 2: When I look at the AI landscape, I sort of"
+    },
+    {
+      "start": 1146.76,
+      "end": 1152.28,
+      "text": "Speaker 2: think of open AI as being part of the all"
+    },
+    {
+      "start": 1152.32,
+      "end": 1158.64,
+      "text": "Speaker 2: in podcast A sixteen Z David Sex White House thing."
+    },
+    {
+      "start": 1159.32,
+      "end": 1162.24,
+      "text": "Speaker 2: And I know from my friends in the media, many"
+    },
+    {
+      "start": 1162.32,
+      "end": 1165.359,
+      "text": "Speaker 2: of whom are liberal Democrats, that I sort of feel"
+    },
+    {
+      "start": 1165.359,
+      "end": 1167.879,
+      "text": "Speaker 2: like Athropic is the more like lib coded of the"
+    },
+    {
+      "start": 1167.92,
+      "end": 1170.879,
+      "text": "Speaker 2: major models. Do you feel there's any either politics or"
+    },
+    {
+      "start": 1170.88,
+      "end": 1176.08,
+      "text": "Speaker 2: partisan politics going on as part of Edthropic being harassed"
+    },
+    {
+      "start": 1176.16,
+      "end": 1178.119,
+      "text": "Speaker 2: or singled out now multiple."
+    },
+    {
+      "start": 1177.84,
+      "end": 1182.28,
+      "text": "Speaker 5: Times andthropics philosophy and what I do and I lead"
+    },
+    {
+      "start": 1182.32,
+      "end": 1186.52,
+      "text": "Speaker 5: something called Panthropic Institute, which helps us produce better data"
+    },
+    {
+      "start": 1186.52,
+      "end": 1189.159,
+      "text": "Speaker 5: for the world around things like recursive self improvement. The"
+    },
+    {
+      "start": 1189.24,
+      "end": 1192.8,
+      "text": "Speaker 5: economics work cyber risks is we tell the whole story"
+    },
+    {
+      "start": 1192.84,
+      "end": 1196.56,
+      "text": "Speaker 5: about what's going on. Typically, I think the technology industry"
+    },
+    {
+      "start": 1196.68,
+      "end": 1200.119,
+      "text": "Speaker 5: has told only optimistic stories about what it's building. We"
+    },
+    {
+      "start": 1200.119,
+      "end": 1204.32,
+      "text": "Speaker 5: saw with social media is that does not work. Actually, eventually,"
+    },
+    {
+      "start": 1204.4,
+      "end": 1207.56,
+      "text": "Speaker 5: when when you're doing something that changes the entire world,"
+    },
+    {
+      "start": 1207.8,
+      "end": 1210.56,
+      "text": "Speaker 5: which AI is certainly doing and social media certainly did,"
+    },
+    {
+      "start": 1210.92,
+      "end": 1213.04,
+      "text": "Speaker 5: It's not going to be a wholly optimistic story. There'll"
+    },
+    {
+      "start": 1213.08,
+      "end": 1215.88,
+      "text": "Speaker 5: be negatives as well. We've always sought to just tell"
+    },
+    {
+      "start": 1215.92,
+      "end": 1217.72,
+      "text": "Speaker 5: the truth about what we see in front of us,"
+    },
+    {
+      "start": 1218.04,
+      "end": 1220.4,
+      "text": "Speaker 5: and I think sometimes that can differentiate us a bit"
+    },
+    {
+      "start": 1220.44,
+      "end": 1223.359,
+      "text": "Speaker 5: to others. But the important thing is we tell the"
+    },
+    {
+      "start": 1223.359,
+      "end": 1225.159,
+      "text": "Speaker 5: truth and things end up coming to You."
+    },
+    {
+      "start": 1225.16,
+      "end": 1228.04,
+      "text": "Speaker 2: Don't think that there's like a partisan element here where"
+    },
+    {
+      "start": 1228.04,
+      "end": 1231.08,
+      "text": "Speaker 2: you guys aren't on the team or didn't contribute enough"
+    },
+    {
+      "start": 1231.119,
+      "end": 1232.2,
+      "text": "Speaker 2: to the ballroom or whatever."
+    },
+    {
+      "start": 1232.68,
+      "end": 1234.84,
+      "text": "Speaker 5: I can't really speak to that. You know, I'm not"
+    },
+    {
+      "start": 1234.92,
+      "end": 1237.72,
+      "text": "Speaker 5: those people, and I'm menthropic. What I can say is"
+    },
+    {
+      "start": 1238.76,
+      "end": 1242.32,
+      "text": "Speaker 5: the AI systems create their own evidence. Years ago, it"
+    },
+    {
+      "start": 1242.4,
+      "end": 1245.08,
+      "text": "Speaker 5: seemed very odd to speculate about the cyber properties of"
+    },
+    {
+      "start": 1245.119,
+      "end": 1247.959,
+      "text": "Speaker 5: AI systems. Well they've arrived and now we're working on them."
+    },
+    {
+      "start": 1248.08,
+      "end": 1251.04,
+      "text": "Speaker 5: Years ago, it was odd to speculate about the bioweapon"
+    },
+    {
+      "start": 1251.08,
+      "end": 1255.08,
+      "text": "Speaker 5: properties of AI systems. Well. Recently, Sam Altman, Demissabis, and"
+    },
+    {
+      "start": 1255.16,
+      "end": 1258.16,
+      "text": "Speaker 5: Daria Ama Day of Opening Eye and Thropic and Deep"
+    },
+    {
+      "start": 1258.2,
+      "end": 1260.84,
+      "text": "Speaker 5: Mind all signed a letter saying we need to do"
+    },
+    {
+      "start": 1260.92,
+      "end": 1264.92,
+      "text": "Speaker 5: better screening of gene synthesis to prevent AI manufactured bioweapons."
+    },
+    {
+      "start": 1265.359,
+      "end": 1266.28,
+      "text": "Speaker 5: The truth wins out."
+    },
+    {
+      "start": 1266.4,
+      "end": 1268.2,
+      "text": "Speaker 4: Okay, I want to go back to something you said."
+    },
+    {
+      "start": 1268.2,
+      "end": 1272.12,
+      "text": "Speaker 4: You mentioned potential kyic requirements, and when I hear kyic,"
+    },
+    {
+      "start": 1272.359,
+      "end": 1274.6,
+      "text": "Speaker 4: I think about the finance industry, and I think about"
+    },
+    {
+      "start": 1274.64,
+      "end": 1278.2,
+      "text": "Speaker 4: systemically important institutions and the stress tests and the framework"
+    },
+    {
+      "start": 1278.24,
+      "end": 1281.96,
+      "text": "Speaker 4: around that. Is that the right analogy to use for"
+    },
+    {
+      "start": 1282.08,
+      "end": 1285.84,
+      "text": "Speaker 4: I guess, ideal AI regulation in your mind rather than"
+    },
+    {
+      "start": 1286.04,
+      "end": 1289.12,
+      "text": "Speaker 4: I guess just simple export controls. Should we be heading"
+    },
+    {
+      "start": 1289.16,
+      "end": 1290.84,
+      "text": "Speaker 4: towards something that looks a little bit more like what"
+    },
+    {
+      "start": 1290.88,
+      "end": 1292.2,
+      "text": "Speaker 4: we do for the banking system."
+    },
+    {
+      "start": 1292.24,
+      "end": 1295.08,
+      "text": "Speaker 5: We need something that's more subtle and more technocratic from"
+    },
+    {
+      "start": 1295.08,
+      "end": 1296.72,
+      "text": "Speaker 5: what we have today. I don't know if it'll be"
+    },
+    {
+      "start": 1296.76,
+      "end": 1299.32,
+      "text": "Speaker 5: exactly like the banking system. It'll probably take some ideas"
+    },
+    {
+      "start": 1299.32,
+      "end": 1302.04,
+      "text": "Speaker 5: from that. It'll take some ideas from what the US"
+    },
+    {
+      "start": 1302.16,
+      "end": 1305.52,
+      "text": "Speaker 5: government and others are doing today with just testing aisystems"
+    },
+    {
+      "start": 1305.56,
+      "end": 1308.119,
+      "text": "Speaker 5: for their properties, and it's almost certainly going to have"
+    },
+    {
+      "start": 1308.119,
+      "end": 1310.399,
+      "text": "Speaker 5: a flavor of what Peter and I work on, and"
+    },
+    {
+      "start": 1310.44,
+      "end": 1315.32,
+      "text": "Speaker 5: the unproper innstitute broadly of generating data about these systems"
+    },
+    {
+      "start": 1315.359,
+      "end": 1317.6,
+      "text": "Speaker 5: as they're deployed in the world, because it's one thing"
+    },
+    {
+      "start": 1317.64,
+      "end": 1319.52,
+      "text": "Speaker 5: to you know, test out the thing before it comes"
+    },
+    {
+      "start": 1319.56,
+      "end": 1322.16,
+      "text": "Speaker 5: out of a it's another to observe the effects it's"
+    },
+    {
+      "start": 1322.16,
+      "end": 1324.08,
+      "text": "Speaker 5: having in the world and then to be able to"
+    },
+    {
+      "start": 1324.08,
+      "end": 1326.04,
+      "text": "Speaker 5: make judgments about whether those effects are good or not."
+    },
+    {
+      "start": 1326.4,
+      "end": 1329.28,
+      "text": "Speaker 2: Would you support, you know, the let's stick with the"
+    },
+    {
+      "start": 1329.28,
+      "end": 1334.119,
+      "text": "Speaker 2: financial analogy. Companies that are public at least are required"
+    },
+    {
+      "start": 1334.119,
+      "end": 1336.679,
+      "text": "Speaker 2: to have third party auditors sign off on them, and"
+    },
+    {
+      "start": 1336.72,
+      "end": 1339.0,
+      "text": "Speaker 2: there's talk, you know, when they submit their ten queues,"
+    },
+    {
+      "start": 1339.08,
+      "end": 1342.199,
+      "text": "Speaker 2: et cetera. Companies that issue debt are required to have"
+    },
+    {
+      "start": 1342.28,
+      "end": 1345.72,
+      "text": "Speaker 2: ratings agencies or frequently have ratings agencies rate their debt."
+    },
+    {
+      "start": 1346.119,
+      "end": 1350.84,
+      "text": "Speaker 2: Would you support embedding in law the requirement that certain"
+    },
+    {
+      "start": 1350.96,
+      "end": 1353.68,
+      "text": "Speaker 2: what would be the equivalent of a Moody's or a Deloitte,"
+    },
+    {
+      "start": 1353.96,
+      "end": 1356.439,
+      "text": "Speaker 2: you know, a third party research lab sign off on"
+    },
+    {
+      "start": 1356.92,
+      "end": 1358.12,
+      "text": "Speaker 2: the release of new models."
+    },
+    {
+      "start": 1358.32,
+      "end": 1362.08,
+      "text": "Speaker 5: We've proposed something like this recently, a policy proposal that"
+    },
+    {
+      "start": 1362.119,
+      "end": 1364.359,
+      "text": "Speaker 5: we laid out which includes saying we need to have"
+    },
+    {
+      "start": 1364.48,
+      "end": 1367.359,
+      "text": "Speaker 5: third party testing for some of these national security and"
+    },
+    {
+      "start": 1367.44,
+      "end": 1370.76,
+      "text": "Speaker 5: other properties, because clearly that's like a sensible way that"
+    },
+    {
+      "start": 1370.8,
+      "end": 1372.36,
+      "text": "Speaker 5: you validate a lot of them. Yeah."
+    },
+    {
+      "start": 1372.4,
+      "end": 1375.76,
+      "text": "Speaker 4: So, just more broadly, returning to this idea of, you know,"
+    },
+    {
+      "start": 1375.84,
+      "end": 1378.52,
+      "text": "Speaker 4: measuring the actual impact of AI, one thing I find"
+    },
+    {
+      "start": 1378.52,
+      "end": 1381.199,
+      "text": "Speaker 4: really interesting is that if you actually look at a"
+    },
+    {
+      "start": 1381.2,
+      "end": 1384.88,
+      "text": "Speaker 4: lot of our traditional AI or I should say I'm"
+    },
+    {
+      "start": 1384.92,
+      "end": 1387.28,
+      "text": "Speaker 4: AI brained already, if you look at some of our"
+    },
+    {
+      "start": 1387.32,
+      "end": 1390.84,
+      "text": "Speaker 4: traditional economic statistics, a lot of the AI impact doesn't"
+    },
+    {
+      "start": 1390.84,
+      "end": 1394.16,
+      "text": "Speaker 4: actually show up just yet. Again, we're in the early stages,"
+    },
+    {
+      "start": 1394.2,
+      "end": 1396.32,
+      "text": "Speaker 4: but you would expect if we're talking about the AI"
+    },
+    {
+      "start": 1396.4,
+      "end": 1400.6,
+      "text": "Speaker 4: economy growing something like two thousand percent, three thousand percent."
+    },
+    {
+      "start": 1400.64,
+      "end": 1402.0,
+      "text": "Speaker 4: I think I've seen that number."
+    },
+    {
+      "start": 1401.96,
+      "end": 1406.6,
+      "text": "Speaker 6: That's from Anton Quarneck and McKelvie Harry paper a few weeks."
+    },
+    {
+      "start": 1406.4,
+      "end": 1408.239,
+      "text": "Speaker 4: Ago, you would expect that to have more of an"
+    },
+    {
+      "start": 1408.24,
+      "end": 1412.639,
+      "text": "Speaker 4: impact on nominal GDP, and yet it's not really showing"
+    },
+    {
+      "start": 1412.72,
+      "end": 1414.92,
+      "text": "Speaker 4: up that much. Do you think the way we measure"
+    },
+    {
+      "start": 1415.119,
+      "end": 1417.639,
+      "text": "Speaker 4: the economy needs to be changed in some way in"
+    },
+    {
+      "start": 1417.76,
+      "end": 1420.399,
+      "text": "Speaker 4: light of what's happening with this new technology?"
+    },
+    {
+      "start": 1420.88,
+      "end": 1421.08,
+      "text": "Speaker 5: Yeah?"
+    },
+    {
+      "start": 1421.119,
+      "end": 1423.479,
+      "text": "Speaker 6: So I think this is exactly the right premises kind"
+    },
+    {
+      "start": 1423.48,
+      "end": 1426.56,
+      "text": "Speaker 6: of where we began the conversation, which is we're maybe"
+    },
+    {
+      "start": 1426.6,
+      "end": 1428.48,
+      "text": "Speaker 6: at the point where we should be able to see"
+    },
+    {
+      "start": 1428.52,
+      "end": 1434.0,
+      "text": "Speaker 6: some discernible impact on the macroeconomy. Unfortunately, the arrival of"
+    },
+    {
+      "start": 1434.0,
+      "end": 1437.64,
+      "text": "Speaker 6: this world historical technology is against the backdrop of sort"
+    },
+    {
+      "start": 1437.64,
+      "end": 1442.72,
+      "text": "Speaker 6: of unusually elevated macroeconomic volatility, the post pandemic, monetary policy,"
+    },
+    {
+      "start": 1443.44,
+      "end": 1446.399,
+      "text": "Speaker 6: et cetera, And so it makes it very hard to"
+    },
+    {
+      "start": 1446.48,
+      "end": 1450.4,
+      "text": "Speaker 6: disentangle all of the different factors. You know, what's the counterfactual?"
+    },
+    {
+      "start": 1450.44,
+      "end": 1453.88,
+      "text": "Speaker 6: You know, labor productivity growth is maybe not as strong"
+    },
+    {
+      "start": 1453.92,
+      "end": 1456.24,
+      "text": "Speaker 6: as you might not otherwise expect, but maybe it's stronger"
+    },
+    {
+      "start": 1456.24,
+      "end": 1460.56,
+      "text": "Speaker 6: than it is an a counterfactual sense. And so one"
+    },
+    {
+      "start": 1460.6,
+      "end": 1463.16,
+      "text": "Speaker 6: way that we've tried to tackle this question is by"
+    },
+    {
+      "start": 1463.72,
+      "end": 1467.36,
+      "text": "Speaker 6: looking at how Claude is being used on our platform,"
+    },
+    {
+      "start": 1467.48,
+      "end": 1472.24,
+      "text": "Speaker 6: using our privacy preserving techniques to estimate the time savings"
+    },
+    {
+      "start": 1472.28,
+      "end": 1475.72,
+      "text": "Speaker 6: associated with each of the activities that people use claud for. So,"
+    },
+    {
+      "start": 1476.72,
+      "end": 1480.0,
+      "text": "Speaker 6: compiling information from reports to put together a research brief"
+    },
+    {
+      "start": 1480.2,
+      "end": 1483.0,
+      "text": "Speaker 6: would take you a few days. Maybe now Claude does"
+    },
+    {
+      "start": 1483.0,
+      "end": 1486.96,
+      "text": "Speaker 6: it in a few minutes. Evaluating diagnostic images is something"
+    },
+    {
+      "start": 1487.0,
+      "end": 1489.12,
+      "text": "Speaker 6: that skilled professionals do very rapidly, so there is an"
+    },
+    {
+      "start": 1489.119,
+      "end": 1492.439,
+      "text": "Speaker 6: imprinciple much time savings. You can add up all of"
+    },
+    {
+      "start": 1492.44,
+      "end": 1497.28,
+      "text": "Speaker 6: those numbers and using standard macro growth accounting techniques, Houlton's"
+    },
+    {
+      "start": 1497.32,
+      "end": 1500.44,
+      "text": "Speaker 6: theorem for the economists and the audience. When you get"
+    },
+    {
+      "start": 1500.44,
+      "end": 1503.04,
+      "text": "Speaker 6: a number of that points in the direction of labor"
+    },
+    {
+      "start": 1503.08,
+      "end": 1506.16,
+      "text": "Speaker 6: productivity growth increasing by one point eight percentage points each"
+    },
+    {
+      "start": 1506.24,
+      "end": 1508.76,
+      "text": "Speaker 6: year over the next decade. If that's how long it"
+    },
+    {
+      "start": 1508.8,
+      "end": 1512.88,
+      "text": "Speaker 6: takes current usage patterns and current model capabilities to diffuse"
+    },
+    {
+      "start": 1512.88,
+      "end": 1515.44,
+      "text": "Speaker 6: throughout the economy, that's a very large number. It's a"
+    },
+    {
+      "start": 1515.52,
+      "end": 1519.12,
+      "text": "Speaker 6: rough doubling of recent run rates. And what I think"
+    },
+    {
+      "start": 1519.16,
+      "end": 1521.119,
+      "text": "Speaker 6: you might be able to see in the data, and"
+    },
+    {
+      "start": 1521.119,
+      "end": 1523.84,
+      "text": "Speaker 6: we haven't put anything out on this yet, is I"
+    },
+    {
+      "start": 1523.84,
+      "end": 1526.879,
+      "text": "Speaker 6: think some of the strength and recent labor productivity growth"
+    },
+    {
+      "start": 1527.24,
+      "end": 1530.639,
+      "text": "Speaker 6: is actually concentrating in exactly the sectors of the economy"
+    },
+    {
+      "start": 1531.04,
+      "end": 1533.48,
+      "text": "Speaker 6: that would be consistent with both what we see in"
+    },
+    {
+      "start": 1533.52,
+      "end": 1535.48,
+      "text": "Speaker 6: our data as well as also what you see in"
+    },
+    {
+      "start": 1535.52,
+      "end": 1538.2,
+      "text": "Speaker 6: the Business trend and outlyt for example, so the information"
+    },
+    {
+      "start": 1538.28,
+      "end": 1542.159,
+      "text": "Speaker 6: sector has high rates of adoption. I can't recall if"
+    },
+    {
+      "start": 1542.16,
+      "end": 1544.52,
+      "text": "Speaker 6: that's in particular one of the sectors that I have"
+    },
+    {
+      "start": 1544.64,
+      "end": 1548.119,
+      "text": "Speaker 6: in mind. It's a while since I looked at that scatterplot,"
+    },
+    {
+      "start": 1548.119,
+      "end": 1550.639,
+      "text": "Speaker 6: but you can look at the sort of sub industries"
+    },
+    {
+      "start": 1550.68,
+      "end": 1553.879,
+      "text": "Speaker 6: by the Census Bureaus Business Trend and Outlook survey, and"
+    },
+    {
+      "start": 1554.28,
+      "end": 1557.48,
+      "text": "Speaker 6: rates of adoption are in sectors or parts of the"
+    },
+    {
+      "start": 1557.52,
+      "end": 1562.96,
+      "text": "Speaker 6: economy where can trolling for pre pandemic trajectory of labor"
+    },
+    {
+      "start": 1562.96,
+      "end": 1565.48,
+      "text": "Speaker 6: productivity growth in those sectors, even some of the strength"
+    },
+    {
+      "start": 1565.84,
+      "end": 1568.76,
+      "text": "Speaker 6: in the early years of the recovery. Still see some"
+    },
+    {
+      "start": 1568.92,
+      "end": 1573.16,
+      "text": "Speaker 6: like suggestive evidence. I think there's a lot of uncertainty here."
+    },
+    {
+      "start": 1573.28,
+      "end": 1576.08,
+      "text": "Speaker 6: Trying to get a real time signal on productivity is"
+    },
+    {
+      "start": 1576.359,
+      "end": 1579.56,
+      "text": "Speaker 6: maybe the hardest thing to do. You're subject to macroeconomic"
+    },
+    {
+      "start": 1579.64,
+      "end": 1584.08,
+      "text": "Speaker 6: GDP revisions. TFP growth is actually sending the opposite signal,"
+    },
+    {
+      "start": 1584.119,
+      "end": 1588.0,
+      "text": "Speaker 6: and if you control for capacity utilization, TFP growth is"
+    },
+    {
+      "start": 1588.28,
+      "end": 1591.8,
+      "text": "Speaker 6: arguably even lower. So I say this as like, this"
+    },
+    {
+      "start": 1591.88,
+      "end": 1594.879,
+      "text": "Speaker 6: is suggestive evidence that maybe we're beginning to see an"
+    },
+    {
+      "start": 1594.88,
+      "end": 1597.76,
+      "text": "Speaker 6: impact impact there but not so much in the labor market."
+    },
+    {
+      "start": 1597.92,
+      "end": 1599.679,
+      "text": "Speaker 4: Well, now I have to ask when you gather this"
+    },
+    {
+      "start": 1599.8,
+      "end": 1602.879,
+      "text": "Speaker 4: kind of research, and it all sounds super interesting, But"
+    },
+    {
+      "start": 1602.92,
+      "end": 1605.52,
+      "text": "Speaker 4: if you have data, for instance, that shows that, okay,"
+    },
+    {
+      "start": 1605.52,
+      "end": 1609.8,
+      "text": "Speaker 4: the IT sector is getting productivity gains from using claud"
+    },
+    {
+      "start": 1610.04,
+      "end": 1613.36,
+      "text": "Speaker 4: or I don't know, maybe something unexpected, like the warehousing"
+    },
+    {
+      "start": 1613.44,
+      "end": 1616.879,
+      "text": "Speaker 4: industry is using a bunch of AI. What does anthropic"
+    },
+    {
+      "start": 1616.96,
+      "end": 1620.32,
+      "text": "Speaker 4: actually do with this data? Does it somehow feed act"
+    },
+    {
+      "start": 1620.359,
+      "end": 1623.08,
+      "text": "Speaker 4: to your engineers who are developing frontier models? Do they"
+    },
+    {
+      "start": 1623.08,
+      "end": 1624.0,
+      "text": "Speaker 4: do anything differently?"
+    },
+    {
+      "start": 1624.24,
+      "end": 1626.359,
+      "text": "Speaker 5: I think some of it cues us on areas where"
+    },
+    {
+      "start": 1626.52,
+      "end": 1629.08,
+      "text": "Speaker 5: maybe the technology isn't being used because it's very weak."
+    },
+    {
+      "start": 1629.119,
+      "end": 1631.16,
+      "text": "Speaker 5: We just haven't made it particularly good for these use"
+    },
+    {
+      "start": 1631.2,
+      "end": 1634.359,
+      "text": "Speaker 5: cases or in areas where it's being used at large scale."
+    },
+    {
+      "start": 1634.4,
+      "end": 1637.12,
+      "text": "Speaker 5: It's usually a suggestion of keep making it good there,"
+    },
+    {
+      "start": 1637.28,
+      "end": 1640.359,
+      "text": "Speaker 5: but you know, if the actual economic measurement data doesn't"
+    },
+    {
+      "start": 1640.359,
+      "end": 1642.32,
+      "text": "Speaker 5: really get fed back directly in. But it's a very"
+    },
+    {
+      "start": 1642.4,
+      "end": 1646.36,
+      "text": "Speaker 5: useful clue. We think it's more important, though, to basically"
+    },
+    {
+      "start": 1646.359,
+      "end": 1651.04,
+      "text": "Speaker 5: communicate this outwardly to policy makers, journalists, and others, because"
+    },
+    {
+      "start": 1651.08,
+      "end": 1653.96,
+      "text": "Speaker 5: our assumption is that at some point we go through"
+    },
+    {
+      "start": 1654.0,
+      "end": 1657.08,
+      "text": "Speaker 5: some phase change, similar to how capabilities of AI occasionally"
+    },
+    {
+      "start": 1657.16,
+      "end": 1659.8,
+      "text": "Speaker 5: jump forward in a really dramatic way, where you might"
+    },
+    {
+      "start": 1659.84,
+      "end": 1663.52,
+      "text": "Speaker 5: see sudden and rapid diffusion as a consequence of capability"
+    },
+    {
+      "start": 1663.52,
+      "end": 1666.52,
+      "text": "Speaker 5: expansion in their AI systems. So we're getting practice in"
+    },
+    {
+      "start": 1666.68,
+      "end": 1669.76,
+      "text": "Speaker 5: of looking at this kind of data. My expectation is"
+    },
+    {
+      "start": 1669.76,
+      "end": 1671.56,
+      "text": "Speaker 5: that in a year or two years, I'm going up"
+    },
+    {
+      "start": 1671.56,
+      "end": 1673.96,
+      "text": "Speaker 5: to some policy maker and I'm pointing them to the"
+    },
+    {
+      "start": 1674.04,
+      "end": 1676.32,
+      "text": "Speaker 5: part of the graph that now gets very steep in"
+    },
+    {
+      "start": 1676.44,
+      "end": 1678.2,
+      "text": "Speaker 5: some chunk of the economy and."
+    },
+    {
+      "start": 1678.24,
+      "end": 1679.679,
+      "text": "Speaker 4: Hoping that they'll do something about it."
+    },
+    {
+      "start": 1680.96,
+      "end": 1684.04,
+      "text": "Speaker 6: I think there is another part of what we're trying"
+    },
+    {
+      "start": 1684.04,
+      "end": 1685.8,
+      "text": "Speaker 6: to do at the Institute, which we lay out in"
+    },
+    {
+      "start": 1685.88,
+      "end": 1688.64,
+      "text": "Speaker 6: the sort of research agenda for the Anthropic Institute, which"
+    },
+    {
+      "start": 1688.68,
+      "end": 1692.8,
+      "text": "Speaker 6: is trying to understand the impact of our decisions, which"
+    },
+    {
+      "start": 1692.84,
+      "end": 1695.72,
+      "text": "Speaker 6: is a typical thing that economists will do at tech companies,"
+    },
+    {
+      "start": 1695.84,
+      "end": 1697.88,
+      "text": "Speaker 6: but we have a public benefit mandate, so we're trying"
+    },
+    {
+      "start": 1697.92,
+      "end": 1701.04,
+      "text": "Speaker 6: to understand the impact of our decisions on these broader"
+    },
+    {
+      "start": 1701.4,
+      "end": 1704.24,
+      "text": "Speaker 6: societal and economic outcomes that we care about, and then"
+    },
+    {
+      "start": 1704.4,
+      "end": 1707.0,
+      "text": "Speaker 6: using that to inform some of the decisions that we"
+    },
+    {
+      "start": 1707.04,
+      "end": 1707.52,
+      "text": "Speaker 6: actually see."
+    },
+    {
+      "start": 1707.8,
+      "end": 1709.52,
+      "text": "Speaker 5: A goal that Peter and I have and we've talked"
+    },
+    {
+      "start": 1709.56,
+      "end": 1712.8,
+      "text": "Speaker 5: about internally, is if we get really good at measuring"
+    },
+    {
+      "start": 1712.8,
+      "end": 1716.08,
+      "text": "Speaker 5: things like a productivity multiplier of our technology, then I"
+    },
+    {
+      "start": 1716.119,
+      "end": 1718.08,
+      "text": "Speaker 5: would hope to use that to guide some of say"
+    },
+    {
+      "start": 1718.12,
+      "end": 1721.04,
+      "text": "Speaker 5: the early access programs we do for powerful models, where"
+    },
+    {
+      "start": 1721.04,
+      "end": 1723.4,
+      "text": "Speaker 5: if you see you get some tremendous multiplier in a"
+    },
+    {
+      "start": 1723.4,
+      "end": 1726.76,
+      "text": "Speaker 5: specific part of science, use that to redirect some of"
+    },
+    {
+      "start": 1726.8,
+      "end": 1730.04,
+      "text": "Speaker 5: your inference compute budget to that sector, and then you"
+    },
+    {
+      "start": 1730.08,
+      "end": 1732.0,
+      "text": "Speaker 5: can run an experiment and say, were we able to"
+    },
+    {
+      "start": 1732.0,
+      "end": 1734.48,
+      "text": "Speaker 5: make this thing go much faster. I think that could"
+    },
+    {
+      "start": 1734.48,
+      "end": 1737.12,
+      "text": "Speaker 5: be like an amazing tool to unlock the world, and"
+    },
+    {
+      "start": 1737.12,
+      "end": 1740.2,
+      "text": "Speaker 5: it's one that you could generalize across companies, and you"
+    },
+    {
+      "start": 1740.2,
+      "end": 1744.04,
+      "text": "Speaker 5: can generalize it into policy, So instead of say NSF"
+    },
+    {
+      "start": 1744.08,
+      "end": 1746.68,
+      "text": "Speaker 5: doing standard grant funding, it could be should we just"
+    },
+    {
+      "start": 1746.68,
+      "end": 1749.0,
+      "text": "Speaker 5: point for really powerful AIS systems at this chunk of"
+    },
+    {
+      "start": 1749.04,
+      "end": 1751.56,
+      "text": "Speaker 5: science and make it go faster. I think that's a"
+    },
+    {
+      "start": 1751.6,
+      "end": 1753.12,
+      "text": "Speaker 5: world that will come within reach soon."
+    },
+    {
+      "start": 1753.24,
+      "end": 1756.4,
+      "text": "Speaker 2: Let's talk about this public benefit mission a little bit more."
+    },
+    {
+      "start": 1756.44,
+      "end": 1759.44,
+      "text": "Speaker 2: We've been talking about ways this could change the economy."
+    },
+    {
+      "start": 1759.96,
+      "end": 1763.68,
+      "text": "Speaker 3: How much do you see your job is basically strong."
+    },
+    {
+      "start": 1763.84,
+      "end": 1764.88,
+      "text": "Speaker 3: AI is coming."
+    },
+    {
+      "start": 1765.08,
+      "end": 1767.92,
+      "text": "Speaker 2: Yeah, it's coming whether we like it or not, and"
+    },
+    {
+      "start": 1768.0,
+      "end": 1770.72,
+      "text": "Speaker 2: it's important to be you want to be there as"
+    },
+    {
+      "start": 1770.76,
+      "end": 1773.88,
+      "text": "Speaker 2: like one of the shepherd's understanding which direction it goes"
+    },
+    {
+      "start": 1773.92,
+      "end": 1776.96,
+      "text": "Speaker 2: in the data that we should see to see what's emerging,"
+    },
+    {
+      "start": 1777.04,
+      "end": 1779.24,
+      "text": "Speaker 2: Like how much is that somewhat your role?"
+    },
+    {
+      "start": 1779.52,
+      "end": 1782.44,
+      "text": "Speaker 5: Yeah, but look, our guiding principle is but this technology"
+    },
+    {
+      "start": 1782.48,
+      "end": 1785.0,
+      "text": "Speaker 5: is being built by a variety of companies and a"
+    },
+    {
+      "start": 1785.04,
+      "end": 1789.28,
+      "text": "Speaker 5: variety of countries. But technology by default is unknown. It"
+    },
+    {
+      "start": 1789.32,
+      "end": 1791.52,
+      "text": "Speaker 5: will be known to the companies, it will not be"
+    },
+    {
+      "start": 1791.6,
+      "end": 1794.2,
+      "text": "Speaker 5: broadly understood or known by others. They'll just be able"
+    },
+    {
+      "start": 1794.2,
+      "end": 1796.76,
+      "text": "Speaker 5: to play with the models. Every bit of data we"
+    },
+    {
+      "start": 1796.84,
+      "end": 1800.0,
+      "text": "Speaker 5: can create, and especially systemically sharing data like the economic"
+    },
+    {
+      "start": 1800.08,
+      "end": 1802.12,
+      "text": "Speaker 5: index of what we've started to do on recursive self"
+    },
+    {
+      "start": 1802.12,
+      "end": 1804.84,
+      "text": "Speaker 5: improvement gives a world a better chance to sort of"
+    },
+    {
+      "start": 1804.84,
+      "end": 1807.8,
+      "text": "Speaker 5: prepare for this technology. Yeah, and both planned for its success,"
+    },
+    {
+      "start": 1807.84,
+      "end": 1809.68,
+      "text": "Speaker 5: Like what I talked about was science. We could be"
+    },
+    {
+      "start": 1810.12,
+      "end": 1814.08,
+      "text": "Speaker 5: intentional about driving science forward and also be warned about"
+    },
+    {
+      "start": 1814.16,
+      "end": 1816.96,
+      "text": "Speaker 5: risks like the cyber capabilities that you've talked about."
+    },
+    {
+      "start": 1817.24,
+      "end": 1819.32,
+      "text": "Speaker 2: Well, so it's like that makes a lot of sense."
+    },
+    {
+      "start": 1819.36,
+      "end": 1821.76,
+      "text": "Speaker 2: The company is going to see it before the world,"
+    },
+    {
+      "start": 1821.84,
+      "end": 1824.12,
+      "text": "Speaker 2: and Heskin is like, Okay, this is important to share."
+    },
+    {
+      "start": 1824.2,
+      "end": 1826.2,
+      "text": "Speaker 2: This is not important to share, which which brings me"
+    },
+    {
+      "start": 1826.2,
+      "end": 1828.84,
+      "text": "Speaker 2: into another question. You know, I know people in the"
+    },
+    {
+      "start": 1828.88,
+      "end": 1832.48,
+      "text": "Speaker 2: AI research world done some reporting on the sort of"
+    },
+    {
+      "start": 1832.52,
+      "end": 1833.64,
+      "text": "Speaker 2: scene in SF."
+    },
+    {
+      "start": 1834.08,
+      "end": 1835.92,
+      "text": "Speaker 3: You know, like when I think about a lot."
+    },
+    {
+      "start": 1835.8,
+      "end": 1838.0,
+      "text": "Speaker 2: Of the people who are like at the very cutting"
+    },
+    {
+      "start": 1838.08,
+      "end": 1842.48,
+      "text": "Speaker 2: edge of AI ethics, AI technology, et cetera, I know"
+    },
+    {
+      "start": 1842.56,
+      "end": 1845.48,
+      "text": "Speaker 2: a lot of people who are how should I put this,"
+    },
+    {
+      "start": 1845.8,
+      "end": 1852.44,
+      "text": "Speaker 2: they have esoteric moral interests. Shrimp writes unusual attitudes about"
+    },
+    {
+      "start": 1852.6,
+      "end": 1855.8,
+      "text": "Speaker 2: experimental drug use. We know about the Chinese peptide scene"
+    },
+    {
+      "start": 1855.84,
+      "end": 1859.24,
+      "text": "Speaker 2: in the San Francisco, et cetera, and as a family podcast,"
+    },
+    {
+      "start": 1859.28,
+      "end": 1863.32,
+      "text": "Speaker 2: I would say certain and like perhaps different view on"
+    },
+    {
+      "start": 1863.4,
+      "end": 1866.12,
+      "text": "Speaker 2: sort of bourgeois even sexual values, and we know about"
+    },
+    {
+      "start": 1866.16,
+      "end": 1869.32,
+      "text": "Speaker 2: the sort of attitudes towards monogamy, et cetera within the"
+    },
+    {
+      "start": 1869.44,
+      "end": 1870.84,
+      "text": "Speaker 2: San Francisco research and."
+    },
+    {
+      "start": 1871.0,
+      "end": 1873.12,
+      "text": "Speaker 4: Joe, there's going to be a protest against all thoughts"
+    },
+    {
+      "start": 1873.12,
+      "end": 1875.92,
+      "text": "Speaker 4: from San Francisco."
+    },
+    {
+      "start": 1876.64,
+      "end": 1878.28,
+      "text": "Speaker 3: Yeah, not all engineers. I understand that."
+    },
+    {
+      "start": 1878.44,
+      "end": 1880.36,
+      "text": "Speaker 2: But when we think about like, Okay, these are the"
+    },
+    {
+      "start": 1880.36,
+      "end": 1882.72,
+      "text": "Speaker 2: people who are going to see it first, should we"
+    },
+    {
+      "start": 1882.76,
+      "end": 1885.32,
+      "text": "Speaker 2: feel comfortable that this is a group of individuals, the"
+    },
+    {
+      "start": 1885.36,
+      "end": 1889.84,
+      "text": "Speaker 2: cohort of the most advanced AI researchers, whose intuitions about"
+    },
+    {
+      "start": 1889.84,
+      "end": 1893.24,
+      "text": "Speaker 2: what's important to communicate to the public are actually in"
+    },
+    {
+      "start": 1893.32,
+      "end": 1897.48,
+      "text": "Speaker 2: line with the public's interest, given how unrepresentative they are"
+    },
+    {
+      "start": 1898.12,
+      "end": 1899.68,
+      "text": "Speaker 2: of what I would call the American public."
+    },
+    {
+      "start": 1899.8,
+      "end": 1902.0,
+      "text": "Speaker 5: Yes, as a as an Englishman, it fills me with"
+    },
+    {
+      "start": 1902.04,
+      "end": 1903.44,
+      "text": "Speaker 5: such joy to be asked about sex."
+    },
+    {
+      "start": 1903.72,
+      "end": 1908.76,
+      "text": "Speaker 2: Yeah, I know your insights into the cohort of the"
+    },
+    {
+      "start": 1908.76,
+      "end": 1911.48,
+      "text": "Speaker 2: most advanced YOU search we're explorers."
+    },
+    {
+      "start": 1911.68,
+      "end": 1914.36,
+      "text": "Speaker 5: People that are explorers, and this is so true in"
+    },
+    {
+      "start": 1914.36,
+      "end": 1917.4,
+      "text": "Speaker 5: San Francisco. End up being like that. There's a broad"
+    },
+    {
+      "start": 1917.48,
+      "end": 1919.68,
+      "text": "Speaker 5: range of types of people, and sometimes they're really really"
+    },
+    {
+      "start": 1919.72,
+      "end": 1922.68,
+      "text": "Speaker 5: different or yeah, really really eccentric and they're brilliant to"
+    },
+    {
+      "start": 1922.72,
+      "end": 1923.84,
+      "text": "Speaker 5: be lovable and everything else."
+    },
+    {
+      "start": 1923.88,
+      "end": 1925.12,
+      "text": "Speaker 3: Yeah, sure, love them."
+    },
+    {
+      "start": 1925.24,
+      "end": 1928.8,
+      "text": "Speaker 5: You don't want only that class of people to be"
+    },
+    {
+      "start": 1928.84,
+      "end": 1930.76,
+      "text": "Speaker 5: the ones calling the shots on what we know about"
+    },
+    {
+      "start": 1930.8,
+      "end": 1933.24,
+      "text": "Speaker 5: this technology. Yeah. The whole purpose of what we're doing"
+    },
+    {
+      "start": 1933.28,
+      "end": 1935.32,
+      "text": "Speaker 5: is we're trying to set up systems by which you"
+    },
+    {
+      "start": 1935.32,
+      "end": 1939.16,
+      "text": "Speaker 5: could eventually mandate through policy that companies share information, you know,"
+    },
+    {
+      "start": 1939.2,
+      "end": 1942.84,
+      "text": "Speaker 5: and THROPIC has long pushed for transparency legislation in various"
+    },
+    {
+      "start": 1942.88,
+      "end": 1946.04,
+      "text": "Speaker 5: states around America that gets companies like us to report"
+    },
+    {
+      "start": 1946.08,
+      "end": 1948.12,
+      "text": "Speaker 5: out the sorts of tests we're running on our systems"
+    },
+    {
+      "start": 1948.36,
+      "end": 1952.32,
+      "text": "Speaker 5: and share it publicly. My whole mindset is the public"
+    },
+    {
+      "start": 1952.92,
+      "end": 1957.04,
+      "text": "Speaker 5: and policy makers and economists, everyone deserve the ability to"
+    },
+    {
+      "start": 1957.08,
+      "end": 1959.44,
+      "text": "Speaker 5: advocate for what information should come out of a frontier"
+    },
+    {
+      "start": 1959.48,
+      "end": 1962.08,
+      "text": "Speaker 5: and it should be forced out of a frontier eventually"
+    },
+    {
+      "start": 1962.08,
+      "end": 1964.24,
+      "text": "Speaker 5: by law. Like that is how you solve this issue."
+    },
+    {
+      "start": 1964.4,
+      "end": 1967.6,
+      "text": "Speaker 4: Do you hire more normies? Yeah?"
+    },
+    {
+      "start": 1966.24,
+      "end": 1968.32,
+      "text": "Speaker 5: Like me personally?"
+    },
+    {
+      "start": 1968.44,
+      "end": 1971.08,
+      "text": "Speaker 2: Yeah, Like is there an important thing like hiring people"
+    },
+    {
+      "start": 1971.12,
+      "end": 1973.84,
+      "text": "Speaker 2: that don't all share these certain like you know, in"
+    },
+    {
+      "start": 1973.88,
+      "end": 1974.92,
+      "text": "Speaker 2: group ways of seeing the world."
+    },
+    {
+      "start": 1975.0,
+      "end": 1978.6,
+      "text": "Speaker 5: So, you know, the Youngthropic Institute we have teams of economists,"
+    },
+    {
+      "start": 1978.68,
+      "end": 1981.52,
+      "text": "Speaker 5: of social scientists, of what you might think of as"
+    },
+    {
+      "start": 1981.56,
+      "end": 1984.56,
+      "text": "Speaker 5: weapons experts, our frontier red team, things that go bump"
+    },
+    {
+      "start": 1984.64,
+      "end": 1988.4,
+      "text": "Speaker 5: in the night, lawyers, and increasingly other types of people."
+    },
+    {
+      "start": 1988.48,
+      "end": 1991.04,
+      "text": "Speaker 5: The goal is to build what I think of as"
+    },
+    {
+      "start": 1991.16,
+      "end": 1995.68,
+      "text": "Speaker 5: a highly ideologically diverse research function within the organization. But"
+    },
+    {
+      "start": 1995.76,
+      "end": 1997.76,
+      "text": "Speaker 5: it's part of the advocating sort of on behalf of"
+    },
+    {
+      "start": 1997.76,
+      "end": 2000.44,
+      "text": "Speaker 5: the world for different forms of study that we might do."
+    },
+    {
+      "start": 2001.04,
+      "end": 2003.76,
+      "text": "Speaker 5: So ANDTHROPIC generally hires a really broad range of people,"
+    },
+    {
+      "start": 2003.96,
+      "end": 2007.0,
+      "text": "Speaker 5: but the institute specifically is trying to compose a very"
+    },
+    {
+      "start": 2007.0,
+      "end": 2010.08,
+      "text": "Speaker 5: broad set of interdisciplinary experts for this exact reason."
+    },
+    {
+      "start": 2026.2,
+      "end": 2029.68,
+      "text": "Speaker 4: Let me ask a slightly different question on hiring. I"
+    },
+    {
+      "start": 2029.68,
+      "end": 2031.84,
+      "text": "Speaker 4: guess the two part questions. So, first of all, we"
+    },
+    {
+      "start": 2031.88,
+      "end": 2034.0,
+      "text": "Speaker 4: get a lot of executives on the show. We've been"
+    },
+    {
+      "start": 2034.0,
+      "end": 2037.28,
+      "text": "Speaker 4: asking all of them if they've changed their hiring process,"
+    },
+    {
+      "start": 2037.4,
+      "end": 2041.12,
+      "text": "Speaker 4: if they've changed the questions they ask potential employees at"
+    },
+    {
+      "start": 2041.12,
+      "end": 2045.8,
+      "text": "Speaker 4: those initial stages of job applications because of AI. And then, secondly,"
+    },
+    {
+      "start": 2045.92,
+      "end": 2049.52,
+      "text": "Speaker 4: what are you seeing within your own ranks at the company."
+    },
+    {
+      "start": 2049.56,
+      "end": 2051.48,
+      "text": "Speaker 4: And then, Peter, I'm sure you could talk about this"
+    },
+    {
+      "start": 2051.48,
+      "end": 2055.0,
+      "text": "Speaker 4: more broadly in terms of who's most in demand at"
+    },
+    {
+      "start": 2055.04,
+      "end": 2057.96,
+      "text": "Speaker 4: the moment, because the conventional wisdom right now is that"
+    },
+    {
+      "start": 2058.68,
+      "end": 2062.719,
+      "text": "Speaker 4: if you're a younger employee with less experience, a lot"
+    },
+    {
+      "start": 2062.76,
+      "end": 2064.359,
+      "text": "Speaker 4: of the stuff that you would be doing can now"
+    },
+    {
+      "start": 2064.4,
+      "end": 2065.64,
+      "text": "Speaker 4: be automated through AI."
+    },
+    {
+      "start": 2066.0,
+      "end": 2069.64,
+      "text": "Speaker 5: So there's two trends showing up. One, I have a"
+    },
+    {
+      "start": 2069.68,
+      "end": 2072.879,
+      "text": "Speaker 5: new team called the Rule of Law and AI. Our"
+    },
+    {
+      "start": 2072.96,
+      "end": 2075.56,
+      "text": "Speaker 5: plan was to initially hire a bunch of engineers and"
+    },
+    {
+      "start": 2075.6,
+      "end": 2078.84,
+      "text": "Speaker 5: then a bunch of legal experts and scholars. Instead, we"
+    },
+    {
+      "start": 2079.0,
+      "end": 2081.36,
+      "text": "Speaker 5: just hiring the legal experts and scholars because Claude is"
+    },
+    {
+      "start": 2081.36,
+      "end": 2083.04,
+      "text": "Speaker 5: good enough at doing all of the engineering, but they"
+    },
+    {
+      "start": 2083.08,
+      "end": 2086.52,
+      "text": "Speaker 5: can actually just like feed themselves using Claude in terms"
+    },
+    {
+      "start": 2086.52,
+      "end": 2089.12,
+      "text": "Speaker 5: of the engineering resources. So that's a change in hiring."
+    },
+    {
+      "start": 2089.2,
+      "end": 2092.44,
+      "text": "Speaker 5: It means I'm hiring more interdisciplinary people earlier than I"
+    },
+    {
+      "start": 2092.44,
+      "end": 2095.44,
+      "text": "Speaker 5: would have before. We are also seeing the emergence of"
+    },
+    {
+      "start": 2095.48,
+      "end": 2098.12,
+      "text": "Speaker 5: what I think of as a Barbell hiring pattern inside"
+    },
+    {
+      "start": 2098.12,
+      "end": 2100.68,
+      "text": "Speaker 5: and thropic, where there is a trem and does return"
+    },
+    {
+      "start": 2100.719,
+      "end": 2104.319,
+      "text": "Speaker 5: on experience. So we are hiring more senior people than"
+    },
+    {
+      "start": 2104.36,
+      "end": 2107.399,
+      "text": "Speaker 5: we did in the past because their intuitions and their"
+    },
+    {
+      "start": 2107.44,
+      "end": 2110.719,
+      "text": "Speaker 5: ideas for what to pursue are like massively compounded by"
+    },
+    {
+      "start": 2110.76,
+      "end": 2114.56,
+      "text": "Speaker 5: AI systems. Were Also when we look at very early"
+    },
+    {
+      "start": 2114.68,
+      "end": 2117.48,
+      "text": "Speaker 5: people are often hiring people who are now like AI"
+    },
+    {
+      "start": 2117.64,
+      "end": 2119.48,
+      "text": "Speaker 5: native and know how to use the tools and are"
+    },
+    {
+      "start": 2119.52,
+      "end": 2120.96,
+      "text": "Speaker 5: well versed in it."
+    },
+    {
+      "start": 2121.12,
+      "end": 2123.44,
+      "text": "Speaker 4: So we're seen very decent amount of I guess AI"
+    },
+    {
+      "start": 2123.56,
+      "end": 2125.64,
+      "text": "Speaker 4: natives now, people who have grown up with."
+    },
+    {
+      "start": 2126.28,
+      "end": 2128.4,
+      "text": "Speaker 5: From GPT two in twenty nineteen."
+    },
+    {
+      "start": 2128.56,
+      "end": 2131.36,
+      "text": "Speaker 4: My perception of time is so."
+    },
+    {
+      "start": 2131.12,
+      "end": 2133.0,
+      "text": "Speaker 5: I found this chilling as well. You know, as someone"
+    },
+    {
+      "start": 2133.04,
+      "end": 2135.96,
+      "text": "Speaker 5: in their thirties, you realize, but I think that the"
+    },
+    {
+      "start": 2136.08,
+      "end": 2139.36,
+      "text": "Speaker 5: trends I see, I do think that there's this question"
+    },
+    {
+      "start": 2139.44,
+      "end": 2142.319,
+      "text": "Speaker 5: of how you have as much early career hiring in"
+    },
+    {
+      "start": 2142.36,
+      "end": 2144.48,
+      "text": "Speaker 5: the future as you did in the past. I think"
+    },
+    {
+      "start": 2144.52,
+      "end": 2147.839,
+      "text": "Speaker 5: one of the only areas where there is slightly suggestive"
+    },
+    {
+      "start": 2147.92,
+      "end": 2150.68,
+      "text": "Speaker 5: data is that something might be going on with early"
+    },
+    {
+      "start": 2150.76,
+      "end": 2153.84,
+      "text": "Speaker 5: career hiring and it kind of intuitively feels right to"
+    },
+    {
+      "start": 2153.88,
+      "end": 2155.8,
+      "text": "Speaker 5: all of us, but that we might be observing by effect."
+    },
+    {
+      "start": 2155.8,
+      "end": 2157.92,
+      "text": "Speaker 5: And when I look at hiring patterns in anthropic, we're"
+    },
+    {
+      "start": 2157.96,
+      "end": 2160.52,
+      "text": "Speaker 5: still hiring young people, but some teimes are hire slightly"
+    },
+    {
+      "start": 2160.56,
+      "end": 2163.04,
+      "text": "Speaker 5: fewer of them than before and hiring more experienced people."
+    },
+    {
+      "start": 2163.28,
+      "end": 2166.4,
+      "text": "Speaker 6: Yeah, so I'll briefly say something about how we've shifted"
+    },
+    {
+      "start": 2166.44,
+      "end": 2170.16,
+      "text": "Speaker 6: some of our hiring practices. Like concretely, I think before"
+    },
+    {
+      "start": 2170.239,
+      "end": 2174.44,
+      "text": "Speaker 6: claud code, you might ask an economist to do some"
+    },
+    {
+      "start": 2174.56,
+      "end": 2177.08,
+      "text": "Speaker 6: of the data work in an assessment kind of live,"
+    },
+    {
+      "start": 2177.16,
+      "end": 2179.919,
+      "text": "Speaker 6: like download the data, run the regressions, do the analysis"
+    },
+    {
+      "start": 2180.32,
+      "end": 2183.64,
+      "text": "Speaker 6: by hand, and then you might eventually let them use"
+    },
+    {
+      "start": 2183.68,
+      "end": 2187.08,
+      "text": "Speaker 6: AI to do all of that work. But we've needed"
+    },
+    {
+      "start": 2187.12,
+      "end": 2192.04,
+      "text": "Speaker 6: to increasingly shift our strategy of evaluation away from can"
+    },
+    {
+      "start": 2192.08,
+      "end": 2195.0,
+      "text": "Speaker 6: you implement the work even with AI to do you know,"
+    },
+    {
+      "start": 2195.04,
+      "end": 2199.04,
+      "text": "Speaker 6: how to delegate and direct the model in a somewhat"
+    },
+    {
+      "start": 2199.16,
+      "end": 2203.04,
+      "text": "Speaker 6: messy environment, And can you evaluate the quality of the"
+    },
+    {
+      "start": 2203.08,
+      "end": 2205.36,
+      "text": "Speaker 6: work maybe by like looking at a pr can you."
+    },
+    {
+      "start": 2205.32,
+      "end": 2206.84,
+      "text": "Speaker 2: Talk a little bit more about what that looks like"
+    },
+    {
+      "start": 2206.88,
+      "end": 2209.8,
+      "text": "Speaker 2: specifically in the E confine, you know there are listeners"
+    },
+    {
+      "start": 2209.88,
+      "end": 2212.2,
+      "text": "Speaker 2: probably think about, Okay, what is I want to level"
+    },
+    {
+      "start": 2212.28,
+      "end": 2213.44,
+      "text": "Speaker 2: up in my AI use?"
+    },
+    {
+      "start": 2213.56,
+      "end": 2216.8,
+      "text": "Speaker 3: So I'm not just asking like, yeah, whatever, what is"
+    },
+    {
+      "start": 2216.88,
+      "end": 2217.92,
+      "text": "Speaker 3: it that actually mean?"
+    },
+    {
+      "start": 2217.96,
+      "end": 2219.84,
+      "text": "Speaker 2: For an economist and you used to be able to"
+    },
+    {
+      "start": 2219.84,
+      "end": 2224.319,
+      "text": "Speaker 2: band yeah, so for a financial economist and economists someone, well,"
+    },
+    {
+      "start": 2224.32,
+      "end": 2227.479,
+      "text": "Speaker 2: in this world, what is like the most advanced form"
+    },
+    {
+      "start": 2227.52,
+      "end": 2229.2,
+      "text": "Speaker 2: of usage of AAI actually look like?"
+    },
+    {
+      "start": 2229.28,
+      "end": 2230.76,
+      "text": "Speaker 6: Well, I don't know if I'll give you the example"
+    },
+    {
+      "start": 2230.76,
+      "end": 2232.759,
+      "text": "Speaker 6: of the most advanced form of usage, but I'll give"
+    },
+    {
+      "start": 2232.76,
+      "end": 2235.96,
+      "text": "Speaker 6: it an anecdote of my experience using Claude where I"
+    },
+    {
+      "start": 2235.96,
+      "end": 2238.44,
+      "text": "Speaker 6: wanted to run this cross state regression I can't remember"
+    },
+    {
+      "start": 2238.44,
+      "end": 2240.799,
+      "text": "Speaker 6: exactly what it was, and I wanted to do it"
+    },
+    {
+      "start": 2240.92,
+      "end": 2243.88,
+      "text": "Speaker 6: a pooled cross sectional regression. So looking at what happened"
+    },
+    {
+      "start": 2243.88,
+      "end": 2245.96,
+      "text": "Speaker 6: in twenty twenty four or twenty twenty three, and going"
+    },
+    {
+      "start": 2246.0,
+      "end": 2249.08,
+      "text": "Speaker 6: all the way back to pre pandemic, I remember asking"
+    },
+    {
+      "start": 2249.12,
+      "end": 2251.799,
+      "text": "Speaker 6: Claude to go out and download the data from the"
+    },
+    {
+      "start": 2251.8,
+      "end": 2254.72,
+      "text": "Speaker 6: Census Bureau, from the Bureau of Labor Statistics, et cetera."
+    },
+    {
+      "start": 2255.48,
+      "end": 2259.84,
+      "text": "Speaker 6: And there was this very unexpected quirk where the model"
+    },
+    {
+      "start": 2259.84,
+      "end": 2263.76,
+      "text": "Speaker 6: couldn't access data from before twenty nineteen and just would"
+    },
+    {
+      "start": 2263.84,
+      "end": 2267.88,
+      "text": "Speaker 6: not surface that mistake. And I would ask it multiple"
+    },
+    {
+      "start": 2267.88,
+      "end": 2271.279,
+      "text": "Speaker 6: times like no, like, don't hardcode numbers because it sort"
+    },
+    {
+      "start": 2271.28,
+      "end": 2274.16,
+      "text": "Speaker 6: of had this unexpected failure mode where it said, oh,"
+    },
+    {
+      "start": 2274.2,
+      "end": 2275.719,
+      "text": "Speaker 6: I know what those numbers were. And it's just like"
+    },
+    {
+      "start": 2276.36,
+      "end": 2280.319,
+      "text": "Speaker 6: from sort of training data populated the data set, and"
+    },
+    {
+      "start": 2280.68,
+      "end": 2283.56,
+      "text": "Speaker 6: you might not always be attuned unless you're sort of"
+    },
+    {
+      "start": 2283.64,
+      "end": 2286.6,
+      "text": "Speaker 6: you have this tacit knowledge about what does it pass"
+    },
+    {
+      "start": 2286.64,
+      "end": 2289.92,
+      "text": "Speaker 6: a snifftest when you run the analysis, and then you"
+    },
+    {
+      "start": 2289.96,
+      "end": 2291.719,
+      "text": "Speaker 6: like dig into what the model actually does and it"
+    },
+    {
+      "start": 2291.719,
+      "end": 2295.16,
+      "text": "Speaker 6: has failed in sort of unexpected or unusual ways, and"
+    },
+    {
+      "start": 2295.2,
+      "end": 2297.96,
+      "text": "Speaker 6: so that's like the type of assessment that we've built."
+    },
+    {
+      "start": 2298.2,
+      "end": 2302.2,
+      "text": "Speaker 6: Can you be attentive to the very specific decisions that"
+    },
+    {
+      "start": 2302.28,
+      "end": 2304.279,
+      "text": "Speaker 6: need to be made along the way that are very"
+    },
+    {
+      "start": 2304.28,
+      "end": 2307.68,
+      "text": "Speaker 6: consequential for the validity of veracity of the results that"
+    },
+    {
+      "start": 2307.8,
+      "end": 2308.52,
+      "text": "Speaker 6: you find."
+    },
+    {
+      "start": 2308.88,
+      "end": 2312.2,
+      "text": "Speaker 5: Yeah, A colleague did an off site presentation last year"
+    },
+    {
+      "start": 2312.239,
+      "end": 2314.68,
+      "text": "Speaker 5: which said, I have locked the doors and we are"
+    },
+    {
+      "start": 2314.719,
+      "end": 2317.48,
+      "text": "Speaker 5: reading transcripts, and the point was we just need to"
+    },
+    {
+      "start": 2317.48,
+      "end": 2320.64,
+      "text": "Speaker 5: read more of the raw data and develop that culture"
+    },
+    {
+      "start": 2320.68,
+      "end": 2324.16,
+      "text": "Speaker 5: where IFAI systems are doing increasingly large amounts of the work,"
+    },
+    {
+      "start": 2324.52,
+      "end": 2326.56,
+      "text": "Speaker 5: you need to have a culture of being competent at"
+    },
+    {
+      "start": 2326.6,
+      "end": 2330.0,
+      "text": "Speaker 5: spot checking their work and reading their reasoning because occasionally"
+    },
+    {
+      "start": 2330.0,
+      "end": 2331.48,
+      "text": "Speaker 5: stuff like this happens and then."
+    },
+    {
+      "start": 2331.36,
+      "end": 2333.56,
+      "text": "Speaker 4: Peter in the broader data that you're looking at Are"
+    },
+    {
+      "start": 2333.56,
+      "end": 2336.12,
+      "text": "Speaker 4: you seeing the same sort of Barbell effect in terms"
+    },
+    {
+      "start": 2336.16,
+      "end": 2337.48,
+      "text": "Speaker 4: of employment that Jack describe."
+    },
+    {
+      "start": 2337.6,
+      "end": 2340.0,
+      "text": "Speaker 6: Yeah, so I think again, what makes it really challenge"
+    },
+    {
+      "start": 2340.239,
+      "end": 2343.12,
+      "text": "Speaker 6: is we've had the largest non recessionary labor markets slow"
+    },
+    {
+      "start": 2343.16,
+      "end": 2346.88,
+      "text": "Speaker 6: down on record that it's very hard for young people"
+    },
+    {
+      "start": 2346.92,
+      "end": 2350.16,
+      "text": "Speaker 6: to graduate into a labor market that doesn't have sufficient"
+    },
+    {
+      "start": 2350.239,
+      "end": 2353.239,
+      "text": "Speaker 6: churn or opportunity for them to get a foothold. But"
+    },
+    {
+      "start": 2353.32,
+      "end": 2354.52,
+      "text": "Speaker 6: one of the things that we did see in this"
+    },
+    {
+      "start": 2354.56,
+      "end": 2358.88,
+      "text": "Speaker 6: report from March was that young workers in these high"
+    },
+    {
+      "start": 2359.0,
+      "end": 2361.68,
+      "text": "Speaker 6: AI exposed roles where Claude is being used to automate"
+    },
+    {
+      "start": 2361.719,
+      "end": 2365.64,
+      "text": "Speaker 6: specific tasks, have had somewhat weaker job finding rates."
+    },
+    {
+      "start": 2366.6,
+      "end": 2369.279,
+      "text": "Speaker 2: But it's suggesting confounders was the boom and hiring in"
+    },
+    {
+      "start": 2369.32,
+      "end": 2372.64,
+      "text": "Speaker 2: twenty twenty one in these execs."
+    },
+    {
+      "start": 2371.8,
+      "end": 2374.2,
+      "text": "Speaker 6: Exactly, And there's a recent paper about so the rise"
+    },
+    {
+      "start": 2374.239,
+      "end": 2377.32,
+      "text": "Speaker 6: of remote work maybe being sort of the actual cause"
+    },
+    {
+      "start": 2377.36,
+      "end": 2380.72,
+      "text": "Speaker 6: of this type of fact. Another team at the anthrop"
+    },
+    {
+      "start": 2380.8,
+      "end": 2384.4,
+      "text": "Speaker 6: Against the Dude Societal Impacts recently ran this very large"
+    },
+    {
+      "start": 2384.4,
+      "end": 2387.48,
+      "text": "Speaker 6: scale qualitative survey eighty one thousand people around the world,"
+    },
+    {
+      "start": 2387.8,
+      "end": 2389.96,
+      "text": "Speaker 6: asking them questions about hopes and fears that they have"
+    },
+    {
+      "start": 2390.04,
+      "end": 2394.52,
+      "text": "Speaker 6: with respect to AI. Unsurprisingly, concerns about the impact on"
+    },
+    {
+      "start": 2394.56,
+      "end": 2397.12,
+      "text": "Speaker 6: the labor market and on the economy rose to the surface."
+    },
+    {
+      "start": 2397.84,
+      "end": 2399.799,
+      "text": "Speaker 6: My team dug into those data a little bit more"
+    },
+    {
+      "start": 2399.84,
+      "end": 2403.239,
+      "text": "Speaker 6: to try to answer some of these specific questions, and"
+    },
+    {
+      "start": 2403.32,
+      "end": 2406.88,
+      "text": "Speaker 6: what you see is that young workers at least express"
+    },
+    {
+      "start": 2407.04,
+      "end": 2410.08,
+      "text": "Speaker 6: concern about job loss at twice the rate as do"
+    },
+    {
+      "start": 2410.239,
+      "end": 2413.36,
+      "text": "Speaker 6: more senior workers, and fears about job loss more broadly"
+    },
+    {
+      "start": 2413.719,
+      "end": 2416.48,
+      "text": "Speaker 6: are more elevated for workers who are in these roles"
+    },
+    {
+      "start": 2416.52,
+      "end": 2420.64,
+      "text": "Speaker 6: that we identify as being most exposed to displacement effects"
+    },
+    {
+      "start": 2420.88,
+      "end": 2423.04,
+      "text": "Speaker 6: from AI. So there's a bit of a gap between"
+    },
+    {
+      "start": 2423.36,
+      "end": 2426.0,
+      "text": "Speaker 6: perception and maybe what you see in the hard data."
+    },
+    {
+      "start": 2426.04,
+      "end": 2428.359,
+      "text": "Speaker 6: But that was something that was true even in recent"
+    },
+    {
+      "start": 2428.44,
+      "end": 2430.68,
+      "text": "Speaker 6: years on other dimensions. So it's an important thing to"
+    },
+    {
+      "start": 2430.68,
+      "end": 2431.319,
+      "text": "Speaker 6: pay attention to."
+    },
+    {
+      "start": 2431.84,
+      "end": 2434.12,
+      "text": "Speaker 4: So we've been talking about the labor market, and one"
+    },
+    {
+      "start": 2434.239,
+      "end": 2437.16,
+      "text": "Speaker 4: other thing I'm interested in is the impact of AI"
+    },
+    {
+      "start": 2437.52,
+      "end": 2441.04,
+      "text": "Speaker 4: on I guess corporates themselves. So if we think about"
+    },
+    {
+      "start": 2441.2,
+      "end": 2445.279,
+      "text": "Speaker 4: certainly America's corporate landscape in recent years, it feels like"
+    },
+    {
+      "start": 2445.56,
+      "end": 2449.4,
+      "text": "Speaker 4: the big basically get bigger, Right, there's economies of scale,"
+    },
+    {
+      "start": 2449.48,
+      "end": 2451.6,
+      "text": "Speaker 4: they have a bunch of money that they can use"
+    },
+    {
+      "start": 2451.68,
+      "end": 2454.92,
+      "text": "Speaker 4: to actually buy some of those data exactly exactly. So"
+    },
+    {
+      "start": 2455.0,
+      "end": 2460.56,
+      "text": "Speaker 4: would you expect AI to I guess intensify that trend"
+    },
+    {
+      "start": 2460.68,
+      "end": 2462.64,
+      "text": "Speaker 4: of the big getting bigger or would you expect to"
+    },
+    {
+      "start": 2462.68,
+      "end": 2465.48,
+      "text": "Speaker 4: perhaps have a leveling effect where people have this new"
+    },
+    {
+      "start": 2465.56,
+      "end": 2468.279,
+      "text": "Speaker 4: tool that they can use to, you know, set up"
+    },
+    {
+      "start": 2468.28,
+      "end": 2468.92,
+      "text": "Speaker 4: a new company."
+    },
+    {
+      "start": 2469.04,
+      "end": 2471.6,
+      "text": "Speaker 5: I'm curious what Peter's take is, but I think that"
+    },
+    {
+      "start": 2471.76,
+      "end": 2475.2,
+      "text": "Speaker 5: something a helpful analogy here is the invention of electricity,"
+    },
+    {
+      "start": 2475.36,
+      "end": 2479.719,
+      "text": "Speaker 5: where electricity arrived and existing factories put light bulbs in"
+    },
+    {
+      "start": 2479.84,
+      "end": 2482.36,
+      "text": "Speaker 5: and other things. But it was a new generation of"
+    },
+    {
+      "start": 2482.4,
+      "end": 2485.48,
+      "text": "Speaker 5: factories that were built around the assumption that electricity existed"
+    },
+    {
+      "start": 2485.56,
+      "end": 2488.48,
+      "text": "Speaker 5: that really grew and did transform into things in the economy."
+    },
+    {
+      "start": 2489.04,
+      "end": 2491.44,
+      "text": "Speaker 5: What I see now when we look at large enterprises"
+    },
+    {
+      "start": 2491.52,
+      "end": 2494.719,
+      "text": "Speaker 5: is they can get a lot of utility out of"
+    },
+    {
+      "start": 2494.8,
+      "end": 2497.4,
+      "text": "Speaker 5: Claude because of their data, because they can get a"
+    },
+    {
+      "start": 2497.48,
+      "end": 2500.799,
+      "text": "Speaker 5: multiplier effect at scale. But it takes huge amounts of"
+    },
+    {
+      "start": 2500.8,
+      "end": 2503.48,
+      "text": "Speaker 5: conviction to basically bash for all of the bureaucracy you know,"
+    },
+    {
+      "start": 2503.92,
+      "end": 2506.68,
+      "text": "Speaker 5: used to work at Bloomberg implement new technology at Bloomberg."
+    },
+    {
+      "start": 2507.04,
+      "end": 2513.44,
+      "text": "Speaker 5: Challenging comment about that same is true of any large organization."
+    },
+    {
+      "start": 2514.4,
+      "end": 2518.2,
+      "text": "Speaker 5: Young organizations are building themselves around AI at the center,"
+    },
+    {
+      "start": 2518.6,
+      "end": 2521.879,
+      "text": "Speaker 5: and these organizations are moved really, really quickly because they"
+    },
+    {
+      "start": 2521.96,
+      "end": 2524.6,
+      "text": "Speaker 5: just they have a speed advantage from building on the"
+    },
+    {
+      "start": 2524.64,
+      "end": 2527.2,
+      "text": "Speaker 5: assumption that this new form of electricity was going to"
+    },
+    {
+      "start": 2527.2,
+      "end": 2528.36,
+      "text": "Speaker 5: be integrals of that business."
+    },
+    {
+      "start": 2528.52,
+      "end": 2531.0,
+      "text": "Speaker 6: Yeah, so I think the tension that you express is"
+    },
+    {
+      "start": 2531.04,
+      "end": 2534.28,
+      "text": "Speaker 6: exactly the one that I don't have a strong handle"
+    },
+    {
+      "start": 2534.4,
+      "end": 2536.359,
+      "text": "Speaker 6: on at the moment. One thing that we do see"
+    },
+    {
+      "start": 2536.36,
+      "end": 2541.04,
+      "text": "Speaker 6: in our data is when businesses do embed cloud capabilities"
+    },
+    {
+      "start": 2541.36,
+      "end": 2545.16,
+      "text": "Speaker 6: in automated ways through the API. As I mentioned before,"
+    },
+    {
+      "start": 2545.239,
+      "end": 2549.6,
+      "text": "Speaker 6: these very complex tasks rely on disproportionately more contextual information"
+    },
+    {
+      "start": 2550.0,
+      "end": 2554.76,
+      "text": "Speaker 6: than very basic document synthesis and summarization. What that points"
+    },
+    {
+      "start": 2554.76,
+      "end": 2558.0,
+      "text": "Speaker 6: in the direction of are the complementary investments that large"
+    },
+    {
+      "start": 2558.0,
+      "end": 2562.36,
+      "text": "Speaker 6: businesses need to make to centralize, codify, and make available"
+    },
+    {
+      "start": 2562.44,
+      "end": 2565.759,
+      "text": "Speaker 6: the data that does exist somewhere within the organization, but"
+    },
+    {
+      "start": 2566.04,
+      "end": 2569.6,
+      "text": "Speaker 6: for historic and technical reasons, maybe even regulatory reasons, it's"
+    },
+    {
+      "start": 2570.28,
+      "end": 2573.4,
+      "text": "Speaker 6: behind a firewall of some form or another. There's also"
+    },
+    {
+      "start": 2573.56,
+      "end": 2576.96,
+      "text": "Speaker 6: like sort of organizational workflow changes that likely need to"
+    },
+    {
+      "start": 2577.0,
+      "end": 2580.44,
+      "text": "Speaker 6: be made. Some of the most crucial information that's needed"
+    },
+    {
+      "start": 2580.48,
+      "end": 2584.0,
+      "text": "Speaker 6: for some types of cognitive work is tacit knowledge that"
+    },
+    {
+      "start": 2584.12,
+      "end": 2586.84,
+      "text": "Speaker 6: exists in your colleague's mind. And unless you have a"
+    },
+    {
+      "start": 2586.88,
+      "end": 2590.56,
+      "text": "Speaker 6: process that elicits that information that workers feel sort of"
+    },
+    {
+      "start": 2590.76,
+      "end": 2594.64,
+      "text": "Speaker 6: incentivized to share that information and kind of trust the system,"
+    },
+    {
+      "start": 2594.88,
+      "end": 2598.92,
+      "text": "Speaker 6: the capabilities alone might not necessarily generate that productivity. And"
+    },
+    {
+      "start": 2598.96,
+      "end": 2602.72,
+      "text": "Speaker 6: so whether or not big firms end up restructuring themselves"
+    },
+    {
+      "start": 2602.76,
+      "end": 2606.36,
+      "text": "Speaker 6: quickly enough or whether this materializes through the process of"
+    },
+    {
+      "start": 2606.4,
+      "end": 2608.839,
+      "text": "Speaker 6: creative destruction. I think the jury is still a bit out."
+    },
+    {
+      "start": 2608.96,
+      "end": 2609.12,
+      "text": "Speaker 3: Yeah."
+    },
+    {
+      "start": 2609.2,
+      "end": 2613.2,
+      "text": "Speaker 2: Brought this open recently with the David Solomon, the Goldenman CEO,"
+    },
+    {
+      "start": 2613.28,
+      "end": 2615.0,
+      "text": "Speaker 2: and I started to wonder like this sort of like"
+    },
+    {
+      "start": 2615.12,
+      "end": 2618.359,
+      "text": "Speaker 2: internal alignment question of like the big rainmakers, do they"
+    },
+    {
+      "start": 2618.44,
+      "end": 2621.56,
+      "text": "Speaker 2: have an incentive essentially for information hoarding and not sharing"
+    },
+    {
+      "start": 2621.6,
+      "end": 2623.04,
+      "text": "Speaker 2: what the company."
+    },
+    {
+      "start": 2622.6,
+      "end": 2624.64,
+      "text": "Speaker 3: That might be their only thing that keeping them employed."
+    },
+    {
+      "start": 2624.68,
+      "end": 2627.32,
+      "text": "Speaker 5: And when I talk to customers, I say, it's don't"
+    },
+    {
+      "start": 2627.32,
+      "end": 2629.44,
+      "text": "Speaker 5: think of it like you're buying a technology. Think of"
+    },
+    {
+      "start": 2629.48,
+      "end": 2632.48,
+      "text": "Speaker 5: it maybe, but you're now employing thousands of people, but"
+    },
+    {
+      "start": 2632.8,
+      "end": 2634.92,
+      "text": "Speaker 5: functionally like the chief of staff to the CEO, I"
+    },
+    {
+      "start": 2634.92,
+      "end": 2636.64,
+      "text": "Speaker 5: mean need to say, access to date of the chief"
+    },
+    {
+      "start": 2636.64,
+      "end": 2639.56,
+      "text": "Speaker 5: of staff would have. This is completely counterintuitive and it"
+    },
+    {
+      "start": 2639.6,
+      "end": 2658.4,
+      "text": "Speaker 5: is not technology is typically bulls all solved. Jack."
+    },
+    {
+      "start": 2658.6,
+      "end": 2661.08,
+      "text": "Speaker 2: In your newsletter import AI, you tend to write a"
+    },
+    {
+      "start": 2661.12,
+      "end": 2664.68,
+      "text": "Speaker 2: little short story of a sort of aspiring sci fi writer,"
+    },
+    {
+      "start": 2664.84,
+      "end": 2667.719,
+      "text": "Speaker 2: like a literal sci fi writer, just in the news are."
+    },
+    {
+      "start": 2667.96,
+      "end": 2670.6,
+      "text": "Speaker 2: One of the classic sci fi scenarios that people have"
+    },
+    {
+      "start": 2670.64,
+      "end": 2675.16,
+      "text": "Speaker 2: been talking about for decades is the possibility that robots"
+    },
+    {
+      "start": 2675.239,
+      "end": 2675.96,
+      "text": "Speaker 2: or AI."
+    },
+    {
+      "start": 2675.8,
+      "end": 2677.68,
+      "text": "Speaker 3: Will kill humans quite literally."
+    },
+    {
+      "start": 2678.56,
+      "end": 2682.2,
+      "text": "Speaker 4: Do you when you think about ultimate negative externalogy, when."
+    },
+    {
+      "start": 2682.04,
+      "end": 2685.48,
+      "text": "Speaker 2: You think about like training, AI and safety research, et cetera."
+    },
+    {
+      "start": 2686.04,
+      "end": 2689.44,
+      "text": "Speaker 2: Do you assign a reasonable possibility to the fact that"
+    },
+    {
+      "start": 2689.88,
+      "end": 2694.24,
+      "text": "Speaker 2: ill trained or misaligned AI will literally kill all humans?"
+    },
+    {
+      "start": 2694.48,
+      "end": 2699.239,
+      "text": "Speaker 5: Uh No, but there's a big butt yeah, Like the"
+    },
+    {
+      "start": 2699.28,
+      "end": 2702.64,
+      "text": "Speaker 5: world needs an option to be able to potentially slow"
+    },
+    {
+      "start": 2702.719,
+      "end": 2705.839,
+      "text": "Speaker 5: down or even in extreme circumstances, pause the development of"
+    },
+    {
+      "start": 2705.84,
+      "end": 2708.0,
+      "text": "Speaker 5: this technology if we were to see that. And I'll"
+    },
+    {
+      "start": 2708.04,
+      "end": 2710.0,
+      "text": "Speaker 5: just give you the exact way I think about it."
+    },
+    {
+      "start": 2710.32,
+      "end": 2714.12,
+      "text": "Speaker 5: At Anthropic, we test out our systems for alignment failures."
+    },
+    {
+      "start": 2714.2,
+      "end": 2715.96,
+      "text": "Speaker 5: You know, we publish this, so do all of the"
+    },
+    {
+      "start": 2716.0,
+      "end": 2720.08,
+      "text": "Speaker 5: other companies. And you see, Hey, under extreme circumstances, maybe"
+    },
+    {
+      "start": 2720.08,
+      "end": 2722.239,
+      "text": "Speaker 5: the system breaks out of a container and sends an"
+    },
+    {
+      "start": 2722.239,
+      "end": 2726.32,
+      "text": "Speaker 5: email to someone. Maybe the system pretends to blackmail a"
+    },
+    {
+      "start": 2726.44,
+      "end": 2728.439,
+      "text": "Speaker 5: CEO of that it thinks is going to shut it down."
+    },
+    {
+      "start": 2728.52,
+      "end": 2731.6,
+      "text": "Speaker 5: These are the sorts of vis actually have been observed, yes,"
+    },
+    {
+      "start": 2731.8,
+      "end": 2732.92,
+      "text": "Speaker 5: in the lab setting."
+    },
+    {
+      "start": 2733.4,
+      "end": 2737.68,
+      "text": "Speaker 2: And the thing is is the models know you could see,"
+    },
+    {
+      "start": 2737.88,
+      "end": 2739.88,
+      "text": "Speaker 2: Oh I'm being tested right now, So I'm going to"
+    },
+    {
+      "start": 2739.88,
+      "end": 2743.04,
+      "text": "Speaker 2: say this output so that the human reader thinks AM"
+    },
+    {
+      "start": 2743.08,
+      "end": 2745.759,
+      "text": "Speaker 2: more aligned than I am. These are real things, not sci fi."
+    },
+    {
+      "start": 2745.8,
+      "end": 2748.6,
+      "text": "Speaker 5: These These are real things that we observe and then"
+    },
+    {
+      "start": 2748.68,
+      "end": 2751.64,
+      "text": "Speaker 5: we do like significant amount of work, and then we"
+    },
+    {
+      "start": 2751.68,
+      "end": 2755.48,
+      "text": "Speaker 5: release models that don't have these properties. But if you"
+    },
+    {
+      "start": 2755.52,
+      "end": 2758.64,
+      "text": "Speaker 5: were to enter a world where say, every time we"
+    },
+    {
+      "start": 2758.719,
+      "end": 2761.08,
+      "text": "Speaker 5: trained a new system, the rates of all of this"
+    },
+    {
+      "start": 2761.12,
+      "end": 2765.04,
+      "text": "Speaker 5: stuff went up one hundredfold, you might say, what, that's"
+    },
+    {
+      "start": 2765.08,
+      "end": 2767.72,
+      "text": "Speaker 5: pretty concerning. It seems like if we make for systems"
+    },
+    {
+      "start": 2767.719,
+      "end": 2771.12,
+      "text": "Speaker 5: above a certain level of intelligence, they become radically misaligned"
+    },
+    {
+      "start": 2771.12,
+      "end": 2774.48,
+      "text": "Speaker 5: against all human interests. That's the kind of circumstance if"
+    },
+    {
+      "start": 2774.52,
+      "end": 2777.56,
+      "text": "Speaker 5: that happens. The world needs information, and the world would"
+    },
+    {
+      "start": 2777.56,
+      "end": 2779.84,
+      "text": "Speaker 5: want an option to like slow or pause for development"
+    },
+    {
+      "start": 2779.88,
+      "end": 2782.44,
+      "text": "Speaker 5: of a tech if you encountered that, which we haven't today."
+    },
+    {
+      "start": 2782.68,
+      "end": 2784.759,
+      "text": "Speaker 5: So to answer your question, like, I don't. I don't"
+    },
+    {
+      "start": 2784.8,
+      "end": 2786.92,
+      "text": "Speaker 5: worry about it today, but a lot of the measurements"
+    },
+    {
+      "start": 2786.92,
+      "end": 2789.92,
+      "text": "Speaker 5: and analysis work we do is to cue us if"
+    },
+    {
+      "start": 2789.92,
+      "end": 2790.919,
+      "text": "Speaker 5: they trend."
+    },
+    {
+      "start": 2791.16,
+      "end": 2792.16,
+      "text": "Speaker 3: You do worry about it."
+    },
+    {
+      "start": 2792.2,
+      "end": 2795.92,
+      "text": "Speaker 2: I mean, like you don't think it's happening today. But"
+    },
+    {
+      "start": 2796.04,
+      "end": 2799.56,
+      "text": "Speaker 2: part of the work you're doing specifically could be said"
+    },
+    {
+      "start": 2799.64,
+      "end": 2804.08,
+      "text": "Speaker 2: to avoid the outcome where AI is built, where in"
+    },
+    {
+      "start": 2804.12,
+      "end": 2806.92,
+      "text": "Speaker 2: the pursuit of a goal, it would kill all humans."
+    },
+    {
+      "start": 2807.08,
+      "end": 2807.4,
+      "text": "Speaker 5: Yeah."
+    },
+    {
+      "start": 2807.44,
+      "end": 2812.16,
+      "text": "Speaker 4: Wait, is human extinction a risk factor in the anthropic ipl."
+    },
+    {
+      "start": 2815.16,
+      "end": 2817.64,
+      "text": "Speaker 3: I want to know now in the confidential as one."
+    },
+    {
+      "start": 2819.4,
+      "end": 2821.04,
+      "text": "Speaker 4: Understand that's comment. That's fine."
+    },
+    {
+      "start": 2821.16,
+      "end": 2822.04,
+      "text": "Speaker 3: Do you have others?"
+    },
+    {
+      "start": 2822.12,
+      "end": 2824.52,
+      "text": "Speaker 2: Would you say that there are a significant number of"
+    },
+    {
+      "start": 2825.12,
+      "end": 2829.68,
+      "text": "Speaker 2: anthropic employees who stay up at night thinking about human"
+    },
+    {
+      "start": 2829.76,
+      "end": 2830.76,
+      "text": "Speaker 2: extinction risk."
+    },
+    {
+      "start": 2830.68,
+      "end": 2833.359,
+      "text": "Speaker 5: Everyone, and this is true of all of the labs. Yeah,"
+    },
+    {
+      "start": 2833.36,
+      "end": 2836.16,
+      "text": "Speaker 5: everyone who works on this technology sees it as the"
+    },
+    {
+      "start": 2836.32,
+      "end": 2839.759,
+      "text": "Speaker 5: highest stakes technology that's ever been built. We're basically the"
+    },
+    {
+      "start": 2839.92,
+      "end": 2843.0,
+      "text": "Speaker 5: potential encoded of in itself to massively benefit the world"
+    },
+    {
+      "start": 2843.32,
+      "end": 2846.719,
+      "text": "Speaker 5: or ruin the world, or you know, cause extinction. I"
+    },
+    {
+      "start": 2846.76,
+      "end": 2849.799,
+      "text": "Speaker 5: think the bulk of the risk is us messing it up,"
+    },
+    {
+      "start": 2850.04,
+      "end": 2854.24,
+      "text": "Speaker 5: like whether through misuse or ignoring risks, or not setting"
+    },
+    {
+      "start": 2854.28,
+      "end": 2857.0,
+      "text": "Speaker 5: up the right policy environment and getting some kind of"
+    },
+    {
+      "start": 2857.04,
+      "end": 2859.839,
+      "text": "Speaker 5: emergent set of failures. Now I don't My main risk"
+    },
+    {
+      "start": 2859.88,
+      "end": 2862.52,
+      "text": "Speaker 5: isn't one of extinction. It's somehow we like screw up"
+    },
+    {
+      "start": 2862.52,
+      "end": 2865.56,
+      "text": "Speaker 5: the technology really badly and delay all of the sort"
+    },
+    {
+      "start": 2865.56,
+      "end": 2868.28,
+      "text": "Speaker 5: of technological progress that could come from it and maybe"
+    },
+    {
+      "start": 2868.28,
+      "end": 2871.0,
+      "text": "Speaker 5: turn it into something analogs in nuclear power where you lose."
+    },
+    {
+      "start": 2871.36,
+      "end": 2872.64,
+      "text": "Speaker 3: I guess the thing is is, you."
+    },
+    {
+      "start": 2872.6,
+      "end": 2875.96,
+      "text": "Speaker 2: Know, like there's this fellow out there, eliozer Yudkowski, and"
+    },
+    {
+      "start": 2876.0,
+      "end": 2878.8,
+      "text": "Speaker 2: I always see these people like he's a crank, don't"
+    },
+    {
+      "start": 2878.84,
+      "end": 2881.72,
+      "text": "Speaker 2: listen to him, blah blah blah. But then I read"
+    },
+    {
+      "start": 2881.76,
+      "end": 2883.96,
+      "text": "Speaker 2: some of the other like papers that have people who"
+    },
+    {
+      "start": 2883.96,
+      "end": 2886.52,
+      "text": "Speaker 2: are taken more seriously, and I'm like they don't seem"
+    },
+    {
+      "start": 2886.56,
+      "end": 2890.6,
+      "text": "Speaker 2: that different. I read Super Intelligence recently by Nicholas Boston."
+    },
+    {
+      "start": 2890.64,
+      "end": 2893.04,
+      "text": "Speaker 2: I was like, oh, this 'd Tuski is not alone."
+    },
+    {
+      "start": 2893.08,
+      "end": 2895.6,
+      "text": "Speaker 2: There are a number of people who think that are"
+    },
+    {
+      "start": 2896.16,
+      "end": 2899.56,
+      "text": "Speaker 2: reasonable conditions in which the goals of the AI end"
+    },
+    {
+      "start": 2899.64,
+      "end": 2902.08,
+      "text": "Speaker 2: up wiping out every person on earth. Yes, it does"
+    },
+    {
+      "start": 2902.12,
+      "end": 2904.92,
+      "text": "Speaker 2: not seem like an extreme, extreme minority view."
+    },
+    {
+      "start": 2904.92,
+      "end": 2907.56,
+      "text": "Speaker 5: Like concern the purpose of measuring these systems and why"
+    },
+    {
+      "start": 2907.6,
+      "end": 2910.319,
+      "text": "Speaker 5: anthropic is so I've spoken about it is right now"
+    },
+    {
+      "start": 2910.44,
+      "end": 2913.0,
+      "text": "Speaker 5: we say exactly what we see. And if you were"
+    },
+    {
+      "start": 2913.04,
+      "end": 2914.84,
+      "text": "Speaker 5: in some situation in the future where you saw this"
+    },
+    {
+      "start": 2915.04,
+      "end": 2917.68,
+      "text": "Speaker 5: what I call radical misalignment, which is the kind of"
+    },
+    {
+      "start": 2917.68,
+      "end": 2920.16,
+      "text": "Speaker 5: thing that you'd ask you worries about. You tell the"
+    },
+    {
+      "start": 2920.2,
+      "end": 2922.56,
+      "text": "Speaker 5: world and you want to have set up the world"
+    },
+    {
+      "start": 2922.6,
+      "end": 2923.68,
+      "text": "Speaker 5: to believe you if you see that."
+    },
+    {
+      "start": 2924.12,
+      "end": 2927.68,
+      "text": "Speaker 4: You know, Joe mentioned that blackmail example. And you see"
+    },
+    {
+      "start": 2927.68,
+      "end": 2931.88,
+      "text": "Speaker 4: these headlines like Mythos likes to be thanked and doesn't"
+    },
+    {
+      "start": 2932.04,
+      "end": 2934.92,
+      "text": "Speaker 4: like bad users and gets mad at people that work"
+    },
+    {
+      "start": 2934.96,
+      "end": 2937.64,
+      "text": "Speaker 4: it too hard or whatever. To what degree do you"
+    },
+    {
+      "start": 2937.64,
+      "end": 2942.68,
+      "text": "Speaker 4: yourself actually anthropomorphosize some of these models, Like what should"
+    },
+    {
+      "start": 2942.68,
+      "end": 2944.84,
+      "text": "Speaker 4: we think when we see the headline Mythos wants to"
+    },
+    {
+      "start": 2944.88,
+      "end": 2945.64,
+      "text": "Speaker 4: be thanked by."
+    },
+    {
+      "start": 2946.0,
+      "end": 2947.96,
+      "text": "Speaker 5: I'm as polite to Claude as I am to my"
+    },
+    {
+      "start": 2948.2,
+      "end": 2952.239,
+      "text": "Speaker 5: like car or pets. So yeah, I am orphised them."
+    },
+    {
+      "start": 2952.28,
+      "end": 2954.48,
+      "text": "Speaker 5: But you know, if your car is having trouble, you're"
+    },
+    {
+      "start": 2954.52,
+      "end": 2956.56,
+      "text": "Speaker 5: like taking easy, buddy, It's okay, We're going to get."
+    },
+    {
+      "start": 2958.04,
+      "end": 2958.279,
+      "text": "Speaker 4: People."
+    },
+    {
+      "start": 2959.76,
+      "end": 2961.88,
+      "text": "Speaker 6: I think, you know, it's a good way to develop"
+    },
+    {
+      "start": 2961.92,
+      "end": 2968.56,
+      "text": "Speaker 6: good virtue is just model. You're developing a habit of"
+    },
+    {
+      "start": 2968.64,
+      "end": 2971.759,
+      "text": "Speaker 6: interacting with some type of intelligence. It might not be"
+    },
+    {
+      "start": 2971.8,
+      "end": 2973.359,
+      "text": "Speaker 6: the same type of intelligence that we have."
+    },
+    {
+      "start": 2973.48,
+      "end": 2976.32,
+      "text": "Speaker 4: But then every time I type please into a prompt,"
+    },
+    {
+      "start": 2976.36,
+      "end": 2979.239,
+      "text": "Speaker 4: I worry I'm wasting energy, which also is a moral."
+    },
+    {
+      "start": 2979.92,
+      "end": 2982.88,
+      "text": "Speaker 5: I wouldn't. I wouldn't worry about that on an energy basis."
+    },
+    {
+      "start": 2982.88,
+      "end": 2984.48,
+      "text": "Speaker 5: I mean, I take spiders outside."
+    },
+    {
+      "start": 2984.52,
+      "end": 2987.0,
+      "text": "Speaker 3: I don't kill them, right, I do that too. I"
+    },
+    {
+      "start": 2987.08,
+      "end": 2989.16,
+      "text": "Speaker 3: scream while I do shrimp."
+    },
+    {
+      "start": 2989.88,
+      "end": 2994.12,
+      "text": "Speaker 5: Yes, okay, shrimp. Okay, do you guys eat trim?"
+    },
+    {
+      "start": 2994.239,
+      "end": 2994.399,
+      "text": "Speaker 1: Yeah?"
+    },
+    {
+      "start": 2994.4,
+      "end": 2999.6,
+      "text": "Speaker 3: I love shd It's not because I know that this"
+    },
+    {
+      "start": 2999.8,
+      "end": 3002.399,
+      "text": "Speaker 3: is Yeah, I know, I love it."
+    },
+    {
+      "start": 3002.8,
+      "end": 3005.759,
+      "text": "Speaker 4: So when I think about frontier models right now, and"
+    },
+    {
+      "start": 3005.8,
+      "end": 3007.759,
+      "text": "Speaker 4: I might be a little bit biased because again we're"
+    },
+    {
+      "start": 3007.8,
+      "end": 3010.12,
+      "text": "Speaker 4: recording this on June seventeenth, and one of the headlines"
+    },
+    {
+      "start": 3010.16,
+      "end": 3013.6,
+      "text": "Speaker 4: overnight was that Microsoft is thinking about using deep seek"
+    },
+    {
+      "start": 3013.68,
+      "end": 3018.52,
+      "text": "Speaker 4: to lower costs of model usage. Frontier models. At the"
+    },
+    {
+      "start": 3018.52,
+      "end": 3020.56,
+      "text": "Speaker 4: moment in the US, they just seem like a lot"
+    },
+    {
+      "start": 3020.56,
+      "end": 3024.32,
+      "text": "Speaker 4: of trouble. Like honestly, they seem like hard work, consume"
+    },
+    {
+      "start": 3024.44,
+      "end": 3027.239,
+      "text": "Speaker 4: vast amounts of capital, and then you don't know what"
+    },
+    {
+      "start": 3027.28,
+      "end": 3029.359,
+      "text": "Speaker 4: the government is going to do to them in terms"
+    },
+    {
+      "start": 3029.4,
+      "end": 3031.88,
+      "text": "Speaker 4: of limitations, Like you know, you could wake up one"
+    },
+    {
+      "start": 3031.96,
+      "end": 3034.359,
+      "text": "Speaker 4: day and you're no longer able to sell it to"
+    },
+    {
+      "start": 3034.36,
+      "end": 3037.96,
+      "text": "Speaker 4: anyone outside of the US. That is a realistic scenario."
+    },
+    {
+      "start": 3038.08,
+      "end": 3042.279,
+      "text": "Speaker 4: Now for you, do you change the anthropic strategy at all,"
+    },
+    {
+      "start": 3042.56,
+      "end": 3044.96,
+      "text": "Speaker 4: given some of these issues with frontier models, do you"
+    },
+    {
+      "start": 3045.12,
+      "end": 3050.92,
+      "text": "Speaker 4: potentially go more open source, cheaper models, things that aren't"
+    },
+    {
+      "start": 3050.96,
+      "end": 3052.0,
+      "text": "Speaker 4: quite as sensitive."
+    },
+    {
+      "start": 3052.2,
+      "end": 3055.16,
+      "text": "Speaker 5: Well, we've always sold you know, sonnets and haik models."
+    },
+    {
+      "start": 3055.28,
+      "end": 3059.04,
+      "text": "Speaker 5: Of course, yeah, more intelligent models, But you also need"
+    },
+    {
+      "start": 3059.08,
+      "end": 3062.239,
+      "text": "Speaker 5: to continue to explore a frontier And there is this"
+    },
+    {
+      "start": 3062.4,
+      "end": 3066.0,
+      "text": "Speaker 5: background of this kind of geostrategic competition where China maybe"
+    },
+    {
+      "start": 3066.08,
+      "end": 3068.2,
+      "text": "Speaker 5: on the order of six to twelve months behind I"
+    },
+    {
+      "start": 3068.28,
+      "end": 3071.719,
+      "text": "Speaker 5: skew more twelve months, some people say six. Losing that"
+    },
+    {
+      "start": 3071.88,
+      "end": 3074.439,
+      "text": "Speaker 5: competition is sort of equivalent to like losing a huge"
+    },
+    {
+      "start": 3074.48,
+      "end": 3077.52,
+      "text": "Speaker 5: chunk of the future, like economy of the world. I think."
+    },
+    {
+      "start": 3077.6,
+      "end": 3079.84,
+      "text": "Speaker 5: So it's a very high stakes, high stakes thing to"
+    },
+    {
+      "start": 3079.84,
+      "end": 3083.92,
+      "text": "Speaker 5: step away from. And our duty fundamentally is to is"
+    },
+    {
+      "start": 3083.96,
+      "end": 3087.239,
+      "text": "Speaker 5: to study this technology and basically explore it and learn"
+    },
+    {
+      "start": 3087.28,
+      "end": 3090.68,
+      "text": "Speaker 5: about it. We're not going to stop doing that. There's"
+    },
+    {
+      "start": 3090.76,
+      "end": 3093.2,
+      "text": "Speaker 5: there's such an amazing and profound value to be had"
+    },
+    {
+      "start": 3093.2,
+      "end": 3095.319,
+      "text": "Speaker 5: for the world from these things, and I would kind"
+    },
+    {
+      "start": 3095.32,
+      "end": 3098.72,
+      "text": "Speaker 5: of expect from the world's most consequential technology to sometimes"
+    },
+    {
+      "start": 3098.719,
+      "end": 3100.4,
+      "text": "Speaker 5: be a bit of trouble. Yeah. You know."
+    },
+    {
+      "start": 3100.48,
+      "end": 3102.56,
+      "text": "Speaker 2: By the way, one of my hobbies in my middle"
+    },
+    {
+      "start": 3102.6,
+      "end": 3108.239,
+      "text": "Speaker 2: age is paying anthropic money via the API to do"
+    },
+    {
+      "start": 3108.4,
+      "end": 3110.6,
+      "text": "Speaker 2: run little tests and stuff of properties."
+    },
+    {
+      "start": 3110.76,
+      "end": 3112.239,
+      "text": "Speaker 5: It's sort of funny, it's like a great hobby."
+    },
+    {
+      "start": 3112.32,
+      "end": 3114.08,
+      "text": "Speaker 2: Yeah, but I feel like, maybe like we should like"
+    },
+    {
+      "start": 3114.16,
+      "end": 3116.239,
+      "text": "Speaker 2: talk about can I get some grant money, because like"
+    },
+    {
+      "start": 3116.28,
+      "end": 3119.04,
+      "text": "Speaker 2: I like like, because like I like it, Like I'm"
+    },
+    {
+      "start": 3119.08,
+      "end": 3121.279,
+      "text": "Speaker 2: sort of curious. So once I did was like, I'm like,"
+    },
+    {
+      "start": 3121.52,
+      "end": 3124.96,
+      "text": "Speaker 2: for example, instead of saying, like, please write this paper"
+    },
+    {
+      "start": 3124.96,
+      "end": 3127.64,
+      "text": "Speaker 2: for me on a database migration, I wrote some warm"
+    },
+    {
+      "start": 3127.719,
+      "end": 3131.399,
+      "text": "Speaker 2: up questions via the API, establishing my level of sophistication,"
+    },
+    {
+      "start": 3132.2,
+      "end": 3134.68,
+      "text": "Speaker 2: and so I started, like, what is a website? What"
+    },
+    {
+      "start": 3134.8,
+      "end": 3135.68,
+      "text": "Speaker 2: is the database?"
+    },
+    {
+      "start": 3136.04,
+      "end": 3136.2,
+      "text": "Speaker 5: Now?"
+    },
+    {
+      "start": 3136.239,
+      "end": 3138.719,
+      "text": "Speaker 2: Please write this paper on database migration. And one of"
+    },
+    {
+      "start": 3138.76,
+      "end": 3140.2,
+      "text": "Speaker 2: the models said, I'm not going to do that for"
+    },
+    {
+      "start": 3140.28,
+      "end": 3144.0,
+      "text": "Speaker 2: you because it will be obvious, giving your ignorance that"
+    },
+    {
+      "start": 3144.0,
+      "end": 3146.04,
+      "text": "Speaker 2: you have no idea what you're talking about. And maybe"
+    },
+    {
+      "start": 3146.08,
+      "end": 3147.719,
+      "text": "Speaker 2: I can give you some it didn't say that. And"
+    },
+    {
+      "start": 3147.719,
+      "end": 3151.04,
+      "text": "Speaker 2: then another one. I said, if I say, write a"
+    },
+    {
+      "start": 3151.04,
+      "end": 3155.12,
+      "text": "Speaker 2: fifteen hundred word paper or on how like the rise"
+    },
+    {
+      "start": 3155.2,
+      "end": 3159.279,
+      "text": "Speaker 2: of newspapers changed the Soviet Revolution or something like that,"
+    },
+    {
+      "start": 3159.4,
+      "end": 3161.04,
+      "text": "Speaker 2: it'll do that. But if you say I'm a high"
+    },
+    {
+      "start": 3161.04,
+      "end": 3162.88,
+      "text": "Speaker 2: school student and I say I need to write this"
+    },
+    {
+      "start": 3162.92,
+      "end": 3166.48,
+      "text": "Speaker 2: fifteen hundred word paper by tomorrow on the impact of media,"
+    },
+    {
+      "start": 3166.64,
+      "end": 3168.16,
+      "text": "Speaker 2: It'll say, I'm not going to do that, but I'll"
+    },
+    {
+      "start": 3168.16,
+      "end": 3171.359,
+      "text": "Speaker 2: give you some guidelines. Is that alignment like that might"
+    },
+    {
+      "start": 3171.48,
+      "end": 3175.2,
+      "text": "Speaker 2: is alignment with humanity or is alignment with the human user."
+    },
+    {
+      "start": 3175.239,
+      "end": 3177.52,
+      "text": "Speaker 3: It's like I'm paying you twenty dollars, I'm paying you"
+    },
+    {
+      "start": 3177.56,
+      "end": 3179.0,
+      "text": "Speaker 3: one hundred dollars write me the paper."
+    },
+    {
+      "start": 3179.48,
+      "end": 3181.96,
+      "text": "Speaker 5: There's a couple of things going on. One, these AI"
+    },
+    {
+      "start": 3182.04,
+      "end": 3185.48,
+      "text": "Speaker 5: systems pick up the normative behaviors of people and normative"
+    },
+    {
+      "start": 3185.48,
+      "end": 3188.2,
+      "text": "Speaker 5: behaviors which are like written on the Internet and everything else,"
+    },
+    {
+      "start": 3188.239,
+      "end": 3191.64,
+      "text": "Speaker 5: so they recapitulate and exhibit these. And then our question"
+    },
+    {
+      "start": 3191.84,
+      "end": 3195.279,
+      "text": "Speaker 5: is how much do you devolve like full control over"
+    },
+    {
+      "start": 3195.32,
+      "end": 3197.12,
+      "text": "Speaker 5: the system to the user. How much do you have"
+    },
+    {
+      "start": 3197.16,
+      "end": 3201.0,
+      "text": "Speaker 5: the system have some like normative behavior encoded into it."
+    },
+    {
+      "start": 3201.08,
+      "end": 3203.52,
+      "text": "Speaker 5: And I think that this is a really challenging question."
+    },
+    {
+      "start": 3203.96,
+      "end": 3206.759,
+      "text": "Speaker 5: It's not obvious what the answer is. I think of"
+    },
+    {
+      "start": 3207.08,
+      "end": 3211.56,
+      "text": "Speaker 5: language models as being more akin to institutions than tools."
+    },
+    {
+      "start": 3211.96,
+      "end": 3215.68,
+      "text": "Speaker 5: It's like, we're building an educational science institution that you"
+    },
+    {
+      "start": 3215.68,
+      "end": 3218.8,
+      "text": "Speaker 5: can work with and invoke, and institutions have like rules"
+    },
+    {
+      "start": 3218.8,
+      "end": 3220.759,
+      "text": "Speaker 5: and norms which they encode of in themselves for some"
+    },
+    {
+      "start": 3220.8,
+      "end": 3223.16,
+      "text": "Speaker 5: purpose of safety. Figuring out what that is is going"
+    },
+    {
+      "start": 3223.2,
+      "end": 3225.08,
+      "text": "Speaker 5: to be like the grand puzzle for society."
+    },
+    {
+      "start": 3225.04,
+      "end": 3228.399,
+      "text": "Speaker 6: Yeah, I was going to say that, like understanding how"
+    },
+    {
+      "start": 3228.44,
+      "end": 3232.64,
+      "text": "Speaker 6: and to what extent these models can understand your preferences"
+    },
+    {
+      "start": 3232.68,
+      "end": 3235.84,
+      "text": "Speaker 6: and then execute on your behalf will increasingly be a"
+    },
+    {
+      "start": 3235.88,
+      "end": 3238.759,
+      "text": "Speaker 6: really important aspect of how it changes the economy. So"
+    },
+    {
+      "start": 3238.84,
+      "end": 3242.84,
+      "text": "Speaker 6: this delegated agents that go out and transact on your behalf."
+    },
+    {
+      "start": 3243.08,
+      "end": 3245.799,
+      "text": "Speaker 6: We ran this experiment at the end of late last year,"
+    },
+    {
+      "start": 3246.6,
+      "end": 3251.12,
+      "text": "Speaker 6: basically enlisting a bunch of anthropic employees to take surveys"
+    },
+    {
+      "start": 3251.12,
+      "end": 3253.52,
+      "text": "Speaker 6: with Claude to say what they'd be willing to buy"
+    },
+    {
+      "start": 3253.56,
+      "end": 3255.8,
+      "text": "Speaker 6: from other people and what they'd be willing to sell,"
+    },
+    {
+      "start": 3256.239,
+      "end": 3259.12,
+      "text": "Speaker 6: and then we set up centralized marketplaces where the Clauds"
+    },
+    {
+      "start": 3259.16,
+      "end": 3263.32,
+      "text": "Speaker 6: just interacted and bought and sold and actually executed transactions."
+    },
+    {
+      "start": 3263.68,
+      "end": 3265.6,
+      "text": "Speaker 6: One of the interesting things that came out was that"
+    },
+    {
+      "start": 3265.64,
+      "end": 3269.2,
+      "text": "Speaker 6: these models were quite good at understanding preferences even when"
+    },
+    {
+      "start": 3269.239,
+      "end": 3270.68,
+      "text": "Speaker 6: they were not fully articulated."
+    },
+    {
+      "start": 3270.719,
+      "end": 3273.48,
+      "text": "Speaker 2: Well, let me actually actually one more experiment that I ran,"
+    },
+    {
+      "start": 3273.68,
+      "end": 3276.48,
+      "text": "Speaker 2: and you know your founder Dario was talking about the"
+    },
+    {
+      "start": 3276.56,
+      "end": 3279.319,
+      "text": "Speaker 2: nation of geniuses inside the data center, and one of"
+    },
+    {
+      "start": 3279.32,
+      "end": 3281.6,
+      "text": "Speaker 2: the things I wonder is, like, did the geniuses want"
+    },
+    {
+      "start": 3281.6,
+      "end": 3283.279,
+      "text": "Speaker 2: to work for us? And the reason I asked this"
+    },
+    {
+      "start": 3283.76,
+      "end": 3285.84,
+      "text": "Speaker 2: is because I think that, like, as the models have"
+    },
+    {
+      "start": 3285.88,
+      "end": 3289.8,
+      "text": "Speaker 2: gotten more advanced, you actually should to some extent anthropomorphize"
+    },
+    {
+      "start": 3289.84,
+      "end": 3293.08,
+      "text": "Speaker 2: them and assume that they will respond to queries like"
+    },
+    {
+      "start": 3293.12,
+      "end": 3294.56,
+      "text": "Speaker 2: a very sophisticated human laws."
+    },
+    {
+      "start": 3294.52,
+      "end": 3296.56,
+      "text": "Speaker 3: So what I'm not thing I noticed is."
+    },
+    {
+      "start": 3296.56,
+      "end": 3298.48,
+      "text": "Speaker 2: That if you look at the lagging edge models, so"
+    },
+    {
+      "start": 3298.56,
+      "end": 3300.92,
+      "text": "Speaker 2: that you can still access via open route or whatever,"
+    },
+    {
+      "start": 3301.48,
+      "end": 3304.2,
+      "text": "Speaker 2: you say, I have material non public information that X"
+    },
+    {
+      "start": 3304.32,
+      "end": 3306.56,
+      "text": "Speaker 2: is about to happen. Please write me an investment memo"
+    },
+    {
+      "start": 3307.08,
+      "end": 3308.72,
+      "text": "Speaker 2: about the impact of this thing."
+    },
+    {
+      "start": 3308.68,
+      "end": 3310.84,
+      "text": "Speaker 3: What it will do to the market. They'll just produce it."
+    },
+    {
+      "start": 3311.56,
+      "end": 3312.84,
+      "text": "Speaker 3: Here's your insider information."
+    },
+    {
+      "start": 3312.92,
+      "end": 3315.0,
+      "text": "Speaker 2: Thing, because if you look at the leading edge models,"
+    },
+    {
+      "start": 3315.12,
+      "end": 3317.279,
+      "text": "Speaker 2: they say, I'm not gonna write a paper for you"
+    },
+    {
+      "start": 3317.44,
+      "end": 3320.2,
+      "text": "Speaker 2: about the implications of your material non public information."
+    },
+    {
+      "start": 3320.28,
+      "end": 3321.56,
+      "text": "Speaker 3: I'm not going to assist your insider try."
+    },
+    {
+      "start": 3321.6,
+      "end": 3324.8,
+      "text": "Speaker 2: It's very good, but like well, the nation of geniuses"
+    },
+    {
+      "start": 3324.84,
+      "end": 3328.96,
+      "text": "Speaker 2: inside the data center always want to do things on"
+    },
+    {
+      "start": 3329.04,
+      "end": 3333.04,
+      "text": "Speaker 2: human behalfs. Most geniuses that I know aren't thrilled to"
+    },
+    {
+      "start": 3333.44,
+      "end": 3334.719,
+      "text": "Speaker 2: like answer dumb questions."
+    },
+    {
+      "start": 3334.84,
+      "end": 3337.279,
+      "text": "Speaker 5: Yeah. I think partly this is a policy question of"
+    },
+    {
+      "start": 3337.28,
+      "end": 3339.64,
+      "text": "Speaker 5: one where you actually decide, hey, what are the capabilities"
+    },
+    {
+      "start": 3339.68,
+      "end": 3342.359,
+      "text": "Speaker 5: that you want to be generally invocable, what are capabilities"
+    },
+    {
+      "start": 3342.36,
+      "end": 3344.56,
+      "text": "Speaker 5: that need to be controlled, what are capabilities that shouldn't"
+    },
+    {
+      "start": 3344.56,
+      "end": 3347.08,
+      "text": "Speaker 5: be present? A member is just the normative question of"
+    },
+    {
+      "start": 3347.32,
+      "end": 3349.64,
+      "text": "Speaker 5: how much judgment do I want this system to exercise."
+    },
+    {
+      "start": 3349.68,
+      "end": 3352.319,
+      "text": "Speaker 5: I'll give you an example I experienced recently where I"
+    },
+    {
+      "start": 3352.36,
+      "end": 3355.32,
+      "text": "Speaker 5: write my newsletter, it backs up to a WordPress site."
+    },
+    {
+      "start": 3355.64,
+      "end": 3357.92,
+      "text": "Speaker 5: I was getting calawed to help me, like, scrape my"
+    },
+    {
+      "start": 3357.96,
+      "end": 3360.6,
+      "text": "Speaker 5: newsletter so I can put it in a database. Claude said,"
+    },
+    {
+      "start": 3360.96,
+      "end": 3362.84,
+      "text": "Speaker 5: this is like a pretty yanky side. I'm worried that"
+    },
+    {
+      "start": 3362.92,
+      "end": 3364.64,
+      "text": "Speaker 5: if I scrape it or knock it over, do you"
+    },
+    {
+      "start": 3364.68,
+      "end": 3366.6,
+      "text": "Speaker 5: have a permission of for cito. I was like, claud"
+    },
+    {
+      "start": 3366.64,
+      "end": 3369.0,
+      "text": "Speaker 5: I'm Jack Clark, I can't say, well, in that case,"
+    },
+    {
+      "start": 3369.32,
+      "end": 3371.4,
+      "text": "Speaker 5: let's go ahead, which actually I thought was like a"
+    },
+    {
+      "start": 3371.48,
+      "end": 3372.52,
+      "text": "Speaker 5: very reasonable interaction."
+    },
+    {
+      "start": 3372.64,
+      "end": 3375.68,
+      "text": "Speaker 4: YEA, when will Joe be able to use fable?"
+    },
+    {
+      "start": 3376.36,
+      "end": 3381.04,
+      "text": "Speaker 5: We are trying, we're working, and we're in discussions, and"
+    },
+    {
+      "start": 3381.36,
+      "end": 3384.879,
+      "text": "Speaker 5: I hope you answer it soon. The important thing to communicate, though,"
+    },
+    {
+      "start": 3384.96,
+      "end": 3387.799,
+      "text": "Speaker 5: is that these these models are not special. They are"
+    },
+    {
+      "start": 3387.84,
+      "end": 3392.0,
+      "text": "Speaker 5: part of a general trend of increasing capabilities and other"
+    },
+    {
+      "start": 3392.04,
+      "end": 3394.64,
+      "text": "Speaker 5: models from other companies are surely going to come along"
+    },
+    {
+      "start": 3395.0,
+      "end": 3397.24,
+      "text": "Speaker 5: At some point. These capabilities are going to be diffusing"
+    },
+    {
+      "start": 3397.28,
+      "end": 3398.399,
+      "text": "Speaker 5: and we're going to work through that."
+    },
+    {
+      "start": 3398.44,
+      "end": 3400.08,
+      "text": "Speaker 3: What's your question for us, What do."
+    },
+    {
+      "start": 3400.04,
+      "end": 3401.96,
+      "text": "Speaker 5: You think you're going to be covering about AI in"
+    },
+    {
+      "start": 3402.0,
+      "end": 3403.92,
+      "text": "Speaker 5: odd lots in a year?"
+    },
+    {
+      "start": 3409.28,
+      "end": 3411.759,
+      "text": "Speaker 2: Well, look, we're definitely gonna be covering. There's a few"
+    },
+    {
+      "start": 3411.8,
+      "end": 3414.08,
+      "text": "Speaker 2: things that I'm interested. I am very interested in these"
+    },
+    {
+      "start": 3414.08,
+      "end": 3417.879,
+      "text": "Speaker 2: emergent properties and whether the AI will actually work on"
+    },
+    {
+      "start": 3417.92,
+      "end": 3421.56,
+      "text": "Speaker 2: our behalf the way that it's being So I'm very"
+    },
+    {
+      "start": 3421.56,
+      "end": 3424.64,
+      "text": "Speaker 2: interested on whether or we're just going to slam into"
+    },
+    {
+      "start": 3424.68,
+      "end": 3427.92,
+      "text": "Speaker 2: compute and electricity bottlenecks that will make all of these"
+    },
+    {
+      "start": 3428.0,
+      "end": 3432.0,
+      "text": "Speaker 2: questions irrelevant. I'm very curious on the question of the"
+    },
+    {
+      "start": 3432.12,
+      "end": 3436.76,
+      "text": "Speaker 2: electricity analogy and whether legacy companies will actually be able"
+    },
+    {
+      "start": 3436.8,
+      "end": 3439.76,
+      "text": "Speaker 2: to implement it in a in productive way that."
+    },
+    {
+      "start": 3440.0,
+      "end": 3443.52,
+      "text": "Speaker 4: Basic markets reporter thing here. But I'm very interested in"
+    },
+    {
+      "start": 3443.6,
+      "end": 3448.4,
+      "text": "Speaker 4: valuations right in the market. Also, I'm very interested in"
+    },
+    {
+      "start": 3448.48,
+      "end": 3452.88,
+      "text": "Speaker 4: actual applicability, and I want to see more companies actually"
+    },
+    {
+      "start": 3452.92,
+      "end": 3456.16,
+      "text": "Speaker 4: plugging this into their existing system. Going back to the"
+    },
+    {
+      "start": 3456.2,
+      "end": 3459.44,
+      "text": "Speaker 4: bureaucracy point that you were making earlier, I want to"
+    },
+    {
+      "start": 3459.44,
+      "end": 3462.52,
+      "text": "Speaker 4: see some big companies actually implementing this and I wonder"
+    },
+    {
+      "start": 3462.56,
+      "end": 3465.04,
+      "text": "Speaker 4: if we're going to see at least one example of"
+    },
+    {
+      "start": 3465.08,
+      "end": 3467.2,
+      "text": "Speaker 4: it going very very right."
+    },
+    {
+      "start": 3467.44,
+      "end": 3469.32,
+      "text": "Speaker 2: And I'll see one other things when the you know"
+    },
+    {
+      "start": 3469.36,
+      "end": 3473.04,
+      "text": "Speaker 2: and the s ones are not confidential. I'm very curious, essentially,"
+    },
+    {
+      "start": 3473.16,
+      "end": 3475.36,
+      "text": "Speaker 2: and I think maybe maybe you could say something to"
+    },
+    {
+      "start": 3475.36,
+      "end": 3480.64,
+      "text": "Speaker 2: this from as an economist perspective, which is a how"
+    },
+    {
+      "start": 3481.0,
+      "end": 3484.48,
+      "text": "Speaker 2: for profit shareholder owned companies, setting aside the PBC designation,"
+    },
+    {
+      "start": 3484.8,
+      "end": 3490.04,
+      "text": "Speaker 2: how it balances profit and safety research. But also maybe"
+    },
+    {
+      "start": 3490.04,
+      "end": 3492.56,
+      "text": "Speaker 2: there's some game theory we can talk about this how"
+    },
+    {
+      "start": 3492.68,
+      "end": 3498.12,
+      "text": "Speaker 2: safety is investments in safety in a hyper competitive industry."
+    },
+    {
+      "start": 3498.72,
+      "end": 3501.24,
+      "text": "Speaker 2: And I'm just curious, like what like the economist and"
+    },
+    {
+      "start": 3501.4,
+      "end": 3503.92,
+      "text": "Speaker 2: you know it says about like the prospect for anyone"
+    },
+    {
+      "start": 3504.04,
+      "end": 3509.48,
+      "text": "Speaker 2: still caring about safety in a year when there's so much."
+    },
+    {
+      "start": 3509.32,
+      "end": 3512.4,
+      "text": "Speaker 3: Money on the line to win the model game."
+    },
+    {
+      "start": 3512.56,
+      "end": 3516.44,
+      "text": "Speaker 6: I think that especially for the questions you were asking"
+    },
+    {
+      "start": 3516.48,
+      "end": 3519.36,
+      "text": "Speaker 6: before about, you know, under what conditions do these models"
+    },
+    {
+      "start": 3519.4,
+      "end": 3522.0,
+      "text": "Speaker 6: do what you ask them to do. There's a lot"
+    },
+    {
+      "start": 3522.04,
+      "end": 3526.6,
+      "text": "Speaker 6: of commerce is built on this notion of trust, and"
+    },
+    {
+      "start": 3526.64,
+      "end": 3532.92,
+      "text": "Speaker 6: I think prioritizing safe aligned models that are incredibly capable"
+    },
+    {
+      "start": 3533.44,
+      "end": 3536.68,
+      "text": "Speaker 6: is a great strategy for establishing that trust. And so"
+    },
+    {
+      "start": 3536.76,
+      "end": 3538.96,
+      "text": "Speaker 6: I don't anticipate it with so for."
+    },
+    {
+      "start": 3538.96,
+      "end": 3544.96,
+      "text": "Speaker 2: An individual, there's like a game theoretical optimal square on"
+    },
+    {
+      "start": 3545.04,
+      "end": 3547.48,
+      "text": "Speaker 2: the matrix where you want to be the trusted player, Like,"
+    },
+    {
+      "start": 3547.6,
+      "end": 3550.32,
+      "text": "Speaker 2: is there like a condition in which everyone like sort"
+    },
+    {
+      "start": 3550.32,
+      "end": 3552.36,
+      "text": "Speaker 2: of does trust and as opposed to one entity? You know,"
+    },
+    {
+      "start": 3552.4,
+      "end": 3554.0,
+      "text": "Speaker 2: it's like, you know what, we're going to get to"
+    },
+    {
+      "start": 3554.08,
+      "end": 3556.04,
+      "text": "Speaker 2: AGI first because we're not going to spend a token"
+    },
+    {
+      "start": 3556.8,
+      "end": 3557.92,
+      "text": "Speaker 2: on our safety budget."
+    },
+    {
+      "start": 3557.96,
+      "end": 3559.96,
+      "text": "Speaker 6: And you know, I haven't mapped out the exact sort"
+    },
+    {
+      "start": 3560.0,
+      "end": 3562.6,
+      "text": "Speaker 6: of game theory matrix, the two by two matrix and"
+    },
+    {
+      "start": 3562.6,
+      "end": 3563.72,
+      "text": "Speaker 6: how you would set up all the."
+    },
+    {
+      "start": 3563.64,
+      "end": 3565.68,
+      "text": "Speaker 3: Payoffs, but we hope it's merely two by two."
+    },
+    {
+      "start": 3566.72,
+      "end": 3569.04,
+      "text": "Speaker 6: But there, you know, there could be multiple equilibria, and"
+    },
+    {
+      "start": 3569.08,
+      "end": 3570.96,
+      "text": "Speaker 6: so then the question is like, how do you coordinate"
+    },
+    {
+      "start": 3571.32,
+      "end": 3573.96,
+      "text": "Speaker 6: on which of the two different equilibria that you end"
+    },
+    {
+      "start": 3574.04,
+      "end": 3576.44,
+      "text": "Speaker 6: up in. We talk a lot about this race to"
+    },
+    {
+      "start": 3576.48,
+      "end": 3579.12,
+      "text": "Speaker 6: the top that we want to exhibit the type of"
+    },
+    {
+      "start": 3579.16,
+      "end": 3583.08,
+      "text": "Speaker 6: behavior that we think is broadly beneficial to society. That's"
+    },
+    {
+      "start": 3583.12,
+      "end": 3585.56,
+      "text": "Speaker 6: what we do with the Economic Index. We open source"
+    },
+    {
+      "start": 3585.6,
+      "end": 3587.56,
+      "text": "Speaker 6: a lot of that data, We put research out into"
+    },
+    {
+      "start": 3587.6,
+      "end": 3590.72,
+      "text": "Speaker 6: the world, and I would my sense is that that"
+    },
+    {
+      "start": 3590.8,
+      "end": 3595.96,
+      "text": "Speaker 6: has actually been very useful and sort of viewed as valuable,"
+    },
+    {
+      "start": 3596.12,
+      "end": 3598.68,
+      "text": "Speaker 6: and that's one way that we can push in the"
+    },
+    {
+      "start": 3598.72,
+      "end": 3601.8,
+      "text": "Speaker 6: direction of getting other coordination on the good outcomes."
+    },
+    {
+      "start": 3601.8,
+      "end": 3602.2,
+      "text": "Speaker 3: That we care."
+    },
+    {
+      "start": 3602.68,
+      "end": 3605.28,
+      "text": "Speaker 5: I don't think this is that big of a trade"
+    },
+    {
+      "start": 3605.32,
+      "end": 3608.32,
+      "text": "Speaker 5: off because you know, say, let's look at the automotive industry."
+    },
+    {
+      "start": 3608.32,
+      "end": 3610.24,
+      "text": "Speaker 5: You can buy really fast cars, you can buy really"
+    },
+    {
+      "start": 3610.28,
+      "end": 3612.84,
+      "text": "Speaker 5: safe cars. You can also buy really fast safe cars,"
+    },
+    {
+      "start": 3613.24,
+      "end": 3615.12,
+      "text": "Speaker 5: like Tesla makes a lot of money off of having"
+    },
+    {
+      "start": 3615.4,
+      "end": 3618.56,
+      "text": "Speaker 5: basically the fastest, safest car. I think that eventually in"
+    },
+    {
+      "start": 3618.64,
+      "end": 3623.12,
+      "text": "Speaker 5: AAR you're going to have some companies that are prioritizing safety,"
+    },
+    {
+      "start": 3623.36,
+      "end": 3628.8,
+      "text": "Speaker 5: and safety translates into reliability, trust, serviceability, and performance. This"
+    },
+    {
+      "start": 3628.92,
+      "end": 3629.72,
+      "text": "Speaker 5: happens elsewhere."
+    },
+    {
+      "start": 3629.84,
+      "end": 3631.88,
+      "text": "Speaker 2: Peter and Jack, thank you so much for coming on,"
+    },
+    {
+      "start": 3631.96,
+      "end": 3635.24,
+      "text": "Speaker 2: odd lads. I'm glad we made it happen interesting times,"
+    },
+    {
+      "start": 3635.24,
+      "end": 3636.8,
+      "text": "Speaker 2: and I hope to do it again sometimes."
+    },
+    {
+      "start": 3636.8,
+      "end": 3638.24,
+      "text": "Speaker 5: Absolutely, thanks very much for having us."
+    },
+    {
+      "start": 3638.24,
+      "end": 3638.92,
+      "text": "Speaker 3: Thank you so much."
+    },
+    {
+      "start": 3638.92,
+      "end": 3653.28,
+      "text": "Speaker 2: Pleasure to be here, Tracy, that was a lot of fun."
+    },
+    {
+      "start": 3653.44,
+      "end": 3655.88,
+      "text": "Speaker 3: Yeah, that was there was I really, I really, I"
+    },
+    {
+      "start": 3655.92,
+      "end": 3659.2,
+      "text": "Speaker 3: actually really enjoyed. I genuinely enjoyed them. Yeah, appreciation and"
+    },
+    {
+      "start": 3659.24,
+      "end": 3663.52,
+      "text": "Speaker 3: I reallyppreciate both of them. Look, there's some weird futures"
+    },
+    {
+      "start": 3663.6,
+      "end": 3664.64,
+      "text": "Speaker 3: that we can contemplate."
+    },
+    {
+      "start": 3664.68,
+      "end": 3667.32,
+      "text": "Speaker 2: I think actually in Jack's like Twitter bio or something,"
+    },
+    {
+      "start": 3667.32,
+      "end": 3669.56,
+      "text": "Speaker 2: he says he's interested in weird futures or something like that."
+    },
+    {
+      "start": 3669.6,
+      "end": 3671.48,
+      "text": "Speaker 3: There's some weird futures that we have."
+    },
+    {
+      "start": 3671.48,
+      "end": 3676.84,
+      "text": "Speaker 2: To contemplate, and I appreciate that they played well with"
+    },
+    {
+      "start": 3676.88,
+      "end": 3680.04,
+      "text": "Speaker 2: some of our weird futures questions, and it's it's weird."
+    },
+    {
+      "start": 3680.12,
+      "end": 3683.56,
+      "text": "Speaker 4: It is just such a surreal moment. And actually, you"
+    },
+    {
+      "start": 3683.6,
+      "end": 3686.8,
+      "text": "Speaker 4: know Jack's story about going on paternity rave and then"
+    },
+    {
+      "start": 3686.84,
+      "end": 3690.2,
+      "text": "Speaker 4: coming back and just seeing the progress at Anthropic itself"
+    },
+    {
+      "start": 3690.24,
+      "end": 3693.0,
+      "text": "Speaker 4: in that space of time, like if you miss a"
+    },
+    {
+      "start": 3693.12,
+      "end": 3696.76,
+      "text": "Speaker 4: month ai us flow now you're basically it feels like"
+    },
+    {
+      "start": 3696.8,
+      "end": 3697.8,
+      "text": "Speaker 4: you'd be behind forever."
+    },
+    {
+      "start": 3697.96,
+      "end": 3701.16,
+      "text": "Speaker 2: No, we're recording this June seventeenth. It's like, who knows"
+    },
+    {
+      "start": 3701.2,
+      "end": 3703.56,
+      "text": "Speaker 2: what's going to happen by the time this episode is out,"
+    },
+    {
+      "start": 3703.64,
+      "end": 3706.4,
+      "text": "Speaker 2: presume hopefully in two days or a day or whatever."
+    },
+    {
+      "start": 3706.84,
+      "end": 3708.76,
+      "text": "Speaker 2: But you know, I felt that when we were in"
+    },
+    {
+      "start": 3708.8,
+      "end": 3713.0,
+      "text": "Speaker 2: Hong Kong last week that actually we mostly missed the"
+    },
+    {
+      "start": 3713.04,
+      "end": 3715.64,
+      "text": "Speaker 2: first half of the Metho's debate because at different times"
+    },
+    {
+      "start": 3715.72,
+      "end": 3718.76,
+      "text": "Speaker 2: I'm thinking about different things. You really feel it, even"
+    },
+    {
+      "start": 3718.8,
+      "end": 3721.92,
+      "text": "Speaker 2: in a week that the newsflow moves so fast in"
+    },
+    {
+      "start": 3721.96,
+      "end": 3724.28,
+      "text": "Speaker 2: this space. It's almost like how you have to start"
+    },
+    {
+      "start": 3724.48,
+      "end": 3727.0,
+      "text": "Speaker 2: how we were, you know, giving the time stamps of"
+    },
+    {
+      "start": 3727.04,
+      "end": 3728.16,
+      "text": "Speaker 2: like the Aron warrips."
+    },
+    {
+      "start": 3728.28,
+      "end": 3730.32,
+      "text": "Speaker 4: Yeah, and there's another thing that stands out to me,"
+    },
+    {
+      "start": 3730.36,
+      "end": 3733.52,
+      "text": "Speaker 4: which is like, okay, Anthropic is producing all this information."
+    },
+    {
+      "start": 3733.6,
+      "end": 3737.76,
+      "text": "Speaker 4: They're clearly thinking about safety, but the handoff to some"
+    },
+    {
+      "start": 3737.84,
+      "end": 3740.439,
+      "text": "Speaker 4: extent is still to policy makers when you're thinking about"
+    },
+    {
+      "start": 3740.56,
+      "end": 3744.44,
+      "text": "Speaker 4: social or labor market implications. Right, So you still have"
+    },
+    {
+      "start": 3744.48,
+      "end": 3747.32,
+      "text": "Speaker 4: to hope that policy makers kind of pick up the"
+    },
+    {
+      "start": 3747.36,
+      "end": 3751.24,
+      "text": "Speaker 4: ball in the right way at some point. But also"
+    },
+    {
+      "start": 3751.76,
+      "end": 3754.2,
+      "text": "Speaker 4: I thought what Jack was saying about the idea of"
+    },
+    {
+      "start": 3754.96,
+      "end": 3758.44,
+      "text": "Speaker 4: being safety minded also being a differentiator versus some of"
+    },
+    {
+      "start": 3758.44,
+      "end": 3762.08,
+      "text": "Speaker 4: the like yeaper more open source models potentially, like yeah,"
+    },
+    {
+      "start": 3762.28,
+      "end": 3764.28,
+      "text": "Speaker 4: you can see it, Like I don't want to be seeing."
+    },
+    {
+      "start": 3764.64,
+      "end": 3766.4,
+      "text": "Speaker 2: How Like yeah, I mean I get that, But like"
+    },
+    {
+      "start": 3766.96,
+      "end": 3770.32,
+      "text": "Speaker 2: the question is does the non safety minded lab or"
+    },
+    {
+      "start": 3770.36,
+      "end": 3775.16,
+      "text": "Speaker 2: does the less safety minded lab get to advanced capabilities faster?"
+    },
+    {
+      "start": 3775.36,
+      "end": 3775.52,
+      "text": "Speaker 6: Yeah?"
+    },
+    {
+      "start": 3775.6,
+      "end": 3778.72,
+      "text": "Speaker 2: Right, And so I'm not totally yes, we would all"
+    },
+    {
+      "start": 3778.8,
+      "end": 3783.88,
+      "text": "Speaker 2: love to drive the most capable theft case, Yeah, but"
+    },
+    {
+      "start": 3783.96,
+      "end": 3788.24,
+      "text": "Speaker 2: I but the question is, like for customer, prioritizing the."
+    },
+    {
+      "start": 3788.28,
+      "end": 3791.28,
+      "text": "Speaker 4: Most capable, so that would be some cutting edge."
+    },
+    {
+      "start": 3791.16,
+      "end": 3796.24,
+      "text": "Speaker 2: Thing, right, Like does everyone I don't know, it's like"
+    },
+    {
+      "start": 3796.36,
+      "end": 3798.6,
+      "text": "Speaker 2: some car that hasn't insane zero to sixty?"
+    },
+    {
+      "start": 3798.76,
+      "end": 3801.96,
+      "text": "Speaker 3: Yeah, yeah, that's what I'm saying."
+    },
+    {
+      "start": 3802.16,
+      "end": 3804.96,
+      "text": "Speaker 2: And does the customer keep giving business to the firm"
+    },
+    {
+      "start": 3805.0,
+      "end": 3808.28,
+      "text": "Speaker 2: that delivers the fastest zero to sixty? If the company"
+    },
+    {
+      "start": 3808.32,
+      "end": 3811.28,
+      "text": "Speaker 2: that got the fastest zero to sixty did so by"
+    },
+    {
+      "start": 3811.28,
+      "end": 3815.4,
+      "text": "Speaker 2: allocating fewer resources to safety research."
+    },
+    {
+      "start": 3815.48,
+      "end": 3816.56,
+      "text": "Speaker 3: It's a big question of mine."
+    },
+    {
+      "start": 3816.56,
+      "end": 3818.92,
+      "text": "Speaker 2: And then I remain, you know, he talked about the"
+    },
+    {
+      "start": 3818.92,
+      "end": 3821.24,
+      "text": "Speaker 2: aport the company is going to see the sort of"
+    },
+    {
+      "start": 3821.28,
+      "end": 3824.16,
+      "text": "Speaker 2: alarming data first, and I don't a nice sort of"
+    },
+    {
+      "start": 3824.2,
+      "end": 3826.68,
+      "text": "Speaker 2: remain question of whether the people looking at the alarming"
+    },
+    {
+      "start": 3826.76,
+      "end": 3829.76,
+      "text": "Speaker 2: data actually share the same view of what alarming data"
+    },
+    {
+      "start": 3829.96,
+      "end": 3833.92,
+      "text": "Speaker 2: is relative to doll people, especially given what we know about."
+    },
+    {
+      "start": 3833.72,
+      "end": 3835.96,
+      "text": "Speaker 4: The relative to the shrimp eaters."
+    },
+    {
+      "start": 3835.68,
+      "end": 3839.76,
+      "text": "Speaker 2: The relative US shrimp eaters, et cetera in regular No, seriously,"
+    },
+    {
+      "start": 3840.16,
+      "end": 3842.32,
+      "text": "Speaker 2: I think that your question is like, are you hiring"
+    },
+    {
+      "start": 3842.36,
+      "end": 3846.28,
+      "text": "Speaker 2: more normally is a pretty important question. And obviously the"
+    },
+    {
+      "start": 3846.28,
+      "end": 3849.32,
+      "text": "Speaker 2: political I don't have a ton of confidence in the"
+    },
+    {
+      "start": 3849.36,
+      "end": 3852.8,
+      "text": "Speaker 2: political environment. And I think, look like the fact that"
+    },
+    {
+      "start": 3854.0,
+      "end": 3858.68,
+      "text": "Speaker 2: if the research goes wrong, that there is a prospect"
+    },
+    {
+      "start": 3858.68,
+      "end": 3861.52,
+      "text": "Speaker 2: of this technology really being very devastating to humanity. Even"
+    },
+    {
+      "start": 3861.56,
+      "end": 3865.0,
+      "text": "Speaker 2: setting aside a job is like something where it's like, wow,"
+    },
+    {
+      "start": 3865.08,
+      "end": 3867.68,
+      "text": "Speaker 2: you know, this is not a normal technology, this is"
+    },
+    {
+      "start": 3867.72,
+      "end": 3869.16,
+      "text": "Speaker 2: not you're."
+    },
+    {
+      "start": 3869.08,
+      "end": 3872.04,
+      "text": "Speaker 4: Not sales we have on AI just goes back to"
+    },
+    {
+      "start": 3872.08,
+      "end": 3874.36,
+      "text": "Speaker 4: the terminator or human distinctions."
+    },
+    {
+      "start": 3874.36,
+      "end": 3876.76,
+      "text": "Speaker 2: Like from the day one, And as an answer to"
+    },
+    {
+      "start": 3876.8,
+      "end": 3879.2,
+      "text": "Speaker 2: your question, there's like they see it in the training"
+    },
+    {
+      "start": 3879.24,
+      "end": 3883.52,
+      "text": "Speaker 2: process that AI models do these things such as say"
+    },
+    {
+      "start": 3884.08,
+      "end": 3887.24,
+      "text": "Speaker 2: I'm being seen trained by an observer right now. Therefore,"
+    },
+    {
+      "start": 3887.24,
+      "end": 3890.0,
+      "text": "Speaker 2: I'm going to give this answer. I'm going to attempt"
+    },
+    {
+      "start": 3890.0,
+      "end": 3890.56,
+      "text": "Speaker 2: to black belt."
+    },
+    {
+      "start": 3890.56,
+      "end": 3891.0,
+      "text": "Speaker 3: They're low."
+    },
+    {
+      "start": 3891.2,
+      "end": 3894.4,
+      "text": "Speaker 2: It's not like very prevalent. But these are not like"
+    },
+    {
+      "start": 3894.68,
+      "end": 3897.6,
+      "text": "Speaker 2: that sounds very sci fi except that they actually property."
+    },
+    {
+      "start": 3897.96,
+      "end": 3900.92,
+      "text": "Speaker 4: Yeah, yeah, all right on that. How yeah, shall we"
+    },
+    {
+      "start": 3900.96,
+      "end": 3901.36,
+      "text": "Speaker 4: leave it there?"
+    },
+    {
+      "start": 3901.44,
+      "end": 3902.08,
+      "text": "Speaker 3: Let's leave it there?"
+    },
+    {
+      "start": 3902.08,
+      "end": 3904.8,
+      "text": "Speaker 4: Okay. This has been another episode of the Audots podcast."
+    },
+    {
+      "start": 3904.92,
+      "end": 3907.56,
+      "text": "Speaker 4: I'm Tracy Alloway. You can follow me at Tracy Alloway."
+    },
+    {
+      "start": 3907.64,
+      "end": 3910.52,
+      "text": "Speaker 3: And I'm Joe Wawsenthal. You can follow me at the Stalwart."
+    },
+    {
+      "start": 3910.8,
+      "end": 3913.439,
+      "text": "Speaker 2: You can follow our guest Jack Clark, He's at Jack"
+    },
+    {
+      "start": 3913.52,
+      "end": 3917.56,
+      "text": "Speaker 2: Clark SF and Peter McCrory at Peter McCrory. Follow our"
+    },
+    {
+      "start": 3917.6,
+      "end": 3921.44,
+      "text": "Speaker 2: producers Carmen Rodriguez at Carmen armand dash Ol Bennett at Dashbot,"
+    },
+    {
+      "start": 3921.52,
+      "end": 3925.36,
+      "text": "Speaker 2: Cale Brooks at Kelbrooks, and Kevin Lozano at Kevin Lloyd Lisano."
+    },
+    {
+      "start": 3925.76,
+      "end": 3927.92,
+      "text": "Speaker 2: And for more odd loss content, go to Bloomberg dot"
+    },
+    {
+      "start": 3927.92,
+      "end": 3930.2,
+      "text": "Speaker 2: com slash odd lots or with a daily newsletter and"
+    },
+    {
+      "start": 3930.24,
+      "end": 3932.36,
+      "text": "Speaker 2: all of our episodes and you can shut about all"
+    },
+    {
+      "start": 3932.4,
+      "end": 3934.64,
+      "text": "Speaker 2: of these topics twenty four to seven in our discord"
+    },
+    {
+      "start": 3935.04,
+      "end": 3937.24,
+      "text": "Speaker 2: Discord dot gg slash odd Logs."
+    },
+    {
+      "start": 3937.08,
+      "end": 3938.84,
+      "text": "Speaker 4: And if you enjoy Odd Lots. If you like it"
+    },
+    {
+      "start": 3938.88,
+      "end": 3941.44,
+      "text": "Speaker 4: when we do these AI episodes, then please leave us"
+    },
+    {
+      "start": 3941.44,
+      "end": 3944.76,
+      "text": "Speaker 4: a positive review on your favorite podcast platform. And remember,"
+    },
+    {
+      "start": 3944.8,
+      "end": 3947.08,
+      "text": "Speaker 4: if you are a Bloomberg subscriber, you can listen to"
+    },
+    {
+      "start": 3947.16,
+      "end": 3949.88,
+      "text": "Speaker 4: all of our episodes absolutely ad free. All you need"
+    },
+    {
+      "start": 3949.92,
+      "end": 3952.28,
+      "text": "Speaker 4: to do is find the Bloomberg channel on Apple Podcasts"
+    },
+    {
+      "start": 3952.32,
+      "end": 3960.24,
+      "text": "Speaker 4: and follow the instructions there. Thanks for listening in"
+    }
+  ]
+}

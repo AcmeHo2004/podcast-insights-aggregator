@@ -1,0 +1,746 @@
+{
+  "id": "e85d3a012be5ad9b",
+  "show": "Thoughts on the Market",
+  "theme": "Macro & Rates",
+  "title": "Inside the AI Debt Surge",
+  "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/a733b9db-5f8d-442b-808e-f670d72ecfe8.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+  "source": "local-whisper",
+  "duration": 671.5,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.72,
+      "text": "Welcome to Thoughts on the Market. I'm Carolyn Campbell, Morgan Stanley's"
+    },
+    {
+      "start": 3.72,
+      "end": 5.44,
+      "text": "asset-backed security strategist."
+    },
+    {
+      "start": 5.44,
+      "end": 9.64,
+      "text": "And I'm Vishwas Bhakkar, Morgan Stanley's head of U.S. corporate credit strategy."
+    },
+    {
+      "start": 9.64,
+      "end": 13.72,
+      "text": "Today, how fixed income markets are helping fund the AI build out?"
+    },
+    {
+      "start": 13.72,
+      "end": 16.84,
+      "text": "It's Thursday, June 18th at 10 a.m. in New York."
+    },
+    {
+      "start": 19.84,
+      "end": 21.52,
+      "text": "Let's get right into it, Vishwas."
+    },
+    {
+      "start": 21.52,
+      "end": 24.560000000000002,
+      "text": "We've both come on this podcast before to talk about how credit markets are"
+    },
+    {
+      "start": 24.560000000000002,
+      "end": 26.080000000000002,
+      "text": "financing the AI build out."
+    },
+    {
+      "start": 26.080000000000002,
+      "end": 29.52,
+      "text": "And over the last 10 months, I think it's fair to say that things are faster,"
+    },
+    {
+      "start": 29.52,
+      "end": 32.48,
+      "text": "broader, deeper than we perhaps expected initially."
+    },
+    {
+      "start": 32.48,
+      "end": 36.24,
+      "text": "This investment now spans investment grade corporate bonds, high yield loans,"
+    },
+    {
+      "start": 36.24,
+      "end": 38.24,
+      "text": "and a range of securitized products."
+    },
+    {
+      "start": 38.24,
+      "end": 42.0,
+      "text": "From your seat in corporate credit, why does AI infrastructure matter so much"
+    },
+    {
+      "start": 42.0,
+      "end": 43.84,
+      "text": "to investors right now?"
+    },
+    {
+      "start": 43.84,
+      "end": 47.44,
+      "text": "This is a big talking point in our client discussions."
+    },
+    {
+      "start": 47.44,
+      "end": 51.760000000000005,
+      "text": "It's also telling that less than a year ago, we wrote about this topic for the"
+    },
+    {
+      "start": 51.760000000000005,
+      "end": 56.4,
+      "text": "first time, identifying a $1.5 trillion financing gap that credit markets"
+    },
+    {
+      "start": 56.4,
+      "end": 57.68,
+      "text": "could help bridge."
+    },
+    {
+      "start": 57.68,
+      "end": 63.12,
+      "text": "At that time, data center debt was not something that investors were really focused on,"
+    },
+    {
+      "start": 63.12,
+      "end": 65.12,
+      "text": "yet less than 12 months forward."
+    },
+    {
+      "start": 65.12,
+      "end": 69.6,
+      "text": "This, I think, is the number one theme dominating both your and my market."
+    },
+    {
+      "start": 69.6,
+      "end": 72.8,
+      "text": "And why it's important, I would say, is across three key vectors."
+    },
+    {
+      "start": 72.8,
+      "end": 74.64,
+      "text": "First, just the scale."
+    },
+    {
+      "start": 74.64,
+      "end": 79.12,
+      "text": "So if you look at overall AI related debt issuance so far this year,"
+    },
+    {
+      "start": 79.12,
+      "end": 81.6,
+      "text": "we're close to 250 billion."
+    },
+    {
+      "start": 81.6,
+      "end": 84.8,
+      "text": "For the balance of the year, we expect that number to double."
+    },
+    {
+      "start": 84.88,
+      "end": 89.28,
+      "text": "So about 500 billion of total AI debt financing for 2026."
+    },
+    {
+      "start": 90.08,
+      "end": 94.08,
+      "text": "Increasingly, the second vector, I think, is around the complexity of deals."
+    },
+    {
+      "start": 94.08,
+      "end": 100.39999999999999,
+      "text": "So initially, while AI financing was dominated by vanilla investment grade corporate bond deals,"
+    },
+    {
+      "start": 100.39999999999999,
+      "end": 105.84,
+      "text": "we have now seen that broaden out into project finance style deals in the high yield market."
+    },
+    {
+      "start": 105.84,
+      "end": 110.56,
+      "text": "We have seen an uptake in chip financing across the different credit silos."
+    },
+    {
+      "start": 110.56,
+      "end": 116.16,
+      "text": "And that's important for investors as identifying value across these different options,"
+    },
+    {
+      "start": 116.16,
+      "end": 118.56,
+      "text": "does require deep credit expertise."
+    },
+    {
+      "start": 118.56,
+      "end": 121.52000000000001,
+      "text": "And third, as this investment cycle rolls along,"
+    },
+    {
+      "start": 121.52000000000001,
+      "end": 124.4,
+      "text": "it's also important to be cognizant of risks that are building,"
+    },
+    {
+      "start": 124.4,
+      "end": 128.72,
+      "text": "not just from a very broad top-down sense around the demand for compute,"
+    },
+    {
+      "start": 128.72,
+      "end": 133.12,
+      "text": "but also what are some of the nuances in these different structures,"
+    },
+    {
+      "start": 133.12,
+      "end": 137.36,
+      "text": "whether it is in data center construction or is in chip financing,"
+    },
+    {
+      "start": 137.36,
+      "end": 138.88,
+      "text": "that investors will need to monitor."
+    },
+    {
+      "start": 138.88,
+      "end": 143.68,
+      "text": "So it's across these three themes that we think data center debt financing is getting important."
+    },
+    {
+      "start": 144.72,
+      "end": 148.4,
+      "text": "Now, the underlying demand for AI infrastructure is very strong."
+    },
+    {
+      "start": 148.72,
+      "end": 153.28,
+      "text": "That doesn't necessarily mean that every bond tied to this theme is automatically going to be attractive."
+    },
+    {
+      "start": 153.28,
+      "end": 156.07999999999998,
+      "text": "And as you mentioned, 500 billion of supply for the year,"
+    },
+    {
+      "start": 156.07999999999998,
+      "end": 158.64,
+      "text": "a large amount of complexity between the structures."
+    },
+    {
+      "start": 158.64,
+      "end": 163.04,
+      "text": "How should credit investors think about the various risks within these different structures?"
+    },
+    {
+      "start": 163.68,
+      "end": 166.07999999999998,
+      "text": "So in investment grade, the story is a bit simpler."
+    },
+    {
+      "start": 166.08,
+      "end": 170.24,
+      "text": "So we have had unsecured hyperscaler bond issuance."
+    },
+    {
+      "start": 170.24,
+      "end": 172.32000000000002,
+      "text": "We have had issuance from semiconductor names."
+    },
+    {
+      "start": 172.32000000000002,
+      "end": 177.04000000000002,
+      "text": "And then we've had some what we call private style data center deals."
+    },
+    {
+      "start": 177.04000000000002,
+      "end": 181.36,
+      "text": "But the vast majority still comes from hyperscaler investment grade rated bonds."
+    },
+    {
+      "start": 182.08,
+      "end": 185.52,
+      "text": "For this market, our focus is less on fundamentals."
+    },
+    {
+      "start": 185.52,
+      "end": 187.04000000000002,
+      "text": "Because fundamentals are very strong."
+    },
+    {
+      "start": 187.04000000000002,
+      "end": 190.88000000000002,
+      "text": "And then hyperscaler are some of the more most credit worthy companies"
+    },
+    {
+      "start": 190.88000000000002,
+      "end": 193.36,
+      "text": "that we've seen in the history of the market."
+    },
+    {
+      "start": 193.44000000000003,
+      "end": 196.32000000000002,
+      "text": "Our emphasis more is on just the quantum of supply."
+    },
+    {
+      "start": 196.32000000000002,
+      "end": 201.52,
+      "text": "So here to date, we've had north of 100 billion of hyperscaler debt in the dollar market."
+    },
+    {
+      "start": 201.52,
+      "end": 204.88000000000002,
+      "text": "We've had north of 50 billion being issued in other currencies."
+    },
+    {
+      "start": 205.52,
+      "end": 211.84,
+      "text": "If you look at the overall investment grade market, supply is up almost 25% versus last year."
+    },
+    {
+      "start": 211.84,
+      "end": 216.0,
+      "text": "That's consistent with our call for a year of record issuance this year."
+    },
+    {
+      "start": 216.64000000000001,
+      "end": 222.8,
+      "text": "And increasingly, if you look forward and map these issuance numbers to our CAPEX estimates,"
+    },
+    {
+      "start": 222.8,
+      "end": 226.72,
+      "text": "where we could very much be on track for another record to be hit next year."
+    },
+    {
+      "start": 226.72,
+      "end": 231.36,
+      "text": "So the issue of the investment rate market is not around the fundamentals of the companies"
+    },
+    {
+      "start": 231.36,
+      "end": 232.24,
+      "text": "or these deals."
+    },
+    {
+      "start": 232.24,
+      "end": 237.76000000000002,
+      "text": "It's more about the quantum of supply, which we think eventually will test the demand capacity of this"
+    },
+    {
+      "start": 237.76000000000002,
+      "end": 245.12,
+      "text": "market. And our base case for the investment grade spaces, similar to 1997-1998,"
+    },
+    {
+      "start": 245.12,
+      "end": 248.24,
+      "text": "where credit was starting to finance the business cycle."
+    },
+    {
+      "start": 248.24,
+      "end": 252.4,
+      "text": "Spreads widened modestly and IG could underperform other risk assets."
+    },
+    {
+      "start": 252.4,
+      "end": 255.84,
+      "text": "But over a longer time horizon, spread still looked historically very low."
+    },
+    {
+      "start": 256.72,
+      "end": 261.04,
+      "text": "Now, what about further down the credit spectrum into the non-investment grade portion?"
+    },
+    {
+      "start": 261.04,
+      "end": 263.84000000000003,
+      "text": "What about that part of the issuance spectrum for AI?"
+    },
+    {
+      "start": 264.48,
+      "end": 268.4,
+      "text": "Yes. So what we're seeing in the sub-investment grade space, especially in high yield,"
+    },
+    {
+      "start": 268.4,
+      "end": 273.6,
+      "text": "is very different. There, the growth in data center financing has happened around project"
+    },
+    {
+      "start": 273.6,
+      "end": 279.28000000000003,
+      "text": "finance deals for data center construction. In many cases, these have come from crypto-minor"
+    },
+    {
+      "start": 279.28000000000003,
+      "end": 284.24,
+      "text": "companies that effectively provide what we call speed to power solutions."
+    },
+    {
+      "start": 284.24,
+      "end": 289.12,
+      "text": "We've also had some unsecured issuance from neo-clouds, although that's relatively small."
+    },
+    {
+      "start": 289.12,
+      "end": 294.64000000000004,
+      "text": "But this sector has expanded from effectively zero billion around the fall of last year to"
+    },
+    {
+      "start": 294.64000000000004,
+      "end": 301.20000000000005,
+      "text": "our 40 billion this year. We expect to see another 20 billion of issuance by the end of 2026."
+    },
+    {
+      "start": 301.20000000000005,
+      "end": 305.6,
+      "text": "And the way they fit into this whole ecosystem is these project finance deals,"
+    },
+    {
+      "start": 305.6,
+      "end": 309.92,
+      "text": "we think are interesting diversifiers for regular credit investors."
+    },
+    {
+      "start": 309.92,
+      "end": 314.88,
+      "text": "They do come with construction risks, especially initially for the first two to three years,"
+    },
+    {
+      "start": 314.88,
+      "end": 319.84000000000003,
+      "text": "till the data center is up and running. But on the flip side, you do get a lot of structural"
+    },
+    {
+      "start": 319.84000000000003,
+      "end": 325.52000000000004,
+      "text": "enhancements and credit or protections, which is something you don't see in the vast majority"
+    },
+    {
+      "start": 325.52000000000004,
+      "end": 331.44,
+      "text": "of the high yield market. So I think a key shift in the framework that investors have to do for"
+    },
+    {
+      "start": 331.44,
+      "end": 337.36,
+      "text": "these deals is focus on asset level risk, which is, again, I think a big divergence from how the"
+    },
+    {
+      "start": 337.36,
+      "end": 342.56,
+      "text": "vast majority of the credit market trades, which is largely unsecured corporate level risk that"
+    },
+    {
+      "start": 342.56,
+      "end": 346.56,
+      "text": "investors have been used to. All right, you just bought up construction risks. Do you think that's"
+    },
+    {
+      "start": 346.56,
+      "end": 351.68,
+      "text": "the biggest risk facing the high yield investors today? Yes, I think for the high yield deals in"
+    },
+    {
+      "start": 351.68,
+      "end": 357.28,
+      "text": "particular construction risk is the dominant vector that investors are focused on because it's"
+    },
+    {
+      "start": 357.28000000000003,
+      "end": 362.32000000000005,
+      "text": "more than to remember a lot of the debt issuers are our first time borrowers and they have a limited"
+    },
+    {
+      "start": 362.32000000000005,
+      "end": 369.12,
+      "text": "track record of construction in the past. So you could see potential delays and things like cost"
+    },
+    {
+      "start": 369.12,
+      "end": 375.12,
+      "text": "overruns that can affect sentiment on the sector or at least on on specific bond deals."
+    },
+    {
+      "start": 375.12,
+      "end": 379.6,
+      "text": "And this will be especially important to monitor going into the second half of the year,"
+    },
+    {
+      "start": 379.6,
+      "end": 385.04,
+      "text": "as we have some of the first delivery dates coming up for the deals in the sector that were announced"
+    },
+    {
+      "start": 385.12,
+      "end": 391.20000000000005,
+      "text": "last year. That being said, even though some of the tenants have termination rights, if delays go"
+    },
+    {
+      "start": 391.20000000000005,
+      "end": 397.28000000000003,
+      "text": "beyond 180 days, our view is that given the structural power constraints, these termination rights are"
+    },
+    {
+      "start": 397.28000000000003,
+      "end": 402.56,
+      "text": "unlikely to be exercised. So while construction milestones can affect sentiment and short term"
+    },
+    {
+      "start": 402.56,
+      "end": 408.40000000000003,
+      "text": "valuations, we would look at any blips as as buying opportunities in the space. All right, so"
+    },
+    {
+      "start": 408.40000000000003,
+      "end": 413.04,
+      "text": "Carolyn, let me throw this back to you. So construction risk clearly very important for the corporate"
+    },
+    {
+      "start": 413.04,
+      "end": 418.72,
+      "text": "credit market, especially for high yield investors. Is that something ABS investors or commercial"
+    },
+    {
+      "start": 418.72,
+      "end": 423.76000000000005,
+      "text": "mortgage back investors get about and in one other ways are these asset classes different from corporate"
+    },
+    {
+      "start": 423.76000000000005,
+      "end": 428.88,
+      "text": "credit? Okay, so first and foremost, the biggest difference is that in securitized products,"
+    },
+    {
+      "start": 428.88,
+      "end": 433.20000000000005,
+      "text": "the assets are stabilized. They're cash flowing. They're online. We don't have that first vector"
+    },
+    {
+      "start": 433.20000000000005,
+      "end": 437.92,
+      "text": "of construction risk in our space. The second biggest difference is while in high yield and IG,"
+    },
+    {
+      "start": 437.92,
+      "end": 444.8,
+      "text": "we've mostly seen or we've entirely seen single-campus, single-tenant data centers in securitization"
+    },
+    {
+      "start": 444.8,
+      "end": 451.92,
+      "text": "issuance. It's mostly multi-tenant, multi-asset, multi-regional deals that have come to market. So"
+    },
+    {
+      "start": 451.92,
+      "end": 457.6,
+      "text": "it's a very different risk profile and as a consequence, investors are focused not just on who is"
+    },
+    {
+      "start": 457.6,
+      "end": 462.0,
+      "text": "behind this one single lease and one of the termination rights, but what does the landscape look like"
+    },
+    {
+      "start": 462.0,
+      "end": 468.08,
+      "text": "in general for compute? How does that affect vacancy and turn rates? And then lastly, the issuers"
+    },
+    {
+      "start": 468.08,
+      "end": 472.56,
+      "text": "themselves are different. You talked about the crypto companies. You get a little bit more of the data"
+    },
+    {
+      "start": 472.56,
+      "end": 478.24,
+      "text": "center construction. Whereas in securitized products, these are companies that have been around"
+    },
+    {
+      "start": 478.24,
+      "end": 484.08,
+      "text": "for five, 10, 20 years. They're accustomed to managing a fleet of assets, dozens if not hundreds"
+    },
+    {
+      "start": 484.08,
+      "end": 488.72,
+      "text": "of tenets. They've got a little bit more of a track record for the most part than the types of"
+    },
+    {
+      "start": 488.72,
+      "end": 494.56,
+      "text": "issuers we're seeing in the credit market. So your market, post-construction, more leverage to the"
+    },
+    {
+      "start": 494.56,
+      "end": 499.68,
+      "text": "thematic of demand for compute and how the AI investment cycle is playing out versus the corporate"
+    },
+    {
+      "start": 499.68,
+      "end": 505.12,
+      "text": "credit market, which is largely exposed to construction risks as the data centers get built out. So that's"
+    },
+    {
+      "start": 505.12,
+      "end": 510.96000000000004,
+      "text": "a very important difference. That being said, one theme that ties both our markets are just healthy"
+    },
+    {
+      "start": 510.96000000000004,
+      "end": 515.9200000000001,
+      "text": "fundamentals, but at the same time heavy supply. So I talked about how we see that affecting our"
+    },
+    {
+      "start": 515.92,
+      "end": 520.7199999999999,
+      "text": "view on investment grade, how is that same tension showing up being securitized products?"
+    },
+    {
+      "start": 520.7199999999999,
+      "end": 525.68,
+      "text": "So exactly as you said, the fundamental story is very strong. We don't see deterioration and"
+    },
+    {
+      "start": 525.68,
+      "end": 530.64,
+      "text": "performance of the assets either that has happened yet or that we expect to come in the near-term."
+    },
+    {
+      "start": 530.64,
+      "end": 535.28,
+      "text": "So it really is a technically driven story. Supply in this space we're forecasting in around"
+    },
+    {
+      "start": 535.28,
+      "end": 540.88,
+      "text": "30 billion for years. So smaller in magnitude, but relatively large for the market that has very"
+    },
+    {
+      "start": 540.88,
+      "end": 545.76,
+      "text": "elevated supply expectations. And so as a consequence, we've seen spreads back up across the space."
+    },
+    {
+      "start": 545.76,
+      "end": 550.0,
+      "text": "We do think that some of the cross-ass that comparisons will help keep spreads contained"
+    },
+    {
+      "start": 550.0,
+      "end": 554.64,
+      "text": "from here. And so we do see value and securitized credit across the stack for the rest of the year."
+    },
+    {
+      "start": 555.36,
+      "end": 559.76,
+      "text": "All right. So you brought up the cross-asset comparison. And so we've discussed the fundamental"
+    },
+    {
+      "start": 559.76,
+      "end": 564.88,
+      "text": "differences in our market, how much issuance we expect. But just to end on a commercial"
+    },
+    {
+      "start": 564.88,
+      "end": 570.48,
+      "text": "lot, if we are advising investors on where is the best relative value and what's the framework"
+    },
+    {
+      "start": 570.48,
+      "end": 575.36,
+      "text": "for comparing opportunities, how do you think about that? Where do we see value across the"
+    },
+    {
+      "start": 575.36,
+      "end": 580.4,
+      "text": "ecosystem? I mean, I think this is probably the biggest question that investors that are looking"
+    },
+    {
+      "start": 580.4,
+      "end": 585.92,
+      "text": "at this base are facing today. And if we're thinking just about the data center-backed assets,"
+    },
+    {
+      "start": 585.92,
+      "end": 590.48,
+      "text": "I think there are two main things. One is the asset itself, where we're focused on things like"
+    },
+    {
+      "start": 590.48,
+      "end": 596.72,
+      "text": "the geography, the tenant, the answer connectivity, the flexibility of this asset for multiple uses."
+    },
+    {
+      "start": 596.72,
+      "end": 600.4,
+      "text": "And then the second is on the structure of the deal itself. How much leverage is being raised"
+    },
+    {
+      "start": 600.4,
+      "end": 605.68,
+      "text": "against the asset? How cash flowing is it? And then, of course, the duration as well. But it's a great"
+    },
+    {
+      "start": 605.68,
+      "end": 609.28,
+      "text": "question. And because of the complexity of this base, it can be really hard to compare one to the"
+    },
+    {
+      "start": 609.28,
+      "end": 615.12,
+      "text": "other. Yeah. And at the risk of providing an answer, I very much think investors are in the"
+    },
+    {
+      "start": 615.12,
+      "end": 620.9599999999999,
+      "text": "process of coming up with a framework because these deals have come very quickly. This is a new sector"
+    },
+    {
+      "start": 620.9599999999999,
+      "end": 627.28,
+      "text": "for most credit investors to analyze. But I think what we can say with a high degree of certainty is"
+    },
+    {
+      "start": 627.36,
+      "end": 631.6,
+      "text": "this is blurring the lines between corporate credit and securities credit. So, you know, this"
+    },
+    {
+      "start": 631.6,
+      "end": 636.0799999999999,
+      "text": "opens up a more avenues for us to collaborate on this topic way forward. All right. That's a great"
+    },
+    {
+      "start": 636.0799999999999,
+      "end": 640.3199999999999,
+      "text": "place for us to leave it today with that nice cross-collaboration. Vishwas, thank you so much"
+    },
+    {
+      "start": 640.3199999999999,
+      "end": 644.9599999999999,
+      "text": "for taking the time to talk. Great speaking with you, Carla. And thanks for listening. If you enjoy"
+    },
+    {
+      "start": 644.9599999999999,
+      "end": 648.88,
+      "text": "thoughts on the market, please leave us a review wherever you listen and share the podcast with a"
+    },
+    {
+      "start": 648.88,
+      "end": 655.12,
+      "text": "friend or colleague today. The preceding content is informational only and based on information"
+    },
+    {
+      "start": 655.12,
+      "end": 660.72,
+      "text": "available when created. It is not an offer or solicitation, nor is it tax or legal advice."
+    },
+    {
+      "start": 660.72,
+      "end": 671.52,
+      "text": "It does not consider your financial circumstances and objectives and may not be suitable for you."
+    }
+  ]
+}

@@ -1,0 +1,2791 @@
+{
+  "id": "8b5455c07baf672d",
+  "show": "The Acquirers Podcast",
+  "theme": "Strategy & Markets",
+  "title": "The Stock Market Is Rewarding the Wrong Companies Right Now — Here's the Math",
+  "audio_url": "https://traffic.megaphone.fm/APO6718536277.mp3",
+  "source": "local-whisper",
+  "duration": 3990.9,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "This episode is brought to you by TidyCats."
+    },
+    {
+      "start": 3.4,
+      "end": 7.4,
+      "text": "Here to level up your litter game with their new Performance Plus lineup."
+    },
+    {
+      "start": 7.4,
+      "end": 11.200000000000001,
+      "text": "Your home is your happy place, your cats, VIPs."
+    },
+    {
+      "start": 11.200000000000001,
+      "end": 14.9,
+      "text": "So when it comes to the litter box, excellence isn't optional."
+    },
+    {
+      "start": 14.9,
+      "end": 19.400000000000002,
+      "text": "Choose from products that specialize in max power clumping, low tracking,"
+    },
+    {
+      "start": 19.400000000000002,
+      "end": 23.400000000000002,
+      "text": "or over fighting so advanced, stink won't see it coming."
+    },
+    {
+      "start": 23.400000000000002,
+      "end": 27.400000000000002,
+      "text": "TidyCats Performance Plus, mission mighty, keep it tidy."
+    },
+    {
+      "start": 27.400000000000002,
+      "end": 30.400000000000002,
+      "text": "Shop now at TidyCats.com."
+    },
+    {
+      "start": 30.400000000000002,
+      "end": 32.0,
+      "text": "Ryan Reynolds here from Mint Mobile."
+    },
+    {
+      "start": 32.0,
+      "end": 35.400000000000006,
+      "text": "The message for everyone paying big wireless way too much."
+    },
+    {
+      "start": 35.400000000000006,
+      "end": 38.400000000000006,
+      "text": "Please, for the love of everything goodness world, stop."
+    },
+    {
+      "start": 38.400000000000006,
+      "end": 41.800000000000004,
+      "text": "With Mint, you can get premium wireless for just $15 a month."
+    },
+    {
+      "start": 41.800000000000004,
+      "end": 45.400000000000006,
+      "text": "Of course, if you enjoy overpay no judgments, but that's weird."
+    },
+    {
+      "start": 45.400000000000006,
+      "end": 47.800000000000004,
+      "text": "Okay, one judgment."
+    },
+    {
+      "start": 47.800000000000004,
+      "end": 51.800000000000004,
+      "text": "Anyway, give it a try at MintMobile.com slash switch."
+    },
+    {
+      "start": 51.800000000000004,
+      "end": 53.800000000000004,
+      "text": "Up front payment of $45 per three month plan,"
+    },
+    {
+      "start": 53.800000000000004,
+      "end": 55.400000000000006,
+      "text": "equivalent to $15 per month required,"
+    },
+    {
+      "start": 55.4,
+      "end": 57.8,
+      "text": "intro rate for three months only, then full price plan options available."
+    },
+    {
+      "start": 57.8,
+      "end": 62.0,
+      "text": "Taxes and fees extra, see full terms at MintMobile.com."
+    },
+    {
+      "start": 62.0,
+      "end": 65.2,
+      "text": "Well, live, this is value after hours."
+    },
+    {
+      "start": 65.2,
+      "end": 69.4,
+      "text": "I'm Tobias Carlisle, joined as always by my co-host Jake Taylor."
+    },
+    {
+      "start": 69.4,
+      "end": 72.0,
+      "text": "A special guest today is Ross Gwotsbok."
+    },
+    {
+      "start": 72.0,
+      "end": 77.0,
+      "text": "He's the CEO and head of research for Southeastern asset management,"
+    },
+    {
+      "start": 77.0,
+      "end": 79.4,
+      "text": "storied firm, started by Mason Hawkins."
+    },
+    {
+      "start": 79.4,
+      "end": 80.4,
+      "text": "Ross, how are you?"
+    },
+    {
+      "start": 80.4,
+      "end": 81.4,
+      "text": "I'm doing well."
+    },
+    {
+      "start": 81.4,
+      "end": 83.4,
+      "text": "Thanks for having me on."
+    },
+    {
+      "start": 83.4,
+      "end": 85.4,
+      "text": "How did I go with the pronunciation of that last name?"
+    },
+    {
+      "start": 85.4,
+      "end": 86.4,
+      "text": "Did I get it right?"
+    },
+    {
+      "start": 86.4,
+      "end": 87.4,
+      "text": "You got it."
+    },
+    {
+      "start": 87.4,
+      "end": 90.4,
+      "text": "The listener should know that we did practice before we started."
+    },
+    {
+      "start": 90.4,
+      "end": 91.4,
+      "text": "We did."
+    },
+    {
+      "start": 91.4,
+      "end": 94.4,
+      "text": "That was the fourth try."
+    },
+    {
+      "start": 94.4,
+      "end": 97.4,
+      "text": "Tell us, Ross, tell us a little bit about Southeastern,"
+    },
+    {
+      "start": 97.4,
+      "end": 102.4,
+      "text": "how it was founded the philosophy and where it is today."
+    },
+    {
+      "start": 102.4,
+      "end": 103.4,
+      "text": "Sure."
+    },
+    {
+      "start": 103.4,
+      "end": 108.4,
+      "text": "So, you know, I might start with kind of two things on why I thought it was"
+    },
+    {
+      "start": 108.4,
+      "end": 110.4,
+      "text": "a good time to come on today."
+    },
+    {
+      "start": 111.4,
+      "end": 118.4,
+      "text": "First, you know, I feel like sometimes these pods seek out those"
+    },
+    {
+      "start": 118.4,
+      "end": 120.4,
+      "text": "who have done the best over the last 12 months."
+    },
+    {
+      "start": 120.4,
+      "end": 121.4,
+      "text": "You know?"
+    },
+    {
+      "start": 121.4,
+      "end": 122.4,
+      "text": "That's not us."
+    },
+    {
+      "start": 122.4,
+      "end": 123.4,
+      "text": "We know."
+    },
+    {
+      "start": 123.4,
+      "end": 125.4,
+      "text": "And that's why we like you guys."
+    },
+    {
+      "start": 125.4,
+      "end": 128.4,
+      "text": "That's why we can tell you're true value investors."
+    },
+    {
+      "start": 128.4,
+      "end": 133.4,
+      "text": "But at time like now is when you get the best perspective long term clients."
+    },
+    {
+      "start": 133.4,
+      "end": 137.4,
+      "text": "Because, you know, we have attractive price to value ratios in the portfolio."
+    },
+    {
+      "start": 137.4,
+      "end": 139.4,
+      "text": "Own high quality companies on offense."
+    },
+    {
+      "start": 139.4,
+      "end": 141.4,
+      "text": "But no one wants them, you know?"
+    },
+    {
+      "start": 141.4,
+      "end": 147.4,
+      "text": "And then kind of secondly, you know, I was reading Jeremy Grantham's new book"
+    },
+    {
+      "start": 147.4,
+      "end": 148.4,
+      "text": "this year."
+    },
+    {
+      "start": 148.4,
+      "end": 151.4,
+      "text": "Me and this part where he talked about, you know, when they were going through"
+    },
+    {
+      "start": 151.4,
+      "end": 157.4,
+      "text": "the late 90s, how he realized how important it was to just go on record"
+    },
+    {
+      "start": 157.4,
+      "end": 160.4,
+      "text": "and get the word during a time like now."
+    },
+    {
+      "start": 160.4,
+      "end": 164.4,
+      "text": "Which I think we are in a unique time in the market."
+    },
+    {
+      "start": 164.4,
+      "end": 166.4,
+      "text": "I don't know if it's, you know, exactly."
+    },
+    {
+      "start": 166.4,
+      "end": 171.4,
+      "text": "It's definitely not exactly like 2000 or 1987 or 1970 something."
+    },
+    {
+      "start": 171.4,
+      "end": 174.4,
+      "text": "You know, but it's a unique time."
+    },
+    {
+      "start": 174.4,
+      "end": 178.4,
+      "text": "And so those are two things I kind of wanted to say at the start."
+    },
+    {
+      "start": 178.4,
+      "end": 182.4,
+      "text": "But back to southeastern where we come from."
+    },
+    {
+      "start": 182.4,
+      "end": 189.4,
+      "text": "So we were founded by Mason Hawkins, our chairman still in 1975."
+    },
+    {
+      "start": 189.4,
+      "end": 194.4,
+      "text": "We are long term concentrated engaged value investors."
+    },
+    {
+      "start": 195.4,
+      "end": 199.4,
+      "text": "So each of those words, one of those mean long term."
+    },
+    {
+      "start": 199.4,
+      "end": 201.4,
+      "text": "You know, we've been around for a while."
+    },
+    {
+      "start": 201.4,
+      "end": 203.4,
+      "text": "It's a cumulative business."
+    },
+    {
+      "start": 203.4,
+      "end": 205.4,
+      "text": "Hopefully we've learned some things."
+    },
+    {
+      "start": 205.4,
+      "end": 207.4,
+      "text": "Also our investments."
+    },
+    {
+      "start": 207.4,
+      "end": 209.4,
+      "text": "We want to hold them as long as possible."
+    },
+    {
+      "start": 209.4,
+      "end": 210.4,
+      "text": "Some have been decades."
+    },
+    {
+      "start": 210.4,
+      "end": 213.4,
+      "text": "But on average, it's going to be three to five years."
+    },
+    {
+      "start": 213.4,
+      "end": 214.4,
+      "text": "That's unique."
+    },
+    {
+      "start": 214.4,
+      "end": 219.4,
+      "text": "You know, timer as an arbitrage can be a powerful differentiator over the long run."
+    },
+    {
+      "start": 219.4,
+      "end": 221.4,
+      "text": "Concentrated."
+    },
+    {
+      "start": 221.4,
+      "end": 222.4,
+      "text": "What does that mean?"
+    },
+    {
+      "start": 222.4,
+      "end": 225.4,
+      "text": "Only about 20 or so stocks in each of our portfolios."
+    },
+    {
+      "start": 225.4,
+      "end": 228.4,
+      "text": "We've got a few different kinds of strategies we have."
+    },
+    {
+      "start": 228.4,
+      "end": 232.4,
+      "text": "We're also required to concentrate in our own funds."
+    },
+    {
+      "start": 232.4,
+      "end": 234.4,
+      "text": "We're our own largest client."
+    },
+    {
+      "start": 234.4,
+      "end": 236.4,
+      "text": "And we have to put put our money there."
+    },
+    {
+      "start": 236.4,
+      "end": 237.4,
+      "text": "That's unique."
+    },
+    {
+      "start": 237.4,
+      "end": 242.4,
+      "text": "That's the best kind of risk control and alignment there is engaged."
+    },
+    {
+      "start": 242.4,
+      "end": 244.4,
+      "text": "I mean a lot of things."
+    },
+    {
+      "start": 244.4,
+      "end": 249.4,
+      "text": "We prefer to work with these companies we invest in behind the scenes."
+    },
+    {
+      "start": 249.4,
+      "end": 250.4,
+      "text": "They take the credit."
+    },
+    {
+      "start": 250.4,
+      "end": 252.4,
+      "text": "They grow and realize the value per share."
+    },
+    {
+      "start": 252.4,
+      "end": 253.4,
+      "text": "And we win together."
+    },
+    {
+      "start": 253.4,
+      "end": 257.4,
+      "text": "But sometimes that engagement will, you know, spill out into the open a little bit."
+    },
+    {
+      "start": 257.4,
+      "end": 258.4,
+      "text": "And that's okay."
+    },
+    {
+      "start": 258.4,
+      "end": 261.4,
+      "text": "And hopefully that can be to the benefit of everyone involved."
+    },
+    {
+      "start": 261.4,
+      "end": 262.4,
+      "text": "Value."
+    },
+    {
+      "start": 262.4,
+      "end": 265.4,
+      "text": "Of course that can mean many things."
+    },
+    {
+      "start": 265.4,
+      "end": 268.4,
+      "text": "We define that by business people price."
+    },
+    {
+      "start": 268.4,
+      "end": 269.4,
+      "text": "Business."
+    },
+    {
+      "start": 269.4,
+      "end": 272.4,
+      "text": "We want to have a great business that we can understand."
+    },
+    {
+      "start": 272.4,
+      "end": 275.4,
+      "text": "Can grow its long term free cash flow per share."
+    },
+    {
+      "start": 275.40000000000003,
+      "end": 280.40000000000003,
+      "text": "You know, solid returns on incremental capital, things of that nature."
+    },
+    {
+      "start": 280.40000000000003,
+      "end": 285.40000000000003,
+      "text": "People want to have great aligned partners who are either owners alongside us"
+    },
+    {
+      "start": 285.40000000000003,
+      "end": 288.40000000000003,
+      "text": "or have an intelligently designed compensation plan."
+    },
+    {
+      "start": 288.40000000000003,
+      "end": 289.40000000000003,
+      "text": "Good people on the board."
+    },
+    {
+      "start": 289.40000000000003,
+      "end": 292.40000000000003,
+      "text": "Honorable people will do the right thing."
+    },
+    {
+      "start": 292.40000000000003,
+      "end": 293.40000000000003,
+      "text": "Everybody wants those two things."
+    },
+    {
+      "start": 293.40000000000003,
+      "end": 295.40000000000003,
+      "text": "We got to get a great price."
+    },
+    {
+      "start": 295.40000000000003,
+      "end": 302.40000000000003,
+      "text": "You know, we define that with, you know, DCF driven valuation methods."
+    },
+    {
+      "start": 302.40000000000003,
+      "end": 306.40000000000003,
+      "text": "We want to pay a low multiple of long term free cash flow power."
+    },
+    {
+      "start": 306.40000000000003,
+      "end": 309.40000000000003,
+      "text": "Sometimes that can be a high multiple of next 12 months."
+    },
+    {
+      "start": 309.40000000000003,
+      "end": 312.40000000000003,
+      "text": "You know, reported earnings."
+    },
+    {
+      "start": 312.40000000000003,
+      "end": 315.40000000000003,
+      "text": "But that's what we're striving to do."
+    },
+    {
+      "start": 315.40000000000003,
+      "end": 320.40000000000003,
+      "text": "You know, we want to find temporarily great or temporarily misunderstood long term"
+    },
+    {
+      "start": 320.40000000000003,
+      "end": 324.40000000000003,
+      "text": "great companies and invest in them and help them grow."
+    },
+    {
+      "start": 324.40000000000003,
+      "end": 327.40000000000003,
+      "text": "And that's that's kind of where we're coming from."
+    },
+    {
+      "start": 327.40000000000003,
+      "end": 332.40000000000003,
+      "text": "We have, we're blessed with a great constitution, you know, 50 or so years ago."
+    },
+    {
+      "start": 332.40000000000003,
+      "end": 334.40000000000003,
+      "text": "Where we're going to try to do the right thing."
+    },
+    {
+      "start": 334.40000000000003,
+      "end": 336.40000000000003,
+      "text": "Be aligned with our clients."
+    },
+    {
+      "start": 336.40000000000003,
+      "end": 338.40000000000003,
+      "text": "We're grateful for them."
+    },
+    {
+      "start": 338.40000000000003,
+      "end": 340.40000000000003,
+      "text": "And that's kind of where we're coming from today."
+    },
+    {
+      "start": 340.40000000000003,
+      "end": 342.40000000000003,
+      "text": "So don't be a tourist."
+    },
+    {
+      "start": 342.40000000000003,
+      "end": 343.40000000000003,
+      "text": "Come home to Disney Plus."
+    },
+    {
+      "start": 343.40000000000003,
+      "end": 344.40000000000003,
+      "text": "Let's go."
+    },
+    {
+      "start": 344.40000000000003,
+      "end": 345.40000000000003,
+      "text": "Get ready for a new case."
+    },
+    {
+      "start": 345.40000000000003,
+      "end": 348.40000000000003,
+      "text": "We're going to crack this case and prove we're the greatest partners of all time."
+    },
+    {
+      "start": 348.40000000000003,
+      "end": 349.40000000000003,
+      "text": "New friends."
+    },
+    {
+      "start": 349.40000000000003,
+      "end": 352.40000000000003,
+      "text": "You are going to Disney."
+    },
+    {
+      "start": 352.40000000000003,
+      "end": 353.40000000000003,
+      "text": "And your last name?"
+    },
+    {
+      "start": 353.40000000000003,
+      "end": 354.40000000000003,
+      "text": "The Snake."
+    },
+    {
+      "start": 355.40000000000003,
+      "end": 356.40000000000003,
+      "text": "Dream team."
+    },
+    {
+      "start": 356.40000000000003,
+      "end": 357.40000000000003,
+      "text": "New habitats."
+    },
+    {
+      "start": 357.40000000000003,
+      "end": 360.40000000000003,
+      "text": "Zootopia has a secret reptile population."
+    },
+    {
+      "start": 360.40000000000003,
+      "end": 363.40000000000003,
+      "text": "You can watch the record breaking phenomenon at home."
+    },
+    {
+      "start": 363.40000000000003,
+      "end": 364.40000000000003,
+      "text": "You're clearly."
+    },
+    {
+      "start": 364.40000000000003,
+      "end": 365.40000000000003,
+      "text": "We're going to add."
+    },
+    {
+      "start": 365.40000000000003,
+      "end": 367.40000000000003,
+      "text": "Zootopia too."
+    },
+    {
+      "start": 367.40000000000003,
+      "end": 371.40000000000003,
+      "text": "Now available on Disney Plus rated PG."
+    },
+    {
+      "start": 371.40000000000003,
+      "end": 375.40000000000003,
+      "text": "This episode is brought to you by San Pellegrino Chau."
+    },
+    {
+      "start": 375.40000000000003,
+      "end": 377.40000000000003,
+      "text": "A gift from Italy to your home."
+    },
+    {
+      "start": 377.40000000000003,
+      "end": 382.40000000000003,
+      "text": "San Pellegrino Chau is a flavored sparkling water made with real fruit juice."
+    },
+    {
+      "start": 382.40000000000003,
+      "end": 386.40000000000003,
+      "text": "Finished with a pinch of Sicilian salt for a perfectly balanced taste."
+    },
+    {
+      "start": 386.40000000000003,
+      "end": 388.40000000000003,
+      "text": "So which flavor will you choose?"
+    },
+    {
+      "start": 388.40000000000003,
+      "end": 389.40000000000003,
+      "text": "Peach."
+    },
+    {
+      "start": 389.40000000000003,
+      "end": 390.40000000000003,
+      "text": "Lime."
+    },
+    {
+      "start": 390.40000000000003,
+      "end": 391.40000000000003,
+      "text": "Blood orange."
+    },
+    {
+      "start": 391.40000000000003,
+      "end": 392.40000000000003,
+      "text": "Cherry."
+    },
+    {
+      "start": 392.40000000000003,
+      "end": 394.40000000000003,
+      "text": "Or maybe the all-new lemon cello."
+    },
+    {
+      "start": 394.40000000000003,
+      "end": 395.40000000000003,
+      "text": "Crafted in Italy."
+    },
+    {
+      "start": 395.40000000000003,
+      "end": 397.40000000000003,
+      "text": "With zero grams of added sugar."
+    },
+    {
+      "start": 397.40000000000003,
+      "end": 398.40000000000003,
+      "text": "San Pellegrino Chau."
+    },
+    {
+      "start": 398.40000000000003,
+      "end": 399.40000000000003,
+      "text": "Buy it now."
+    },
+    {
+      "start": 402.40000000000003,
+      "end": 411.40000000000003,
+      "text": "When you look at the portfolio, Russ, what name stand out to you as sort of representing the philosophy that you?"
+    },
+    {
+      "start": 411.40000000000003,
+      "end": 413.40000000000003,
+      "text": "You espouse."
+    },
+    {
+      "start": 413.40000000000003,
+      "end": 421.40000000000003,
+      "text": "You know, um, it's, it's, we're, whenever we kind of get a question like this, we usually kind of mentally start going down."
+    },
+    {
+      "start": 421.40000000000003,
+      "end": 425.40000000000003,
+      "text": "What are our largest weightings in the portfolio?"
+    },
+    {
+      "start": 425.40000000000003,
+      "end": 434.40000000000003,
+      "text": "And some of those at the moment today would be oldings like Rainier, which is a Timberland company."
+    },
+    {
+      "start": 434.40000000000003,
+      "end": 442.40000000000003,
+      "text": "And it's about four million acres trading in a deep discount to what, you know, each one of these acres is actually worth."
+    },
+    {
+      "start": 442.40000000000003,
+      "end": 446.40000000000003,
+      "text": "Um, this is an industry that we've done well in for decades."
+    },
+    {
+      "start": 446.40000000000003,
+      "end": 451.40000000000003,
+      "text": "We've owned this company before in some of its predecessor companies."
+    },
+    {
+      "start": 451.40000000000003,
+      "end": 462.40000000000003,
+      "text": "Um, you know, the people side of things, they just came together through an actually intelligent merger with, uh, with potlatch Delta, which is another company that we, we owned."
+    },
+    {
+      "start": 462.40000000000003,
+      "end": 466.40000000000003,
+      "text": "That's how they came together to create our, our largest position."
+    },
+    {
+      "start": 466.40000000000003,
+      "end": 471.40000000000003,
+      "text": "Um, and then when it gets to price, you know, that's the business, that's the people side of things."
+    },
+    {
+      "start": 471.40000000000003,
+      "end": 477.40000000000003,
+      "text": "Um, we see something that's worth 30 to 40 trading at 20."
+    },
+    {
+      "start": 477.40000000000003,
+      "end": 487.40000000000003,
+      "text": "And it's, uh, you know, you could do various ways on per acre mathematics, but, um, it's, it's trading."
+    },
+    {
+      "start": 487.40000000000003,
+      "end": 492.40000000000003,
+      "text": "You know, well below, uh, private market, um, timberland values."
+    },
+    {
+      "start": 492.40000000000003,
+      "end": 497.40000000000003,
+      "text": "And it's a good store of value, by the way, that can do something for you."
+    },
+    {
+      "start": 497.40000000000003,
+      "end": 507.40000000000003,
+      "text": "Beyond other kind of, quote, stores of value that, you know, rest more on, um, people believing in them that people using them."
+    },
+    {
+      "start": 507.40000000000003,
+      "end": 510.40000000000003,
+      "text": "What's the reason for the discount?"
+    },
+    {
+      "start": 510.40000000000003,
+      "end": 514.4000000000001,
+      "text": "Well, you know, this, this is somewhat of a theme."
+    },
+    {
+      "start": 514.4000000000001,
+      "end": 517.4000000000001,
+      "text": "And some of our other holdings as well."
+    },
+    {
+      "start": 517.4000000000001,
+      "end": 520.4000000000001,
+      "text": "It might not be the best public company."
+    },
+    {
+      "start": 520.4000000000001,
+      "end": 528.4000000000001,
+      "text": "Um, you know, the, the timberland industry, timber reats were created over 20 or so years ago."
+    },
+    {
+      "start": 528.4000000000001,
+      "end": 535.4000000000001,
+      "text": "It's a tax advantaged way to dividend out earnings from owning timberland, from cutting trees."
+    },
+    {
+      "start": 535.4,
+      "end": 542.4,
+      "text": "And when there were a few timberland companies, I think it was a little easier for the market to kind of wrap their heads all around them."
+    },
+    {
+      "start": 542.4,
+      "end": 549.4,
+      "text": "Now it's just down to warehouse, which is a big S&P 500 company that doesn't trade it as much of the discount."
+    },
+    {
+      "start": 549.4,
+      "end": 557.4,
+      "text": "Um, and then us right in here, where, um, people just don't know what to do with this company."
+    },
+    {
+      "start": 557.4,
+      "end": 565.4,
+      "text": "You, you know, go to, uh, reat week conferences and these guys are probably stuck in the back room somewhere."
+    },
+    {
+      "start": 565.4,
+      "end": 571.4,
+      "text": "And, uh, they're, they're not able to, you know, pouring them by reat standards."
+    },
+    {
+      "start": 571.4,
+      "end": 573.4,
+      "text": "You know, yeah, exactly."
+    },
+    {
+      "start": 573.4,
+      "end": 575.4,
+      "text": "Nobody likes reats anyway today."
+    },
+    {
+      "start": 575.4,
+      "end": 581.4,
+      "text": "So, so it's, uh, unless they're, it's a reat for, you know, stuff in space that's, that's okay."
+    },
+    {
+      "start": 581.4,
+      "end": 591.4,
+      "text": "But these space data centers, that'll, that'll be a whole new reat class that, uh, maybe what will invest a 10 years from now who does."
+    },
+    {
+      "start": 591.4,
+      "end": 606.4,
+      "text": "But, uh, but, but no, it's just, uh, it's, it's a great asset class because, um, when it's time to cut the trees you should, if it's not then you don't, but they keep growing in value."
+    },
+    {
+      "start": 606.4,
+      "end": 611.4,
+      "text": "That was kind of, since I'm coming back to the Jeremy Grantham thing, I guess, I don't know why."
+    },
+    {
+      "start": 611.4,
+      "end": 618.4,
+      "text": "But, but, you know, that was kind of consensus thinking with the Davison foundations, you know, 10, 20 years ago."
+    },
+    {
+      "start": 618.4,
+      "end": 631.4,
+      "text": "That's, that's not now, but that's the opportunity going for it. This is an understandable, you know, many decades, many generations type asset, um, and we get a chance to buy it cheaply in the public markets."
+    },
+    {
+      "start": 631.4,
+      "end": 641.4,
+      "text": "And who knows how that gets solved, you know, the company is buying back its own shares currently. That's one way to kind of slowly and steadily a creep value for share and close that gap."
+    },
+    {
+      "start": 641.4,
+      "end": 648.4,
+      "text": "They can do something bigger to close that gap. Could should this be owned privately at some point? We'll see."
+    },
+    {
+      "start": 648.4,
+      "end": 655.4,
+      "text": "One of the return on assets look like over, I don't know, called a decade kind of smooth out some of the timber prices."
+    },
+    {
+      "start": 655.4,
+      "end": 667.4,
+      "text": "You know, it's, it's never, it's, it's an interesting one because it can be both a good business and a low RWA type business where you've got that kind of steady baseline, um, to the value."
+    },
+    {
+      "start": 667.4,
+      "end": 678.4,
+      "text": "But, you know, because land is such a steady kind of asset claim, you see that in some reeds that are out there and it's like a land read trades of a, you know, real low dividend yield."
+    },
+    {
+      "start": 678.4,
+      "end": 689.4,
+      "text": "That's essentially what we've got within this company. So it's going to be a single digit, you know, RWA mid to high single digit RWA. Now at the price that we're paying, it can be better than that."
+    },
+    {
+      "start": 689.4,
+      "end": 699.4,
+      "text": "But, but over the long run, this is not, you know, some wonderful, you know, royalty patented type business or something like that."
+    },
+    {
+      "start": 699.4,
+      "end": 706.4,
+      "text": "How do you think about portfolio construction? How concentrated do you like to get at inception? How diversified do you like to be?"
+    },
+    {
+      "start": 706.4,
+      "end": 710.4,
+      "text": "How do you think about diversification across industries and so on?"
+    },
+    {
+      "start": 710.4,
+      "end": 721.4,
+      "text": "So, um, we, I, I think back to, to your book, concentrated investing. You know, there's this great. I'm, I'm one of the few readers."
+    },
+    {
+      "start": 721.4,
+      "end": 739.4,
+      "text": "Yeah. We found them. We found the guy who bought one. It's, it's a really good book. And I remember that I'm kind of coming for both angles here. So, so starting, um, starting at the most concentrated, you know, we've all in CFA class, seeing those studies where, you know,"
+    },
+    {
+      "start": 739.4,
+      "end": 756.4,
+      "text": "10 to 15 carefully selected things after that, the incremental benefit from diversification starts dropping off. Now in real life, it's hard to find 10 to 15 things that aren't at least somewhat correlated. You know, but, but you start there."
+    },
+    {
+      "start": 756.4,
+      "end": 772.4,
+      "text": "Then kind of coming from, from the top, from the extra diversified world, you know, I think of that table in the book where once you start getting over 30 to 40 stocks, you mathematically look too much like the index."
+    },
+    {
+      "start": 772.4,
+      "end": 776.4,
+      "text": "And when you look too much like the index, you don't deserve to exist."
+    },
+    {
+      "start": 776.4,
+      "end": 786.4,
+      "text": "And it also gets hard to, we're a small team of generalists. We're always going to have five to 10 people on the research team. You know, we don't have a whole lot of different products or anything."
+    },
+    {
+      "start": 786.4,
+      "end": 791.4,
+      "text": "We've never been about, you know, product proliferation and asset gathering."
+    },
+    {
+      "start": 791.4,
+      "end": 805.4,
+      "text": "We've actually closed, had each one of our strategies closed at some point, you know, so, so we're, we're truly trying to be aligned with, with our partners. And as part of that, you concentrate on your best ideas, what you know best."
+    },
+    {
+      "start": 805.4,
+      "end": 812.4,
+      "text": "So that's somewhere between 10 and 35. We, we are around 20."
+    },
+    {
+      "start": 812.4,
+      "end": 825.4,
+      "text": "We found that is a good solid number to get appropriate diversification benefits to know what we own and to keep that high active share, which justifies being an active manager."
+    },
+    {
+      "start": 825.4,
+      "end": 828.4,
+      "text": "How big do you like to get an inception?"
+    },
+    {
+      "start": 828.4,
+      "end": 838.4,
+      "text": "You know, it'll depend a little bit. So, you know, 20 or so stocks needs portfolio. If each one of them were equally weighted, that'd be about a 5% position or so."
+    },
+    {
+      "start": 838.4,
+      "end": 848.4,
+      "text": "If it's something where we are newer to the name, we'll start off smaller than that 5%."
+    },
+    {
+      "start": 848.4,
+      "end": 872.4,
+      "text": "One of the, the changes that we think will make our, you know, next 20, 30 years, better than we put in a few years ago, were some some upside position limits because kind of after we started going above, you know, 8% or so positions, we weren't adding enough value for the extra risk that was taken on by that concentration."
+    },
+    {
+      "start": 872.4,
+      "end": 883.4,
+      "text": "There's not going to do that anymore. But, you know, something smaller than 2 to 3%, not worth your time in a 20 stock portfolio."
+    },
+    {
+      "start": 883.4,
+      "end": 892.4,
+      "text": "Over 8%, we found that's a level where we weren't getting enough bang for our buck. So that's what it will be the range between those two."
+    },
+    {
+      "start": 892.4,
+      "end": 899.4,
+      "text": "And then if you're just staying in society, what are you sort of, where are you trimming on the other side?"
+    },
+    {
+      "start": 899.4,
+      "end": 910.4,
+      "text": "You know, this, this is a helpful time to kind of bring in our price to value concept. You know, so each one of our individual investments, we appraise it."
+    },
+    {
+      "start": 910.4,
+      "end": 916.4,
+      "text": "And if we think it's worth 100 and it's trading at 60, it's a 60% price to value ratio."
+    },
+    {
+      "start": 916.4,
+      "end": 924.4,
+      "text": "Now each price to value ratio is not created equal. Leverage is a big factor on both of those. We also have the price to enterprise value."
+    },
+    {
+      "start": 924.4,
+      "end": 940.4,
+      "text": "We're an unleveraged $60.00 is better than a leveraged $60.00 because that leveraged $60.00 could be a $75.80 price to enterprise value, which would therefore be more risky and less attractive for future returns."
+    },
+    {
+      "start": 940.4,
+      "end": 952.4,
+      "text": "So, you know, generally we're going to be looking to sell those investments that are higher, P2V and lower quality."
+    },
+    {
+      "start": 952.4,
+      "end": 962.4,
+      "text": "You know, and quality can, can be a big driver of future value per share growth in free cash flow per share growth, which is a very important part of returns."
+    },
+    {
+      "start": 962.4,
+      "end": 968.4,
+      "text": "It can be one of those harder to quantify parts that doesn't show up in today's spreadsheet."
+    },
+    {
+      "start": 968.4,
+      "end": 985.4,
+      "text": "But up and down the portfolio today, we've got companies that are on offense that are begging for there to finally be some volatility that they can use to, you know, outpace their peers and grow their value per share and free cash flow per share."
+    },
+    {
+      "start": 985.4,
+      "end": 1000.4,
+      "text": "You know, our portfolios on average over we've tracked this back decades have had a price to value ratio high 60s percent, which if we're looking for 60% or so, that kind of makes sense."
+    },
+    {
+      "start": 1000.4,
+      "end": 1008.4,
+      "text": "Today we're below 60%. That's unique. It's extra unique at a time when the S&P 500 is hitting highs."
+    },
+    {
+      "start": 1008.4,
+      "end": 1022.4,
+      "text": "So, we can have that kind of rare time again, why Joe had me on today, because we have good perspective, absolute and relative from here in our opinion."
+    },
+    {
+      "start": 1022.4,
+      "end": 1025.4,
+      "text": "Sorry, JT, I stepped on your toes before."
+    },
+    {
+      "start": 1025.4,
+      "end": 1035.4,
+      "text": "Oh, I don't know. I think I was going to talk about power laws a little bit when it's so like trimming things that are working to theoretically buy something that wasn't working."
+    },
+    {
+      "start": 1035.4,
+      "end": 1039.4,
+      "text": "So, just maybe more in general thoughts on reversion to the mean versus power laws."
+    },
+    {
+      "start": 1039.4,
+      "end": 1049.4,
+      "text": "Yeah. So, I mentioned a tough 12 months at the start. It's really kind of been a tough 12 years for the concept of reversion to the mean."
+    },
+    {
+      "start": 1049.4,
+      "end": 1070.4,
+      "text": "Yeah. We do still believe in that concept. I believe that we have learned, though, the virtue of, you know, holding on to something that you understand, that you trust the people that is on offense enough to keep growing its value per share."
+    },
+    {
+      "start": 1070.4,
+      "end": 1089.4,
+      "text": "That would be a good thing to hold sometimes at 80 to 90 cents. It doesn't have to be a big huge weight necessarily, but don't get too distracted, because we're value hounds, you know, by that new 60, 50, $0.50 that, you know, might not be on offense as much."
+    },
+    {
+      "start": 1089.4,
+      "end": 1099.4,
+      "text": "Yeah, and you probably don't know it as well to actually like pin down that number of and that is like there is a big big difference between having lived with something for a long time and not."
+    },
+    {
+      "start": 1099.4,
+      "end": 1105.4,
+      "text": "And it's just it's just one of those things it's hard to describe, but, but you know it once you've done it for a while."
+    },
+    {
+      "start": 1105.4,
+      "end": 1117.4,
+      "text": "And that that's also when you can make a whole lot of money to when you know something well and it just drops for silly reasons and then you can can take that waiting back up. That's good."
+    },
+    {
+      "start": 1117.4,
+      "end": 1122.4,
+      "text": "You might have less confidence and less willingness ability to do that if it's a newer holding."
+    },
+    {
+      "start": 1122.4,
+      "end": 1127.4,
+      "text": "But the grass is always cheaper. Yeah, the saying is."
+    },
+    {
+      "start": 1127.4,
+      "end": 1139.4,
+      "text": "Yeah, so see, you know, you go back 10, 15 years ago, you had a lot of great, the difference in multiples between great and good to average."
+    },
+    {
+      "start": 1139.4,
+      "end": 1150.4,
+      "text": "It wasn't, that was a mispricing, you know, we, I remember I was, I was our Google analyst in, in 2015 and you backed out the stuff that was money losing wasn't disclosed very well."
+    },
+    {
+      "start": 1150.4,
+      "end": 1156.4,
+      "text": "We were paying 12 times or so after tax free cash flow for that core business."
+    },
+    {
+      "start": 1156.4,
+      "end": 1162.4,
+      "text": "And that was very attractive. That's value stock, however you slice it."
+    },
+    {
+      "start": 1162.4,
+      "end": 1173.4,
+      "text": "You go for though today and this has actually been changing a little bit some we've seen this year, some of these, you know, permanent compounder type companies."
+    },
+    {
+      "start": 1173.4,
+      "end": 1187.4,
+      "text": "You know, have been becoming a little less permanent and that's interesting and that's, I would say encouraging for our style of investment, you know, interest rates have also been a factor here where."
+    },
+    {
+      "start": 1187.4,
+      "end": 1200.4,
+      "text": "And in low interest rates times, it's just all about growth and you can really, you know, get some of that, you know, what was the 15 times earning stock 10, 15 years ago had gone to a 30 times earning stock."
+    },
+    {
+      "start": 1200.4,
+      "end": 1204.4,
+      "text": "It was just, it was kind of crazy, you know, but."
+    },
+    {
+      "start": 1204.4,
+      "end": 1209.4,
+      "text": "I still feel like some of that is residual in the environment right now with like."
+    },
+    {
+      "start": 1209.4,
+      "end": 1214.4,
+      "text": "People talking about 20 times being cheap for something it's like well."
+    },
+    {
+      "start": 1214.4,
+      "end": 1221.4,
+      "text": "That's that's relatively cheap, but I remember a long time ago and 20 was kind of considered expensive."
+    },
+    {
+      "start": 1221.4,
+      "end": 1238.4,
+      "text": "Well, you know, it's again, we're all preaching to our own choir here, but you know, we kind of like to to boil down a lot of what we do to, you know, paying 10, 12 times sometimes up to 14 times earnings for something that is."
+    },
+    {
+      "start": 1238.4,
+      "end": 1244.4,
+      "text": "Great and understandable and then it goes to 15 to 20 times and that's great, but."
+    },
+    {
+      "start": 1244.4,
+      "end": 1254.4,
+      "text": "Like you said, it's just become so consensus that things are 25 30 and now they've come down to 20 folks that 20 can go to 10 or 12 so that's."
+    },
+    {
+      "start": 1254.4,
+      "end": 1257.4,
+      "text": "You take on a lot of risks now happens so."
+    },
+    {
+      "start": 1257.4,
+      "end": 1263.4,
+      "text": "I read an interesting stat here recently I didn't actually go dig it out to make sure it was true or not, but."
+    },
+    {
+      "start": 1263.4,
+      "end": 1268.4,
+      "text": "It was that 12% of the earnings of the S and P 500."
+    },
+    {
+      "start": 1268.4,
+      "end": 1281.4,
+      "text": "I don't remember it must be this most recent turn on 12 months were from three companies writing up their investments in things like anthropic and whatever all these other, you know,"
+    },
+    {
+      "start": 1281.4,
+      "end": 1298.4,
+      "text": "that have come good do so how much that that would scare me right now a little bit if I was like underwriting the returns from here on, on an index fund when you've got a big chart of that is just purely a mark a market on something that's not that clear."
+    },
+    {
+      "start": 1298.4,
+      "end": 1305.4,
+      "text": "Well, I think that's a very good point like how you can get to a time in the market when you can lose serious money is when."
+    },
+    {
+      "start": 1305.4,
+      "end": 1323.4,
+      "text": "But you know you've got both questions on both the numerator and the denominator of a P E multiple like you know most times in market history, you know your E on an index is going to you know it could fluctuate 5 or 10% and maybe a no 8 2008 type thing."
+    },
+    {
+      "start": 1323.4,
+      "end": 1326.4,
+      "text": "I think it fluctuates a little more briefly."
+    },
+    {
+      "start": 1326.4,
+      "end": 1334.4,
+      "text": "Yeah, tax change OK like yeah, 2017 tax change, but now you've got really big questions on the E."
+    },
+    {
+      "start": 1334.4,
+      "end": 1339.4,
+      "text": "That is being capitalized and in you know the current S and P 521."
+    },
+    {
+      "start": 1339.4,
+      "end": 1350.4,
+      "text": "The big P you want to call it because number one there's this massive capital spending that is going on and people say well this company is at 20 times earnings it's 25 times earnings."
+    },
+    {
+      "start": 1350.4,
+      "end": 1360.4,
+      "text": "They haven't grown there like you know a lot of these we were going through our favorite acronyms for these companies earlier, but a lot of these big 5 to 10 Internet digital tech companies again great companies."
+    },
+    {
+      "start": 1360.4,
+      "end": 1369.4,
+      "text": "I think we all want to own them at the right price, but they're actual free cash flow per share over the last three or so years hasn't been very good."
+    },
+    {
+      "start": 1369.4,
+      "end": 1377.4,
+      "text": "And it's kind of gone to a lot of these semiconductor companies which are printing huge earnings."
+    },
+    {
+      "start": 1377.4,
+      "end": 1388.4,
+      "text": "There's semiconductors they go up and down all the time and 10 times earnings at you know pick your stock that's one of these micron et cetera."
+    },
+    {
+      "start": 1388.4,
+      "end": 1395.4,
+      "text": "In videos 20 times, but that E on that 10 or that 20."
+    },
+    {
+      "start": 1395.4,
+      "end": 1401.4,
+      "text": "That could be off by multiples and and that could be."
+    },
+    {
+      "start": 1401.4,
+      "end": 1413.4,
+      "text": "You know something that's coming and we're glad that we don't participate in that today of course we should have participated in it over the last 12 months but we didn't and we're not going to today."
+    },
+    {
+      "start": 1413.4,
+      "end": 1427.4,
+      "text": "For all the things you do and places you go let Uber take you there because you had just one more three rounds ago because the 5 a.m. flight seemed smart at the time because check engine lights appear at the worst times."
+    },
+    {
+      "start": 1427.4,
+      "end": 1433.4,
+      "text": "Because parking downtown is a nightmare whatever your reason there are drivers in your area."
+    },
+    {
+      "start": 1433.4,
+      "end": 1439.4,
+      "text": "Uber requests to ride today and get your first ride free with promo code first free over 2026."
+    },
+    {
+      "start": 1439.4,
+      "end": 1442.4,
+      "text": "Wait time there is term to conditions apply see average details."
+    },
+    {
+      "start": 1442.4,
+      "end": 1447.4,
+      "text": "This summer, Fandoo is the best place to bet on goals including equalizers."
+    },
+    {
+      "start": 1447.4,
+      "end": 1448.4,
+      "text": "Yep, headers."
+    },
+    {
+      "start": 1448.4,
+      "end": 1450.4,
+      "text": "Every goal is worth more on Fandoo."
+    },
+    {
+      "start": 1450.4,
+      "end": 1452.4,
+      "text": "So let there be goals."
+    },
+    {
+      "start": 1452.4,
+      "end": 1456.4,
+      "text": "New customers get 350 in bonus bets guaranteed when you bet $5 for seven days."
+    },
+    {
+      "start": 1456.4,
+      "end": 1458.4,
+      "text": "21 plus in present and select states."
+    },
+    {
+      "start": 1458.4,
+      "end": 1462.4,
+      "text": "First online real money wager only minimum $5 wager required for seven consecutive days."
+    },
+    {
+      "start": 1462.4,
+      "end": 1463.4,
+      "text": "$5 first deposit required."
+    },
+    {
+      "start": 1463.4,
+      "end": 1466.4,
+      "text": "Bonus issue does not withdraw but bonus bets which expire seven days after receipt."
+    },
+    {
+      "start": 1466.4,
+      "end": 1469.4,
+      "text": "Restrictions apply see full terms at Fandoo.com slash sportsbook."
+    },
+    {
+      "start": 1469.4,
+      "end": 1473.4,
+      "text": "Gambling problem call 1-800 gambler or 1-800 my reset."
+    },
+    {
+      "start": 1474.4,
+      "end": 1480.4,
+      "text": "Maybe it might be a situation like meta when they were in the metaverse and sold off pretty hard"
+    },
+    {
+      "start": 1480.4,
+      "end": 1484.4,
+      "text": "because there was so much capex and then woke up."
+    },
+    {
+      "start": 1484.4,
+      "end": 1488.4,
+      "text": "Zuck decided he didn't like that and changed course."
+    },
+    {
+      "start": 1488.4,
+      "end": 1493.4,
+      "text": "And then I think all of the mag seven they just go back to there where they were before"
+    },
+    {
+      "start": 1493.4,
+      "end": 1497.4,
+      "text": "if they're not spending as much on capex but it definitely shows up for the semis."
+    },
+    {
+      "start": 1497.4,
+      "end": 1500.4,
+      "text": "It will hurt the semis if they do that."
+    },
+    {
+      "start": 1500.4,
+      "end": 1503.4,
+      "text": "So that would be a big change."
+    },
+    {
+      "start": 1503.4,
+      "end": 1511.4,
+      "text": "But can they go back now with I don't know if you can with if AI is this kind of inevitable thing."
+    },
+    {
+      "start": 1511.4,
+      "end": 1517.4,
+      "text": "You're going to all of a sudden get religion and like see that area to someone else who is willing to spend."
+    },
+    {
+      "start": 1517.4,
+      "end": 1520.4,
+      "text": "I think they're stuck in kind of a classic Christmas dilemma situation."
+    },
+    {
+      "start": 1520.4,
+      "end": 1522.4,
+      "text": "So they need the single level of growth."
+    },
+    {
+      "start": 1522.4,
+      "end": 1527.4,
+      "text": "If they need the single level of spend like if they just go to maintenance at some point rather than like growing at the way they have been."
+    },
+    {
+      "start": 1527.4,
+      "end": 1529.4,
+      "text": "And then let somebody else take it though."
+    },
+    {
+      "start": 1529.4,
+      "end": 1531.4,
+      "text": "How do you do that?"
+    },
+    {
+      "start": 1531.4,
+      "end": 1535.4,
+      "text": "You know, this is something that we've thought about a lot too."
+    },
+    {
+      "start": 1535.4,
+      "end": 1541.4,
+      "text": "So much of it does get back to like what is the real underlying demand?"
+    },
+    {
+      "start": 1541.4,
+      "end": 1549.4,
+      "text": "And what is the real kind of pricing per unit of a lot of this AI compute that is going on?"
+    },
+    {
+      "start": 1549.4,
+      "end": 1551.4,
+      "text": "That's a really hard question."
+    },
+    {
+      "start": 1551.4,
+      "end": 1552.4,
+      "text": "That's the question."
+    },
+    {
+      "start": 1552.4,
+      "end": 1554.4,
+      "text": "Yeah, what's the answer?"
+    },
+    {
+      "start": 1554.4,
+      "end": 1564.4,
+      "text": "And you know, that's that's one that we we will be interested in trying to to answer in the future."
+    },
+    {
+      "start": 1564.4,
+      "end": 1568.4,
+      "text": "But at these prices, we we we feel like it's."
+    },
+    {
+      "start": 1568.4,
+      "end": 1570.4,
+      "text": "You have to be right about it."
+    },
+    {
+      "start": 1570.4,
+      "end": 1574.4,
+      "text": "You know, you've got to have a really strong and firm opinion at these prices."
+    },
+    {
+      "start": 1574.4,
+      "end": 1578.4,
+      "text": "And sometimes you don't have to have to play."
+    },
+    {
+      "start": 1578.4,
+      "end": 1585.4,
+      "text": "You can own a grocery store at seven times free cash flow or a food brand at 10 times free cash flow."
+    },
+    {
+      "start": 1585.4,
+      "end": 1587.4,
+      "text": "We'd rather do that."
+    },
+    {
+      "start": 1587.4,
+      "end": 1589.4,
+      "text": "What does what is quality mean to you guys?"
+    },
+    {
+      "start": 1589.4,
+      "end": 1591.4,
+      "text": "How do you think about quality?"
+    },
+    {
+      "start": 1591.4,
+      "end": 1592.4,
+      "text": "I think about it a whole lot."
+    },
+    {
+      "start": 1592.4,
+      "end": 1596.4,
+      "text": "You know, that's why it goes business people price in that order."
+    },
+    {
+      "start": 1596.4,
+      "end": 1605.4,
+      "text": "And you know, we want that that quality coming from both business and people."
+    },
+    {
+      "start": 1605.4,
+      "end": 1608.4,
+      "text": "Sometimes it'll come more from one than the other."
+    },
+    {
+      "start": 1608.4,
+      "end": 1612.4,
+      "text": "But again, we prefer both, you know, on the business side."
+    },
+    {
+      "start": 1612.4,
+      "end": 1616.4,
+      "text": "It starts with that understandability and ability to grow."
+    },
+    {
+      "start": 1616.4,
+      "end": 1626.4,
+      "text": "You know, can you be confident that this will be something that can generate more true cash earnings power five to 10 years from now?"
+    },
+    {
+      "start": 1626.4,
+      "end": 1628.4,
+      "text": "And how will it get there?"
+    },
+    {
+      "start": 1628.4,
+      "end": 1630.4,
+      "text": "What will the competitive environment look like?"
+    },
+    {
+      "start": 1630.4,
+      "end": 1632.4,
+      "text": "Do their customers actually like them?"
+    },
+    {
+      "start": 1632.4,
+      "end": 1635.4,
+      "text": "Or kind of begrudgingly do business with them?"
+    },
+    {
+      "start": 1635.4,
+      "end": 1637.4,
+      "text": "Which they prefer."
+    },
+    {
+      "start": 1637.4,
+      "end": 1645.4,
+      "text": "Well, that's, I mean, you're joking, but there is something about a monopoly where they do have to do business with you that might be."
+    },
+    {
+      "start": 1645.4,
+      "end": 1648.4,
+      "text": "Might be just as attractive, right?"
+    },
+    {
+      "start": 1648.4,
+      "end": 1652.4,
+      "text": "It could be, although you want that mutual benefit flow in both ways."
+    },
+    {
+      "start": 1652.4,
+      "end": 1658.4,
+      "text": "Yeah, the less they like you, the more that they'll be thinking about ways to ultimately stop doing business with you."
+    },
+    {
+      "start": 1658.4,
+      "end": 1660.4,
+      "text": "Like you're throwing, yeah."
+    },
+    {
+      "start": 1660.4,
+      "end": 1661.4,
+      "text": "Yeah."
+    },
+    {
+      "start": 1661.4,
+      "end": 1663.4,
+      "text": "So, so it's things like that."
+    },
+    {
+      "start": 1663.4,
+      "end": 1670.4,
+      "text": "And then some of those things are quantifiable and some of them are not, you know, you can quantify pricing power to agree."
+    },
+    {
+      "start": 1670.4,
+      "end": 1674.4,
+      "text": "But, you know, sometimes you kind of just got to spit ball a little bit."
+    },
+    {
+      "start": 1674.4,
+      "end": 1682.4,
+      "text": "You can quantify return on capital in a backwards looking way, but what matters is forward looking return on incremental capital."
+    },
+    {
+      "start": 1682.4,
+      "end": 1685.4,
+      "text": "And then that gets the people side of things where."
+    },
+    {
+      "start": 1685.4,
+      "end": 1694.4,
+      "text": "We want owners alongside of us who are going to unconventionally grow the value per share and grow the free cash flow per share."
+    },
+    {
+      "start": 1694.4,
+      "end": 1697.4,
+      "text": "I mean, there's a lot of crazy stock market stuff out there."
+    },
+    {
+      "start": 1697.4,
+      "end": 1704.4,
+      "text": "We've already been riffing on, but we haven't seen growing your free cash flow per share over the long run stop working."
+    },
+    {
+      "start": 1704.4,
+      "end": 1708.4,
+      "text": "And if you do that, you'll generally get rewarded."
+    },
+    {
+      "start": 1708.4,
+      "end": 1713.4,
+      "text": "You can have quarter or a year when that gets gets out of whack versus the stock price."
+    },
+    {
+      "start": 1713.4,
+      "end": 1716.4,
+      "text": "If you can do that, you'll be in good shape."
+    },
+    {
+      "start": 1716.4,
+      "end": 1726.4,
+      "text": "And so, you know, we can have a company like CNX resources that natural gas production and owning pipelines is not necessarily the world's greatest business."
+    },
+    {
+      "start": 1726.4,
+      "end": 1732.4,
+      "text": "But we are highly confident that this board and this management team gets it on value per share creation."
+    },
+    {
+      "start": 1732.4,
+      "end": 1735.4,
+      "text": "And we'll do intelligent things and not put the company at risk."
+    },
+    {
+      "start": 1735.4,
+      "end": 1738.4,
+      "text": "And that's why it's been, you know, really good holding for us."
+    },
+    {
+      "start": 1738.4,
+      "end": 1743.4,
+      "text": "And that's also though how it can still be undervalued because they'll be willing to hedge."
+    },
+    {
+      "start": 1743.4,
+      "end": 1749.4,
+      "text": "You know, a lot of other oil and gas companies will say, oh, our investors want exposure to the commodity or something."
+    },
+    {
+      "start": 1749.4,
+      "end": 1753.4,
+      "text": "Well, we it's not these to want exposure to growing free cash flow per share and low risk."
+    },
+    {
+      "start": 1753.4,
+      "end": 1757.4,
+      "text": "And if you can do that with hedging, you should do it."
+    },
+    {
+      "start": 1757.4,
+      "end": 1772.4,
+      "text": "You know, on the other side of things, you know, when we've got a truly, truly great business, you might not need the world's best manager necessarily, although we don't want to make any excuses though on that side of things."
+    },
+    {
+      "start": 1772.4,
+      "end": 1778.4,
+      "text": "You know, we've had some some great, we've had some average, we prefer great on both."
+    },
+    {
+      "start": 1779.4,
+      "end": 1791.4,
+      "text": "Ross, you think in a world where there's perhaps faster disruption, more change, more less competitively advanced periods to underwrite, like maybe they're shorter."
+    },
+    {
+      "start": 1791.4,
+      "end": 1799.4,
+      "text": "Maybe does management matter more than if you can't depend on the business as much as maybe you could have 20, 30 years ago."
+    },
+    {
+      "start": 1799.4,
+      "end": 1802.4,
+      "text": "I think that's probably true."
+    },
+    {
+      "start": 1803.4,
+      "end": 1807.4,
+      "text": "Just don't figure it out like you just find someone smart and they'll figure out how to make it work."
+    },
+    {
+      "start": 1807.4,
+      "end": 1815.4,
+      "text": "That's right. And it's also management also matters more the more you were required to recycle that capital, you know, right."
+    },
+    {
+      "start": 1815.4,
+      "end": 1828.4,
+      "text": "You know, these capital recycling businesses like banks, insurance, natural resources, you have to get the people right in those because if you don't, you're in trouble."
+    },
+    {
+      "start": 1828.4,
+      "end": 1833.4,
+      "text": "Yeah, especially the ones where they take the money today and then they give a promise of giving it back later."
+    },
+    {
+      "start": 1833.4,
+      "end": 1835.4,
+      "text": "You really have to have that right."
+    },
+    {
+      "start": 1835.4,
+      "end": 1849.4,
+      "text": "Yeah, that's right. There's a big difference between an insurance company run by our peat and good friends at White Mountains and a bunch of other random ones and a bank run by Jamie Dimon or a bank run by who knows who."
+    },
+    {
+      "start": 1850.4,
+      "end": 1851.4,
+      "text": "Yeah."
+    },
+    {
+      "start": 1851.4,
+      "end": 1858.4,
+      "text": "Let me do a quick shout out and then we might do some veggies, dead cat, galley, New South Wales, meat to Valparaiso. What's up?"
+    },
+    {
+      "start": 1858.4,
+      "end": 1863.4,
+      "text": "Yeah. Toronto, balloon, France."
+    },
+    {
+      "start": 1863.4,
+      "end": 1874.4,
+      "text": "Some Spanish about the price of their stick the stick the price of the boat in the market. Something like that. Toronto tell us he's not homeish."
+    },
+    {
+      "start": 1874.4,
+      "end": 1880.4,
+      "text": "Yes, it felt good to have Lily follow me in the crocs as an obvious one. I'm supposed to be so long."
+    },
+    {
+      "start": 1880.4,
+      "end": 1889.4,
+      "text": "Seroton, Harland Park at the night, Oregon City, Oregon, Stuttgart, Germany. What's up, Boise, Mallorca, Spain."
+    },
+    {
+      "start": 1889.4,
+      "end": 1892.4,
+      "text": "What's up?"
+    },
+    {
+      "start": 1892.4,
+      "end": 1901.4,
+      "text": "Cannesau, Georgia, Lawrence, Kansas, Knoxville, Tennessee, Zagreb, Croatia, Jupiter, Florida."
+    },
+    {
+      "start": 1901.4,
+      "end": 1908.4,
+      "text": "Tumble, Texas, Bellevue, Limerick City, Limerick, Glasgow, J.T."
+    },
+    {
+      "start": 1908.4,
+      "end": 1911.4,
+      "text": "Hit a sweetie veggies."
+    },
+    {
+      "start": 1911.4,
+      "end": 1920.4,
+      "text": "We should just take a year and see if we can couch serve the entire world just purely from the listeners."
+    },
+    {
+      "start": 1920.4,
+      "end": 1922.4,
+      "text": "I think we might be able to do it."
+    },
+    {
+      "start": 1922.4,
+      "end": 1925.4,
+      "text": "Same. I'm coming to Jupiter, Florida."
+    },
+    {
+      "start": 1925.4,
+      "end": 1928.4,
+      "text": "Just stay there for a year."
+    },
+    {
+      "start": 1928.4,
+      "end": 1935.4,
+      "text": "All right, so first I need to do a shout out to my dear friend Dan who did probably 90% of the work on this segment."
+    },
+    {
+      "start": 1935.4,
+      "end": 1939.4,
+      "text": "And so if this ends up being a banger all the credit goes to him."
+    },
+    {
+      "start": 1939.4,
+      "end": 1944.4,
+      "text": "So we opened the scene in Manchester, England, it's 1883."
+    },
+    {
+      "start": 1944.4,
+      "end": 1950.4,
+      "text": "And this bearded engineer professor guy named Osborne Reynolds is standing over a long glass pipe."
+    },
+    {
+      "start": 1950.4,
+      "end": 1955.4,
+      "text": "And in that pipe runs out of a big tank of water that's like perfectly still water."
+    },
+    {
+      "start": 1956.4,
+      "end": 1964.4,
+      "text": "And he's rigged up this tiny nozzle that injects a thread of dyed water right into the center that is flowing inside of this pipe."
+    },
+    {
+      "start": 1964.4,
+      "end": 1968.4,
+      "text": "So and he opens his valve and the water starts moving down the pipe through it."
+    },
+    {
+      "start": 1968.4,
+      "end": 1973.4,
+      "text": "And basically like you can kind of see this little line of dye that is running down the middle."
+    },
+    {
+      "start": 1973.4,
+      "end": 1981.4,
+      "text": "And now before I go any further I'll admit up front that you know we're about to torture the concept of fluid dynamics with analogies."
+    },
+    {
+      "start": 1981.4,
+      "end": 1986.4,
+      "text": "So you know I can already hear the three engineers we have listening that are unsubscribing already."
+    },
+    {
+      "start": 1986.4,
+      "end": 1991.4,
+      "text": "But that's fair and stick with me because I think this one actually holds in this kind of interesting."
+    },
+    {
+      "start": 1991.4,
+      "end": 1996.4,
+      "text": "So back to Reynolds, he opens the valve of crack and that there's this slow flow."
+    },
+    {
+      "start": 1996.4,
+      "end": 2002.4,
+      "text": "And the dye you know is quite beautiful actually like it's just this perfect running the whole length of the pipe."
+    },
+    {
+      "start": 2002.4,
+      "end": 2006.4,
+      "text": "A single clean straight line picture of being maybe red inside of the water."
+    },
+    {
+      "start": 2007.4,
+      "end": 2011.4,
+      "text": "And the water is moving around it in these very orderly parallel sheets."
+    },
+    {
+      "start": 2011.4,
+      "end": 2015.4,
+      "text": "Each layer is sliding past the next nothing's really mixing."
+    },
+    {
+      "start": 2015.4,
+      "end": 2018.4,
+      "text": "And engineers call this laminar flow."
+    },
+    {
+      "start": 2018.4,
+      "end": 2020.4,
+      "text": "L-A-M-I-N-A-R."
+    },
+    {
+      "start": 2020.4,
+      "end": 2024.4,
+      "text": "And it's smooth, predictable, boring kind of in the best way."
+    },
+    {
+      "start": 2024.4,
+      "end": 2029.4,
+      "text": "And then Reynolds opens the valve a little wider and the water is now flowing a little faster through here."
+    },
+    {
+      "start": 2029.4,
+      "end": 2034.4,
+      "text": "And then there's a specific speed that it starts going that the thread starts to wobble a little bit."
+    },
+    {
+      "start": 2034.4,
+      "end": 2039.4,
+      "text": "And you've probably seen this before with like a candle you know that is you know there's no real air disturbing."
+    },
+    {
+      "start": 2039.4,
+      "end": 2042.4,
+      "text": "And it's kind of like a perfect little clean smoke that's coming out."
+    },
+    {
+      "start": 2042.4,
+      "end": 2046.4,
+      "text": "And then like as you get more air starts wobbling it's the same concept."
+    },
+    {
+      "start": 2046.4,
+      "end": 2049.4,
+      "text": "You know it starts shut so we're back to the water tank and it starts shuddering."
+    },
+    {
+      "start": 2049.4,
+      "end": 2054.4,
+      "text": "And then it like bursts apart into this massive like swirling eddies that fill the entire pipe."
+    },
+    {
+      "start": 2054.4,
+      "end": 2059.4,
+      "text": "And that's turbulence chaos and that clean line is completely gone."
+    },
+    {
+      "start": 2059.4,
+      "end": 2064.4,
+      "text": "And here's so here's why you know we're still using Reynolds's name 140 years later."
+    },
+    {
+      "start": 2064.4,
+      "end": 2069.4,
+      "text": "He figured out that the switch from smooth to chaotic doesn't just depend on the speed alone."
+    },
+    {
+      "start": 2069.4,
+      "end": 2073.4,
+      "text": "It also depends on a specific ratio that's now called the Reynolds number."
+    },
+    {
+      "start": 2073.4,
+      "end": 2079.4,
+      "text": "And at the top of that equation in the numerator you've got the inertial forces."
+    },
+    {
+      "start": 2079.4,
+      "end": 2089.4,
+      "text": "And inertia you know it's kind of can maybe trip you up in this instance because it isn't the fluid like wanting to go necessarily in a straight line like you think of inertia."
+    },
+    {
+      "start": 2089.4,
+      "end": 2094.4,
+      "text": "It's that when it starts wobbling it starts to have a sideways momentum and it starts."
+    },
+    {
+      "start": 2094.4,
+      "end": 2099.4,
+      "text": "These little packets of water imagine them kind of bumping into each other and nudging each other out of the way."
+    },
+    {
+      "start": 2099.4,
+      "end": 2105.4,
+      "text": "And they run into their neighbors and they knock them off course and now this wobble grows into that swirling eddy."
+    },
+    {
+      "start": 2105.4,
+      "end": 2110.4,
+      "text": "That's what takes these small disturbances and kind of amplifies them out into chaos."
+    },
+    {
+      "start": 2110.4,
+      "end": 2115.4,
+      "text": "And on the bottom of this equation you have viscous forces like viscosity."
+    },
+    {
+      "start": 2115.4,
+      "end": 2120.4,
+      "text": "And that's the fluids internal friction but thickness and it's the opposite of the inertia."
+    },
+    {
+      "start": 2120.4,
+      "end": 2130.4,
+      "text": "So when that that parcel tries to dart sideways when it's moving that the viscosity drags on it and bleeds it back you know and staying it on course kind of smears it back into line."
+    },
+    {
+      "start": 2130.4,
+      "end": 2135.4,
+      "text": "It's about like honey dripping you know it like wants to stay in this very smooth line."
+    },
+    {
+      "start": 2135.4,
+      "end": 2141.4,
+      "text": "So it's this fight between inertia that's amplifying the wobbles and then viscosity is kind of erasing it."
+    },
+    {
+      "start": 2141.4,
+      "end": 2150.4,
+      "text": "And when the viscosity wins the wobbles die down in the flow stays laminar and when inertia wins the wobbles compound and the whole pipe kind of goes turbulent right so."
+    },
+    {
+      "start": 2150.4,
+      "end": 2161.4,
+      "text": "The textbooks would tell you that that flip happens somewhere around the number 2300 that's like what the Reynolds number roughly is i will hold on to that number to come back to in a second but."
+    },
+    {
+      "start": 2161.4,
+      "end": 2178.4,
+      "text": "My my contention just to start torturing is that Warren Buffett has spent the last 70 years deliberately keeping his Reynolds number quite low so let's start with the bottom of the ratio which is viscosity that dampening force you know for an investor I think your viscosity is your competence."
+    },
+    {
+      "start": 2178.4,
+      "end": 2190.4,
+      "text": "So inside of your circle of confidence we all know what that is you've got this a normal this is a normal enormous like internal friction like you can feel when something is off and by the way I think I was just going to make a little joke that."
+    },
+    {
+      "start": 2190.4,
+      "end": 2202.4,
+      "text": "I think we you know when value investors love this circle of confidence concept because what it does let's us turn like I don't understand this to like a philosophy instead of like well it's not my personal failing right."
+    },
+    {
+      "start": 2203.4,
+      "end": 2225.4,
+      "text": "So anyway so imagine a hot tip comes in or a narrative or a price spike or you know something random comes in you can smooth it out because you actually understand the business you know this goes back to Ross's you know business people price like you really understand the business you understand the people price wobbling around is not going to to move you as much internally because you have this viscosity to understanding."
+    },
+    {
+      "start": 2225.4,
+      "end": 2253.4,
+      "text": "So you know like you know making this little more concrete to with buffet sitting around reading a property casually insurance annual report you let's have high viscosity situation right he's been reading 50 years of them now put buffet in front of a biotech with some binary FDA catalyst next month like or maybe some crypto token with a white paper in a discord channel like he's he doesn't have any viscosity there in that area so there's no"
+    },
+    {
+      "start": 2253.4,
+      "end": 2259.4,
+      "text": "internal friction to push back on the hype of be able to say why this is important what's right or wrong."
+    },
+    {
+      "start": 2259.4,
+      "end": 2270.4,
+      "text": "And that story then can kind of carry him wherever wherever wants to same brain same IQ one fluid you know he's able to damp the noise the other one you know he's got nothing really slow it down."
+    },
+    {
+      "start": 2270.4,
+      "end": 2281.4,
+      "text": "So and you know of course buffet kind of spells us out in the 1996 annual letter that the circle of the size of your circle is not what's important it's knowing its boundaries."
+    },
+    {
+      "start": 2281.4,
+      "end": 2294.4,
+      "text": "And he's telling you exactly the kind of where your viscosity drops off that's you need to understand that all right now let's go to the top of the ratio which is velocity for an investor velocity is like how many decisions you're forcing through per unit of time."
+    },
+    {
+      "start": 2294.4,
+      "end": 2304.4,
+      "text": "You know or do you know you're keeping a very crowded calendar constant inbound every deal every meeting every must act now kind of you know situation is coming across your desk."
+    },
+    {
+      "start": 2304.4,
+      "end": 2313.4,
+      "text": "And buffet of course famously keeps that number absurdly low is calendars basically empty he's waiting for the phone during you know of course."
+    },
+    {
+      "start": 2314.4,
+      "end": 2328.4,
+      "text": "You know granted us value guys maybe at times have taken that as permission to do nothing for 15 years and call it discipline you know it's easy to landman or flow yourself right through three ball markets but but I digress."
+    },
+    {
+      "start": 2328.4,
+      "end": 2341.4,
+      "text": "So you know but it has this line that the difference between successful people and really successful people is that those really successful people are able to say no to almost everything and that's that's low velocity you know on purpose."
+    },
+    {
+      "start": 2341.4,
+      "end": 2360.4,
+      "text": "So most people run in the opposite direction high velocity with with low viscosity tons of activity and things that they really don't understand and that's that's where you go wrong lots of trade lots of opinion lots of must act now all outside your circle of competence that's going to lead to turbulence then."
+    },
+    {
+      "start": 2361.4,
+      "end": 2385.4,
+      "text": "So let's church torture this analogy one step further in fluids you always want that low velocity you know slower is always going to be more laminar but investing you don't want actually like complete zero activity you still have to swing at times when it's you get that fat pitch and so the point isn't to never move the point is to keep your rentals number quite low so that when you do move the flow is clean and you're able to still see things clearly."
+    },
+    {
+      "start": 2386.4,
+      "end": 2405.4,
+      "text": "Okay, and then there's last one third there's there's this last third variable in the rentals equation that we should we should do and that's the it's not just speed it's also the thickness of the pipe like the diameter of the pipe so the rentals number goes up as the pride gets wider so we don't know don't make any jokes on this one."
+    },
+    {
+      "start": 2406.4,
+      "end": 2417.4,
+      "text": "Okay, so which means that the exact same fluid the exact same speed will stay laminar in a more narrow pipe than it will it'll go turbulent in a wider pipe."
+    },
+    {
+      "start": 2418.4,
+      "end": 2422.4,
+      "text": "And so this is Buffett's observation that size this may be an anchor on performance."
+    },
+    {
+      "start": 2422.4,
+      "end": 2440.4,
+      "text": "So, you know, Berkshire's always been a widening pipe over time you know first it was the cigar butts then workouts then you know timing misprice thinking misprice things of yesterday and those were very you know narrow pipes very laminar you physically can't push that much money through a narrow pipe though so."
+    },
+    {
+      "start": 2441.4,
+      "end": 2448.4,
+      "text": "And now it's a Google pipe at the top of the market and now it's a giant giant Google pipe at the very top who knows what that means."
+    },
+    {
+      "start": 2449.4,
+      "end": 2461.4,
+      "text": "Okay, so back to that like remember the number of 2300 that we talked about that's that textbook line of when things transition into turbulence that's not actually a real law of nature it's kind of a teaching shortcut."
+    },
+    {
+      "start": 2462.4,
+      "end": 2477.4,
+      "text": "Because the real threshold actually depends also on how much the pipe is being disturbed so a pipe that's vibrating or being jostled full of little shocks will tip into turbulence earlier so if it's perfectly still and isolated then that you can actually hold that number much further past 2300."
+    },
+    {
+      "start": 2478.4,
+      "end": 2506.4,
+      "text": "So, this last bit of torture and then we'll wrap things up is that you know jostling to me then is like your own internal temperament you know two investors can have the same competence the same activity level same viscosity same velocity but the one who's able to isolate him or herself from Mr. Marcus vibrations can stay laminar for far longer and that that vibration is all the noise the financial news the group chats the screen flashing red."
+    },
+    {
+      "start": 2506.4,
+      "end": 2523.4,
+      "text": "In the bucket sits in Omaha on purpose away from Wall Street just to stay away from those tremors that might destroy his laminar flow so three variables to keep in mind keep your velocity low say no to almost everything keep your viscosity high which is stay inside your circle of confidence stamp in the noise."
+    },
+    {
+      "start": 2523.4,
+      "end": 2551.4,
+      "text": "Isolate the pipe which is you know get away from the vibrations of of everybody getting all crazy and that'll help you stay smooth so keep that that low Reynolds number as an investor and and stay laminar my friends blowing ad budget on metrics that look great till the CFO sees them that's bullspend and marketers are calling it out in dashboard confessions I remember telling my boss it'll be good for the brand when leads were slow."
+    },
+    {
+      "start": 2551.4,
+      "end": 2566.4,
+      "text": "Yeah it wasn't cut the bullspend LinkedIn lets you target by company job title and more advertise on LinkedIn spend $250 on your first campaign and get a $250 credit go to LinkedIn dot com slash campaign terms the conditions apply."
+    },
+    {
+      "start": 2581.4,
+      "end": 2598.4,
+      "text": "11 PCs eligible students get a year of Microsoft 365 premium and a year of Xbox game pass ultimate with a custom color Xbox wireless controller learn more at windows dot com slash student offer while supplies last and student 30th terms at aka dot ms slash college PC."
+    },
+    {
+      "start": 2598.4,
+      "end": 2605.4,
+      "text": "I was wondering how you gonna land that one good job stay laminar I'll get that on a t-shirt."
+    },
+    {
+      "start": 2605.4,
+      "end": 2610.4,
+      "text": "What do you think Russ is Tennessee far enough far enough away from the madden crowd."
+    },
+    {
+      "start": 2610.4,
+      "end": 2622.4,
+      "text": "I think it is I think there's you know a reason a lot of those value folks are kind of in the middle of the country here kind of want to live anywhere else."
+    },
+    {
+      "start": 2622.4,
+      "end": 2636.4,
+      "text": "And you know there's nothing wrong with you know being being worldly as well but to to that point like having a bunch of things in your ear all the time do I need to go to that idea dinner tonight."
+    },
+    {
+      "start": 2636.4,
+      "end": 2642.4,
+      "text": "XYZ maybe you should just you know stay home and read another transcript or 10k or something."
+    },
+    {
+      "start": 2642.4,
+      "end": 2654.4,
+      "text": "I get somebody on the phone if you need them a sort of chart that's been doing the rounds I think it runs back to 2015 which shows that basically tech is up since 2015 and everything else is down."
+    },
+    {
+      "start": 2654.4,
+      "end": 2658.4,
+      "text": "To what extent have you had like enough tech exposure over the last."
+    },
+    {
+      "start": 2658.4,
+      "end": 2661.4,
+      "text": "Everything's down that was done tech."
+    },
+    {
+      "start": 2661.4,
+      "end": 2669.4,
+      "text": "That's what the chart said I mean that does why that's a little bit crazy doesn't it wait was this on the internet."
+    },
+    {
+      "start": 2669.4,
+      "end": 2673.4,
+      "text": "It was it's on the yeah okay on Twitter hangout with her machine."
+    },
+    {
+      "start": 2673.4,
+      "end": 2676.4,
+      "text": "Yeah yeah performance."
+    },
+    {
+      "start": 2676.4,
+      "end": 2683.4,
+      "text": "It doesn't quite feel like everything has been down but it hasn't been up as much as tech you know relative performance."
+    },
+    {
+      "start": 2683.4,
+      "end": 2698.4,
+      "text": "And yeah no we you know I mentioned Google you know we never should have sold it right but again that doesn't necessarily mean you need to own it today."
+    },
+    {
+      "start": 2698.4,
+      "end": 2705.4,
+      "text": "And we've done our best to keep widening that circle of competence."
+    },
+    {
+      "start": 2705.4,
+      "end": 2715.4,
+      "text": "Check I liked what you said out it can be excuse to be lazy and have too small of one you need to strive to have a properly sized one I guess."
+    },
+    {
+      "start": 2715.4,
+      "end": 2734.4,
+      "text": "And we feel like we've done that now price still matters and you know it had just gotten to be such gospel you hear it here at an Omaha just just buy something and never sell it."
+    },
+    {
+      "start": 2734.4,
+      "end": 2744.4,
+      "text": "That that can be a really dangerous way to think it can you know lead to too much risk at too high of a multiple."
+    },
+    {
+      "start": 2744.4,
+      "end": 2753.4,
+      "text": "And it's it's been interesting as some of these you know formerly world's greatest software companies etc have sold off in a lot of ways."
+    },
+    {
+      "start": 2753.4,
+      "end": 2763.4,
+      "text": "Would you fully ding them for stock comp and other things that are true ongoing expenses they might have gone from 33 times earnings to 23 times earnings."
+    },
+    {
+      "start": 2763.4,
+      "end": 2778.4,
+      "text": "Okay you know is that it could very well work from there but back to what I said earlier about you know really reducing risk and getting future you know absolute returns when you pay 10 to 15 times."
+    },
+    {
+      "start": 2778.4,
+      "end": 2791.4,
+      "text": "A lot of those aren't aren't there yet so again we we should have done it there were various things that we got close on that we didn't do over the years and we wish we we would have but."
+    },
+    {
+      "start": 2791.4,
+      "end": 2798.4,
+      "text": "You can't can't let that thinking overrun what your portfolio looks like today and for the next five to 10 years."
+    },
+    {
+      "start": 2798.4,
+      "end": 2803.4,
+      "text": "Anytime you reach up it's the wrong decision you get it at the price that you wanted."
+    },
+    {
+      "start": 2803.4,
+      "end": 2807.4,
+      "text": "It's a lot of questions patience usually works yeah."
+    },
+    {
+      "start": 2807.4,
+      "end": 2815.4,
+      "text": "It's an interesting thought experiment well if let's just like play things out to kind of absurd."
+    },
+    {
+      "start": 2815.4,
+      "end": 2827.4,
+      "text": "Conclusions assume it was when anybody agree that there's no business that is so bullet proof on the planet that we can confidently say it will truly last forever."
+    },
+    {
+      "start": 2827.4,
+      "end": 2831.4,
+      "text": "That's not a treat okay so nothing last forever."
+    },
+    {
+      "start": 2831.4,
+      "end": 2835.4,
+      "text": "Parallel that with the fact that."
+    },
+    {
+      "start": 2835.4,
+      "end": 2845.4,
+      "text": "No one cares about dividends at the moment really I mean it's sort of like a nice throw in that you might get you know an extra one percent there."
+    },
+    {
+      "start": 2845.4,
+      "end": 2851.4,
+      "text": "But and then everyone is preaching never sell okay let's see if we can try to square all these things at once."
+    },
+    {
+      "start": 2851.4,
+      "end": 2859.4,
+      "text": "If you take the logical conclusion that you hold the security from today until it goes to zero which we all agreed eventually it will die."
+    },
+    {
+      "start": 2859.4,
+      "end": 2869.4,
+      "text": "And you don't care about dividends along the way what are you really betting on at that point you're betting that someone else will just pay you more for that at some point."
+    },
+    {
+      "start": 2869.4,
+      "end": 2877.4,
+      "text": "And it's not an actual like here's the cash flow back to me as the owner and this is why it's worth that much."
+    },
+    {
+      "start": 2877.4,
+      "end": 2881.4,
+      "text": "Yeah I mean I think that's a good way to put it you know."
+    },
+    {
+      "start": 2881.4,
+      "end": 2889.4,
+      "text": "Buffett's thing on a big long string of numbers multiplied by zero is still zero."
+    },
+    {
+      "start": 2889.4,
+      "end": 2897.4,
+      "text": "It is it is just so hard to know what is going to be a great business 10 20 years from now."
+    },
+    {
+      "start": 2897.4,
+      "end": 2909.4,
+      "text": "And I think the last 10 years that we just lived through were in a lot of ways an outlier versus all the previous 10 year periods on that whole line of thinking."
+    },
+    {
+      "start": 2909.4,
+      "end": 2923.4,
+      "text": "And you know I've only been doing this for for 20 to 25 years but I remember some of the things that I thought were unstoppable and 0607 and they're just not something is simple."
+    },
+    {
+      "start": 2923.4,
+      "end": 2933.4,
+      "text": "I mean this is one of my little things I was like talk about something as simple as wrigglies chewing gum which was like consensus maybe one of the best businesses ever."
+    },
+    {
+      "start": 2933.4,
+      "end": 2944.4,
+      "text": "And then all of a sudden having a phone in your hand became kind of middle chewing gum and chewing gum just for a long stretch just didn't really grow at all."
+    },
+    {
+      "start": 2944.4,
+      "end": 2949.4,
+      "text": "And that would have been shocking to somebody who was underwriting wriggly and yeah."
+    },
+    {
+      "start": 2949.4,
+      "end": 2953.4,
+      "text": "The phone the phone replaced the chewing gum in a lot of ways yes."
+    },
+    {
+      "start": 2953.4,
+      "end": 2966.4,
+      "text": "I mean I can believe it but I just I've never heard that before I think that's a you know that the whole industry kind of like went out of the public markets mean Mondale's had some but so it was if you"
+    },
+    {
+      "start": 2966.4,
+      "end": 2975.4,
+      "text": "have said oh this is what the next 10 years of growth are going to be for this industry people would have been shocked on something that low growth and we've we've seen it recently with the alcohol stocks."
+    },
+    {
+      "start": 2975.4,
+      "end": 2992.4,
+      "text": "I believe we were talking about those on a recent recent podcast we own some of them now because we think they're mispriced at you know for example becola which has a third about the world's tequila business on Mexico City."
+    },
+    {
+      "start": 2992.4,
+      "end": 3012.4,
+      "text": "But but man if you've told me we get to own this you know this revenue multiple and six times EBITDA when it's levered at one times net that to EBITDA wow you know and we believe that 10 years ago right exactly yeah."
+    },
+    {
+      "start": 3013.4,
+      "end": 3035.4,
+      "text": "I mean one of the suggestions in the chat is tobacco as well as like a maybe an invincible product that doesn't necessarily mean that any individual brand or company survives but I would have said like tobacco alcohol maybe chewing gum you know here at the end of time but it's looking it's funny we're in a funny space where."
+    },
+    {
+      "start": 3036.4,
+      "end": 3047.4,
+      "text": "I mean the answer that no one said that they should have was that you could take it out at some point like rather than go to zero but then again you're not you don't have control over that most of the times."
+    },
+    {
+      "start": 3047.4,
+      "end": 3062.4,
+      "text": "That is true if you want to get a fair price you need at least two people usually who want to buy you and it can be hard to to make that happen now sometimes I mean you know that that has been a part of our."
+    },
+    {
+      "start": 3062.4,
+      "end": 3072.4,
+      "text": "Process and some of our bigger winners historically have been when that's happened and we're we're definitely not opposed to that and you know that can be."
+    },
+    {
+      "start": 3072.4,
+      "end": 3084.4,
+      "text": "Be a good driver of returns when the stock market gets so so focused on next month's comparable store sales or next month CPS et cetera et cetera."
+    },
+    {
+      "start": 3084.4,
+      "end": 3094.4,
+      "text": "And a true strategic buyer sometimes a financial buyer as well as willing to look through that and pay a fair better than fair price."
+    },
+    {
+      "start": 3094.4,
+      "end": 3105.4,
+      "text": "We're all in favor of that and you're right I mean you look at what was in the S&P 500 or any index 50 years ago a lot of margins and acquisitions since then."
+    },
+    {
+      "start": 3106.4,
+      "end": 3117.4,
+      "text": "I got a question about rates the rates was zero for a long time and that was what a lot of value guys were saying that was what was propping up the dog that ate their homework yeah."
+    },
+    {
+      "start": 3117.4,
+      "end": 3130.4,
+      "text": "And now rates have shot up to where we're still a bit lower long run average at about 6% but we're close we're kissing it and it looks to me like if you use the."
+    },
+    {
+      "start": 3130.4,
+      "end": 3137.4,
+      "text": "Yeah well I'm going to get there don't worry but if you use the two years of proxy for the fed funds rate."
+    },
+    {
+      "start": 3137.4,
+      "end": 3142.4,
+      "text": "We may not be cutting anytime soon we may be raising which probably that's a good thing for."
+    },
+    {
+      "start": 3142.4,
+      "end": 3154.4,
+      "text": "A lot of the sort of stuff that we're in financials and cyclicals and value stocks they might actually do a little bit better under that regime but that would not have been the consensus a few years ago at higher rates benefit."
+    },
+    {
+      "start": 3155.4,
+      "end": 3161.4,
+      "text": "Do you have any explanation for why the long run."
+    },
+    {
+      "start": 3161.4,
+      "end": 3174.4,
+      "text": "Let me see if I can reframe reframe the question we if if if five years ago when rates were at zero I told you they were five you would you say market all time high."
+    },
+    {
+      "start": 3174.4,
+      "end": 3191.4,
+      "text": "Or with Iran and you know oil 100 no I would not have said that and that's why we think this is a pretty dangerous time to own the broad market."
+    },
+    {
+      "start": 3191.4,
+      "end": 3203.4,
+      "text": "You know we think yeah you know I again I always try to get us focused on our companies growing their own value for share and free cash flow for share and not having dogs eating our homework."
+    },
+    {
+      "start": 3203.4,
+      "end": 3231.4,
+      "text": "It was when we do look back at our history we have done better in times of higher rates you know we had better return 70s 80s 90s we were up but we trailed the market we had a good OOS 10s up trailed the market first half of the 2020s similar or first part of the 2020s and you know."
+    },
+    {
+      "start": 3231.4,
+      "end": 3241.4,
+      "text": "You know higher interest rates increase the importance of actual you know valuation work it makes it."
+    },
+    {
+      "start": 3241.4,
+      "end": 3251.4,
+      "text": "It's a lot easier to make a growing company quote look cheap on a spreadsheet when you've got a lower risk free rate you can do some math with."
+    },
+    {
+      "start": 3251.4,
+      "end": 3279.4,
+      "text": "You know with the terminal value exactly yeah whatever your cash flows are a little more relatively valuable that makes everybody you know focus on reality a little bit more and so we welcome times like that especially because we feel like our companies are on offense conservatively financed and there's a lot of craziness out there that will you know prove to be swimming naked that we're not we're not part of that."
+    },
+    {
+      "start": 3279.4,
+      "end": 3284.4,
+      "text": "That's the other part I think maybe that's somewhat."
+    },
+    {
+      "start": 3284.4,
+      "end": 3288.4,
+      "text": "There's a reflexivity to it where you also."
+    },
+    {
+      "start": 3288.4,
+      "end": 3305.4,
+      "text": "Like a lot of your companies would probably be in better shape if rates were higher and some of the competition was knocked out like the the ones who don't deserve or able to just keep rolling over it zero rates like what zombies are effectively you know making it harder for good company to to earn a better return on their capital."
+    },
+    {
+      "start": 3306.4,
+      "end": 3315.4,
+      "text": "That's right that's right I mean you know and that that was a you know of course a big 2010's phenomenon and and kudos to those who."
+    },
+    {
+      "start": 3315.4,
+      "end": 3325.4,
+      "text": "You know we're smart enough to ride that and invest it and build something for longer than we thought it wasn't they were able to kind of get to more of a permanent state."
+    },
+    {
+      "start": 3325.4,
+      "end": 3329.4,
+      "text": "But that's that's not the next 10 years."
+    },
+    {
+      "start": 3329.4,
+      "end": 3336.4,
+      "text": "What do you make of the there was a it felt to me like there was a turnaround for small values cyclical from."
+    },
+    {
+      "start": 3336.4,
+      "end": 3346.4,
+      "text": "Q for last year through the one this year yeah well it's the the very short lives but then."
+    },
+    {
+      "start": 3346.4,
+      "end": 3355.4,
+      "text": "The market sort of seemed to slip on a dime on the end of Q one March 31 it's just been relentlessly the other way since would you."
+    },
+    {
+      "start": 3355.4,
+      "end": 3360.4,
+      "text": "Have any thoughts about what that means what the explanation is for that."
+    },
+    {
+      "start": 3360.4,
+      "end": 3364.4,
+      "text": "Toby's asking for a friend."
+    },
+    {
+      "start": 3364.4,
+      "end": 3383.4,
+      "text": "This has been one of the bigger questions we've been being asked by clients and prospects and other people recently is what is going on with active small cap investing because it seems like everybody who's kind of a concentrated active small cap investor is just getting killed on a relative basis and we are no exception."
+    },
+    {
+      "start": 3383.4,
+      "end": 3406.4,
+      "text": "Over the last two months or the last 12 months and you know we were feeling great it kind of in the wake of liberation day where we were you know ahead of the market we had conservatively finance boring companies on offense and small cap world hey this is great this is our market and it's just totally gone the other way."
+    },
+    {
+      "start": 3406.4,
+      "end": 3419.4,
+      "text": "It feels like you know when you look at each one of these kind of 2000 stocks in the Russell 2000 and we wrote about this in our last little research perspectives note."
+    },
+    {
+      "start": 3419.4,
+      "end": 3431.4,
+      "text": "It's it's harder to draw a lot of broad conclusions there because a lot of the things driving the index the most don't even really have multiples."
+    },
+    {
+      "start": 3431.4,
+      "end": 3459.4,
+      "text": "And therefore you can't say well this went from this multiple to that was just went up a lot and and that to us speaks to some speculation some momentum a lot of concept stocks you know are are kind of flying high and if you're a boring company that generates real free cash flow."
+    },
+    {
+      "start": 3459.4,
+      "end": 3469.4,
+      "text": "It's kind of the worst possible environment for you on a stock price basis in in small cap world recently."
+    },
+    {
+      "start": 3469.4,
+      "end": 3480.4,
+      "text": "You know some of the top stocks in the Russell 2000 value value you know have been Echo star AST space mobile I mean."
+    },
+    {
+      "start": 3480.4,
+      "end": 3485.4,
+      "text": "You know it's there's there's some silliness out there."
+    },
+    {
+      "start": 3485.4,
+      "end": 3504.4,
+      "text": "But in a lot of ways this is you know it's it's really setting we feel up a boring portfolio like ours to shine from here you know like what a brutal April and May but when things go vertical."
+    },
+    {
+      "start": 3504.4,
+      "end": 3517.4,
+      "text": "They more often than not start going vertical the other direction and a lot of these valuations on a price to value basis are just well off of what what they should be."
+    },
+    {
+      "start": 3517.4,
+      "end": 3527.4,
+      "text": "Ross what is what is Mason say to like you know steal stealing the resolve of the troops."
+    },
+    {
+      "start": 3527.4,
+      "end": 3537.4,
+      "text": "You know he's he's been through seven bear markets and we were those are easy it's the bull markets that are."
+    },
+    {
+      "start": 3537.4,
+      "end": 3549.4,
+      "text": "Well you would say that you know things change quickly whenever money is free and capital is easy that's when a lot of you know capital gets destroyed."
+    },
+    {
+      "start": 3549.4,
+      "end": 3566.4,
+      "text": "We were talking about this recently and don't try to get to hung up on you know a relative return at this stage in the game you know we've always been absolute return investors focused on business people price."
+    },
+    {
+      "start": 3566.4,
+      "end": 3579.4,
+      "text": "If you keep doing that over the long run you'll win now he'll also say don't just sit back and hope it happens make it happen and you know if these aren't the right 20 or so stocks."
+    },
+    {
+      "start": 3579.4,
+      "end": 3592.4,
+      "text": "You've just got to be going down that list every day to to qualify them and quantify them and speak up and drive value per share recognition where you can."
+    },
+    {
+      "start": 3592.4,
+      "end": 3600.4,
+      "text": "But so it's it's not just this to shall pass it will but it's used as an opportunity."
+    },
+    {
+      "start": 3600.4,
+      "end": 3613.4,
+      "text": "You know to drive drive returns from here and you know we're we're grateful for his council and he's great at asking those big important questions and and being there."
+    },
+    {
+      "start": 3613.4,
+      "end": 3631.4,
+      "text": "And you know we've we've got a great team here again I go back to that constitution it's it would have been easy to to you know not make it to this point if we didn't have our own money in it and believe about it and care deeply about what we're doing here."
+    },
+    {
+      "start": 3631.4,
+      "end": 3658.4,
+      "text": "This episode is brought to you by Fox one watch all 104 matches of the FIFA World Cup live in 4k for just 1999 a month with three days free."
+    },
+    {
+      "start": 3658.4,
+      "end": 3677.4,
+      "text": "Build your own multi view choose up to three streams and follow player spotlights stay on top of every moment with live stats highlights and instant replays the FIFA World Cup streaming live on Fox one offers a subject to change see Fox dot com for complete terms and conditions."
+    },
+    {
+      "start": 3678.4,
+      "end": 3685.4,
+      "text": "Last question what do you think about the space six up here."
+    },
+    {
+      "start": 3685.4,
+      "end": 3704.4,
+      "text": "So I did read that perspective and you know it's I was talking with one of our in investing CEOs about it last week because he asked the same question I think a lot of people are kind of wondering some of this."
+    },
+    {
+      "start": 3704.4,
+      "end": 3723.4,
+      "text": "It's so I mean first of all we need to give credit for you know I must having built a lot of things that are real businesses you know that you know have generated revenue and have the prospect of generating free cash flow you know."
+    },
+    {
+      "start": 3724.4,
+      "end": 3751.4,
+      "text": "On the other hand i'm having a hard time justifying this valuation of you know I think Starlink is is a business that should generate free cash flow over the long term although it's a very hard business to gauge the real free cash flow power of it because satellites depreciate and launch costs can fluctuate."
+    },
+    {
+      "start": 3752.4,
+      "end": 3777.4,
+      "text": "And so that Starlink business is worth a hearty number but you have to assume a whole lot of other things happening to get anywhere close to two trillion little and one trillion in my opinion so I think it's it's not a price that we would pay assuming it goes off at this price."
+    },
+    {
+      "start": 3777.4,
+      "end": 3806.4,
+      "text": "It wasn't interesting market moment last week people were like oh stocks are down because you know Broadcom had a disappointing quarter or something stocks might have been down even more because of what the S&P 500 did when it didn't change its rules to take it after NASDAQ did change you know go through a bunch of gymnastics to make sure that space X and probably the next two."
+    },
+    {
+      "start": 3807.4,
+      "end": 3827.4,
+      "text": "So that would be in there that was that was an interesting decision by the S&P 500 and you know again who knows if that'll even stick right like maybe it's being lobbied in some back room right now to go on in there and we don't know."
+    },
+    {
+      "start": 3827.4,
+      "end": 3847.4,
+      "text": "10 days at least five is ridiculous but 10 days that's that's seasoning exactly so um you know we we try to stay focused on on what we own and what we're we're all about here but couldn't resist taking a look and you know it's it's probably impacting some real companies that we do."
+    },
+    {
+      "start": 3847.4,
+      "end": 3866.4,
+      "text": "For example Shenandoah Telecom I'm sure that's not high on anybody's list of favorite companies that they know all about but it's this it's a very good high quality telecom company and in rural Virginia that we invested in last year there's probably a space X cloud hanging over that."
+    },
+    {
+      "start": 3867.4,
+      "end": 3894.4,
+      "text": "GCI Liberty now it's called Liberty Capital that's another one where they have cable on wireless in Alaska I'm sure people think that space X can be a headwind for that business and you know it's a factor in that business but it's not why it should trade it you know four times EBITDA less than 10 times free cash flow and space X gets to trade it you know infinity times I mean there were some pretty wild stuff in that perspective so I don't know I've ever seen a."
+    },
+    {
+      "start": 3894.4,
+      "end": 3917.9,
+      "text": "Tam that approaches you know USGP so but again dangerous to bet against him but that doesn't mean we have to bet on him at this moment so yeah it's going to be fun to watch from the sidelines in my in my instance yeah I welcome I do welcome a lot of these big mega tech companies coming public and having to grow their free cash flow per share over the long term that could be an interesting dynamic and."
+    },
+    {
+      "start": 3917.9,
+      "end": 3927.9,
+      "text": "Think back to spring of 2000 when 18 T wireless came public and that was a big huge shiny deal and it was the top so."
+    },
+    {
+      "start": 3927.9,
+      "end": 3943.9,
+      "text": "So here you wanted to drag down your competition really if you're benchmarking against the S.A.P. or I wanted to have to compete on the same rules that we're competing on you know where you have to deliver earnings in the future real earnings."
+    },
+    {
+      "start": 3943.9,
+      "end": 3953.9,
+      "text": "On that night Ross thanks so much for spending time with us today if folks want to follow along with what you're doing get in touch what's the best way of doing that."
+    },
+    {
+      "start": 3953.9,
+      "end": 3967.9,
+      "text": "We've got a website you know southeastern asset management dot com you can search for us are our lonely family mutual funds and give us a call at 901761 2474."
+    },
+    {
+      "start": 3968.9,
+      "end": 3970.9,
+      "text": "Also answer your phone."
+    },
+    {
+      "start": 3972.9,
+      "end": 3979.9,
+      "text": "Ross Grotspok CEO and head of research of southeastern it's not much of spending time with us today."
+    },
+    {
+      "start": 3980.9,
+      "end": 3981.9,
+      "text": "JT any final words."
+    },
+    {
+      "start": 3982.9,
+      "end": 3984.9,
+      "text": "Thanks Ross it was a pleasure having you on."
+    },
+    {
+      "start": 3984.9,
+      "end": 3985.9,
+      "text": "Yeah thanks for having me guys."
+    },
+    {
+      "start": 3985.9,
+      "end": 3990.9,
+      "text": "Thanks folks we'll be back next week we'll see everybody same bad time same bad channel."
+    }
+  ]
+}

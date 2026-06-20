@@ -1,0 +1,236 @@
+{
+  "id": "476f65c56202f92c",
+  "show": "Thoughts on the Market",
+  "theme": "Macro & Rates",
+  "title": "Can Policy Solve AI’s Chipflation?",
+  "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/rss.art19.com/episodes/6b5584db-f5ff-477e-ad17-3b7d2f1a2f65.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+  "source": "local-whisper",
+  "duration": 258.0,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Welcome to Thoughts on the Market. I'm Ariana Salvatore, Morgan Stanley's US Public Policy Strategist."
+    },
+    {
+      "start": 6.0,
+      "end": 13.0,
+      "text": "Today, I'll be talking about chipflation and what policy tools can or can't be used to address the memory bottleneck."
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "It's Wednesday, June 17th at 10am in New York."
+    },
+    {
+      "start": 19.0,
+      "end": 25.0,
+      "text": "Last week, you heard my colleague Sean Kim talk about chipflation and the surging cost of memory."
+    },
+    {
+      "start": 25.0,
+      "end": 29.0,
+      "text": "Today, I'll get into what policy makers can and can't do about it."
+    },
+    {
+      "start": 29.0,
+      "end": 36.0,
+      "text": "As listeners will know, memory chips are becoming an increasingly strategic resource because AI infrastructure depends on them."
+    },
+    {
+      "start": 36.0,
+      "end": 40.0,
+      "text": "And when a resource becomes strategic, governments tend to get involved."
+    },
+    {
+      "start": 40.0,
+      "end": 45.0,
+      "text": "The challenge is that policy can help at the margin, but probably can't solve the problem quickly."
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": "There are three reasons for that."
+    },
+    {
+      "start": 47.0,
+      "end": 51.0,
+      "text": "First, many US policy tools all take time."
+    },
+    {
+      "start": 51.0,
+      "end": 62.0,
+      "text": "Direct subsidies, tax credits, procurement guarantees, and faster permitting are all things that can support new fabrication plants, packaging facilities, and testing capacity."
+    },
+    {
+      "start": 62.0,
+      "end": 65.0,
+      "text": "But memory supply is not going to appear overnight."
+    },
+    {
+      "start": 65.0,
+      "end": 72.0,
+      "text": "This new capacity has to be built, equipped, qualified, and ramped, and that process can take years."
+    },
+    {
+      "start": 72.0,
+      "end": 81.0,
+      "text": "Second, China may be able to add some supply in conventional memory markets, but not enough to close the broader gap created by AI demand."
+    },
+    {
+      "start": 81.0,
+      "end": 87.0,
+      "text": "That's especially true for a high bandwidth memory, the more strategic type of memory for frontier AI systems."
+    },
+    {
+      "start": 87.0,
+      "end": 93.0,
+      "text": "Supply there still remains highly concentrated, technically complex, and difficult to scale."
+    },
+    {
+      "start": 93.0,
+      "end": 99.0,
+      "text": "Third, our base case is that US policy remains more restrictive, not less."
+    },
+    {
+      "start": 99.0,
+      "end": 105.0,
+      "text": "We don't expect a broad loosening of export controls given the strategic imperative of this technology."
+    },
+    {
+      "start": 105.0,
+      "end": 115.0,
+      "text": "Instead, we think policy makers are likely to continue to prioritize supply chain resilience, trusted capacity, and geopolitical de-risking over the near term price relief."
+    },
+    {
+      "start": 115.0,
+      "end": 120.0,
+      "text": "Now, from a policy perspective, we think it's important to split memory into two categories."
+    },
+    {
+      "start": 120.0,
+      "end": 125.0,
+      "text": "The first is AI strategic memory, high bandwidth, and advanced DRAM."
+    },
+    {
+      "start": 125.0,
+      "end": 129.0,
+      "text": "That's the memory that enables the most advanced AI systems."
+    },
+    {
+      "start": 129.0,
+      "end": 141.0,
+      "text": "And for that reason, we think policy here is likely to focus on protecting strategic capability, limiting geopolitical vulnerability, and expanding trusted supply across the US and its allied countries."
+    },
+    {
+      "start": 141.0,
+      "end": 144.0,
+      "text": "The second category is commodity or legacy memory."
+    },
+    {
+      "start": 144.0,
+      "end": 153.0,
+      "text": "That's the memory that you can think of as being used in autos, industrial systems, consumer electronics, and other non frontier applications."
+    },
+    {
+      "start": 153.0,
+      "end": 160.0,
+      "text": "Now here, we think policy makers could consider more flexible options, like differentiated licensing and support for critical sectors."
+    },
+    {
+      "start": 160.0,
+      "end": 168.0,
+      "text": "But even then, the limits are practical, permitting workforce, tools, qualification cycles, and production lead times."
+    },
+    {
+      "start": 168.0,
+      "end": 171.0,
+      "text": "China's the other major variable."
+    },
+    {
+      "start": 171.0,
+      "end": 175.0,
+      "text": "Chinese producers are expanding in conventional DRAM and NAND."
+    },
+    {
+      "start": 175.0,
+      "end": 182.0,
+      "text": "In some consumer-grade applications, that supply could act as a relief valve for buyers that have been crowded out by AI-related demand."
+    },
+    {
+      "start": 183.0,
+      "end": 185.0,
+      "text": "But still, there are limits."
+    },
+    {
+      "start": 185.0,
+      "end": 190.0,
+      "text": "Chinese producers face yield and technology gaps, even if policy is supportive."
+    },
+    {
+      "start": 190.0,
+      "end": 194.0,
+      "text": "And China alone will not solve the high bandwidth memory bottleneck."
+    },
+    {
+      "start": 194.0,
+      "end": 197.0,
+      "text": "The regulatory backdrop reinforces that point."
+    },
+    {
+      "start": 197.0,
+      "end": 203.0,
+      "text": "Some Chinese memory producers remain subject to US restrictions or even heightened scrutiny."
+    },
+    {
+      "start": 203.0,
+      "end": 207.0,
+      "text": "Access to the most advanced lithography tools also remains a hard ceiling."
+    },
+    {
+      "start": 207.0,
+      "end": 212.0,
+      "text": "Without that access, scaling leading edge memory becomes much more difficult."
+    },
+    {
+      "start": 212.0,
+      "end": 214.0,
+      "text": "So, the bottom line is this."
+    },
+    {
+      "start": 214.0,
+      "end": 218.0,
+      "text": "Policy can mitigate chipflation, but it's unlikely to end it in the near term."
+    },
+    {
+      "start": 218.0,
+      "end": 228.0,
+      "text": "For AI's strategic memory, policymakers are more likely to defend access, deepen allied coordination, and encourage trusted capacity than to loosen restrictions."
+    },
+    {
+      "start": 228.0,
+      "end": 235.0,
+      "text": "For commodity memory, there may be room for some targeted flexibility, but of course geopolitics and timing still matter."
+    },
+    {
+      "start": 236.0,
+      "end": 242.0,
+      "text": "Thanks for listening. If you enjoy the show, please leave us a review wherever you listen and share thoughts on the market with a friend or colleague today."
+    },
+    {
+      "start": 244.0,
+      "end": 249.0,
+      "text": "The preceding content is informational only and based on information available when created."
+    },
+    {
+      "start": 249.0,
+      "end": 253.0,
+      "text": "It is not an offer or solicitation, nor is it tax or legal advice."
+    },
+    {
+      "start": 253.0,
+      "end": 258.0,
+      "text": "It does not consider your financial circumstances and objectives and may not be suitable for you."
+    }
+  ]
+}

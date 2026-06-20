@@ -1,0 +1,5696 @@
+{
+  "id": "ad701987860de397",
+  "show": "Dwarkesh Podcast",
+  "theme": "Tech & AI",
+  "title": "Reiner Pope – Chip design from the bottom up",
+  "audio_url": "https://api.substack.com/feed/podcast/198847047/4554a355fabc7d08073d273fc9f192d4.mp3",
+  "source": "local-whisper",
+  "duration": 4830.7,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.64,
+      "text": "I'm back with Reiner Pope who is the CEO of Maddox which is a new AI chip company."
+    },
+    {
+      "start": 4.64,
+      "end": 7.2,
+      "text": "Last time we were talking about what happens inside a data center,"
+    },
+    {
+      "start": 7.2,
+      "end": 10.44,
+      "text": "now I understand what happens inside an AI chip."
+    },
+    {
+      "start": 10.44,
+      "end": 12.120000000000001,
+      "text": "How does a chip actually work?"
+    },
+    {
+      "start": 12.120000000000001,
+      "end": 13.64,
+      "text": "For disclosure, by the way,"
+    },
+    {
+      "start": 13.64,
+      "end": 16.28,
+      "text": "I am an initial investor in Maddox,"
+    },
+    {
+      "start": 16.28,
+      "end": 18.72,
+      "text": "so hopefully you have designed a good chip."
+    },
+    {
+      "start": 18.72,
+      "end": 23.400000000000002,
+      "text": "Also, if you're listening to this on an audio platform,"
+    },
+    {
+      "start": 23.400000000000002,
+      "end": 29.04,
+      "text": "it's much preferable to watch this Blackboard lecture on a platform where you can see what's happening."
+    },
+    {
+      "start": 29.04,
+      "end": 31.439999999999998,
+      "text": "So it's just over to YouTube or Spotify."
+    },
+    {
+      "start": 31.439999999999998,
+      "end": 36.2,
+      "text": "So I'll start with the very smallest fundamental unit of chip design"
+    },
+    {
+      "start": 36.2,
+      "end": 40.2,
+      "text": "and we'll build up into what an overall actual production chip,"
+    },
+    {
+      "start": 40.2,
+      "end": 41.8,
+      "text": "what are the components of that."
+    },
+    {
+      "start": 41.8,
+      "end": 43.68,
+      "text": "At the very bottom level of a chip,"
+    },
+    {
+      "start": 43.68,
+      "end": 47.56,
+      "text": "the primitives that we work with are logic gates,"
+    },
+    {
+      "start": 47.56,
+      "end": 51.120000000000005,
+      "text": "which are very simple things like end or not."
+    },
+    {
+      "start": 51.120000000000005,
+      "end": 56.879999999999995,
+      "text": "And then these are connected together by wires that have to be laid out physically as metal tracers on a chip."
+    },
+    {
+      "start": 56.88,
+      "end": 63.24,
+      "text": "The main function that AI chips want to compute is multiplication of matrices"
+    },
+    {
+      "start": 63.24,
+      "end": 70.32000000000001,
+      "text": "and really inside that is the fundamental primitive is multiply accumulative just like of pairs of numbers."
+    },
+    {
+      "start": 70.32000000000001,
+      "end": 74.0,
+      "text": "So we're going to sort of demonstrate what that calculation looks like by hand"
+    },
+    {
+      "start": 74.0,
+      "end": 79.08,
+      "text": "and then sort of infer what a circuit would look like for that."
+    },
+    {
+      "start": 79.08,
+      "end": 82.80000000000001,
+      "text": "It'll turn out to be sort of easiest if I do multiplication accumulative,"
+    },
+    {
+      "start": 82.8,
+      "end": 89.64,
+      "text": "something like a perforbit number with another forbit number."
+    },
+    {
+      "start": 89.64,
+      "end": 95.03999999999999,
+      "text": "And then we're going to, the actual clearest primitive is actually multiply accumulates."
+    },
+    {
+      "start": 95.03999999999999,
+      "end": 101.72,
+      "text": "So there's a multiply these two terms and then we're going to add in."
+    },
+    {
+      "start": 101.72,
+      "end": 111.0,
+      "text": "So product of these two terms and then we're going to add in an 8-bit number."
+    },
+    {
+      "start": 111.0,
+      "end": 112.96,
+      "text": "And can I ask you a clarifying question?"
+    },
+    {
+      "start": 112.96,
+      "end": 122.2,
+      "text": "Why is this the natural primitive for whatever computation happens at a computer?"
+    },
+    {
+      "start": 122.2,
+      "end": 125.96000000000001,
+      "text": "Yeah, so there's a few reasons for this."
+    },
+    {
+      "start": 125.96000000000001,
+      "end": 131.56,
+      "text": "It's a little bit more efficient, but the reason it's natural for AI chips is that"
+    },
+    {
+      "start": 131.56,
+      "end": 134.24,
+      "text": "if you look what's happening during a matrix multiply,"
+    },
+    {
+      "start": 134.24,
+      "end": 137.24,
+      "text": "the what is matrix multiply in very short,"
+    },
+    {
+      "start": 137.24,
+      "end": 161.0,
+      "text": "it is, there's a for loop over i and over j and over k of output i k plus equals to input i j times"
+    },
+    {
+      "start": 161.0,
+      "end": 164.04000000000002,
+      "text": "other input j k."
+    },
+    {
+      "start": 164.04,
+      "end": 169.48,
+      "text": "And so multiply accumulate happens at every single step of a matrix multiply."
+    },
+    {
+      "start": 169.48,
+      "end": 173.48,
+      "text": "And then the other observation is that the precision will almost always be higher"
+    },
+    {
+      "start": 173.48,
+      "end": 176.51999999999998,
+      "text": "in the accumulation step than in the multiplication step."
+    },
+    {
+      "start": 176.51999999999998,
+      "end": 180.84,
+      "text": "This is maybe specific to AI chips, but you're multiplying low precision numbers."
+    },
+    {
+      "start": 180.84,
+      "end": 183.51999999999998,
+      "text": "But then when you accumulate errors accumulate quickly."
+    },
+    {
+      "start": 183.51999999999998,
+      "end": 185.16,
+      "text": "And so you need more precision here."
+    },
+    {
+      "start": 185.16,
+      "end": 189.28,
+      "text": "So this is why we've chosen to do a forbit multiplication and an 8-bit addition."
+    },
+    {
+      "start": 189.28,
+      "end": 192.23999999999998,
+      "text": "Let me make sure I understood that there's two ways to understand that."
+    },
+    {
+      "start": 192.24,
+      "end": 196.72,
+      "text": "One is that the value will be larger than the inputs."
+    },
+    {
+      "start": 196.72,
+      "end": 200.08,
+      "text": "And the other is that if it was a floating point number,"
+    },
+    {
+      "start": 200.08,
+      "end": 203.84,
+      "text": "it would be maybe that that part is less intuitive to me,"
+    },
+    {
+      "start": 203.84,
+      "end": 205.12,
+      "text": "but it's maybe this in principle."
+    },
+    {
+      "start": 205.12,
+      "end": 206.88,
+      "text": "It is really the same principle."
+    },
+    {
+      "start": 206.88,
+      "end": 212.44,
+      "text": "I guess the separate principle is that as you are summing up this number,"
+    },
+    {
+      "start": 212.44,
+      "end": 214.04000000000002,
+      "text": "you are summing up a whole bunch of numbers."
+    },
+    {
+      "start": 214.04000000000002,
+      "end": 216.16000000000003,
+      "text": "And so you've got a lot of rounding errors accumulating."
+    },
+    {
+      "start": 216.16000000000003,
+      "end": 220.12,
+      "text": "Whereas in this case, there's only one multiplication in that chain."
+    },
+    {
+      "start": 220.12,
+      "end": 223.48000000000002,
+      "text": "So there's not a lot of rounding errors accumulating in the multiplication."
+    },
+    {
+      "start": 223.48000000000002,
+      "end": 224.88,
+      "text": "Why are you summing up a whole bunch of numbers?"
+    },
+    {
+      "start": 224.88,
+      "end": 225.56,
+      "text": "Is there just two numbers?"
+    },
+    {
+      "start": 225.56,
+      "end": 228.28,
+      "text": "Just, I mean, this summation happens, it's repeated."
+    },
+    {
+      "start": 228.28,
+      "end": 232.44,
+      "text": "I see, I see, I see, I see, I see, I see, I see."
+    },
+    {
+      "start": 232.44,
+      "end": 235.76,
+      "text": "So how would we perform this calculation by hand?"
+    },
+    {
+      "start": 235.76,
+      "end": 238.24,
+      "text": "I mean, as a human, we would probably separate it as a two,"
+    },
+    {
+      "start": 238.24,
+      "end": 243.68,
+      "text": "but we can sort of do it all in one using long multiplication."
+    },
+    {
+      "start": 243.68,
+      "end": 246.48000000000002,
+      "text": "So the multiplication term first,"
+    },
+    {
+      "start": 246.48000000000002,
+      "end": 248.72000000000003,
+      "text": "we're going to multiply this number,"
+    },
+    {
+      "start": 248.72000000000003,
+      "end": 254.00000000000003,
+      "text": "this 4-bit number here, by every single bit position in the other 4-bit number."
+    },
+    {
+      "start": 254.00000000000003,
+      "end": 255.52,
+      "text": "So we write that out."
+    },
+    {
+      "start": 255.52,
+      "end": 261.12,
+      "text": "First, 1, 0, 0, 1, multiplied by this bit position,"
+    },
+    {
+      "start": 261.12,
+      "end": 263.72,
+      "text": "that is this number itself."
+    },
+    {
+      "start": 263.72,
+      "end": 267.16,
+      "text": "Then, shift it across by 1, we're multiplying by 0."
+    },
+    {
+      "start": 267.16,
+      "end": 275.72,
+      "text": "I give us an old 0's number, shifted across even one more to multiply by this one."
+    },
+    {
+      "start": 275.72,
+      "end": 279.44000000000005,
+      "text": "We get 1, 0, 0, 1."
+    },
+    {
+      "start": 279.44000000000005,
+      "end": 287.88000000000005,
+      "text": "And then finally, for this last bit position, we get an old 0's number again."
+    },
+    {
+      "start": 287.88000000000005,
+      "end": 293.76000000000005,
+      "text": "So this sort of gives us a bunch of terms that we're going to have to add for the multiplication."
+    },
+    {
+      "start": 293.76000000000005,
+      "end": 296.88000000000005,
+      "text": "And then, while we're doing that summation of this,"
+    },
+    {
+      "start": 296.88000000000005,
+      "end": 301.0,
+      "text": "we might as well add in the actual accumulated term as well."
+    },
+    {
+      "start": 301.0,
+      "end": 309.8,
+      "text": "So we just copy that directly across."
+    },
+    {
+      "start": 309.8,
+      "end": 317.4,
+      "text": "So this is the sum, it's a five-way sum that we're going to want to compute."
+    },
+    {
+      "start": 317.4,
+      "end": 323.12,
+      "text": "So firstly, what logic takes us to even get to this intermediate step?"
+    },
+    {
+      "start": 323.12,
+      "end": 328.88,
+      "text": "We needed to produce all 16 of these partial products."
+    },
+    {
+      "start": 328.88,
+      "end": 331.04,
+      "text": "How do I produce one of these partial products?"
+    },
+    {
+      "start": 331.04,
+      "end": 334.92,
+      "text": "So let's take this number 1, for example, here."
+    },
+    {
+      "start": 334.92,
+      "end": 335.76,
+      "text": "It is 1."
+    },
+    {
+      "start": 335.76,
+      "end": 342.48,
+      "text": "So how do we produce this number by multiplying this number by this one over here?"
+    },
+    {
+      "start": 342.48,
+      "end": 344.24,
+      "text": "We can actually produce that by an AND gate."
+    },
+    {
+      "start": 344.24,
+      "end": 345.4,
+      "text": "This number is 1."
+    },
+    {
+      "start": 345.4,
+      "end": 348.88,
+      "text": "If both this bit is 1, and this bit is 1, if either of them is 0,"
+    },
+    {
+      "start": 348.88,
+      "end": 352.8,
+      "text": "then the multiplication of 1 times 0 times anything is 0."
+    },
+    {
+      "start": 352.8,
+      "end": 358.32,
+      "text": "So to produce all of this stuff, we ended up consuming 16 AND gates."
+    },
+    {
+      "start": 358.32,
+      "end": 371.8,
+      "text": "Or in the general case, if I were doing a p bit multiply times a q bit multiply,"
+    },
+    {
+      "start": 371.8,
+      "end": 377.36,
+      "text": "then this will be like p times q, many hands."
+    },
+    {
+      "start": 377.36,
+      "end": 377.96,
+      "text": "Exactly."
+    },
+    {
+      "start": 381.08,
+      "end": 383.52,
+      "text": "Finally, I sum them."
+    },
+    {
+      "start": 383.52,
+      "end": 386.4,
+      "text": "Actually, most of the work is going to happen in the summing."
+    },
+    {
+      "start": 386.44000000000005,
+      "end": 391.36,
+      "text": "And so let me describe the other logic gate that we use here."
+    },
+    {
+      "start": 391.36,
+      "end": 394.24,
+      "text": "And it's almost the simplest logic gate that exists on a chip."
+    },
+    {
+      "start": 394.24,
+      "end": 398.00000000000006,
+      "text": "It's almost the smallest."
+    },
+    {
+      "start": 398.00000000000006,
+      "end": 401.88000000000005,
+      "text": "At the other extreme, typically, the very largest logic gate that you'll use is something"
+    },
+    {
+      "start": 401.88000000000005,
+      "end": 402.88000000000005,
+      "text": "called a full adder."
+    },
+    {
+      "start": 407.12,
+      "end": 410.6,
+      "text": "And what this does is it comes in from software you might think that a full adder"
+    },
+    {
+      "start": 410.6,
+      "end": 412.68000000000006,
+      "text": "it adds 32 bit numbers together."
+    },
+    {
+      "start": 412.68000000000006,
+      "end": 415.92,
+      "text": "In this case, it just adds three single bit numbers together."
+    },
+    {
+      "start": 415.92,
+      "end": 421.28000000000003,
+      "text": "And so you can think of it as adding 0, 1, and 1 together."
+    },
+    {
+      "start": 421.28000000000003,
+      "end": 424.48,
+      "text": "Now when I add these together, the result can be 0, 1, 2, or 3."
+    },
+    {
+      "start": 424.48,
+      "end": 426.96000000000004,
+      "text": "So I can express that in binary using just two bits."
+    },
+    {
+      "start": 426.96000000000004,
+      "end": 429.68,
+      "text": "So as input, it has three bits."
+    },
+    {
+      "start": 429.68,
+      "end": 437.84000000000003,
+      "text": "And as output, it has two bits, which in this case, the number 2 in binary is 1, 0."
+    },
+    {
+      "start": 437.84000000000003,
+      "end": 448.68,
+      "text": "It is also known as a 3 to 2 compressor, because it takes three bits of input"
+    },
+    {
+      "start": 448.68,
+      "end": 450.36,
+      "text": "and produces two bits of output."
+    },
+    {
+      "start": 450.36,
+      "end": 454.04,
+      "text": "The two inputs are an x and a y value."
+    },
+    {
+      "start": 454.04,
+      "end": 461.68,
+      "text": "And then some carry that came in from the three inputs are all bits that are"
+    },
+    {
+      "start": 461.68,
+      "end": 465.88000000000005,
+      "text": "in the same sort of bit position, like three bits that are in a column here."
+    },
+    {
+      "start": 465.88,
+      "end": 470.8,
+      "text": "And then the two outputs, I have drawn them vertically here and horizontally here to"
+    },
+    {
+      "start": 470.8,
+      "end": 476.2,
+      "text": "kind of match this vertical versus horizontal layout here, which is expressing that things"
+    },
+    {
+      "start": 476.2,
+      "end": 480.0,
+      "text": "that are in the same column are in the same bit position, whereas things that are in"
+    },
+    {
+      "start": 480.0,
+      "end": 484.04,
+      "text": "adjacent columns, like this is a carry out, whereas this was some."
+    },
+    {
+      "start": 484.04,
+      "end": 489.2,
+      "text": "So if the inputs in the full adder are, we're saying, like, 1, 0, 1, then the output"
+    },
+    {
+      "start": 489.2,
+      "end": 490.2,
+      "text": "would still be 1, 0."
+    },
+    {
+      "start": 490.2,
+      "end": 497.76,
+      "text": "If it was 1, 1, 1, it'd be 1, 1, it was 0, 0, 0, 0, it'd still be 0, 1."
+    },
+    {
+      "start": 497.76,
+      "end": 501.48,
+      "text": "So yeah, it's just counting, essentially, the number of things and expressing that in"
+    },
+    {
+      "start": 501.48,
+      "end": 503.64,
+      "text": "binary."
+    },
+    {
+      "start": 503.64,
+      "end": 510.48,
+      "text": "So this circuit actually can capture what we as humans naturally do when we're doing"
+    },
+    {
+      "start": 510.48,
+      "end": 512.12,
+      "text": "something along that column."
+    },
+    {
+      "start": 512.12,
+      "end": 517.84,
+      "text": "So I can show that sort of, I'll show one iteration of using the full adder to some."
+    },
+    {
+      "start": 517.84,
+      "end": 520.6800000000001,
+      "text": "The way I sum here is going to be a little bit unnatural for humans."
+    },
+    {
+      "start": 520.6800000000001,
+      "end": 526.0400000000001,
+      "text": "Humans, we would sort of sum along the column and then remember the carry, but instead of"
+    },
+    {
+      "start": 526.0400000000001,
+      "end": 529.1600000000001,
+      "text": "remembering the carry, we'll actually just explicitly write it out."
+    },
+    {
+      "start": 529.1600000000001,
+      "end": 533.9200000000001,
+      "text": "So in this, we proceed from the rightmost column towards the left, on the rightmost column"
+    },
+    {
+      "start": 533.9200000000001,
+      "end": 542.0,
+      "text": "we sum the 1 and the 1, and that produces like a 0 here and a carry of 1."
+    },
+    {
+      "start": 542.0,
+      "end": 547.08,
+      "text": "So we sort of used this full adder circuit on these pair of bits and produced a pair"
+    },
+    {
+      "start": 547.08,
+      "end": 550.1600000000001,
+      "text": "of bits as output."
+    },
+    {
+      "start": 550.1600000000001,
+      "end": 551.8000000000001,
+      "text": "Now we can do the same thing with this column."
+    },
+    {
+      "start": 551.8000000000001,
+      "end": 554.6,
+      "text": "We've got a column of 1, 2, 3, 4 numbers."
+    },
+    {
+      "start": 554.6,
+      "end": 559.6800000000001,
+      "text": "And so maybe we'll like take the first three of them, run a full adder on them and that"
+    },
+    {
+      "start": 559.6800000000001,
+      "end": 562.8000000000001,
+      "text": "gives us a 0 and a 0 as output."
+    },
+    {
+      "start": 562.8000000000001,
+      "end": 564.8000000000001,
+      "text": "So like some of these is 0, 0."
+    },
+    {
+      "start": 564.8000000000001,
+      "end": 569.76,
+      "text": "So that's the full compressor, full adder applied to all of these bits."
+    },
+    {
+      "start": 569.76,
+      "end": 573.8000000000001,
+      "text": "As I've used up bits, I'm going to sort of just cross them out to indicate that I've"
+    },
+    {
+      "start": 573.8000000000001,
+      "end": 576.96,
+      "text": "handled them."
+    },
+    {
+      "start": 576.96,
+      "end": 578.72,
+      "text": "Let's just keep going a little bit more."
+    },
+    {
+      "start": 578.72,
+      "end": 580.52,
+      "text": "So we'll go here."
+    },
+    {
+      "start": 580.52,
+      "end": 586.6,
+      "text": "I take these three numbers, I add them, that gives me a 1 and a 0, I've dealt with these"
+    },
+    {
+      "start": 586.6,
+      "end": 592.0400000000001,
+      "text": "three numbers, and now I take 1, 2, and I can even take these three numbers for example"
+    },
+    {
+      "start": 592.0400000000001,
+      "end": 599.0,
+      "text": "right now and add them and that gives me a 1 and a 0 and I've dealt with these numbers."
+    },
+    {
+      "start": 599.0,
+      "end": 603.72,
+      "text": "So I can sort of like the way I should view this is that I have this whole grid of numbers"
+    },
+    {
+      "start": 603.72,
+      "end": 604.9200000000001,
+      "text": "that need to be added."
+    },
+    {
+      "start": 604.9200000000001,
+      "end": 609.32,
+      "text": "I'm going to just keep applying full adders to all the bits that are here, constantly"
+    },
+    {
+      "start": 609.32,
+      "end": 614.72,
+      "text": "removing three numbers from a column and then writing out two numbers as output."
+    },
+    {
+      "start": 614.72,
+      "end": 618.48,
+      "text": "Keep going with this over and over and over and again until I eventually get like some"
+    },
+    {
+      "start": 618.48,
+      "end": 623.96,
+      "text": "just one single number coming out here, something like that."
+    },
+    {
+      "start": 623.96,
+      "end": 627.28,
+      "text": "This is probably the wrong sum."
+    },
+    {
+      "start": 627.56,
+      "end": 639.28,
+      "text": "So this approach that I've described here, this is called a data multiplier."
+    },
+    {
+      "start": 639.28,
+      "end": 644.28,
+      "text": "And this is sort of like the standard for how you do area efficient multiplies using"
+    },
+    {
+      "start": 644.28,
+      "end": 647.3199999999999,
+      "text": "full adders."
+    },
+    {
+      "start": 647.3199999999999,
+      "end": 651.28,
+      "text": "Let's try and quantify the circuit size of this just so we have got a sense of like how"
+    },
+    {
+      "start": 651.28,
+      "end": 655.8,
+      "text": "big things are so we can compare to them later."
+    },
+    {
+      "start": 655.8000000000001,
+      "end": 658.8800000000001,
+      "text": "How many full adders do I use?"
+    },
+    {
+      "start": 658.8800000000001,
+      "end": 664.8000000000001,
+      "text": "I started with how many numbers I have the 16 partial products which is the product of"
+    },
+    {
+      "start": 664.8000000000001,
+      "end": 672.2,
+      "text": "all of these terms with all of these terms plus the eight terms that I'm adding here."
+    },
+    {
+      "start": 672.2,
+      "end": 681.96,
+      "text": "So I started off with 24 bits and then I produced eight bits on the output eventually."
+    },
+    {
+      "start": 681.96,
+      "end": 686.72,
+      "text": "And in every step I was sort of crossing off three numbers and writing two numbers out"
+    },
+    {
+      "start": 686.72,
+      "end": 688.32,
+      "text": "as a result."
+    },
+    {
+      "start": 688.32,
+      "end": 693.08,
+      "text": "And so every single use of a full adder eliminates one of the bits here."
+    },
+    {
+      "start": 693.08,
+      "end": 697.2800000000001,
+      "text": "And so how many full adders it must be the 24 minus the eight so that there were 16 full"
+    },
+    {
+      "start": 697.2800000000001,
+      "end": 700.0,
+      "text": "adders in this circuit."
+    },
+    {
+      "start": 700.0,
+      "end": 705.12,
+      "text": "In general, this is true in the general case as well, there will be P times Q many full"
+    },
+    {
+      "start": 705.12,
+      "end": 708.0,
+      "text": "adders in this circuit."
+    },
+    {
+      "start": 708.0,
+      "end": 716.44,
+      "text": "I understand the logic of that so the input bits 24 is P times Q plus P plus Q."
+    },
+    {
+      "start": 716.44,
+      "end": 717.44,
+      "text": "That's right."
+    },
+    {
+      "start": 717.44,
+      "end": 728.36,
+      "text": "And the output bits is just P plus Q. And so P times Q plus P plus Q minus P plus Q equals"
+    },
+    {
+      "start": 728.36,
+      "end": 729.36,
+      "text": "P times Q."
+    },
+    {
+      "start": 729.36,
+      "end": 730.36,
+      "text": "That's right."
+    },
+    {
+      "start": 730.36,
+      "end": 734.72,
+      "text": "So I think this explains sort of at least hints that the second reason why we chose to"
+    },
+    {
+      "start": 734.72,
+      "end": 742.0400000000001,
+      "text": "do a multiply accumulate first reason being that's actually what shows up in matrix multiplication."
+    },
+    {
+      "start": 742.0400000000001,
+      "end": 748.24,
+      "text": "But second reason being it gave us this very slick P times Q very simple algebra."
+    },
+    {
+      "start": 748.24,
+      "end": 753.12,
+      "text": "So we've sort of described like this whole procedure every single atomic step that I"
+    },
+    {
+      "start": 753.12,
+      "end": 755.32,
+      "text": "took here becomes a logic gate."
+    },
+    {
+      "start": 755.32,
+      "end": 757.76,
+      "text": "And then sort of the wires connected together."
+    },
+    {
+      "start": 757.76,
+      "end": 762.28,
+      "text": "When I had these three inputs that I salvage to produce these two outputs, like if I think"
+    },
+    {
+      "start": 762.28,
+      "end": 768.0799999999999,
+      "text": "of mapping this to a physical device, they would be a wire that runs sort of connecting"
+    },
+    {
+      "start": 768.0799999999999,
+      "end": 772.4399999999999,
+      "text": "all three of these things together into a logic gate that produced this output."
+    },
+    {
+      "start": 772.4399999999999,
+      "end": 783.72,
+      "text": "Okay, so this is the main primitive at different bit widths that is inside an AI chip."
+    },
+    {
+      "start": 783.72,
+      "end": 787.8,
+      "text": "We're going to build up from here to how would you use that to run all of the other operations"
+    },
+    {
+      "start": 787.8,
+      "end": 788.8,
+      "text": "you may want."
+    },
+    {
+      "start": 788.8800000000001,
+      "end": 793.36,
+      "text": "This might be the wrong time to ask this question, but whenever Nvidia reports that this"
+    },
+    {
+      "start": 793.36,
+      "end": 800.8000000000001,
+      "text": "chip can do X many FP4 or half as many FP8, it seems to imply that those circuits are"
+    },
+    {
+      "start": 800.8000000000001,
+      "end": 807.7600000000001,
+      "text": "fungible, that there's not as dedicated like FP4 versus FP8, but the way you're mapping"
+    },
+    {
+      "start": 807.7600000000001,
+      "end": 813.72,
+      "text": "it out here, it seems like you would need, if it has to be mapped out in the logic, you"
+    },
+    {
+      "start": 813.72,
+      "end": 820.76,
+      "text": "would need a dedicated FP4, multiply, accumulate, and then a dedicated FP8 accumulate."
+    },
+    {
+      "start": 820.76,
+      "end": 825.6,
+      "text": "Basically, can you can you can you find them as drawn that they're actually not particularly"
+    },
+    {
+      "start": 825.6,
+      "end": 827.64,
+      "text": "fungible."
+    },
+    {
+      "start": 827.64,
+      "end": 829.96,
+      "text": "This is actually one of the main choices you have to make when designing a chip, which"
+    },
+    {
+      "start": 829.96,
+      "end": 833.2,
+      "text": "is how much of FP4, how much of FP8 do I have."
+    },
+    {
+      "start": 833.2,
+      "end": 836.64,
+      "text": "And then sometimes I'll make that consideration from the point of view of like, what do I"
+    },
+    {
+      "start": 836.64,
+      "end": 841.52,
+      "text": "think is the customer requirement, another way to take an angle on that is to say, what"
+    },
+    {
+      "start": 842.0,
+      "end": 846.0,
+      "text": "is the power budget for equalize the power budget between FP4 and FP8."
+    },
+    {
+      "start": 846.0,
+      "end": 850.12,
+      "text": "So then when they report those numbers, and they just happen to be the case that like, it"
+    },
+    {
+      "start": 850.12,
+      "end": 858.12,
+      "text": "does two X as many FP4 as FP8, they just happen to choose like give equivalent die areas"
+    },
+    {
+      "start": 858.12,
+      "end": 862.4399999999999,
+      "text": "to all the floating points and as a result that end up being like, why is the ratio exactly"
+    },
+    {
+      "start": 862.4399999999999,
+      "end": 863.4399999999999,
+      "text": "to it?"
+    },
+    {
+      "start": 863.4399999999999,
+      "end": 864.4399999999999,
+      "text": "Yeah, exactly."
+    },
+    {
+      "start": 864.4399999999999,
+      "end": 868.48,
+      "text": "Yeah, so part of it is, I mean, surely that wouldn't be exactly like exactly equivalent"
+    },
+    {
+      "start": 868.48,
+      "end": 870.6800000000001,
+      "text": "to die area."
+    },
+    {
+      "start": 870.6800000000001,
+      "end": 874.5600000000001,
+      "text": "There's a data movement reason actually, and we'll maybe come back to this when we sort"
+    },
+    {
+      "start": 874.5600000000001,
+      "end": 878.0,
+      "text": "of look through how it goes into another memory reason."
+    },
+    {
+      "start": 878.0,
+      "end": 881.28,
+      "text": "There's something really nice just from a software level of the fact that I can pack two"
+    },
+    {
+      "start": 881.28,
+      "end": 884.36,
+      "text": "four bit numbers into the same storage as an 8-bit number."
+    },
+    {
+      "start": 884.36,
+      "end": 890.52,
+      "text": "And so when I store that to a memory or something like that, it's the sizing of the buses"
+    },
+    {
+      "start": 890.52,
+      "end": 895.52,
+      "text": "that I wire within the chip actually makes that work out really really nicely."
+    },
+    {
+      "start": 895.52,
+      "end": 901.8,
+      "text": "Actually, come to think of it, it's not just two X, so it would be the amount of area"
+    },
+    {
+      "start": 901.8,
+      "end": 905.16,
+      "text": "it takes, it sounds like it's quadratic."
+    },
+    {
+      "start": 905.16,
+      "end": 906.16,
+      "text": "It's quadratic in fact."
+    },
+    {
+      "start": 906.16,
+      "end": 912.0,
+      "text": "Yeah, with a bit length, so that's why a smaller precision is like even more favorable"
+    },
+    {
+      "start": 912.0,
+      "end": 913.0,
+      "text": "than the United States."
+    },
+    {
+      "start": 913.0,
+      "end": 913.88,
+      "text": "This is a really big reason."
+    },
+    {
+      "start": 913.88,
+      "end": 923.56,
+      "text": "So in fact, Nvidia made a change historically up until B100 or B200, every time you have"
+    },
+    {
+      "start": 923.5600000000001,
+      "end": 928.12,
+      "text": "the bit precision, you double the flop count."
+    },
+    {
+      "start": 928.12,
+      "end": 931.0000000000001,
+      "text": "That ratio is exactly, like for the reason you said, because of this quadratic scaling,"
+    },
+    {
+      "start": 931.0000000000001,
+      "end": 933.0000000000001,
+      "text": "that ratio is actually slightly wrong."
+    },
+    {
+      "start": 933.0000000000001,
+      "end": 939.12,
+      "text": "It should be like an even bigger speed up, and you might otherwise think."
+    },
+    {
+      "start": 939.12,
+      "end": 944.84,
+      "text": "Nvidia's product specs have sort of started acknowledging that in B300 and beyond, where"
+    },
+    {
+      "start": 944.84,
+      "end": 947.84,
+      "text": "the FB4 is three times faster than the FB8."
+    },
+    {
+      "start": 947.84,
+      "end": 949.36,
+      "text": "It should be four X."
+    },
+    {
+      "start": 949.36,
+      "end": 950.36,
+      "text": "Yeah."
+    },
+    {
+      "start": 950.36,
+      "end": 953.24,
+      "text": "What I've shown here is the simplest case of integer multiply."
+    },
+    {
+      "start": 953.24,
+      "end": 958.52,
+      "text": "When you are dealing with floating point as you do in FB4 and FB8, there's this sort"
+    },
+    {
+      "start": 958.52,
+      "end": 964.36,
+      "text": "of other term, which is the exponent that just complicates this calculation."
+    },
+    {
+      "start": 964.36,
+      "end": 965.6,
+      "text": "So what can we see already from this?"
+    },
+    {
+      "start": 965.6,
+      "end": 968.48,
+      "text": "It's like, I think the big observation you've made is that there's this quadratic scaling"
+    },
+    {
+      "start": 968.48,
+      "end": 975.6,
+      "text": "with bit width, which is very effective, and is the single reason why low precision"
+    },
+    {
+      "start": 975.6,
+      "end": 979.6800000000001,
+      "text": "arithmetic has worked so well for neural nets."
+    },
+    {
+      "start": 979.6800000000001,
+      "end": 982.88,
+      "text": "But the other thing we're going to do now is we're going to compare sort of the area"
+    },
+    {
+      "start": 982.88,
+      "end": 989.52,
+      "text": "spent on the multiplication itself with all of the circuitry that is around it."
+    },
+    {
+      "start": 989.52,
+      "end": 999.16,
+      "text": "So we'll walk back in time a little bit and see how did GPUs prior to tensor cores work,"
+    },
+    {
+      "start": 999.16,
+      "end": 1002.4399999999999,
+      "text": "as which is the same way as the way that CPUs worked, in fact."
+    },
+    {
+      "start": 1002.4399999999999,
+      "end": 1005.52,
+      "text": "So which is like, where do we stick this multiply and accumulate unit?"
+    },
+    {
+      "start": 1005.52,
+      "end": 1011.72,
+      "text": "So generically, I'll describe like a CUDA core or a CPU."
+    },
+    {
+      "start": 1011.72,
+      "end": 1019.64,
+      "text": "You'll have some register file, which stores some number of entries."
+    },
+    {
+      "start": 1019.64,
+      "end": 1028.48,
+      "text": "Maybe it's like eight entries of, in this case, I guess, four bit numbers, but typically"
+    },
+    {
+      "start": 1028.48,
+      "end": 1032.6399999999999,
+      "text": "like 32 bit numbers or something like that, which is not numbers."
+    },
+    {
+      "start": 1032.64,
+      "end": 1037.96,
+      "text": "So this is the inside the CUDA core, I'll have some register file of some depth, and"
+    },
+    {
+      "start": 1037.96,
+      "end": 1042.96,
+      "text": "then I will have my multiply accumulate, so I could multiply and accumulate, so I"
+    },
+    {
+      "start": 1042.96,
+      "end": 1043.96,
+      "text": "could."
+    },
+    {
+      "start": 1043.96,
+      "end": 1049.8000000000002,
+      "text": "And what it's going to do, it's going to take three arbitrary registers from this register"
+    },
+    {
+      "start": 1049.8000000000002,
+      "end": 1055.2,
+      "text": "file, perform the multiply accumulate, and then write back to the register file."
+    },
+    {
+      "start": 1055.2,
+      "end": 1060.1200000000001,
+      "text": "So it's going to make you write to this one, but it was able to read from this one,"
+    },
+    {
+      "start": 1060.1200000000001,
+      "end": 1067.0600000000002,
+      "text": "and another random one, so it'll take three inputs like this."
+    },
+    {
+      "start": 1067.0600000000002,
+      "end": 1072.0400000000002,
+      "text": "So this is the core data path of many processes, most processes look like this."
+    },
+    {
+      "start": 1072.0400000000002,
+      "end": 1079.68,
+      "text": "You've got some set of registers, and then you've got some set of logic units or ALUs."
+    },
+    {
+      "start": 1079.68,
+      "end": 1084.4,
+      "text": "We want to analyze the cost of the data movement from the register file to the ALU and"
+    },
+    {
+      "start": 1084.4,
+      "end": 1087.16,
+      "text": "back."
+    },
+    {
+      "start": 1087.16,
+      "end": 1091.48,
+      "text": "So ultimately there's going to be some circuit that says, well, I don't always have to select"
+    },
+    {
+      "start": 1091.48,
+      "end": 1095.0800000000002,
+      "text": "this guy, I might select any of the registers in any point in time."
+    },
+    {
+      "start": 1095.0800000000002,
+      "end": 1098.96,
+      "text": "And so sort of a first question is, how can I build a circuit?"
+    },
+    {
+      "start": 1098.96,
+      "end": 1102.96,
+      "text": "The circuit that I'm going to look for is a MUX."
+    },
+    {
+      "start": 1102.96,
+      "end": 1107.88,
+      "text": "So in this case, it's going to have eight inputs, one from each entry of the register file,"
+    },
+    {
+      "start": 1107.88,
+      "end": 1116.28,
+      "text": "and it's going to have one output, which is actually producing this output."
+    },
+    {
+      "start": 1116.28,
+      "end": 1118.6,
+      "text": "And then what is the cost of this thing?"
+    },
+    {
+      "start": 1118.6,
+      "end": 1127.44,
+      "text": "It's all we have to build it out of is AND and OR, and so how do we build it?"
+    },
+    {
+      "start": 1127.44,
+      "end": 1129.6,
+      "text": "We do the dumbest thing possible."
+    },
+    {
+      "start": 1129.6,
+      "end": 1135.72,
+      "text": "For my mask saying, when we want to read the third entry, we're going to add every single"
+    },
+    {
+      "start": 1135.72,
+      "end": 1139.56,
+      "text": "entry with either 1 or 0, based on whether that's all we want to read, and then we're"
+    },
+    {
+      "start": 1139.56,
+      "end": 1142.04,
+      "text": "going to OR all of them together."
+    },
+    {
+      "start": 1142.04,
+      "end": 1146.16,
+      "text": "Just to make sure I understand the basics, what the MUX is doing is just selecting,"
+    },
+    {
+      "start": 1146.16,
+      "end": 1147.68,
+      "text": "just selecting an input."
+    },
+    {
+      "start": 1147.68,
+      "end": 1151.8000000000002,
+      "text": "Yeah, so like invisible to software is like, you say I want input number three, that means"
+    },
+    {
+      "start": 1151.8000000000002,
+      "end": 1152.8000000000002,
+      "text": "there's a MUX."
+    },
+    {
+      "start": 1152.8000000000002,
+      "end": 1153.8000000000002,
+      "text": "Yeah."
+    },
+    {
+      "start": 1153.8000000000002,
+      "end": 1154.92,
+      "text": "And so like, what is the cost of this MUX?"
+    },
+    {
+      "start": 1154.92,
+      "end": 1171.6000000000001,
+      "text": "So an N input MUX operating on P bits, well, I'm going to, so I have N rows, that's this"
+    },
+    {
+      "start": 1171.6000000000001,
+      "end": 1176.5600000000002,
+      "text": "8 rows, and I've got like each row is P bits wide, well, I have to AND every single bit."
+    },
+    {
+      "start": 1176.5600000000002,
+      "end": 1182.2,
+      "text": "So I get N times P many AND gates."
+    },
+    {
+      "start": 1182.2,
+      "end": 1187.44,
+      "text": "Every single input I have to say, am I going to like, mask it out or not, and then I'm"
+    },
+    {
+      "start": 1187.44,
+      "end": 1188.6000000000001,
+      "text": "going to OR them all together."
+    },
+    {
+      "start": 1188.6000000000001,
+      "end": 1196.92,
+      "text": "And so there's going to be like N minus 1 times P many OR gates, which is saying, I've"
+    },
+    {
+      "start": 1196.92,
+      "end": 1199.92,
+      "text": "got all of these different things, almost all of them are zeros, but I need to sort of"
+    },
+    {
+      "start": 1199.92,
+      "end": 1204.52,
+      "text": "collapse them down into, like, from my eight options down into one option."
+    },
+    {
+      "start": 1204.52,
+      "end": 1209.4,
+      "text": "And so every step I need to OR, like, one row into an existing row."
+    },
+    {
+      "start": 1209.4,
+      "end": 1210.4,
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 1210.4,
+      "end": 1215.3200000000002,
+      "text": "It's actually kind of funny that you would sort of, you don't think of the level of hardware."
+    },
+    {
+      "start": 1215.3200000000002,
+      "end": 1219.3600000000001,
+      "text": "You sort of just think, like, oh, I'll just select element three, and something as simple"
+    },
+    {
+      "start": 1219.3600000000001,
+      "end": 1224.04,
+      "text": "as that is, I sort of like, in and of itself, a quite complicated circuit."
+    },
+    {
+      "start": 1224.04,
+      "end": 1227.3600000000001,
+      "text": "Yeah, I mean, this is the first step of all of the hidden data movement costs at the"
+    },
+    {
+      "start": 1227.3600000000001,
+      "end": 1228.3600000000001,
+      "text": "shop."
+    },
+    {
+      "start": 1228.3600000000001,
+      "end": 1229.3600000000001,
+      "text": "Yeah."
+    },
+    {
+      "start": 1229.3600000000001,
+      "end": 1235.72,
+      "text": "And so the thing, like, we're just going to, like, compare, like, I have to pay this cost,"
+    },
+    {
+      "start": 1235.72,
+      "end": 1238.5200000000002,
+      "text": "and I've got one marks here, and then in fact, I have two more copies of that for each"
+    },
+    {
+      "start": 1238.5200000000002,
+      "end": 1241.8400000000001,
+      "text": "of the three inputs to my multiply accumulate operation."
+    },
+    {
+      "start": 1241.8400000000001,
+      "end": 1248.6200000000001,
+      "text": "And so I have this cost, which is like three times N times P and gates over here, compared"
+    },
+    {
+      "start": 1248.6200000000001,
+      "end": 1254.92,
+      "text": "to this P times Q, like, sort of gates in the actual circuit that is doing the thing"
+    },
+    {
+      "start": 1254.92,
+      "end": 1257.5200000000002,
+      "text": "I care about."
+    },
+    {
+      "start": 1257.52,
+      "end": 1264.28,
+      "text": "Okay, if we plug in actual numbers like this N being 8, like, I get, like, 24 times"
+    },
+    {
+      "start": 1264.28,
+      "end": 1271.96,
+      "text": "P gates over just in the data movement compared to, like, if Q is 4, like, 4 times P gates"
+    },
+    {
+      "start": 1271.96,
+      "end": 1274.56,
+      "text": "just in the, in the adder, multiply adder."
+    },
+    {
+      "start": 1274.56,
+      "end": 1276.68,
+      "text": "And, sorry, where's the three coming from?"
+    },
+    {
+      "start": 1276.68,
+      "end": 1278.28,
+      "text": "Three different inputs here."
+    },
+    {
+      "start": 1278.28,
+      "end": 1280.52,
+      "text": "Got it, here."
+    },
+    {
+      "start": 1280.52,
+      "end": 1285.8,
+      "text": "So the case, like, really just what I'm hinting at here is that, like, all of this work,"
+    },
+    {
+      "start": 1285.8,
+      "end": 1289.48,
+      "text": "which scales, like, as the size of the register file, and this is a very small register"
+    },
+    {
+      "start": 1289.48,
+      "end": 1294.32,
+      "text": "file, all of this work just moving the data from the register file to the, to the logic"
+    },
+    {
+      "start": 1294.32,
+      "end": 1299.76,
+      "text": "unit, is many, many times more expensive than the logic unit."
+    },
+    {
+      "start": 1299.76,
+      "end": 1304.52,
+      "text": "In the most recent cluster max report, 70 analysis ranked almost 100 different GPU clouds."
+    },
+    {
+      "start": 1304.52,
+      "end": 1307.56,
+      "text": "Crusoe was one of only five that made the gold tier."
+    },
+    {
+      "start": 1307.56,
+      "end": 1311.96,
+      "text": "70 analysis found that gold tier providers, like Crusoe, had a total cost of ownership,"
+    },
+    {
+      "start": 1311.96,
+      "end": 1317.24,
+      "text": "was five to 15% lower than silver tier ones, even when they had identical GPU pricing."
+    },
+    {
+      "start": 1317.24,
+      "end": 1321.28,
+      "text": "This makes sense, because total cost of ownership is downstream of a bunch of different things"
+    },
+    {
+      "start": 1321.28,
+      "end": 1325.52,
+      "text": "that don't necessarily show up in the sticker price, but that Crusoe has optimized."
+    },
+    {
+      "start": 1325.52,
+      "end": 1329.44,
+      "text": "Things like how well you detect faults, and how quickly you replace failed nodes."
+    },
+    {
+      "start": 1329.44,
+      "end": 1334.0,
+      "text": "For example, Crusoe was one of the first clouds to adopt any recentinal in media's own"
+    },
+    {
+      "start": 1334.0,
+      "end": 1340.56,
+      "text": "GPU monitoring and self-healing software for enhanced GPU uptime utilization and reliability."
+    },
+    {
+      "start": 1340.56,
+      "end": 1344.0,
+      "text": "This that's Crusoe makes use of everything that Nvidia has learned about why chips"
+    },
+    {
+      "start": 1344.0,
+      "end": 1348.56,
+      "text": "fail across all their different fleets and deployments, so that Crusoe can catch faults"
+    },
+    {
+      "start": 1348.56,
+      "end": 1350.04,
+      "text": "earlier in the process."
+    },
+    {
+      "start": 1350.04,
+      "end": 1354.48,
+      "text": "And once they identify failure, Crusoe can swap in a healthy node in less than 10 minutes."
+    },
+    {
+      "start": 1354.48,
+      "end": 1357.96,
+      "text": "Because they're not running bare metal, Crusoe doesn't have to spend time installing"
+    },
+    {
+      "start": 1357.96,
+      "end": 1360.1599999999999,
+      "text": "an operating system or configuring drivers."
+    },
+    {
+      "start": 1360.1599999999999,
+      "end": 1364.24,
+      "text": "They can just spin up a new VM on an already running and pre-qualified host."
+    },
+    {
+      "start": 1364.24,
+      "end": 1368.12,
+      "text": "If you want to learn more about this or the other reasons that Crusoe made gold tier,"
+    },
+    {
+      "start": 1368.1200000000001,
+      "end": 1373.0000000000002,
+      "text": "go to crusoe.ai slash the workache."
+    },
+    {
+      "start": 1373.0000000000002,
+      "end": 1377.0000000000002,
+      "text": "It may be helpful to just see what a mouse looks like, maybe like a two-bit or a four-bit"
+    },
+    {
+      "start": 1377.0000000000002,
+      "end": 1378.0000000000002,
+      "text": "mouse."
+    },
+    {
+      "start": 1378.0000000000002,
+      "end": 1379.0000000000002,
+      "text": "Yeah, great."
+    },
+    {
+      "start": 1379.0000000000002,
+      "end": 1380.0000000000002,
+      "text": "So we'll take some inputs."
+    },
+    {
+      "start": 1380.0000000000002,
+      "end": 1390.1200000000001,
+      "text": "We'll have maybe like, we'll just do a two-way mouse, so we've got two different numbers."
+    },
+    {
+      "start": 1390.1200000000001,
+      "end": 1396.6000000000001,
+      "text": "We've got these two inputs, and then we have a, so these are the inputs that are being"
+    },
+    {
+      "start": 1396.6000000000001,
+      "end": 1397.92,
+      "text": "selected between."
+    },
+    {
+      "start": 1397.92,
+      "end": 1410.72,
+      "text": "And then we have a selector, which says, which can either be like, I want this one, or"
+    },
+    {
+      "start": 1410.72,
+      "end": 1415.44,
+      "text": "it could be, I want the other one, so this is a one-heart encoding."
+    },
+    {
+      "start": 1415.44,
+      "end": 1424.0800000000002,
+      "text": "So what we all start with, and then the output we want to produce, like, let's focus on"
+    },
+    {
+      "start": 1424.0800000000002,
+      "end": 1425.0800000000002,
+      "text": "this case."
+    },
+    {
+      "start": 1425.0800000000002,
+      "end": 1427.3200000000002,
+      "text": "So this is the actual input we got."
+    },
+    {
+      "start": 1428.32,
+      "end": 1431.84,
+      "text": "We just want to produce this guy as derel."
+    },
+    {
+      "start": 1431.84,
+      "end": 1438.96,
+      "text": "And so, like, sort of very laboriously, what we do is we end this bit with all of these."
+    },
+    {
+      "start": 1438.96,
+      "end": 1444.04,
+      "text": "And so, that produces, like, ending this bit with this row."
+    },
+    {
+      "start": 1444.04,
+      "end": 1449.52,
+      "text": "And likewise, we end this bit with this row that produces all zeros."
+    },
+    {
+      "start": 1449.52,
+      "end": 1457.6,
+      "text": "So this was the, there's four ends here, there's four ends here."
+    },
+    {
+      "start": 1457.6,
+      "end": 1460.92,
+      "text": "And then finally, we just order these two together, and this gives a one, we order these two"
+    },
+    {
+      "start": 1460.92,
+      "end": 1464.48,
+      "text": "together, this gives a one, we order these two together, gives a zero, we order these"
+    },
+    {
+      "start": 1464.48,
+      "end": 1466.6,
+      "text": "two together, and we'll give a one."
+    },
+    {
+      "start": 1466.6,
+      "end": 1472.12,
+      "text": "And so this is the four ores."
+    },
+    {
+      "start": 1472.12,
+      "end": 1475.96,
+      "text": "So like, this actually ends up looking a little bit like addition, in fact, like we did"
+    },
+    {
+      "start": 1475.96,
+      "end": 1480.8,
+      "text": "use exactly the set of same, same set of ends here, sort of we've added all of these"
+    },
+    {
+      "start": 1480.8,
+      "end": 1486.0,
+      "text": "things together, but then instead of collapsing it by using these full adder circuits, we"
+    },
+    {
+      "start": 1486.0,
+      "end": 1489.32,
+      "text": "just get a very simple collapsing with the ore gates."
+    },
+    {
+      "start": 1489.32,
+      "end": 1492.44,
+      "text": "And how, I guess that doesn't look like n times p."
+    },
+    {
+      "start": 1492.44,
+      "end": 1499.48,
+      "text": "So yeah, so this was, this was with n equals 2 inputs."
+    },
+    {
+      "start": 1499.48,
+      "end": 1510.44,
+      "text": "In the general case, we will have n, like, and sorry, this is n rows, and then we'll"
+    },
+    {
+      "start": 1510.44,
+      "end": 1514.84,
+      "text": "have p bits per row."
+    },
+    {
+      "start": 1514.84,
+      "end": 1519.64,
+      "text": "So that gives us the n pi n times p many AND gates."
+    },
+    {
+      "start": 1519.64,
+      "end": 1524.8,
+      "text": "So this circuit I've described here, almost all of the cost, like seven eighths of the"
+    },
+    {
+      "start": 1524.8,
+      "end": 1531.04,
+      "text": "cost, is in the reading and writing the register file, and only a tiny fraction of the cost"
+    },
+    {
+      "start": 1531.04,
+      "end": 1532.8,
+      "text": "is in the logic you know, the self."
+    },
+    {
+      "start": 1532.8,
+      "end": 1535.9199999999998,
+      "text": "So this is the problem to solve."
+    },
+    {
+      "start": 1535.9199999999998,
+      "end": 1542.6399999999999,
+      "text": "This essentially was the state of play prior to the Volta generation of NVIDIA GPUs."
+    },
+    {
+      "start": 1542.6399999999999,
+      "end": 1549.28,
+      "text": "This is what this kind of thing is what was inside the CUDA cores, and this sort of problem"
+    },
+    {
+      "start": 1549.28,
+      "end": 1553.72,
+      "text": "statement is what motivated introduction to tensor cores, which are marginarically called"
+    },
+    {
+      "start": 1553.72,
+      "end": 1554.72,
+      "text": "systolic arrays."
+    },
+    {
+      "start": 1554.72,
+      "end": 1557.96,
+      "text": "So if we think about how we're going to solve this problem, like we're spending almost all"
+    },
+    {
+      "start": 1557.96,
+      "end": 1561.28,
+      "text": "about circuit area on something that we just really don't care about, and it's like hidden"
+    },
+    {
+      "start": 1561.28,
+      "end": 1564.8,
+      "text": "to the software programmer, and the thing that we actually care about is not much of the"
+    },
+    {
+      "start": 1564.8,
+      "end": 1565.8,
+      "text": "area."
+    },
+    {
+      "start": 1565.8,
+      "end": 1570.96,
+      "text": "Well, make this one bigger somehow while keeping this at the same size, that's the goal."
+    },
+    {
+      "start": 1570.96,
+      "end": 1577.2,
+      "text": "So sort of the evolution was like we had baked this much into hardware in the stage that"
+    },
+    {
+      "start": 1577.2,
+      "end": 1581.1200000000001,
+      "text": "this single line is a multiply accumulate, and this was this single thing was baked"
+    },
+    {
+      "start": 1581.1200000000001,
+      "end": 1582.92,
+      "text": "into hardware."
+    },
+    {
+      "start": 1582.92,
+      "end": 1589.28,
+      "text": "The idea of a systolic array is to go two levels of loop up, and bake this entire loop"
+    },
+    {
+      "start": 1589.28,
+      "end": 1590.92,
+      "text": "out here into hardware."
+    },
+    {
+      "start": 1590.92,
+      "end": 1595.28,
+      "text": "And so the idea being that if we have a much bigger granularity fixed function, piece"
+    },
+    {
+      "start": 1595.28,
+      "end": 1600.52,
+      "text": "of logic, maybe the taxes we pay on the input and output are much smaller."
+    },
+    {
+      "start": 1600.52,
+      "end": 1608.48,
+      "text": "It sounds like you're suggesting that if you go up one step in the matrix multiply"
+    },
+    {
+      "start": 1608.48,
+      "end": 1614.72,
+      "text": "loop, that there's some, you can tilt the balance more towards compute than communication."
+    },
+    {
+      "start": 1614.72,
+      "end": 1615.72,
+      "text": "That's right."
+    },
+    {
+      "start": 1615.72,
+      "end": 1618.1200000000001,
+      "text": "So there's two effects that we're going to take advantage of here."
+    },
+    {
+      "start": 1618.1200000000001,
+      "end": 1623.96,
+      "text": "One is just that we can do more stuff before we per every trip through our register file."
+    },
+    {
+      "start": 1623.96,
+      "end": 1628.9,
+      "text": "And then the other thing we're going to take advantage of is in fact, in some of this"
+    },
+    {
+      "start": 1628.9,
+      "end": 1635.4,
+      "text": "loop, we can take advantage of, for example, some certain things staying fixed."
+    },
+    {
+      "start": 1635.4,
+      "end": 1639.72,
+      "text": "So let's sort of visually we're going to look at this matrix multiplication."
+    },
+    {
+      "start": 1639.72,
+      "end": 1644.0800000000002,
+      "text": "So this portion of the loop corresponds to a matrix vector multiplication in fact."
+    },
+    {
+      "start": 1644.0800000000002,
+      "end": 1652.16,
+      "text": "So we'll take a matrix and multiply it by a vector."
+    },
+    {
+      "start": 1652.16,
+      "end": 1653.3200000000002,
+      "text": "So how do we do this?"
+    },
+    {
+      "start": 1653.3200000000002,
+      "end": 1656.92,
+      "text": "We take every column gets multiplied by the vector and then some."
+    },
+    {
+      "start": 1656.92,
+      "end": 1659.4,
+      "text": "So we're going to some sort of along columns."
+    },
+    {
+      "start": 1659.4,
+      "end": 1663.0400000000002,
+      "text": "So this zero and three gets multiplied by the three and seven and gets summed."
+    },
+    {
+      "start": 1663.04,
+      "end": 1667.36,
+      "text": "And then the one and two gets multiplied by the three and seven and gets summed."
+    },
+    {
+      "start": 1667.36,
+      "end": 1672.12,
+      "text": "So there is a multiply accumulate associated with every single one of these entries in"
+    },
+    {
+      "start": 1672.12,
+      "end": 1673.12,
+      "text": "the matrix."
+    },
+    {
+      "start": 1673.12,
+      "end": 1678.36,
+      "text": "So we'll just draw out these four multiply accumulates."
+    },
+    {
+      "start": 1678.36,
+      "end": 1687.52,
+      "text": "I just make sure I understand why there's four multiply accumulates."
+    },
+    {
+      "start": 1687.52,
+      "end": 1700.12,
+      "text": "So if each entry in the column that corresponds to the output vector is a dot product, and"
+    },
+    {
+      "start": 1700.12,
+      "end": 1706.8,
+      "text": "in this case, it'll be like two multiplications and then the addition of those two multiplications"
+    },
+    {
+      "start": 1706.8,
+      "end": 1708.2,
+      "text": "so like you're accumulating."
+    },
+    {
+      "start": 1708.2,
+      "end": 1709.2,
+      "text": "Yeah."
+    },
+    {
+      "start": 1709.2,
+      "end": 1712.2,
+      "text": "So the addition, so really there's only one addition per dot product, but like we would"
+    },
+    {
+      "start": 1712.2,
+      "end": 1714.68,
+      "text": "like to start with the initialization of zero."
+    },
+    {
+      "start": 1714.68,
+      "end": 1715.68,
+      "text": "Yeah."
+    },
+    {
+      "start": 1715.68,
+      "end": 1720.48,
+      "text": "So what we're going to aim for is to have, so we've got to, we want to have quadratically"
+    },
+    {
+      "start": 1720.48,
+      "end": 1721.48,
+      "text": "more compute."
+    },
+    {
+      "start": 1721.48,
+      "end": 1732.4,
+      "text": "We do, we have, we have got sort of X times Y as much compute as we had before."
+    },
+    {
+      "start": 1732.4,
+      "end": 1741.88,
+      "text": "But we're going to want to somehow aim for having only X times as much like communication."
+    },
+    {
+      "start": 1741.88,
+      "end": 1748.3600000000001,
+      "text": "And this is sort of the intention so that we get this advantage term going as Y."
+    },
+    {
+      "start": 1748.3600000000001,
+      "end": 1753.64,
+      "text": "So we've laid down the multiplications, bringing in, like we're going to want to bring"
+    },
+    {
+      "start": 1753.64,
+      "end": 1756.92,
+      "text": "in a vector of size two."
+    },
+    {
+      "start": 1756.92,
+      "end": 1759.6000000000001,
+      "text": "And so that sort of already is in line with our comms target."
+    },
+    {
+      "start": 1759.6000000000001,
+      "end": 1760.6000000000001,
+      "text": "That's fine."
+    },
+    {
+      "start": 1760.6000000000001,
+      "end": 1767.68,
+      "text": "However, we need to somehow manage the communication of this matrix, which exceeds our budget of X."
+    },
+    {
+      "start": 1767.68,
+      "end": 1775.48,
+      "text": "And so the idea is that in an AI context, this matrix is actually going to stay fixed"
+    },
+    {
+      "start": 1775.48,
+      "end": 1777.1200000000001,
+      "text": "for a long period of time."
+    },
+    {
+      "start": 1777.1200000000001,
+      "end": 1781.8400000000001,
+      "text": "And so instead of like bringing it in from the outside, so we've got some register file"
+    },
+    {
+      "start": 1781.8400000000001,
+      "end": 1786.96,
+      "text": "sitting over here, we don't want to have like the amount of stuff coming out of this"
+    },
+    {
+      "start": 1786.96,
+      "end": 1787.96,
+      "text": "register file."
+    },
+    {
+      "start": 1787.96,
+      "end": 1795.0,
+      "text": "This is the term that we want to go sort of as X in some sense."
+    },
+    {
+      "start": 1795.0,
+      "end": 1798.52,
+      "text": "We don't want to bring this full matrix in from the register file every cycle because"
+    },
+    {
+      "start": 1798.52,
+      "end": 1803.52,
+      "text": "we don't have enough that would cost too much in terms of wiring from the register file."
+    },
+    {
+      "start": 1803.52,
+      "end": 1810.08,
+      "text": "And so instead we're going to store our key trick is that this matrix can be stored locally"
+    },
+    {
+      "start": 1810.08,
+      "end": 1811.92,
+      "text": "to the systolic array."
+    },
+    {
+      "start": 1811.92,
+      "end": 1824.56,
+      "text": "And so where we'll store these numbers 0, 1, 2, and 3 in just like a gate called a register"
+    },
+    {
+      "start": 1824.56,
+      "end": 1829.2,
+      "text": "that like physically stores these numbers, and we're going to reuse these numbers over"
+    },
+    {
+      "start": 1829.2,
+      "end": 1832.0,
+      "text": "and over again for a large number of different matrices."
+    },
+    {
+      "start": 1832.0,
+      "end": 1837.44,
+      "text": "And so the optimization here is that like the nature of a matrix multiplication is you"
+    },
+    {
+      "start": 1837.44,
+      "end": 1848.76,
+      "text": "can store this like square quadratic thing directly where the logic is happening."
+    },
+    {
+      "start": 1848.76,
+      "end": 1854.96,
+      "text": "Which is like higher dimension than the or has an extra dimension compared to the inputs"
+    },
+    {
+      "start": 1854.96,
+      "end": 1856.48,
+      "text": "which you keep swapping in and out."
+    },
+    {
+      "start": 1856.48,
+      "end": 1857.48,
+      "text": "That's right."
+    },
+    {
+      "start": 1857.48,
+      "end": 1864.12,
+      "text": "I mean, this is a nature of what a matrix multiplication is that you do a lot of multiplication to get one"
+    },
+    {
+      "start": 1864.12,
+      "end": 1865.12,
+      "text": "value out."
+    },
+    {
+      "start": 1865.12,
+      "end": 1867.44,
+      "text": "Like a dot product is the result of a lot of multiplication."
+    },
+    {
+      "start": 1867.44,
+      "end": 1872.32,
+      "text": "And so that optimization means that you're just like you can stuff a lot of like multiplication"
+    },
+    {
+      "start": 1872.32,
+      "end": 1874.08,
+      "text": "in before you get some value out of it."
+    },
+    {
+      "start": 1874.08,
+      "end": 1875.08,
+      "text": "That's right."
+    },
+    {
+      "start": 1875.08,
+      "end": 1880.84,
+      "text": "So like just to complete the picture here of concretely how that looks, I swapped the"
+    },
+    {
+      "start": 1880.84,
+      "end": 1885.8,
+      "text": "3 and the 2 here, 3 and 2."
+    },
+    {
+      "start": 1885.8,
+      "end": 1889.8799999999999,
+      "text": "So just like this 0 and 3 is going to multiply by the 3 and 7."
+    },
+    {
+      "start": 1889.8799999999999,
+      "end": 1896.08,
+      "text": "And so we're going to form a dot product sort of along columns here."
+    },
+    {
+      "start": 1896.08,
+      "end": 1901.48,
+      "text": "So somehow we're going to feed a 3 and a 7 in here."
+    },
+    {
+      "start": 1901.48,
+      "end": 1907.16,
+      "text": "These participate in sort of this feeds into this multiplication and also feeds into"
+    },
+    {
+      "start": 1907.16,
+      "end": 1912.68,
+      "text": "this multiplication, likewise the 3 feeds into here and also into here."
+    },
+    {
+      "start": 1912.68,
+      "end": 1921.04,
+      "text": "And then we're going to sum sort of along here with like starting at the top of a column"
+    },
+    {
+      "start": 1921.04,
+      "end": 1925.52,
+      "text": "we feed in zeros and then coming out the bottom we get results coming out."
+    },
+    {
+      "start": 1925.52,
+      "end": 1930.52,
+      "text": "So sort of just to visually see what we've got, there's a dot product that is performed"
+    },
+    {
+      "start": 1930.52,
+      "end": 1935.08,
+      "text": "along columns in a matrix and that sort of maps exactly to what is done spatially"
+    },
+    {
+      "start": 1935.08,
+      "end": 1937.6,
+      "text": "in the systolic array here."
+    },
+    {
+      "start": 1937.6,
+      "end": 1941.8,
+      "text": "So this is one dot product summed vertically and this is a second dot product also summed"
+    },
+    {
+      "start": 1941.8,
+      "end": 1944.04,
+      "text": "vertically."
+    },
+    {
+      "start": 1944.04,
+      "end": 1948.08,
+      "text": "And then what is the data that needs to go into and out of the register file?"
+    },
+    {
+      "start": 1948.08,
+      "end": 1957.08,
+      "text": "We have X amount of data that's coming out here on the output and we also have sort of"
+    },
+    {
+      "start": 1957.08,
+      "end": 1961.9199999999998,
+      "text": "this data coming from the input, X amount of data from the input."
+    },
+    {
+      "start": 1961.9199999999998,
+      "end": 1967.56,
+      "text": "And so with respect to the input and output vectors at least, we sort of met our goal of"
+    },
+    {
+      "start": 1967.56,
+      "end": 1975.8,
+      "text": "having only X as much data going in and out of the register file."
+    },
+    {
+      "start": 1975.8,
+      "end": 1980.6399999999999,
+      "text": "This leaves open the question of like I said that the weight matrices, weight matrix is"
+    },
+    {
+      "start": 1980.6399999999999,
+      "end": 1984.8799999999999,
+      "text": "stored locally in the systolic array, how did it get there in the first place is sort"
+    },
+    {
+      "start": 1984.88,
+      "end": 1989.24,
+      "text": "of like at some point you need to boot your chip and populate this data and so where"
+    },
+    {
+      "start": 1989.24,
+      "end": 1990.64,
+      "text": "did that come from?"
+    },
+    {
+      "start": 1990.64,
+      "end": 1992.92,
+      "text": "The trick is just we just do it very slowly."
+    },
+    {
+      "start": 1992.92,
+      "end": 1996.68,
+      "text": "So we are very slowly trickle feed it into the systolic array."
+    },
+    {
+      "start": 1996.68,
+      "end": 2002.0,
+      "text": "The sort of the simplest strategy is that we sort of run this daisy chain that says"
+    },
+    {
+      "start": 2002.0,
+      "end": 2006.72,
+      "text": "like feed a number into here and then on the next clock cycle it will move down to"
+    },
+    {
+      "start": 2006.72,
+      "end": 2008.8000000000002,
+      "text": "the next entry of the systolic array."
+    },
+    {
+      "start": 2008.8000000000002,
+      "end": 2014.8400000000001,
+      "text": "And so we can do that in every column in parallel and that gives us sort of"
+    },
+    {
+      "start": 2015.8400000000001,
+      "end": 2019.0000000000002,
+      "text": "this is also going to come from here and this is going to be another factor of"
+    },
+    {
+      "start": 2019.0000000000002,
+      "end": 2022.44,
+      "text": "approximately X units of bandwidth coming in."
+    },
+    {
+      "start": 2022.44,
+      "end": 2025.7200000000003,
+      "text": "Would you mind repeating the sentence?"
+    },
+    {
+      "start": 2025.7200000000003,
+      "end": 2031.4800000000002,
+      "text": "So we know that we are going to be bringing in numbers only rarely into the matrix."
+    },
+    {
+      "start": 2031.4800000000002,
+      "end": 2038.1200000000001,
+      "text": "And so we just want to come up with any construction at all such that the amount of wiring"
+    },
+    {
+      "start": 2038.1200000000001,
+      "end": 2042.7600000000002,
+      "text": "that actually feeds into sort of crosses this boundary of the systolic array, like this boundary"
+    },
+    {
+      "start": 2042.76,
+      "end": 2047.24,
+      "text": "right here, we just want to keep that boundary to X and not go as XY."
+    },
+    {
+      "start": 2047.24,
+      "end": 2053.84,
+      "text": "And so a particularly simple strategy is that we sort of bring in a number into the top"
+    },
+    {
+      "start": 2053.84,
+      "end": 2057.48,
+      "text": "row of the systolic array, that's what we can do in one clock cycle."
+    },
+    {
+      "start": 2057.48,
+      "end": 2064.12,
+      "text": "And then for like for Y consecutive clock cycles we're going to be bringing in the top"
+    },
+    {
+      "start": 2064.12,
+      "end": 2067.72,
+      "text": "row every time and then sort of shift all of the other rows down by one."
+    },
+    {
+      "start": 2067.72,
+      "end": 2071.88,
+      "text": "And that keeps the sort of the wiring that needs to come from this expensive register"
+    },
+    {
+      "start": 2071.88,
+      "end": 2074.6800000000003,
+      "text": "file only down to a factor of X for other than XY."
+    },
+    {
+      "start": 2074.6800000000003,
+      "end": 2075.28,
+      "text": "I see."
+    },
+    {
+      "start": 2075.28,
+      "end": 2078.84,
+      "text": "OK, so there's two questions in terms of communication."
+    },
+    {
+      "start": 2078.84,
+      "end": 2083.96,
+      "text": "And there's like communication time and then there's communication bandwidth."
+    },
+    {
+      "start": 2083.96,
+      "end": 2084.48,
+      "text": "Yes."
+    },
+    {
+      "start": 2084.48,
+      "end": 2089.88,
+      "text": "And you're saying since we're only going to be loading this in once, let's minimize bandwidth"
+    },
+    {
+      "start": 2089.88,
+      "end": 2096.48,
+      "text": "because bandwidth equals diarrhea and let's just like load it in slowly over like smaller"
+    },
+    {
+      "start": 2096.48,
+      "end": 2099.32,
+      "text": "lanes because we're just going to keep this value in there for a while."
+    },
+    {
+      "start": 2099.32,
+      "end": 2100.32,
+      "text": "Exactly."
+    },
+    {
+      "start": 2100.32,
+      "end": 2101.32,
+      "text": "Interesting."
+    },
+    {
+      "start": 2101.32,
+      "end": 2105.28,
+      "text": "So it's interesting to me that when we were talking last time about inference across"
+    },
+    {
+      "start": 2105.28,
+      "end": 2110.0800000000004,
+      "text": "many chips, the big high level thing we're trying to optimize for is increase the amount"
+    },
+    {
+      "start": 2110.0800000000004,
+      "end": 2114.7200000000003,
+      "text": "of compute per memory bandwidth that is say per communication."
+    },
+    {
+      "start": 2114.7200000000003,
+      "end": 2120.1200000000003,
+      "text": "And here also we're trying to increase the amount of like actual multiplies or actual"
+    },
+    {
+      "start": 2120.1200000000003,
+      "end": 2127.04,
+      "text": "additions relative to transporting information from registers to the logic."
+    },
+    {
+      "start": 2127.04,
+      "end": 2130.68,
+      "text": "So in both gates as you're trying to maximize compute relative to communication."
+    },
+    {
+      "start": 2130.68,
+      "end": 2131.68,
+      "text": "Yeah."
+    },
+    {
+      "start": 2131.68,
+      "end": 2134.08,
+      "text": "This shows up sort of all the way up and down the stack."
+    },
+    {
+      "start": 2134.08,
+      "end": 2139.56,
+      "text": "This is sort of close to the bottom sort of like into the gates."
+    },
+    {
+      "start": 2139.56,
+      "end": 2144.96,
+      "text": "There's sort of a version that's maybe even closer to the gates of just like even the precision"
+    },
+    {
+      "start": 2144.96,
+      "end": 2148.72,
+      "text": "of number format that you choose to use."
+    },
+    {
+      "start": 2148.72,
+      "end": 2150.12,
+      "text": "We saw that same effect."
+    },
+    {
+      "start": 2150.12,
+      "end": 2155.6,
+      "text": "There's like a square cube law or like squared versus linear term going on both in just purely"
+    },
+    {
+      "start": 2155.6,
+      "end": 2161.36,
+      "text": "the precision of this ALU, but then also in terms of the size of the matrix."
+    },
+    {
+      "start": 2161.36,
+      "end": 2162.36,
+      "text": "Yeah."
+    },
+    {
+      "start": 2162.36,
+      "end": 2163.36,
+      "text": "Interesting."
+    },
+    {
+      "start": 2163.36,
+      "end": 2168.24,
+      "text": "So this unit is sort of the next bigger unit we had like the multiplication circuit."
+    },
+    {
+      "start": 2168.24,
+      "end": 2172.7599999999998,
+      "text": "And then on top of that we have a pretty large systolic array."
+    },
+    {
+      "start": 2172.7599999999998,
+      "end": 2178.0,
+      "text": "I drew it as 2 by 2, but in like for example, all the TPUs they were described as 128"
+    },
+    {
+      "start": 2178.0,
+      "end": 2182.72,
+      "text": "per 128 of this circuit shown here."
+    },
+    {
+      "start": 2182.7200000000003,
+      "end": 2189.84,
+      "text": "And this circuit ends up being, this is the most efficient known mechanism for a circuit"
+    },
+    {
+      "start": 2189.84,
+      "end": 2191.92,
+      "text": "for implementing a matrix multiply, I see."
+    },
+    {
+      "start": 2191.92,
+      "end": 2197.96,
+      "text": "So we've talked about sort of, it seems obvious that you should try to maximize compute relative"
+    },
+    {
+      "start": 2197.96,
+      "end": 2199.76,
+      "text": "to communication."
+    },
+    {
+      "start": 2199.76,
+      "end": 2206.5600000000004,
+      "text": "What are non-obvious trade-offs that actually you are, you know, keep you up at night"
+    },
+    {
+      "start": 2206.5600000000004,
+      "end": 2208.8,
+      "text": "about what should we do X or should we do Y?"
+    },
+    {
+      "start": 2208.8,
+      "end": 2210.4,
+      "text": "And it's non-obvious what the answer is."
+    },
+    {
+      "start": 2210.4,
+      "end": 2211.4,
+      "text": "Yeah."
+    },
+    {
+      "start": 2211.56,
+      "end": 2217.88,
+      "text": "I mean, I think most of the decisions in chip design are sizing decisions."
+    },
+    {
+      "start": 2217.88,
+      "end": 2227.2400000000002,
+      "text": "And so already in what we've drawn so far, like, so AI chips all have this, this circuit"
+    },
+    {
+      "start": 2227.2400000000002,
+      "end": 2228.2400000000002,
+      "text": "in it."
+    },
+    {
+      "start": 2228.2400000000002,
+      "end": 2234.56,
+      "text": "They have a systolic array and then somewhere near an original file providing inputs and outputs."
+    },
+    {
+      "start": 2234.56,
+      "end": 2240.56,
+      "text": "The two sort of, like even within this scope sizing questions that you have are how big"
+    },
+    {
+      "start": 2240.56,
+      "end": 2248.4,
+      "text": "should I make my systolic array and how big should I make the register file?"
+    },
+    {
+      "start": 2248.4,
+      "end": 2253.16,
+      "text": "And then the trade-off for the size of the systolic array, actually, these two questions"
+    },
+    {
+      "start": 2253.16,
+      "end": 2262.84,
+      "text": "are coupled, is one way to think of it is to say, I'm going to have a budget for how much"
+    },
+    {
+      "start": 2262.84,
+      "end": 2265.16,
+      "text": "what percentage of my chip area I want to spend on data movement."
+    },
+    {
+      "start": 2265.16,
+      "end": 2271.24,
+      "text": "So maybe I just say that I want this to be 10% and the systolic array to be 90%."
+    },
+    {
+      "start": 2271.24,
+      "end": 2275.3599999999997,
+      "text": "And then, sort of, I can size my register file, bigger register files are more flexible."
+    },
+    {
+      "start": 2275.3599999999997,
+      "end": 2281.08,
+      "text": "They allow me to run sort of more, I can get more application level performance out."
+    },
+    {
+      "start": 2281.08,
+      "end": 2285.08,
+      "text": "But then they sort of take away from this area spent on the systolic array."
+    },
+    {
+      "start": 2285.08,
+      "end": 2286.08,
+      "text": "Yeah, that makes sense."
+    },
+    {
+      "start": 2286.08,
+      "end": 2290.16,
+      "text": "I recently ran an essay contest where I asked people to write about what I consider to be"
+    },
+    {
+      "start": 2290.16,
+      "end": 2292.48,
+      "text": "some of the biggest open questions about AI."
+    },
+    {
+      "start": 2292.48,
+      "end": 2296.44,
+      "text": "The submission window closed last week, so I used cursor to create a couple of different"
+    },
+    {
+      "start": 2296.44,
+      "end": 2298.8,
+      "text": "interfaces to help me review the entries."
+    },
+    {
+      "start": 2298.8,
+      "end": 2301.88,
+      "text": "One interface unautomizes submissions and hides unnecessary information."
+    },
+    {
+      "start": 2301.88,
+      "end": 2305.64,
+      "text": "It lets me group responses by question, add notes, and record my scores."
+    },
+    {
+      "start": 2305.64,
+      "end": 2309.28,
+      "text": "The other interface helps me review entrance who also want to be considered for the research"
+    },
+    {
+      "start": 2309.28,
+      "end": 2310.72,
+      "text": "role that I'm hiring for."
+    },
+    {
+      "start": 2310.72,
+      "end": 2314.84,
+      "text": "The UI puts the applicants essay right next to the resume and their personal website so"
+    },
+    {
+      "start": 2314.84,
+      "end": 2317.0,
+      "text": "that I can see everything at once."
+    },
+    {
+      "start": 2317.0,
+      "end": 2320.6,
+      "text": "Cruisers harness is really good at helping these models see and improve their UI's."
+    },
+    {
+      "start": 2320.6,
+      "end": 2325.0,
+      "text": "I watched it render these interfaces in the built-in browser, take screenshots, click"
+    },
+    {
+      "start": 2325.0,
+      "end": 2327.16,
+      "text": "through sections, and keep iterating."
+    },
+    {
+      "start": 2327.16,
+      "end": 2329.56,
+      "text": "At this point, cursor is where I do most of my work."
+    },
+    {
+      "start": 2329.56,
+      "end": 2333.4,
+      "text": "Whether I'm reading and visualizing a bunch of research papers, we're coding up an interface"
+    },
+    {
+      "start": 2333.4,
+      "end": 2337.64,
+      "text": "to review applications, we're making flashcards from my blackboard lectures."
+    },
+    {
+      "start": 2337.64,
+      "end": 2341.8399999999997,
+      "text": "Cursor just makes it very easy for an AI to look at whatever I'm looking at and help"
+    },
+    {
+      "start": 2341.8399999999997,
+      "end": 2344.4,
+      "text": "me understand it and work with me on it."
+    },
+    {
+      "start": 2344.4,
+      "end": 2347.3199999999997,
+      "text": "So whatever you're working on, you should do it in cursor."
+    },
+    {
+      "start": 2347.32,
+      "end": 2351.84,
+      "text": "Go to cursor.com slash the work hash."
+    },
+    {
+      "start": 2351.84,
+      "end": 2358.04,
+      "text": "Where does the clock cycle of a chip come in, what determines what that is?"
+    },
+    {
+      "start": 2358.04,
+      "end": 2359.04,
+      "text": "Yeah."
+    },
+    {
+      "start": 2359.04,
+      "end": 2360.84,
+      "text": "And what is a clock cycle for a chip?"
+    },
+    {
+      "start": 2360.84,
+      "end": 2365.2400000000002,
+      "text": "So at baseline, it's sort of worth observing that chips are incredibly parallel, right?"
+    },
+    {
+      "start": 2365.2400000000002,
+      "end": 2367.84,
+      "text": "You've got 100 billion transitions in a chip."
+    },
+    {
+      "start": 2367.84,
+      "end": 2372.0,
+      "text": "A key thing that you need to do whenever you have massive parallels is you need to synchronize"
+    },
+    {
+      "start": 2372.0,
+      "end": 2375.0,
+      "text": "between the different parallel units."
+    },
+    {
+      "start": 2375.0,
+      "end": 2380.08,
+      "text": "In software, typically, you have these very expensive synchronization methods like a"
+    },
+    {
+      "start": 2380.08,
+      "end": 2381.08,
+      "text": "mutex."
+    },
+    {
+      "start": 2381.08,
+      "end": 2387.36,
+      "text": "So one thread will finish what it's doing, it will grab a lock somewhere stored in memory"
+    },
+    {
+      "start": 2387.36,
+      "end": 2390.8,
+      "text": "and then notify the other thread that it's done."
+    },
+    {
+      "start": 2390.8,
+      "end": 2400.28,
+      "text": "On chips, we take a very different approach and say that every nanosecond or so, all"
+    },
+    {
+      "start": 2400.28,
+      "end": 2403.72,
+      "text": "circuitry in the chip will kind of pause for a moment and then synchronize every."
+    },
+    {
+      "start": 2403.7200000000003,
+      "end": 2406.44,
+      "text": "So it actually synchronizes every single nanosecond or so."
+    },
+    {
+      "start": 2406.44,
+      "end": 2409.32,
+      "text": "And so that is the clock cycle."
+    },
+    {
+      "start": 2409.32,
+      "end": 2414.1200000000003,
+      "text": "The entire chip, typically, all in sort of one fell swoop, goes in lock step to the"
+    },
+    {
+      "start": 2414.1200000000003,
+      "end": 2416.32,
+      "text": "next operation that happens."
+    },
+    {
+      "start": 2416.32,
+      "end": 2426.5200000000004,
+      "text": "And so what this looks like in circuitry is that you will have this typically drawn, so"
+    },
+    {
+      "start": 2426.5200000000004,
+      "end": 2430.1600000000003,
+      "text": "the clock is sort of mediated by registers, which are these storage devices that we've"
+    },
+    {
+      "start": 2430.1600000000003,
+      "end": 2432.0000000000005,
+      "text": "drawn elsewhere."
+    },
+    {
+      "start": 2432.0,
+      "end": 2436.48,
+      "text": "And the way to think of it is that I have some storage, which is storing like a bit,"
+    },
+    {
+      "start": 2436.48,
+      "end": 2438.08,
+      "text": "which might be zero or one."
+    },
+    {
+      "start": 2438.08,
+      "end": 2443.72,
+      "text": "And then I have some sort of cloud of logic, which maybe is like this systolic array or"
+    },
+    {
+      "start": 2443.72,
+      "end": 2447.2,
+      "text": "this multiplier or something like that."
+    },
+    {
+      "start": 2447.2,
+      "end": 2450.6,
+      "text": "And then I've got some, and that's going to produce some output."
+    },
+    {
+      "start": 2450.6,
+      "end": 2454.36,
+      "text": "So my inputs, I've got a bunch of inputs, feedings with this cloud of logic."
+    },
+    {
+      "start": 2454.36,
+      "end": 2459.72,
+      "text": "And then eventually later there's going to be some output register that this writes to."
+    },
+    {
+      "start": 2459.7200000000003,
+      "end": 2466.2000000000003,
+      "text": "There is a global clock signal, which drives all of these registers."
+    },
+    {
+      "start": 2466.2000000000003,
+      "end": 2475.4,
+      "text": "And it says, at a certain instant in time, when the clock strikes, whatever value happens"
+    },
+    {
+      "start": 2475.4,
+      "end": 2480.0000000000005,
+      "text": "to be on this wire at that instant, that's what's going to get stored in there."
+    },
+    {
+      "start": 2480.0000000000005,
+      "end": 2487.1200000000003,
+      "text": "And so the sort of the challenge here is like, I would like to have my clock speed run"
+    },
+    {
+      "start": 2487.12,
+      "end": 2490.7599999999998,
+      "text": "as fast as possible, because if I can run at two gigahertz, I can get twice as many"
+    },
+    {
+      "start": 2490.7599999999998,
+      "end": 2496.16,
+      "text": "operations done per second, then if I run at one gigahertz."
+    },
+    {
+      "start": 2496.16,
+      "end": 2501.16,
+      "text": "But what that ends up meaning is that I am very sensitive to the delay through this cloud"
+    },
+    {
+      "start": 2501.16,
+      "end": 2506.8599999999997,
+      "text": "of logic, because any computation that is going to happen in here needs to sort of finish"
+    },
+    {
+      "start": 2506.8599999999997,
+      "end": 2510.2799999999997,
+      "text": "before the next cross cycle hits."
+    },
+    {
+      "start": 2510.28,
+      "end": 2520.1600000000003,
+      "text": "So a major point of sort of optimization on any chip then is to make this delay from"
+    },
+    {
+      "start": 2520.1600000000003,
+      "end": 2524.1200000000003,
+      "text": "here as short as possible."
+    },
+    {
+      "start": 2524.1200000000003,
+      "end": 2525.1200000000003,
+      "text": "Interesting."
+    },
+    {
+      "start": 2525.1200000000003,
+      "end": 2533.52,
+      "text": "And is there ever, because the constraint here seems to be that if you add too much logic,"
+    },
+    {
+      "start": 2533.52,
+      "end": 2538.6400000000003,
+      "text": "then you might risk missing the clock cycle, but if you don't add enough, then you're"
+    },
+    {
+      "start": 2538.64,
+      "end": 2542.7599999999998,
+      "text": "leaving potential compute on the table."
+    },
+    {
+      "start": 2542.7599999999998,
+      "end": 2550.0,
+      "text": "Is there ever a situation where you're like, you take a probabilistic chance that a compute"
+    },
+    {
+      "start": 2550.0,
+      "end": 2555.12,
+      "text": "computation finishes, or is it just like, no, either it's going to finish by clock cycle"
+    },
+    {
+      "start": 2555.12,
+      "end": 2556.12,
+      "text": "or not?"
+    },
+    {
+      "start": 2556.12,
+      "end": 2557.12,
+      "text": "Yeah."
+    },
+    {
+      "start": 2557.12,
+      "end": 2561.56,
+      "text": "In standard chip design, you margin it such that, I mean, there is a probability, but it's"
+    },
+    {
+      "start": 2561.56,
+      "end": 2565.6,
+      "text": "like many, many standard deviations, like why are you standing deviations out such that"
+    },
+    {
+      "start": 2565.6,
+      "end": 2571.8399999999997,
+      "text": "for all intensive purposes, it is a reliable part, it will always meet the clock."
+    },
+    {
+      "start": 2571.8399999999997,
+      "end": 2573.52,
+      "text": "There are some weird exceptions to that."
+    },
+    {
+      "start": 2573.52,
+      "end": 2576.72,
+      "text": "There are clock domain crossings where you go from one clock to the other clock, and then"
+    },
+    {
+      "start": 2576.72,
+      "end": 2580.24,
+      "text": "you actually do have to reason about this probability, but interesting."
+    },
+    {
+      "start": 2580.24,
+      "end": 2586.0,
+      "text": "In the main path, you just, like, you margin it such that you'll get there, like 25% of"
+    },
+    {
+      "start": 2586.0,
+      "end": 2589.2799999999997,
+      "text": "the clock cycle in advance, so that it's very unlikely."
+    },
+    {
+      "start": 2589.28,
+      "end": 2599.92,
+      "text": "In this clock, where the clock synchronize, I guess, where the registers are, this is"
+    },
+    {
+      "start": 2599.92,
+      "end": 2602.32,
+      "text": "not something you determine as a chip designer."
+    },
+    {
+      "start": 2602.32,
+      "end": 2608.2000000000003,
+      "text": "This is sort of just like an artifact of, hey, I want whatever sequence of logic, and then"
+    },
+    {
+      "start": 2608.2000000000003,
+      "end": 2613.6800000000003,
+      "text": "the software you use to convert your very log into the thing you send to TSMC, that just"
+    },
+    {
+      "start": 2613.6800000000003,
+      "end": 2618.5600000000004,
+      "text": "determines, like, hey, in order to make this work, you got to put a register here and here"
+    },
+    {
+      "start": 2618.56,
+      "end": 2624.72,
+      "text": "to make sure that there's no one step that is too long, such as it makes the whole clock"
+    },
+    {
+      "start": 2624.72,
+      "end": 2627.36,
+      "text": "cycle of the entire chip longer than it has to be."
+    },
+    {
+      "start": 2627.36,
+      "end": 2631.44,
+      "text": "Yeah, so this is actually a huge part of the work of designing a chip, actually, is inserting"
+    },
+    {
+      "start": 2631.44,
+      "end": 2632.44,
+      "text": "them."
+    },
+    {
+      "start": 2632.44,
+      "end": 2636.88,
+      "text": "So it is done in a combination of manually and automatically, so, I mean, like, just to"
+    },
+    {
+      "start": 2636.88,
+      "end": 2642.32,
+      "text": "show you the very dumb version of what you can do here, you can take this logic and split"
+    },
+    {
+      "start": 2642.32,
+      "end": 2643.32,
+      "text": "it in half."
+    },
+    {
+      "start": 2643.32,
+      "end": 2650.1200000000003,
+      "text": "So, like, say, actually, instead of just one part of logic, I'm going to have two smaller"
+    },
+    {
+      "start": 2650.1200000000003,
+      "end": 2658.48,
+      "text": "clouds of logic, which do the same thing, but split them up by a register, right, feeding"
+    },
+    {
+      "start": 2658.48,
+      "end": 2665.2400000000002,
+      "text": "in like this, and this has, like, if you split it, like, in the middle, you can hit twice"
+    },
+    {
+      "start": 2665.2400000000002,
+      "end": 2666.2400000000002,
+      "text": "the clock frequency."
+    },
+    {
+      "start": 2666.2400000000002,
+      "end": 2667.2400000000002,
+      "text": "That's great."
+    },
+    {
+      "start": 2667.2400000000002,
+      "end": 2670.84,
+      "text": "You get twice the performance at the cost of this extra register, and so, at the cost"
+    },
+    {
+      "start": 2670.84,
+      "end": 2672.6800000000003,
+      "text": "of some more storage."
+    },
+    {
+      "start": 2672.6800000000003,
+      "end": 2675.6000000000004,
+      "text": "And so, stepping back, why do we need to synchronize the whole chip?"
+    },
+    {
+      "start": 2675.6000000000004,
+      "end": 2678.94,
+      "text": "Like, if you have, like, if you imagine playing factorial or something, there's no, like,"
+    },
+    {
+      "start": 2678.94,
+      "end": 2679.94,
+      "text": "global clock cycle."
+    },
+    {
+      "start": 2679.94,
+      "end": 2683.04,
+      "text": "It's just, shit is done when it's done, there's iron on the plate, you can take it if you"
+    },
+    {
+      "start": 2683.04,
+      "end": 2684.04,
+      "text": "want."
+    },
+    {
+      "start": 2684.04,
+      "end": 2685.04,
+      "text": "Yeah."
+    },
+    {
+      "start": 2685.04,
+      "end": 2691.08,
+      "text": "So, taking that analogy, the thing that you need to be mindful of is if I've got two different"
+    },
+    {
+      "start": 2691.08,
+      "end": 2696.88,
+      "text": "pads through some logic, so I have to do a computation like F here, and then computation"
+    },
+    {
+      "start": 2696.88,
+      "end": 2703.6,
+      "text": "G here, and then they're going to come and meet for computation H somewhere here."
+    },
+    {
+      "start": 2703.6,
+      "end": 2710.54,
+      "text": "And so, there's going to be manufacturing variance here."
+    },
+    {
+      "start": 2710.54,
+      "end": 2713.88,
+      "text": "In some chips, F will take a little longer, maybe in some chips, G will take a little"
+    },
+    {
+      "start": 2713.88,
+      "end": 2714.88,
+      "text": "bit longer."
+    },
+    {
+      "start": 2714.88,
+      "end": 2719.6400000000003,
+      "text": "And so, if I've got some signal that's propagating through here, and the result from F and"
+    },
+    {
+      "start": 2719.6400000000003,
+      "end": 2724.48,
+      "text": "G have to sort of meet up at H, what can, the thing that can go wrong is that F can"
+    },
+    {
+      "start": 2724.48,
+      "end": 2729.44,
+      "text": "get there early, and it meets like the previous value of G, or the next value of G, or something"
+    },
+    {
+      "start": 2729.44,
+      "end": 2730.44,
+      "text": "like that."
+    },
+    {
+      "start": 2730.44,
+      "end": 2731.64,
+      "text": "And A actually needs to know when to start."
+    },
+    {
+      "start": 2731.64,
+      "end": 2732.64,
+      "text": "Exactly."
+    },
+    {
+      "start": 2732.64,
+      "end": 2738.08,
+      "text": "Like, when, when has this next iteration of, and so this explains why different chips made"
+    },
+    {
+      "start": 2738.08,
+      "end": 2746.56,
+      "text": "at the same process node, the same like TSMC technology can have different clock cycles."
+    },
+    {
+      "start": 2746.56,
+      "end": 2747.56,
+      "text": "They go, yeah."
+    },
+    {
+      "start": 2747.56,
+      "end": 2752.96,
+      "text": "Two chips made at three nanometer, right, a different clock cycles based on whether they were able"
+    },
+    {
+      "start": 2752.96,
+      "end": 2759.96,
+      "text": "to optimize, making sure that like, there's no one critical path that is so long that,"
+    },
+    {
+      "start": 2759.96,
+      "end": 2761.76,
+      "text": "it's those down the whole chips clock cycle."
+    },
+    {
+      "start": 2761.76,
+      "end": 2762.76,
+      "text": "That's right."
+    },
+    {
+      "start": 2762.76,
+      "end": 2767.76,
+      "text": "This optimization that I showed here, this is just the, this is sort of pipeline register"
+    },
+    {
+      "start": 2767.76,
+      "end": 2768.76,
+      "text": "insertion, it's cold."
+    },
+    {
+      "start": 2768.76,
+      "end": 2769.76,
+      "text": "Yeah."
+    },
+    {
+      "start": 2769.76,
+      "end": 2771.88,
+      "text": "We've inserted in the middle of the pipeline register here."
+    },
+    {
+      "start": 2771.88,
+      "end": 2776.36,
+      "text": "This is a sort of pure trade off between clock speed and an area."
+    },
+    {
+      "start": 2776.36,
+      "end": 2777.36,
+      "text": "Yeah."
+    },
+    {
+      "start": 2777.36,
+      "end": 2779.12,
+      "text": "This is the easy case."
+    },
+    {
+      "start": 2779.12,
+      "end": 2785.3199999999997,
+      "text": "There is a harder case, too, which is sort of drawn it as a pipeline of logic here."
+    },
+    {
+      "start": 2785.3199999999997,
+      "end": 2792.24,
+      "text": "But in other cases, you may have some calculation which actually feeds back in on itself."
+    },
+    {
+      "start": 2792.24,
+      "end": 2798.4,
+      "text": "So it runs some function f and then writes back to itself like this."
+    },
+    {
+      "start": 2798.4,
+      "end": 2801.92,
+      "text": "So for example, this might be this addition, like you've got some number that you're adding"
+    },
+    {
+      "start": 2801.92,
+      "end": 2804.12,
+      "text": "into every clock cycle."
+    },
+    {
+      "start": 2804.12,
+      "end": 2813.44,
+      "text": "And so this could be like a plus where adding in some number every clock cycle."
+    },
+    {
+      "start": 2813.44,
+      "end": 2818.56,
+      "text": "So this, like this little circuit, essentially it's just going to solve all of the numbers"
+    },
+    {
+      "start": 2818.56,
+      "end": 2820.88,
+      "text": "that you've presented on different clock cycles."
+    },
+    {
+      "start": 2820.88,
+      "end": 2826.68,
+      "text": "And the challenge is if this plus takes too long, what can I do if I like split it in,"
+    },
+    {
+      "start": 2826.68,
+      "end": 2832.04,
+      "text": "if I try and put a pipeline register like right in the middle of it, like here in the"
+    },
+    {
+      "start": 2832.04,
+      "end": 2838.16,
+      "text": "middle of it, this will end up changing the computation that's done."
+    },
+    {
+      "start": 2838.16,
+      "end": 2842.6,
+      "text": "Instead of forming a running sum of everything that comes here, I will actually have two"
+    },
+    {
+      "start": 2842.6,
+      "end": 2843.6,
+      "text": "different running sums."
+    },
+    {
+      "start": 2843.6,
+      "end": 2848.7599999999998,
+      "text": "I'll end up having a running sum of the even numbers and a running sum of the odd numbers."
+    },
+    {
+      "start": 2848.7599999999998,
+      "end": 2855.24,
+      "text": "So sort of this constraint where I have a loop in my logic, which all chips have somewhere,"
+    },
+    {
+      "start": 2855.24,
+      "end": 2859.36,
+      "text": "this is actually the thing that is the hardest thing to address and sets the clock cycle."
+    },
+    {
+      "start": 2859.36,
+      "end": 2861.76,
+      "text": "I don't understand why it would be a problem to have that, or I'm not sure even what"
+    },
+    {
+      "start": 2861.76,
+      "end": 2867.2000000000003,
+      "text": "it would mean to have a register there, because it's a sort of atomic operation, right?"
+    },
+    {
+      "start": 2867.2000000000003,
+      "end": 2868.2000000000003,
+      "text": "Yeah."
+    },
+    {
+      "start": 2868.2000000000003,
+      "end": 2869.7200000000003,
+      "text": "Well, so plus is not really atomic."
+    },
+    {
+      "start": 2869.7200000000003,
+      "end": 2871.7200000000003,
+      "text": "Like I think as we just demonstrated."
+    },
+    {
+      "start": 2871.7200000000003,
+      "end": 2873.88,
+      "text": "Yeah, it took a whole lot of work to do an estimation."
+    },
+    {
+      "start": 2873.88,
+      "end": 2877.56,
+      "text": "And so like you can take the early parts of that work and then stick a register in the"
+    },
+    {
+      "start": 2877.56,
+      "end": 2879.56,
+      "text": "middle and then take the late parts of that work."
+    },
+    {
+      "start": 2879.56,
+      "end": 2880.56,
+      "text": "Yeah."
+    },
+    {
+      "start": 2880.56,
+      "end": 2887.04,
+      "text": "And I guess it's then up to CTSMC offers a PDK which says that I say here's the primitives"
+    },
+    {
+      "start": 2887.04,
+      "end": 2892.36,
+      "text": "of logic that we can grant you in the chip."
+    },
+    {
+      "start": 2892.36,
+      "end": 2898.2799999999997,
+      "text": "And it's up to them to determine that no primitive is bigger than like the clock cycle."
+    },
+    {
+      "start": 2898.2799999999997,
+      "end": 2901.36,
+      "text": "They're hoping a process node targets."
+    },
+    {
+      "start": 2901.36,
+      "end": 2903.92,
+      "text": "But other than that, is there like, what further optimize it?"
+    },
+    {
+      "start": 2903.92,
+      "end": 2910.64,
+      "text": "Can't you just say like, hey, here's all the primitives from TSMC and keep adding registers"
+    },
+    {
+      "start": 2910.64,
+      "end": 2914.2,
+      "text": "in between the primitives as much as this is needed until you get to your desired clock"
+    },
+    {
+      "start": 2914.2,
+      "end": 2915.2,
+      "text": "cycle?"
+    },
+    {
+      "start": 2915.2,
+      "end": 2916.2,
+      "text": "Yeah."
+    },
+    {
+      "start": 2916.2000000000003,
+      "end": 2918.44,
+      "text": "Like the chip architect said the clock cycle."
+    },
+    {
+      "start": 2918.44,
+      "end": 2924.6000000000004,
+      "text": "So just for one example, the primitives you get from TSMC are on the order of like"
+    },
+    {
+      "start": 2924.6000000000004,
+      "end": 2927.8,
+      "text": "handgates or full letters."
+    },
+    {
+      "start": 2927.8,
+      "end": 2933.92,
+      "text": "They depends a lot on voltage and frequent and which library you choose and so on."
+    },
+    {
+      "start": 2933.92,
+      "end": 2939.2400000000002,
+      "text": "But generally they, you can typically have about like 10 or 20 or 30 of these in a clock"
+    },
+    {
+      "start": 2939.2400000000002,
+      "end": 2940.84,
+      "text": "cycle sequentially."
+    },
+    {
+      "start": 2940.84,
+      "end": 2945.8,
+      "text": "So these primitives are very, very fast like 10 picker seconds or something like that."
+    },
+    {
+      "start": 2945.8,
+      "end": 2951.4,
+      "text": "And so as a logic design, I mean, like in principle, if you literally just had like,"
+    },
+    {
+      "start": 2951.4,
+      "end": 2956.88,
+      "text": "like register and then and gate kind of in a loop like that, you could get an insanely"
+    },
+    {
+      "start": 2956.88,
+      "end": 2962.2400000000002,
+      "text": "fast clock speed like more than four or five, six gigahertz and they like that."
+    },
+    {
+      "start": 2962.2400000000002,
+      "end": 2968.36,
+      "text": "But if you take this, this like really sort of like simple circuit and you look at the"
+    },
+    {
+      "start": 2968.36,
+      "end": 2973.7200000000003,
+      "text": "area you're spending here, like, this is maybe like one, I mean, this is called one gate"
+    },
+    {
+      "start": 2973.7200000000003,
+      "end": 2975.44,
+      "text": "equivalent in size."
+    },
+    {
+      "start": 2975.44,
+      "end": 2979.6000000000004,
+      "text": "So like, you know, the one in area and this thing is like unit of eight in area or something"
+    },
+    {
+      "start": 2979.6000000000004,
+      "end": 2980.6000000000004,
+      "text": "like that."
+    },
+    {
+      "start": 2980.6000000000004,
+      "end": 2985.0800000000004,
+      "text": "And so like this is just all, again, almost all of your cost is being this like synchronization"
+    },
+    {
+      "start": 2985.0800000000004,
+      "end": 2988.0400000000004,
+      "text": "or communication cost compared to the actual logic."
+    },
+    {
+      "start": 2988.0400000000004,
+      "end": 2992.44,
+      "text": "And so, so this would be a case where you've gone too far, you've made your clock speed"
+    },
+    {
+      "start": 2992.44,
+      "end": 2997.2000000000003,
+      "text": "really, really fast at the cost of spending almost all of your area on, right, on, on, on"
+    },
+    {
+      "start": 2997.2000000000003,
+      "end": 2998.2000000000003,
+      "text": "pipeline registers."
+    },
+    {
+      "start": 2998.2000000000003,
+      "end": 2999.2000000000003,
+      "text": "Interesting."
+    },
+    {
+      "start": 2999.2000000000003,
+      "end": 3004.0400000000004,
+      "text": "So what you're hinting at is a dynamic where you can have really fast clock speed, but"
+    },
+    {
+      "start": 3004.0400000000004,
+      "end": 3005.76,
+      "text": "you're not getting that much work done."
+    },
+    {
+      "start": 3005.76,
+      "end": 3006.76,
+      "text": "Yeah."
+    },
+    {
+      "start": 3006.76,
+      "end": 3007.76,
+      "text": "Yeah."
+    },
+    {
+      "start": 3007.76,
+      "end": 3012.8,
+      "text": "And so you can have like low latency, but, but low bandwidth or throughput rather."
+    },
+    {
+      "start": 3012.8,
+      "end": 3013.8,
+      "text": "Yeah."
+    },
+    {
+      "start": 3013.8,
+      "end": 3017.6800000000003,
+      "text": "The, it has your throughput in fact, because like, like the, the throughput of your"
+    },
+    {
+      "start": 3017.6800000000003,
+      "end": 3022.5200000000004,
+      "text": "chip, you can think of as the product of how much I can get down per clock cycle, which"
+    },
+    {
+      "start": 3022.5200000000004,
+      "end": 3026.2400000000002,
+      "text": "is based on this area efficiency thing, times how many clocks I get per second."
+    },
+    {
+      "start": 3026.2400000000002,
+      "end": 3028.92,
+      "text": "This is, this is actually so similar to the thing we're discussing last time about,"
+    },
+    {
+      "start": 3028.92,
+      "end": 3036.76,
+      "text": "like batch size, where if you have a low batch size, then you can, anyone user can receive"
+    },
+    {
+      "start": 3036.76,
+      "end": 3042.84,
+      "text": "their next token really fast, but the total number of tokens at a process and say an"
+    },
+    {
+      "start": 3042.84,
+      "end": 3045.4,
+      "text": "outward will be kind of lower than could otherwise be."
+    },
+    {
+      "start": 3045.4,
+      "end": 3046.4,
+      "text": "Yeah."
+    },
+    {
+      "start": 3046.4,
+      "end": 3047.4,
+      "text": "Exactly."
+    },
+    {
+      "start": 3047.4,
+      "end": 3049.2000000000003,
+      "text": "You get, you get less parallelism out if you, if you drive your clock speed up."
+    },
+    {
+      "start": 3049.2000000000003,
+      "end": 3050.2000000000003,
+      "text": "I see."
+    },
+    {
+      "start": 3050.2000000000003,
+      "end": 3053.64,
+      "text": "Language models are starting to compete against the best human forecasters."
+    },
+    {
+      "start": 3053.64,
+      "end": 3058.84,
+      "text": "I sat down with two senior Jane Streeters, Ron Minsky and Dan Ponte Corvo and asked,"
+    },
+    {
+      "start": 3058.84,
+      "end": 3061.32,
+      "text": "at some point, this AI just do what Jane Street does."
+    },
+    {
+      "start": 3061.32,
+      "end": 3064.96,
+      "text": "There's a world that we should take seriously, where, you know, we're going to build large"
+    },
+    {
+      "start": 3064.96,
+      "end": 3069.6400000000003,
+      "text": "language models or some other AI systems that are like strictly smarter than all humans"
+    },
+    {
+      "start": 3069.6400000000003,
+      "end": 3073.48,
+      "text": "on the planet and more capable at all cognitive tasks."
+    },
+    {
+      "start": 3073.48,
+      "end": 3079.28,
+      "text": "Trading in particular feels to me as like kind of AGI complete, sort of like NP complete,"
+    },
+    {
+      "start": 3079.28,
+      "end": 3085.6800000000003,
+      "text": "because at the end of the day, trading involves figuring out what things are worth, which"
+    },
+    {
+      "start": 3085.6800000000003,
+      "end": 3087.7200000000003,
+      "text": "means making predictions about the future."
+    },
+    {
+      "start": 3087.7200000000003,
+      "end": 3089.4800000000005,
+      "text": "Jane Street isn't betting against AI."
+    },
+    {
+      "start": 3089.4800000000005,
+      "end": 3093.0800000000004,
+      "text": "They just signed a six million dollar compute deal, but Ron's view is at the edge keeps"
+    },
+    {
+      "start": 3093.0800000000004,
+      "end": 3094.0800000000004,
+      "text": "moving."
+    },
+    {
+      "start": 3094.0800000000004,
+      "end": 3098.5600000000004,
+      "text": "I have never been more desperate to hire more engineers and more traders than I am today."
+    },
+    {
+      "start": 3098.5600000000004,
+      "end": 3101.4800000000005,
+      "text": "You know, you have the usual thing of like the other hard parts that we don't yet know"
+    },
+    {
+      "start": 3101.4800000000005,
+      "end": 3102.4800000000005,
+      "text": "how to automate."
+    },
+    {
+      "start": 3102.4800000000005,
+      "end": 3105.1600000000003,
+      "text": "Well, that ends up being where the competitive edge lies."
+    },
+    {
+      "start": 3105.1600000000003,
+      "end": 3109.96,
+      "text": "You can find these open positions and watch the full interview at jainstreet.com slash"
+    },
+    {
+      "start": 3109.96,
+      "end": 3110.96,
+      "text": "the work hash."
+    },
+    {
+      "start": 3110.96,
+      "end": 3111.96,
+      "text": "Okay."
+    },
+    {
+      "start": 3112.2,
+      "end": 3118.48,
+      "text": "So I remember talking to an FPGA engineer at jainstreet Clark, who actually helped me"
+    },
+    {
+      "start": 3118.48,
+      "end": 3122.0,
+      "text": "prepare for the previous interview we did together."
+    },
+    {
+      "start": 3122.0,
+      "end": 3123.68,
+      "text": "And he was explaining why they use FPGA's."
+    },
+    {
+      "start": 3123.68,
+      "end": 3132.08,
+      "text": "And I imagine that for high frequency trading, throughput is less important than latency"
+    },
+    {
+      "start": 3132.08,
+      "end": 3136.68,
+      "text": "and so having very specific control over the clock cycle in deterministic ways, the most"
+    },
+    {
+      "start": 3136.68,
+      "end": 3138.68,
+      "text": "important thing."
+    },
+    {
+      "start": 3139.0000000000005,
+      "end": 3144.6400000000003,
+      "text": "Maybe it'd be interesting to talk about how you why you can't just achieve that within"
+    },
+    {
+      "start": 3144.6400000000003,
+      "end": 3152.6400000000003,
+      "text": "ASIC or why FPGA is the why you might use an FPGA to have deterministic clock cycles"
+    },
+    {
+      "start": 3152.6400000000003,
+      "end": 3154.6400000000003,
+      "text": "for like high frequency trading."
+    },
+    {
+      "start": 3154.6400000000003,
+      "end": 3155.6400000000003,
+      "text": "Yeah."
+    },
+    {
+      "start": 3155.6400000000003,
+      "end": 3159.0400000000004,
+      "text": "So, I mean, firstly, like let's consider the sort of the business case for an FPGA versus"
+    },
+    {
+      "start": 3159.0400000000004,
+      "end": 3168.2400000000002,
+      "text": "an ASIC, FPGA is an ASICs use largely the same sort of conceptual model, which is that"
+    },
+    {
+      "start": 3168.2400000000002,
+      "end": 3175.2400000000002,
+      "text": "I have a series of gates built from ANS or six hours, those like very small primitives"
+    },
+    {
+      "start": 3175.2400000000002,
+      "end": 3179.84,
+      "text": "connected together with a fixed clock cycle and connected together with wires that are"
+    },
+    {
+      "start": 3179.84,
+      "end": 3181.2000000000003,
+      "text": "running in a fixed clock cycle."
+    },
+    {
+      "start": 3181.2000000000003,
+      "end": 3185.6000000000004,
+      "text": "So anything you can express in an FPGA, you can express in an ASIC too."
+    },
+    {
+      "start": 3185.6000000000004,
+      "end": 3190.0800000000004,
+      "text": "And it'll be about an order of magnitude cheaper and like better energy efficiency on"
+    },
+    {
+      "start": 3190.0800000000004,
+      "end": 3192.88,
+      "text": "an ASIC than an FPGA."
+    },
+    {
+      "start": 3192.88,
+      "end": 3198.4,
+      "text": "So the trade off is that the first FPGA costs you $10,000, whereas the first ASIC you"
+    },
+    {
+      "start": 3198.4,
+      "end": 3203.84,
+      "text": "make costs you $30 million because it requires an entire tape out."
+    },
+    {
+      "start": 3203.84,
+      "end": 3208.12,
+      "text": "So sort of the business use case for an FPGA would be that I want something that has this"
+    },
+    {
+      "start": 3208.12,
+      "end": 3218.88,
+      "text": "very deterministic latency and fast runtime and high parallelism, but I'm going to change"
+    },
+    {
+      "start": 3218.88,
+      "end": 3219.88,
+      "text": "it very frequently."
+    },
+    {
+      "start": 3219.88,
+      "end": 3221.7200000000003,
+      "text": "Change what I do every month for something like that."
+    },
+    {
+      "start": 3221.7200000000003,
+      "end": 3225.0000000000005,
+      "text": "So then I don't want to pay the tape back off every time."
+    },
+    {
+      "start": 3225.0000000000005,
+      "end": 3229.76,
+      "text": "Now how does an FPGA actually implement, it sort of like it emulates the ASIC programming"
+    },
+    {
+      "start": 3229.76,
+      "end": 3234.96,
+      "text": "model but in a fixed piece of hardware and so how does that work actually."
+    },
+    {
+      "start": 3234.96,
+      "end": 3245.4,
+      "text": "So what it has at the base is, it's got the two components we just talked about."
+    },
+    {
+      "start": 3245.4,
+      "end": 3249.52,
+      "text": "It's got these registers as storage devices."
+    },
+    {
+      "start": 3249.52,
+      "end": 3256.84,
+      "text": "And then it's got these are called lots, look up tables, which actually provide all of"
+    },
+    {
+      "start": 3256.84,
+      "end": 3259.04,
+      "text": "the gates."
+    },
+    {
+      "start": 3259.04,
+      "end": 3265.6,
+      "text": "And then we're going to see even the sort of the third component, we then have a swarm"
+    },
+    {
+      "start": 3265.6,
+      "end": 3275.72,
+      "text": "of these registers and lots."
+    },
+    {
+      "start": 3275.72,
+      "end": 3280.08,
+      "text": "And all of these are available and then they are connected by sort of this big set of sort"
+    },
+    {
+      "start": 3280.08,
+      "end": 3287.3199999999997,
+      "text": "of marxas, so in front of every single one of these, we've got something like one of"
+    },
+    {
+      "start": 3287.3199999999997,
+      "end": 3292.7799999999997,
+      "text": "these marxas which selects one input from everywhere else, sort of selecting from all of these"
+    },
+    {
+      "start": 3292.78,
+      "end": 3293.78,
+      "text": "things."
+    },
+    {
+      "start": 3293.78,
+      "end": 3302.9,
+      "text": "You know, we've got a whole bunch of different options feeding into all of these things."
+    },
+    {
+      "start": 3302.9,
+      "end": 3311.46,
+      "text": "So what this allows is essentially a, when I program my FPGA, I can say that I'm going"
+    },
+    {
+      "start": 3311.46,
+      "end": 3316.2200000000003,
+      "text": "to take all of these components and I'm going to sort of superimpose on top of this a particular"
+    },
+    {
+      "start": 3316.2200000000003,
+      "end": 3321.8,
+      "text": "wiring which like goes through this lot and then feeds into this lot and then goes"
+    },
+    {
+      "start": 3321.8,
+      "end": 3326.6600000000003,
+      "text": "into this register and then feeds into this lot and something like that."
+    },
+    {
+      "start": 3326.6600000000003,
+      "end": 3333.1200000000003,
+      "text": "So what I've drawn in orange is like how you like FPGA means field programmable Gatoray."
+    },
+    {
+      "start": 3333.1200000000003,
+      "end": 3336.6800000000003,
+      "text": "This is the, the orange is what has been programmed in the field, whereas the white is all"
+    },
+    {
+      "start": 3336.6800000000003,
+      "end": 3340.48,
+      "text": "of the wires that must exist in the FPGA in order to actually take, to make the device"
+    },
+    {
+      "start": 3340.48,
+      "end": 3341.48,
+      "text": "in the first place."
+    },
+    {
+      "start": 3341.48,
+      "end": 3344.84,
+      "text": "What does it mean to be programmed to feel like programmed in the field?"
+    },
+    {
+      "start": 3344.84,
+      "end": 3347.6800000000003,
+      "text": "So like the device has been deployed in a data center, it's sitting in the field and then"
+    },
+    {
+      "start": 3347.6800000000003,
+      "end": 3348.6800000000003,
+      "text": "you can come and program."
+    },
+    {
+      "start": 3348.6800000000003,
+      "end": 3354.1600000000003,
+      "text": "Not field is like electric field, no field is in like out there in the world, okay?"
+    },
+    {
+      "start": 3354.1600000000003,
+      "end": 3361.92,
+      "text": "And so if I see, look at the, how the, the field programming comes out of the first look"
+    },
+    {
+      "start": 3361.92,
+      "end": 3365.28,
+      "text": "up table and goes in a second one."
+    },
+    {
+      "start": 3365.28,
+      "end": 3370.76,
+      "text": "How is it, how, yeah, how, like where, where the wires that may that happen, I guess, yeah."
+    },
+    {
+      "start": 3370.76,
+      "end": 3375.6000000000004,
+      "text": "So I, I got a little bit like lazy and drawing all of these, every single device here has"
+    },
+    {
+      "start": 3375.6,
+      "end": 3385.56,
+      "text": "a MUX sitting in front of it, which can select from all of the like nearby, like circuits"
+    },
+    {
+      "start": 3385.56,
+      "end": 3387.88,
+      "text": "that are available."
+    },
+    {
+      "start": 3387.88,
+      "end": 3395.68,
+      "text": "And so the actual configuration of the FPGA is like amounts to it is the MUX control."
+    },
+    {
+      "start": 3395.68,
+      "end": 3400.48,
+      "text": "So like we, in this MUX here, we have the data inputs and then we have like the control"
+    },
+    {
+      "start": 3400.48,
+      "end": 3401.48,
+      "text": "that selects."
+    },
+    {
+      "start": 3401.88,
+      "end": 3406.72,
+      "text": "And so like there's a little storage device sitting next to every single one of these"
+    },
+    {
+      "start": 3409.44,
+      "end": 3412.88,
+      "text": "MUXs saying, this is where you're going to source your input from."
+    },
+    {
+      "start": 3412.88,
+      "end": 3413.88,
+      "text": "Right."
+    },
+    {
+      "start": 3413.88,
+      "end": 3418.28,
+      "text": "And so programming it consists of like configuring every single one of these MUXs."
+    },
+    {
+      "start": 3418.28,
+      "end": 3419.08,
+      "text": "So that makes sense."
+    },
+    {
+      "start": 3419.08,
+      "end": 3420.56,
+      "text": "What is happening so the look up table?"
+    },
+    {
+      "start": 3420.56,
+      "end": 3421.2400000000002,
+      "text": "Yeah."
+    },
+    {
+      "start": 3421.2400000000002,
+      "end": 3426.12,
+      "text": "So the purpose of the look up table, so it's going to also have a little bit of control feeding"
+    },
+    {
+      "start": 3426.12,
+      "end": 3427.64,
+      "text": "telling it what to do as well."
+    },
+    {
+      "start": 3427.7599999999998,
+      "end": 3433.08,
+      "text": "The purpose of the look up table is to function to be able to configurably take the role of"
+    },
+    {
+      "start": 3433.08,
+      "end": 3437.68,
+      "text": "an AND gate or gate, XOR, any of those different things."
+    },
+    {
+      "start": 3437.68,
+      "end": 3441.92,
+      "text": "So there's many ways you could consider doing that."
+    },
+    {
+      "start": 3441.92,
+      "end": 3450.92,
+      "text": "The way it is done in sort of traditional FPGA is to say it will support."
+    },
+    {
+      "start": 3450.92,
+      "end": 3461.52,
+      "text": "So it will be a look up table, it will have four bits of input, one bit of output."
+    },
+    {
+      "start": 3461.52,
+      "end": 3463.6800000000003,
+      "text": "How many different functions are there from four bits to one bit?"
+    },
+    {
+      "start": 3463.6800000000003,
+      "end": 3466.4,
+      "text": "There are 16 different functions."
+    },
+    {
+      "start": 3466.4,
+      "end": 3473.12,
+      "text": "And so you can actually just tabulate this as like 16 different numbers."
+    },
+    {
+      "start": 3473.12,
+      "end": 3480.48,
+      "text": "You go to table of 011001 16 entries."
+    },
+    {
+      "start": 3480.48,
+      "end": 3487.88,
+      "text": "And so what it does is this table is stored in this blue configuration a bit."
+    },
+    {
+      "start": 3487.88,
+      "end": 3495.08,
+      "text": "And then it views these four bits as binary, looks up the relevant row of the table and"
+    },
+    {
+      "start": 3495.08,
+      "end": 3499.04,
+      "text": "emits that bit."
+    },
+    {
+      "start": 3499.04,
+      "end": 3501.88,
+      "text": "So this is a truth table view of look up tables, essentially."
+    },
+    {
+      "start": 3501.88,
+      "end": 3502.88,
+      "text": "Okay."
+    },
+    {
+      "start": 3502.88,
+      "end": 3507.2400000000002,
+      "text": "So the look up table, if you think of an AND gate or gate, NOR gate, XOR gate, these"
+    },
+    {
+      "start": 3507.2400000000002,
+      "end": 3512.96,
+      "text": "are all like take as input, those are like two input functions, sometimes we have like"
+    },
+    {
+      "start": 3512.96,
+      "end": 3517.8,
+      "text": "more complicated, like a three input function would be a three way XOR or a four way XOR."
+    },
+    {
+      "start": 3517.8,
+      "end": 3522.2400000000002,
+      "text": "And in this case, how many, it just depends how big it is, but typical size for lots"
+    },
+    {
+      "start": 3522.2400000000002,
+      "end": 3528.76,
+      "text": "is four input, which is sort of just a sweet spot between, there's another computer communication"
+    },
+    {
+      "start": 3528.76,
+      "end": 3529.76,
+      "text": "trade-off like here."
+    },
+    {
+      "start": 3529.76,
+      "end": 3534.0400000000004,
+      "text": "Like if it has two few inputs, then you need to use more lots, if it is true."
+    },
+    {
+      "start": 3534.04,
+      "end": 3538.16,
+      "text": "And basically the look up table is like a truth table, it's a truth table."
+    },
+    {
+      "start": 3538.16,
+      "end": 3541.72,
+      "text": "And with a truth table, you can program in any gate you want."
+    },
+    {
+      "start": 3541.72,
+      "end": 3544.96,
+      "text": "And so it's a look up table, just thinks like a programmable gate."
+    },
+    {
+      "start": 3544.96,
+      "end": 3545.96,
+      "text": "That's right."
+    },
+    {
+      "start": 3545.96,
+      "end": 3550.36,
+      "text": "And so, I mean, one of the things you can do here is you can see why whether all the thumb"
+    },
+    {
+      "start": 3550.36,
+      "end": 3555.64,
+      "text": "that an FPGA is like an order of magnitude more expensive than an ASIC comes from, is"
+    },
+    {
+      "start": 3555.64,
+      "end": 3560.4,
+      "text": "to count how many gates would be inside this look up table."
+    },
+    {
+      "start": 3560.4,
+      "end": 3565.0,
+      "text": "So we can view this look up table essentially as one of these Marx's."
+    },
+    {
+      "start": 3565.0,
+      "end": 3570.84,
+      "text": "And so it is a Marx with has to select between 16 different values."
+    },
+    {
+      "start": 3570.84,
+      "end": 3582.6800000000003,
+      "text": "And so it is a Marx with sort of n equals 16 options, p equals 1 bits."
+    },
+    {
+      "start": 3582.6800000000003,
+      "end": 3591.0000000000005,
+      "text": "And so what we saw way earlier is that this circuit costs like n times p many gates."
+    },
+    {
+      "start": 3591.0000000000005,
+      "end": 3598.6400000000003,
+      "text": "And so it's like, so it costs like n times p equals 16 and gates."
+    },
+    {
+      "start": 3598.6400000000003,
+      "end": 3600.7200000000003,
+      "text": "And also 16 ors."
+    },
+    {
+      "start": 3600.7200000000003,
+      "end": 3602.7200000000003,
+      "text": "These are going to be in the Marx."
+    },
+    {
+      "start": 3602.7200000000003,
+      "end": 3603.7200000000003,
+      "text": "Yeah, exactly."
+    },
+    {
+      "start": 3603.7200000000003,
+      "end": 3604.7200000000003,
+      "text": "The Marx is the core."
+    },
+    {
+      "start": 3604.7200000000003,
+      "end": 3607.1600000000003,
+      "text": "The Marx that goes into the look up table."
+    },
+    {
+      "start": 3607.1600000000003,
+      "end": 3611.1200000000003,
+      "text": "So the look up table itself, you can think of as being actually a big Marx that like"
+    },
+    {
+      "start": 3611.12,
+      "end": 3614.7999999999997,
+      "text": "selects from all 16 rows down to one output."
+    },
+    {
+      "start": 3614.7999999999997,
+      "end": 3615.7999999999997,
+      "text": "Yeah, okay."
+    },
+    {
+      "start": 3615.7999999999997,
+      "end": 3616.7999999999997,
+      "text": "That is the look up table."
+    },
+    {
+      "start": 3616.7999999999997,
+      "end": 3619.72,
+      "text": "But the way you've drawn it here, there's like a Marx and then look up table."
+    },
+    {
+      "start": 3619.72,
+      "end": 3620.72,
+      "text": "It's a Marx is all the way down."
+    },
+    {
+      "start": 3620.72,
+      "end": 3623.7599999999998,
+      "text": "So I mean, there's a second Marx that is inside here."
+    },
+    {
+      "start": 3623.7599999999998,
+      "end": 3625.96,
+      "text": "This Marx is this Marx guy, okay."
+    },
+    {
+      "start": 3625.96,
+      "end": 3632.4,
+      "text": "And then the other Marx is just saying where it came from in this sort of mess of case."
+    },
+    {
+      "start": 3632.4,
+      "end": 3633.4,
+      "text": "Right."
+    },
+    {
+      "start": 3633.4,
+      "end": 3639.64,
+      "text": "And then the second Marx is, okay, now you have one value, but that value is still a four"
+    },
+    {
+      "start": 3639.64,
+      "end": 3640.64,
+      "text": "bit value."
+    },
+    {
+      "start": 3640.8799999999997,
+      "end": 3643.12,
+      "text": "Yeah, so I've selected four bits from the soup."
+    },
+    {
+      "start": 3643.12,
+      "end": 3644.12,
+      "text": "Right."
+    },
+    {
+      "start": 3644.12,
+      "end": 3647.3599999999997,
+      "text": "And then I use those four bits to select which entry in the look up table."
+    },
+    {
+      "start": 3647.3599999999997,
+      "end": 3648.3599999999997,
+      "text": "Yeah."
+    },
+    {
+      "start": 3648.3599999999997,
+      "end": 3649.3599999999997,
+      "text": "I'm going to use."
+    },
+    {
+      "start": 3649.3599999999997,
+      "end": 3650.3599999999997,
+      "text": "Right."
+    },
+    {
+      "start": 3650.3599999999997,
+      "end": 3651.3599999999997,
+      "text": "Okay."
+    },
+    {
+      "start": 3651.3599999999997,
+      "end": 3656.3199999999997,
+      "text": "So suppose in the first Marx, there's like eight nearby, eight, you're pulling from"
+    },
+    {
+      "start": 3656.3199999999997,
+      "end": 3659.6,
+      "text": "eight nearby registers as input."
+    },
+    {
+      "start": 3659.6,
+      "end": 3663.92,
+      "text": "And so that's like a total of like 32 bits going in."
+    },
+    {
+      "start": 3663.92,
+      "end": 3667.8399999999997,
+      "text": "And then out of that, four bits come out."
+    },
+    {
+      "start": 3667.84,
+      "end": 3671.2400000000002,
+      "text": "So those four bits go into the second Marx, which is inside the look up table."
+    },
+    {
+      "start": 3671.2400000000002,
+      "end": 3675.28,
+      "text": "So actually, I would say in, yeah, in this case, these registers are single bit registers."
+    },
+    {
+      "start": 3675.28,
+      "end": 3679.76,
+      "text": "So if there are eight like eight nearby registers and look up tables, then I have eight bits"
+    },
+    {
+      "start": 3679.76,
+      "end": 3682.44,
+      "text": "total coming in in nearby."
+    },
+    {
+      "start": 3682.44,
+      "end": 3685.1200000000003,
+      "text": "I select from eight down to four different values."
+    },
+    {
+      "start": 3685.1200000000003,
+      "end": 3692.6400000000003,
+      "text": "So there's actually like four different Marx's one associated with each of these input like."
+    },
+    {
+      "start": 3692.6400000000003,
+      "end": 3696.32,
+      "text": "Little Marx associated with each of these input bits, each of them is selecting one out"
+    },
+    {
+      "start": 3696.32,
+      "end": 3697.32,
+      "text": "of eight."
+    },
+    {
+      "start": 3697.32,
+      "end": 3699.52,
+      "text": "And what are those eight coming from?"
+    },
+    {
+      "start": 3699.52,
+      "end": 3701.0,
+      "text": "Nearby registers and other lots."
+    },
+    {
+      "start": 3701.0,
+      "end": 3702.76,
+      "text": "And each register is one bit."
+    },
+    {
+      "start": 3702.76,
+      "end": 3703.76,
+      "text": "Yes."
+    },
+    {
+      "start": 3703.76,
+      "end": 3704.76,
+      "text": "Yeah."
+    },
+    {
+      "start": 3704.76,
+      "end": 3712.92,
+      "text": "And so I guess AMD or whoever makes these FUG is still has to be opinionated about what"
+    },
+    {
+      "start": 3712.92,
+      "end": 3716.32,
+      "text": "register should connect to which registers."
+    },
+    {
+      "start": 3716.32,
+      "end": 3720.44,
+      "text": "And then you can program in the actual gates, but they had a wire in the connection, like"
+    },
+    {
+      "start": 3720.44,
+      "end": 3722.84,
+      "text": "the communication topology, right?"
+    },
+    {
+      "start": 3722.84,
+      "end": 3723.84,
+      "text": "Yeah."
+    },
+    {
+      "start": 3723.84,
+      "end": 3728.6800000000003,
+      "text": "So the sort of like you get flexibility in a local grain thing, there's a sort of nearby"
+    },
+    {
+      "start": 3728.6800000000003,
+      "end": 3734.04,
+      "text": "neighborhood where you can select from, but then more grossly, like more costly longer"
+    },
+    {
+      "start": 3734.04,
+      "end": 3737.28,
+      "text": "distant connections that they form an opinion on that."
+    },
+    {
+      "start": 3737.28,
+      "end": 3739.8,
+      "text": "And the reason it's 10x lower is why."
+    },
+    {
+      "start": 3739.8,
+      "end": 3745.56,
+      "text": "So if you look at the cost of like building this look up table, it's like 32 gates."
+    },
+    {
+      "start": 3745.56,
+      "end": 3746.56,
+      "text": "Yeah."
+    },
+    {
+      "start": 3746.56,
+      "end": 3750.6000000000004,
+      "text": "And then it can give me the equivalent of like what's one interesting thing I can do here,"
+    },
+    {
+      "start": 3750.6000000000004,
+      "end": 3752.4,
+      "text": "I can do a four way hand gate."
+    },
+    {
+      "start": 3752.4,
+      "end": 3757.96,
+      "text": "And so that's like I am using 32 gates of look up table to sort of implement like a"
+    },
+    {
+      "start": 3757.96,
+      "end": 3763.7400000000002,
+      "text": "four way and means like, what is a four way and I would do like and and and then end"
+    },
+    {
+      "start": 3763.7400000000002,
+      "end": 3770.28,
+      "text": "of and so to like this is a circuit that I could implement in an ASIC directly using these"
+    },
+    {
+      "start": 3770.28,
+      "end": 3775.56,
+      "text": "three and gates, but using a lot, I can also implement it, but it's going to take like"
+    },
+    {
+      "start": 3775.56,
+      "end": 3778.04,
+      "text": "these 32 gates instead of three."
+    },
+    {
+      "start": 3778.04,
+      "end": 3783.2799999999997,
+      "text": "And so the overhead is really coming from the like the fact that the look up table,"
+    },
+    {
+      "start": 3783.2799999999997,
+      "end": 3792.04,
+      "text": "the mocks in the look up table is there's a more concise way to describe a truth table"
+    },
+    {
+      "start": 3792.04,
+      "end": 3798.32,
+      "text": "than listing out every single possible combination of inputs, which is just to like write"
+    },
+    {
+      "start": 3798.32,
+      "end": 3799.32,
+      "text": "out the gate."
+    },
+    {
+      "start": 3799.32,
+      "end": 3800.32,
+      "text": "Yeah."
+    },
+    {
+      "start": 3800.32,
+      "end": 3803.52,
+      "text": "Like to like place down the polysilica and then that's right."
+    },
+    {
+      "start": 3803.52,
+      "end": 3804.52,
+      "text": "That's right."
+    },
+    {
+      "start": 3804.52,
+      "end": 3805.52,
+      "text": "Yeah."
+    },
+    {
+      "start": 3805.52,
+      "end": 3810.64,
+      "text": "An important point made to me is that the reason they prefer refugees to CPUs is because"
+    },
+    {
+      "start": 3810.64,
+      "end": 3816.12,
+      "text": "they get deterministic clock cycles, they know when a pack will come in and go out."
+    },
+    {
+      "start": 3816.12,
+      "end": 3819.68,
+      "text": "Why is it not a guarantee in CPUs?"
+    },
+    {
+      "start": 3819.68,
+      "end": 3825.6,
+      "text": "So you can actually design a CPU that has deterministic latency as well."
+    },
+    {
+      "start": 3825.6,
+      "end": 3830.64,
+      "text": "And in fact, like the processes that are inside a lot of AI chips actually also have deterministic"
+    },
+    {
+      "start": 3830.64,
+      "end": 3831.64,
+      "text": "latency too."
+    },
+    {
+      "start": 3831.64,
+      "end": 3832.64,
+      "text": "Glock has advertised this."
+    },
+    {
+      "start": 3832.64,
+      "end": 3837.2,
+      "text": "TPUs have that in the core as well."
+    },
+    {
+      "start": 3837.2,
+      "end": 3841.44,
+      "text": "The challenge is getting sort of deterministic latency and high speed at the same time."
+    },
+    {
+      "start": 3841.44,
+      "end": 3847.7999999999997,
+      "text": "And so where does the non-determinism in latency come from?"
+    },
+    {
+      "start": 3847.7999999999997,
+      "end": 3854.68,
+      "text": "Non-deterministic latency comes from specific design choices in a CPU."
+    },
+    {
+      "start": 3854.68,
+      "end": 3858.4,
+      "text": "It's actually possible to remove those design choices and make a CPU that has deterministic"
+    },
+    {
+      "start": 3858.4,
+      "end": 3860.56,
+      "text": "latency."
+    },
+    {
+      "start": 3860.56,
+      "end": 3862.04,
+      "text": "Those are not very attractive in the market."
+    },
+    {
+      "start": 3862.04,
+      "end": 3869.84,
+      "text": "And so people don't make those CPUs anymore, but actually in some sense deterministic latency"
+    },
+    {
+      "start": 3869.84,
+      "end": 3873.36,
+      "text": "is maybe a sort of a simpler designing starting point."
+    },
+    {
+      "start": 3873.36,
+      "end": 3878.52,
+      "text": "And then some chip designers have added things into it to be non-deterministic."
+    },
+    {
+      "start": 3878.52,
+      "end": 3886.48,
+      "text": "To take a concrete example of that, probably the most important example is on a CPU just"
+    },
+    {
+      "start": 3886.48,
+      "end": 3890.2400000000002,
+      "text": "like the CPU cache itself."
+    },
+    {
+      "start": 3890.2400000000002,
+      "end": 3900.98,
+      "text": "So in a CPU, you have the CPU, this is the CPU die itself, and then there is a memory"
+    },
+    {
+      "start": 3900.98,
+      "end": 3901.98,
+      "text": "off on the side."
+    },
+    {
+      "start": 3901.98,
+      "end": 3905.2400000000002,
+      "text": "This is the DDR memory off on the side."
+    },
+    {
+      "start": 3905.2400000000002,
+      "end": 3915.4,
+      "text": "And then you have a cache system here inside it is the cache that sort of remembers recent"
+    },
+    {
+      "start": 3915.4,
+      "end": 3918.1600000000003,
+      "text": "accesses to DDR and stores them."
+    },
+    {
+      "start": 3918.1600000000003,
+      "end": 3924.32,
+      "text": "And so when I'm running through my CPU instructions, every time I have an instruction that accesses"
+    },
+    {
+      "start": 3924.32,
+      "end": 3929.08,
+      "text": "memory, it first checks in cache was the data stored in cache, and then if not, it"
+    },
+    {
+      "start": 3929.08,
+      "end": 3933.48,
+      "text": "goes, it fetches out to DDR."
+    },
+    {
+      "start": 3933.48,
+      "end": 3934.84,
+      "text": "This is a huge optimization."
+    },
+    {
+      "start": 3934.84,
+      "end": 3940.12,
+      "text": "The cache is like two orders of magnitude faster than the DDR."
+    },
+    {
+      "start": 3940.12,
+      "end": 3944.52,
+      "text": "If you never use the cache, basically all programs would run 100 times slower."
+    },
+    {
+      "start": 3944.52,
+      "end": 3950.44,
+      "text": "So the presence of a cache is absolutely necessary for a CPU to run at reasonable speed."
+    },
+    {
+      "start": 3950.44,
+      "end": 3955.6,
+      "text": "But whether or not you get a cache hit is dependent on the sort of ambient environment"
+    },
+    {
+      "start": 3955.6,
+      "end": 3959.2,
+      "text": "of the CPU, like what other programs are running, what has run recently, what is the"
+    },
+    {
+      "start": 3959.2,
+      "end": 3961.64,
+      "text": "random number generator inside the cache system doing."
+    },
+    {
+      "start": 3961.64,
+      "end": 3967.4,
+      "text": "And so that is a big source of non-determinism in the runtime of a CPU."
+    },
+    {
+      "start": 3967.4,
+      "end": 3972.92,
+      "text": "So this is sort of the memory system for a CPU."
+    },
+    {
+      "start": 3972.92,
+      "end": 3977.36,
+      "text": "The big thing that you can do differently is instead of having the hardware say, I'm"
+    },
+    {
+      "start": 3977.36,
+      "end": 3983.6,
+      "text": "going to read memory and then decide whether or not it comes from cache or not, you can"
+    },
+    {
+      "start": 3983.6,
+      "end": 3986.4,
+      "text": "actually bake this in this decision into software."
+    },
+    {
+      "start": 3986.4,
+      "end": 3997.0,
+      "text": "So a different design philosophy is to, and you see this in maybe for example, TPUs."
+    },
+    {
+      "start": 3997.0,
+      "end": 4000.88,
+      "text": "The TPU instead has, I mean, I'll draw the same diagram but I'll call it a scratchpad."
+    },
+    {
+      "start": 4000.88,
+      "end": 4009.6,
+      "text": "And so the main difference is, so this would be like a TPU and then like HBM in this case"
+    },
+    {
+      "start": 4009.6,
+      "end": 4014.2000000000003,
+      "text": "rather than DDR, but it's still an off-chip memory."
+    },
+    {
+      "start": 4014.2000000000003,
+      "end": 4018.32,
+      "text": "And instead of like the software saying first access like memory and then the hardware"
+    },
+    {
+      "start": 4018.32,
+      "end": 4022.96,
+      "text": "decides, you've got some instructions that go here, this is like one kind of instruction"
+    },
+    {
+      "start": 4022.96,
+      "end": 4026.6,
+      "text": "and then a totally different kind of instruction that goes to HBM."
+    },
+    {
+      "start": 4026.6,
+      "end": 4033.24,
+      "text": "And so this style is generically known as scratchpad instead of cache."
+    },
+    {
+      "start": 4033.24,
+      "end": 4036.74,
+      "text": "The key distinction being that you have like one kind of instruction that says read or"
+    },
+    {
+      "start": 4036.74,
+      "end": 4040.7999999999997,
+      "text": "write scratchpad and a totally different instruction that says read or write HBM."
+    },
+    {
+      "start": 4040.7999999999997,
+      "end": 4047.16,
+      "text": "So there's scratchpad being the cache, yeah, this thing here is the scratchpad."
+    },
+    {
+      "start": 4047.16,
+      "end": 4053.48,
+      "text": "So stepping way back, people say computers have the, I'm going to go to John Moynihan,"
+    },
+    {
+      "start": 4053.48,
+      "end": 4059.32,
+      "text": "the Neumann architecture where there's this serial processing of information and maybe"
+    },
+    {
+      "start": 4059.32,
+      "end": 4064.44,
+      "text": "just because we've been talking about parallel accelerators, but I just don't, like the FUJ"
+    },
+    {
+      "start": 4064.44,
+      "end": 4072.44,
+      "text": "is super parallel, the, the, the kinds of AI, the TPUs are super parallel."
+    },
+    {
+      "start": 4072.44,
+      "end": 4076.08,
+      "text": "Even CPUs are super parallel if you think about all the cores they have."
+    },
+    {
+      "start": 4076.08,
+      "end": 4080.96,
+      "text": "And so is it actually, like in what sense is modern hardware actually the von Neumann architecture?"
+    },
+    {
+      "start": 4080.96,
+      "end": 4083.6,
+      "text": "Is it actually a fair way to describe modern hardware?"
+    },
+    {
+      "start": 4083.6,
+      "end": 4085.44,
+      "text": "I think it's a fair way to describe CPUs."
+    },
+    {
+      "start": 4085.44,
+      "end": 4089.2,
+      "text": "Like just the amount of parallelism, like on a CPU, the amount of parallelism you got"
+    },
+    {
+      "start": 4089.2,
+      "end": 4093.0,
+      "text": "is about 100 cores times maybe like 16 wave vector units."
+    },
+    {
+      "start": 4093.0,
+      "end": 4096.68,
+      "text": "So 106, about 1000 wave parallelism on a CPU."
+    },
+    {
+      "start": 4096.68,
+      "end": 4097.68,
+      "text": "Yeah."
+    },
+    {
+      "start": 4097.68,
+      "end": 4103.32,
+      "text": "One question is what is the, there is a die that is being used for the CPU."
+    },
+    {
+      "start": 4103.32,
+      "end": 4110.84,
+      "text": "And if there's fewer threads, just as a matter of like transistor voltages or like"
+    },
+    {
+      "start": 4110.84,
+      "end": 4114.88,
+      "text": "switching on and off, is it just that there's like literally one control flow, like a small"
+    },
+    {
+      "start": 4114.88,
+      "end": 4119.56,
+      "text": "part of the die where like voltages are switching on and off or like in what, how, how do"
+    },
+    {
+      "start": 4119.56,
+      "end": 4126.24,
+      "text": "you actually occupy the die area of a CPU if there's a, as opposed to the so few cores?"
+    },
+    {
+      "start": 4126.24,
+      "end": 4128.4400000000005,
+      "text": "Like what do you, I think there's nothing in there."
+    },
+    {
+      "start": 4128.4400000000005,
+      "end": 4131.96,
+      "text": "The cores are just much bigger and more complicated."
+    },
+    {
+      "start": 4131.96,
+      "end": 4138.18,
+      "text": "So I mean, like, so I guess we should compare like a CPU core, which takes up one 16,"
+    },
+    {
+      "start": 4138.18,
+      "end": 4143.22,
+      "text": "one hundredth of the die to like, I mean, to a lot, like a lot is just only these 16"
+    },
+    {
+      "start": 4143.22,
+      "end": 4144.22,
+      "text": "gates."
+    },
+    {
+      "start": 4144.22,
+      "end": 4150.06,
+      "text": "So like it's clear why there are so many more lots in an FPGA than cores in a CPU."
+    },
+    {
+      "start": 4150.06,
+      "end": 4156.22,
+      "text": "But then sort of maybe the, the, like why they're more CUDA cores, for example, than,"
+    },
+    {
+      "start": 4156.22,
+      "end": 4160.780000000001,
+      "text": "than CPU cores, I think would be like why, what's the difference within a CPU and a GPU"
+    },
+    {
+      "start": 4160.780000000001,
+      "end": 4164.860000000001,
+      "text": "or something like that would, would be a big difference."
+    },
+    {
+      "start": 4164.86,
+      "end": 4171.42,
+      "text": "Why the CPU you have, so one big use of, so the sort of the top unit uses of area in"
+    },
+    {
+      "start": 4171.42,
+      "end": 4174.98,
+      "text": "a side of CPU are the cache."
+    },
+    {
+      "start": 4174.98,
+      "end": 4179.94,
+      "text": "Very little is actually the ALUs, like mostly it's like these register files rather than"
+    },
+    {
+      "start": 4179.94,
+      "end": 4182.62,
+      "text": "the logic units."
+    },
+    {
+      "start": 4182.62,
+      "end": 4188.74,
+      "text": "And then the, both of these things have equivalence in a GPU and so that's not a big difference."
+    },
+    {
+      "start": 4188.74,
+      "end": 4194.219999999999,
+      "text": "But the thing that does not have an equivalent in a GPU is the sort of this branch predictor."
+    },
+    {
+      "start": 4194.22,
+      "end": 4202.66,
+      "text": "And so there is a whole big area in the CPU which is sort of just a whole bunch of predictors"
+    },
+    {
+      "start": 4202.66,
+      "end": 4208.34,
+      "text": "that are saying when will my next branch be and where is the branch target for that."
+    },
+    {
+      "start": 4208.34,
+      "end": 4214.58,
+      "text": "And so stripping a lot of that out, as well as sort of making these register files tighter"
+    },
+    {
+      "start": 4214.58,
+      "end": 4219.820000000001,
+      "text": "in a sense, is driving a lot of where the like GPU gains up to CPU."
+    },
+    {
+      "start": 4219.820000000001,
+      "end": 4224.18,
+      "text": "What is the branch predictor to execute both branches at once or what does it do?"
+    },
+    {
+      "start": 4224.18,
+      "end": 4229.62,
+      "text": "So the issue is that when I've got a series of instructions, like instructions, instructions,"
+    },
+    {
+      "start": 4229.62,
+      "end": 4234.22,
+      "text": "instructions, instructions, instructions, if I have a branch like here, if this instruction"
+    },
+    {
+      "start": 4234.22,
+      "end": 4243.26,
+      "text": "is branch, the actual processing step of processing an instruction takes a really long"
+    },
+    {
+      "start": 4243.26,
+      "end": 4244.26,
+      "text": "amount of time."
+    },
+    {
+      "start": 4244.26,
+      "end": 4247.58,
+      "text": "It takes like maybe five, nine or seconds or something like that."
+    },
+    {
+      "start": 4248.54,
+      "end": 4256.82,
+      "text": "The time to actually notice that I've got a branch and then evaluate the Boolean, whether it's true,"
+    },
+    {
+      "start": 4256.82,
+      "end": 4263.62,
+      "text": "and then update the program counter to the new target and then read from the instruction memory for that."
+    },
+    {
+      "start": 4263.62,
+      "end": 4267.74,
+      "text": "That could take like actually five nanoseconds to finish."
+    },
+    {
+      "start": 4267.74,
+      "end": 4272.54,
+      "text": "And so in reality, this may finish somewhere down here."
+    },
+    {
+      "start": 4272.54,
+      "end": 4277.58,
+      "text": "I don't want to, but I want to run a clock speed that is much faster than what five nanoseconds"
+    },
+    {
+      "start": 4277.58,
+      "end": 4278.58,
+      "text": "allows."
+    },
+    {
+      "start": 4278.58,
+      "end": 4282.78,
+      "text": "Like five nanoseconds is 200 megahertz clock speed, I would like to run at one or two gigahertz"
+    },
+    {
+      "start": 4282.78,
+      "end": 4284.06,
+      "text": "or something like that."
+    },
+    {
+      "start": 4284.06,
+      "end": 4291.3,
+      "text": "And so I need to run other instructions while the branch is being evaluated."
+    },
+    {
+      "start": 4291.3,
+      "end": 4296.78,
+      "text": "And so I really just want to keep running the following instructions that happen after"
+    },
+    {
+      "start": 4296.78,
+      "end": 4298.78,
+      "text": "me."
+    },
+    {
+      "start": 4298.78,
+      "end": 4299.78,
+      "text": "But that might have been wrong."
+    },
+    {
+      "start": 4299.78,
+      "end": 4302.42,
+      "text": "Like if the branch ended up being taken, then I need to know that instead of it,"
+    },
+    {
+      "start": 4302.42,
+      "end": 4306.42,
+      "text": "evaluating these instructions, I actually need to like jump to where the target is and"
+    },
+    {
+      "start": 4306.42,
+      "end": 4308.66,
+      "text": "run these instructions instead."
+    },
+    {
+      "start": 4308.66,
+      "end": 4313.66,
+      "text": "And so the purpose of the branch predictor is like like genuinely to predict based on"
+    },
+    {
+      "start": 4313.66,
+      "end": 4318.22,
+      "text": "like before you even get to the instruction to be like five cycles earlier to predict"
+    },
+    {
+      "start": 4318.22,
+      "end": 4320.42,
+      "text": "there was going to be a branch that's going to happen."
+    },
+    {
+      "start": 4320.42,
+      "end": 4323.74,
+      "text": "So if I think about how the brain works, which is what you're describing here at a high"
+    },
+    {
+      "start": 4323.74,
+      "end": 4331.3,
+      "text": "level, the differences might be that while you can do structured sparsity in these accelerators"
+    },
+    {
+      "start": 4331.46,
+      "end": 4337.9400000000005,
+      "text": "and then save yourself some area that you would have otherwise had to dedicate to these"
+    },
+    {
+      "start": 4337.9400000000005,
+      "end": 4338.9400000000005,
+      "text": "gates."
+    },
+    {
+      "start": 4338.9400000000005,
+      "end": 4343.06,
+      "text": "In the brain, there's unstructured sparsity, you know, any neuron can connect any other"
+    },
+    {
+      "start": 4343.06,
+      "end": 4348.58,
+      "text": "neuron and not in like ways where they'd be column lined or whatever."
+    },
+    {
+      "start": 4348.58,
+      "end": 4351.66,
+      "text": "Then there's the fact that memory and computer co-located."
+    },
+    {
+      "start": 4351.66,
+      "end": 4354.9800000000005,
+      "text": "I guess you could say in a way the memory and computer co-located on these days."
+    },
+    {
+      "start": 4354.9800000000005,
+      "end": 4357.14,
+      "text": "This is exactly the co-location in some sense of the memory."
+    },
+    {
+      "start": 4357.14,
+      "end": 4358.14,
+      "text": "That's right."
+    },
+    {
+      "start": 4358.14,
+      "end": 4359.14,
+      "text": "Yeah."
+    },
+    {
+      "start": 4359.14,
+      "end": 4361.1,
+      "text": "Maybe that actually isn't a big difference."
+    },
+    {
+      "start": 4361.1,
+      "end": 4365.1,
+      "text": "And the other, maybe a big, a big difference is that the clock cycle on the brain is much"
+    },
+    {
+      "start": 4365.1,
+      "end": 4375.22,
+      "text": "slower than on computers and partly that's to preserve energy because the faster the clock"
+    },
+    {
+      "start": 4375.22,
+      "end": 4383.14,
+      "text": "cycle, the bigger the voltage needs to be in order to identify for the signal to settle"
+    },
+    {
+      "start": 4383.14,
+      "end": 4386.740000000001,
+      "text": "and to like identify what state of transistor is that's right."
+    },
+    {
+      "start": 4386.74,
+      "end": 4394.099999999999,
+      "text": "I don't know if you have other high-level takes about like how any commentary on what"
+    },
+    {
+      "start": 4394.099999999999,
+      "end": 4396.3,
+      "text": "with the brain might be doing versus how these chips work."
+    },
+    {
+      "start": 4396.3,
+      "end": 4397.3,
+      "text": "Yeah."
+    },
+    {
+      "start": 4397.3,
+      "end": 4403.34,
+      "text": "I mean, so let's take the clock speed one first, actually."
+    },
+    {
+      "start": 4403.34,
+      "end": 4413.139999999999,
+      "text": "The clock speed is quite high on a chip because that drives higher throughput."
+    },
+    {
+      "start": 4413.14,
+      "end": 4418.700000000001,
+      "text": "When we compare a GPU running some workload, it's running batch size 1,000 or something like"
+    },
+    {
+      "start": 4418.700000000001,
+      "end": 4422.62,
+      "text": "that, whereas the brain is not running batch size 1,000 because only one of me."
+    },
+    {
+      "start": 4422.62,
+      "end": 4428.1,
+      "text": "And so you could sort of imagine saying, well, take a GPU and instead of running at a gigahertz"
+    },
+    {
+      "start": 4428.1,
+      "end": 4429.900000000001,
+      "text": "runner to megahertz or something like that."
+    },
+    {
+      "start": 4429.900000000001,
+      "end": 4435.18,
+      "text": "And that would start to look maybe a little bit more like equivalent things that you talk"
+    },
+    {
+      "start": 4435.18,
+      "end": 4438.38,
+      "text": "about in the brain."
+    },
+    {
+      "start": 4438.38,
+      "end": 4445.38,
+      "text": "There is, in the way that silicon works, there are, like, that does not give you a thousand"
+    },
+    {
+      "start": 4445.38,
+      "end": 4447.62,
+      "text": "X advantage in energy efficiency."
+    },
+    {
+      "start": 4447.62,
+      "end": 4456.26,
+      "text": "So what it ends up looking like is you can, like, you sort of just end up running this"
+    },
+    {
+      "start": 4456.26,
+      "end": 4461.78,
+      "text": "circuit once to stabilization and then it'll sit idle for a long period of time."
+    },
+    {
+      "start": 4461.78,
+      "end": 4465.66,
+      "text": "It doesn't consume a lot of energy while it's sitting idle because most of the energy is"
+    },
+    {
+      "start": 4465.66,
+      "end": 4473.139999999999,
+      "text": "consumed in sort of toggling bits from zero to one and back."
+    },
+    {
+      "start": 4473.139999999999,
+      "end": 4477.62,
+      "text": "So actually, let's talk about the energy consumption of a circuit like this."
+    },
+    {
+      "start": 4477.62,
+      "end": 4482.58,
+      "text": "The way to think of a bit being stored is you've actually deposited some charge in"
+    },
+    {
+      "start": 4482.58,
+      "end": 4485.82,
+      "text": "a capacitor somewhere, sitting somewhere in the chip implicitly."
+    },
+    {
+      "start": 4485.82,
+      "end": 4491.3,
+      "text": "So it becomes charged when it becomes a one and then it becomes discharged when it next"
+    },
+    {
+      "start": 4491.3,
+      "end": 4492.82,
+      "text": "goes to a zero."
+    },
+    {
+      "start": 4492.82,
+      "end": 4496.9,
+      "text": "And that cycle is like charging the capacitor and then dumping that charge out to ground."
+    },
+    {
+      "start": 4496.9,
+      "end": 4498.259999999999,
+      "text": "That is where the energy is consumed."
+    },
+    {
+      "start": 4498.259999999999,
+      "end": 4499.259999999999,
+      "text": "Yeah."
+    },
+    {
+      "start": 4499.259999999999,
+      "end": 4501.099999999999,
+      "text": "This is called the dynamic or switching power."
+    },
+    {
+      "start": 4501.099999999999,
+      "end": 4503.259999999999,
+      "text": "This is most of the energy consumption of a chip."
+    },
+    {
+      "start": 4503.259999999999,
+      "end": 4509.74,
+      "text": "There is some other energy consumption just coming from the fact that insulate is on perfect"
+    },
+    {
+      "start": 4509.74,
+      "end": 4512.099999999999,
+      "text": "insulators, but we'll just discount that."
+    },
+    {
+      "start": 4512.099999999999,
+      "end": 4515.9,
+      "text": "Most of the energy consumption actually comes from just the charging and discharging of,"
+    },
+    {
+      "start": 4515.9,
+      "end": 4519.46,
+      "text": "like, toggling from zero to one and back to zero."
+    },
+    {
+      "start": 4519.46,
+      "end": 4522.94,
+      "text": "So if you run a chip much slower and you only clock it once every thousand clock cycles"
+    },
+    {
+      "start": 4522.94,
+      "end": 4525.82,
+      "text": "or something, you will have a thousand times fewer transitions."
+    },
+    {
+      "start": 4525.82,
+      "end": 4532.26,
+      "text": "It'll be about a thousand times less energy consumption, but not a substantial advantage"
+    },
+    {
+      "start": 4532.26,
+      "end": 4533.58,
+      "text": "of energy efficiency."
+    },
+    {
+      "start": 4533.58,
+      "end": 4534.58,
+      "text": "Okay."
+    },
+    {
+      "start": 4534.58,
+      "end": 4538.42,
+      "text": "So you've described how a TPU works at a high level."
+    },
+    {
+      "start": 4538.42,
+      "end": 4542.66,
+      "text": "What is the difference at a high level between how a GPU and a TPU work?"
+    },
+    {
+      "start": 4542.66,
+      "end": 4543.66,
+      "text": "Yeah."
+    },
+    {
+      "start": 4543.66,
+      "end": 4550.42,
+      "text": "I mean, I think there's sort of a high level organization principle that is different."
+    },
+    {
+      "start": 4550.42,
+      "end": 4552.42,
+      "text": "And then there's sort of inside the cores, what are different."
+    },
+    {
+      "start": 4552.42,
+      "end": 4556.82,
+      "text": "But we'll look, sort of outside the, like, at the high level."
+    },
+    {
+      "start": 4556.82,
+      "end": 4562.38,
+      "text": "So we'll take a GPU and a TPU and what is, like, sort of the top level block structure"
+    },
+    {
+      "start": 4562.38,
+      "end": 4563.38,
+      "text": "look like."
+    },
+    {
+      "start": 4563.38,
+      "end": 4572.82,
+      "text": "If you think of this as the whole chip in each case, the organization of the GPU is mostly"
+    },
+    {
+      "start": 4572.82,
+      "end": 4580.42,
+      "text": "a bunch of almost identical units, which are these, these are the SMs."
+    },
+    {
+      "start": 4580.42,
+      "end": 4584.98,
+      "text": "And then they've got an L2 memory in the middle and then a bunch more of these SMs on"
+    },
+    {
+      "start": 4584.98,
+      "end": 4587.34,
+      "text": "the bottom."
+    },
+    {
+      "start": 4587.34,
+      "end": 4594.54,
+      "text": "And so there's sort of this fairly regular grid, of course."
+    },
+    {
+      "start": 4594.54,
+      "end": 4602.259999999999,
+      "text": "And then, like, if we look at a TPU in comparison, you end up with much Corsa-grain"
+    },
+    {
+      "start": 4602.42,
+      "end": 4604.66,
+      "text": "units of logic."
+    },
+    {
+      "start": 4604.66,
+      "end": 4613.46,
+      "text": "And so you end up with something like some large number of maybe just a few matrix units."
+    },
+    {
+      "start": 4613.46,
+      "end": 4619.14,
+      "text": "These are the big, like, system-like arrays."
+    },
+    {
+      "start": 4619.14,
+      "end": 4623.46,
+      "text": "And then in the middle you've got some vector unit."
+    },
+    {
+      "start": 4623.46,
+      "end": 4626.9800000000005,
+      "text": "And then you've got your matrix units at the bottom."
+    },
+    {
+      "start": 4626.9800000000005,
+      "end": 4635.580000000001,
+      "text": "So now, sort of, like, matrix units with a vector unit in the middle, sort of, this is"
+    },
+    {
+      "start": 4635.580000000001,
+      "end": 4637.34,
+      "text": "the whole TPU chip."
+    },
+    {
+      "start": 4637.34,
+      "end": 4641.660000000001,
+      "text": "You can sort of think of scaling this thing down into a really tiny unit with a smaller"
+    },
+    {
+      "start": 4641.660000000001,
+      "end": 4643.820000000001,
+      "text": "matrix unit, smaller vector unit."
+    },
+    {
+      "start": 4643.820000000001,
+      "end": 4646.700000000001,
+      "text": "And that is sort of what an SM is."
+    },
+    {
+      "start": 4646.700000000001,
+      "end": 4653.700000000001,
+      "text": "So sort of at a very high level point of view, the GPU has a lot of tiny, tiny TPUs sort"
+    },
+    {
+      "start": 4653.700000000001,
+      "end": 4655.42,
+      "text": "of tiled across the whole chip."
+    },
+    {
+      "start": 4655.42,
+      "end": 4656.42,
+      "text": "Oh, interesting."
+    },
+    {
+      "start": 4656.42,
+      "end": 4661.3,
+      "text": "So, like, you're suggesting the tensor core within a streaming SM is now, like, analogous"
+    },
+    {
+      "start": 4661.3,
+      "end": 4662.3,
+      "text": "to an MXU."
+    },
+    {
+      "start": 4662.3,
+      "end": 4664.9,
+      "text": "Yeah, it's very, very similar, I see."
+    },
+    {
+      "start": 4664.9,
+      "end": 4671.46,
+      "text": "And so if you had more, like, more lack of structure, having a bunch of tiny TPUs makes"
+    },
+    {
+      "start": 4671.46,
+      "end": 4676.54,
+      "text": "a lot of sense, whereas if you kind of just have, like, huge, major multiplications, you're"
+    },
+    {
+      "start": 4676.54,
+      "end": 4683.9800000000005,
+      "text": "like, why don't we just, why don't we avoid the cost of having the individual SMs with"
+    },
+    {
+      "start": 4683.9800000000005,
+      "end": 4687.500000000001,
+      "text": "their own registers and warp schedulers and things like that?"
+    },
+    {
+      "start": 4687.500000000001,
+      "end": 4691.3,
+      "text": "Why don't we just, like, make a huge thing and, like, amortize those costs?"
+    },
+    {
+      "start": 4691.3,
+      "end": 4692.620000000001,
+      "text": "Of course, the whole thing."
+    },
+    {
+      "start": 4692.620000000001,
+      "end": 4695.26,
+      "text": "And I mean, I think this shows up in how large you can grow things."
+    },
+    {
+      "start": 4695.26,
+      "end": 4699.02,
+      "text": "We've sort of seen this thing, like, especially with the systolic array, where largest systolic"
+    },
+    {
+      "start": 4699.02,
+      "end": 4703.3,
+      "text": "array amortizes the register file costs better."
+    },
+    {
+      "start": 4703.3,
+      "end": 4706.06,
+      "text": "This sort of design allows you to have largest systolic arrays."
+    },
+    {
+      "start": 4706.06,
+      "end": 4712.700000000001,
+      "text": "This, whereas the sort of GPU design constrains you to having small units of everything."
+    },
+    {
+      "start": 4712.7,
+      "end": 4719.98,
+      "text": "There is a trade-off, however, the, there ends up being because of this sort of coarse"
+    },
+    {
+      "start": 4719.98,
+      "end": 4723.94,
+      "text": "grain separation of things there, you need to move a lot of data from the vector unit"
+    },
+    {
+      "start": 4723.94,
+      "end": 4725.86,
+      "text": "to the matrix units."
+    },
+    {
+      "start": 4725.86,
+      "end": 4732.82,
+      "text": "And so, like, you need to move a lot of data through, through a sort of, like, two lines"
+    },
+    {
+      "start": 4732.82,
+      "end": 4737.78,
+      "text": "of parameter here, whereas if you sort of look at the equivalent thing, here you've got"
+    },
+    {
+      "start": 4737.78,
+      "end": 4742.179999999999,
+      "text": "vector units everywhere, and you need to move data through this line, through this line,"
+    },
+    {
+      "start": 4742.18,
+      "end": 4746.42,
+      "text": "through this line, through this line, through this line."
+    },
+    {
+      "start": 4746.42,
+      "end": 4751.14,
+      "text": "So the amount of data you can move between a vector unit and a matrix unit is actually"
+    },
+    {
+      "start": 4751.14,
+      "end": 4758.54,
+      "text": "much higher in a GPU than in a, in a TPU, because, like, it's, like, instead of having"
+    },
+    {
+      "start": 4758.54,
+      "end": 4762.26,
+      "text": "to, like, move all the data through these just two lines, you're moving all these data"
+    },
+    {
+      "start": 4762.26,
+      "end": 4767.42,
+      "text": "through, like, 16 lines or something of, of, of wiring instead in a GPU."
+    },
+    {
+      "start": 4767.42,
+      "end": 4768.42,
+      "text": "Right."
+    },
+    {
+      "start": 4768.5,
+      "end": 4773.5,
+      "text": "You might have to move across the last area, which, I mean, it's also saving, like, it's"
+    },
+    {
+      "start": 4773.5,
+      "end": 4774.5,
+      "text": "an energy set."
+    },
+    {
+      "start": 4774.5,
+      "end": 4780.38,
+      "text": "So, so data ends up moving, like, if you can operate entirely within an SM, the data movement"
+    },
+    {
+      "start": 4780.38,
+      "end": 4785.34,
+      "text": "is much smaller, but then the moment you want to operate across SM's, like, it becomes"
+    },
+    {
+      "start": 4785.34,
+      "end": 4787.14,
+      "text": "sort of more, more complicated and expensive."
+    },
+    {
+      "start": 4787.14,
+      "end": 4788.14,
+      "text": "Yeah."
+    },
+    {
+      "start": 4788.14,
+      "end": 4790.3,
+      "text": "So you don't have to comment, but one might expect that a thing that a matrix might try"
+    },
+    {
+      "start": 4790.3,
+      "end": 4802.06,
+      "text": "to do is to get the GPU-like spoiler structure of systolic race surrounded by SRAM, but"
+    },
+    {
+      "start": 4802.06,
+      "end": 4807.62,
+      "text": "also at the same time, make it so that, like, the things you need in an SM to support"
+    },
+    {
+      "start": 4807.62,
+      "end": 4814.1,
+      "text": "the CUDA architecture, but take a bunch, a bunch of space, you might discard."
+    },
+    {
+      "start": 4814.1,
+      "end": 4815.42,
+      "text": "Yeah."
+    },
+    {
+      "start": 4815.42,
+      "end": 4819.74,
+      "text": "We've talked publicly about something which we call a sysplitable systolic array, which"
+    },
+    {
+      "start": 4819.74,
+      "end": 4823.0599999999995,
+      "text": "is sort of, in some sense, you can think of as, like, big systolic arrays that can be"
+    },
+    {
+      "start": 4823.0599999999995,
+      "end": 4824.66,
+      "text": "small systolic arrays as well."
+    },
+    {
+      "start": 4824.66,
+      "end": 4825.66,
+      "text": "Cool."
+    },
+    {
+      "start": 4825.66,
+      "end": 4826.66,
+      "text": "Okay."
+    },
+    {
+      "start": 4826.66,
+      "end": 4827.66,
+      "text": "I think there's a good note to close on."
+    },
+    {
+      "start": 4827.66,
+      "end": 4828.66,
+      "text": "Right, no."
+    },
+    {
+      "start": 4828.66,
+      "end": 4829.66,
+      "text": "Thank you so much."
+    },
+    {
+      "start": 4829.66,
+      "end": 4830.66,
+      "text": "Thanks, Arcus."
+    }
+  ]
+}

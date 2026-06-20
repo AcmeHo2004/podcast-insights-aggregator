@@ -1,0 +1,4931 @@
+{
+  "id": "2c4e137148dccc75",
+  "show": "Macro Voices",
+  "theme": "Macro & Rates",
+  "title": "MacroVoices #535 Michael Every: NAFTA and NAPTHA – Warcraft & Fartcraft",
+  "audio_url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/8jymwfbinjt3uxms/Macrovoices-2026-06-04-Michael-Every.mp3",
+  "source": "local-whisper",
+  "duration": 5820.4,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.52,
+      "text": "This is MacroVoices, the free-weekly financial podcast targeting professional finance,"
+    },
+    {
+      "start": 13.52,
+      "end": 18.76,
+      "text": "high net worth individuals, family offices, and other sophisticated investors."
+    },
+    {
+      "start": 18.76,
+      "end": 23.92,
+      "text": "MacroVoices is all about the brightest minds in the world of finance and macroeconomics"
+    },
+    {
+      "start": 23.92,
+      "end": 28.16,
+      "text": "telling it like it is, bullish or bearish, no holds barred."
+    },
+    {
+      "start": 28.24,
+      "end": 32.0,
+      "text": "Now, here are your hosts, Eric Townsend and Patrick Suresna."
+    },
+    {
+      "start": 33.04,
+      "end": 38.96,
+      "text": "MacroVoices episode 535 was produced on June 4th, 2026. I'm Eric Townsend."
+    },
+    {
+      "start": 39.68,
+      "end": 43.92,
+      "text": "Another week has passed and the Strait of Hormuz is still effectively closed,"
+    },
+    {
+      "start": 43.92,
+      "end": 48.0,
+      "text": "and I don't think we're any closer to a deal than we were a week ago."
+    },
+    {
+      "start": 48.0,
+      "end": 53.2,
+      "text": "In fact, President Trump even made the comment that the US blockade of Iran could be lifted"
+    },
+    {
+      "start": 53.2,
+      "end": 60.800000000000004,
+      "text": "as soon as Labor Day. As soon as Labor Day, that's 95 days from now, more than a quarter of a year"
+    },
+    {
+      "start": 60.800000000000004,
+      "end": 66.32000000000001,
+      "text": "away. The only good news I can see on the geopolitical front is that the situation has earned you"
+    },
+    {
+      "start": 66.32000000000001,
+      "end": 73.04,
+      "text": "another MacroVoices double-header. Rubblebank's strategist Michael Evre is our headliner this week,"
+    },
+    {
+      "start": 73.04,
+      "end": 78.32000000000001,
+      "text": "and Michael and I will discuss all things Iran from geopolitics to the inflation outlook to what"
+    },
+    {
+      "start": 78.4,
+      "end": 84.64000000000001,
+      "text": "it means for China to President Trump and Secretary of Business, Stablecoin, Statecraft ambitions."
+    },
+    {
+      "start": 85.36000000000001,
+      "end": 92.32000000000001,
+      "text": "Then, commodity context founder Rory Johnson returns to go deep on crude oil delivery logistics"
+    },
+    {
+      "start": 92.32000000000001,
+      "end": 98.72000000000001,
+      "text": "from a detailed look at the latest flow stats to China's curious inventory and import statistics"
+    },
+    {
+      "start": 98.72000000000001,
+      "end": 105.04,
+      "text": "that don't frankly seem to add up, and why oil prices haven't reacted nearly as much"
+    },
+    {
+      "start": 105.68,
+      "end": 110.96000000000001,
+      "text": "as so many analysts, including Rory and I, expected them to. Then, be sure to stay tuned for"
+    },
+    {
+      "start": 110.96000000000001,
+      "end": 116.16000000000001,
+      "text": "our post-game segment when Patrick's Trade of the Week will explore a setup built around Michael"
+    },
+    {
+      "start": 116.16000000000001,
+      "end": 123.04,
+      "text": "Evre's view that economic policy is shifting toward economic statecraft with a greater focus"
+    },
+    {
+      "start": 123.04,
+      "end": 129.04000000000002,
+      "text": "on rebuilding the physical economy and strategic industrial capacity. Then we'll have our usual"
+    },
+    {
+      "start": 129.04000000000002,
+      "end": 133.76,
+      "text": "coverage of all the markets with Patrick's post-game chart dick. And I'm Patrick Sarasna with the"
+    },
+    {
+      "start": 133.76,
+      "end": 141.92,
+      "text": "macro scoreboard week over week as of the close of Wednesday June 3rd, 2026. The S&P 500 index"
+    },
+    {
+      "start": 141.92,
+      "end": 150.39999999999998,
+      "text": "up 44 basis points trading at 75 53 markets remain along highs, but showing early signs of exhaustion"
+    },
+    {
+      "start": 150.39999999999998,
+      "end": 155.12,
+      "text": "will take a closer look at that chart and the key technical levels to watch in the post-game"
+    },
+    {
+      "start": 155.12,
+      "end": 163.12,
+      "text": "segment, the US dollar index up 20 basis points trading at 99 55. It's attempting to break out of a"
+    },
+    {
+      "start": 163.12,
+      "end": 170.16,
+      "text": "one month trade range established through the previous month of May, the July W2I crude oil contract"
+    },
+    {
+      "start": 170.16,
+      "end": 179.20000000000002,
+      "text": "up 828 basis points trading at 96 02, the July R Bob Gasling contract up 229 basis points"
+    },
+    {
+      "start": 179.20000000000002,
+      "end": 188.24,
+      "text": "trading at 3 13, the August Gold contract down 31 basis points trading at 44 67, the July copper"
+    },
+    {
+      "start": 188.24,
+      "end": 196.0,
+      "text": "contract up 252 basis points trading at 650 and the June uranium contract up 94 basis points"
+    },
+    {
+      "start": 196.0,
+      "end": 204.64000000000001,
+      "text": "trading at 85 90, the US 10 year treasury yield down 3 basis points trading at 4 48 and the"
+    },
+    {
+      "start": 204.64000000000001,
+      "end": 211.44,
+      "text": "key news to watch this Friday is the jobs numbers and next week we have the much anticipated CPI"
+    },
+    {
+      "start": 211.44,
+      "end": 217.60000000000002,
+      "text": "and PPI inflation numbers and the ECB rate statement and press conference. This week's feature"
+    },
+    {
+      "start": 217.6,
+      "end": 224.0,
+      "text": "interview guest is Michael every Eric and Michael discuss why the Iranian crisis maybe a part"
+    },
+    {
+      "start": 224.0,
+      "end": 231.28,
+      "text": "of a much broader shift towards economic state craft, how energy, swap lines, stable coins,"
+    },
+    {
+      "start": 231.28,
+      "end": 238.95999999999998,
+      "text": "and supply chains are becoming tools of a national strategy and why the next policy regime may focus"
+    },
+    {
+      "start": 238.95999999999998,
+      "end": 245.6,
+      "text": "more on rebuilding the physical economy. Eric's interview with Michael every is coming up"
+    },
+    {
+      "start": 245.68,
+      "end": 250.23999999999998,
+      "text": "as macro voices continues right here at macrovoices.com"
+    },
+    {
+      "start": 257.68,
+      "end": 262.32,
+      "text": "And now with this week's special guest, here's your host Eric Townsend."
+    },
+    {
+      "start": 263.28,
+      "end": 269.2,
+      "text": "Joining me now is Robo Banks global strategist for economics and markets, Michael every."
+    },
+    {
+      "start": 269.2,
+      "end": 274.08,
+      "text": "Michael it's great to get you back on the show. I'm sure you've heard the great news today"
+    },
+    {
+      "start": 274.24,
+      "end": 279.28,
+      "text": "and we are recording just so our listeners will know on Monday afternoon. So three days before"
+    },
+    {
+      "start": 279.28,
+      "end": 284.47999999999996,
+      "text": "this episode will air a lot can happen in the news flow lately. But as of Monday afternoon,"
+    },
+    {
+      "start": 284.47999999999996,
+      "end": 290.4,
+      "text": "the news is President Trump says, don't worry, everything's all set, oil prices are about to drop"
+    },
+    {
+      "start": 290.4,
+      "end": 297.68,
+      "text": "like a rock and time is on our side. Do you concur, sir? No, I don't think the time is on"
+    },
+    {
+      "start": 297.68,
+      "end": 302.71999999999997,
+      "text": "anyone's side. First of all, I think that's true for every, every human being throughout"
+    },
+    {
+      "start": 302.72,
+      "end": 309.68,
+      "text": "history that time doesn't work in our favor, entropy is universal truth. But specifically that"
+    },
+    {
+      "start": 309.68,
+      "end": 315.92,
+      "text": "news flow, of course, that we had on the Monday as we're speaking, was superseded within a"
+    },
+    {
+      "start": 315.92,
+      "end": 321.28000000000003,
+      "text": "think about an hour and a half, two hours maximum, where we went from a tweet saying, okay, Iran"
+    },
+    {
+      "start": 321.28000000000003,
+      "end": 325.44000000000005,
+      "text": "doesn't want to talk. That's fine. We don't have to talk. Maybe we've done too much talking. I'll"
+    },
+    {
+      "start": 325.44000000000005,
+      "end": 331.52000000000004,
+      "text": "just maintain the blockade to then suddenly backpedaling and saying, well, no, the reason for Iran not"
+    },
+    {
+      "start": 331.52,
+      "end": 336.88,
+      "text": "talking is because Israel was still moving against Hezbollah in Lebanon. And now I'm telling Israel"
+    },
+    {
+      "start": 336.88,
+      "end": 341.03999999999996,
+      "text": "they can't move against Hezbollah in Lebanon. And Hezbollah, I promise they're going to stop"
+    },
+    {
+      "start": 341.03999999999996,
+      "end": 346.08,
+      "text": "attacking Israel. Pinkie swear. And therefore, everything can continue. And we're going to continue"
+    },
+    {
+      "start": 346.08,
+      "end": 352.0,
+      "text": "talking to Iran. So maybe that doesn't necessarily contradict the fact that Trump thinks that time"
+    },
+    {
+      "start": 352.0,
+      "end": 357.28,
+      "text": "is on his side. And I think you can put that to one side as a separate argument. But it certainly"
+    },
+    {
+      "start": 357.28000000000003,
+      "end": 365.12,
+      "text": "shows just how dynamic the news flow is and how incredibly confusing. And befuddling this"
+    },
+    {
+      "start": 365.12,
+      "end": 370.96000000000004,
+      "text": "tweet-driven crisis continues to be for all of us. Michael, let's go a little deeper on the time"
+    },
+    {
+      "start": 370.96000000000004,
+      "end": 376.72,
+      "text": "on our side perspective with respect to the global oil market. A lot of people have been warning for"
+    },
+    {
+      "start": 376.72,
+      "end": 382.16,
+      "text": "a long time myself included that we're going to run out of the buffers in the system. We're going"
+    },
+    {
+      "start": 382.16,
+      "end": 387.04,
+      "text": "to get to the point where we don't have the crude oil needed to supply the global economy."
+    },
+    {
+      "start": 387.04,
+      "end": 393.20000000000005,
+      "text": "And the only resort left is going to be a wild price reaction in order to destroy at least 10"
+    },
+    {
+      "start": 393.20000000000005,
+      "end": 400.08000000000004,
+      "text": "million barrels per day of demand. A lot of macro guys are saying, look, stop listening to these"
+    },
+    {
+      "start": 400.08000000000004,
+      "end": 405.36,
+      "text": "doom or commodity idiots. They don't know anything. Obviously, they've been proven wrong. Oil prices"
+    },
+    {
+      "start": 405.36,
+      "end": 413.44,
+      "text": "didn't go to 200. Everybody relax. You know, time is on our side. We've got plenty of time. We produce"
+    },
+    {
+      "start": 413.44,
+      "end": 418.56,
+      "text": "plenty of oil. We can wait this out. The president is right to feel that he can wait this out."
+    },
+    {
+      "start": 419.68,
+      "end": 425.28,
+      "text": "What do you think? It's true that the oil prices have not gone to the moon yet. Does that mean"
+    },
+    {
+      "start": 425.28,
+      "end": 430.15999999999997,
+      "text": "that we're safe? First of all, full disclosure, you know, I'm not an energy expert and I know you"
+    },
+    {
+      "start": 430.15999999999997,
+      "end": 435.2,
+      "text": "speak to many and indeed you're very well versed in that field yourself. So I don't want to try and"
+    },
+    {
+      "start": 435.2,
+      "end": 443.68,
+      "text": "overrepresent my specialism here, but I can't really recall such a dichotomy and passionate"
+    },
+    {
+      "start": 443.68,
+      "end": 450.48,
+      "text": "dichotomy of views as we have over this particular crisis where as you said, you've got absolute"
+    },
+    {
+      "start": 450.48,
+      "end": 458.15999999999997,
+      "text": "experts saying this is going to end in absolute catastrophe within weeks and these are people who"
+    },
+    {
+      "start": 458.15999999999997,
+      "end": 463.68,
+      "text": "you know are neck deep in this industry. And then to be fair, you have a few who understand the"
+    },
+    {
+      "start": 463.68,
+      "end": 468.16,
+      "text": "industry who are saying, well, maybe it can be okay. But you get a lot, as you said, of macro"
+    },
+    {
+      "start": 468.16,
+      "end": 474.08,
+      "text": "fellow travelers who are great with an Excel spreadsheet and very good at being similar to that"
+    },
+    {
+      "start": 474.08,
+      "end": 478.32,
+      "text": "sarcastic meme of the elderly guy with the white beard drinking a cup of coffee saying, you know,"
+    },
+    {
+      "start": 478.32,
+      "end": 482.96000000000004,
+      "text": "I've finished being an expert on X now and now I'm an expert on Y saying, well, it hasn't gone"
+    },
+    {
+      "start": 482.96000000000004,
+      "end": 488.8,
+      "text": "wrong yet, therefore everything will be okay. And when you've got that kind of talent stack"
+    },
+    {
+      "start": 489.6,
+      "end": 495.84000000000003,
+      "text": "really disagreeing but the people who are really well versed in the industry panicking the most,"
+    },
+    {
+      "start": 495.84000000000003,
+      "end": 503.44,
+      "text": "that makes me extremely nervous because I've worked through many different potential crises"
+    },
+    {
+      "start": 503.44,
+      "end": 507.92,
+      "text": "similar to this and most of the time I've been the one pointing at the gray rhino or the black"
+    },
+    {
+      "start": 507.92,
+      "end": 512.08,
+      "text": "swan and saying, you know, this is bad, but all the way back to the global financial crisis"
+    },
+    {
+      "start": 512.08,
+      "end": 516.88,
+      "text": "running like years ago and everyone else around me who's, you know, making money by not seeing it,"
+    },
+    {
+      "start": 516.88,
+      "end": 522.8,
+      "text": "saying, no, it's all okay. And most of the time is worth listening to those downside risks"
+    },
+    {
+      "start": 522.8,
+      "end": 526.88,
+      "text": "when they're that big. So I think at the very least everyone should be paying attention"
+    },
+    {
+      "start": 527.36,
+      "end": 530.88,
+      "text": "rather than confidently rubbing their hands and saying the people who understand this industry,"
+    },
+    {
+      "start": 530.88,
+      "end": 536.24,
+      "text": "like the back of their hand are all wrong. Let's talk about what the follow on and not"
+    },
+    {
+      "start": 536.24,
+      "end": 541.28,
+      "text": "on effects of this could be. One of the things it's really perplexing me is at first I thought,"
+    },
+    {
+      "start": 541.28,
+      "end": 546.4,
+      "text": "you know, this has to be inflationary. We already I thought we're probably into a"
+    },
+    {
+      "start": 546.4,
+      "end": 551.52,
+      "text": "secular inflation. It seemed to me this was going to really force the argument. I was really"
+    },
+    {
+      "start": 551.52,
+      "end": 556.9599999999999,
+      "text": "surprised when I talked to Mike Green who said he thinks that it's going to be deflationary"
+    },
+    {
+      "start": 556.9599999999999,
+      "end": 562.4,
+      "text": "and the Fed is going to be forced to cut aggressively because of this oil crisis and I said,"
+    },
+    {
+      "start": 562.9599999999999,
+      "end": 569.6,
+      "text": "Mike, can't you see that $150 oil is inflationary? And he said, yes, I can see that. Can't you see"
+    },
+    {
+      "start": 569.6,
+      "end": 575.84,
+      "text": "that $500 oil is deflationary? And I said, oh, well, that's a point. How do you see this"
+    },
+    {
+      "start": 575.84,
+      "end": 581.12,
+      "text": "playing out and how in the world do you analyze this if you don't really know and it seems like"
+    },
+    {
+      "start": 581.12,
+      "end": 586.8000000000001,
+      "text": "experts can't agree on how far this can go? Let's break that down for a moment. First of all,"
+    },
+    {
+      "start": 587.52,
+      "end": 592.64,
+      "text": "you would get a lot of heated disagreement about whether we'd ever get $250. And if we start"
+    },
+    {
+      "start": 592.64,
+      "end": 597.76,
+      "text": "talking 500, which is the first time I've heard that number mentioned, I think, you know,"
+    },
+    {
+      "start": 597.76,
+      "end": 604.1600000000001,
+      "text": "that's a heart attack on the screen, isn't it? And it's simplest form. We have to recognize"
+    },
+    {
+      "start": 604.8,
+      "end": 610.9599999999999,
+      "text": "that central banking, as currently constituted, isn't able to deal with these kind of crises."
+    },
+    {
+      "start": 610.9599999999999,
+      "end": 617.1999999999999,
+      "text": "We've had repeated examples of that over the past few years where institutions which are"
+    },
+    {
+      "start": 617.1999999999999,
+      "end": 624.56,
+      "text": "effectively neo-canesian and all to do with demand management struggle to adapt to something"
+    },
+    {
+      "start": 624.56,
+      "end": 629.6,
+      "text": "that's supply side. And then have to try and work out, do they deal with second order effects?"
+    },
+    {
+      "start": 629.6,
+      "end": 635.0400000000001,
+      "text": "And more importantly, is it temporary on the supply side, which of course, or that famous word"
+    },
+    {
+      "start": 635.0400000000001,
+      "end": 642.08,
+      "text": "transitory, or is it something that's potentially structural? And if so, what do they do? And effectively,"
+    },
+    {
+      "start": 642.08,
+      "end": 648.32,
+      "text": "it's it's almost like that old comment, I think for the 1960s, the feminist comment, you know,"
+    },
+    {
+      "start": 648.32,
+      "end": 655.28,
+      "text": "a woman needs a man like a fish needs a bicycle, like central banks understand supply side or"
+    },
+    {
+      "start": 655.28,
+      "end": 660.8,
+      "text": "structural supply side shocks, like a fish understands a bicycle, they're just entirely different"
+    },
+    {
+      "start": 660.8,
+      "end": 665.8399999999999,
+      "text": "things. So you can listen to any number of different central banking experts who will say,"
+    },
+    {
+      "start": 665.8399999999999,
+      "end": 669.8399999999999,
+      "text": "well, they should do this, they should do that, they should cut rates, they should raise rates,"
+    },
+    {
+      "start": 669.8399999999999,
+      "end": 675.1999999999999,
+      "text": "they should do nothing at all. They're all wrong and they're all right at the same time because"
+    },
+    {
+      "start": 675.1999999999999,
+      "end": 680.3199999999999,
+      "text": "it's a very complex problem. And I don't think any of them really are the full solution to it."
+    },
+    {
+      "start": 680.8000000000001,
+      "end": 686.4000000000001,
+      "text": "We've got Kevin Warsh taking over as the Federal Reserve chair. How does that factor into this"
+    },
+    {
+      "start": 686.4000000000001,
+      "end": 692.32,
+      "text": "equation? Well, he was already prior to this happening, measuring about the fact that he wanted"
+    },
+    {
+      "start": 692.32,
+      "end": 698.5600000000001,
+      "text": "to change the Fed. And I don't think that's coming away. And looking at the fact that AI, in his"
+    },
+    {
+      "start": 698.5600000000001,
+      "end": 704.96,
+      "text": "mind, from in public statements, is likely to be very deflationary. And as a result, you know,"
+    },
+    {
+      "start": 704.96,
+      "end": 711.36,
+      "text": "this room for the rate cuts there because of that future deflation. Now, it's a bit of a"
+    },
+    {
+      "start": 711.36,
+      "end": 718.4000000000001,
+      "text": "curve ball to say that you've got that deflation plus the, you know, potential for the absolute"
+    },
+    {
+      "start": 718.4000000000001,
+      "end": 722.8000000000001,
+      "text": "economic coffeiny in chaos that could be caused by the kind of outcomes that you're referring to"
+    },
+    {
+      "start": 722.8000000000001,
+      "end": 728.88,
+      "text": "hypothetically. It's very, very hard to call. But I think the interesting thing will be"
+    },
+    {
+      "start": 728.96,
+      "end": 733.84,
+      "text": "listening to these central bankers who, while they may talk less, you know, under a"
+    },
+    {
+      "start": 733.84,
+      "end": 739.12,
+      "text": "washbed, tend to be so apparently transparent about what they're thinking and try to make clear"
+    },
+    {
+      "start": 739.12,
+      "end": 742.72,
+      "text": "to everyone how they're thinking about these things, it will be interesting to kind of watch them"
+    },
+    {
+      "start": 742.72,
+      "end": 747.6,
+      "text": "squirm to an extent and make clear they just don't know what to do. Because I repeat my larger"
+    },
+    {
+      "start": 747.6,
+      "end": 754.72,
+      "text": "point that I think the mechanisms we have set up now simply cannot function the way that we want"
+    },
+    {
+      "start": 754.72,
+      "end": 760.4,
+      "text": "them to. I mean, clearly what you would need instead of the very minimum of vast strategic"
+    },
+    {
+      "start": 760.4,
+      "end": 764.88,
+      "text": "petroleum reserves or the equivalent across various different products, which are no longer flowing"
+    },
+    {
+      "start": 764.88,
+      "end": 769.2,
+      "text": "because of the homeless crisis, which central banks could look to tap to try and smooth these"
+    },
+    {
+      "start": 769.2,
+      "end": 774.64,
+      "text": "processes out, which hundreds ignore thousands of year old policies used in various different"
+    },
+    {
+      "start": 774.64,
+      "end": 778.24,
+      "text": "countries around the world and which China still uses today. And you have to say to yourself,"
+    },
+    {
+      "start": 778.24,
+      "end": 783.76,
+      "text": "is that not a better mechanism than just making borrowing costs on aggregate for the entire economy,"
+    },
+    {
+      "start": 783.76,
+      "end": 787.6,
+      "text": "are the more expensive or less with all the second and third and fourth order effects and with a"
+    },
+    {
+      "start": 787.6,
+      "end": 792.0,
+      "text": "lag. So I'm not trying to dodge the question anyway, I'm actually trying to hammer the point at"
+    },
+    {
+      "start": 792.0,
+      "end": 795.76,
+      "text": "home that I don't know what wash will say. I don't know what any central bank will say, I'm not"
+    },
+    {
+      "start": 795.76,
+      "end": 798.72,
+      "text": "sure whether they'll all be united and I'd imagine they're probably going to be on the phone to"
+    },
+    {
+      "start": 798.72,
+      "end": 803.4399999999999,
+      "text": "each other trying to make sure that they all at least hang together collectively rather than"
+    },
+    {
+      "start": 803.4399999999999,
+      "end": 808.72,
+      "text": "bravely trying to go in different directions with your exception. But I don't think any of them"
+    },
+    {
+      "start": 808.72,
+      "end": 812.88,
+      "text": "are set up for intellectually and I don't think any of their advisors are because all the economists"
+    },
+    {
+      "start": 812.88,
+      "end": 818.24,
+      "text": "who do the number crunching for them also don't have any models which work in this particular"
+    },
+    {
+      "start": 818.24,
+      "end": 822.32,
+      "text": "environment that we're talking about. They're presuming that this would work structural and is as bad"
+    },
+    {
+      "start": 822.32,
+      "end": 826.16,
+      "text": "as you were just alluding to which is not what I'm forecasting. But if that is the case,"
+    },
+    {
+      "start": 826.8,
+      "end": 832.08,
+      "text": "yeah, what does one do? The entire infrastructure that you set up isn't fit for purpose anymore."
+    },
+    {
+      "start": 832.64,
+      "end": 839.12,
+      "text": "You described Kevin Warsh's muttering about changing the Fed. What do you think on his mind"
+    },
+    {
+      "start": 839.12,
+      "end": 844.0,
+      "text": "long term? What do you think he and President Trump and Scott Bessent maybe are"
+    },
+    {
+      "start": 844.0,
+      "end": 849.12,
+      "text": "architecting in terms of a new central bank regime for the United States?"
+    },
+    {
+      "start": 849.76,
+      "end": 853.84,
+      "text": "I think it is important to return to Iran and I'm sure we'll do that in a few minutes but if we"
+    },
+    {
+      "start": 853.84,
+      "end": 861.04,
+      "text": "kind of segue to that particular discussion, from my perspective, if you'll recall in many of"
+    },
+    {
+      "start": 861.04,
+      "end": 866.16,
+      "text": "the chats that we've had over the years, I've been underlining that I thought when Trump was"
+    },
+    {
+      "start": 866.16,
+      "end": 872.16,
+      "text": "reelected that he would shift from economic policy to economic statecraft. That was the line I was"
+    },
+    {
+      "start": 872.16,
+      "end": 879.76,
+      "text": "traveling with and the US is openly now saying publicly that economic statecraft is what it's pursuing"
+    },
+    {
+      "start": 880.3199999999999,
+      "end": 885.12,
+      "text": "and that's absolutely part and parcel of the argument I was just making at then about this energy"
+    },
+    {
+      "start": 885.12,
+      "end": 893.4399999999999,
+      "text": "crisis because you cannot have an independent central bank which is trying to target 2% CPI"
+    },
+    {
+      "start": 893.44,
+      "end": 899.7600000000001,
+      "text": "and all the other paraphernalia that it claims to be targeting and not have joined up thinking"
+    },
+    {
+      "start": 899.7600000000001,
+      "end": 907.0400000000001,
+      "text": "across every element of state and government towards national security goals or the foreign policy"
+    },
+    {
+      "start": 907.0400000000001,
+      "end": 912.0,
+      "text": "goal that you're aiming for with economic statecraft and not have the central bank as part of that."
+    },
+    {
+      "start": 912.0,
+      "end": 918.32,
+      "text": "I mean, the central bank is so important in all that we do. It's just logically ridiculous"
+    },
+    {
+      "start": 919.0400000000001,
+      "end": 923.2800000000001,
+      "text": "to conceive of a Fed saying, well, we're not going to change. We're going to keep doing everything"
+    },
+    {
+      "start": 923.2800000000001,
+      "end": 930.08,
+      "text": "Greenspan did or Belenky did or Yellen did. Who cares about the struggle for AI? Who cares about"
+    },
+    {
+      "start": 930.08,
+      "end": 934.4000000000001,
+      "text": "the struggle for the supply side? Who cares about national security? Who cares that we're at a war"
+    },
+    {
+      "start": 934.4000000000001,
+      "end": 939.6,
+      "text": "at the moment or that we need to rearm rapidly to make sure that we can fight the next one"
+    },
+    {
+      "start": 939.6,
+      "end": 944.5600000000001,
+      "text": "wherever that were to pop up? None of that matters to us. We're just going to look at 2% CPI."
+    },
+    {
+      "start": 944.6400000000001,
+      "end": 949.2,
+      "text": "Now, I can assure you there's a long, long queue of economists who say that's the right way to go."
+    },
+    {
+      "start": 949.7600000000001,
+      "end": 954.4000000000001,
+      "text": "Well, of course, they're aparachics within a certain Soviet style machine and that's how they think"
+    },
+    {
+      "start": 954.4000000000001,
+      "end": 959.2800000000001,
+      "text": "and that's the answer the law always give. But from a political economy perspective,"
+    },
+    {
+      "start": 959.2800000000001,
+      "end": 965.6800000000001,
+      "text": "you know, looking down from a helicopter view, it's just really irrational to conceive that"
+    },
+    {
+      "start": 965.6800000000001,
+      "end": 971.2,
+      "text": "war should not be aware of the fact that the percent who's been pushing for him along with Trump"
+    },
+    {
+      "start": 971.2,
+      "end": 978.24,
+      "text": "to get this particular role is himself plotting that particular course. So unless he's worn a mask"
+    },
+    {
+      "start": 978.24,
+      "end": 982.96,
+      "text": "the whole time, now gets his feet under the table at the Fed and says, right, I'm just going to be"
+    },
+    {
+      "start": 982.96,
+      "end": 989.12,
+      "text": "the same as everybody else, which you can't rule out, but it's pretty unlikely. The Fed will,"
+    },
+    {
+      "start": 989.12,
+      "end": 996.08,
+      "text": "from my particular perspective and global strategy, gradually be moving more towards the economic"
+    },
+    {
+      "start": 996.1600000000001,
+      "end": 1001.5200000000001,
+      "text": "state craft field. And I think one giveaway on that before we maybe pivot back to Iran again"
+    },
+    {
+      "start": 1002.64,
+      "end": 1006.96,
+      "text": "is that Wash, when he was asked, what do you think about dollar swap lines, which I think are"
+    },
+    {
+      "start": 1006.96,
+      "end": 1012.5600000000001,
+      "text": "really crucial at the moment in many different ways. He gave an interesting answer where he alluded"
+    },
+    {
+      "start": 1012.5600000000001,
+      "end": 1018.0,
+      "text": "to the fact that he thought Fed independence didn't apply to them because they were a geopolitical"
+    },
+    {
+      "start": 1018.0,
+      "end": 1023.6,
+      "text": "transaction effectively. And they are, which I think is honesty on his part. But if he's serious"
+    },
+    {
+      "start": 1023.6,
+      "end": 1028.8,
+      "text": "about that, what that means is that potentially instead of everyone just thinking the Fed is a"
+    },
+    {
+      "start": 1028.8,
+      "end": 1033.84,
+      "text": "technocratic institution, which is there to provide euro dollar liquidity to anyone around the world,"
+    },
+    {
+      "start": 1033.84,
+      "end": 1039.28,
+      "text": "particularly, you know, the old boys club of largely Western and OECD central banks who need it"
+    },
+    {
+      "start": 1039.28,
+      "end": 1045.6,
+      "text": "to prop up their financial markets from time to time. Of course, you know, in the US interest,"
+    },
+    {
+      "start": 1045.6,
+      "end": 1051.6,
+      "text": "now potentially this can be very much under the remit of the presidency or the treasury"
+    },
+    {
+      "start": 1052.48,
+      "end": 1058.24,
+      "text": "with a much more explicitly quid pro quo agenda, which we have actually seen, of course,"
+    },
+    {
+      "start": 1058.24,
+      "end": 1063.6,
+      "text": "running through the oil market via the DOE recently. And I think that speaks to exactly the point"
+    },
+    {
+      "start": 1063.6,
+      "end": 1068.9599999999998,
+      "text": "I'm trying to make here about economic state craft emerging. And again, this all factoring into"
+    },
+    {
+      "start": 1068.9599999999998,
+      "end": 1074.8,
+      "text": "this Iran crisis. Let's pivot back to Iran, as you said. You told me off the air that you had"
+    },
+    {
+      "start": 1074.8,
+      "end": 1081.1999999999998,
+      "text": "several wild outcomes that you could conceive as possible, not predictions, but possibilities."
+    },
+    {
+      "start": 1081.2,
+      "end": 1087.2,
+      "text": "Let's go wild. What are they? Okay, so this isn't a forecast. But again, it's from an economic"
+    },
+    {
+      "start": 1087.2,
+      "end": 1093.8400000000001,
+      "text": "state craft lens taking a big picture of you joining dots and projecting them forward as a what if,"
+    },
+    {
+      "start": 1093.8400000000001,
+      "end": 1099.1200000000001,
+      "text": "which I find is a useful discussion point. So before we get into the nitty gritty, you're maybe even"
+    },
+    {
+      "start": 1099.1200000000001,
+      "end": 1104.0,
+      "text": "avoiding the nitty gritty of how long this crisis is going to grind on and what the ultimate outcome"
+    },
+    {
+      "start": 1104.0,
+      "end": 1112.16,
+      "text": "is. Let's presume that the US is cognizant of the fact that were we to get a taco which actually"
+    },
+    {
+      "start": 1112.16,
+      "end": 1117.52,
+      "text": "would be as far as I'm concerned, the whole enchilada of a retreat from the Middle East and abandonment"
+    },
+    {
+      "start": 1117.52,
+      "end": 1122.24,
+      "text": "of US allies there and effectively handing over hormones and all the energy in the Middle East"
+    },
+    {
+      "start": 1122.8,
+      "end": 1128.0,
+      "text": "to an Iranian nexus along with its allies, that that would be a geostrategic disaster for what"
+    },
+    {
+      "start": 1128.0,
+      "end": 1133.28,
+      "text": "the US is trying to achieve in terms of economic state craft and for the entire West. So if you presume"
+    },
+    {
+      "start": 1133.28,
+      "end": 1139.68,
+      "text": "it can't do that and we presume therefore it's going to just keep maintaining this blockade going"
+    },
+    {
+      "start": 1139.68,
+      "end": 1144.56,
+      "text": "forward. If it can't move ahead with more aggressive military action, which is seemingly the message"
+    },
+    {
+      "start": 1144.56,
+      "end": 1148.48,
+      "text": "that we're getting at the moment, you know, how long is a piece of string? How long can this blockade"
+    },
+    {
+      "start": 1148.48,
+      "end": 1154.08,
+      "text": "run? Well, potentially long enough to start taking us towards some of the worst case oil scenarios"
+    },
+    {
+      "start": 1154.08,
+      "end": 1159.44,
+      "text": "that you're describing. If you're in that particular camp and I think a lot of people are, what is to"
+    },
+    {
+      "start": 1159.44,
+      "end": 1167.76,
+      "text": "stop the US taking even more radical economic state craft action is self vis-a-vis energy because"
+    },
+    {
+      "start": 1167.76,
+      "end": 1172.88,
+      "text": "we've seen the US, for example, regularly dip into the SPR. Now that's economic state craft, Biden"
+    },
+    {
+      "start": 1172.88,
+      "end": 1176.88,
+      "text": "did it, Trump's doing it again now and that's one of the reasons why we're not seeing energy prices"
+    },
+    {
+      "start": 1176.88,
+      "end": 1182.0800000000002,
+      "text": "going up and actually if anything, they're coming down overall, trending lower. But that's obviously"
+    },
+    {
+      "start": 1182.0800000000002,
+      "end": 1187.6000000000001,
+      "text": "a pot of a physical capital that's only got so much in the banks so to speak. But what if they"
+    },
+    {
+      "start": 1187.6000000000001,
+      "end": 1193.92,
+      "text": "were to say, right, number one, we are going to stop exports of refined products. Now they've"
+    },
+    {
+      "start": 1193.92,
+      "end": 1198.0800000000002,
+      "text": "denied it, but of course, you know, you should never consider anything it has been officially denied."
+    },
+    {
+      "start": 1198.0800000000002,
+      "end": 1202.16,
+      "text": "And I think in a lot of people can talk through the nuts and bolts of that and it wouldn't necessarily"
+    },
+    {
+      "start": 1202.16,
+      "end": 1206.64,
+      "text": "achieve what they want to achieve but you couldn't rule it out. But that's the US and isolation."
+    },
+    {
+      "start": 1206.64,
+      "end": 1214.4,
+      "text": "The more radical idea I had is that we can actually see the US in the face of a looming energy crisis"
+    },
+    {
+      "start": 1214.4,
+      "end": 1220.4,
+      "text": "where it really is just catastrophic, potentially, you know, in the near term horizon, looking at a"
+    },
+    {
+      "start": 1220.4,
+      "end": 1228.4,
+      "text": "certain subset of countries. For example, Mexico, Canada, Venezuela, Guyana, you know, others in"
+    },
+    {
+      "start": 1228.4,
+      "end": 1234.0800000000002,
+      "text": "Latin America and key players in the Middle East who are still prepared to work with it and key"
+    },
+    {
+      "start": 1234.0800000000002,
+      "end": 1239.76,
+      "text": "countries in Asia who are US allies who have key refining capacity and saying, look, let's do the"
+    },
+    {
+      "start": 1239.76,
+      "end": 1244.72,
+      "text": "math here, if we look at oil production and oil consumption and I know that oil is not generic,"
+    },
+    {
+      "start": 1244.72,
+      "end": 1249.2,
+      "text": "I know there are different kinds obviously, but we have the right mix and match between us of"
+    },
+    {
+      "start": 1249.2,
+      "end": 1256.64,
+      "text": "production, consumption and refineries. If we form a closed loop, we can potentially get through this"
+    },
+    {
+      "start": 1257.44,
+      "end": 1262.0,
+      "text": "and it's everyone else who's in serious trouble. So that would really fragment the global energy"
+    },
+    {
+      "start": 1262.0,
+      "end": 1266.32,
+      "text": "markets in a way that we've already started to see in terms of different pricing for different kinds"
+    },
+    {
+      "start": 1266.32,
+      "end": 1270.8,
+      "text": "of product for different geography, but it would take that to an extreme. And the kind of the"
+    },
+    {
+      "start": 1270.8,
+      "end": 1276.8,
+      "text": "pun that I'm playing on for this idea is instead of having NAFTA, which of course no longer exists,"
+    },
+    {
+      "start": 1276.8,
+      "end": 1283.28,
+      "text": "and the USMCA itself is now being renegotiated as we speak. Instead of having NAFTA, you have NAFTA,"
+    },
+    {
+      "start": 1283.28,
+      "end": 1290.6399999999999,
+      "text": "which is the North American Petroleum and Hydrocarbons Trading Hub Association, where effectively you have"
+    },
+    {
+      "start": 1290.6399999999999,
+      "end": 1295.2,
+      "text": "again this closed loop for energy, which means that the US could say to others, well look, we can"
+    },
+    {
+      "start": 1295.2,
+      "end": 1298.88,
+      "text": "write this out. It's you who can't. Are you going to help us solve it or not?"
+    },
+    {
+      "start": 1299.44,
+      "end": 1306.96,
+      "text": "And what would the next card be in that deck? If we're going to force you to play ball with us,"
+    },
+    {
+      "start": 1306.96,
+      "end": 1312.0,
+      "text": "you're going to have to do what we ask you to do in order to solve this. And they say, okay, Uncle,"
+    },
+    {
+      "start": 1312.0,
+      "end": 1316.4,
+      "text": "we have to do what you say. What does the US tell those countries to do?"
+    },
+    {
+      "start": 1316.88,
+      "end": 1323.1200000000001,
+      "text": "Well, again, this is purely a hypothetical. It's not a forecast, but I enjoy these kind of scenario"
+    },
+    {
+      "start": 1323.1200000000001,
+      "end": 1330.3200000000002,
+      "text": "projections, rather than using military statecraft, which is obviously worked in Venezuela in a very"
+    },
+    {
+      "start": 1330.3200000000002,
+      "end": 1336.16,
+      "text": "focused manner, and is what is not working at the moment. These are the Iran versus where it was"
+    },
+    {
+      "start": 1336.16,
+      "end": 1341.7600000000002,
+      "text": "a few months ago. We've heard this stalemate. This comes purely back to economic statecraft and"
+    },
+    {
+      "start": 1341.7600000000002,
+      "end": 1348.4,
+      "text": "coercion, which is work with us. And together with Fed swap lines, which of course have now been"
+    },
+    {
+      "start": 1348.4,
+      "end": 1354.3200000000002,
+      "text": "offered to the UAE, which is itself very cash rich, as a currency peg to the dollar and has an"
+    },
+    {
+      "start": 1354.3200000000002,
+      "end": 1359.2800000000002,
+      "text": "awful lot of energy, and is no longer an opaque and opaque plus, as we know. Let's start offering"
+    },
+    {
+      "start": 1359.2800000000002,
+      "end": 1365.2,
+      "text": "swap lines to people. So they have that ultimate financial backstop, which most commodity producers"
+    },
+    {
+      "start": 1365.2,
+      "end": 1372.48,
+      "text": "traditionally don't. It's only the old boy network of Europe, the OJ, etc., etc., who have it"
+    },
+    {
+      "start": 1373.28,
+      "end": 1378.96,
+      "text": "when needed for financial assets. Well, no, okay, now it's for new allies, rather than old allies,"
+    },
+    {
+      "start": 1378.96,
+      "end": 1383.92,
+      "text": "and it's for physical commodities. So let's offer that. Let's offer the defense umbrella while"
+    },
+    {
+      "start": 1383.92,
+      "end": 1389.2,
+      "text": "it still has some meaning, which is one of the reasons why the US, I think, can't cut and run"
+    },
+    {
+      "start": 1389.2,
+      "end": 1394.16,
+      "text": "and do a taco, which is, I joke, does the whole enchilada. But if we do do that and then say,"
+    },
+    {
+      "start": 1394.16,
+      "end": 1398.48,
+      "text": "and together with these other countries, banging heads together, we can make sure that we can"
+    },
+    {
+      "start": 1398.56,
+      "end": 1403.92,
+      "text": "survive the energy crisis and others can't, I think just that carrot itself would see a lot of"
+    },
+    {
+      "start": 1403.92,
+      "end": 1409.92,
+      "text": "people rethinking. In the same way, and adjunct to this, that while Canada has been obviously"
+    },
+    {
+      "start": 1409.92,
+      "end": 1414.88,
+      "text": "daggers drawn with the US, because of the way it's been treated in public, and one can understand"
+    },
+    {
+      "start": 1415.68,
+      "end": 1420.88,
+      "text": "why it's gone there, the change in rhetoric in some recent headlines from them has been remarkable"
+    },
+    {
+      "start": 1420.88,
+      "end": 1425.92,
+      "text": "that in January, you had the Prime Minister, you know, Karni, saying that we're in favor of a new"
+    },
+    {
+      "start": 1426.0,
+      "end": 1432.0,
+      "text": "world order working with China, which is quite remarkable rhetoric for a NATO ally bordering the US,"
+    },
+    {
+      "start": 1432.72,
+      "end": 1438.0800000000002,
+      "text": "to last week saying, we want to form a new partnership with the US to make America great again,"
+    },
+    {
+      "start": 1438.0800000000002,
+      "end": 1442.88,
+      "text": "and that's a direct quote. So imagine what's going to happen or what could happen,"
+    },
+    {
+      "start": 1442.88,
+      "end": 1448.24,
+      "text": "were we to see that kind of looming energy crisis. And I think that coercion itself, that carrot"
+    },
+    {
+      "start": 1448.24,
+      "end": 1451.68,
+      "text": "together with that stick that we're creating this crisis by not just walking away,"
+    },
+    {
+      "start": 1452.3200000000002,
+      "end": 1456.88,
+      "text": "could do a lot of the moving parts or be a lot of the moving parts in and of itself without"
+    },
+    {
+      "start": 1456.88,
+      "end": 1463.04,
+      "text": "any guns being needed to be placed on any tables. You're describing a scenario where the US has a"
+    },
+    {
+      "start": 1463.04,
+      "end": 1468.72,
+      "text": "stronger hand of cards than other players at the table because we could weather the crisis"
+    },
+    {
+      "start": 1469.44,
+      "end": 1475.28,
+      "text": "longer than others could. It seems to me that in some ways, China, I mean China has more oil"
+    },
+    {
+      "start": 1475.28,
+      "end": 1480.4,
+      "text": "reserves than anybody, including the United States. They haven't drawn them all down. The US during"
+    },
+    {
+      "start": 1480.4,
+      "end": 1486.72,
+      "text": "the Biden administration has already drawn down its strategic petroleum reserve considerably. It's"
+    },
+    {
+      "start": 1486.72,
+      "end": 1493.1200000000001,
+      "text": "now being drawn down to much lower lows. China's held on to all of theirs. Now China doesn't have the"
+    },
+    {
+      "start": 1493.1200000000001,
+      "end": 1501.92,
+      "text": "production capability that the US has. So it's not an apples to apples comparison, but is China"
+    },
+    {
+      "start": 1501.92,
+      "end": 1507.2800000000002,
+      "text": "in a particularly strong position here? And what are the scenarios where China might assert"
+    },
+    {
+      "start": 1507.36,
+      "end": 1512.32,
+      "text": "their strong hand? First of all, let's think about what their strong hand is. And obviously"
+    },
+    {
+      "start": 1513.04,
+      "end": 1518.8,
+      "text": "they are a commodity champion either as the net importer and therefore everyone has to pay"
+    },
+    {
+      "start": 1518.8,
+      "end": 1524.8,
+      "text": "attention to them. And if they have the stocks in theory, they can be the net supplier to people"
+    },
+    {
+      "start": 1524.8,
+      "end": 1529.12,
+      "text": "in the way that the US actually is at the moment and Japan is by drawing down its particular"
+    },
+    {
+      "start": 1529.84,
+      "end": 1535.76,
+      "text": "reserves and sharing them with others in Asia. So if China's stocks are as high as they say"
+    },
+    {
+      "start": 1535.76,
+      "end": 1540.08,
+      "text": "and let's just say that there are different views on that. I'm not getting into it and I'm not"
+    },
+    {
+      "start": 1540.08,
+      "end": 1544.32,
+      "text": "trying to nudge wing, but there are public views out there that are not as high as people think"
+    },
+    {
+      "start": 1544.32,
+      "end": 1549.44,
+      "text": "or they're even higher. We really don't know. But let's presume they're very, very high. Well,"
+    },
+    {
+      "start": 1549.44,
+      "end": 1553.6,
+      "text": "then potentially China can turn around and say, look, the US has the ability for now to dip into"
+    },
+    {
+      "start": 1553.6,
+      "end": 1559.36,
+      "text": "the SPR for a while. It's got their defense stack. It's got the ability to step in and help on"
+    },
+    {
+      "start": 1559.3600000000001,
+      "end": 1567.2800000000002,
+      "text": "other fronts too. So we can step in physically with product and say, if you actually need oil,"
+    },
+    {
+      "start": 1567.2800000000002,
+      "end": 1572.64,
+      "text": "we have buckets of it. We can offer you the Remindy via Remindy swap lines which can be set up"
+    },
+    {
+      "start": 1572.64,
+      "end": 1578.48,
+      "text": "in various different ways. And effectively, we can be there through a medium term crisis"
+    },
+    {
+      "start": 1578.48,
+      "end": 1582.64,
+      "text": "in the same way that the US can. And maybe we don't have the same military cards to play yet,"
+    },
+    {
+      "start": 1582.64,
+      "end": 1587.92,
+      "text": "but maybe in another few years we will and Russia can help out of the margin. So you could potentially"
+    },
+    {
+      "start": 1587.92,
+      "end": 1593.3600000000001,
+      "text": "see that as being some kind of alternative emerging over time. But that really does depend on"
+    },
+    {
+      "start": 1593.3600000000001,
+      "end": 1599.04,
+      "text": "whether China wants to share. And you'll notice that initially during this crisis, the first thing"
+    },
+    {
+      "start": 1599.04,
+      "end": 1603.92,
+      "text": "they did was to stop exporting, you know, refined products and fertilizer, etc., which didn't"
+    },
+    {
+      "start": 1603.92,
+      "end": 1609.52,
+      "text": "exactly stand behind that view. And interestingly enough, it's only I think around an hour"
+    },
+    {
+      "start": 1610.16,
+      "end": 1616.48,
+      "text": "after the UAE left OPEC and OPEC+. There's suddenly China started exporting again because I think"
+    },
+    {
+      "start": 1616.48,
+      "end": 1621.2,
+      "text": "they've realized that these geopolitical tectonic plates are shifting. And I need you to start"
+    },
+    {
+      "start": 1621.2,
+      "end": 1625.1200000000001,
+      "text": "staying ahead of the game and realizing that that would be potentially an offering they would have"
+    },
+    {
+      "start": 1625.1200000000001,
+      "end": 1630.64,
+      "text": "to make to people. But that's only true if they have the reserves. Let's take the other completely"
+    },
+    {
+      "start": 1630.64,
+      "end": 1634.96,
+      "text": "hypothetical case that they don't. Let's say that they're not there the way that they profess."
+    },
+    {
+      "start": 1634.96,
+      "end": 1639.76,
+      "text": "How would we know? Well, then they're not in particularly strong position. They can, you know,"
+    },
+    {
+      "start": 1639.76,
+      "end": 1645.92,
+      "text": "maybe keep going for another couple of months and then just as many other countries would realize"
+    },
+    {
+      "start": 1645.92,
+      "end": 1651.68,
+      "text": "by the time that we get to late summer, things are looking really pretty messy. At which point,"
+    },
+    {
+      "start": 1651.68,
+      "end": 1657.52,
+      "text": "that brings us back to, you know, the hypothesis that I've been, you know, expounding for quite some"
+    },
+    {
+      "start": 1657.52,
+      "end": 1663.28,
+      "text": "time, which is that ultimately part of this resolution could be ironically China having to work"
+    },
+    {
+      "start": 1663.28,
+      "end": 1668.4,
+      "text": "with the US against its own ally, Iran, because it realizes that the potential damage to it"
+    },
+    {
+      "start": 1668.96,
+      "end": 1673.52,
+      "text": "from this crisis is even larger than losing Iran as an ally. Now, we're not there yet,"
+    },
+    {
+      "start": 1673.52,
+      "end": 1677.68,
+      "text": "clearly, otherwise there'll be more movement, or at least you'd pick up rumors of it even if it"
+    },
+    {
+      "start": 1677.68,
+      "end": 1683.76,
+      "text": "isn't being reported in the mainstream press. It's still logical that could appear at some moment,"
+    },
+    {
+      "start": 1683.76,
+      "end": 1688.6399999999999,
+      "text": "but it purely depends, as I said, in terms of what China can assemble, and that's a product of what"
+    },
+    {
+      "start": 1688.6399999999999,
+      "end": 1693.6,
+      "text": "they do, what don't have as cards in hand, and there's no transparency on that front. Michael,"
+    },
+    {
+      "start": 1693.6,
+      "end": 1700.0,
+      "text": "let's come back to the US implications of this. Experts are telling us that even if the crisis"
+    },
+    {
+      "start": 1700.08,
+      "end": 1706.0,
+      "text": "ended tomorrow, it would take maybe four or five months before oil prices and particularly"
+    },
+    {
+      "start": 1706.0,
+      "end": 1712.8,
+      "text": "finished product gasoline prices would start to stabilize again. Okay, well, the midterm elections"
+    },
+    {
+      "start": 1712.8,
+      "end": 1720.24,
+      "text": "are only five months away now. So if gasoline prices stay at these extreme elevated levels"
+    },
+    {
+      "start": 1720.24,
+      "end": 1725.36,
+      "text": "all the way through the midterm elections, does that make it extremely difficult for the"
+    },
+    {
+      "start": 1725.92,
+      "end": 1733.1200000000001,
+      "text": "Republicans to hold on to the Congress, and if they lose the Congress, what are the implications?"
+    },
+    {
+      "start": 1733.1200000000001,
+      "end": 1738.64,
+      "text": "Well, let's unpack that in a couple of different ways. First of all, as we have seen, and as you"
+    },
+    {
+      "start": 1738.64,
+      "end": 1743.8400000000001,
+      "text": "were referring to at the beginning of this conversation, all it takes is a few handy tweets and"
+    },
+    {
+      "start": 1743.8400000000001,
+      "end": 1749.2,
+      "text": "prices can go down five, six percent in a day. So tweeting doesn't cost that much, and it's"
+    },
+    {
+      "start": 1749.2,
+      "end": 1754.72,
+      "text": "amazing how much of an impact it can have for a while. Ultimately, if we are going to hit that"
+    },
+    {
+      "start": 1754.72,
+      "end": 1761.3600000000001,
+      "text": "pinch point up ahead, it's not going to work forever, unless that particular optimistic view that"
+    },
+    {
+      "start": 1761.3600000000001,
+      "end": 1765.92,
+      "text": "this is a crisis that can be worked through, because for example, China is importing much less"
+    },
+    {
+      "start": 1765.92,
+      "end": 1770.4,
+      "text": "at the moment, and is there some kind of background cooperation going on with the US? We simply"
+    },
+    {
+      "start": 1770.4,
+      "end": 1775.1200000000001,
+      "text": "don't know, then that might be one solution. If not, and we do find that tweets don't work anymore"
+    },
+    {
+      "start": 1775.1200000000001,
+      "end": 1782.0,
+      "text": "on prices start moving higher, that's exactly the pressure that would lead to, hypothetically,"
+    },
+    {
+      "start": 1782.08,
+      "end": 1786.48,
+      "text": "the US making one of two different choices. Number one is saying, okay, we have to go the whole"
+    },
+    {
+      "start": 1786.48,
+      "end": 1793.68,
+      "text": "enchilada, and say this is a mega-taco, which really does us enormous geostrategic damage"
+    },
+    {
+      "start": 1793.68,
+      "end": 1800.4,
+      "text": "on the entire West. Or we have to look at the NAPFA scenario I was just talking about, which is we"
+    },
+    {
+      "start": 1800.4,
+      "end": 1805.44,
+      "text": "will have lower prices in conjunction with others, but it means that they're going to be much, much,"
+    },
+    {
+      "start": 1805.44,
+      "end": 1810.72,
+      "text": "much higher in a larger subset of countries, and we're not going to get our reputation back on the"
+    },
+    {
+      "start": 1810.72,
+      "end": 1815.1200000000001,
+      "text": "other side of that, but we can live with it. But that's just the energy side of it. You then"
+    },
+    {
+      "start": 1815.1200000000001,
+      "end": 1819.6000000000001,
+      "text": "have to look at the US itself, and I'm actually speaking from the US today, which is one of the reasons"
+    },
+    {
+      "start": 1819.6000000000001,
+      "end": 1824.24,
+      "text": "why I apologize if I'm stumbling over my words somewhat, the jet lag traveling here from Asia is"
+    },
+    {
+      "start": 1824.24,
+      "end": 1830.48,
+      "text": "quite remarkable sometimes. But we've seen this constitutional upheaval, and I do think we have to"
+    },
+    {
+      "start": 1830.48,
+      "end": 1835.44,
+      "text": "be cognizant of the fact that obviously high gasoline prices are very unpopular, but at the same"
+    },
+    {
+      "start": 1835.44,
+      "end": 1841.6000000000001,
+      "text": "time it's always a binary, one party or the other, and it's also about enthusiasm. So provided"
+    },
+    {
+      "start": 1841.6000000000001,
+      "end": 1846.64,
+      "text": "enthusiasm can be kept up by Trump, one way or another. I'm not saying that can happen, but it's"
+    },
+    {
+      "start": 1846.64,
+      "end": 1851.28,
+      "text": "not impossible. If you can make it a sharp binary between whatever Trump is putting forward as a"
+    },
+    {
+      "start": 1851.28,
+      "end": 1856.16,
+      "text": "platform as a time versus what the Democrats are doing with the redistricting that we're currently"
+    },
+    {
+      "start": 1856.16,
+      "end": 1864.56,
+      "text": "seeing, it's still not a gimmie that he loses the midterms. We have seen very experienced"
+    },
+    {
+      "start": 1864.6399999999999,
+      "end": 1871.2,
+      "text": "election callers really humiliated several times, not just in America, but around the world in recent"
+    },
+    {
+      "start": 1871.2,
+      "end": 1875.6799999999998,
+      "text": "years. And I wouldn't rule out that the confidence that people have of what it will look like in November"
+    },
+    {
+      "start": 1875.6799999999998,
+      "end": 1882.56,
+      "text": "could prove misplaced once again. Michael, let's move on to gold now. You know, a lot of us thought that"
+    },
+    {
+      "start": 1882.56,
+      "end": 1889.2,
+      "text": "the reason gold has been so weak and why we saw a breakdown in the usual correlation where normally"
+    },
+    {
+      "start": 1889.44,
+      "end": 1894.96,
+      "text": "bombs start falling, the gold goes up in this crisis, it's been bombs falling, gold goes down."
+    },
+    {
+      "start": 1895.52,
+      "end": 1901.52,
+      "text": "Most people myself included have assumed that the reason for that has been that we're seeing"
+    },
+    {
+      "start": 1901.52,
+      "end": 1906.96,
+      "text": "an oil price driven inflation signal that's kind of spooking the precious metals market. But you"
+    },
+    {
+      "start": 1906.96,
+      "end": 1915.28,
+      "text": "know, we just had a 10-day long, pretty significant risk off cycle in oil prices, and gold didn't"
+    },
+    {
+      "start": 1915.28,
+      "end": 1921.52,
+      "text": "recover to new all-time highs or anywhere close to it. So maybe we're, I'm feeling like maybe I've"
+    },
+    {
+      "start": 1921.52,
+      "end": 1928.32,
+      "text": "misdiagnosed why we've had all of this weakness in gold. And so I wonder, what do you think has"
+    },
+    {
+      "start": 1928.32,
+      "end": 1933.84,
+      "text": "caused gold to be so weak? And what's it going to take for it to bottom and eventually turn around"
+    },
+    {
+      "start": 1933.84,
+      "end": 1938.32,
+      "text": "or does it turn around? Well, again, without giving any kind of investment advice, I'm looking at"
+    },
+    {
+      "start": 1938.32,
+      "end": 1944.32,
+      "text": "this as part of a bigger picture thesis rather than focusing on one asset and then trying to explain"
+    },
+    {
+      "start": 1944.32,
+      "end": 1949.76,
+      "text": "everything back from there, because that's my methodology, the format and not the latter."
+    },
+    {
+      "start": 1950.32,
+      "end": 1955.04,
+      "text": "I think an interesting anecdote, and that's the best I will do here because people who look at gold"
+    },
+    {
+      "start": 1955.04,
+      "end": 1961.52,
+      "text": "full-time will obviously get passionate about this and send me very angry emails. But I think the"
+    },
+    {
+      "start": 1961.52,
+      "end": 1968.1599999999999,
+      "text": "best thing to explain is, it's very early on in the war, you saw the fact that people were"
+    },
+    {
+      "start": 1968.16,
+      "end": 1974.64,
+      "text": "finding that they were having to sell gold for dollars to try and move them abroad and then"
+    },
+    {
+      "start": 1974.64,
+      "end": 1980.24,
+      "text": "buy other assets again. So when it actually came, push came to shove in the Middle East, you"
+    },
+    {
+      "start": 1980.24,
+      "end": 1985.28,
+      "text": "actually had missiles flying in a region which historically likes gold a lot. You suddenly have"
+    },
+    {
+      "start": 1985.28,
+      "end": 1991.0400000000002,
+      "text": "people realizing it's not the easiest thing to flee with. Actually, I, in it, worked individual"
+    },
+    {
+      "start": 1991.0400000000002,
+      "end": 1996.8000000000002,
+      "text": "with a safe full of dollars, sorry, it's a safe full of gold. And it is ironically for all the problem"
+    },
+    {
+      "start": 1996.8,
+      "end": 2002.72,
+      "text": "with currency, which I'm not going to unpack here. We're all aware of the downsides. It's pretty"
+    },
+    {
+      "start": 2002.72,
+      "end": 2008.24,
+      "text": "easy to get out of the country by one press of a button at times. And then on the other side of"
+    },
+    {
+      "start": 2008.24,
+      "end": 2013.2,
+      "text": "that, do you really want to put it back into very heavy to carry metals on the other side?"
+    },
+    {
+      "start": 2013.2,
+      "end": 2020.0,
+      "text": "Now there's only one factor amongst many, but I do think it feeds into a broader thread running"
+    },
+    {
+      "start": 2020.0,
+      "end": 2024.6399999999999,
+      "text": "through Iran, running through economic state craft, running through what the Fed and Warsh are doing."
+    },
+    {
+      "start": 2025.3600000000001,
+      "end": 2034.72,
+      "text": "And that is what is our emerging geopolitical, geoeconomic, geofinancial architecture looking"
+    },
+    {
+      "start": 2034.72,
+      "end": 2040.4,
+      "text": "like on the other side of this war. Because, you know, at the moment, you say the war is an"
+    },
+    {
+      "start": 2040.4,
+      "end": 2044.0800000000002,
+      "text": "interregnant, we don't know if it's going to start again or just fade away. The shooting we've"
+    },
+    {
+      "start": 2044.0800000000002,
+      "end": 2048.96,
+      "text": "seen over the past couple of days has been, you know, quote, unquote, mostly peaceful bombing,"
+    },
+    {
+      "start": 2049.04,
+      "end": 2055.28,
+      "text": "if you can get away with that phrase. But people aren't genuinely focusing yet on what"
+    },
+    {
+      "start": 2055.28,
+      "end": 2061.6,
+      "text": "things will look like when it is over, whether the US wins or loses or this draw drags on longer."
+    },
+    {
+      "start": 2061.6,
+      "end": 2065.76,
+      "text": "And we've talked about the energy side of it to a degree, but many other things factor into it."
+    },
+    {
+      "start": 2065.76,
+      "end": 2073.84,
+      "text": "And the dollar, gold, stable coins, commodities, all of them factor in too and in a very big way."
+    },
+    {
+      "start": 2073.92,
+      "end": 2080.32,
+      "text": "Michael, let's come back to your specialty of economic state craft. That includes stable coins,"
+    },
+    {
+      "start": 2080.32,
+      "end": 2083.92,
+      "text": "it includes the swap lines that I think have been offered to the UAE. There's probably other"
+    },
+    {
+      "start": 2083.92,
+      "end": 2089.6800000000003,
+      "text": "dimensions of this. Take us out to the bigger picture of what's going on here in terms of what you"
+    },
+    {
+      "start": 2089.6800000000003,
+      "end": 2096.88,
+      "text": "think Trump and Bessent really have in mind longer term. What are their intentions for the US to"
+    },
+    {
+      "start": 2096.88,
+      "end": 2102.48,
+      "text": "assert economic state craft and how are the ways that that's going to play out? Sure. Well, I think"
+    },
+    {
+      "start": 2102.8,
+      "end": 2110.4,
+      "text": "the easiest summary of that is that clearly there's absolutely no appetite from Bessent or from"
+    },
+    {
+      "start": 2110.4,
+      "end": 2118.0,
+      "text": "Trump to give up the global power of the dollar, but there's a full understanding that the euro dollar"
+    },
+    {
+      "start": 2118.0,
+      "end": 2124.16,
+      "text": "system, which does give the US a great deal of power, is also responsible for the industrializing"
+    },
+    {
+      "start": 2124.16,
+      "end": 2130.56,
+      "text": "it because everyone demands the euro dollar, which comes from holding US financial assets rather"
+    },
+    {
+      "start": 2130.56,
+      "end": 2137.92,
+      "text": "than productive assets. You can make the link that effectively the rules-based order was propped"
+    },
+    {
+      "start": 2137.92,
+      "end": 2144.7999999999997,
+      "text": "up ultimately by the US military. The US military was propped up by US industry and US industry was"
+    },
+    {
+      "start": 2144.7999999999997,
+      "end": 2152.0,
+      "text": "killed effectively by the US dollar system. Therefore, the US dollar system killed the system,"
+    },
+    {
+      "start": 2152.0,
+      "end": 2157.04,
+      "text": "the rules-based order, which actually props up. It's a closed loop and I've been arguing that"
+    },
+    {
+      "start": 2157.12,
+      "end": 2161.04,
+      "text": "in various different ways for a long time. But that doesn't mean you want to give the dollar"
+    },
+    {
+      "start": 2161.04,
+      "end": 2166.16,
+      "text": "up completely. So I think what they are going to try and do, and we've discussed this in part"
+    },
+    {
+      "start": 2166.16,
+      "end": 2170.56,
+      "text": "before. But again, it runs through this war, it runs through energy, it runs through commodities,"
+    },
+    {
+      "start": 2170.56,
+      "end": 2175.92,
+      "text": "but trying to push back at once China is doing like through, let us do a stick of rock. It is the"
+    },
+    {
+      "start": 2175.92,
+      "end": 2182.72,
+      "text": "use of stablecoins to effectively create lower interest rates in the US and effectively sucking"
+    },
+    {
+      "start": 2182.8,
+      "end": 2190.0000000000005,
+      "text": "euro dollars out of parts of the global economy and replacing them with these digital tokens,"
+    },
+    {
+      "start": 2190.0000000000005,
+      "end": 2195.44,
+      "text": "which to an extent for the US have by one get one free. So why would you not want to do that?"
+    },
+    {
+      "start": 2195.44,
+      "end": 2199.6000000000004,
+      "text": "And they also have a sorting effect in that the countries that will trade with you, that will put"
+    },
+    {
+      "start": 2199.6000000000004,
+      "end": 2205.5200000000004,
+      "text": "tariffs on China and share a common external tariff with you against them and split their technology"
+    },
+    {
+      "start": 2205.5200000000004,
+      "end": 2209.44,
+      "text": "supply chains and work with you on defense. They will be the ones that will expect the"
+    },
+    {
+      "start": 2209.44,
+      "end": 2214.4,
+      "text": "accept these digital tokens, which are not money, but they can become money if people will accept"
+    },
+    {
+      "start": 2214.4,
+      "end": 2218.8,
+      "text": "them as money. They will be the ones who will accept them, and the ones who ultimately won't"
+    },
+    {
+      "start": 2218.8,
+      "end": 2223.84,
+      "text": "be going to be your allies anyway. So there's a sorting effect, there's a reorganizational effect,"
+    },
+    {
+      "start": 2223.84,
+      "end": 2228.32,
+      "text": "there's a buy one get one free in a fiscal breeding room through all of that. So that's what I think"
+    },
+    {
+      "start": 2228.32,
+      "end": 2234.4,
+      "text": "the US is trying to achieve there. And I think they were already, they were moving towards that."
+    },
+    {
+      "start": 2234.48,
+      "end": 2240.4,
+      "text": "The Iran crisis slash war is likely to accelerate that, particularly depending on how it ends."
+    },
+    {
+      "start": 2241.04,
+      "end": 2246.48,
+      "text": "But that's just the US view. There are other countries and other players involved here."
+    },
+    {
+      "start": 2246.48,
+      "end": 2251.84,
+      "text": "Obviously, it's not only the US playing the game, and the interaction of how all the different"
+    },
+    {
+      "start": 2251.84,
+      "end": 2257.36,
+      "text": "players come together will drive ultimately what that architecture looks like. You mentioned"
+    },
+    {
+      "start": 2257.36,
+      "end": 2263.44,
+      "text": "earlier the scenario of you said something up to the effect of if the US wins this war with"
+    },
+    {
+      "start": 2263.44,
+      "end": 2268.8,
+      "text": "Iran or loses this war. It really got me thinking, obviously the US is not going to lose the war"
+    },
+    {
+      "start": 2268.8,
+      "end": 2273.52,
+      "text": "in the sense of Iran won and destroyed the United States and the country doesn't exist anymore."
+    },
+    {
+      "start": 2273.52,
+      "end": 2279.76,
+      "text": "So what does losing the war for the United States look like? Is it just the scenario where Trump"
+    },
+    {
+      "start": 2279.76,
+      "end": 2285.68,
+      "text": "is forced to taco and walk away and say, okay, I didn't work out the way we thought and just walk"
+    },
+    {
+      "start": 2285.68,
+      "end": 2292.0,
+      "text": "away from this leaving Iran kind of controlling the straight? Is that the lose scenario or is there a"
+    },
+    {
+      "start": 2292.0,
+      "end": 2298.32,
+      "text": "worse one I haven't thought of? It's a cascading effect that flows on from that because"
+    },
+    {
+      "start": 2299.12,
+      "end": 2304.8,
+      "text": "what it would do at a meta level is show that even when you have a very ostensibly gun hoe"
+    },
+    {
+      "start": 2304.8,
+      "end": 2309.12,
+      "text": "president like Trump, I mean in reality, of course, he hasn't been getting involved in wars on"
+    },
+    {
+      "start": 2309.12,
+      "end": 2314.72,
+      "text": "a large scale up until recently. Of course, that's what he's campaigned on. So successfully in the past,"
+    },
+    {
+      "start": 2314.72,
+      "end": 2319.44,
+      "text": "which is counter to the image that some people have of him domestically and internationally."
+    },
+    {
+      "start": 2319.52,
+      "end": 2323.92,
+      "text": "But even when you have someone who's prepared to talk very tough about these things,"
+    },
+    {
+      "start": 2323.92,
+      "end": 2329.12,
+      "text": "that effectively the US would be in a state that the geo strategy said would look back"
+    },
+    {
+      "start": 2329.12,
+      "end": 2334.7200000000003,
+      "text": "refers to as post-heroic whereby, and this isn't any kind of criticism, it's just an observation,"
+    },
+    {
+      "start": 2334.7200000000003,
+      "end": 2341.2000000000003,
+      "text": "that the US is so casualty phobic that while it has this magnificent technological military"
+    },
+    {
+      "start": 2341.2000000000003,
+      "end": 2345.68,
+      "text": "machine, which is of course very highly brilliant on inputs from China and others, and that's"
+    },
+    {
+      "start": 2345.7599999999998,
+      "end": 2350.08,
+      "text": "part of what Trump is trying to address by, you know, ensuring and shifting supply chains,"
+    },
+    {
+      "start": 2350.08,
+      "end": 2355.9199999999996,
+      "text": "et cetera, et cetera, it's limited in what it can achieve. It can do a lot, but it can't achieve"
+    },
+    {
+      "start": 2355.9199999999996,
+      "end": 2360.0,
+      "text": "everything it needs to in the same way that Israel wasn't able to fully defeat Hamas,"
+    },
+    {
+      "start": 2360.8799999999997,
+      "end": 2364.96,
+      "text": "because it would have required, you know, many more men on the ground going everywhere."
+    },
+    {
+      "start": 2364.96,
+      "end": 2368.8799999999997,
+      "text": "The US would have needed to have boots on the ground versus Iran. In some scenarios,"
+    },
+    {
+      "start": 2368.8799999999997,
+      "end": 2374.0,
+      "text": "you could argue that. And if that political well for that isn't there, then you can say, well,"
+    },
+    {
+      "start": 2374.0,
+      "end": 2379.68,
+      "text": "therefore there are certain geo strategic problems or quandaries that the US simply isn't going"
+    },
+    {
+      "start": 2379.68,
+      "end": 2384.56,
+      "text": "to be able to resolve, and the cost of being involved is going to get higher and higher without any"
+    },
+    {
+      "start": 2385.28,
+      "end": 2391.52,
+      "text": "realistic prospect of victory, ergo, the more logical thing to do is to, as you said, cut and run"
+    },
+    {
+      "start": 2391.52,
+      "end": 2397.76,
+      "text": "and say, right, however we dress it up, Iran controls Hamas, et cetera, et cetera, but that would"
+    },
+    {
+      "start": 2397.76,
+      "end": 2404.32,
+      "text": "shatter the US image globally, which is why in the past, I've referred to it as a 1956 crisis"
+    },
+    {
+      "start": 2404.32,
+      "end": 2408.8,
+      "text": "for the US and the way that the UK and France experience one, then it dropped them from being"
+    },
+    {
+      "start": 2408.8,
+      "end": 2413.84,
+      "text": "great powers to just being powers. And the US would, of course, remain a hyper power,"
+    },
+    {
+      "start": 2413.84,
+      "end": 2417.92,
+      "text": "what is to happen, but people would recognize, well, there are lots of things it just can't or"
+    },
+    {
+      "start": 2417.92,
+      "end": 2424.2400000000002,
+      "text": "won't do anymore. And that does absolutely change the parameters within which its opponents would"
+    },
+    {
+      "start": 2424.2400000000002,
+      "end": 2428.32,
+      "text": "expect it to then operate, so it really is very significant. And within the Middle East in"
+    },
+    {
+      "start": 2428.32,
+      "end": 2433.28,
+      "text": "particular, just to underline that, it would change the dynamic totally. It wouldn't necessarily be"
+    },
+    {
+      "start": 2433.28,
+      "end": 2437.6800000000003,
+      "text": "for the better for anyone else either, because if Iran says, well, effectively we're top dog,"
+    },
+    {
+      "start": 2438.7200000000003,
+      "end": 2444.2400000000002,
+      "text": "even the other UAE has openly come out and attacked Iran several times with this album revealed,"
+    },
+    {
+      "start": 2445.0400000000004,
+      "end": 2448.8,
+      "text": "much of the golf might end up having to try and make toes with Iran, even though they don't like it,"
+    },
+    {
+      "start": 2449.36,
+      "end": 2453.5200000000004,
+      "text": "but not everyone would, is potentially the case that the UAE in Israel would continue sniping"
+    },
+    {
+      "start": 2453.52,
+      "end": 2458.56,
+      "text": "away at it. And you could still therefore have structurally high energy prices, even if the US says,"
+    },
+    {
+      "start": 2458.56,
+      "end": 2464.72,
+      "text": "well, we're out of here. Countries that are permanently based there may not accept the fact that"
+    },
+    {
+      "start": 2464.72,
+      "end": 2470.48,
+      "text": "that happens and say, we're not going to give up. So there are lots and lots of cascading effects,"
+    },
+    {
+      "start": 2470.48,
+      "end": 2478.56,
+      "text": "both for the region, for the US, and for the entire West that flow on from it. And how you price"
+    },
+    {
+      "start": 2478.56,
+      "end": 2485.44,
+      "text": "that is interesting, but I think you would have to really take a step back and think, is one still"
+    },
+    {
+      "start": 2485.44,
+      "end": 2493.44,
+      "text": "as positive on the US dollar and on US assets in their totality, if you're accepting that there's"
+    },
+    {
+      "start": 2493.44,
+      "end": 2498.96,
+      "text": "a very firm limit to what the US is prepared to do. Final question, Michael, let's go back to the"
+    },
+    {
+      "start": 2498.96,
+      "end": 2506.08,
+      "text": "Kevin Worsh Fed. I think you're right that the theme here is going to be economic statecraft,"
+    },
+    {
+      "start": 2506.08,
+      "end": 2513.04,
+      "text": "stablecoin statecraft, and so forth. What policies do you think, you know, if you had to kind"
+    },
+    {
+      "start": 2513.04,
+      "end": 2520.16,
+      "text": "of predict the wild surprise scenarios that nobody sees coming, not predictions, but scenarios"
+    },
+    {
+      "start": 2520.16,
+      "end": 2526.56,
+      "text": "or possibilities, wild outcomes? What are the Fed policies that Kevin Worsh might advance that"
+    },
+    {
+      "start": 2526.56,
+      "end": 2531.92,
+      "text": "would surprise everyone? Well, I've been talking about this for a while, so this isn't completely new,"
+    },
+    {
+      "start": 2531.92,
+      "end": 2536.0,
+      "text": "but I'm not sure if we've discussed it here. Or again, my jet lag is so severe that I can't"
+    },
+    {
+      "start": 2536.0,
+      "end": 2542.48,
+      "text": "remember if we have apologies. And that's this, that Worsh is openly talking about trying to reduce"
+    },
+    {
+      "start": 2542.48,
+      "end": 2549.2000000000003,
+      "text": "the Fed balance sheet, which itself would really set the cat among the pigeons, as I'm sure you're aware,"
+    },
+    {
+      "start": 2549.2000000000003,
+      "end": 2554.96,
+      "text": "but at the same time, Trump is talking about expanding the pentagon budget next year by 500"
+    },
+    {
+      "start": 2554.96,
+      "end": 2563.28,
+      "text": "billion dollars. Well, how do you square that circle? And ultimately, alongside a corollary to"
+    },
+    {
+      "start": 2563.28,
+      "end": 2570.08,
+      "text": "this, which I think is the Fed may have to start looking at the supply side rather than the demand"
+    },
+    {
+      "start": 2570.08,
+      "end": 2576.08,
+      "text": "side, and which sectors of the economy need lower or higher rates than others, rather than one"
+    },
+    {
+      "start": 2576.08,
+      "end": 2581.04,
+      "text": "size fits all, which I've never understood the logic for in an energy or political environment."
+    },
+    {
+      "start": 2581.84,
+      "end": 2587.68,
+      "text": "The Fed might be having to think, right, do we really need to be offering QE style balance sheet"
+    },
+    {
+      "start": 2587.68,
+      "end": 2593.68,
+      "text": "support to the financial part of the economy, which effectively doesn't do anything"
+    },
+    {
+      "start": 2594.32,
+      "end": 2600.64,
+      "text": "in terms of actual physical bang for the buck, fair enough. But do we need to be looking at some kind"
+    },
+    {
+      "start": 2600.64,
+      "end": 2606.96,
+      "text": "of acronym, tacit balance sheet support using one mechanism or another, and there are lots of"
+    },
+    {
+      "start": 2606.96,
+      "end": 2610.7200000000003,
+      "text": "ways, of course, this could be dressed up in a technocratic way that wouldn't make it look"
+    },
+    {
+      "start": 2610.7200000000003,
+      "end": 2616.32,
+      "text": "quite as egregious as it is when I describe it in a simple form like this, to saying, well, we can"
+    },
+    {
+      "start": 2616.32,
+      "end": 2623.04,
+      "text": "offer the same QE support that we have done up until now, but for the physical economy. So, for"
+    },
+    {
+      "start": 2623.04,
+      "end": 2630.32,
+      "text": "example, again, swap lines or stable coin support for countries that are going to physically build out"
+    },
+    {
+      "start": 2630.32,
+      "end": 2637.04,
+      "text": "mines, port, infrastructure, shipbuilding, military supply chains, et cetera, et cetera, et cetera,"
+    },
+    {
+      "start": 2637.04,
+      "end": 2641.84,
+      "text": "to reindustrialize and remilitarize parts of the US. And I think I've made this joke on this"
+    },
+    {
+      "start": 2641.84,
+      "end": 2647.84,
+      "text": "podcast before. If I haven't now's the time, and if I have, I humbly apologize, which is I've"
+    },
+    {
+      "start": 2647.84,
+      "end": 2652.8,
+      "text": "said for years that we're now living in a world of warcraft, and I think we can all recognize that"
+    },
+    {
+      "start": 2652.8,
+      "end": 2658.8,
+      "text": "whether this particular war is on hiatus or not. But effectively, the joke here is that that"
+    },
+    {
+      "start": 2658.96,
+      "end": 2664.88,
+      "text": "would be using what I also call financial far craft, which is just financialization to try and"
+    },
+    {
+      "start": 2664.88,
+      "end": 2671.76,
+      "text": "prepare for a world of warcraft. And I don't think people have in markets broadly got their heads"
+    },
+    {
+      "start": 2671.76,
+      "end": 2677.52,
+      "text": "around what it would mean to have extra liquidity that goes to some sectors, but it doesn't flow to"
+    },
+    {
+      "start": 2677.52,
+      "end": 2684.8,
+      "text": "all the favored ones, which is what an entire generation, if not two, of financial market participants"
+    },
+    {
+      "start": 2684.8,
+      "end": 2691.6800000000003,
+      "text": "so grown up expecting as normal. But I think we are now in a new normal, and therefore that paradigm"
+    },
+    {
+      "start": 2691.6800000000003,
+      "end": 2696.2400000000002,
+      "text": "will have to shift. Michael, I can't thank you enough for another terrific interview. I really"
+    },
+    {
+      "start": 2696.2400000000002,
+      "end": 2701.1200000000003,
+      "text": "enjoy our talks every time we get the opportunity. Before I let you go, please tell our listeners a"
+    },
+    {
+      "start": 2701.1200000000003,
+      "end": 2706.48,
+      "text": "little bit more about what you do at Robobank and how they can follow your work. Sure. Well, as you've"
+    },
+    {
+      "start": 2706.48,
+      "end": 2713.6000000000004,
+      "text": "probably heard, I'm a global strategist at Robobank for the economics and markets team, which means I"
+    },
+    {
+      "start": 2713.6,
+      "end": 2721.2799999999997,
+      "text": "look cross asset, cross geography and cross disciplinary to try and join the dots and project those"
+    },
+    {
+      "start": 2721.2799999999997,
+      "end": 2726.24,
+      "text": "dots forward to look for the kind of rather esoteric emerging trends that I'm talking about."
+    },
+    {
+      "start": 2726.24,
+      "end": 2731.04,
+      "text": "But once upon a time, only happened every few years or every decade or so, and we're just"
+    },
+    {
+      "start": 2731.68,
+      "end": 2737.2,
+      "text": "colorful entertainment up until that point, but now seem to be happening once every couple of weeks."
+    },
+    {
+      "start": 2737.2,
+      "end": 2741.6,
+      "text": "And so we really do need to be spending much more time talking about them. And if you'd like to"
+    },
+    {
+      "start": 2741.6,
+      "end": 2746.64,
+      "text": "join me in those conversations, if you are a Robobank client, please go to the Robobank knowledge"
+    },
+    {
+      "start": 2746.64,
+      "end": 2755.2799999999997,
+      "text": "website. And if you're not, link for me on LinkedIn and also look for me on X and handle these at"
+    },
+    {
+      "start": 2755.2799999999997,
+      "end": 2760.88,
+      "text": "the My Calibri. Patrick Suresna and I will be back as macro voices continues and be sure to stay"
+    },
+    {
+      "start": 2760.88,
+      "end": 2766.72,
+      "text": "tuned because we've got a cameo appearance from commodity context founder Rory Johnston with an"
+    },
+    {
+      "start": 2766.7200000000003,
+      "end": 2770.1600000000003,
+      "text": "update on some of the logistic issues in the crude oil market."
+    },
+    {
+      "start": 2772.8,
+      "end": 2777.6000000000004,
+      "text": "Eric was great to have Michael back on the show. Now, Rory Johnston is next on deck for a"
+    },
+    {
+      "start": 2777.6000000000004,
+      "end": 2783.2000000000003,
+      "text": "special second feature interview with an update on the Iran conflict, the Strait of Hermos,"
+    },
+    {
+      "start": 2783.2000000000003,
+      "end": 2788.0800000000004,
+      "text": "and what it all means for the markets. Then Eric and I will be back for our usual post-game"
+    },
+    {
+      "start": 2788.0800000000004,
+      "end": 2792.6400000000003,
+      "text": "chart deck and trade of the week. Now let's get to Eric's interview with Rory."
+    },
+    {
+      "start": 2793.2799999999997,
+      "end": 2801.3599999999997,
+      "text": "Joining me now is commodity context founder Rory Johnston for the update on crude oil and what's"
+    },
+    {
+      "start": 2801.3599999999997,
+      "end": 2806.56,
+      "text": "happening in the Strait of Hermos. Rory, let's start with the flows through the Strait and get an"
+    },
+    {
+      "start": 2806.56,
+      "end": 2811.52,
+      "text": "update there. I'm surprised that we haven't seen more people publishing charts or other clear"
+    },
+    {
+      "start": 2811.52,
+      "end": 2818.7999999999997,
+      "text": "indications to visualize exactly what's going on. But we know that 20% of the world's oil under normal"
+    },
+    {
+      "start": 2818.8,
+      "end": 2823.6800000000003,
+      "text": "times flows through the Strait, but there have been mitigations like the Saudi East West pipeline"
+    },
+    {
+      "start": 2823.6800000000003,
+      "end": 2830.7200000000003,
+      "text": "and so forth. How much crude oil is flowing through the Strait right now with the small amount of"
+    },
+    {
+      "start": 2830.7200000000003,
+      "end": 2837.1200000000003,
+      "text": "traffic that has been turned back on, and how much is still constrained, not flowing as a result of"
+    },
+    {
+      "start": 2837.1200000000003,
+      "end": 2842.0,
+      "text": "this and hasn't found its way around the corner, so to speak. Yeah, so I think it's and thank you"
+    },
+    {
+      "start": 2842.0,
+      "end": 2847.6000000000004,
+      "text": "for having me back on Eric. It's been an extraordinarily long three months. Let's break this into two pieces"
+    },
+    {
+      "start": 2847.6,
+      "end": 2851.6,
+      "text": "because I think there's a question of crossings in terms of what's getting through the Strait,"
+    },
+    {
+      "start": 2851.6,
+      "end": 2857.52,
+      "text": "and then there's this question separately about what's currently shut it. So right now we still have"
+    },
+    {
+      "start": 2857.52,
+      "end": 2862.7999999999997,
+      "text": "hundreds of vessels trapped in the Gulf, the Persian Gulf, the Arabian Gulf, depending on which side"
+    },
+    {
+      "start": 2862.7999999999997,
+      "end": 2869.52,
+      "text": "of this you're on, this large body of water, 2000 vessels or so. Now 800 of those are the large"
+    },
+    {
+      "start": 2869.52,
+      "end": 2875.2,
+      "text": "merchant ships that we typically track, and what we've seen over the past couple,"
+    },
+    {
+      "start": 2875.2000000000003,
+      "end": 2881.0400000000004,
+      "text": "and basically over the past month, is we've seen between one and maybe a dozen or so of those"
+    },
+    {
+      "start": 2881.0400000000004,
+      "end": 2887.36,
+      "text": "ships cross every day. That is slowly trickling down. What is now effectively, I think it's important"
+    },
+    {
+      "start": 2887.36,
+      "end": 2892.8,
+      "text": "to think of the oil and water trapped in the Gulf. Think of that essentially as a stockpile at the"
+    },
+    {
+      "start": 2892.8,
+      "end": 2897.28,
+      "text": "stage. It's dead oil. It's been produced. It can't go anywhere. It's sitting there waiting to be"
+    },
+    {
+      "start": 2897.28,
+      "end": 2905.2000000000003,
+      "text": "exported. So as you let, as Iran lets these ships pass, what's effectively happening is Iran is"
+    },
+    {
+      "start": 2905.2000000000003,
+      "end": 2911.6000000000004,
+      "text": "tapping a type of strategic petroleum reserve effectively. More ships means more SPR oil coming from"
+    },
+    {
+      "start": 2911.6000000000004,
+      "end": 2916.4,
+      "text": "one stock that's not accessible to the market to a broader stock that's accessible to the market,"
+    },
+    {
+      "start": 2916.4,
+      "end": 2922.7200000000003,
+      "text": "essentially commercial inventories. Now on top of that, the question of the amount of oil that's"
+    },
+    {
+      "start": 2922.7200000000003,
+      "end": 2928.4,
+      "text": "been shut in, that is something where we're talking about. This is the 13 to 15 million barrels of"
+    },
+    {
+      "start": 2928.4,
+      "end": 2934.0000000000005,
+      "text": "oil, depending on if we're counting a run at the stage, of production that has been shut in for"
+    },
+    {
+      "start": 2934.0000000000005,
+      "end": 2939.1200000000003,
+      "text": "lack of any export capacity to get it anywhere else. People that watch the industry, this is very"
+    },
+    {
+      "start": 2939.1200000000003,
+      "end": 2944.96,
+      "text": "familiar in Western Canada when we run out of pipeline capacity. You can't just spill it onto the lawn,"
+    },
+    {
+      "start": 2944.96,
+      "end": 2948.7200000000003,
+      "text": "so if you don't have your order to put it, you got to shut those wells in. That 13 to 15 million"
+    },
+    {
+      "start": 2948.7200000000003,
+      "end": 2955.2000000000003,
+      "text": "barrel a day is the core supply crisis or production crisis, really, that is currently still gripping"
+    },
+    {
+      "start": 2955.2000000000003,
+      "end": 2963.5200000000004,
+      "text": "the oil market and crossings out of the straight are not going to ameliorate that issue. The only"
+    },
+    {
+      "start": 2963.5200000000004,
+      "end": 2967.84,
+      "text": "thing that will do this, and I just published a piece yesterday at this dispatch where I publish"
+    },
+    {
+      "start": 2967.84,
+      "end": 2973.76,
+      "text": "a monthly column on this stuff, talking about the process by which we can normalize the straight"
+    },
+    {
+      "start": 2973.76,
+      "end": 2978.88,
+      "text": "if I have no idea when they're going to site an MOU, let we'll talk about that in a second,"
+    },
+    {
+      "start": 2978.88,
+      "end": 2984.1600000000003,
+      "text": "but whenever they do that, there will be a process that will need to be started of clearing"
+    },
+    {
+      "start": 2984.1600000000003,
+      "end": 2989.84,
+      "text": "long strandships out of the Gulf and then getting new ships into the Gulf. That process is going"
+    },
+    {
+      "start": 2989.84,
+      "end": 2997.2000000000003,
+      "text": "to take weeks and more likely months before you can even start the months-long process of restarting"
+    },
+    {
+      "start": 2997.2000000000003,
+      "end": 3003.28,
+      "text": "oil production that's been shut in. In terms of the actual flow, we're probably draining down"
+    },
+    {
+      "start": 3003.28,
+      "end": 3009.6800000000003,
+      "text": "the stock pile of trapped oil and water in the Gulf by between one and three million barrels a day,"
+    },
+    {
+      "start": 3009.6800000000003,
+      "end": 3016.0,
+      "text": "as that keeps drawing down. Again, we're talking a handful of half dozen ships on average"
+    },
+    {
+      "start": 3016.0,
+      "end": 3020.0,
+      "text": "transiting every day, and that includes dark transits that are watching as well. That's the"
+    },
+    {
+      "start": 3020.0,
+      "end": 3028.2400000000002,
+      "text": "current situation of what the flow out of Hormuz is right now, and that is the core supply shock"
+    },
+    {
+      "start": 3028.32,
+      "end": 3034.1600000000003,
+      "text": "of the market. I did an interesting experiment because you and I are very like-minded in this,"
+    },
+    {
+      "start": 3034.1600000000003,
+      "end": 3038.7200000000003,
+      "text": "and our job as investors is to take a step back and say, wait a minute, but who disagrees with"
+    },
+    {
+      "start": 3038.7200000000003,
+      "end": 3046.4,
+      "text": "us and who's the smart guy who's got a different viewpoint? I challenged Claude, my AI assistant,"
+    },
+    {
+      "start": 3046.4,
+      "end": 3052.32,
+      "text": "turned it up to maximum research mode, maximum effort, Opus 4.8, the highest settings I could get,"
+    },
+    {
+      "start": 3052.32,
+      "end": 3059.36,
+      "text": "and I said, scour the internet. I want to know not macro tourists, but oil guys, veterans of the"
+    },
+    {
+      "start": 3059.36,
+      "end": 3065.6000000000004,
+      "text": "physical oil market. Who are the guys that are saying that we're wrong that it's not as big of a"
+    },
+    {
+      "start": 3065.6000000000004,
+      "end": 3072.8,
+      "text": "deal as we think it is, and tell me? I was really interesting, Rory. I got back, because it said,"
+    },
+    {
+      "start": 3072.8,
+      "end": 3078.0,
+      "text": "yes, there are guys who say it's not that big of a deal, including our good friend, Ola Hansen,"
+    },
+    {
+      "start": 3078.0,
+      "end": 3082.96,
+      "text": "who says he doesn't think it's going much over 200. I'm like, okay, that's not big deal."
+    },
+    {
+      "start": 3084.08,
+      "end": 3086.8,
+      "text": "Ola, Ola over 10. Well, I'm glad there's a ceiling somewhere."
+    },
+    {
+      "start": 3088.64,
+      "end": 3095.04,
+      "text": "And a couple of other people saying, yes, there will be a spike, but the fears of a long term spike,"
+    },
+    {
+      "start": 3095.6,
+      "end": 3101.76,
+      "text": "probably not. It's up to 200 maybe, and it freaks everybody out, and it comes back down."
+    },
+    {
+      "start": 3101.76,
+      "end": 3107.68,
+      "text": "There's several people saying that. The one place where I was able to find someone who"
+    },
+    {
+      "start": 3107.6800000000003,
+      "end": 3113.92,
+      "text": "doesn't think we're going all the way to 200 was our good friend, Dr. Anasal Haji, and what"
+    },
+    {
+      "start": 3113.92,
+      "end": 3120.4800000000005,
+      "text": "Anas told me in a weekend phone call is he said, look, the basic analysis everybody is doing"
+    },
+    {
+      "start": 3120.4800000000005,
+      "end": 3125.84,
+      "text": "is right, but what they're missing is there was so much commercial inventory, there was so much stock,"
+    },
+    {
+      "start": 3125.84,
+      "end": 3131.0400000000004,
+      "text": "there were so many things that people were able to do to turn up the screws in other places,"
+    },
+    {
+      "start": 3131.0400000000004,
+      "end": 3136.6400000000003,
+      "text": "that there have been mitigations. So although, yes, the 13 million barrels per day that's"
+    },
+    {
+      "start": 3136.64,
+      "end": 3142.72,
+      "text": "shut in did get shut in. There were other things that got freed up and turned on, and really it's"
+    },
+    {
+      "start": 3142.72,
+      "end": 3150.48,
+      "text": "only about three or four million barrels, not 13 that are a deficit in the net that have, you know,"
+    },
+    {
+      "start": 3150.48,
+      "end": 3156.16,
+      "text": "just there's no replacement for it the moment. So yes, it's a problem. Yes, Anas thinks that there's"
+    },
+    {
+      "start": 3156.16,
+      "end": 3161.2799999999997,
+      "text": "plenty of room for oil prices to rise between now and the end of the year, but he thinks it'll be"
+    },
+    {
+      "start": 3161.28,
+      "end": 3169.44,
+      "text": "over before the beginning of 27. He thinks oil prices below 127, but maybe they're not done"
+    },
+    {
+      "start": 3169.44,
+      "end": 3177.1200000000003,
+      "text": "going up in 26. So that I thought was, you know, the most bullish take that I can get is, you know,"
+    },
+    {
+      "start": 3177.1200000000003,
+      "end": 3182.1600000000003,
+      "text": "it's only going to go up to 150 or so, and it'll come back down before the year is over. It's the"
+    },
+    {
+      "start": 3182.1600000000003,
+      "end": 3190.96,
+      "text": "most or the least fearful perspective I can get from anyone who's really qualified with knowledge"
+    },
+    {
+      "start": 3190.96,
+      "end": 3197.2,
+      "text": "of the oil market. Is that consistent with what you found? I mean, have you found any veteran oil"
+    },
+    {
+      "start": 3197.2,
+      "end": 3201.6,
+      "text": "guys who disagree with us and think, no, it's no big deal. It's, you know, oil is assured here."
+    },
+    {
+      "start": 3202.32,
+      "end": 3208.48,
+      "text": "No, I think they're, I think at this stage, we're so deep into the confusing market reaction that"
+    },
+    {
+      "start": 3208.48,
+      "end": 3213.04,
+      "text": "everyone's second guessing themselves. I don't think anyone that is a self-aware analyst at the"
+    },
+    {
+      "start": 3213.04,
+      "end": 3219.68,
+      "text": "stage can look at the data and say, okay, my model of the how the world works has not come under fire here."
+    },
+    {
+      "start": 3219.6800000000003,
+      "end": 3224.0800000000004,
+      "text": "And so let's talk about those things because I think there's a couple things going on here."
+    },
+    {
+      "start": 3224.0800000000004,
+      "end": 3228.9600000000005,
+      "text": "There's two main things that are happening. And I should say that I would put myself probably in"
+    },
+    {
+      "start": 3228.9600000000005,
+      "end": 3235.0400000000004,
+      "text": "that second category of analysts you mentioned, which is I don't think if we got to $200, I don't think"
+    },
+    {
+      "start": 3235.0400000000004,
+      "end": 3240.6400000000003,
+      "text": "that would be like a new normal. I think that the world would rapidly evolve, you know, offsets and"
+    },
+    {
+      "start": 3240.6400000000003,
+      "end": 3246.1600000000003,
+      "text": "new ways of handling things in that scenario. 200 is essentially what I see as if we do not open"
+    },
+    {
+      "start": 3246.16,
+      "end": 3251.8399999999997,
+      "text": "hormones. That is the level that price we need to rise to temporarily ration demand until those"
+    },
+    {
+      "start": 3251.8399999999997,
+      "end": 3256.3999999999996,
+      "text": "other things got sorted out. But I think that that's still bullish relative to what we're seeing."
+    },
+    {
+      "start": 3256.3999999999996,
+      "end": 3262.7999999999997,
+      "text": "So why aren't we seeing that yet? I think there's two things that have happened. One is that"
+    },
+    {
+      "start": 3262.7999999999997,
+      "end": 3271.8399999999997,
+      "text": "undeniably prices are not reacting as aggressively as assertively as it's a panicked man or as they"
+    },
+    {
+      "start": 3271.84,
+      "end": 3276.7200000000003,
+      "text": "would have historically in any other moment. Even because it's, you know, on us is right that we"
+    },
+    {
+      "start": 3276.7200000000003,
+      "end": 3281.6800000000003,
+      "text": "did build up a lot of commercial inventories. Again, if you had had me on, I can't have you had"
+    },
+    {
+      "start": 3281.6800000000003,
+      "end": 3286.48,
+      "text": "me on in December or January, but I was pretty bearish. And I think that was because of that,"
+    },
+    {
+      "start": 3286.48,
+      "end": 3292.48,
+      "text": "you know, large inventory that had been built up. That said, even with that inventory cushion,"
+    },
+    {
+      "start": 3292.48,
+      "end": 3297.92,
+      "text": "we are now drawing that down at the fastest pace of any crisis on record. If that was happening"
+    },
+    {
+      "start": 3298.0,
+      "end": 3303.6,
+      "text": "in any other moment in the market, the market would be way more panicked than it is right now."
+    },
+    {
+      "start": 3303.6,
+      "end": 3309.76,
+      "text": "But I think part of this comes to the fact that this is weirdly viewed as a transitory shock"
+    },
+    {
+      "start": 3309.76,
+      "end": 3316.64,
+      "text": "in a way that I don't think any other Russia was in, you know, any of the other prior big surprises"
+    },
+    {
+      "start": 3316.64,
+      "end": 3322.4,
+      "text": "or concerns in the market were never viewed as as sharply theoretically temporary as this"
+    },
+    {
+      "start": 3322.4,
+      "end": 3327.28,
+      "text": "one. So I think that's part of it. But I think also the way that the White House and the President"
+    },
+    {
+      "start": 3327.28,
+      "end": 3334.4,
+      "text": "President Trump has injected volatility in this job-burning effort has to come under scrutiny here"
+    },
+    {
+      "start": 3335.12,
+      "end": 3340.8,
+      "text": "as the prime culprit for why we're not having markets that are reacting more to the upside risk"
+    },
+    {
+      "start": 3340.8,
+      "end": 3347.36,
+      "text": "we're facing. That said, I think we did also miss me, we, I mean, as oil and as me particularly,"
+    },
+    {
+      "start": 3348.1600000000003,
+      "end": 3358.96,
+      "text": "that we have seen a remarkable retrenchment on the consumer and importer side. But 90 percent of that"
+    },
+    {
+      "start": 3358.96,
+      "end": 3363.6800000000003,
+      "text": "or more is happening in China. And I think it's important that we sit and talk for one second"
+    },
+    {
+      "start": 3363.6800000000003,
+      "end": 3369.2000000000003,
+      "text": "about what's happening in China because I was just tweeting before jumping on this on this podcast,"
+    },
+    {
+      "start": 3369.2000000000003,
+      "end": 3376.2400000000002,
+      "text": "Chinese crude oil imports have fallen by roughly 50 percent relative to free war levels."
+    },
+    {
+      "start": 3376.2400000000002,
+      "end": 3380.1600000000003,
+      "text": "Prior to that in terms of seaborne imports, they were importing ballpark's 12 million barrels"
+    },
+    {
+      "start": 3380.1600000000003,
+      "end": 3385.2000000000003,
+      "text": "a day of crude. Now that, you know, as of the latest, you know, four-week average, we're looking at"
+    },
+    {
+      "start": 3385.2000000000003,
+      "end": 3390.7200000000003,
+      "text": "six million barrels a day of crude. And that's heading even lower in the latest unsmooth weekly numbers."
+    },
+    {
+      "start": 3390.7200000000003,
+      "end": 3398.5600000000004,
+      "text": "That is really huge. That's half of the entire supply shock from Hormuz. That's more than the"
+    },
+    {
+      "start": 3398.5600000000004,
+      "end": 3404.32,
+      "text": "collective injections of SPR, a strategic reserve injections from every other country on Earth."
+    },
+    {
+      "start": 3404.88,
+      "end": 3410.48,
+      "text": "So there's two options as to what's happening here. Either Chinese, or the Beijing, the Chinese"
+    },
+    {
+      "start": 3410.48,
+      "end": 3418.7200000000003,
+      "text": "government is silently and massively in a massive scale influencing oil supply in the market."
+    },
+    {
+      "start": 3418.7200000000003,
+      "end": 3424.1600000000003,
+      "text": "And we'll talk about what that could look like. Or you're seeing massive, you know, COVID-0 and then"
+    },
+    {
+      "start": 3424.1600000000003,
+      "end": 3430.56,
+      "text": "some demand contraction, demand destruction in China. Now let's count that one quickly first"
+    },
+    {
+      "start": 3430.56,
+      "end": 3436.0,
+      "text": "because the mobility data we see is not showing a collapse in trucking traffic, a collapse in road"
+    },
+    {
+      "start": 3436.0,
+      "end": 3440.64,
+      "text": "congestion, a collapse in flights, all the normal things you would associate or assume would be"
+    },
+    {
+      "start": 3440.64,
+      "end": 3446.64,
+      "text": "happening, not happening. Then you're like, okay, so where's the oil going? We have also seen a"
+    },
+    {
+      "start": 3446.64,
+      "end": 3452.96,
+      "text": "collapse in refining runs in China, but not enough to account for the collapse in crude oil imports."
+    },
+    {
+      "start": 3452.96,
+      "end": 3458.72,
+      "text": "So they're probably drawing some inventory that we can't see because the other weird thing"
+    },
+    {
+      "start": 3458.88,
+      "end": 3465.1200000000003,
+      "text": "here is that we do have, up into recent crises, a pretty unprecedented degree of visibility into"
+    },
+    {
+      "start": 3465.1200000000003,
+      "end": 3470.0800000000004,
+      "text": "global, at least inventory of crude oil. And that's because of companies like data providers like"
+    },
+    {
+      "start": 3470.0800000000004,
+      "end": 3475.5200000000004,
+      "text": "Kepler and others that use satellite inferred estimates of what's sitting in these kind of"
+    },
+    {
+      "start": 3475.5200000000004,
+      "end": 3480.96,
+      "text": "floating roof storage tanks. So we know that China has well over billion barrels of crude oil"
+    },
+    {
+      "start": 3480.96,
+      "end": 3488.1600000000003,
+      "text": "across the country. And we know that it actually kept rising through most of the Hormuzhuk thus far."
+    },
+    {
+      "start": 3488.16,
+      "end": 3492.24,
+      "text": "You've seen a little bit of a drawback over the last week or two, but nothing huge the material"
+    },
+    {
+      "start": 3492.24,
+      "end": 3500.48,
+      "text": "and definitely nothing that would supplement a collapse of 50% in imports. So that means that"
+    },
+    {
+      "start": 3500.48,
+      "end": 3505.2,
+      "text": "the only way to square this is either all the day we're seeing just fundamentally as wrong across"
+    },
+    {
+      "start": 3505.2,
+      "end": 3511.44,
+      "text": "the board, which seems unlikely from multiple different providers or you are seeing injections"
+    },
+    {
+      "start": 3511.44,
+      "end": 3517.7599999999998,
+      "text": "of up until now invisible inventories or non-visible statistically inventories. Now what would that"
+    },
+    {
+      "start": 3517.76,
+      "end": 3523.36,
+      "text": "look like? Whilst we're talking about estimates based on satellite based technology, underground"
+    },
+    {
+      "start": 3523.36,
+      "end": 3528.88,
+      "text": "inventories can't be seen. So that is one of the kind of leading contending theories as to what's"
+    },
+    {
+      "start": 3528.88,
+      "end": 3534.0800000000004,
+      "text": "happening there on the crude oil side. But then also you've seen the collapse and refining runs,"
+    },
+    {
+      "start": 3534.0800000000004,
+      "end": 3540.2400000000002,
+      "text": "which normally would imply a collapse in domestic consumption of fuels. But again, going back to the"
+    },
+    {
+      "start": 3540.2400000000002,
+      "end": 3546.2400000000002,
+      "text": "fact that we have not seen that in the data. Again, it implies that we're seeing injections of"
+    },
+    {
+      "start": 3546.2400000000002,
+      "end": 3551.6000000000004,
+      "text": "refined product into the market. Now all the way back in 2023, I'd written a piece called"
+    },
+    {
+      "start": 3551.6000000000004,
+      "end": 3559.76,
+      "text": "Chinese demand data. That Chinese-imparent oil demand data was rocking through 2023 and again"
+    },
+    {
+      "start": 3559.76,
+      "end": 3564.5600000000004,
+      "text": "at the beginning of this crisis. Now, one of the theories at the time was that it wasn't real"
+    },
+    {
+      "start": 3564.5600000000004,
+      "end": 3571.2000000000003,
+      "text": "demand at all. It was strategic stockpiling of refined products potentially in anticipation of a war"
+    },
+    {
+      "start": 3571.28,
+      "end": 3577.84,
+      "text": "or invasion of Taiwan. But that thankfully never happened. Now we're at the stage of, oh, maybe"
+    },
+    {
+      "start": 3577.84,
+      "end": 3584.0000000000005,
+      "text": "actually it was for exactly this kind of moment knowing the precarity they face. But I think the"
+    },
+    {
+      "start": 3584.0000000000005,
+      "end": 3590.2400000000002,
+      "text": "consequence of this is twofold. And I think it's like really important. One, that means that China"
+    },
+    {
+      "start": 3590.8,
+      "end": 3597.6000000000004,
+      "text": "is likely as an emergency backstop, now a more effective participant and policy player here"
+    },
+    {
+      "start": 3597.6,
+      "end": 3603.04,
+      "text": "than even is OPEC in terms of rapidly swinging the global balance. And second,"
+    },
+    {
+      "start": 3603.7599999999998,
+      "end": 3612.24,
+      "text": "it likely also means that the surplus we had prior to the war was larger than we had appreciated,"
+    },
+    {
+      "start": 3612.24,
+      "end": 3618.88,
+      "text": "given that some of the strong Chinese demand we were seeing likely wasn't real demand at all,"
+    },
+    {
+      "start": 3618.88,
+      "end": 3624.16,
+      "text": "but was rather stockpiling. So I think it's still going to take time to sort all this out. And"
+    },
+    {
+      "start": 3624.16,
+      "end": 3631.8399999999997,
+      "text": "I think you're saying about like, do I know of anyone that knows oil that thinks this is all"
+    },
+    {
+      "start": 3631.8399999999997,
+      "end": 3637.68,
+      "text": "happening exactly as it should be? No. And I think there's been, this has been the ultimate crisis"
+    },
+    {
+      "start": 3637.68,
+      "end": 3642.7999999999997,
+      "text": "for people being right for the wrong reasons. Clearly, I have been wrong thus far on price."
+    },
+    {
+      "start": 3643.44,
+      "end": 3649.04,
+      "text": "I think I'm still trying to understand what it is that has allowed prices to remain as"
+    },
+    {
+      "start": 3649.04,
+      "end": 3652.8,
+      "text": "contained as they are. I mean, I got a look at my screen and I were at $98, Brent,"
+    },
+    {
+      "start": 3652.8,
+      "end": 3658.24,
+      "text": "high, but not three months of Hormuz closed high. So I think it's again those two things. One,"
+    },
+    {
+      "start": 3658.8,
+      "end": 3664.72,
+      "text": "China has balanced the market more than anyone expected it could, certainly more than I expected it"
+    },
+    {
+      "start": 3664.72,
+      "end": 3672.48,
+      "text": "could. And second, the historical relationship between inventory draws and panic in financial"
+    },
+    {
+      "start": 3672.48,
+      "end": 3678.64,
+      "text": "markets and futures markets is just much diminished and neutered relative to what it would have been"
+    },
+    {
+      "start": 3679.2,
+      "end": 3683.2,
+      "text": "if this crisis had happened in any other year, like land or any other president."
+    },
+    {
+      "start": 3683.2,
+      "end": 3690.08,
+      "text": "Rory, I'm absolutely fascinated by the collapse in Chinese refinery runs. That doesn't make any"
+    },
+    {
+      "start": 3690.08,
+      "end": 3696.72,
+      "text": "sense to me because it seems to me, if I put myself in China's shoes, one thing you might believe"
+    },
+    {
+      "start": 3696.72,
+      "end": 3702.4,
+      "text": "is, okay, this we could be headed into a global war situation. If that was the case, I would expect"
+    },
+    {
+      "start": 3702.4,
+      "end": 3708.32,
+      "text": "China to be producing every bit of diesel fuel that they possibly could jet fuel and so forth to get"
+    },
+    {
+      "start": 3708.32,
+      "end": 3716.4,
+      "text": "ready for the war. Or you could say China is going to come to the rescue here and add a considerable"
+    },
+    {
+      "start": 3716.4,
+      "end": 3724.1600000000003,
+      "text": "profit, take advantage of its very large crude oil inventory and sell finished products to the"
+    },
+    {
+      "start": 3724.1600000000003,
+      "end": 3730.7200000000003,
+      "text": "rest of Asia for a pretty penny. That would be certainly an opportunistic thing for China to do."
+    },
+    {
+      "start": 3730.7200000000003,
+      "end": 3735.92,
+      "text": "If you wanted to do that, they would increase their refinery runs to the absolute maximum to have"
+    },
+    {
+      "start": 3736.2400000000002,
+      "end": 3743.76,
+      "text": "a maximum amount of finished product on hand. Somehow, at least the data that we think we have"
+    },
+    {
+      "start": 3743.76,
+      "end": 3752.4,
+      "text": "are telling us that China's economy has not slowed down. They have dramatically slowed down"
+    },
+    {
+      "start": 3752.4,
+      "end": 3757.04,
+      "text": "their crude oil imports, but they're not drawing down their SPR, at least according to what they're"
+    },
+    {
+      "start": 3757.04,
+      "end": 3764.0,
+      "text": "reporting. So they're not taking anything out of storage in order to refine that. They're reducing"
+    },
+    {
+      "start": 3764.0,
+      "end": 3768.8,
+      "text": "their refinery runs. They're reducing their imports. They're not slowing their economy. They're"
+    },
+    {
+      "start": 3768.8,
+      "end": 3776.48,
+      "text": "not stockpiling finished products for a war or to sell. What's the angle? Yeah, so I think there's"
+    },
+    {
+      "start": 3776.48,
+      "end": 3780.96,
+      "text": "one other piece of information that I forgot to mention, which I think is important from the commercial"
+    },
+    {
+      "start": 3780.96,
+      "end": 3785.76,
+      "text": "consideration, which is part of the reason that refine because I agree with you if you view the"
+    },
+    {
+      "start": 3785.76,
+      "end": 3792.0,
+      "text": "entirety of China as one strategic state entity, which it can be at times, but at least in practice,"
+    },
+    {
+      "start": 3792.0,
+      "end": 3797.76,
+      "text": "it still is producers and companies trying to optimize profits, at least where they're allowed to."
+    },
+    {
+      "start": 3798.4,
+      "end": 3805.04,
+      "text": "One important policy that has happened here is that Chinese basically fuel price caps on"
+    },
+    {
+      "start": 3805.04,
+      "end": 3813.04,
+      "text": "pump prices for retail consumers have dramatically shielded Chinese consumers from the explosion"
+    },
+    {
+      "start": 3813.04,
+      "end": 3820.0,
+      "text": "in global prices. You've seen a rise in, I think, Beijing's retail prices for gasoline of maybe"
+    },
+    {
+      "start": 3820.0,
+      "end": 3827.44,
+      "text": "30% versus a global doubling. That helps explain why activity hasn't collapsed. It also helps explain"
+    },
+    {
+      "start": 3827.44,
+      "end": 3833.52,
+      "text": "what refinery runs have collapsed because you essentially have you had reasonably strong margins"
+    },
+    {
+      "start": 3833.52,
+      "end": 3839.36,
+      "text": "refining margins before the war. And all of a sudden the cost of your feedstock has exploded"
+    },
+    {
+      "start": 3839.36,
+      "end": 3844.32,
+      "text": "while the cost of the product you sell has been capped. So your margins have imploded to deeply"
+    },
+    {
+      "start": 3844.32,
+      "end": 3849.68,
+      "text": "negative levels. That also helps explain why at the beginning of this China banned"
+    },
+    {
+      "start": 3849.76,
+      "end": 3854.2400000000002,
+      "text": "the export or at least severely limited the export of refined products because if you have this"
+    },
+    {
+      "start": 3854.2400000000002,
+      "end": 3860.6400000000003,
+      "text": "massive divergence between local product prices and global prices will obviously incentivize would"
+    },
+    {
+      "start": 3860.6400000000003,
+      "end": 3866.9600000000005,
+      "text": "be to export all of that product, which would go against China's desire to to try and insulate"
+    },
+    {
+      "start": 3866.9600000000005,
+      "end": 3872.6400000000003,
+      "text": "consumers. I think the final piece of this is this question of like what could China be up to here?"
+    },
+    {
+      "start": 3872.6400000000003,
+      "end": 3877.4400000000005,
+      "text": "Because I think at the beginning my resting theory was that we could see that they weren't drawing"
+    },
+    {
+      "start": 3877.44,
+      "end": 3882.0,
+      "text": "down in inventories that we could see. That's still the case largely. The argument at the"
+    },
+    {
+      "start": 3882.0,
+      "end": 3887.36,
+      "text": "beginning was they didn't want to help the Trump administration essentially takes out the heat off"
+    },
+    {
+      "start": 3887.36,
+      "end": 3893.2000000000003,
+      "text": "because they wanted Trump to feel the pressure and be forced to figure out a way to wrap up the"
+    },
+    {
+      "start": 3893.2000000000003,
+      "end": 3898.96,
+      "text": "Iran war and get things flowing again. But now clearly that's not in the entire story at least"
+    },
+    {
+      "start": 3898.96,
+      "end": 3905.76,
+      "text": "as far as we can see. So one question is that if this is a long game thing and if this is seen as a"
+    },
+    {
+      "start": 3905.76,
+      "end": 3911.76,
+      "text": "moment of particular at least for much of the world, a particular fumble on the part of the Trump"
+    },
+    {
+      "start": 3911.76,
+      "end": 3916.5600000000004,
+      "text": "administration, the classic refrain of like don't interrupt your opponent when they're making a"
+    },
+    {
+      "start": 3916.5600000000004,
+      "end": 3922.96,
+      "text": "mistake. Let Trump keep doing this and in fact help save the rest of Asia and now you know within"
+    },
+    {
+      "start": 3922.96,
+      "end": 3928.32,
+      "text": "your broadening and tightening sphere of influence, you can shield them from some of the big"
+    },
+    {
+      "start": 3928.32,
+      "end": 3933.76,
+      "text": "consequences of the exposure to sewer markets by dramatically slackening up. Like I was just checking"
+    },
+    {
+      "start": 3933.84,
+      "end": 3939.84,
+      "text": "the data just for this call and the degree to which basically imports of Korean, Japanese,"
+    },
+    {
+      "start": 3939.84,
+      "end": 3945.6800000000003,
+      "text": "Australian, you know, all these major importers, there was a big fallback in April and then big"
+    },
+    {
+      "start": 3945.6800000000003,
+      "end": 3951.44,
+      "text": "back in May largely facilitated by China's pullback. There was no competition from Chinese"
+    },
+    {
+      "start": 3951.44,
+      "end": 3957.2000000000003,
+      "text": "purchasers. Now anyone that knows anything about Chinese importers, they are ruthless if they want"
+    },
+    {
+      "start": 3957.2000000000003,
+      "end": 3962.0800000000004,
+      "text": "the stuff that they're after. So there's clearly no longer interested. Now I think again, part of that"
+    },
+    {
+      "start": 3962.08,
+      "end": 3967.36,
+      "text": "could be explained by this domestic policy and the kind of deeply negative margins. But again,"
+    },
+    {
+      "start": 3967.36,
+      "end": 3973.2,
+      "text": "I think Beijing's smart enough to also know that. So they also have to have a reason for trying to"
+    },
+    {
+      "start": 3973.2,
+      "end": 3980.7999999999997,
+      "text": "this. I think part of that is that they could be trying to step into a bit more of a multilateral"
+    },
+    {
+      "start": 3980.7999999999997,
+      "end": 3987.2799999999997,
+      "text": "governance good guy role in a part of the world that now sees Trump as someone who left them for"
+    },
+    {
+      "start": 3987.28,
+      "end": 3992.32,
+      "text": "slaughter. I want to come back to something you said earlier, Rory, which is you said that you were"
+    },
+    {
+      "start": 3992.32,
+      "end": 3999.6800000000003,
+      "text": "kind of pondering why is it that oil prices didn't move up much more sharply as you had estimated"
+    },
+    {
+      "start": 3999.6800000000003,
+      "end": 4006.0800000000004,
+      "text": "or anticipated that they would. I have a hypothesis about that. If you think about how commodity"
+    },
+    {
+      "start": 4006.0800000000004,
+      "end": 4012.48,
+      "text": "markets have to balance supply and demand in real time, they don't work like the stock market where"
+    },
+    {
+      "start": 4012.56,
+      "end": 4018.64,
+      "text": "they're forward looking at least until you consider the impact of speculators. That is they have to"
+    },
+    {
+      "start": 4018.64,
+      "end": 4024.2400000000002,
+      "text": "balance supply and demand in real time. I think back to the COVID pandemic, when by the end of"
+    },
+    {
+      "start": 4024.2400000000002,
+      "end": 4031.6,
+      "text": "January, I was just loading up backing up the leverage truck to shorts on crude oil because I could"
+    },
+    {
+      "start": 4031.6,
+      "end": 4036.32,
+      "text": "see what was coming. And I was shocked that the market went the other way for about a month."
+    },
+    {
+      "start": 4036.88,
+      "end": 4042.32,
+      "text": "And the reason is it wasn't until they actually canceled all the flights and really shut down"
+    },
+    {
+      "start": 4042.32,
+      "end": 4048.56,
+      "text": "the entire planet that that real time supply and demand balancing effect happened. And then the"
+    },
+    {
+      "start": 4048.56,
+      "end": 4057.6000000000004,
+      "text": "crash was dramatic. I think what's going on here is you had initially a rush of speculators into"
+    },
+    {
+      "start": 4057.6000000000004,
+      "end": 4061.92,
+      "text": "this market saying, we can see what's going to happen. Oil prices are going to the moon as a"
+    },
+    {
+      "start": 4061.92,
+      "end": 4070.32,
+      "text": "result of supply demand balancing that's not going to happen until the buffers are used up and so"
+    },
+    {
+      "start": 4070.32,
+      "end": 4075.2000000000003,
+      "text": "forth, which will take a few months. But we can see it coming. So we're going to pile in and then"
+    },
+    {
+      "start": 4075.2000000000003,
+      "end": 4083.28,
+      "text": "they learned the power of the truth social post, which is Trump can knock $20 plus out of the price"
+    },
+    {
+      "start": 4083.28,
+      "end": 4089.92,
+      "text": "of crude oil in 10 minutes. Some people speculate right after he tells his friends he's about to do so."
+    },
+    {
+      "start": 4090.88,
+      "end": 4095.1200000000003,
+      "text": "And I think that the speculators got knocked out of this market just saying, okay, look,"
+    },
+    {
+      "start": 4096.08,
+      "end": 4101.2,
+      "text": "we can't anticipate what the president's going to do next. What the next tweet is going to say"
+    },
+    {
+      "start": 4102.0,
+      "end": 4108.0,
+      "text": "is tempting as it was. It seems like it's not happening. We're going to just stand down."
+    },
+    {
+      "start": 4108.0,
+      "end": 4114.24,
+      "text": "Well, if the speculators stand down, there's really no reason to expect crude oil prices to go"
+    },
+    {
+      "start": 4114.24,
+      "end": 4121.04,
+      "text": "shooting to the moon until the buffers are in fact used up. And as we know, we've been burning"
+    },
+    {
+      "start": 4121.04,
+      "end": 4126.24,
+      "text": "through them. We can see what's coming, but they're not used up yet. So I think it's still coming"
+    },
+    {
+      "start": 4126.24,
+      "end": 4131.04,
+      "text": "and I think when it comes, it will be unstoppable. It doesn't it doesn't matter who posts what"
+    },
+    {
+      "start": 4131.04,
+      "end": 4137.04,
+      "text": "on truth social because the effect of those truth social tweets was to scare the speculators out"
+    },
+    {
+      "start": 4137.04,
+      "end": 4142.32,
+      "text": "of trying to bet against the what the White House wanted when it's not speculators anymore,"
+    },
+    {
+      "start": 4142.32,
+      "end": 4147.68,
+      "text": "but it's a rebalancing of physical markets. All the truth social posts in the world won't make a"
+    },
+    {
+      "start": 4147.68,
+      "end": 4153.4400000000005,
+      "text": "bit of difference. What do you think of that hypothesis? I think that's right. I think that I"
+    },
+    {
+      "start": 4153.4400000000005,
+      "end": 4158.08,
+      "text": "wrote a piece called the sanguine straight stoppage over a month ago now, which again feels like"
+    },
+    {
+      "start": 4158.08,
+      "end": 4164.0,
+      "text": "yesterday, but it made a similar argument that basically I potentially my greatest error was,"
+    },
+    {
+      "start": 4164.0,
+      "end": 4169.4400000000005,
+      "text": "I always argue that commodity markets are not forward looking. And then I was shocked when they"
+    },
+    {
+      "start": 4169.4400000000005,
+      "end": 4174.400000000001,
+      "text": "weren't forward looking. And that I think that might be my greatest sin through this era is expecting"
+    },
+    {
+      "start": 4174.4,
+      "end": 4179.2,
+      "text": "them to look forward and say, oh my gosh, this obviously is coming. Again, I think the one"
+    },
+    {
+      "start": 4179.2,
+      "end": 4184.4,
+      "text": "complicating factor here is this China stuff, just that we are still drawing down those"
+    },
+    {
+      "start": 4184.4,
+      "end": 4190.08,
+      "text": "buffer stocks at the fastest rate in record. The implication is that we are also drawing stocks at"
+    },
+    {
+      "start": 4190.08,
+      "end": 4196.24,
+      "text": "record paces in China. We just can't see it to verify. But that makes me nervous, right? Anytime"
+    },
+    {
+      "start": 4196.24,
+      "end": 4201.5199999999995,
+      "text": "we have a very, very large piece of the model kind of unobservable that you kind of just"
+    },
+    {
+      "start": 4201.52,
+      "end": 4205.68,
+      "text": "don't know what's going to happen with. There's this question of how long can China keep"
+    },
+    {
+      "start": 4205.68,
+      "end": 4210.96,
+      "text": "crude imports at five or six million barrels a day less than half of where they were in February."
+    },
+    {
+      "start": 4210.96,
+      "end": 4215.6,
+      "text": "And the simple answer is we don't know. No one really knows how long China can keep these"
+    },
+    {
+      "start": 4215.6,
+      "end": 4221.84,
+      "text": "imports low because we don't know the full status of these stockpiles that we can't see that they"
+    },
+    {
+      "start": 4221.84,
+      "end": 4226.240000000001,
+      "text": "seem to be drawing from. I think that's this question. I think you are right. And I think that"
+    },
+    {
+      "start": 4226.24,
+      "end": 4232.0,
+      "text": "what we'll end up needing to happen is that we will need all the high frequency, transparent"
+    },
+    {
+      "start": 4232.0,
+      "end": 4240.0,
+      "text": "trustable data, EIA, weekly inventory, et cetera, to show that we are ripping below the bottom"
+    },
+    {
+      "start": 4240.0,
+      "end": 4246.719999999999,
+      "text": "of our trailing averages and kind of trailing seasonal levels. And that processing is being slowed"
+    },
+    {
+      "start": 4246.719999999999,
+      "end": 4253.92,
+      "text": "by China's retrenchment. I think the first, the number one thing now to watch is something happened."
+    },
+    {
+      "start": 4254.0,
+      "end": 4259.36,
+      "text": "Is that a sign that things are getting better or worse? If hormones are still closed and we see"
+    },
+    {
+      "start": 4259.36,
+      "end": 4266.24,
+      "text": "Chinese imports begin to pick back up again when the delta and the impulse shifts from loosening"
+    },
+    {
+      "start": 4266.24,
+      "end": 4271.04,
+      "text": "back to tightening, I think that's probably when we do that next rip higher because I think because"
+    },
+    {
+      "start": 4271.04,
+      "end": 4277.84,
+      "text": "I agree, I think that the people that are like barrel counting and speculating on barrel counting,"
+    },
+    {
+      "start": 4277.84,
+      "end": 4282.88,
+      "text": "I would agree. They seem mostly shaken out of the market at this stage. Now it's physical traders"
+    },
+    {
+      "start": 4282.88,
+      "end": 4288.24,
+      "text": "trying to balance next month or two, which is not a very long time in the scheme of looking forward"
+    },
+    {
+      "start": 4288.24,
+      "end": 4294.400000000001,
+      "text": "in the market. So now we're going to see those stocks draw down. And I think that we will likely see"
+    },
+    {
+      "start": 4294.400000000001,
+      "end": 4300.08,
+      "text": "those happen around the same time when those inventories do draw down to concerning levels through"
+    },
+    {
+      "start": 4300.08,
+      "end": 4304.72,
+      "text": "the end of June and to July now. Can't believe we're talking on this, but that's what we're looking"
+    },
+    {
+      "start": 4304.72,
+      "end": 4310.96,
+      "text": "at. And then around that time will probably be when China stops reducing imports at the very least"
+    },
+    {
+      "start": 4311.04,
+      "end": 4316.88,
+      "text": "and starts taking them higher again. I think that combination of a tighter realized balance"
+    },
+    {
+      "start": 4316.88,
+      "end": 4324.24,
+      "text": "condition evidenced by those lower inventories mixed with a surge back of Chinese buying to kind of"
+    },
+    {
+      "start": 4324.24,
+      "end": 4329.52,
+      "text": "make up for the fact that they're no longer doing this temporary SPR releasing. I think that will"
+    },
+    {
+      "start": 4329.52,
+      "end": 4334.96,
+      "text": "probably be what the trigger is. But again, it'll be interesting to see because so far the market has"
+    },
+    {
+      "start": 4334.96,
+      "end": 4340.4800000000005,
+      "text": "remained otherworldly patient through this. More than I ever expected the oil market could ever be."
+    },
+    {
+      "start": 4340.4800000000005,
+      "end": 4345.360000000001,
+      "text": "Now, something that I thought was absolutely fascinating, you just said a second ago"
+    },
+    {
+      "start": 4345.360000000001,
+      "end": 4351.120000000001,
+      "text": "the end of June, maybe into July, like, wow, that's a really big deal. Rory yesterday, Tuesday,"
+    },
+    {
+      "start": 4351.68,
+      "end": 4356.72,
+      "text": "the president tweeted on truth social and said, look, everybody calm down. We're going to get this"
+    },
+    {
+      "start": 4356.72,
+      "end": 4363.280000000001,
+      "text": "all into control. We can probably have the blockade lifted by Labor Day and immediately Tracy"
+    },
+    {
+      "start": 4363.28,
+      "end": 4369.28,
+      "text": "Shukar posted Labor Day, the one that doesn't happen till September that Labor Day. Yeah."
+    },
+    {
+      "start": 4369.92,
+      "end": 4378.08,
+      "text": "What? So if the straight remains substantially closed, the blockade is in place. And I think the"
+    },
+    {
+      "start": 4378.08,
+      "end": 4383.5199999999995,
+      "text": "president is absolutely convinced. And I say this because he said so time is on our side."
+    },
+    {
+      "start": 4383.5199999999995,
+      "end": 4388.4,
+      "text": "We're going to we're going to wait him out. I don't know why he thinks that time is on our side,"
+    },
+    {
+      "start": 4388.400000000001,
+      "end": 4394.72,
+      "text": "but he does. If the strategy is we're going to keep the blockade in place and keep the straight"
+    },
+    {
+      "start": 4394.72,
+      "end": 4399.52,
+      "text": "substantially closed other than apparently it feels to me like somebody made a behind the"
+    },
+    {
+      "start": 4400.080000000001,
+      "end": 4407.040000000001,
+      "text": "closed doors deal with China to say we're going to let a few Chinese ships through. Aside from that,"
+    },
+    {
+      "start": 4407.040000000001,
+      "end": 4412.080000000001,
+      "text": "we're going to keep the straight closed and kind of smoke them out all the way until Labor Day."
+    },
+    {
+      "start": 4412.64,
+      "end": 4417.040000000001,
+      "text": "Do you think that the physical market can go that long based on the flows that you see and the"
+    },
+    {
+      "start": 4417.04,
+      "end": 4422.0,
+      "text": "buffers will last and we'll make it till Labor Day before this really blows up to that $200"
+    },
+    {
+      "start": 4422.0,
+      "end": 4428.32,
+      "text": "scenario. Look, if could we make it to Labor Day, assuming China maintained the same level of support"
+    },
+    {
+      "start": 4428.32,
+      "end": 4435.6,
+      "text": "for the market without reaching 200, possibly. Could we maintain the straight closed through Labor"
+    },
+    {
+      "start": 4435.6,
+      "end": 4441.28,
+      "text": "Day without seeing prices much higher than $97 a barrel that's actually dropped a buck since the"
+    },
+    {
+      "start": 4441.28,
+      "end": 4448.0,
+      "text": "last time I looked at this screen since from 97. No, at that stage, you know, we will have drawn hundreds"
+    },
+    {
+      "start": 4448.0,
+      "end": 4455.28,
+      "text": "of millions of billion plus more barrels of inventory draw down across the system. Even with China"
+    },
+    {
+      "start": 4455.28,
+      "end": 4461.44,
+      "text": "massively drawing down this black hole SPR, they apparently have stocked away for a rough moment"
+    },
+    {
+      "start": 4461.44,
+      "end": 4468.32,
+      "text": "like now. It can't be that big. So yeah, I think at that stage, if this is truly still going through"
+    },
+    {
+      "start": 4468.32,
+      "end": 4477.2,
+      "text": "the end of summer, then yeah, I don't see a way to avoid substantially higher prices. 150"
+    },
+    {
+      "start": 4477.2,
+      "end": 4483.36,
+      "text": "kind of would be my updated assumption around what that would be like on that timeline. But"
+    },
+    {
+      "start": 4484.08,
+      "end": 4490.16,
+      "text": "and again, if not, if it remains to close to September and we're still having this conversation"
+    },
+    {
+      "start": 4490.16,
+      "end": 4495.2,
+      "text": "at less than a hundred bucks a barrel, well, I will probably, you know, need to just completely"
+    },
+    {
+      "start": 4495.2,
+      "end": 4501.76,
+      "text": "rip up the entire way I thought I understood the market and or move to China. So I can have on"
+    },
+    {
+      "start": 4501.76,
+      "end": 4507.12,
+      "text": "the ground and cite a little bit more into what is apparently now the single most important country"
+    },
+    {
+      "start": 4507.12,
+      "end": 4511.92,
+      "text": "in the oil market. Well, Rory, I can't thank you enough for another terrific update. We're looking"
+    },
+    {
+      "start": 4511.92,
+      "end": 4517.2,
+      "text": "forward to bringing you back for a feature interview soon. Meanwhile, give our listeners a quick take on"
+    },
+    {
+      "start": 4517.2,
+      "end": 4522.5599999999995,
+      "text": "what you do at commodity context and what they can expect to find at commoditycontext.com."
+    },
+    {
+      "start": 4522.56,
+      "end": 4527.52,
+      "text": "Thanks again for having me, Eric. Always a pleasure to chat and it's been a nice change of pace to"
+    },
+    {
+      "start": 4527.52,
+      "end": 4533.4400000000005,
+      "text": "be on the on the same disbelieving side of the market under reacting to this relative to some of"
+    },
+    {
+      "start": 4533.4400000000005,
+      "end": 4538.320000000001,
+      "text": "our prior disagreement. So it's nice to be on on the same side of the disbelief this time. Overall,"
+    },
+    {
+      "start": 4538.320000000001,
+      "end": 4544.080000000001,
+      "text": "you can follow my work at Rory underscore Johnston and all of my work professionally at commodity context.com."
+    },
+    {
+      "start": 4544.080000000001,
+      "end": 4548.64,
+      "text": "We've got a weekly every Friday. We've got three monthlies and we've been doing an endless volume"
+    },
+    {
+      "start": 4548.64,
+      "end": 4553.360000000001,
+      "text": "work on a run and this largest supply shock ever. And the next piece I'm hoping to look at is"
+    },
+    {
+      "start": 4553.360000000001,
+      "end": 4558.96,
+      "text": "trying to dig deeper into these inventory questions to get a better kind of guide stick to measuring"
+    },
+    {
+      "start": 4558.96,
+      "end": 4564.0,
+      "text": "how close we are coming to those truly precarious tank bottom levels. Patrick Suresna and I will be back"
+    },
+    {
+      "start": 4564.0,
+      "end": 4568.8,
+      "text": "with the post game chart deck and Patrick's trade of the week as macro voices continues right here"
+    },
+    {
+      "start": 4568.8,
+      "end": 4570.16,
+      "text": "at macrovoices.com."
+    },
+    {
+      "start": 4576.16,
+      "end": 4580.16,
+      "text": "Now back to your hosts, Eric Townsend and Patrick Suresna."
+    },
+    {
+      "start": 4580.88,
+      "end": 4584.96,
+      "text": "Eric, it was great to have that update from Rory. Now listeners, you're going to find the"
+    },
+    {
+      "start": 4584.96,
+      "end": 4590.08,
+      "text": "download link for this week's trade of the week in your research roundup email. If you don't have"
+    },
+    {
+      "start": 4590.08,
+      "end": 4595.76,
+      "text": "a research roundup email, it means you have not yet registered at macrovoices.com. Just go to our"
+    },
+    {
+      "start": 4595.84,
+      "end": 4601.280000000001,
+      "text": "homepage and look for the red button over Michael. Every's picture saying looking for the downloads."
+    },
+    {
+      "start": 4601.92,
+      "end": 4607.6,
+      "text": "Patrick, for this week's trade of the week, Michael every argued that policy may be shifting away"
+    },
+    {
+      "start": 4607.6,
+      "end": 4613.6,
+      "text": "from broad support for financial assets and toward the physical economy. Patrick, for investors who"
+    },
+    {
+      "start": 4613.6,
+      "end": 4619.6,
+      "text": "subscribe to that view, what's the most practical way to express that industrial rebuild theme in"
+    },
+    {
+      "start": 4619.6,
+      "end": 4625.360000000001,
+      "text": "the market? Michael, every's argument was that we may be entering a very different policy regime"
+    },
+    {
+      "start": 4625.36,
+      "end": 4630.799999999999,
+      "text": "where the focus shifts from simply supporting financial markets to rebuilding the physical"
+    },
+    {
+      "start": 4630.799999999999,
+      "end": 4636.88,
+      "text": "capacity required for economic state craft. That means infrastructure, supply chains,"
+    },
+    {
+      "start": 4636.88,
+      "end": 4643.5199999999995,
+      "text": "ports, transportation, industrial production, energy systems, and strategic manufacturing all"
+    },
+    {
+      "start": 4643.5199999999995,
+      "end": 4649.12,
+      "text": "to become more important. So rather than trying to trade the next headline around Iran oil and"
+    },
+    {
+      "start": 4649.12,
+      "end": 4655.36,
+      "text": "fat policy, this week's trade of the week is about positioning for a broader industrial rebuild"
+    },
+    {
+      "start": 4655.36,
+      "end": 4661.92,
+      "text": "theme through the PAVE ETF, which gives diversified exposure to US infrastructure and physical"
+    },
+    {
+      "start": 4661.92,
+      "end": 4668.0,
+      "text": "economy investments. From a trade construction standpoint, I want to keep this one simple by"
+    },
+    {
+      "start": 4668.0,
+      "end": 4675.92,
+      "text": "taking the outright exposure to the PAVE ETF, which is symbol PAVE. The ETF is trading around"
+    },
+    {
+      "start": 4675.92,
+      "end": 4683.36,
+      "text": "$57.24 at the time of recording. The objective is to own the shares as a long-term position"
+    },
+    {
+      "start": 4683.36,
+      "end": 4689.76,
+      "text": "tied to the industrial rebuild theme. The tactical concern is that the broader market has already"
+    },
+    {
+      "start": 4689.76,
+      "end": 4696.56,
+      "text": "rallied aggressively, with the S&P 500 moving almost 20% from trough to peak in roughly two months."
+    },
+    {
+      "start": 4697.12,
+      "end": 4703.04,
+      "text": "That kind of move can leave the market short-term overbought and vulnerable for consolidation,"
+    },
+    {
+      "start": 4703.04,
+      "end": 4708.96,
+      "text": "backfilling, or a summer correction. So rather than ignoring that risk, I want to build"
+    },
+    {
+      "start": 4708.96,
+      "end": 4713.6,
+      "text": "some short-term protection while still establishing a longer-term position."
+    },
+    {
+      "start": 4714.16,
+      "end": 4720.32,
+      "text": "To manage the short-term risk, I'm pairing that long PAVE share position with a near-term"
+    },
+    {
+      "start": 4720.32,
+      "end": 4729.04,
+      "text": "protective put. Specifically, I'm looking at the July 17th, 2026 $55 put, which has roughly"
+    },
+    {
+      "start": 4729.04,
+      "end": 4738.0,
+      "text": "43 days to expiration, which is trading around $1.25. That strike sits almost directly on the 50-day"
+    },
+    {
+      "start": 4738.0,
+      "end": 4745.76,
+      "text": "moving average currently at 506, making it a logical short-term technical support level to define"
+    },
+    {
+      "start": 4745.76,
+      "end": 4752.88,
+      "text": "the hedge around. If the market keeps rallying, we stay invested in the shares and the put simply"
+    },
+    {
+      "start": 4752.88,
+      "end": 4759.68,
+      "text": "acts as an insurance. But if we do get a short-term correction, that put provides downside protection"
+    },
+    {
+      "start": 4759.68,
+      "end": 4765.52,
+      "text": "and gives us flexibility to either repair the position, roll the hedge, or improve the average"
+    },
+    {
+      "start": 4765.52,
+      "end": 4772.8,
+      "text": "cost-base into weakness. From a payoff perspective, the effective cost of the stock plus put position"
+    },
+    {
+      "start": 4772.8,
+      "end": 4780.72,
+      "text": "is about 5849, including the options premium. The protective put defines the short-term floor"
+    },
+    {
+      "start": 4780.72,
+      "end": 4789.92,
+      "text": "at $55, limiting the risk through the expiration to roughly $3.49 per share, or about 6%"
+    },
+    {
+      "start": 4789.92,
+      "end": 4796.4800000000005,
+      "text": "from the combined entry cost. The result is a way to establish a long-term exposure to the"
+    },
+    {
+      "start": 4796.4800000000005,
+      "end": 4803.52,
+      "text": "industrial rebuild theme while retaining tactical flexibility if the broader market finally decides"
+    },
+    {
+      "start": 4803.52,
+      "end": 4808.240000000001,
+      "text": "to exhale after a nearly vertical rally. Patrick, every Monday at Big Picture Trading,"
+    },
+    {
+      "start": 4808.32,
+      "end": 4813.679999999999,
+      "text": "your webinar explains how retail investors can put on our most recent trade of the week."
+    },
+    {
+      "start": 4813.679999999999,
+      "end": 4818.08,
+      "text": "For those listeners that want to explore how to put on these trades in greater detail,"
+    },
+    {
+      "start": 4818.08,
+      "end": 4824.32,
+      "text": "don't miss out on a 14-day free trial at BigPictureTrading.com. Now let's dive into the post-game"
+    },
+    {
+      "start": 4824.32,
+      "end": 4827.679999999999,
+      "text": "chart tick. All right, Eric, let's dive into his equity markets."
+    },
+    {
+      "start": 4827.679999999999,
+      "end": 4832.88,
+      "text": "Well, Patrick, the rally continues to astound me eight days up one day down. That's a great pattern"
+    },
+    {
+      "start": 4832.96,
+      "end": 4839.12,
+      "text": "when you can get it, but this can't last forever, and experienced investors know the longer that the"
+    },
+    {
+      "start": 4839.12,
+      "end": 4846.0,
+      "text": "unsustainable sustains, the less likely it is to continue sustaining. I'm still convinced that"
+    },
+    {
+      "start": 4846.0,
+      "end": 4851.28,
+      "text": "President Trump is wrong to assume that time is on our side in the Iran crisis. I think the"
+    },
+    {
+      "start": 4851.28,
+      "end": 4856.96,
+      "text": "opposite is true, and I think a big oil price spike could still pose a serious economic risk."
+    },
+    {
+      "start": 4856.96,
+      "end": 4862.24,
+      "text": "But one thing's clear, equity markets just plain aren't concerned about that risk, at least not"
+    },
+    {
+      "start": 4862.24,
+      "end": 4867.92,
+      "text": "for now. Eric, you're absolutely right about it being an astounding move. Going back almost 20"
+    },
+    {
+      "start": 4867.92,
+      "end": 4874.16,
+      "text": "years, there's only four times we've seen a rally of this magnitude, and certainly the market is"
+    },
+    {
+      "start": 4874.16,
+      "end": 4879.2,
+      "text": "stretched on almost every metric. When we put on something like a relative strength index,"
+    },
+    {
+      "start": 4879.2,
+      "end": 4884.88,
+      "text": "you can observe the incredibly over-bought conditions of these markets on the short term."
+    },
+    {
+      "start": 4884.88,
+      "end": 4890.48,
+      "text": "So at this stage, that usually implies that the stock market will have a ceiling, which is"
+    },
+    {
+      "start": 4890.4800000000005,
+      "end": 4895.52,
+      "text": "essentially it's going to be very difficult for it to make further progress. It's just overextended."
+    },
+    {
+      "start": 4895.52,
+      "end": 4900.96,
+      "text": "But the bigger question is, is there going to be a bigger, deeper market correction here,"
+    },
+    {
+      "start": 4900.96,
+      "end": 4909.4400000000005,
+      "text": "and what would be the trigger? First of all, we're still quite a ways away from systematic trading"
+    },
+    {
+      "start": 4909.4400000000005,
+      "end": 4916.240000000001,
+      "text": "strategies kicking in, they're selling. It's not like we're at the edge of a cliff here, but on the"
+    },
+    {
+      "start": 4916.24,
+      "end": 4922.88,
+      "text": "short term, the markets could start to wobble here, and we start seeing failed rallies and some"
+    },
+    {
+      "start": 4922.88,
+      "end": 4930.08,
+      "text": "more active distribution. Certainly, a catalyst, such as oil breaking north of 100, causing"
+    },
+    {
+      "start": 4930.08,
+      "end": 4937.36,
+      "text": "disruptions in the bond markets, could certainly act as a catalyst to create some nervousness that"
+    },
+    {
+      "start": 4937.36,
+      "end": 4942.32,
+      "text": "could spur profit-taking. We'll certainly see how it plays out. At this stage, the way I would"
+    },
+    {
+      "start": 4942.32,
+      "end": 4949.12,
+      "text": "very simply summarize, it is a very poor asymmetry at this moment for pressing the market higher"
+    },
+    {
+      "start": 4949.12,
+      "end": 4956.08,
+      "text": "and certainly hedging up and or reducing exposure is a very logical thing to have in these"
+    },
+    {
+      "start": 4956.08,
+      "end": 4960.48,
+      "text": "kind of market conditions. All right, Eric, let's talk about this dollar. Patrick, we're holding"
+    },
+    {
+      "start": 4960.48,
+      "end": 4965.599999999999,
+      "text": "steady around 99.5 on the Dixie. It hasn't turned down, but it's not breaking out to the upside,"
+    },
+    {
+      "start": 4965.599999999999,
+      "end": 4971.44,
+      "text": "either. Then again, the war action was mostly muted, and it appears to me that President Trump and"
+    },
+    {
+      "start": 4971.4400000000005,
+      "end": 4976.64,
+      "text": "his administration are going to limit their actions, at least for now, to what they can"
+    },
+    {
+      "start": 4976.64,
+      "end": 4984.160000000001,
+      "text": "describe as self-defense strikes. Apparently, trying to hedge congressional oversight challenges."
+    },
+    {
+      "start": 4984.160000000001,
+      "end": 4989.76,
+      "text": "Of course, they can't pass a law like that, President Trump would just veto it, but there's"
+    },
+    {
+      "start": 4989.76,
+      "end": 4995.4400000000005,
+      "text": "some political headwind that he's facing there. So I think there's still room for an upside"
+    },
+    {
+      "start": 4995.4400000000005,
+      "end": 5001.52,
+      "text": "breakout here. If we return to a full-scale military conflict in the Iran theater,"
+    },
+    {
+      "start": 5001.52,
+      "end": 5005.52,
+      "text": "I have a feeling we're going to eventually, but it seems like President Trump is"
+    },
+    {
+      "start": 5005.52,
+      "end": 5010.320000000001,
+      "text": "trying to hold off on that for as long as he can. So I'm not sure when it happens if we do get"
+    },
+    {
+      "start": 5010.320000000001,
+      "end": 5014.8,
+      "text": "that escalation, I think it probably takes the dollar back up again. Well, Eric, the dollar is"
+    },
+    {
+      "start": 5014.8,
+      "end": 5020.000000000001,
+      "text": "attempting to break out of a one month trade range through the month of May, here in early June"
+    },
+    {
+      "start": 5020.08,
+      "end": 5027.52,
+      "text": "on the upside. That's really on the back of the euro at this 116 level. The way I look at it is"
+    },
+    {
+      "start": 5027.52,
+      "end": 5034.64,
+      "text": "that we now have the ECB coming up next week. If we see that the situation in Europe is in any way"
+    },
+    {
+      "start": 5034.64,
+      "end": 5042.72,
+      "text": "deteriorating, we may see the euro being the outlet for a weakening or deteriorating European"
+    },
+    {
+      "start": 5042.72,
+      "end": 5049.2,
+      "text": "condition, which would, by default, allow the US dollar to rally. So I'm watching you're very"
+    },
+    {
+      "start": 5049.2,
+      "end": 5055.5199999999995,
+      "text": "closely here to see whether that's where potential strength merges. All right, Eric, let's talk"
+    },
+    {
+      "start": 5055.5199999999995,
+      "end": 5063.76,
+      "text": "about this oil chart. Well, what's clear to me is no deal is insight with Iran, total disagreement"
+    },
+    {
+      "start": 5063.76,
+      "end": 5070.4,
+      "text": "on the nuclear file, which has been the key issue through this. When President Trump tweeted this"
+    },
+    {
+      "start": 5070.4,
+      "end": 5077.679999999999,
+      "text": "week, Iran has agreed to no nuclear weapon. That's not news. It's a red herring. Iran agreed"
+    },
+    {
+      "start": 5077.68,
+      "end": 5084.400000000001,
+      "text": "to no nuclear weapon years ago that hasn't changed. It's been a consistent part of Iran's position"
+    },
+    {
+      "start": 5084.400000000001,
+      "end": 5090.240000000001,
+      "text": "ever since this conflict began. What they've said consistently is they do not have, nor do they"
+    },
+    {
+      "start": 5090.240000000001,
+      "end": 5097.04,
+      "text": "intend to develop a nuclear weapon. However, they are not willing to give up their enriched"
+    },
+    {
+      "start": 5097.04,
+      "end": 5103.12,
+      "text": "uranium, which is the key ingredient needed if they should ever change their mind. They're trying"
+    },
+    {
+      "start": 5103.12,
+      "end": 5109.36,
+      "text": "to maintain what's known as a nuclear threshold state condition, which means they've got the material"
+    },
+    {
+      "start": 5109.36,
+      "end": 5114.64,
+      "text": "they need that they could develop a nuclear weapon if they ever decided to, but they have not made"
+    },
+    {
+      "start": 5114.64,
+      "end": 5122.0,
+      "text": "that decision yet. So Iran's position has not changed. There is no news. The President is just retweeting"
+    },
+    {
+      "start": 5122.64,
+      "end": 5130.24,
+      "text": "old replayed tapes, I think, in an intentional effort to just jaw-bound the oil market lower."
+    },
+    {
+      "start": 5130.88,
+      "end": 5136.08,
+      "text": "Maybe he's confused at that point, but he's done that so many times now. I don't think he's"
+    },
+    {
+      "start": 5136.08,
+      "end": 5140.48,
+      "text": "confused. I think he understands what's going on. I think he's just trying to jaw-bound the oil"
+    },
+    {
+      "start": 5140.48,
+      "end": 5148.08,
+      "text": "market lower. One way or another, the market seems to finally be very slowly waking up to what should"
+    },
+    {
+      "start": 5148.08,
+      "end": 5153.84,
+      "text": "be obvious, which is there is no deal. There is no hours away from a deal. That's all a bunch of"
+    },
+    {
+      "start": 5153.84,
+      "end": 5159.52,
+      "text": "baloney. I thought the Labor Day tweet that I discussed with Rory Johnston was the biggest"
+    },
+    {
+      "start": 5159.52,
+      "end": 5165.92,
+      "text": "tell of the week where President Trump said that the US embargo on Iran could be lifted as soon as"
+    },
+    {
+      "start": 5165.92,
+      "end": 5171.12,
+      "text": "Labor Day. Labor Day is not soon. We're talking about American Labor Day, the one that happens in"
+    },
+    {
+      "start": 5171.12,
+      "end": 5178.16,
+      "text": "September. So, you know, if we're going to be straightforward moves substantially closed or"
+    },
+    {
+      "start": 5178.16,
+      "end": 5184.639999999999,
+      "text": "only at the very, very muted limited flows, less than 10% of normal that we have now. If that's"
+    },
+    {
+      "start": 5184.639999999999,
+      "end": 5190.0,
+      "text": "going to continue for the next three months until American Labor Day, it's going to have an"
+    },
+    {
+      "start": 5190.0,
+      "end": 5196.48,
+      "text": "absolutely crippling effect. I'm convinced on energy and it's going to eventually force a move"
+    },
+    {
+      "start": 5196.48,
+      "end": 5203.599999999999,
+      "text": "much higher in oil prices. How much higher is anyone's guess? The thing to watch here, the big curve"
+    },
+    {
+      "start": 5203.68,
+      "end": 5210.160000000001,
+      "text": "ball that could really accelerate that quickly would be a closure of the Strait of Bob El Mandep."
+    },
+    {
+      "start": 5210.160000000001,
+      "end": 5217.4400000000005,
+      "text": "That's the bottom of the Red Sea, the other side of Saudi Arabia. Right now, the oil that can't get"
+    },
+    {
+      "start": 5217.4400000000005,
+      "end": 5222.72,
+      "text": "out through the Strait of Hormuz, a lot of it is getting pipelined over to the Red Sea and it's"
+    },
+    {
+      "start": 5222.72,
+      "end": 5229.52,
+      "text": "coming out through the Strait of Bob El Mandep. So, if that gets closed too and it is well within"
+    },
+    {
+      "start": 5229.6,
+      "end": 5235.84,
+      "text": "the possibility of the Houthis and Iran's proxies, that could definitely escalate things and"
+    },
+    {
+      "start": 5235.84,
+      "end": 5241.360000000001,
+      "text": "escalate them very quickly. I think whether or not the Israel Lebanon conflict re-escalates will"
+    },
+    {
+      "start": 5241.360000000001,
+      "end": 5246.56,
+      "text": "probably play a big role in that. So, I don't know what is happening or what to predict or when"
+    },
+    {
+      "start": 5246.56,
+      "end": 5253.52,
+      "text": "it might happen, but a closure of that Strait would really add fuel to this fire and add it quickly."
+    },
+    {
+      "start": 5253.6,
+      "end": 5259.4400000000005,
+      "text": "Eric, I'm keeping it simple. Clearly, there's going to be a floor under oil. You can't deplete"
+    },
+    {
+      "start": 5259.4400000000005,
+      "end": 5265.280000000001,
+      "text": "hundreds of millions of barrels of oil inventory and then make a bet that oils were turning back"
+    },
+    {
+      "start": 5265.280000000001,
+      "end": 5272.64,
+      "text": "to the pre-war levels even if there was a peace deal. A new higher elevated level of oil will keep"
+    },
+    {
+      "start": 5272.64,
+      "end": 5280.080000000001,
+      "text": "a structural floor underneath crude, which to me makes it an asymmetric trade because even if the"
+    },
+    {
+      "start": 5280.08,
+      "end": 5287.44,
+      "text": "oil doesn't rally, you have a definable and manageable downside risk. But if the story about"
+    },
+    {
+      "start": 5287.44,
+      "end": 5292.5599999999995,
+      "text": "depleting inventory catches up with the markets and we do need to see some form of demand"
+    },
+    {
+      "start": 5292.5599999999995,
+      "end": 5298.5599999999995,
+      "text": "destruction from higher prices, to me, it's an incredible asymmetric trade. I'm continuing to"
+    },
+    {
+      "start": 5299.28,
+      "end": 5306.24,
+      "text": "look to see whether or not and how I can play the oil upside here in this kind of a macro backdrop."
+    },
+    {
+      "start": 5306.24,
+      "end": 5311.12,
+      "text": "So moving on here on page six, Eric, I have that gold chart. How do you size up the gold markets here?"
+    },
+    {
+      "start": 5311.12,
+      "end": 5317.44,
+      "text": "Patrick, so far the 200-day moving average has held. When we saw that test right around 4,400,"
+    },
+    {
+      "start": 5317.44,
+      "end": 5324.08,
+      "text": "that's where the 200-day was now. It's up to about 4,415 now, 4,415. So far, that's holding"
+    },
+    {
+      "start": 5324.08,
+      "end": 5332.32,
+      "text": "at least as of recording time. I won't be surprised though if the Iran situation continues to persist"
+    },
+    {
+      "start": 5332.4,
+      "end": 5338.88,
+      "text": "if that does not hold. So let's see what happens, but unless there's a rapid resolution to the Iran"
+    },
+    {
+      "start": 5338.88,
+      "end": 5345.28,
+      "text": "situation, I won't be surprised if we take out 4,415 to the downside. If that happens,"
+    },
+    {
+      "start": 5345.28,
+      "end": 5349.92,
+      "text": "we could see an acceleration of the move lower. So anything's possible here."
+    },
+    {
+      "start": 5349.92,
+      "end": 5355.28,
+      "text": "Well, Eric, I still look back and say, well, we had a parabolic blow off at the start of the year"
+    },
+    {
+      "start": 5355.28,
+      "end": 5360.96,
+      "text": "on gold. And we've basically been in a four-month consolidation. The price actually remains"
+    },
+    {
+      "start": 5361.04,
+      "end": 5368.24,
+      "text": "distributive in nature. Every rally fails. Basically, there was active selling of gold here,"
+    },
+    {
+      "start": 5368.24,
+      "end": 5375.68,
+      "text": "remains below. It's moving averages. The trend is clearly lower. And it's got macro headwinds,"
+    },
+    {
+      "start": 5376.4800000000005,
+      "end": 5382.8,
+      "text": "such as the fact that the dollar is attempting to strengthen rates are rising. And so all of these"
+    },
+    {
+      "start": 5382.8,
+      "end": 5390.24,
+      "text": "things are generally going to be like a wet blanket thrown on top of gold. Well, I'm not necessarily"
+    },
+    {
+      "start": 5390.32,
+      "end": 5396.0,
+      "text": "bearish outright. I don't see any reason at this moment for the gold bull market to begin."
+    },
+    {
+      "start": 5396.0,
+      "end": 5400.719999999999,
+      "text": "I think at this stage, we should really anticipate the remainder of the second quarter of the year"
+    },
+    {
+      "start": 5400.719999999999,
+      "end": 5405.44,
+      "text": "to be a lot more of the same. And we can see whether or not the third quarter brings around"
+    },
+    {
+      "start": 5405.44,
+      "end": 5410.639999999999,
+      "text": "a much more bullish scenario. All right, Eric, let's touch on uranium here."
+    },
+    {
+      "start": 5410.639999999999,
+      "end": 5416.639999999999,
+      "text": "Patrick, I couldn't possibly be more bullish long term, but it's a little bit concerning to see"
+    },
+    {
+      "start": 5416.72,
+      "end": 5423.12,
+      "text": "the broader market really at these extraordinary levels. And uranium just hasn't participated."
+    },
+    {
+      "start": 5423.12,
+      "end": 5429.84,
+      "text": "Now, we did see a very encouraging pop higher on Tuesday that came on the back of the nuclear"
+    },
+    {
+      "start": 5429.84,
+      "end": 5436.4800000000005,
+      "text": "fuels conference, but it pretty much completely retraced lower on Wednesday at the same time that"
+    },
+    {
+      "start": 5436.4800000000005,
+      "end": 5441.200000000001,
+      "text": "the broader market moved lower. Now, the broader market only moved a little bit lower. If we saw"
+    },
+    {
+      "start": 5441.2,
+      "end": 5446.88,
+      "text": "a full retracement of this big rally in the broader market, I think that could take uranium"
+    },
+    {
+      "start": 5446.88,
+      "end": 5453.84,
+      "text": "shares substantially lower. So correction here is entirely possible. It doesn't change my long-term"
+    },
+    {
+      "start": 5453.84,
+      "end": 5460.639999999999,
+      "text": "view at all. I'm a long-term investor, and I am committed very much long-term to uranium. But I"
+    },
+    {
+      "start": 5460.639999999999,
+      "end": 5466.24,
+      "text": "think we should could see a soft patch here. Seasonally, this is a weak period until late August or so."
+    },
+    {
+      "start": 5466.24,
+      "end": 5471.28,
+      "text": "Maybe we'll hold steady, but I don't think we should expect a big rally or all-time highs,"
+    },
+    {
+      "start": 5471.28,
+      "end": 5476.5599999999995,
+      "text": "or any of that, until we get into the seasonal buying period, which normally starts right around"
+    },
+    {
+      "start": 5476.5599999999995,
+      "end": 5482.639999999999,
+      "text": "the WNA conference, which I think is the seventh through 11th of September this year. Well, uranium"
+    },
+    {
+      "start": 5482.639999999999,
+      "end": 5491.12,
+      "text": "as a commodity has been incredibly quiet and stable. And even the uranium stocks have seen a lot of"
+    },
+    {
+      "start": 5491.12,
+      "end": 5496.96,
+      "text": "failed rallies and a lot of trade-range consolidations. I'll agree with you that the bull story is"
+    },
+    {
+      "start": 5496.96,
+      "end": 5504.08,
+      "text": "quite intact and that inevitably there's lots more room for the uranium stocks to have more"
+    },
+    {
+      "start": 5504.08,
+      "end": 5511.76,
+      "text": "bullish upside. But as of this moment, this remains an inactive market, and we're going to see when"
+    },
+    {
+      "start": 5511.76,
+      "end": 5517.5199999999995,
+      "text": "the uranium market finally genuinely wakes up and gets things really going. So, Eric, I just"
+    },
+    {
+      "start": 5517.52,
+      "end": 5523.84,
+      "text": "wanted to very quickly just touch on the copper markets, which continue to trade a 52 week highs."
+    },
+    {
+      "start": 5523.84,
+      "end": 5531.52,
+      "text": "It's actually probably the most bullish chart in the commodity space in that it's trading along"
+    },
+    {
+      "start": 5531.52,
+      "end": 5539.200000000001,
+      "text": "its highs. Old dips continue to be bought, and it has a very clear momentum at this stage."
+    },
+    {
+      "start": 5539.200000000001,
+      "end": 5544.240000000001,
+      "text": "It will be interesting to see whether or not copper can break to that fresh new high and make a"
+    },
+    {
+      "start": 5544.24,
+      "end": 5549.84,
+      "text": "gun for the seven level on the upside. Patrick, before we wrap up this week's podcast, let's hit"
+    },
+    {
+      "start": 5549.84,
+      "end": 5557.679999999999,
+      "text": "that 10-year treasury note chart. We obviously had a several week pullback here off of that 470 level"
+    },
+    {
+      "start": 5557.679999999999,
+      "end": 5566.24,
+      "text": "on the upside, but that came on the back of some oil weakness. Now that we're seeing the potential"
+    },
+    {
+      "start": 5566.24,
+      "end": 5572.24,
+      "text": "for oil to once again be turning higher, the big question is will we see the correlation remain"
+    },
+    {
+      "start": 5572.32,
+      "end": 5579.76,
+      "text": "where as oil goes higher inflation expectations rise and yields rise along with it that's certainly"
+    },
+    {
+      "start": 5579.76,
+      "end": 5584.32,
+      "text": "been the story for the last two, three months, and it's going to be really interesting to see whether"
+    },
+    {
+      "start": 5584.32,
+      "end": 5591.92,
+      "text": "that correlation continues to demonstrate itself here as we go. The bigger question to ask is can we"
+    },
+    {
+      "start": 5591.92,
+      "end": 5599.5199999999995,
+      "text": "see a 5% handle on the 10-year yield? It's certainly at this point the path of least resistance,"
+    },
+    {
+      "start": 5599.52,
+      "end": 5605.4400000000005,
+      "text": "the way these charts look at this stage, I'm not seeing the bond buying opportunity just yet."
+    },
+    {
+      "start": 5605.4400000000005,
+      "end": 5609.52,
+      "text": "Folks, if you enjoy Patrick's chart decks, you can get them every single day of the week with a"
+    },
+    {
+      "start": 5609.52,
+      "end": 5614.320000000001,
+      "text": "free trial of big picture trading. The details are on the last pages of the slide deck or just go"
+    },
+    {
+      "start": 5614.320000000001,
+      "end": 5619.200000000001,
+      "text": "to bigpicturetrading.com. Patrick, tell them what they can expect to find in this week's research"
+    },
+    {
+      "start": 5619.200000000001,
+      "end": 5622.96,
+      "text": "roundup. Well, in this week's research roundup, you're going to find the transcript for today's"
+    },
+    {
+      "start": 5622.96,
+      "end": 5627.76,
+      "text": "interview as well as the trade of the week chart book we just discussed here in the post game,"
+    },
+    {
+      "start": 5627.76,
+      "end": 5632.24,
+      "text": "including a number of links to articles that we found interesting. You're going to find this link"
+    },
+    {
+      "start": 5632.24,
+      "end": 5637.4400000000005,
+      "text": "and so much more in this week's research roundup. That does it for this week's episode. We appreciate"
+    },
+    {
+      "start": 5637.4400000000005,
+      "end": 5642.400000000001,
+      "text": "all the feedback and support we get from our listeners and we're always looking for suggestions on"
+    },
+    {
+      "start": 5642.400000000001,
+      "end": 5647.360000000001,
+      "text": "how we can make the program even better. For those of our listeners that write or blog about the"
+    },
+    {
+      "start": 5647.360000000001,
+      "end": 5653.360000000001,
+      "text": "markets and would like to share that content with our listeners, send us an email at research"
+    },
+    {
+      "start": 5653.36,
+      "end": 5659.599999999999,
+      "text": "roundup at macrovoices.com and we will consider it for our weekly distributions. If you have"
+    },
+    {
+      "start": 5659.599999999999,
+      "end": 5666.96,
+      "text": "not already, follow our main account on X at macrovoices for all the most recent updates and releases."
+    },
+    {
+      "start": 5666.96,
+      "end": 5674.32,
+      "text": "You can also follow Eric on X at Eric S. Townsend. That's Eric spelt with a K and you can also follow"
+    },
+    {
+      "start": 5674.32,
+      "end": 5680.96,
+      "text": "me at Patrick Sarasana on behalf of Eric Townsend and myself. Thank you for listening and we'll see you all"
+    },
+    {
+      "start": 5680.96,
+      "end": 5686.96,
+      "text": "next week."
+    },
+    {
+      "start": 5689.92,
+      "end": 5695.52,
+      "text": "That concludes this edition of macrovoices. Be sure to tune in each week to hear feature"
+    },
+    {
+      "start": 5695.52,
+      "end": 5699.12,
+      "text": "interviews with the brightest minds in finance and macroeconomics."
+    },
+    {
+      "start": 5699.76,
+      "end": 5705.92,
+      "text": "macrovoices is made possible by sponsorship from bigpicturetrading.com. The internet's premier"
+    },
+    {
+      "start": 5706.0,
+      "end": 5712.24,
+      "text": "source of online education for traders. Please visit bigpicturetrading.com for more information."
+    },
+    {
+      "start": 5712.8,
+      "end": 5719.84,
+      "text": "Please register your free account at macrovoices.com. Once registered, you'll receive our free weekly"
+    },
+    {
+      "start": 5719.84,
+      "end": 5725.2,
+      "text": "research roundup email containing links to supporting documents from our featured guests"
+    },
+    {
+      "start": 5725.2,
+      "end": 5730.64,
+      "text": "and the very best free financial content our volunteer research team could find on the internet"
+    },
+    {
+      "start": 5730.64,
+      "end": 5736.320000000001,
+      "text": "each week. You'll also gain access to our free listener discussion forums and research library."
+    },
+    {
+      "start": 5736.88,
+      "end": 5742.08,
+      "text": "And the more registered users we have, the more we'll be able to recruit high profile feature"
+    },
+    {
+      "start": 5742.08,
+      "end": 5749.04,
+      "text": "interview guests for future programs. So please register your free account today at macrovoices.com"
+    },
+    {
+      "start": 5749.04,
+      "end": 5755.92,
+      "text": "if you haven't already. You can subscribe to macrovoices on iTunes to have macro voices automatically"
+    },
+    {
+      "start": 5755.92,
+      "end": 5762.08,
+      "text": "delivered to your mobile device each week free of charge. You can email questions for the program to"
+    },
+    {
+      "start": 5762.08,
+      "end": 5768.0,
+      "text": "mailbag at macrovoices.com and we'll answer your questions on the air from time to time in our"
+    },
+    {
+      "start": 5768.0,
+      "end": 5774.32,
+      "text": "mailbag segment. macrovoices is presented for informational and entertainment purposes only."
+    },
+    {
+      "start": 5774.32,
+      "end": 5779.28,
+      "text": "The information presented on macrovoices should not be construed as investment advice."
+    },
+    {
+      "start": 5779.84,
+      "end": 5784.8,
+      "text": "Always consult a licensed investment professional before making investment decisions."
+    },
+    {
+      "start": 5784.8,
+      "end": 5790.96,
+      "text": "The views and opinions expressed on macrovoices are those of the participants and do not necessarily"
+    },
+    {
+      "start": 5790.96,
+      "end": 5797.92,
+      "text": "reflect those of the show's hosts or sponsors. macrovoices, its producers, sponsors, and hosts"
+    },
+    {
+      "start": 5797.92,
+      "end": 5802.88,
+      "text": "Eric Townsend and Patrick Sarresna shall not be liable for losses resulting from investment"
+    },
+    {
+      "start": 5802.88,
+      "end": 5809.4400000000005,
+      "text": "decisions based on information or viewpoints presented on macrovoices. macrovoices is made possible"
+    },
+    {
+      "start": 5809.4400000000005,
+      "end": 5817.200000000001,
+      "text": "by sponsorship from bigpicturetrading.com and by funding from 4th Turning Capital Management LLC."
+    },
+    {
+      "start": 5817.200000000001,
+      "end": 5820.400000000001,
+      "text": "For more information visit macrovoices.com"
+    }
+  ]
+}

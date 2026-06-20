@@ -1,0 +1,1431 @@
+{
+  "id": "653d143d3397079e",
+  "show": "All-In Podcast",
+  "theme": "Tech & AI",
+  "title": "Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI's Atari Stage",
+  "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/LIQ_BillMaris_Ch.mp3?dest-id=1928300",
+  "source": "local-whisper",
+  "duration": 1705.1,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.84,
+      "text": "After saying he was out, now Bill Maris is returning to the investing world."
+    },
+    {
+      "start": 6.84,
+      "end": 11.72,
+      "text": "The founding CEO of Google Ventress has raised $150 million for his new fund called Section"
+    },
+    {
+      "start": 11.72,
+      "end": 12.72,
+      "text": "32."
+    },
+    {
+      "start": 12.72,
+      "end": 20.72,
+      "text": "With a smaller fund, I have the advantage to be very selective in the companies that I"
+    },
+    {
+      "start": 20.72,
+      "end": 22.52,
+      "text": "invested in, the people that I hire."
+    },
+    {
+      "start": 22.52,
+      "end": 24.560000000000002,
+      "text": "We're going to invest for a financial return."
+    },
+    {
+      "start": 24.560000000000002,
+      "end": 28.88,
+      "text": "Any other metric is impossible to measure and therefore won't succeed."
+    },
+    {
+      "start": 28.88,
+      "end": 31.96,
+      "text": "Think of the change that has happened just in the last 100 years and what's about"
+    },
+    {
+      "start": 31.96,
+      "end": 35.8,
+      "text": "to happen in the next 100 years with the advent of AI, the world's in the change by"
+    },
+    {
+      "start": 35.8,
+      "end": 37.8,
+      "text": "orders of magnitude."
+    },
+    {
+      "start": 37.8,
+      "end": 40.2,
+      "text": "Thank you very much for that warm welcome."
+    },
+    {
+      "start": 40.2,
+      "end": 41.2,
+      "text": "I am Bill Maris."
+    },
+    {
+      "start": 41.2,
+      "end": 44.16,
+      "text": "I'm the founder of Section 32."
+    },
+    {
+      "start": 44.16,
+      "end": 47.68,
+      "text": "Prior to that, I was the founder and CEO of Google Ventress."
+    },
+    {
+      "start": 47.68,
+      "end": 53.72,
+      "text": "I was also Google's Vice President of Special Projects where I incubated Waymo and Google"
+    },
+    {
+      "start": 53.72,
+      "end": 61.72,
+      "text": "Projects, Calico and many other projects as well and before that I founded a web hosting"
+    },
+    {
+      "start": 61.72,
+      "end": 67.64,
+      "text": "and data center company which we're going to talk a little bit about and today I think"
+    },
+    {
+      "start": 67.64,
+      "end": 72.16,
+      "text": "I'm going to talk to you about a few of the lessons I've learned on these interesting"
+    },
+    {
+      "start": 72.16,
+      "end": 77.64,
+      "text": "experiences I've had in life so we'll start with four lessons I'm going to talk about"
+    },
+    {
+      "start": 77.64,
+      "end": 83.88,
+      "text": "and we're going to go back to 1997 to start when I was a fresh college graduate I had"
+    },
+    {
+      "start": 83.88,
+      "end": 89.56,
+      "text": "a degree in neuroscience and I found myself on Wall Street somehow managed to land a"
+    },
+    {
+      "start": 89.56,
+      "end": 96.92,
+      "text": "job there but I was miserable having to wear a suit and try to work in the heat but one"
+    },
+    {
+      "start": 96.92,
+      "end": 102.48,
+      "text": "good thing came of that which was I looked in the closet of the office one day and I saw"
+    },
+    {
+      "start": 102.48,
+      "end": 108.0,
+      "text": "a server and I asked well what is this thing beneath our jackets and they said well that's"
+    },
+    {
+      "start": 108.0,
+      "end": 115.80000000000001,
+      "text": "where our email and websites live and as can happen to many of us I had a moment where"
+    },
+    {
+      "start": 115.80000000000001,
+      "end": 123.56,
+      "text": "I felt like I was bathed in the light of inspiration and I thought I think I've glimpsed"
+    },
+    {
+      "start": 123.56,
+      "end": 130.6,
+      "text": "the future I think I can maybe make a business out of this because if you can have our website"
+    },
+    {
+      "start": 130.6,
+      "end": 136.28,
+      "text": "and email in your closet how many websites and emails could I put in my closet so I immediately"
+    },
+    {
+      "start": 136.28,
+      "end": 144.2,
+      "text": "quit my job because I had kind of glimpsed through a keyhole and through that keyhole I thought I"
+    },
+    {
+      "start": 144.2,
+      "end": 151.07999999999998,
+      "text": "saw the internet and I saw a data center and it looked something like this or maybe when I say"
+    },
+    {
+      "start": 151.07999999999998,
+      "end": 157.95999999999998,
+      "text": "data center you think of something like this or something like this but in 1997 a state of the"
+    },
+    {
+      "start": 157.96,
+      "end": 166.28,
+      "text": "art data center looked almost exactly like this we had three servers a small medium and large"
+    },
+    {
+      "start": 167.8,
+      "end": 172.92000000000002,
+      "text": "business grew we eventually had five servers and this isn't a data center all this was my"
+    },
+    {
+      "start": 172.92000000000002,
+      "end": 181.0,
+      "text": "apartment where I founded the company with credit cards and the servers lived in one room the work"
+    },
+    {
+      "start": 181.0,
+      "end": 188.28,
+      "text": "happened in the other room and we get very hot in that room and this was in Vermont so I open"
+    },
+    {
+      "start": 188.28,
+      "end": 194.44,
+      "text": "the windows and then we get very cold so cold in fact that by noon if you had a glass of water"
+    },
+    {
+      "start": 194.44,
+      "end": 202.04,
+      "text": "in your desk it would ice over you may think though this isn't so bad but actually this was also"
+    },
+    {
+      "start": 202.04,
+      "end": 208.2,
+      "text": "my apartment as well this was the bed and you may look at that and think well you've got a mattress"
+    },
+    {
+      "start": 208.20000000000002,
+      "end": 212.76000000000002,
+      "text": "and a nice pillow and then look at that nice blanket but this is a rug I got from Home Depot to keep"
+    },
+    {
+      "start": 212.76000000000002,
+      "end": 221.16000000000003,
+      "text": "myself warm on those nights and one day there was a thunderstorm the roof started to leak and I"
+    },
+    {
+      "start": 221.16000000000003,
+      "end": 226.84000000000003,
+      "text": "knew I needed to do something because water and computers and servers don't mix well so I called"
+    },
+    {
+      "start": 226.84000000000003,
+      "end": 233.08,
+      "text": "the landlord and said the roof leaking the landlord said well that happens sometimes but I knew"
+    },
+    {
+      "start": 233.08,
+      "end": 238.12,
+      "text": "that I needed to do something so when you don't know what to do you go to Home Depot I got a bucket"
+    },
+    {
+      "start": 238.12,
+      "end": 245.16,
+      "text": "of tar and a mop and I went up on the roof and there was lightning and there was rain and I went"
+    },
+    {
+      "start": 245.16,
+      "end": 251.72,
+      "text": "up there and I I tarred the roof and I did not glimpse the future in that case because I didn't know"
+    },
+    {
+      "start": 251.72,
+      "end": 256.84000000000003,
+      "text": "when you're tearing the roof that you should start at the far corner and work towards the door rather"
+    },
+    {
+      "start": 256.84000000000003,
+      "end": 263.4,
+      "text": "than the reverse and I tarred myself into a corner but the choice that I faced was either the servers get"
+    },
+    {
+      "start": 263.4,
+      "end": 268.76,
+      "text": "electrocuted or perhaps I get electrocuted but as an entrepreneur I was willing to take that risk"
+    },
+    {
+      "start": 268.76,
+      "end": 275.47999999999996,
+      "text": "which you know newsflash I survived my shoes though are still stuck on that roof in Vermont which"
+    },
+    {
+      "start": 275.47999999999996,
+      "end": 284.12,
+      "text": "takes me to lesson two which is to see the future sometimes you need to be a little bit insane"
+    },
+    {
+      "start": 285.71999999999997,
+      "end": 292.03999999999996,
+      "text": "it may appear to those around you that you are tearing the roof in the thunderstorm and to that"
+    },
+    {
+      "start": 292.04,
+      "end": 297.16,
+      "text": "point I'm going to share a few slides here that a friend named Stuart Butterfield was kind enough"
+    },
+    {
+      "start": 297.16,
+      "end": 305.0,
+      "text": "to share with me and here's the inauguration 1989 and there's someone taking a picture that makes"
+    },
+    {
+      "start": 305.0,
+      "end": 310.52000000000004,
+      "text": "sense it's probably a film camera and 2005 is not very different there's still someone back there"
+    },
+    {
+      "start": 310.52000000000004,
+      "end": 317.16,
+      "text": "taking a picture and then let's go just four years later to another inauguration and if we look"
+    },
+    {
+      "start": 317.16,
+      "end": 323.48,
+      "text": "closely it's quite a bit different because now everybody's got a camera everybody's got a camera"
+    },
+    {
+      "start": 323.48,
+      "end": 328.44,
+      "text": "and this was kind of before cameras were mushed into cell phones it was kind of around that time"
+    },
+    {
+      "start": 328.44,
+      "end": 332.44000000000005,
+      "text": "it was starting to happen but but that's not the most interesting thing about this photo because in"
+    },
+    {
+      "start": 332.44000000000005,
+      "end": 338.6,
+      "text": "this crowd is someone who to his friends I'm sure seemed insane who also did glimpse the future"
+    },
+    {
+      "start": 338.6,
+      "end": 345.24,
+      "text": "and we look closely this gentleman has decided to I don't know live stream or record the inauguration on"
+    },
+    {
+      "start": 345.24,
+      "end": 351.88,
+      "text": "his laptop he knew something that those around him didn't know which is one of the things that I've"
+    },
+    {
+      "start": 351.88,
+      "end": 357.40000000000003,
+      "text": "always looked for entrepreneurs is they know a secret about the future that most of us don't believe"
+    },
+    {
+      "start": 358.68,
+      "end": 365.56,
+      "text": "let's fast forward to 2007 and find myself somehow at Google and a challenge was given to me"
+    },
+    {
+      "start": 366.52,
+      "end": 372.68,
+      "text": "the challenge was Google needs a vendor fund we were starting to make some investments we didn't"
+    },
+    {
+      "start": 372.68,
+      "end": 378.84000000000003,
+      "text": "have a coherent strategy there were no budgets I had to figure out what to do so I first found a"
+    },
+    {
+      "start": 378.84000000000003,
+      "end": 385.88,
+      "text": "friend rich minor is the co-founder of Android and he became my partner in crime as we conceptualized"
+    },
+    {
+      "start": 385.88,
+      "end": 392.12,
+      "text": "what what could Google ventures be we went up and down Sand Hill Road and we we talked to"
+    },
+    {
+      "start": 393.0,
+      "end": 397.56,
+      "text": "everyone anyone that was willing to talk to us and have a conversation we were willing to"
+    },
+    {
+      "start": 397.56,
+      "end": 405.8,
+      "text": "talk to to see what we what we could learn we came up with a plan our plan was to obtain all the"
+    },
+    {
+      "start": 405.8,
+      "end": 412.04,
+      "text": "data of venture that we could find and being Google you can imagine it was a lot of data historical"
+    },
+    {
+      "start": 412.04,
+      "end": 420.52,
+      "text": "data you name it then we decided we would step to use AI but at that time Google would not let us"
+    },
+    {
+      "start": 420.52,
+      "end": 428.12,
+      "text": "use the term AI and this persisted for many years bill AI is science fiction it is it's a hundred"
+    },
+    {
+      "start": 428.12,
+      "end": 434.35999999999996,
+      "text": "years away if it's ever going to happen let's stick to machine learning by the way when you say AI"
+    },
+    {
+      "start": 434.35999999999996,
+      "end": 439.64,
+      "text": "it freaks people out so stop freaking people out so we had to call machine learning and we used"
+    },
+    {
+      "start": 439.64,
+      "end": 446.03999999999996,
+      "text": "machine learning to do two things design the ideal portfolio construction by running millions and"
+    },
+    {
+      "start": 446.04,
+      "end": 451.32,
+      "text": "millions of simulations and back testing and all of the things you can imagine that data scientists"
+    },
+    {
+      "start": 452.04,
+      "end": 459.56,
+      "text": "would do and and to determine what the ideal fund size would be and people were excited here's"
+    },
+    {
+      "start": 459.56,
+      "end": 466.28000000000003,
+      "text": "a headline from TechCrunch at the time and and people inside of Google were also pretty excited"
+    },
+    {
+      "start": 466.28000000000003,
+      "end": 473.8,
+      "text": "this is one of the senior execs I later learned had this to say and you know I I have to admit"
+    },
+    {
+      "start": 473.8,
+      "end": 479.72,
+      "text": "it seemed crazy the plan seemed crazy at the time but let's look at how it turned out so over"
+    },
+    {
+      "start": 479.72,
+      "end": 485.16,
+      "text": "this time period a two thousand ninety two two thousand eighteen top quartile VC returns look like"
+    },
+    {
+      "start": 485.16,
+      "end": 491.08000000000004,
+      "text": "this and top death style looked like this using publicly available information I'm not sharing any"
+    },
+    {
+      "start": 491.88,
+      "end": 496.84000000000003,
+      "text": "non public for prior to a Google information we would estimate Google Ventures returns at about"
+    },
+    {
+      "start": 496.84000000000003,
+      "end": 504.68,
+      "text": "4.1x and I adhered more closely to the strategy and the investments that I led and the investments"
+    },
+    {
+      "start": 504.68,
+      "end": 511.96000000000004,
+      "text": "that I led turned out like this which takes me to lesson three which is don't bet against computer"
+    },
+    {
+      "start": 511.96000000000004,
+      "end": 517.64,
+      "text": "science I've seen it happen many many times in many many fields if you apply the right kind of"
+    },
+    {
+      "start": 517.64,
+      "end": 523.64,
+      "text": "computer science at the right time to the right problem you will get to the right answers I would not"
+    },
+    {
+      "start": 523.64,
+      "end": 529.16,
+      "text": "bet against it even if it looks like you're tiring the roof in a thunderstorm so let's fast forward"
+    },
+    {
+      "start": 529.16,
+      "end": 535.64,
+      "text": "to two thousand and seventeen I decide to start my own fund and again those around me said"
+    },
+    {
+      "start": 535.64,
+      "end": 540.4399999999999,
+      "text": "you're insane why would you do that you're in the warm womb of Google lunches free and the"
+    },
+    {
+      "start": 540.4399999999999,
+      "end": 546.4399999999999,
+      "text": "massages are plenty and so forth but after the idea you know sunk in I the advice turned into"
+    },
+    {
+      "start": 546.4399999999999,
+      "end": 551.72,
+      "text": "raises much money as possible you know that's the right way to run a fund you'll get a big"
+    },
+    {
+      "start": 551.72,
+      "end": 556.76,
+      "text": "management fee you'll be happy things are going to work out really well for you and I thought about"
+    },
+    {
+      "start": 556.76,
+      "end": 562.9200000000001,
+      "text": "that relative to everything I had done up to that point and I decided to to not take that advice"
+    },
+    {
+      "start": 563.48,
+      "end": 570.52,
+      "text": "and then over the course of my time at section 32 we've had six funds we've invested in companies"
+    },
+    {
+      "start": 570.52,
+      "end": 578.9200000000001,
+      "text": "like CrowdStrike and Co here and Coinbase and all six of those funds have averaged about 400"
+    },
+    {
+      "start": 578.92,
+      "end": 585.16,
+      "text": "million in size and all are performing their top desial and to the extent there is DPI to measure"
+    },
+    {
+      "start": 585.16,
+      "end": 590.68,
+      "text": "that's the only measure as far as I'm concerned and venture that counts as DPI which takes me to"
+    },
+    {
+      "start": 590.68,
+      "end": 598.28,
+      "text": "lesson four that this will be heresy to some but small funds outperform large funds this is simply"
+    },
+    {
+      "start": 598.28,
+      "end": 604.28,
+      "text": "the math this is not an opinion I'm trying to convince you of but there are many reasons for this"
+    },
+    {
+      "start": 604.28,
+      "end": 609.24,
+      "text": "smaller funds you can have more focus you have I mean I've I've already managed a multi-billion"
+    },
+    {
+      "start": 609.24,
+      "end": 615.56,
+      "text": "dollar fund with hundreds of employees it's distracting you cannot give the attention to founders that"
+    },
+    {
+      "start": 615.56,
+      "end": 622.8399999999999,
+      "text": "I would like to give it and there are many reasons for this and if we look at top desial performance"
+    },
+    {
+      "start": 622.8399999999999,
+      "end": 631.72,
+      "text": "of DPI fund smaller than 750 million average return of 4.76x and funds larger than a billion"
+    },
+    {
+      "start": 632.36,
+      "end": 641.48,
+      "text": "2.42x funds below 750 million across that time period represented 95% of top desial performers with"
+    },
+    {
+      "start": 641.48,
+      "end": 648.6800000000001,
+      "text": "discontinuous return compression above 750 million why is this there's a lot of reasons for this"
+    },
+    {
+      "start": 650.0400000000001,
+      "end": 654.28,
+      "text": "you can use your own numbers but I'll just do a little thought experiment if you have a 500"
+    },
+    {
+      "start": 654.28,
+      "end": 659.0,
+      "text": "million dollar fund and let's say on average these days you can own 10% of a company"
+    },
+    {
+      "start": 659.88,
+      "end": 665.16,
+      "text": "you need five billion dollars of exits to get your money back let's just remind ourselves that the"
+    },
+    {
+      "start": 665.16,
+      "end": 672.36,
+      "text": "75th percentile venture loses money and there is persistence of performance of the top quartile"
+    },
+    {
+      "start": 672.36,
+      "end": 677.32,
+      "text": "so so if you need five billion to get your money back and and if you want to be in this business"
+    },
+    {
+      "start": 677.32,
+      "end": 682.76,
+      "text": "for the long term let's say you set your your goal at 3x you you need to return 15 billion dollars"
+    },
+    {
+      "start": 682.76,
+      "end": 688.2,
+      "text": "of exit value in your companies now if you have a seven billion dollar fund and we do the same math"
+    },
+    {
+      "start": 689.1600000000001,
+      "end": 695.96,
+      "text": "you know you've got to return 210 billion 7 billion to 70 times 3x is 210 billion which"
+    },
+    {
+      "start": 698.12,
+      "end": 701.96,
+      "text": "exceeds the total venture-backed M&A and IPO exit value in most years"
+    },
+    {
+      "start": 703.32,
+      "end": 707.4000000000001,
+      "text": "this year may be an exception but that is something I'm looking forward to talking about when we"
+    },
+    {
+      "start": 707.4000000000001,
+      "end": 711.8000000000001,
+      "text": "sit down for those of you we've crunched the numbers we've done all the math those are bills four"
+    },
+    {
+      "start": 711.8000000000001,
+      "end": 716.5200000000001,
+      "text": "lessons for today I hope that they're somewhat useful there's a lot of stories behind all this and I'm"
+    },
+    {
+      "start": 716.52,
+      "end": 719.96,
+      "text": "looking forward to talking about them for a few minutes with the guys thanks so much"
+    },
+    {
+      "start": 722.1999999999999,
+      "end": 727.0799999999999,
+      "text": "you guys are old friends yes we are we go way back we'll bills when he started Google Ventures"
+    },
+    {
+      "start": 727.96,
+      "end": 733.24,
+      "text": "I was the first ex-google company you invested in that's correct and I had to go"
+    },
+    {
+      "start": 733.24,
+      "end": 738.76,
+      "text": "climate court a billion dollars it's a month santo what was your multiple what was the return oh"
+    },
+    {
+      "start": 738.76,
+      "end": 742.36,
+      "text": "I don't know it was actually good for you guys it was quite good yeah yeah you guys were in the"
+    },
+    {
+      "start": 742.36,
+      "end": 747.48,
+      "text": "BN this yeah and with one billion dollars was a lot of money then that back then that was a good"
+    },
+    {
+      "start": 747.48,
+      "end": 751.16,
+      "text": "deal that would have been that would have been this round now it's like an A round yeah that would"
+    },
+    {
+      "start": 751.16,
+      "end": 754.6800000000001,
+      "text": "have been a round yeah now we're gonna do it again with the hollow now we're gonna do it again with"
+    },
+    {
+      "start": 754.6800000000001,
+      "end": 761.8000000000001,
+      "text": "the hollow yeah so you know I just want to juxtapose what you said with what Thomas shared"
+    },
+    {
+      "start": 762.6800000000001,
+      "end": 767.8000000000001,
+      "text": "they've got a very large kind of capital base that they invest and they're investing significantly"
+    },
+    {
+      "start": 767.8000000000001,
+      "end": 772.04,
+      "text": "in these later stage rounds and these well proven companies where it's you know the data he shared"
+    },
+    {
+      "start": 772.04,
+      "end": 777.16,
+      "text": "is that you can get significant multiples to get to that next phase you know you're more likely"
+    },
+    {
+      "start": 777.16,
+      "end": 781.0799999999999,
+      "text": "to go from a billion to 10 billion and then you're more likely to go from 10 billion to 100 and 100"
+    },
+    {
+      "start": 781.0799999999999,
+      "end": 787.9599999999999,
+      "text": "to a trillion trillion to whatever you know doesn't that justify an alternative strategy to what you're"
+    },
+    {
+      "start": 787.9599999999999,
+      "end": 793.88,
+      "text": "saying of having smaller funds focused on venture that you can maybe barbell it have smaller vehicles"
+    },
+    {
+      "start": 793.88,
+      "end": 799.16,
+      "text": "focused on venture and then very large vehicles that bet on the sure things that have that"
+    },
+    {
+      "start": 799.16,
+      "end": 804.12,
+      "text": "durability and that compounding advantage and you can kind of have the two together both be three"
+    },
+    {
+      "start": 804.12,
+      "end": 809.0799999999999,
+      "text": "extra charts so my observation on that would be one I haven't seen the data science to support"
+    },
+    {
+      "start": 809.0799999999999,
+      "end": 814.68,
+      "text": "that second conclusion of the late stage companies that that can be a an ongoing trend other than"
+    },
+    {
+      "start": 814.68,
+      "end": 819.56,
+      "text": "this one moment this weird moment in time with these multi kind of trillion dollar exits that are"
+    },
+    {
+      "start": 819.56,
+      "end": 826.92,
+      "text": "coming one that would be kind of observation one two would be at a certain point and this is"
+    },
+    {
+      "start": 826.9200000000001,
+      "end": 832.6800000000001,
+      "text": "not a negative it's just an observation if you're an RIA and you're you know collecting assets that"
+    },
+    {
+      "start": 832.6800000000001,
+      "end": 839.72,
+      "text": "is not venture you know venture as I practice it at least is a different craft where you are making"
+    },
+    {
+      "start": 839.72,
+      "end": 846.5200000000001,
+      "text": "concentrated bets of your time and capital on entrepreneurs and helping them build a business"
+    },
+    {
+      "start": 846.5200000000001,
+      "end": 852.84,
+      "text": "and there's nothing wrong with late stage investing however I also have an observation that"
+    },
+    {
+      "start": 852.84,
+      "end": 863.4,
+      "text": "a bit of an objection to companies that wrap themselves up in public benefit language and then"
+    },
+    {
+      "start": 865.08,
+      "end": 872.52,
+      "text": "keep the value creation to themselves and an elite group of investors through a big part of"
+    },
+    {
+      "start": 872.52,
+      "end": 877.32,
+      "text": "the curve and then say well we're here to benefit humanity well what humanity needs is money"
+    },
+    {
+      "start": 877.32,
+      "end": 883.0,
+      "text": "so it would it might be better to go public sooner because we'll see how these multi trillion"
+    },
+    {
+      "start": 883.0,
+      "end": 889.96,
+      "text": "dollar IPOs go however if I'm Google and I don't speak for Google and I decide to arbitrarily cut"
+    },
+    {
+      "start": 889.96,
+      "end": 896.12,
+      "text": "the cost of you know tokens to 80 percent I'm going to cut them in what happens to the business"
+    },
+    {
+      "start": 896.12,
+      "end": 900.44,
+      "text": "models of open AI and a topic at that point what happens tell us actually what yeah what does"
+    },
+    {
+      "start": 900.44,
+      "end": 905.96,
+      "text": "happen well if you're a company and you can go to Google and Gemini and you can pay 80 percent less"
+    },
+    {
+      "start": 906.76,
+      "end": 916.0400000000001,
+      "text": "for that basically identical product why wouldn't you do that and then the compression and the"
+    },
+    {
+      "start": 916.0400000000001,
+      "end": 921.4000000000001,
+      "text": "pressure on those other businesses goes super critical what are the chances they that shoes fall"
+    },
+    {
+      "start": 921.4000000000001,
+      "end": 925.72,
+      "text": "that might happen if I were Google that's what I do walk us through the scenario where Google"
+    },
+    {
+      "start": 925.72,
+      "end": 933.24,
+      "text": "decides with their war chest with their money printing machine you know what their margin is my"
+    },
+    {
+      "start": 933.24,
+      "end": 939.0,
+      "text": "opportunity I'm going to give tokens out 20 cents on the dollar every time they lower their price"
+    },
+    {
+      "start": 939.0,
+      "end": 946.2,
+      "text": "I lower our price what happens on the playing field walk us through that would that not be the"
+    },
+    {
+      "start": 946.2,
+      "end": 951.16,
+      "text": "rational thing for it's clear they're going to do it well it may not be a margin though to the"
+    },
+    {
+      "start": 951.16,
+      "end": 955.88,
+      "text": "they may be burning investor cash sort of like an uber type model grab market share"
+    },
+    {
+      "start": 955.88,
+      "end": 960.44,
+      "text": "growth as a weapon tokens as a weapon token as a weapon grab market share grab an install"
+    },
+    {
+      "start": 960.5200000000001,
+      "end": 965.96,
+      "text": "based on consumer and enterprise but fundamentally at some point you got to have cash generation"
+    },
+    {
+      "start": 965.96,
+      "end": 972.0400000000001,
+      "text": "so that's a hundred percent possible I'll just say it's been said before a trillion four spend"
+    },
+    {
+      "start": 972.0400000000001,
+      "end": 977.08,
+      "text": "commitments on sixty billion dollars of revenue and now you're going to go to the public and hope"
+    },
+    {
+      "start": 977.08,
+      "end": 984.6,
+      "text": "that retail is going to pick that up yeah tell us about companies staying private longer"
+    },
+    {
+      "start": 985.4,
+      "end": 990.52,
+      "text": "and how unfair that is to the bottom half of society who don't get to participate in it well let's"
+    },
+    {
+      "start": 990.52,
+      "end": 997.64,
+      "text": "speak for those 99% who are mostly not us right so so you're for you know those 401ks those"
+    },
+    {
+      "start": 997.64,
+      "end": 1004.2,
+      "text": "retirement plans to get into those companies now which are getting bizarre exceptions to"
+    },
+    {
+      "start": 1004.2,
+      "end": 1011.48,
+      "text": "S&P 500 rules that they're all the rules are being broken the passive funds the ETFs are going to"
+    },
+    {
+      "start": 1011.48,
+      "end": 1016.6800000000001,
+      "text": "have to pick them up and where do you think we are on that curve of value creation could they go"
+    },
+    {
+      "start": 1016.6800000000001,
+      "end": 1025.32,
+      "text": "three X from here sure but they so the just to say it as plainly as possible we're going to force"
+    },
+    {
+      "start": 1025.32,
+      "end": 1031.88,
+      "text": "overpriced products on the 401k holders of America who didn't get to participate early this is your"
+    },
+    {
+      "start": 1031.88,
+      "end": 1036.3600000000001,
+      "text": "position that this is profound position it creates more wealth creation for the people who don't"
+    },
+    {
+      "start": 1036.3600000000001,
+      "end": 1041.0000000000002,
+      "text": "need it and it makes the people's retire accounts the back holders there's a lot of risk in that"
+    },
+    {
+      "start": 1041.0000000000002,
+      "end": 1048.0400000000002,
+      "text": "and my my my objection is don't say you're doing this for the benefit of humanity and do the other"
+    },
+    {
+      "start": 1048.0400000000002,
+      "end": 1053.8000000000002,
+      "text": "thing make just a public retirement accounts the back holders or just say this is how we're running"
+    },
+    {
+      "start": 1053.8000000000002,
+      "end": 1059.64,
+      "text": "our business and this isn't for the benefit of humanity Bill do you think that what happens to"
+    },
+    {
+      "start": 1059.64,
+      "end": 1065.48,
+      "text": "venture I asked Thomas this question when these dollars get distributed there's going to be a"
+    },
+    {
+      "start": 1065.48,
+      "end": 1071.64,
+      "text": "handful of funds that have ginormous returns I mean just unbelievably excessive founders to"
+    },
+    {
+      "start": 1072.44,
+      "end": 1076.84,
+      "text": "you know is going to print a hundred billion dollar return on two hundred million dollars of"
+    },
+    {
+      "start": 1076.84,
+      "end": 1082.68,
+      "text": "investment capital but that's one fund in isolation right and there'll be a few you're funds when"
+    },
+    {
+      "start": 1082.68,
+      "end": 1090.1200000000001,
+      "text": "you are at gv are going to print an enormous upside and so if you don't look closely though"
+    },
+    {
+      "start": 1090.1200000000001,
+      "end": 1095.08,
+      "text": "at beyond the averages venture is going to look incredible if you look past the averages venture"
+    },
+    {
+      "start": 1095.08,
+      "end": 1100.52,
+      "text": "still going to look extremely by model a handful of winners at a ton of losers how does that play out"
+    },
+    {
+      "start": 1100.52,
+      "end": 1106.76,
+      "text": "I mean one that's how venture is right 75% of funds lose money but two in order for founders fund"
+    },
+    {
+      "start": 1106.76,
+      "end": 1111.08,
+      "text": "or it may pick any fund to get that hundred billion out they have to sell that stock to someone else"
+    },
+    {
+      "start": 1111.08,
+      "end": 1118.52,
+      "text": "otherwise it's just on paper so who's the buyer for that is it is it retail is it you know what you"
+    },
+    {
+      "start": 1118.52,
+      "end": 1123.96,
+      "text": "you've got to make a business case in the public market that can show that this business is worth"
+    },
+    {
+      "start": 1123.96,
+      "end": 1129.24,
+      "text": "the discount of value of its future cash flows and so whether it's SpaceX or Anthropic or so"
+    },
+    {
+      "start": 1129.24,
+      "end": 1134.92,
+      "text": "forth like can that case be made we'll see six months after or so I know they're playing with the"
+    },
+    {
+      "start": 1136.1200000000001,
+      "end": 1141.0,
+      "text": "with the lockups to kind of drag that out but we'll see what the public market thinks of that okay"
+    },
+    {
+      "start": 1141.0,
+      "end": 1146.8400000000001,
+      "text": "bait so we have we have this one set of companies and then there's everything else what do you like in"
+    },
+    {
+      "start": 1146.8400000000001,
+      "end": 1152.2,
+      "text": "the everything else bucket as a venture investors so so I'm going to make an analogy to the gaming"
+    },
+    {
+      "start": 1152.2,
+      "end": 1157.16,
+      "text": "industry we all I get asked and we all think about well what does the future look like you know when"
+    },
+    {
+      "start": 1157.16,
+      "end": 1162.44,
+      "text": "when AI is everywhere and and there's tumors on one side and you talk about on the other that's"
+    },
+    {
+      "start": 1162.44,
+      "end": 1168.1200000000001,
+      "text": "or I'm going to get to that just to give me barely 30 seconds it's probably not as bad or as great as"
+    },
+    {
+      "start": 1168.1200000000001,
+      "end": 1172.76,
+      "text": "everyone says so let's look at the gaming industry so I used to play this game zork there's one"
+    },
+    {
+      "start": 1172.76,
+      "end": 1179.64,
+      "text": "called planet fall back in the 80s and it was very brittle it was turn response turn response"
+    },
+    {
+      "start": 1179.64,
+      "end": 1184.44,
+      "text": "grabbed the lamp I didn't it's a lantern I should have said lantern go north and and you wait for"
+    },
+    {
+      "start": 1184.44,
+      "end": 1190.1200000000001,
+      "text": "the computer to respond let's show the most sophisticated retail available AI system out there"
+    },
+    {
+      "start": 1190.1200000000001,
+      "end": 1196.8400000000001,
+      "text": "today on the next slide and tell me how different it looks so so what what's happened to the gaming"
+    },
+    {
+      "start": 1196.8400000000001,
+      "end": 1202.1200000000001,
+      "text": "industry from the 80s to today is going to happen in AI but in the next like five years so that"
+    },
+    {
+      "start": 1202.1200000000001,
+      "end": 1206.92,
+      "text": "will be compressed in terms of how quickly that change happens but we would all agree games are"
+    },
+    {
+      "start": 1206.92,
+      "end": 1212.2,
+      "text": "better today than they were then they're photorealistic you can like inhabit them and they're they're"
+    },
+    {
+      "start": 1212.2,
+      "end": 1218.8400000000001,
+      "text": "they're moving very quickly on the AI side there'll be ambient computing there'll be the problems"
+    },
+    {
+      "start": 1218.8400000000001,
+      "end": 1224.92,
+      "text": "that zork had will be solved for AI lack of memory lack of consistency session resets and and so"
+    },
+    {
+      "start": 1224.92,
+      "end": 1231.48,
+      "text": "forth how did we get there you up to answer your question I don't plan on investing in kind of"
+    },
+    {
+      "start": 1231.48,
+      "end": 1237.96,
+      "text": "larger models right just like it wasn't better stories that would make better games it was"
+    },
+    {
+      "start": 1237.96,
+      "end": 1243.64,
+      "text": "controllers and physics engines and GPUs and and those are the parts of the AI cycle that I'm"
+    },
+    {
+      "start": 1243.64,
+      "end": 1248.92,
+      "text": "interested in which which is all the platforms that need to be built to you correct that is going"
+    },
+    {
+      "start": 1248.92,
+      "end": 1254.68,
+      "text": "to make this reality real in the next five years and it's not just bigger models I think we're at"
+    },
+    {
+      "start": 1254.68,
+      "end": 1262.44,
+      "text": "the Atari command line stage of of AI and we're going to get to the you know PlayStation 10 stage"
+    },
+    {
+      "start": 1262.44,
+      "end": 1268.92,
+      "text": "in the next five years you you also used to do a lot of stuff in life sciences yeah not as much anymore"
+    },
+    {
+      "start": 1270.04,
+      "end": 1274.76,
+      "text": "my interest in life science I found a calico and been very interested in that space and we were"
+    },
+    {
+      "start": 1274.76,
+      "end": 1281.88,
+      "text": "investors in flat iron and veer and lots of other companies I'm very interested in that space"
+    },
+    {
+      "start": 1281.88,
+      "end": 1290.5200000000002,
+      "text": "because it is a dual benefit of helping people and also do well correct however the the therapeutic"
+    },
+    {
+      "start": 1290.5200000000002,
+      "end": 1297.3200000000002,
+      "text": "space that requires human clinical trials is a specialist investment area that we're not spending"
+    },
+    {
+      "start": 1297.3200000000002,
+      "end": 1303.0,
+      "text": "a lot of time on I'm very interested in computational biology and in those areas which is it seems"
+    },
+    {
+      "start": 1303.0,
+      "end": 1307.3200000000002,
+      "text": "if you just look on x that there's a renaissance happening in human health I don't know if that's"
+    },
+    {
+      "start": 1307.32,
+      "end": 1312.76,
+      "text": "true whether it's curious for pancreatic cancer cancer vaccines peptides obviously there's just"
+    },
+    {
+      "start": 1312.76,
+      "end": 1319.1599999999999,
+      "text": "an explosion and a lot of it seems to come back to computation but this class of winners so far"
+    },
+    {
+      "start": 1319.1599999999999,
+      "end": 1323.96,
+      "text": "it's not really computationally driven it was just really good science ten years ago yeah and so do"
+    },
+    {
+      "start": 1323.96,
+      "end": 1329.8799999999999,
+      "text": "you think that we're about to see this massive I hope so so I've started calico and again it was"
+    },
+    {
+      "start": 1329.8799999999999,
+      "end": 1335.8799999999999,
+      "text": "like fringe science longevity at the time and now we're investors in new limit which is Blake"
+    },
+    {
+      "start": 1336.8400000000001,
+      "end": 1341.4,
+      "text": "and Brian Armstrong's company and a number of other companies in that space which doesn't seem so"
+    },
+    {
+      "start": 1341.4,
+      "end": 1350.1200000000001,
+      "text": "crazy anymore however because of the human biology and the FDA if you find a compound and you think"
+    },
+    {
+      "start": 1350.1200000000001,
+      "end": 1355.64,
+      "text": "you've got something that's like 5% of the work where there's still all kinds of titrating and"
+    },
+    {
+      "start": 1355.64,
+      "end": 1360.8400000000001,
+      "text": "safety testing that needs to go on and so I don't think it's going to go quite as exponential as we"
+    },
+    {
+      "start": 1360.84,
+      "end": 1367.48,
+      "text": "would all like it to however if we can achieve a realistic simulation of a human cell in silico"
+    },
+    {
+      "start": 1367.48,
+      "end": 1372.9199999999998,
+      "text": "then you will see that accelerate as well we're not quite there yet but generally we're seeing"
+    },
+    {
+      "start": 1372.9199999999998,
+      "end": 1377.32,
+      "text": "I some might say a flight of capital to India and China right now are you seeing that that the"
+    },
+    {
+      "start": 1377.32,
+      "end": 1384.28,
+      "text": "biotech path to market is faster if you invest in firms that are based offshore versus the US. I think"
+    },
+    {
+      "start": 1384.28,
+      "end": 1393.8,
+      "text": "the US has always indexed on human safety over speed to market and that has cost us in some"
+    },
+    {
+      "start": 1393.8,
+      "end": 1400.84,
+      "text": "ways however some other countries are indexed in the opposite direction which costs lives and that"
+    },
+    {
+      "start": 1400.84,
+      "end": 1406.92,
+      "text": "so there's a balance there but there's certainly there's research going on in China and other"
+    },
+    {
+      "start": 1406.92,
+      "end": 1411.32,
+      "text": "places experiments and cloning and all sorts of things that that as far as I know aren't happening"
+    },
+    {
+      "start": 1411.32,
+      "end": 1422.2,
+      "text": "here so yes and I think the gutting of the CDC and the NIH and anti-science vibe that has now"
+    },
+    {
+      "start": 1422.2,
+      "end": 1430.36,
+      "text": "pervades this country has driven a lot of mine share elsewhere as funding is drying up for basic"
+    },
+    {
+      "start": 1430.36,
+      "end": 1435.0,
+      "text": "research. I mean China's got their own paperclip model now they're recruiting some of the best"
+    },
+    {
+      "start": 1435.0,
+      "end": 1440.36,
+      "text": "scientists from Europe and India and they're all immigrating to China to go do work and that"
+    },
+    {
+      "start": 1440.3600000000001,
+      "end": 1445.4,
+      "text": "used to be a scientific pool that we used to access and we used to recruit and we're losing."
+    },
+    {
+      "start": 1445.4,
+      "end": 1454.2,
+      "text": "We really need the neurological reserves here and this business with or brain trust with the"
+    },
+    {
+      "start": 1454.2,
+      "end": 1462.1200000000001,
+      "text": "other way to say that as well but the the the the pushing out of H1B holder there's so much"
+    },
+    {
+      "start": 1462.1200000000001,
+      "end": 1466.7600000000002,
+      "text": "happening now that it's causing it's just easier to go elsewhere that's not good for science."
+    },
+    {
+      "start": 1466.84,
+      "end": 1471.8799999999999,
+      "text": "What's your view on what's been called deep tech for the last decade these traditionally long"
+    },
+    {
+      "start": 1471.8799999999999,
+      "end": 1478.76,
+      "text": "investment cycle capital intensive high risk like Elon is one of the few entrepreneurs that"
+    },
+    {
+      "start": 1478.76,
+      "end": 1486.28,
+      "text": "have successfully tackled deep tech business model with SpaceX and Tesla is this becoming a more"
+    },
+    {
+      "start": 1486.28,
+      "end": 1492.6,
+      "text": "tractable area for entrepreneurs to activate and for investors to invest in because of AI"
+    },
+    {
+      "start": 1492.6000000000001,
+      "end": 1496.6000000000001,
+      "text": "enablement and physics engines and absolutely because things are moving so much faster."
+    },
+    {
+      "start": 1496.6000000000001,
+      "end": 1502.44,
+      "text": "What areas like that are you focused on investing in? I mean human biology and healthcare it's"
+    },
+    {
+      "start": 1502.44,
+      "end": 1507.64,
+      "text": "probably the largest tam in the world so super interested in that and then all of the others I"
+    },
+    {
+      "start": 1507.64,
+      "end": 1514.6000000000001,
+      "text": "I mentioned that kind of underlay the AI revolution which are the the physics engines and the"
+    },
+    {
+      "start": 1514.6000000000001,
+      "end": 1519.0000000000002,
+      "text": "controllers and the GPUs and the everything that is going to take to to get us there."
+    },
+    {
+      "start": 1519.0,
+      "end": 1522.76,
+      "text": "That's good. I want to bring I want to bring Saxon freeberg before we run out of time if"
+    },
+    {
+      "start": 1522.76,
+      "end": 1527.88,
+      "text": "it's possible. Sax I'm curious to your thoughts on the venture capital business I think you've"
+    },
+    {
+      "start": 1527.88,
+      "end": 1533.8,
+      "text": "did five craft funds or four well we've done four venturing to growth. I'm assuming you're going"
+    },
+    {
+      "start": 1533.8,
+      "end": 1538.12,
+      "text": "to be going back into the venture business but I'm curious your take on when you started"
+    },
+    {
+      "start": 1538.12,
+      "end": 1543.64,
+      "text": "in venture and when we started as entrepreneurs 25 30 years ago this was a much different playing"
+    },
+    {
+      "start": 1544.0400000000002,
+      "end": 1550.76,
+      "text": "field. What are your plans based on you know sort of bills look at this and do you believe in"
+    },
+    {
+      "start": 1550.76,
+      "end": 1554.5200000000002,
+      "text": "the five hundred million dollar fund sweet spot or do you think you need to become"
+    },
+    {
+      "start": 1554.5200000000002,
+      "end": 1559.4,
+      "text": "Andreessen Horowitz when you go back to the private sector? Well I don't think we need to become"
+    },
+    {
+      "start": 1559.4,
+      "end": 1568.92,
+      "text": "Andreessen Horowitz but you know I look I think fund size determines fund strategy and the size"
+    },
+    {
+      "start": 1568.92,
+      "end": 1574.68,
+      "text": "of your fund because you're going to divide your fund size by 20 to 25 names to achieve some"
+    },
+    {
+      "start": 1575.4,
+      "end": 1579.72,
+      "text": "portfolio diversification and construction that'll determine your check size and that's where"
+    },
+    {
+      "start": 1579.72,
+      "end": 1584.68,
+      "text": "it determines where you play in the market. The thing that's spinning through my head after"
+    },
+    {
+      "start": 1584.68,
+      "end": 1592.28,
+      "text": "Thomas's presentation is you know are you better off just focusing on you know let's call it"
+    },
+    {
+      "start": 1592.92,
+      "end": 1597.72,
+      "text": "what used to be called I don't know late venture early growth you know you're writing 50 million"
+    },
+    {
+      "start": 1597.72,
+      "end": 1603.8,
+      "text": "dollar checks you just kind of wait for the breakouts as opposed to playing in this really noisy"
+    },
+    {
+      "start": 1603.8,
+      "end": 1610.3600000000001,
+      "text": "super early stage game. I think the problem with that yeah is we have to look at the incentive"
+    },
+    {
+      "start": 1610.3600000000001,
+      "end": 1617.56,
+      "text": "structure of venture so a five billion dollar venture fund that returns 1.01 x gets to say that"
+    },
+    {
+      "start": 1617.56,
+      "end": 1621.96,
+      "text": "they are in the 75th percentile and can raise their next fund and no one at the Stanford"
+    },
+    {
+      "start": 1621.96,
+      "end": 1626.28,
+      "text": "Endowment is going to get in trouble for writing that check they need to put two or five hundred"
+    },
+    {
+      "start": 1626.28,
+      "end": 1633.24,
+      "text": "million into a fund multiple times so so I understand that dynamic so now let's look at the"
+    },
+    {
+      "start": 1633.24,
+      "end": 1640.12,
+      "text": "GP dynamic well if I have a five billion dollar fund I return 1.01 x I'm going to make more money"
+    },
+    {
+      "start": 1640.12,
+      "end": 1645.3999999999999,
+      "text": "than bill with his five hundred million dollar fund that returns three x okay so that's also a"
+    },
+    {
+      "start": 1645.3999999999999,
+      "end": 1652.04,
+      "text": "strange incentive so now let's look at the entrepreneur side I am researcher x from open AI I'm"
+    },
+    {
+      "start": 1652.04,
+      "end": 1657.08,
+      "text": "going to start a company bill says I'll give you 20 million dollars at a hundred million dollar"
+    },
+    {
+      "start": 1657.08,
+      "end": 1664.68,
+      "text": "valuation I want to buy 20% of your company giant fund why or friends it's a different model but"
+    },
+    {
+      "start": 1664.68,
+      "end": 1671.48,
+      "text": "giant fund why says well we have this giant fund we need to put 250 million in and then entrepreneurs"
+    },
+    {
+      "start": 1671.48,
+      "end": 1676.76,
+      "text": "says well my company's valuation is a hundred no your valuation is now four billion and we'll give"
+    },
+    {
+      "start": 1676.76,
+      "end": 1683.4,
+      "text": "you 250 million for a percent of your company they're going to take that deal every day unless"
+    },
+    {
+      "start": 1683.4,
+      "end": 1688.04,
+      "text": "you're a seasoned entrepreneur who has kind of been down the road and knows the pitfalls of that"
+    },
+    {
+      "start": 1688.04,
+      "end": 1693.56,
+      "text": "and so the incentives are broken in all those ways and the pendulum will swing back so I don't"
+    },
+    {
+      "start": 1693.56,
+      "end": 1700.36,
+      "text": "think just staying late stage and waiting to sniper at larger companies will be a long term the"
+    },
+    {
+      "start": 1700.36,
+      "end": 1705.08,
+      "text": "data would suggest that's not going to work in the long term okay let's thank bill amazing job"
+    }
+  ]
+}

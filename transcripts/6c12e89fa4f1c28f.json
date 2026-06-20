@@ -1,0 +1,816 @@
+{
+  "id": "6c12e89fa4f1c28f",
+  "show": "Goldman Sachs Exchanges",
+  "theme": "Macro & Rates",
+  "title": "How the US-Iran Deal Could Affect Oil Prices",
+  "audio_url": "https://traffic.megaphone.fm/GLD9584741007.mp3",
+  "source": "local-whisper",
+  "duration": 633.0,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.56,
+      "text": "The US and Iran have reached a deal to end the conflict and reopen the state of her"
+    },
+    {
+      "start": 9.56,
+      "end": 10.56,
+      "text": "moods."
+    },
+    {
+      "start": 10.56,
+      "end": 14.48,
+      "text": "What could that mean for energy markets and for oil prices in particular?"
+    },
+    {
+      "start": 14.48,
+      "end": 20.92,
+      "text": "I'm Allison Nathan and this is Goldman Sachs Exchanges."
+    },
+    {
+      "start": 20.92,
+      "end": 25.12,
+      "text": "Today I'm joined once again by Don Ströven, co-head of Global Commodities Research in"
+    },
+    {
+      "start": 25.12,
+      "end": 26.44,
+      "text": "Goldman Sachs Research."
+    },
+    {
+      "start": 26.44,
+      "end": 30.92,
+      "text": "Don I said last time we spoke that you'd be back again soon and here you are."
+    },
+    {
+      "start": 30.92,
+      "end": 33.6,
+      "text": "I've heard prediction which is challenging in this environment."
+    },
+    {
+      "start": 33.6,
+      "end": 34.6,
+      "text": "Absolutely."
+    },
+    {
+      "start": 34.6,
+      "end": 39.480000000000004,
+      "text": "Don maybe you could start by just summarizing the impact this conflict has had on oil"
+    },
+    {
+      "start": 39.480000000000004,
+      "end": 46.32,
+      "text": "markets and of course in particular the significance of this interim deal between the US and Iran."
+    },
+    {
+      "start": 46.32,
+      "end": 53.08,
+      "text": "So oil prices have sold off pretty significantly from over $120 with Brent now essentially"
+    },
+    {
+      "start": 53.08,
+      "end": 54.64,
+      "text": "in the low 80s."
+    },
+    {
+      "start": 54.64,
+      "end": 61.36,
+      "text": "In the face of the largest oil supply shock ever we lost roughly 14% of global production"
+    },
+    {
+      "start": 61.36,
+      "end": 62.56,
+      "text": "from the Middle East."
+    },
+    {
+      "start": 62.56,
+      "end": 64.52,
+      "text": "Why are prices down so significantly?"
+    },
+    {
+      "start": 64.52,
+      "end": 69.64,
+      "text": "I think the market is pricing in a relatively optimistic base case for the recovery of Middle"
+    },
+    {
+      "start": 69.64,
+      "end": 74.8,
+      "text": "Eastern supply in line with our base case we assume flows to the straight start to recover"
+    },
+    {
+      "start": 74.8,
+      "end": 79.92,
+      "text": "and exports from the region go back to normal levels by the end of July and second we have"
+    },
+    {
+      "start": 79.92,
+      "end": 85.52,
+      "text": "seen remarkable flexibility in the global oil market outside of the Middle East with a roughly"
+    },
+    {
+      "start": 85.52,
+      "end": 91.12,
+      "text": "5% reduction in demand and with pretty strong supply outside of the Middle East."
+    },
+    {
+      "start": 91.12,
+      "end": 95.64,
+      "text": "Right but just to be clear obviously prices were on the decline from the peak which happened"
+    },
+    {
+      "start": 95.64,
+      "end": 100.56,
+      "text": "in April but we've seen a big sell-off since these headlines which has given the market"
+    },
+    {
+      "start": 100.56,
+      "end": 105.64,
+      "text": "more optimism that we're actually going to see the restart of flows."
+    },
+    {
+      "start": 105.64,
+      "end": 108.2,
+      "text": "But talk to us a little bit about what that could look like."
+    },
+    {
+      "start": 108.2,
+      "end": 113.88,
+      "text": "Their current forecast predicts flows returning to normal by the end of July."
+    },
+    {
+      "start": 113.88,
+      "end": 116.8,
+      "text": "So what do we have in store for us between now and then?"
+    },
+    {
+      "start": 116.8,
+      "end": 121.84,
+      "text": "For exports from the region to fully go back to normal flows to the straight have to go"
+    },
+    {
+      "start": 121.84,
+      "end": 127.2,
+      "text": "back to roughly 70% of normal levels because we have seen a lot of redirection via pipelines"
+    },
+    {
+      "start": 127.2,
+      "end": 128.52,
+      "text": "in particular."
+    },
+    {
+      "start": 128.52,
+      "end": 135.32,
+      "text": "I think that the key question really is is there willingness within Iran to see increases"
+    },
+    {
+      "start": 135.32,
+      "end": 136.32,
+      "text": "in flows?"
+    },
+    {
+      "start": 136.32,
+      "end": 142.35999999999999,
+      "text": "There may be some logistics constraints but I think it all boils down to the question."
+    },
+    {
+      "start": 142.35999999999999,
+      "end": 144.84,
+      "text": "Does Iran want to see higher flows?"
+    },
+    {
+      "start": 144.84,
+      "end": 149.79999999999998,
+      "text": "And if yes do we see a few shippers that go through successfully without strikes?"
+    },
+    {
+      "start": 149.79999999999998,
+      "end": 153.28,
+      "text": "And if so I think the other shippers are likely to follow."
+    },
+    {
+      "start": 153.28,
+      "end": 158.48,
+      "text": "But we have seen a fall start before so we'll be laser-focused on counting ships especially"
+    },
+    {
+      "start": 158.48,
+      "end": 163.07999999999998,
+      "text": "from Friday onwards when the MOU is supposed to be signed in Switzerland."
+    },
+    {
+      "start": 163.08,
+      "end": 166.76000000000002,
+      "text": "So despite the market optimism there's still a tremendous amount uncertainty and we can't"
+    },
+    {
+      "start": 166.76000000000002,
+      "end": 169.0,
+      "text": "underscore that enough."
+    },
+    {
+      "start": 169.0,
+      "end": 174.32000000000002,
+      "text": "But if we begin to see that how much farther could prices potentially fall?"
+    },
+    {
+      "start": 174.32000000000002,
+      "end": 176.52,
+      "text": "So we have some additional downside to prices."
+    },
+    {
+      "start": 176.52,
+      "end": 182.64000000000001,
+      "text": "We see brand averaging 75 next year but I would say that the market has largely priced"
+    },
+    {
+      "start": 182.64000000000001,
+      "end": 187.28,
+      "text": "in the recovery in flows and production from the Middle East that we expect."
+    },
+    {
+      "start": 187.28,
+      "end": 191.68,
+      "text": "And so we see the skew of risks to our forecast and to market pricing as two-sided but as"
+    },
+    {
+      "start": 191.68,
+      "end": 197.48000000000002,
+      "text": "still skewed to the upside on net because it's not a given that the straight will reopen"
+    },
+    {
+      "start": 197.48000000000002,
+      "end": 198.48000000000002,
+      "text": "fully."
+    },
+    {
+      "start": 198.48000000000002,
+      "end": 203.14000000000001,
+      "text": "It's not a given that even if it reopens fully that it remains open especially if the"
+    },
+    {
+      "start": 203.14000000000001,
+      "end": 207.44,
+      "text": "tour near nuclear discussions will be held in coming weeks and months."
+    },
+    {
+      "start": 207.44,
+      "end": 210.72,
+      "text": "Right now Brent was trading around $80 per barrel."
+    },
+    {
+      "start": 210.72,
+      "end": 215.4,
+      "text": "That's still much higher than where it was at before the war."
+    },
+    {
+      "start": 215.4,
+      "end": 218.96,
+      "text": "So you expect prices to remain elevated?"
+    },
+    {
+      "start": 218.96,
+      "end": 223.72,
+      "text": "But relative to where we were before the war but if I look at our 2027 Brent average"
+    },
+    {
+      "start": 223.72,
+      "end": 228.08,
+      "text": "price forecast of 75 that's in line with our long-term fair value."
+    },
+    {
+      "start": 228.08,
+      "end": 232.76000000000002,
+      "text": "In the short term though we do see some higher prices than normal because the inventories"
+    },
+    {
+      "start": 232.76000000000002,
+      "end": 233.92000000000002,
+      "text": "are quite low."
+    },
+    {
+      "start": 233.92000000000002,
+      "end": 239.8,
+      "text": "While the deficit has been less large and expected we're still in a 5% deficit."
+    },
+    {
+      "start": 239.8,
+      "end": 243.16,
+      "text": "Inventories have been depleting and that means some higher prices."
+    },
+    {
+      "start": 243.16,
+      "end": 248.08,
+      "text": "And also we do think that there will be a meaningful disruption risk security premium"
+    },
+    {
+      "start": 248.08,
+      "end": 253.12,
+      "text": "in oil prices because the risk of supply disruptions is high and I think markets will"
+    },
+    {
+      "start": 253.12,
+      "end": 254.84,
+      "text": "continue to price that in someone."
+    },
+    {
+      "start": 254.84,
+      "end": 258.0,
+      "text": "Right so there's still a lingering impact in this conflict even if everything goes"
+    },
+    {
+      "start": 258.0,
+      "end": 262.52000000000004,
+      "text": "smoothly from here in the sense that we are expecting oil prices to be roughly $20"
+    },
+    {
+      "start": 262.52000000000004,
+      "end": 265.88,
+      "text": "per barrel higher than before this conflict ever happened."
+    },
+    {
+      "start": 265.88,
+      "end": 270.28000000000003,
+      "text": "So don't just be perfectly clear, go over your price forecast one more time."
+    },
+    {
+      "start": 270.28000000000003,
+      "end": 273.6,
+      "text": "$80 per barrel by the end of the year for Brent."
+    },
+    {
+      "start": 273.6,
+      "end": 278.24,
+      "text": "That's right which is 75 for double ti and I'm moving to 2027."
+    },
+    {
+      "start": 278.24,
+      "end": 281.76000000000005,
+      "text": "We have Brent at 75 and double ti at 70."
+    },
+    {
+      "start": 281.76000000000005,
+      "end": 284.0,
+      "text": "Okay so we've been talking mostly about supply here."
+    },
+    {
+      "start": 284.0,
+      "end": 286.84000000000003,
+      "text": "You very briefly mentioned demand."
+    },
+    {
+      "start": 286.84000000000003,
+      "end": 293.24,
+      "text": "If prices fall will we see demand rising again and how do you factor that into this forecast?"
+    },
+    {
+      "start": 293.24,
+      "end": 299.24,
+      "text": "Yes so we think that most of the demand losses and global oil demand is down by about 5%."
+    },
+    {
+      "start": 299.24,
+      "end": 302.68,
+      "text": "We think that most of those losses will unwind."
+    },
+    {
+      "start": 302.68,
+      "end": 308.72,
+      "text": "We expect about 90% of the 5 million barrels per day of demand losses to be bouncing back"
+    },
+    {
+      "start": 308.72,
+      "end": 315.92,
+      "text": "by 2027 because typically when you see these demand losses in response to higher prices"
+    },
+    {
+      "start": 315.92,
+      "end": 319.96000000000004,
+      "text": "where higher prices are driven by negative supply shocks you typically see a pretty quick"
+    },
+    {
+      "start": 319.96000000000004,
+      "end": 320.96000000000004,
+      "text": "recovery."
+    },
+    {
+      "start": 320.96000000000004,
+      "end": 324.92,
+      "text": "That's what we saw in 2022 after the Russia Ukraine episode."
+    },
+    {
+      "start": 324.92,
+      "end": 327.6,
+      "text": "That's what we saw in 2011 around the Libya war."
+    },
+    {
+      "start": 327.6,
+      "end": 331.20000000000005,
+      "text": "That said we've been selling some stickiness in demand losses."
+    },
+    {
+      "start": 331.20000000000005,
+      "end": 337.48,
+      "text": "We think that oil demands will be about half a million barrels per day lower in 2027 relative"
+    },
+    {
+      "start": 337.48,
+      "end": 342.96000000000004,
+      "text": "to a no-war counterfactual in part because if you look at EV sales especially in China they"
+    },
+    {
+      "start": 342.96000000000004,
+      "end": 343.96000000000004,
+      "text": "are surging."
+    },
+    {
+      "start": 343.96000000000004,
+      "end": 348.52000000000004,
+      "text": "Right so we have essentially embarked on trends that we think are going to continue as"
+    },
+    {
+      "start": 348.52000000000004,
+      "end": 352.84000000000003,
+      "text": "a result of this war both on the supply side as well as on the demand side."
+    },
+    {
+      "start": 352.84000000000003,
+      "end": 353.84000000000003,
+      "text": "That's right."
+    },
+    {
+      "start": 353.84000000000003,
+      "end": 355.88000000000005,
+      "text": "We just reviewed your price forecast."
+    },
+    {
+      "start": 355.88000000000005,
+      "end": 359.12,
+      "text": "Talk to us again about the risk to those forecasts."
+    },
+    {
+      "start": 359.12,
+      "end": 360.72,
+      "text": "Upside on net."
+    },
+    {
+      "start": 360.72,
+      "end": 368.68,
+      "text": "So we laid out a price upside scenario where exports from the Gulf only gradually recover"
+    },
+    {
+      "start": 368.68,
+      "end": 374.20000000000005,
+      "text": "and where the Hormuz straight never fully reopens and in such a scenario where exports"
+    },
+    {
+      "start": 374.20000000000005,
+      "end": 378.40000000000003,
+      "text": "from the region only gradually recover by 10 million barrels per day over the next year"
+    },
+    {
+      "start": 378.40000000000003,
+      "end": 379.40000000000003,
+      "text": "and a half."
+    },
+    {
+      "start": 379.40000000000003,
+      "end": 384.32000000000005,
+      "text": "We see actually oil exceeding $130 per barrel for Brent by year rent."
+    },
+    {
+      "start": 384.32000000000005,
+      "end": 389.24,
+      "text": "But then over time as pipeline capacity gets added the market mostly manages the shock"
+    },
+    {
+      "start": 389.24,
+      "end": 392.04,
+      "text": "but it would mean significantly higher oil prices for longer."
+    },
+    {
+      "start": 392.04,
+      "end": 395.36,
+      "text": "Now prices could be even lower than our base case."
+    },
+    {
+      "start": 395.36,
+      "end": 402.68000000000006,
+      "text": "We consider a price downside scenario with Brent at 60 in 2027 in a scenario where the"
+    },
+    {
+      "start": 402.68000000000006,
+      "end": 407.36,
+      "text": "straight reopens even more quickly where some of the demand losses that we discuss are"
+    },
+    {
+      "start": 407.36,
+      "end": 412.64,
+      "text": "more persistent and where we see even a stronger supply response from supply outside of"
+    },
+    {
+      "start": 412.64,
+      "end": 413.64,
+      "text": "the Middle East."
+    },
+    {
+      "start": 413.64,
+      "end": 416.92,
+      "text": "But again, which one is more likely?"
+    },
+    {
+      "start": 416.92,
+      "end": 423.12,
+      "text": "So I think that the main feature of the outlook or in terms of risk to oil prices is that"
+    },
+    {
+      "start": 423.12,
+      "end": 428.44,
+      "text": "price increases in the upside scenario, $50 extra from here are significantly bigger than"
+    },
+    {
+      "start": 428.44,
+      "end": 430.96000000000004,
+      "text": "the $20 of downside in the downside scenario."
+    },
+    {
+      "start": 430.96000000000004,
+      "end": 436.36,
+      "text": "I think in terms of probabilities maybe roughly equal but the key feature is bigger upside"
+    },
+    {
+      "start": 436.36,
+      "end": 439.32,
+      "text": "in the upside scenario than downside in the downside scenario."
+    },
+    {
+      "start": 439.32,
+      "end": 443.92,
+      "text": "So very interesting obviously we have a wide distribution of outcomes here but let's"
+    },
+    {
+      "start": 443.92,
+      "end": 448.84000000000003,
+      "text": "zoom out for a moment Don as we conclude our conversation essentially this episode has"
+    },
+    {
+      "start": 448.84000000000003,
+      "end": 455.04,
+      "text": "revealed tremendous power on the part of some countries like Iran to essentially disrupt"
+    },
+    {
+      "start": 455.04,
+      "end": 457.8,
+      "text": "this very vital shipping artery."
+    },
+    {
+      "start": 457.8,
+      "end": 462.96000000000004,
+      "text": "We've also seen tremendous leverage from countries some countries around the world in adapting"
+    },
+    {
+      "start": 462.96000000000004,
+      "end": 464.36,
+      "text": "to that disruption."
+    },
+    {
+      "start": 464.36,
+      "end": 469.68,
+      "text": "So when you take a step back and think about the lessons you've learned from this episode,"
+    },
+    {
+      "start": 469.68,
+      "end": 471.2,
+      "text": "what is most striking to you?"
+    },
+    {
+      "start": 471.2,
+      "end": 474.0,
+      "text": "Yeah, I think you outlined the two key lessons."
+    },
+    {
+      "start": 474.0,
+      "end": 479.88,
+      "text": "One commodity supply is at an even greater risk of disruptions in the highly agiobilically"
+    },
+    {
+      "start": 479.88,
+      "end": 481.48,
+      "text": "fragmented world."
+    },
+    {
+      "start": 481.48,
+      "end": 487.68,
+      "text": "But then on the other side, China in particular has revealed an incredible ability to adjust"
+    },
+    {
+      "start": 487.68,
+      "end": 494.16,
+      "text": "to this system with significant switching to other energy sources such as coal, such"
+    },
+    {
+      "start": 494.16,
+      "end": 500.24,
+      "text": "as power with a surge in EV volumes and the fact that Chinese import volumes of crude"
+    },
+    {
+      "start": 500.24,
+      "end": 505.88,
+      "text": "are down 4 to 5 million barrels per year over year is likely the single most important reason"
+    },
+    {
+      "start": 505.88,
+      "end": 509.48,
+      "text": "why oil prices are not in triple digit territory at the moment."
+    },
+    {
+      "start": 509.48,
+      "end": 514.76,
+      "text": "So just tremendous ability to adapt to this very big shock?"
+    },
+    {
+      "start": 514.76,
+      "end": 515.76,
+      "text": "Yes."
+    },
+    {
+      "start": 515.76,
+      "end": 522.48,
+      "text": "The future may be a future with more frequent large supply disruptions in the highly fragmented"
+    },
+    {
+      "start": 522.48,
+      "end": 528.36,
+      "text": "world where the US and China are competing for geopolitical power, for AI dominance, for"
+    },
+    {
+      "start": 528.36,
+      "end": 529.68,
+      "text": "commodity dominance."
+    },
+    {
+      "start": 529.68,
+      "end": 533.8,
+      "text": "But it may also be a world where we'll be surprised by the ability to deal with those"
+    },
+    {
+      "start": 533.8,
+      "end": 534.8,
+      "text": "supply disruptions."
+    },
+    {
+      "start": 534.8,
+      "end": 535.8,
+      "text": "All right."
+    },
+    {
+      "start": 535.8,
+      "end": 537.48,
+      "text": "That's a pretty positive note to end on right now."
+    },
+    {
+      "start": 537.48,
+      "end": 539.8,
+      "text": "We'll see what happens with this war and these flows."
+    },
+    {
+      "start": 539.8,
+      "end": 541.04,
+      "text": "But thanks again for joining us now."
+    },
+    {
+      "start": 541.04,
+      "end": 542.28,
+      "text": "Thanks a lot, awesome."
+    },
+    {
+      "start": 542.28,
+      "end": 547.0799999999999,
+      "text": "The first episode of Goldman Sachs exchanges was recorded on Tuesday June 16th, 2026."
+    },
+    {
+      "start": 547.0799999999999,
+      "end": 553.0799999999999,
+      "text": "I'm Allison Nathan, thanks for listening."
+    },
+    {
+      "start": 553.0799999999999,
+      "end": 556.04,
+      "text": "The opinions and views expressed herein are as of the date of publication, subject to"
+    },
+    {
+      "start": 556.04,
+      "end": 559.3,
+      "text": "change without notice, and may not necessarily reflect the institutional views of Goldman"
+    },
+    {
+      "start": 559.3,
+      "end": 561.0,
+      "text": "Sachs or its affiliates."
+    },
+    {
+      "start": 561.0,
+      "end": 564.9599999999999,
+      "text": "The material provided is intended for informational purposes only and does not constitute investment"
+    },
+    {
+      "start": 564.9599999999999,
+      "end": 568.8,
+      "text": "advice, a recommendation from any Goldman Sachs entity to take any particular action, or"
+    },
+    {
+      "start": 568.8000000000001,
+      "end": 572.9200000000001,
+      "text": "an offer or solicitation to purchase or sell any securities or financial products."
+    },
+    {
+      "start": 572.9200000000001,
+      "end": 576.4000000000001,
+      "text": "This material may contain forward-looking statements, past performance is not indicative"
+    },
+    {
+      "start": 576.4000000000001,
+      "end": 577.6400000000001,
+      "text": "of future results."
+    },
+    {
+      "start": 577.6400000000001,
+      "end": 581.44,
+      "text": "Neither Goldman Sachs nor any of its affiliates make any representations or warranties expressed"
+    },
+    {
+      "start": 581.44,
+      "end": 585.5600000000001,
+      "text": "or implied as to the accuracy or completeness of the statements or information contained herein,"
+    },
+    {
+      "start": 585.5600000000001,
+      "end": 589.84,
+      "text": "and disclaim any liability whatsoever for reliance on such information for any purpose."
+    },
+    {
+      "start": 589.84,
+      "end": 592.96,
+      "text": "Each name of a third-party organization mentioned is the property of the company to which"
+    },
+    {
+      "start": 592.96,
+      "end": 597.1600000000001,
+      "text": "it relates, is used here strictly for informational and identification purposes only, and is not"
+    },
+    {
+      "start": 597.16,
+      "end": 601.4,
+      "text": "used to imply any ownership or license rights between any such company and Goldman Sachs."
+    },
+    {
+      "start": 601.4,
+      "end": 604.9599999999999,
+      "text": "A transcript is provided for convenience and may differ from the original video or audio"
+    },
+    {
+      "start": 604.9599999999999,
+      "end": 605.9599999999999,
+      "text": "content."
+    },
+    {
+      "start": 605.9599999999999,
+      "end": 608.4,
+      "text": "Goldman Sachs is not responsible for any errors in the transcript."
+    },
+    {
+      "start": 608.4,
+      "end": 612.0799999999999,
+      "text": "This material should not be copied, distributed, published, or reproduced in whole or in part,"
+    },
+    {
+      "start": 612.0799999999999,
+      "end": 615.52,
+      "text": "or disclosed by any recipient to any other person without the expressed written consent"
+    },
+    {
+      "start": 615.52,
+      "end": 616.52,
+      "text": "of Goldman Sachs."
+    },
+    {
+      "start": 616.52,
+      "end": 620.12,
+      "text": "Disclosure is applicable to research with respect to issuers, if any, mentioned herein,"
+    },
+    {
+      "start": 620.12,
+      "end": 627.28,
+      "text": "are available through your Goldman Sachs representative or at www.gs.com-research-hedge.html."
+    },
+    {
+      "start": 627.28,
+      "end": 630.36,
+      "text": "Goldman Sachs does not endorse any candidate or any political party."
+    },
+    {
+      "start": 630.36,
+      "end": 633.0,
+      "text": "Copyright 2026, Goldman Sachs, all rights reserved."
+    }
+  ]
+}

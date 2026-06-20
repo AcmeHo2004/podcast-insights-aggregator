@@ -1,0 +1,2176 @@
+{
+  "id": "260022b887fe016a",
+  "show": "Goldman Sachs Exchanges",
+  "theme": "Macro & Rates",
+  "title": "Private Markets at an Inflection Point",
+  "audio_url": "https://traffic.megaphone.fm/GLD6480023256.mp3",
+  "source": "local-whisper",
+  "duration": 1481.5,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.72,
+      "text": "I think we're in the middle of a market structure change."
+    },
+    {
+      "start": 8.72,
+      "end": 13.44,
+      "text": "Just like we had in public equity domain, where we had decimalization of equities and ETFs"
+    },
+    {
+      "start": 13.44,
+      "end": 19.16,
+      "text": "of equities and increased liquidity across the curve, we have a situation here in alternatives"
+    },
+    {
+      "start": 19.16,
+      "end": 23.8,
+      "text": "where market structures are evolving very quickly."
+    },
+    {
+      "start": 23.8,
+      "end": 29.400000000000002,
+      "text": "Our private markets at an inflection point, interest rates are elevated, liquidity is tightening,"
+    },
+    {
+      "start": 29.400000000000002,
+      "end": 33.0,
+      "text": "and cracks are beginning to surface, especially in private credit."
+    },
+    {
+      "start": 33.0,
+      "end": 37.32,
+      "text": "So what does this shifting landscape mean for investors in private markets, and for"
+    },
+    {
+      "start": 37.32,
+      "end": 40.0,
+      "text": "the companies that rely on them for capital?"
+    },
+    {
+      "start": 40.0,
+      "end": 44.64,
+      "text": "Welcome to Exchanges, the weekly show where we unpack how Goldman Sachs is making sense"
+    },
+    {
+      "start": 44.64,
+      "end": 48.480000000000004,
+      "text": "of the most consequential forces, shaping markets and economies."
+    },
+    {
+      "start": 48.480000000000004,
+      "end": 53.24,
+      "text": "I'm Allison Nathan."
+    },
+    {
+      "start": 53.24,
+      "end": 57.24,
+      "text": "My guests today are Pete Lion, global co-head of the Capital Solutions Group within our"
+    },
+    {
+      "start": 57.24,
+      "end": 62.0,
+      "text": "global banking and markets business, and Michael Brandmeier, global head and CIO of the"
+    },
+    {
+      "start": 62.0,
+      "end": 65.44,
+      "text": "external investing group within Goldman Sachs asset management."
+    },
+    {
+      "start": 65.44,
+      "end": 70.52000000000001,
+      "text": "We'll explore today's opportunities, how private capital is evolving, and the risks"
+    },
+    {
+      "start": 70.52000000000001,
+      "end": 72.04,
+      "text": "coming into focus."
+    },
+    {
+      "start": 72.04,
+      "end": 74.24000000000001,
+      "text": "Pete, my welcome to Exchanges."
+    },
+    {
+      "start": 74.24000000000001,
+      "end": 75.24000000000001,
+      "text": "Thank you."
+    },
+    {
+      "start": 75.24000000000001,
+      "end": 76.24000000000001,
+      "text": "Thanks for having us."
+    },
+    {
+      "start": 76.24000000000001,
+      "end": 78.52000000000001,
+      "text": "So let me start by taking a step back."
+    },
+    {
+      "start": 78.52000000000001,
+      "end": 84.12,
+      "text": "When you both look across the private equity and credit markets today, what do you see"
+    },
+    {
+      "start": 84.12,
+      "end": 89.52000000000001,
+      "text": "as the single biggest shift in the landscape over the past 12 to 18 months?"
+    },
+    {
+      "start": 89.52000000000001,
+      "end": 91.08,
+      "text": "Mike, maybe you can start us off."
+    },
+    {
+      "start": 91.08,
+      "end": 92.08,
+      "text": "Sure."
+    },
+    {
+      "start": 92.08,
+      "end": 95.52000000000001,
+      "text": "We are at a big inflection point right now, and there's certainly a lot of stuff going"
+    },
+    {
+      "start": 95.52000000000001,
+      "end": 96.52000000000001,
+      "text": "on."
+    },
+    {
+      "start": 96.52000000000001,
+      "end": 97.92,
+      "text": "But first, let me put it into context."
+    },
+    {
+      "start": 97.92,
+      "end": 104.0,
+      "text": "So if you look between 2010, right after the GFC, right through 2022, when the Fed"
+    },
+    {
+      "start": 104.0,
+      "end": 108.84,
+      "text": "increased interest rates, you had a period of unprecedented growth in private markets."
+    },
+    {
+      "start": 108.84,
+      "end": 113.28,
+      "text": "Private markets actually, over that period of time, were up six times."
+    },
+    {
+      "start": 113.28,
+      "end": 115.32000000000001,
+      "text": "So just a massive period of growth."
+    },
+    {
+      "start": 115.32000000000001,
+      "end": 119.72,
+      "text": "Then the Fed increased interest rates and everything came to a halt."
+    },
+    {
+      "start": 119.72,
+      "end": 124.84,
+      "text": "And so as we sit here today, now four years later, there are these big questions that are"
+    },
+    {
+      "start": 124.84,
+      "end": 126.96000000000001,
+      "text": "looming over the market."
+    },
+    {
+      "start": 126.96000000000001,
+      "end": 128.24,
+      "text": "Number one is AI."
+    },
+    {
+      "start": 128.24,
+      "end": 133.72,
+      "text": "AI is changing everything in the investing world as we talk about often on this podcast."
+    },
+    {
+      "start": 133.72,
+      "end": 135.68,
+      "text": "In private markets, that's definitely true."
+    },
+    {
+      "start": 135.68,
+      "end": 140.08,
+      "text": "Some of that is the big investments that are being made in AI and a lot of the opportunities"
+    },
+    {
+      "start": 140.08,
+      "end": 145.16000000000003,
+      "text": "around it, and how much of private equity is invested in software over the last period"
+    },
+    {
+      "start": 145.16000000000003,
+      "end": 146.16000000000003,
+      "text": "of time."
+    },
+    {
+      "start": 146.16000000000003,
+      "end": 147.4,
+      "text": "It's about 30%."
+    },
+    {
+      "start": 147.4,
+      "end": 148.88000000000002,
+      "text": "But there's a lot of questions."
+    },
+    {
+      "start": 148.88000000000002,
+      "end": 150.4,
+      "text": "What is going to happen to that exposure?"
+    },
+    {
+      "start": 150.4,
+      "end": 151.8,
+      "text": "So that's number one."
+    },
+    {
+      "start": 151.8,
+      "end": 156.96,
+      "text": "Number two is private markets have been doing great over that period of time, but public"
+    },
+    {
+      "start": 156.96,
+      "end": 160.92000000000002,
+      "text": "markets have been absolutely ripping, particularly in the last two years."
+    },
+    {
+      "start": 160.92000000000002,
+      "end": 165.32000000000002,
+      "text": "And so people are asking the question, gosh, is it illiquidity premium there?"
+    },
+    {
+      "start": 165.32000000000002,
+      "end": 170.04000000000002,
+      "text": "Is it worth it to be investing in private equity when I can just invest in public?"
+    },
+    {
+      "start": 170.04,
+      "end": 171.04,
+      "text": "Public markets."
+    },
+    {
+      "start": 171.04,
+      "end": 173.51999999999998,
+      "text": "So that's another question that I'm sure we'll get into."
+    },
+    {
+      "start": 173.51999999999998,
+      "end": 177.51999999999998,
+      "text": "And then finally, we talked about the cracks, the distributions."
+    },
+    {
+      "start": 177.51999999999998,
+      "end": 181.04,
+      "text": "Distributions are sort of a circulatory system, a private equity."
+    },
+    {
+      "start": 181.04,
+      "end": 182.51999999999998,
+      "text": "It's the way that the whole thing's working."
+    },
+    {
+      "start": 182.51999999999998,
+      "end": 185.12,
+      "text": "You lock up your money on average."
+    },
+    {
+      "start": 185.12,
+      "end": 189.04,
+      "text": "You think that in five to six years, you're going to get your money back with a multiple."
+    },
+    {
+      "start": 189.04,
+      "end": 190.16,
+      "text": "Maybe it's going to be one and a half."
+    },
+    {
+      "start": 190.16,
+      "end": 191.16,
+      "text": "Maybe it's going to be two."
+    },
+    {
+      "start": 191.16,
+      "end": 194.79999999999998,
+      "text": "Maybe it's going to be three times, or in some cases more or less."
+    },
+    {
+      "start": 194.79999999999998,
+      "end": 198.68,
+      "text": "But the average time of holding companies has gone up a lot."
+    },
+    {
+      "start": 198.68,
+      "end": 204.08,
+      "text": "The average time to IPO for venture company right now is 14 years, right?"
+    },
+    {
+      "start": 204.08,
+      "end": 205.08,
+      "text": "It's a long period."
+    },
+    {
+      "start": 205.08,
+      "end": 208.24,
+      "text": "And these are for the big winners, the company's going to be a public."
+    },
+    {
+      "start": 208.24,
+      "end": 213.18,
+      "text": "In private equity, it was five and a half years just going back maybe five and ten years"
+    },
+    {
+      "start": 213.18,
+      "end": 214.18,
+      "text": "ago."
+    },
+    {
+      "start": 214.18,
+      "end": 218.08,
+      "text": "Now, the average buyout is being held for almost seven years."
+    },
+    {
+      "start": 218.08,
+      "end": 219.72,
+      "text": "So the system is gummed up."
+    },
+    {
+      "start": 219.72,
+      "end": 224.60000000000002,
+      "text": "The circulatory system is not working, and so that's making fundraising harder, it's driving"
+    },
+    {
+      "start": 224.60000000000002,
+      "end": 227.14000000000001,
+      "text": "consolidation, it's driving a lot of change in the industry."
+    },
+    {
+      "start": 227.14000000000001,
+      "end": 231.00000000000003,
+      "text": "So we're definitely an inflection point, and I haven't even touched on what's going"
+    },
+    {
+      "start": 231.00000000000003,
+      "end": 232.50000000000003,
+      "text": "on in private credit."
+    },
+    {
+      "start": 232.50000000000003,
+      "end": 235.86,
+      "text": "So maybe I'll build a little bit else on what Mike has said, even taking a further step"
+    },
+    {
+      "start": 235.86,
+      "end": 236.86,
+      "text": "back."
+    },
+    {
+      "start": 236.86,
+      "end": 242.06,
+      "text": "I think we're in the middle of a market structure change, just like we had in public equity domain,"
+    },
+    {
+      "start": 242.06,
+      "end": 246.34,
+      "text": "where we had decimalization of equities and ETFs of equities and increased liquidity across"
+    },
+    {
+      "start": 246.34,
+      "end": 247.5,
+      "text": "the curve."
+    },
+    {
+      "start": 247.5,
+      "end": 252.62,
+      "text": "We have a situation here in alternatives where market structures are evolving very quickly."
+    },
+    {
+      "start": 252.62,
+      "end": 255.74,
+      "text": "I think to your question, we aren't an inflection point."
+    },
+    {
+      "start": 255.74,
+      "end": 260.22,
+      "text": "I think if you look at private credit, for example, it's been much maligned in the"
+    },
+    {
+      "start": 260.22,
+      "end": 262.7,
+      "text": "press in certain aspects of it."
+    },
+    {
+      "start": 262.7,
+      "end": 267.58,
+      "text": "But if you look at any historical averages in terms of defaults and underperformance in"
+    },
+    {
+      "start": 267.58,
+      "end": 272.1,
+      "text": "private credit, we really know we're close to, even those averages, either in private"
+    },
+    {
+      "start": 272.1,
+      "end": 274.02,
+      "text": "credit or in public credit."
+    },
+    {
+      "start": 274.02,
+      "end": 279.46000000000004,
+      "text": "And there are certain aspects of private credit, whether it's in software centric companies"
+    },
+    {
+      "start": 279.46000000000004,
+      "end": 285.38,
+      "text": "or companies that were over levered coming out of the 21-22 LBO period that are a bit softer"
+    },
+    {
+      "start": 285.38,
+      "end": 290.58,
+      "text": "in performance, but really private credit, holistically, is a very solid asset class."
+    },
+    {
+      "start": 290.58,
+      "end": 295.86,
+      "text": "And if you look back to the GFC and prior business cycles, you had default rates exceeding"
+    },
+    {
+      "start": 295.86,
+      "end": 297.38,
+      "text": "10%."
+    },
+    {
+      "start": 297.38,
+      "end": 301.42,
+      "text": "Today, they're at 2% or below, depending on what subcategory of private credit you're looking"
+    },
+    {
+      "start": 301.42,
+      "end": 302.42,
+      "text": "at."
+    },
+    {
+      "start": 302.42,
+      "end": 308.5,
+      "text": "And even in a very stressed scenario where you had 50% plus of private credit underperforming,"
+    },
+    {
+      "start": 308.5,
+      "end": 314.06,
+      "text": "if you look at that over history in a 10% default rate, you still have only got 5% of losses"
+    },
+    {
+      "start": 314.06,
+      "end": 318.58,
+      "text": "versus a up-to-top-to-bottom and a peak-to-trophity equity market was over 50% during that"
+    },
+    {
+      "start": 318.58,
+      "end": 319.58,
+      "text": "same period."
+    },
+    {
+      "start": 319.58,
+      "end": 323.66,
+      "text": "So, private credit is a very resilient asset class, and I think there are aspects of"
+    },
+    {
+      "start": 323.66,
+      "end": 327.62,
+      "text": "it as Mike alluded to that will go under pressure as the economy strains a bit."
+    },
+    {
+      "start": 327.62,
+      "end": 330.62,
+      "text": "If that does happen right now, we're in a pretty resilient period."
+    },
+    {
+      "start": 330.62,
+      "end": 333.54,
+      "text": "But we think it's a good asset class to be in, and that will persist."
+    },
+    {
+      "start": 333.54,
+      "end": 337.06,
+      "text": "And if you look at private equity as Mike said, we're a little bit of an indigestion"
+    },
+    {
+      "start": 337.06,
+      "end": 338.46,
+      "text": "period, if you will."
+    },
+    {
+      "start": 338.46,
+      "end": 344.65999999999997,
+      "text": "We've had the luxury over prior cycles of much shorter hold periods and investment gains"
+    },
+    {
+      "start": 344.65999999999997,
+      "end": 347.38,
+      "text": "that were driven by lifts in multiples."
+    },
+    {
+      "start": 347.38,
+      "end": 351.14,
+      "text": "And now we have a market that's elongated, and we think what's happening is things are"
+    },
+    {
+      "start": 351.14,
+      "end": 353.29999999999995,
+      "text": "really going to return to historical norm."
+    },
+    {
+      "start": 353.29999999999995,
+      "end": 354.65999999999997,
+      "text": "Does it relate to holding periods?"
+    },
+    {
+      "start": 354.65999999999997,
+      "end": 356.38,
+      "text": "Call it six, seven years."
+    },
+    {
+      "start": 356.38,
+      "end": 360.06,
+      "text": "And if you look at distributions that's a percent of in the ground nav, those have been"
+    },
+    {
+      "start": 360.06,
+      "end": 361.06,
+      "text": "historically low."
+    },
+    {
+      "start": 361.06,
+      "end": 364.97999999999996,
+      "text": "Mike and I will go through those, but we think those will return to normalized levels"
+    },
+    {
+      "start": 364.97999999999996,
+      "end": 366.78,
+      "text": "of 15 to 20%."
+    },
+    {
+      "start": 366.78,
+      "end": 368.09999999999997,
+      "text": "But it's going to take some time."
+    },
+    {
+      "start": 368.1,
+      "end": 372.26000000000005,
+      "text": "And I think AI is going to be a big factor in the context of all that and how that plays"
+    },
+    {
+      "start": 372.26000000000005,
+      "end": 376.5,
+      "text": "out both upside and downside across portfolios is being discussed today."
+    },
+    {
+      "start": 376.5,
+      "end": 381.34000000000003,
+      "text": "But I think if you look at equity monetizations on the private equity side of things, it's"
+    },
+    {
+      "start": 381.34000000000003,
+      "end": 385.78000000000003,
+      "text": "been slower, but we're starting to see the waves lap up on the beach with higher frequency"
+    },
+    {
+      "start": 385.78000000000003,
+      "end": 386.78000000000003,
+      "text": "now."
+    },
+    {
+      "start": 386.78000000000003,
+      "end": 389.06,
+      "text": "We don't think there's going to be tsunami of distributions."
+    },
+    {
+      "start": 389.06,
+      "end": 392.5,
+      "text": "We think it's going to be more consistent as the market continues to perform, but that's"
+    },
+    {
+      "start": 392.5,
+      "end": 393.5,
+      "text": "a big if, right?"
+    },
+    {
+      "start": 393.5,
+      "end": 394.5,
+      "text": "Right."
+    },
+    {
+      "start": 394.5,
+      "end": 397.78000000000003,
+      "text": "So we are not particularly worried about private credit as an asset class."
+    },
+    {
+      "start": 397.78000000000003,
+      "end": 401.58000000000004,
+      "text": "But let's talk a little bit more and dig in on that private equity side bike."
+    },
+    {
+      "start": 401.58000000000004,
+      "end": 408.50000000000006,
+      "text": "So what will be the catalyst, not for a tsunami, but to see normalization in that area?"
+    },
+    {
+      "start": 408.50000000000006,
+      "end": 411.70000000000005,
+      "text": "So let's talk about why are we in this period of indigestion right now?"
+    },
+    {
+      "start": 411.70000000000005,
+      "end": 414.18,
+      "text": "Why is the circulatory system not working?"
+    },
+    {
+      "start": 414.18,
+      "end": 418.26000000000005,
+      "text": "It's relatively simple, and it just goes back to the math of private equity."
+    },
+    {
+      "start": 418.26000000000005,
+      "end": 422.14000000000004,
+      "text": "If you go back to 2022 after that period of massive growth, what happened?"
+    },
+    {
+      "start": 422.14000000000004,
+      "end": 424.06000000000006,
+      "text": "The economy didn't go into recession."
+    },
+    {
+      "start": 424.06000000000006,
+      "end": 425.58000000000004,
+      "text": "Capital markets were open."
+    },
+    {
+      "start": 425.58000000000004,
+      "end": 427.26000000000005,
+      "text": "There was plenty of dry powder."
+    },
+    {
+      "start": 427.34,
+      "end": 433.53999999999996,
+      "text": "He'd said on average, about 20% of market value realizes on average every year."
+    },
+    {
+      "start": 433.53999999999996,
+      "end": 438.86,
+      "text": "So why have we been stuck down to 8, 9, 10% over the last three years?"
+    },
+    {
+      "start": 438.86,
+      "end": 440.74,
+      "text": "Well, the reason is relatively simple."
+    },
+    {
+      "start": 440.74,
+      "end": 444.21999999999997,
+      "text": "The fed increased rates by roughly 500 basis points."
+    },
+    {
+      "start": 444.21999999999997,
+      "end": 448.02,
+      "text": "And private market portfolios weren't really marked down that much."
+    },
+    {
+      "start": 448.02,
+      "end": 452.18,
+      "text": "And so if you do the math, remember, this is a levered asset class where usually you take"
+    },
+    {
+      "start": 452.18,
+      "end": 458.02,
+      "text": "about one part of equity and one part of debt to finance the buyout of a company."
+    },
+    {
+      "start": 458.02,
+      "end": 462.46,
+      "text": "If that debt gets a lot more expensive, that asset is actually worth less."
+    },
+    {
+      "start": 462.46,
+      "end": 469.14,
+      "text": "And so the private equity portfolios were worth less, but the marks were slow to come down."
+    },
+    {
+      "start": 469.14,
+      "end": 471.9,
+      "text": "What's happened to change that a couple of things have happened."
+    },
+    {
+      "start": 471.9,
+      "end": 473.54,
+      "text": "The economy's been strong."
+    },
+    {
+      "start": 473.54,
+      "end": 475.98,
+      "text": "So we've had three to four years of economic growth."
+    },
+    {
+      "start": 475.98,
+      "end": 481.46000000000004,
+      "text": "That means the underlying operating earnings of these companies have continued to grow."
+    },
+    {
+      "start": 481.46000000000004,
+      "end": 486.50000000000006,
+      "text": "Number two, debt prices have eased a little bit now since the Iran War and the inflation"
+    },
+    {
+      "start": 486.50000000000006,
+      "end": 488.94000000000005,
+      "text": "worries, rates are back up a little bit."
+    },
+    {
+      "start": 488.94000000000005,
+      "end": 492.26000000000005,
+      "text": "But in general, rates have been coming in."
+    },
+    {
+      "start": 492.26000000000005,
+      "end": 499.1,
+      "text": "And now there's this intense pressure that GPs are feeling because the LPs are clamoring"
+    },
+    {
+      "start": 499.1,
+      "end": 500.1,
+      "text": "to have distributions."
+    },
+    {
+      "start": 500.1,
+      "end": 503.50000000000006,
+      "text": "And frankly, they're saying, we're not going to go into your next fund until you've"
+    },
+    {
+      "start": 503.50000000000006,
+      "end": 507.42,
+      "text": "returned more money from this last fund and the fund before that."
+    },
+    {
+      "start": 507.42,
+      "end": 511.7,
+      "text": "So those things are combining to create an environment."
+    },
+    {
+      "start": 511.7,
+      "end": 517.54,
+      "text": "And but for the Iran War, we think that 2026 was setting up to be a great year."
+    },
+    {
+      "start": 517.54,
+      "end": 522.66,
+      "text": "When I talked to my colleagues in investment banking and in Pizzeria and others, we look"
+    },
+    {
+      "start": 522.66,
+      "end": 526.1800000000001,
+      "text": "at the number of mandates that we have as a firm, it's very considerable."
+    },
+    {
+      "start": 526.1800000000001,
+      "end": 531.02,
+      "text": "If you look at the IPO backlog, it's been growing for a number of months now."
+    },
+    {
+      "start": 531.02,
+      "end": 537.78,
+      "text": "And so we think that the market is really poised for a relatively strong period of distributions."
+    },
+    {
+      "start": 537.78,
+      "end": 541.34,
+      "text": "And then also you have secondaries, private equity secondaries is something that has really"
+    },
+    {
+      "start": 541.34,
+      "end": 543.34,
+      "text": "come up over the last decade."
+    },
+    {
+      "start": 543.34,
+      "end": 546.18,
+      "text": "And that's providing an escape valve as well."
+    },
+    {
+      "start": 546.18,
+      "end": 551.02,
+      "text": "And so when you add together these conditions, we think the setup for things to normalize"
+    },
+    {
+      "start": 551.02,
+      "end": 556.02,
+      "text": "over the next one, two, three years is very strong with all the geopolitical and economic"
+    },
+    {
+      "start": 556.02,
+      "end": 557.26,
+      "text": "caveats, notwithstanding."
+    },
+    {
+      "start": 557.26,
+      "end": 558.26,
+      "text": "Right."
+    },
+    {
+      "start": 558.26,
+      "end": 563.66,
+      "text": "And of course, the pressure on rates, which has not been what we all expected to see, at"
+    },
+    {
+      "start": 563.66,
+      "end": 567.62,
+      "text": "least this point, because as you said, primarily because of the war."
+    },
+    {
+      "start": 567.62,
+      "end": 572.06,
+      "text": "But when we think about how the sponsors are actually dealing with some of this and"
+    },
+    {
+      "start": 572.06,
+      "end": 576.98,
+      "text": "some things going in the right direction and some things not going as well as I think"
+    },
+    {
+      "start": 576.98,
+      "end": 580.58,
+      "text": "we had expected, how are you seeing them adjust?"
+    },
+    {
+      "start": 580.58,
+      "end": 584.38,
+      "text": "Are they putting more equity, are they getting more creative about their structures, are"
+    },
+    {
+      "start": 584.38,
+      "end": 589.38,
+      "text": "they just walking away from deals or is it just wait and see?"
+    },
+    {
+      "start": 589.38,
+      "end": 591.74,
+      "text": "Maybe I'll take a swing at that also and Mike, you can jump in here."
+    },
+    {
+      "start": 591.74,
+      "end": 594.66,
+      "text": "I would say the sponsor community is not to be underestimated."
+    },
+    {
+      "start": 594.66,
+      "end": 597.46,
+      "text": "This is a very experienced and creative crowd."
+    },
+    {
+      "start": 597.46,
+      "end": 602.58,
+      "text": "And I would say outside of the normal course, M&A processes that we see, the ability and"
+    },
+    {
+      "start": 602.58,
+      "end": 608.18,
+      "text": "Mike alluded to this to find liquidity across the capital structure has become increasingly"
+    },
+    {
+      "start": 608.18,
+      "end": 609.18,
+      "text": "more acute."
+    },
+    {
+      "start": 609.18,
+      "end": 613.54,
+      "text": "And you think about the monetization paths that sponsors have years ago, it was just IPOs"
+    },
+    {
+      "start": 613.54,
+      "end": 616.26,
+      "text": "and M&A, sales side M&A and IPOs."
+    },
+    {
+      "start": 616.26,
+      "end": 619.18,
+      "text": "Those are still readily available, but you think about the liquidity spectrum, whether"
+    },
+    {
+      "start": 619.18,
+      "end": 623.62,
+      "text": "it's nav-based lending, whether it's cash flow based lending against the GP, whether"
+    },
+    {
+      "start": 623.62,
+      "end": 628.6999999999999,
+      "text": "it's secondaries, whether it's structured transactions, the world is a wash with liquidity"
+    },
+    {
+      "start": 628.6999999999999,
+      "end": 629.6999999999999,
+      "text": "right now."
+    },
+    {
+      "start": 629.6999999999999,
+      "end": 633.04,
+      "text": "And the sponsors realize that they have a lot of liquidity built up in their system to"
+    },
+    {
+      "start": 633.04,
+      "end": 636.98,
+      "text": "invest in new companies, but there's also a lot of liquidity on the buy side ready"
+    },
+    {
+      "start": 636.98,
+      "end": 638.9399999999999,
+      "text": "to invest in their companies."
+    },
+    {
+      "start": 638.9399999999999,
+      "end": 640.8199999999999,
+      "text": "We have a functioning IPO market now."
+    },
+    {
+      "start": 640.82,
+      "end": 643.74,
+      "text": "We have a leverage buyout market that's been incredibly slow."
+    },
+    {
+      "start": 643.74,
+      "end": 647.94,
+      "text": "There hasn't been a lot of supply because of this niche match between sellers and buyers,"
+    },
+    {
+      "start": 647.94,
+      "end": 651.0600000000001,
+      "text": "but capital is actually starting to grow into some of the market multiples now."
+    },
+    {
+      "start": 651.0600000000001,
+      "end": 655.7,
+      "text": "And so as I alluded to earlier, I think you're going to see more liquidity across sponsor"
+    },
+    {
+      "start": 655.7,
+      "end": 661.34,
+      "text": "portfolio is this DPI phenomenon or said more simply the return of capital to investors."
+    },
+    {
+      "start": 661.34,
+      "end": 665.3000000000001,
+      "text": "We'll improve over time, but it's going to be over a period of time."
+    },
+    {
+      "start": 665.3000000000001,
+      "end": 669.3000000000001,
+      "text": "This is not going to be an overnight sensation, but right now we have a very constructive"
+    },
+    {
+      "start": 669.3000000000001,
+      "end": 670.7,
+      "text": "macro backdrop."
+    },
+    {
+      "start": 670.7,
+      "end": 674.1400000000001,
+      "text": "And surprise, surprise, the sponsors are running into it, so I would not underestimate"
+    },
+    {
+      "start": 674.1400000000001,
+      "end": 677.34,
+      "text": "their ability to create liquidity events for their limited partners."
+    },
+    {
+      "start": 677.34,
+      "end": 682.22,
+      "text": "The one thing I would add to that is we have a strong bias toward GPs that add a lot"
+    },
+    {
+      "start": 682.22,
+      "end": 683.22,
+      "text": "of value."
+    },
+    {
+      "start": 683.22,
+      "end": 687.82,
+      "text": "And so as Pete said, I wouldn't underestimate GPs because it's been a difficult time."
+    },
+    {
+      "start": 687.82,
+      "end": 693.5,
+      "text": "They've had to contend with a difficult geopolitical and economic backdrop, but the capability to add"
+    },
+    {
+      "start": 693.5,
+      "end": 694.7,
+      "text": "value to these companies."
+    },
+    {
+      "start": 694.7,
+      "end": 699.6600000000001,
+      "text": "The magic of private equity is you have concentrated ownership among an ownership"
+    },
+    {
+      "start": 699.66,
+      "end": 703.38,
+      "text": "group that has deep domain expertise and operative expertise."
+    },
+    {
+      "start": 703.38,
+      "end": 705.1,
+      "text": "So they have not been sitting on their hands."
+    },
+    {
+      "start": 705.1,
+      "end": 707.38,
+      "text": "They've been doing a lot with these assets."
+    },
+    {
+      "start": 707.38,
+      "end": 709.9399999999999,
+      "text": "And we think that they're going to drive value over time."
+    },
+    {
+      "start": 709.9399999999999,
+      "end": 714.1,
+      "text": "But as you said earlier, Mike, you've got these private markets."
+    },
+    {
+      "start": 714.1,
+      "end": 719.02,
+      "text": "We have reason to believe that there's going to be more normalization ahead."
+    },
+    {
+      "start": 719.02,
+      "end": 724.1,
+      "text": "But at the end of the day, the public markets are accelerating very dramatically."
+    },
+    {
+      "start": 724.1,
+      "end": 731.14,
+      "text": "You said new highs, new highs, new highs, so why private market versus public market in"
+    },
+    {
+      "start": 731.14,
+      "end": 732.14,
+      "text": "that context?"
+    },
+    {
+      "start": 732.14,
+      "end": 733.14,
+      "text": "Yeah."
+    },
+    {
+      "start": 733.14,
+      "end": 734.14,
+      "text": "We're getting this question a lot these days."
+    },
+    {
+      "start": 734.14,
+      "end": 735.7,
+      "text": "I even get it sometimes at cocktail parties."
+    },
+    {
+      "start": 735.7,
+      "end": 739.1,
+      "text": "Should I still be having this allocation to private equity?"
+    },
+    {
+      "start": 739.1,
+      "end": 744.1800000000001,
+      "text": "And as a matter of fact, when you look at three-year rolling returns, private equity has"
+    },
+    {
+      "start": 744.1800000000001,
+      "end": 748.98,
+      "text": "actually gone negative in terms of alpha to the public markets for the first time over"
+    },
+    {
+      "start": 748.98,
+      "end": 749.98,
+      "text": "the last two years."
+    },
+    {
+      "start": 749.98,
+      "end": 755.26,
+      "text": "And so just to explain what we do is we take a portfolio of private assets and public"
+    },
+    {
+      "start": 755.26,
+      "end": 756.26,
+      "text": "assets."
+    },
+    {
+      "start": 756.26,
+      "end": 762.0,
+      "text": "And we match up to buy in the sell dates to determine what is the direct alpha of holding"
+    },
+    {
+      "start": 762.0,
+      "end": 763.86,
+      "text": "a private equity portfolio?"
+    },
+    {
+      "start": 763.86,
+      "end": 769.86,
+      "text": "What we did is we looked at periods of return when returns in the public markets were negative,"
+    },
+    {
+      "start": 769.86,
+      "end": 772.94,
+      "text": "when they were zero to 10% and when they were 10% and above."
+    },
+    {
+      "start": 772.94,
+      "end": 777.02,
+      "text": "And what you tend to see, because of the marking convention, a private equity tends to"
+    },
+    {
+      "start": 777.02,
+      "end": 783.4399999999999,
+      "text": "be more smooth over time, is private equity is roughly flat when public markets are up"
+    },
+    {
+      "start": 783.4399999999999,
+      "end": 788.8199999999999,
+      "text": "more than 10% and you see a lot of the alpha in more normal return environments is zero"
+    },
+    {
+      "start": 788.8199999999999,
+      "end": 789.8199999999999,
+      "text": "to 10."
+    },
+    {
+      "start": 789.8199999999999,
+      "end": 794.8199999999999,
+      "text": "And you see a lot of private equity outperformance, dramatic outperformance when public markets"
+    },
+    {
+      "start": 794.8199999999999,
+      "end": 795.8199999999999,
+      "text": "are negative."
+    },
+    {
+      "start": 795.8199999999999,
+      "end": 800.9,
+      "text": "And so we're confident that over time, I mean last two years, one of the reasons why"
+    },
+    {
+      "start": 800.9,
+      "end": 805.06,
+      "text": "private equity doesn't look so great is public markets were up between 40 and 50% over"
+    },
+    {
+      "start": 805.06,
+      "end": 806.38,
+      "text": "that period of time."
+    },
+    {
+      "start": 806.38,
+      "end": 808.78,
+      "text": "The marks are smooth over time."
+    },
+    {
+      "start": 808.78,
+      "end": 813.82,
+      "text": "And as you see things normalize, we're confident that alpha is going to be back in the historic"
+    },
+    {
+      "start": 813.82,
+      "end": 814.82,
+      "text": "ranges where we've seen it."
+    },
+    {
+      "start": 814.82,
+      "end": 818.42,
+      "text": "And also, Alison, I think you have to consider to build on what Mike said, the dispersion"
+    },
+    {
+      "start": 818.42,
+      "end": 819.86,
+      "text": "of the public markets is very high."
+    },
+    {
+      "start": 819.86,
+      "end": 820.86,
+      "text": "Right."
+    },
+    {
+      "start": 820.86,
+      "end": 823.82,
+      "text": "So while the public markets are up, it's very concentrated in terms of it's driving"
+    },
+    {
+      "start": 823.82,
+      "end": 827.98,
+      "text": "that alpha, whereas a typical diversified private equity portfolio, unless it's specifically"
+    },
+    {
+      "start": 827.98,
+      "end": 832.54,
+      "text": "concentrated in a sub sector of the economy, which some are, you will see that outperformance"
+    },
+    {
+      "start": 832.54,
+      "end": 833.94,
+      "text": "over a longer hold period."
+    },
+    {
+      "start": 833.94,
+      "end": 838.2600000000001,
+      "text": "But we still think A, the asset class has durability and running room and B has a real"
+    },
+    {
+      "start": 838.2600000000001,
+      "end": 841.0600000000001,
+      "text": "place in global portfolio allocation."
+    },
+    {
+      "start": 841.0600000000001,
+      "end": 844.2600000000001,
+      "text": "It's just this recent period of time where you've seen these big dispersions and that"
+    },
+    {
+      "start": 844.2600000000001,
+      "end": 847.74,
+      "text": "has proved true historically through some of the data when you see a big up performance"
+    },
+    {
+      "start": 847.74,
+      "end": 848.74,
+      "text": "in the public markets."
+    },
+    {
+      "start": 848.74,
+      "end": 849.74,
+      "text": "These would be the private markets."
+    },
+    {
+      "start": 849.74,
+      "end": 850.74,
+      "text": "Right."
+    },
+    {
+      "start": 850.74,
+      "end": 857.0600000000001,
+      "text": "But as an investor, shouldn't you be paid more over time in the private markets because"
+    },
+    {
+      "start": 857.0600000000001,
+      "end": 861.2600000000001,
+      "text": "they're less liquid, you should be receiving an illiquidity premium, shouldn't you?"
+    },
+    {
+      "start": 861.2600000000001,
+      "end": 862.2600000000001,
+      "text": "Yeah, that's right."
+    },
+    {
+      "start": 862.26,
+      "end": 865.62,
+      "text": "And Mike, you've probably measured the data more specifically, but historically some of"
+    },
+    {
+      "start": 865.62,
+      "end": 870.06,
+      "text": "those illiquidity premiums have gotten as high as 1200 points versus the public markets."
+    },
+    {
+      "start": 870.06,
+      "end": 872.26,
+      "text": "I think that is compressed lately."
+    },
+    {
+      "start": 872.26,
+      "end": 876.8199999999999,
+      "text": "But if you look at long period averages, I think you still get paid the illiquidity premium"
+    },
+    {
+      "start": 876.8199999999999,
+      "end": 877.8199999999999,
+      "text": "in the private markets."
+    },
+    {
+      "start": 877.8199999999999,
+      "end": 879.3,
+      "text": "But Mike, you might want to comment across."
+    },
+    {
+      "start": 879.3,
+      "end": 880.3,
+      "text": "Well, I think you see."
+    },
+    {
+      "start": 880.3,
+      "end": 884.9,
+      "text": "I think a way of summarizing some of this conversation is to say that actually alpha is"
+    },
+    {
+      "start": 884.9,
+      "end": 887.14,
+      "text": "cyclical in the private markets."
+    },
+    {
+      "start": 887.14,
+      "end": 890.42,
+      "text": "And that's because private equity is a levered asset class."
+    },
+    {
+      "start": 890.4200000000001,
+      "end": 894.46,
+      "text": "It is cyclical, so that is an underlying fact of private markets."
+    },
+    {
+      "start": 894.46,
+      "end": 898.3800000000001,
+      "text": "But you also have, as Pete said, a lot of volatility and variability in public market"
+    },
+    {
+      "start": 898.3800000000001,
+      "end": 899.98,
+      "text": "returns over time."
+    },
+    {
+      "start": 899.98,
+      "end": 904.58,
+      "text": "And so you do tend to see this now when you look over that 25 or 30 year period of time"
+    },
+    {
+      "start": 904.58,
+      "end": 907.8600000000001,
+      "text": "that I referenced, it tends to even itself out."
+    },
+    {
+      "start": 907.8600000000001,
+      "end": 912.7,
+      "text": "And I think most academics would say, if you're getting one to one and a half points of an"
+    },
+    {
+      "start": 912.7,
+      "end": 917.5200000000001,
+      "text": "illiquidity premium, that's very much worth it for a portfolio that's diversified"
+    },
+    {
+      "start": 917.5200000000001,
+      "end": 918.5200000000001,
+      "text": "across assets."
+    },
+    {
+      "start": 918.5200000000001,
+      "end": 919.5200000000001,
+      "text": "Right."
+    },
+    {
+      "start": 919.52,
+      "end": 923.52,
+      "text": "If we look ahead, where do you see the most compelling growth opportunities in the private"
+    },
+    {
+      "start": 923.52,
+      "end": 926.4,
+      "text": "markets over, let's say, three to five years?"
+    },
+    {
+      "start": 926.4,
+      "end": 929.1999999999999,
+      "text": "So I think there's a couple of areas that I would highlight."
+    },
+    {
+      "start": 929.1999999999999,
+      "end": 935.04,
+      "text": "Number one is if you look at the whole innovation economy, that is really happening in the private"
+    },
+    {
+      "start": 935.04,
+      "end": 936.04,
+      "text": "markets."
+    },
+    {
+      "start": 936.04,
+      "end": 940.28,
+      "text": "I talked about the average company taking 14 years to go public."
+    },
+    {
+      "start": 940.28,
+      "end": 945.84,
+      "text": "The reason for that is you don't need to go to the public markets to raise money."
+    },
+    {
+      "start": 945.84,
+      "end": 949.5600000000001,
+      "text": "There is massive amounts of capital available."
+    },
+    {
+      "start": 949.5600000000001,
+      "end": 953.12,
+      "text": "If you want to grow a company, contrast that with Amazon."
+    },
+    {
+      "start": 953.12,
+      "end": 959.08,
+      "text": "They want public in 1997 because they needed to raise $54 million."
+    },
+    {
+      "start": 959.08,
+      "end": 960.08,
+      "text": "Right."
+    },
+    {
+      "start": 960.08,
+      "end": 963.9200000000001,
+      "text": "So in other words, if you go back to that period of time, you couldn't raise more than"
+    },
+    {
+      "start": 963.9200000000001,
+      "end": 967.2,
+      "text": "$54 million in the private markets."
+    },
+    {
+      "start": 967.2,
+      "end": 970.2,
+      "text": "Now you've got people raising tens of billions of dollars."
+    },
+    {
+      "start": 970.2,
+      "end": 974.36,
+      "text": "The only reason that you're really going to go public in most cases is because you need"
+    },
+    {
+      "start": 974.36,
+      "end": 980.12,
+      "text": "to provide monetization to your early investors and to your employees."
+    },
+    {
+      "start": 980.12,
+      "end": 985.84,
+      "text": "So that means that most of the innovation out there in terms of new companies is going"
+    },
+    {
+      "start": 985.84,
+      "end": 987.8000000000001,
+      "text": "to live in the private markets."
+    },
+    {
+      "start": 987.8000000000001,
+      "end": 992.2,
+      "text": "I don't see that changing honestly, and that's a trend that has long-term likes."
+    },
+    {
+      "start": 992.2,
+      "end": 993.44,
+      "text": "That's number one."
+    },
+    {
+      "start": 993.44,
+      "end": 998.8000000000001,
+      "text": "Number two, other forms of liquidity have really become much, much more important in today's"
+    },
+    {
+      "start": 998.8000000000001,
+      "end": 999.8000000000001,
+      "text": "market."
+    },
+    {
+      "start": 999.8000000000001,
+      "end": 1003.6,
+      "text": "Pete talked a little bit about hybrid capital and different forms of financing, but the"
+    },
+    {
+      "start": 1003.6,
+      "end": 1007.6,
+      "text": "secondary market has become really big over a period of time."
+    },
+    {
+      "start": 1007.6,
+      "end": 1011.4,
+      "text": "It was about $250 billion last year."
+    },
+    {
+      "start": 1011.4,
+      "end": 1014.5600000000001,
+      "text": "We estimate that over the next three to five years, the secondary market could be as"
+    },
+    {
+      "start": 1014.5600000000001,
+      "end": 1016.5600000000001,
+      "text": "big as $500 billion."
+    },
+    {
+      "start": 1016.5600000000001,
+      "end": 1018.88,
+      "text": "So there are other forms of liquidity."
+    },
+    {
+      "start": 1018.88,
+      "end": 1021.32,
+      "text": "And this is a very creative market."
+    },
+    {
+      "start": 1021.32,
+      "end": 1024.76,
+      "text": "It does evolve quickly and new solutions come up."
+    },
+    {
+      "start": 1024.76,
+      "end": 1029.96,
+      "text": "This is a great example where we're seeing more and more instruments come up that are creating"
+    },
+    {
+      "start": 1029.96,
+      "end": 1032.52,
+      "text": "liquidity for investors in markets."
+    },
+    {
+      "start": 1032.52,
+      "end": 1036.24,
+      "text": "The third thing I would say that's going to continue to grow is retail."
+    },
+    {
+      "start": 1036.24,
+      "end": 1040.28,
+      "text": "So if you look at these returns, if you look at what I'm talking about, what's happening"
+    },
+    {
+      "start": 1040.28,
+      "end": 1043.96,
+      "text": "in the innovation economy, I think a lot of people are saying, should we prevent all"
+    },
+    {
+      "start": 1043.96,
+      "end": 1049.08,
+      "text": "retails except for the wealthiest investors from participating in these different premium"
+    },
+    {
+      "start": 1049.08,
+      "end": 1050.92,
+      "text": "that you see in these markets?"
+    },
+    {
+      "start": 1050.92,
+      "end": 1054.44,
+      "text": "I think a lot of people are saying no, we should democratize that."
+    },
+    {
+      "start": 1054.44,
+      "end": 1056.44,
+      "text": "We should open that up to more people."
+    },
+    {
+      "start": 1056.44,
+      "end": 1059.28,
+      "text": "We agree with that with a big butt."
+    },
+    {
+      "start": 1059.28,
+      "end": 1060.44,
+      "text": "There need to be guardrails."
+    },
+    {
+      "start": 1060.44,
+      "end": 1062.08,
+      "text": "There need to be education."
+    },
+    {
+      "start": 1062.1599999999999,
+      "end": 1067.12,
+      "text": "So we are fans of opening up access to alternatives."
+    },
+    {
+      "start": 1067.12,
+      "end": 1069.8,
+      "text": "We are providing solutions to our own investors."
+    },
+    {
+      "start": 1069.8,
+      "end": 1074.52,
+      "text": "We are working with other firms on what they're doing in the Evergreen space."
+    },
+    {
+      "start": 1074.52,
+      "end": 1078.6799999999998,
+      "text": "But this is a trend, notwithstanding what's happening in private credit that we believe"
+    },
+    {
+      "start": 1078.6799999999998,
+      "end": 1082.52,
+      "text": "is going to continue over the next decade and probably decades."
+    },
+    {
+      "start": 1082.52,
+      "end": 1086.48,
+      "text": "Pete, can you talk a little more about that on the private credit side because the retail"
+    },
+    {
+      "start": 1086.48,
+      "end": 1091.68,
+      "text": "participation has been what's been in focus on private credit and a source of concern?"
+    },
+    {
+      "start": 1091.68,
+      "end": 1096.16,
+      "text": "Yeah, if you look back over the last five, six years, retail, participation in private"
+    },
+    {
+      "start": 1096.16,
+      "end": 1099.28,
+      "text": "credit has compounded every year, 60%."
+    },
+    {
+      "start": 1099.28,
+      "end": 1104.96,
+      "text": "It's right now about 20% of the private credit market is held in writ large and retail."
+    },
+    {
+      "start": 1104.96,
+      "end": 1109.84,
+      "text": "That was fine until there was a liquidity mismatch between those who were the investors"
+    },
+    {
+      "start": 1109.84,
+      "end": 1113.28,
+      "text": "in the funds and those who managed the funds."
+    },
+    {
+      "start": 1113.28,
+      "end": 1118.08,
+      "text": "One of that as I alluded to earlier is a conflation in the press between what is actually"
+    },
+    {
+      "start": 1118.08,
+      "end": 1121.3999999999999,
+      "text": "a systemic credit problem and what is not, and we don't believe that there is a systemic"
+    },
+    {
+      "start": 1121.3999999999999,
+      "end": 1125.8799999999999,
+      "text": "credit problem in the private credit industry or in credit generally right now because of"
+    },
+    {
+      "start": 1125.8799999999999,
+      "end": 1127.8799999999999,
+      "text": "the performance in the economy."
+    },
+    {
+      "start": 1127.8799999999999,
+      "end": 1133.16,
+      "text": "But I do think that as Mike alluded to, it's important that the investors understand the"
+    },
+    {
+      "start": 1133.16,
+      "end": 1137.32,
+      "text": "nature of the underlying vehicles that they're invested in, i.e., if there's a 5% liquidity"
+    },
+    {
+      "start": 1137.32,
+      "end": 1140.68,
+      "text": "provision, there's a reason for that because these assets are liquid, they're supposed"
+    },
+    {
+      "start": 1140.68,
+      "end": 1142.32,
+      "text": "to be illiquid."
+    },
+    {
+      "start": 1142.32,
+      "end": 1146.0,
+      "text": "Now there is a burgeoning private credit trading aspect coming into the market, so be"
+    },
+    {
+      "start": 1146.0,
+      "end": 1149.9199999999998,
+      "text": "interested to see what becomes a private credit versus a public credit over time as private"
+    },
+    {
+      "start": 1149.9199999999998,
+      "end": 1152.32,
+      "text": "credit becomes traded and more liquid."
+    },
+    {
+      "start": 1152.32,
+      "end": 1156.24,
+      "text": "But right now, the retail participation of those vehicles says, ebbed, not surprisingly"
+    },
+    {
+      "start": 1156.24,
+      "end": 1160.8,
+      "text": "because when investors want their liquidity, it's not fully available on the day they"
+    },
+    {
+      "start": 1160.8,
+      "end": 1162.2,
+      "text": "want it."
+    },
+    {
+      "start": 1162.2,
+      "end": 1165.28,
+      "text": "I think that is now better understood as Mike alluded to."
+    },
+    {
+      "start": 1165.28,
+      "end": 1170.0,
+      "text": "I think that was broadly an education point rather than was a feature of these funds to"
+    },
+    {
+      "start": 1170.0,
+      "end": 1174.52,
+      "text": "be illiquid and to have these gates, but I don't think that was well understood enough"
+    },
+    {
+      "start": 1174.52,
+      "end": 1176.56,
+      "text": "and that's why we've had a lot of the press around it."
+    },
+    {
+      "start": 1176.56,
+      "end": 1181.12,
+      "text": "But as you look at the broad credit cycle right now, if you look at portfolio quality, if"
+    },
+    {
+      "start": 1181.12,
+      "end": 1184.4,
+      "text": "you look at default rates, if you look at pick rates, all the key things that people"
+    },
+    {
+      "start": 1184.4,
+      "end": 1188.12,
+      "text": "look to in terms of the underlying performance, it's actually quite good."
+    },
+    {
+      "start": 1188.12,
+      "end": 1191.64,
+      "text": "It doesn't mean to say we can't have a credit cycle, it doesn't mean to say that if inflation"
+    },
+    {
+      "start": 1191.64,
+      "end": 1195.6,
+      "text": "kicks in and the war in the Middle East continues and what have you, that there will be more"
+    },
+    {
+      "start": 1195.6,
+      "end": 1196.6,
+      "text": "credit, the false."
+    },
+    {
+      "start": 1196.6,
+      "end": 1197.6,
+      "text": "Of course, there will be."
+    },
+    {
+      "start": 1197.6000000000001,
+      "end": 1201.6000000000001,
+      "text": "The number of credit, not public credit versus institutional credit, it's just a feature"
+    },
+    {
+      "start": 1201.6000000000001,
+      "end": 1202.6000000000001,
+      "text": "of credit."
+    },
+    {
+      "start": 1202.6000000000001,
+      "end": 1206.4800000000002,
+      "text": "But as I alluded to earlier, credit as an asset class will continue to be very durable"
+    },
+    {
+      "start": 1206.4800000000002,
+      "end": 1210.6000000000001,
+      "text": "and one that will recommend to our clients, but obviously the underlying structures are important"
+    },
+    {
+      "start": 1210.6000000000001,
+      "end": 1211.6000000000001,
+      "text": "for them to understand."
+    },
+    {
+      "start": 1211.6000000000001,
+      "end": 1212.6000000000001,
+      "text": "Right."
+    },
+    {
+      "start": 1212.6000000000001,
+      "end": 1217.0800000000002,
+      "text": "And presumably all asset or many risky asset classes would underperform in that type of scenario."
+    },
+    {
+      "start": 1217.0800000000002,
+      "end": 1221.7600000000002,
+      "text": "So just to conclude, I think you said it earlier, Pete, you think we are at an inflection"
+    },
+    {
+      "start": 1221.7600000000002,
+      "end": 1225.8400000000001,
+      "text": "point and it said what structural in nature, Mike, do you agree?"
+    },
+    {
+      "start": 1225.84,
+      "end": 1230.6399999999999,
+      "text": "Yeah, we are at an inflection point and well, it is a pretty unpredictable world right"
+    },
+    {
+      "start": 1230.6399999999999,
+      "end": 1231.6399999999999,
+      "text": "now."
+    },
+    {
+      "start": 1231.6399999999999,
+      "end": 1235.08,
+      "text": "Given what's happening in geopolitics, we're worried about inflation."
+    },
+    {
+      "start": 1235.08,
+      "end": 1240.36,
+      "text": "There are things in the backdrop to be concerned about into way, surely."
+    },
+    {
+      "start": 1240.36,
+      "end": 1243.8,
+      "text": "That all being said, a lot of the ingredients are there, right?"
+    },
+    {
+      "start": 1243.8,
+      "end": 1247.3999999999999,
+      "text": "The capital markets are very much open right now."
+    },
+    {
+      "start": 1247.3999999999999,
+      "end": 1252.4399999999998,
+      "text": "And at least if you look at the last couple of weeks, they are pretty risk on right now."
+    },
+    {
+      "start": 1252.44,
+      "end": 1257.92,
+      "text": "You could have some very large IPOs over the course of 2026."
+    },
+    {
+      "start": 1257.92,
+      "end": 1259.8,
+      "text": "Sponsors are ready to transact, right?"
+    },
+    {
+      "start": 1259.8,
+      "end": 1263.48,
+      "text": "Despite what's going on in private credit, there is private credit available for the right"
+    },
+    {
+      "start": 1263.48,
+      "end": 1264.8400000000001,
+      "text": "types of deals."
+    },
+    {
+      "start": 1264.8400000000001,
+      "end": 1267.04,
+      "text": "And so you need to climb that wall of worry."
+    },
+    {
+      "start": 1267.04,
+      "end": 1268.56,
+      "text": "You need to get the confidence back."
+    },
+    {
+      "start": 1268.56,
+      "end": 1274.24,
+      "text": "I mean, that's what the M&A market is really about in private markets is getting that confidence"
+    },
+    {
+      "start": 1274.24,
+      "end": 1278.48,
+      "text": "back that once you launch a sales process, it's actually to go through it to fruition."
+    },
+    {
+      "start": 1278.64,
+      "end": 1284.0,
+      "text": "But I think that confidence, if we can have some period of normalcy here, if we can have"
+    },
+    {
+      "start": 1284.0,
+      "end": 1289.56,
+      "text": "an op-ramp from the war and return to normal times, which we will at some point, you are"
+    },
+    {
+      "start": 1289.56,
+      "end": 1292.48,
+      "text": "going to have that confidence building time."
+    },
+    {
+      "start": 1292.48,
+      "end": 1297.8,
+      "text": "And we think that within two to three years, you could be seeing distribution environments"
+    },
+    {
+      "start": 1297.8,
+      "end": 1304.44,
+      "text": "and deal activities that are even above what you saw in 2021, which is the prior top"
+    },
+    {
+      "start": 1304.44,
+      "end": 1305.44,
+      "text": "tick of the market."
+    },
+    {
+      "start": 1305.44,
+      "end": 1310.8,
+      "text": "I think we are cautious sitting here today because of what we see happening in the world."
+    },
+    {
+      "start": 1310.8,
+      "end": 1315.44,
+      "text": "But there is an underlying optimism that we feel about this market, despite some of the"
+    },
+    {
+      "start": 1315.44,
+      "end": 1319.4,
+      "text": "challenges we're seeing that there are probably some pretty good years ahead of us here."
+    },
+    {
+      "start": 1319.4,
+      "end": 1322.44,
+      "text": "The other thing else that I might add to what Mike has said, if you take a look at the"
+    },
+    {
+      "start": 1322.44,
+      "end": 1326.1200000000001,
+      "text": "industry, been a large industry that's been around for 50 years, plus or minus, depending"
+    },
+    {
+      "start": 1326.1200000000001,
+      "end": 1330.16,
+      "text": "on how far back you want to go, it's consolidating because it's maturing."
+    },
+    {
+      "start": 1330.16,
+      "end": 1332.0,
+      "text": "What you're seeing is a very bar-belt-like structure."
+    },
+    {
+      "start": 1332.0,
+      "end": 1337.04,
+      "text": "You've got the big, multi-lined, largely public asset managers across various strategies."
+    },
+    {
+      "start": 1337.04,
+      "end": 1341.08,
+      "text": "And then you've got the more discrete strategies that have excelled really based on the performance"
+    },
+    {
+      "start": 1341.08,
+      "end": 1342.6,
+      "text": "and the alpha they've created."
+    },
+    {
+      "start": 1342.6,
+      "end": 1344.84,
+      "text": "We think that market structure can persist."
+    },
+    {
+      "start": 1344.84,
+      "end": 1347.96,
+      "text": "The question is, A, the existential question is your funding model."
+    },
+    {
+      "start": 1347.96,
+      "end": 1352.48,
+      "text": "How do you fund yourself, retail, institutional, and how does that mix change over time?"
+    },
+    {
+      "start": 1352.48,
+      "end": 1357.24,
+      "text": "And B, where do all those folks in the middle of that barbell wind up?"
+    },
+    {
+      "start": 1357.24,
+      "end": 1360.68,
+      "text": "And some of them will continue and persist and continue to scale."
+    },
+    {
+      "start": 1360.68,
+      "end": 1364.1000000000001,
+      "text": "Some of them will be more monochromatic, if you will, in terms of their approach to the"
+    },
+    {
+      "start": 1364.1000000000001,
+      "end": 1365.1000000000001,
+      "text": "market."
+    },
+    {
+      "start": 1365.1000000000001,
+      "end": 1368.3600000000001,
+      "text": "But right now, we believe we're at the inflection point, A in the market, so you're seeing"
+    },
+    {
+      "start": 1368.3600000000001,
+      "end": 1371.88,
+      "text": "this liquidity and DPI problem starting to get cured."
+    },
+    {
+      "start": 1371.88,
+      "end": 1374.76,
+      "text": "But more holistically, what's going on in the industry, we think it's fascinating, and"
+    },
+    {
+      "start": 1374.76,
+      "end": 1378.3200000000002,
+      "text": "we at Goldman Sachs are fortunate to have a front row seat in that across our agency"
+    },
+    {
+      "start": 1378.3200000000002,
+      "end": 1381.76,
+      "text": "and asset and wealth businesses, and so partnering with my good friend, Mike, across"
+    },
+    {
+      "start": 1381.76,
+      "end": 1383.8400000000001,
+      "text": "these is a lot of fun these days."
+    },
+    {
+      "start": 1383.8400000000001,
+      "end": 1386.6000000000001,
+      "text": "So a lot to watch, but cautiously optimistic."
+    },
+    {
+      "start": 1386.6000000000001,
+      "end": 1387.6000000000001,
+      "text": "Correct."
+    },
+    {
+      "start": 1387.6000000000001,
+      "end": 1388.6000000000001,
+      "text": "Yes."
+    },
+    {
+      "start": 1388.6000000000001,
+      "end": 1390.0,
+      "text": "Thanks, Mike, and Pete, for joining us."
+    },
+    {
+      "start": 1391.0,
+      "end": 1395.68,
+      "text": "This episode of Goldman Sachs' exchanges was recorded on Tuesday, May 26th, 2026."
+    },
+    {
+      "start": 1395.68,
+      "end": 1398.48,
+      "text": "I'm Allison Nathan, thanks for listening."
+    },
+    {
+      "start": 1401.48,
+      "end": 1404.56,
+      "text": "The opinions and views expressed herein are as of the date of publication, subject to"
+    },
+    {
+      "start": 1404.56,
+      "end": 1408.08,
+      "text": "change without notice, and may not necessarily reflect the institutional views of Goldman Sachs"
+    },
+    {
+      "start": 1408.08,
+      "end": 1409.48,
+      "text": "or its affiliates."
+    },
+    {
+      "start": 1409.48,
+      "end": 1413.44,
+      "text": "The material provided is intended for informational purposes only, and does not constitute investment"
+    },
+    {
+      "start": 1413.44,
+      "end": 1417.24,
+      "text": "advice, a recommendation from any Goldman Sachs entity to take any particular action,"
+    },
+    {
+      "start": 1417.24,
+      "end": 1421.4,
+      "text": "or an offer or solicitation to purchase or sell any securities or financial products."
+    },
+    {
+      "start": 1421.4,
+      "end": 1424.88,
+      "text": "This material may contain forward-looking statements, past performance is not indicative"
+    },
+    {
+      "start": 1424.88,
+      "end": 1426.1200000000001,
+      "text": "of future results."
+    },
+    {
+      "start": 1426.1200000000001,
+      "end": 1429.92,
+      "text": "Neither Goldman Sachs nor any of its affiliates make any representations or warranties, expressed"
+    },
+    {
+      "start": 1429.92,
+      "end": 1433.36,
+      "text": "or implied as to the accuracy or completeness of the statements or information contained"
+    },
+    {
+      "start": 1433.36,
+      "end": 1438.32,
+      "text": "herein, and disclaim any liability whatsoever for reliance on such information for any purpose."
+    },
+    {
+      "start": 1438.32,
+      "end": 1441.56,
+      "text": "Each name of a third-party organization mentioned is the property of the company to which it"
+    },
+    {
+      "start": 1441.56,
+      "end": 1445.64,
+      "text": "relates, is used here strictly for informational and identification purposes only, and does not"
+    },
+    {
+      "start": 1445.64,
+      "end": 1449.88,
+      "text": "use to imply any ownership or license rights between any such company and Goldman Sachs."
+    },
+    {
+      "start": 1449.88,
+      "end": 1453.44,
+      "text": "A transcript is provided for convenience and may differ from the original video or audio"
+    },
+    {
+      "start": 1453.44,
+      "end": 1454.44,
+      "text": "content."
+    },
+    {
+      "start": 1454.44,
+      "end": 1456.88,
+      "text": "Goldman Sachs is not responsible for any errors in the transcript."
+    },
+    {
+      "start": 1456.88,
+      "end": 1460.6000000000001,
+      "text": "This material should not be copied, distributed, published, or reproduced in whole or in part,"
+    },
+    {
+      "start": 1460.6000000000001,
+      "end": 1464.0,
+      "text": "or disclosed by any recipient to any other person without the expressed written consent"
+    },
+    {
+      "start": 1464.0,
+      "end": 1465.0,
+      "text": "of Goldman Sachs."
+    },
+    {
+      "start": 1465.0,
+      "end": 1468.7,
+      "text": "Disclosure is applicable to research with respect to issuers, if any, mentioned herein, are"
+    },
+    {
+      "start": 1468.7,
+      "end": 1475.74,
+      "text": "available through your Goldman Sachs representative or at www.gs.com-research-hedge.html."
+    },
+    {
+      "start": 1475.74,
+      "end": 1478.82,
+      "text": "Goldman Sachs does not endorse any candidate or any political party."
+    },
+    {
+      "start": 1478.82,
+      "end": 1481.46,
+      "text": "Copyright 2026, Goldman Sachs, all rights reserved."
+    }
+  ]
+}

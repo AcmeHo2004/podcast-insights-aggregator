@@ -1,0 +1,3381 @@
+{
+  "id": "288f7f2b0870815b",
+  "show": "Animal Spirits",
+  "theme": "Strategy & Markets",
+  "title": "A Fire Alarm For Interest Rates (EP. 466)",
+  "audio_url": "https://pdst.fm/e/mgln.ai/e/309/traffic.megaphone.fm/TCP6920474580.mp3",
+  "source": "local-whisper",
+  "duration": 3671.3,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.04,
+      "text": "Welcome to Animal Spear. It's brought to you by Colin Capital and DIVP. Most income strategies"
+    },
+    {
+      "start": 5.04,
+      "end": 9.84,
+      "text": "make you choose between yield and growth. The Colin Enhanced Equity Income ETF, DIVP"
+    },
+    {
+      "start": 9.84,
+      "end": 14.0,
+      "text": "doesn't. Unlike strategies that write calls on the entire portfolio and cap your upside"
+    },
+    {
+      "start": 14.0,
+      "end": 19.68,
+      "text": "every month, DIVP strategically covers only 20 to 40% of the portfolio holdings at any given time."
+    },
+    {
+      "start": 20.32,
+      "end": 25.92,
+      "text": "Meaning 60 to 80% of the portfolio retains full upside potential. And rather than applying that to"
+    },
+    {
+      "start": 25.92,
+      "end": 32.56,
+      "text": "a broad index exposure, we do it on a concentrated portfolio of high-quality, large-cap value-oriented stocks."
+    },
+    {
+      "start": 32.56,
+      "end": 38.160000000000004,
+      "text": "Value-driven, income-focused, built for the long term. This is DIVP, and this is how we think"
+    },
+    {
+      "start": 38.160000000000004,
+      "end": 42.72,
+      "text": "about income differently. Today's show is sponsored by Weicharts. One thing we're excited about"
+    },
+    {
+      "start": 42.72,
+      "end": 46.8,
+      "text": "is a new offering from Weicharts called Communities. It gives advisors a way to follow research"
+    },
+    {
+      "start": 46.8,
+      "end": 50.88,
+      "text": "insights from voices they already trust directly inside the platform, thousands used for daily"
+    },
+    {
+      "start": 50.88,
+      "end": 55.28,
+      "text": "investment research and client communication. That means instead of trying to recreate the charts"
+    },
+    {
+      "start": 55.28,
+      "end": 59.52,
+      "text": "or analysis after listening to our show as a Weicharts subscriber, you can quickly pull it up and"
+    },
+    {
+      "start": 59.52,
+      "end": 63.92,
+      "text": "work with it inside the platform. It's designed to make following Market Commentary feel more"
+    },
+    {
+      "start": 63.92,
+      "end": 68.32000000000001,
+      "text": "actionable integrated into one's daily workflow. We're excited to be one of the first communities"
+    },
+    {
+      "start": 68.32000000000001,
+      "end": 72.4,
+      "text": "available helping advisors bring our charts and market commentary into their day-to-day Weicharts"
+    },
+    {
+      "start": 72.4,
+      "end": 77.28,
+      "text": "workflow. Click the link in the show notes, check it out, plus get 20% off. The initial Weicharts"
+    },
+    {
+      "start": 77.28,
+      "end": 87.6,
+      "text": "professional subscription new customers only. Welcome to Animal Spirits, a show about markets,"
+    },
+    {
+      "start": 87.6,
+      "end": 92.16,
+      "text": "life, and investing. Join Michael Batnik and Ben Carlson as they talk about what they're"
+    },
+    {
+      "start": 92.16,
+      "end": 96.88,
+      "text": "reading, writing, and watching. All opinions expressed by Michael and Ben are solely their own"
+    },
+    {
+      "start": 96.88,
+      "end": 102.08,
+      "text": "opinion and do not reflect the opinion of Redholtz Wealth Management. This podcast is for informational"
+    },
+    {
+      "start": 102.08,
+      "end": 106.96000000000001,
+      "text": "purposes only and should not be relied upon for any investment decisions. Clients of Redholtz"
+    },
+    {
+      "start": 106.96000000000001,
+      "end": 110.88000000000001,
+      "text": "Wealth Management may maintain positions in the securities discussed in this podcast."
+    },
+    {
+      "start": 114.56,
+      "end": 118.88000000000001,
+      "text": "Welcome to Animal Spirits with Michael and Ben. If you've been following the show for the past two"
+    },
+    {
+      "start": 118.88000000000001,
+      "end": 125.92000000000002,
+      "text": "months, you know that Michael is a kind of a mixed fan based on his attire. Would you say 90% of"
+    },
+    {
+      "start": 125.92000000000002,
+      "end": 131.44,
+      "text": "your clothing these days is mixed related? He's got to be clothes, right? Yeah. Congratulations"
+    },
+    {
+      "start": 131.44,
+      "end": 136.0,
+      "text": "to you. It's got to feel great. You're a die-hardening. You're not just like a casual fan. You're a"
+    },
+    {
+      "start": 136.0,
+      "end": 140.08,
+      "text": "die-hard fan. So I have a personal finance question, but you're a next season taken home there"
+    },
+    {
+      "start": 140.08,
+      "end": 144.64,
+      "text": "and have been for how long? I'm almost crying just thinking about the next. It's been so"
+    },
+    {
+      "start": 145.52,
+      "end": 150.88,
+      "text": "f***ing long. My dad started taking me to games when I was probably in my kids' age, around seven or"
+    },
+    {
+      "start": 150.88,
+      "end": 160.48,
+      "text": "eight. And as much as sports can be an absolute waste of time. And it's sometimes I'm envious of"
+    },
+    {
+      "start": 160.48,
+      "end": 167.28,
+      "text": "like Chris who literally has not a care in the world about what's going on, right? It's a giant"
+    },
+    {
+      "start": 168.39999999999998,
+      "end": 174.48,
+      "text": "time commitment. But the mental commitment too. You're like, why am I so mad about it? It's"
+    },
+    {
+      "start": 174.48,
+      "end": 181.51999999999998,
+      "text": "anguished. It's anguished. Sports. Sports are constant misery punctuated if you're lucky"
+    },
+    {
+      "start": 182.23999999999998,
+      "end": 189.04,
+      "text": "by a little bit of happiness. Yes. That's what being a sports fan is. But the bonds that it builds"
+    },
+    {
+      "start": 189.04,
+      "end": 198.0,
+      "text": "between parents and children, between friends, it's like, I was about to say it's all I have. But"
+    },
+    {
+      "start": 199.76,
+      "end": 205.44,
+      "text": "that's what my dad and I talk about. Yeah, me too. My dad and I, it's the same thing. And yes,"
+    },
+    {
+      "start": 205.44,
+      "end": 209.44,
+      "text": "so Michigan's won two national championships this decade. It's been a long time between those two."
+    },
+    {
+      "start": 209.44,
+      "end": 212.39999999999998,
+      "text": "And I got to do it with my kids. It may be even sweeter. So if you're in my question to you,"
+    },
+    {
+      "start": 212.39999999999998,
+      "end": 217.51999999999998,
+      "text": "you're a next season taken holder. I want to bring this back to finance. So the greatest thing is"
+    },
+    {
+      "start": 217.52,
+      "end": 221.12,
+      "text": "you have an anticipation like wait for the series to go like. So this week, you're just on cloud nine"
+    },
+    {
+      "start": 221.12,
+      "end": 226.48000000000002,
+      "text": "all week. You don't have to worry about the games for a little bit. It's great. So you you will get the"
+    },
+    {
+      "start": 226.48000000000002,
+      "end": 232.32000000000002,
+      "text": "you guys won't be the home team, right? Either way. Correct. Okay. So you'll have game three in New York."
+    },
+    {
+      "start": 233.20000000000002,
+      "end": 236.72,
+      "text": "How much money would someone have to give you to take those tickets from you? What would be enough"
+    },
+    {
+      "start": 236.72,
+      "end": 240.88,
+      "text": "money where you'd go? No. Okay, fine. I have to take it. If someone said Michael, I'm going to pay"
+    },
+    {
+      "start": 240.88,
+      "end": 246.96,
+      "text": "for your mudroom for your tickets. Glad you asked. Glad you asked. So one of the benefits of being a"
+    },
+    {
+      "start": 246.96,
+      "end": 253.60000000000002,
+      "text": "next season ticket holder is I am able to get season season ticket prices. Tickets are a fortune."
+    },
+    {
+      "start": 253.60000000000002,
+      "end": 262.08,
+      "text": "Right. An absolute fortune. So for round one, my face value was 350. Then I went to 580,"
+    },
+    {
+      "start": 262.08,
+      "end": 268.40000000000003,
+      "text": "then 750 and the finals are 1350. If you were to buy off ticket master, which is like the primary"
+    },
+    {
+      "start": 268.40000000000003,
+      "end": 274.8,
+      "text": "secondary market, it is obviously a lot higher than that. And secondary market like if you go on"
+    },
+    {
+      "start": 274.8,
+      "end": 280.72,
+      "text": "take pick, forget about it. It's bananas. So one of the nice things is I now have flexibility."
+    },
+    {
+      "start": 280.72,
+      "end": 287.68,
+      "text": "So for example, we sold game five. Now there is no game five for the calf series, right? Because we"
+    },
+    {
+      "start": 287.68,
+      "end": 295.84000000000003,
+      "text": "swap them. But we sold my tickets for I can't remember $2,200 something like that. And we bought"
+    },
+    {
+      "start": 296.8,
+      "end": 304.40000000000003,
+      "text": "tickets in the section 200, we're 100. We bought section 200 like the second bowl for 900 or whatever"
+    },
+    {
+      "start": 304.40000000000003,
+      "end": 308.08000000000004,
+      "text": "it was. So we got paid $1,000. We would have got to pay $1,000. So you can pay it up for a nice"
+    },
+    {
+      "start": 308.08000000000004,
+      "end": 312.32000000000005,
+      "text": "receipt. Yeah. So you're going to be sitting by shale man. No, no, no, you're missing it."
+    },
+    {
+      "start": 313.52000000000004,
+      "end": 317.68000000000006,
+      "text": "We would have traded down. So we would have paid we would have gotten we would have gotten paid"
+    },
+    {
+      "start": 317.68000000000006,
+      "end": 321.92,
+      "text": "$1,000 to go to the game. Okay, I got you. I got you. All right. So for the finals,"
+    },
+    {
+      "start": 322.96000000000004,
+      "end": 329.84000000000003,
+      "text": "I, my friend Tex and me, we sold our tickets for game four for $4,400."
+    },
+    {
+      "start": 330.8,
+      "end": 335.52000000000004,
+      "text": "Okay. And I said to him, whoa, whoa, whoa, time out. What are we, what are we doing here?"
+    },
+    {
+      "start": 335.52000000000004,
+      "end": 339.20000000000005,
+      "text": "And he said, we spoke about this. I don't remember speaking a matter of fine. So if we are down"
+    },
+    {
+      "start": 339.20000000000005,
+      "end": 343.52000000000004,
+      "text": "three nothing, it will be the greatest sale of all time. I'll give him a big fat white kiss."
+    },
+    {
+      "start": 343.52000000000004,
+      "end": 346.32000000000005,
+      "text": "All right. But it's two more or not time three nothing. Now I'm a little, now I'm going to"
+    },
+    {
+      "start": 346.32000000000005,
+      "end": 349.52000000000004,
+      "text": "a little bit nervous because we have to buy back in. I'm not missing any games for the finals."
+    },
+    {
+      "start": 349.52000000000004,
+      "end": 354.40000000000003,
+      "text": "We have to buy back in. Of course. So what would what would I sell to? Well, there's I guess"
+    },
+    {
+      "start": 354.40000000000003,
+      "end": 358.8,
+      "text": "his answer, although I didn't hit the sell button. He did. Okay. So I'm not sure I would not have"
+    },
+    {
+      "start": 358.8,
+      "end": 366.72,
+      "text": "sold. So we know your friends amount. 4,400. So I will be traveling. I'm going to,"
+    },
+    {
+      "start": 367.68,
+      "end": 371.36,
+      "text": "I think I'm going to game five. Assume that we're not down, you know, assuming that's not a"
+    },
+    {
+      "start": 371.36,
+      "end": 375.36,
+      "text": "sweep. If we're down three, what I'll still probably go. So I bought tickets for San Antonio."
+    },
+    {
+      "start": 375.36,
+      "end": 378.96000000000004,
+      "text": "Might be premature. I think San Antonio is going to win, but I'll buy tickets for Oklahoma City"
+    },
+    {
+      "start": 378.96000000000004,
+      "end": 387.04,
+      "text": "if that's the case. In any event, in any event, it's been a long, long time. And I'm feeling good."
+    },
+    {
+      "start": 387.04,
+      "end": 390.48,
+      "text": "Yeah. It's a great feeling. It's wonderful. Great feeling."
+    },
+    {
+      "start": 391.68,
+      "end": 398.08000000000004,
+      "text": "Let's talk IPOs. Paul Kodraski wrote about IPOs. He talked about, so it's open AI,"
+    },
+    {
+      "start": 398.08000000000004,
+      "end": 402.24,
+      "text": "anthropic, SpaceX. These are going to be massive companies. Each of them probably trillion"
+    },
+    {
+      "start": 402.24,
+      "end": 407.04,
+      "text": "dollars at least. That's pretty fair to say. I'd be shocked if the AI companies were to trillion,"
+    },
+    {
+      "start": 407.04,
+      "end": 412.16,
+      "text": "right? Yeah, yeah, yeah. Okay. He says people aren't focused on the right things. That much new"
+    },
+    {
+      "start": 412.16,
+      "end": 416.16,
+      "text": "equity supply hitting in a few months creates a math problem. The money has to come from somewhere."
+    },
+    {
+      "start": 416.16,
+      "end": 419.92,
+      "text": "Most of it will come from existing holdings. Passive funds will be forced buyers once he's"
+    },
+    {
+      "start": 419.92,
+      "end": 424.16,
+      "text": "named joining indexes, which will happen much faster than usual given exchange. So he's saying,"
+    },
+    {
+      "start": 424.16,
+      "end": 428.32000000000005,
+      "text": "like, what if this is this is a thing? And there's going to be a lot of stories about this. Like,"
+    },
+    {
+      "start": 428.32000000000005,
+      "end": 434.72,
+      "text": "okay, this is going to mark this is going to mark the top. The funny thing is is I'm not worried"
+    },
+    {
+      "start": 434.72,
+      "end": 438.72,
+      "text": "about where the money will come from. People keep worrying about that all decade about like, where's"
+    },
+    {
+      "start": 438.72,
+      "end": 441.92,
+      "text": "the money going to come from for this? Where's the money? The money always just comes from people"
+    },
+    {
+      "start": 442.0,
+      "end": 446.08000000000004,
+      "text": "have money. People have more wealth than ever today. The money will be there. I'm not worried about"
+    },
+    {
+      "start": 446.08000000000004,
+      "end": 452.72,
+      "text": "the money. I'm also not I just don't think it's cute enough to say a headline thing like this"
+    },
+    {
+      "start": 452.72,
+      "end": 457.44,
+      "text": "will be it. I know that's that's usually how it works historically. I just don't think I think"
+    },
+    {
+      "start": 457.44,
+      "end": 464.64,
+      "text": "that's a little too cute. Yeah, I agree. Where will the money come from? You also have to think about"
+    },
+    {
+      "start": 465.52000000000004,
+      "end": 470.0,
+      "text": "so there's a lot of smoke around the SpaceX S1, which was which was filed last week."
+    },
+    {
+      "start": 470.8,
+      "end": 476.16,
+      "text": "Their average revenue per user is coming down on Starlink. That was the headline. You know,"
+    },
+    {
+      "start": 476.16,
+      "end": 483.36,
+      "text": "I love and hate the internet. I hate it because the headlines get all the attention. Nobody reads"
+    },
+    {
+      "start": 483.36,
+      "end": 487.6,
+      "text": "anything for the most part anymore. I love it because there are still people that do the work."
+    },
+    {
+      "start": 488.56,
+      "end": 494.32,
+      "text": "So, oh Malik, somebody who I only recently discovered, he's been writing about the internet"
+    },
+    {
+      "start": 494.32,
+      "end": 502.52,
+      "text": "for decades. That's the broad band bandage book that I'm reading. So, he wrote about the R"
+    },
+    {
+      "start": 502.52,
+      "end": 506.15999999999997,
+      "text": "crew crash literally which is our bloggers in history. So it's kind of funny that he just discovered"
+    },
+    {
+      "start": 506.15999999999997,
+      "end": 513.28,
+      "text": "them. Yeah, I'm a little bit late to that. So, there's a lot about the numbers. Right, obviously,"
+    },
+    {
+      "start": 513.28,
+      "end": 519.6,
+      "text": "like what's going on with SpaceX, which is. Can I read some of the numbers from Axios real quick?"
+    },
+    {
+      "start": 520.5600000000001,
+      "end": 526.24,
+      "text": "Sure. So, this is from Axios. SpaceX is wildly unprofitable reporting a $4.9 billion net loss"
+    },
+    {
+      "start": 526.24,
+      "end": 531.6,
+      "text": "on 18.7 billion dollars in consolidated revenue for context. 200 companies in the S&P had more revenue"
+    },
+    {
+      "start": 531.6,
+      "end": 537.44,
+      "text": "last year than SpaceX. This includes Tesla, who sales were five times higher. Okay, so if you look"
+    },
+    {
+      "start": 537.44,
+      "end": 542.08,
+      "text": "just at the surface level numbers, the thing I love about this SpaceX is that the two narratives"
+    },
+    {
+      "start": 542.08,
+      "end": 547.36,
+      "text": "are so compelling. One of them is going to be, this is a wildly over $1.8 trillion"
+    },
+    {
+      "start": 547.36,
+      "end": 550.88,
+      "text": "dollar company you're kidding me, they don't make any money. And the other one's going to be no"
+    },
+    {
+      "start": 550.88,
+      "end": 554.24,
+      "text": "dummy. It's because they're going to have huge growth in the future and AI and all this stuff."
+    },
+    {
+      "start": 554.24,
+      "end": 558.32,
+      "text": "Like, and both of them are going to sound reasonable. They're both going to make sense."
+    },
+    {
+      "start": 559.04,
+      "end": 564.72,
+      "text": "Yeah, but the the valuation part is always the lazy argument. So it's a spectrum, right? Of"
+    },
+    {
+      "start": 565.6800000000001,
+      "end": 568.72,
+      "text": "exit liquidity. This is you guys are sheep. This is the dumbest should ever."
+    },
+    {
+      "start": 568.72,
+      "end": 571.52,
+      "text": "Yeah, but the valuation always sounds smart. That's the thing."
+    },
+    {
+      "start": 572.24,
+      "end": 575.76,
+      "text": "No, it doesn't. No, when you look at the numbers because you think people that side"
+    },
+    {
+      "start": 575.76,
+      "end": 580.16,
+      "text": "valuation sounds smart. No, I'm saying they sound smart. I'm not saying it is smart. No,"
+    },
+    {
+      "start": 580.16,
+      "end": 583.68,
+      "text": "I don't, I don't think so. Not me, not me, not anymore. We've been doing this a long time."
+    },
+    {
+      "start": 583.68,
+      "end": 587.84,
+      "text": "That sounds lazy. To a lot of people, though, the valuation is like, you can't argue the numbers,"
+    },
+    {
+      "start": 587.84,
+      "end": 590.56,
+      "text": "the numbers are the numbers. Okay, true. I would agree with, I would agree with that. I think"
+    },
+    {
+      "start": 590.56,
+      "end": 596.24,
+      "text": "people you're right. The headlines and the average casual investor will gravitate towards"
+    },
+    {
+      "start": 596.24,
+      "end": 600.24,
+      "text": "the headline numbers, the money losing numbers. There's going to be a lot of throwing your hands up"
+    },
+    {
+      "start": 600.24,
+      "end": 604.0,
+      "text": "for this. Oh my gosh, you killed me. There's going to be a lot of that. But that's the same stuff"
+    },
+    {
+      "start": 604.0,
+      "end": 609.36,
+      "text": "with the macro people that have no understanding of what's actually happening. They just say historical"
+    },
+    {
+      "start": 609.36,
+      "end": 614.88,
+      "text": "numbers, lazy. Okay. So on a spectrum of that's not doing the work. Just looking at the numbers"
+    },
+    {
+      "start": 614.88,
+      "end": 619.28,
+      "text": "at face value is not doing the work. Correct. So on the spectrum of dumbest should ever,"
+    },
+    {
+      "start": 619.92,
+      "end": 624.4,
+      "text": "two trillion dollars LOL, which I get, you know, this is a lot of money. It's an ugly amount of money"
+    },
+    {
+      "start": 625.36,
+      "end": 632.08,
+      "text": "versus changing the world. I'm like closer to changing the world than now. I'm not like, I'm probably like,"
+    },
+    {
+      "start": 632.5600000000001,
+      "end": 636.5600000000001,
+      "text": "you know, I'm, I'm Grand Rapids head you listen a little bit. I'm not all the way there."
+    },
+    {
+      "start": 636.5600000000001,
+      "end": 641.12,
+      "text": "So I'm not buying the stock. But we'll talk about in a second. But on the, on the RPU crash,"
+    },
+    {
+      "start": 641.12,
+      "end": 647.6,
+      "text": "I'll get it back to what home wrote. The customer mix explains it. Maritime terminals. So"
+    },
+    {
+      "start": 647.6,
+      "end": 654.88,
+      "text": "Starlink is basically broadband and space. There are satellites floating in space that are connecting"
+    },
+    {
+      "start": 655.76,
+      "end": 660.08,
+      "text": "difficult areas, previously difficult areas to connect to the internet. Okay. It's a huge global"
+    },
+    {
+      "start": 660.08,
+      "end": 666.08,
+      "text": "unlock, obviously. It makes Wi-Fi better on planes. That's good enough for me. That's all I want."
+    },
+    {
+      "start": 666.08,
+      "end": 671.5200000000001,
+      "text": "Okay. All right. So maritime terminals, which are shipping vessels, oil rigs, they pay between"
+    },
+    {
+      "start": 671.5200000000001,
+      "end": 678.5600000000001,
+      "text": "$250,000 and $5,000 a month. And have no alternative. Aviation is even richer. A commercial aircraft"
+    },
+    {
+      "start": 678.5600000000001,
+      "end": 686.1600000000001,
+      "text": "terminal runs $12,500 to $25,000 per month. These customers anchored Starlink's early RPU."
+    },
+    {
+      "start": 687.12,
+      "end": 692.24,
+      "text": "Consumer residential is where the growth is now. It is the lowest-paying tier"
+    },
+    {
+      "start": 692.24,
+      "end": 698.4,
+      "text": "and outside North America, increasingly price sensitive. Add satellite to mobile users via"
+    },
+    {
+      "start": 698.4,
+      "end": 703.52,
+      "text": "carrier partnerships at a fraction of direct subscription revenue. And the mix explains the"
+    },
+    {
+      "start": 703.52,
+      "end": 709.52,
+      "text": "slide from $99 to $66 and three years. Maritime and aviation grocery and pay well. Consumer"
+    },
+    {
+      "start": 709.52,
+      "end": 715.6,
+      "text": "growth fast and pays less each year. Thank you, person on the internet. Oh, Malik, for looking past"
+    },
+    {
+      "start": 715.6,
+      "end": 722.8,
+      "text": "just the headlines and giving us the actual story. So I guess my grandmother's head you would be"
+    },
+    {
+      "start": 722.8,
+      "end": 728.0799999999999,
+      "text": "like, could this also be an Airbnb story where the valuation at IPO is so high, this doctor doesn't"
+    },
+    {
+      "start": 728.0799999999999,
+      "end": 732.0799999999999,
+      "text": "do a lot for a while. Like I'm sure there's there's going to be a massive pop on day one. I'm sure"
+    },
+    {
+      "start": 732.0799999999999,
+      "end": 736.3199999999999,
+      "text": "but if you're like shorting this, you're probably not going to be happy. But if you're going super,"
+    },
+    {
+      "start": 736.32,
+      "end": 740.4000000000001,
+      "text": "super long, maybe not happy. What if that's the hedge there? Like Airbnb stock has just gone"
+    },
+    {
+      "start": 740.4000000000001,
+      "end": 745.0400000000001,
+      "text": "nowhere since it went public because everyone says the valuation is way too high. Yeah. So same"
+    },
+    {
+      "start": 745.0400000000001,
+      "end": 752.88,
+      "text": "thing with snowflake. If you go public at a hundred times price-to-sales ratio and if you are"
+    },
+    {
+      "start": 752.88,
+      "end": 759.12,
+      "text": "buying and holding the stock for three years, of course, I can't see the future. But probability,"
+    },
+    {
+      "start": 759.12,
+      "end": 766.1600000000001,
+      "text": "historic probability says, that's probably not an awesome idea. Might, doesn't not 100 percent,"
+    },
+    {
+      "start": 766.16,
+      "end": 772.4,
+      "text": "might SpaceX be the one that delivers world-changing results? Yeah. But I think most people,"
+    },
+    {
+      "start": 772.4,
+      "end": 777.12,
+      "text": "most people don't give a shit about three years from now. They care about the next three weeks."
+    },
+    {
+      "start": 777.12,
+      "end": 780.3199999999999,
+      "text": "You don't think they don't want the ideal value DCF calculations on this?"
+    },
+    {
+      "start": 780.3199999999999,
+      "end": 785.12,
+      "text": "Right. So how long until all his companies are under one umbrella? That's that's then"
+    },
+    {
+      "start": 785.12,
+      "end": 788.88,
+      "text": "game here, right? Well, they are. Everything except for Tesla. That's what I mean. It's going to"
+    },
+    {
+      "start": 788.88,
+      "end": 791.8399999999999,
+      "text": "be all together. Tesla is going to merge with these companies. It's going to be one company. That's"
+    },
+    {
+      "start": 791.84,
+      "end": 802.5600000000001,
+      "text": "the end. So SpaceX owns XAI, which is GROC, and they are, I think, trying to buy cursor,"
+    },
+    {
+      "start": 803.12,
+      "end": 809.76,
+      "text": "which is not an Elon Musk company for the record. But how, oh, Twitter, x.com, how long before"
+    },
+    {
+      "start": 809.76,
+      "end": 816.24,
+      "text": "Tesla gets absorbed to a nose? But here's, here's, just we know. Okay. Twitter to me forever."
+    },
+    {
+      "start": 817.04,
+      "end": 826.24,
+      "text": "Here is where a lot of the scrutiny falls. It's with the Nasdaq 100 rejiggering the rules for"
+    },
+    {
+      "start": 826.24,
+      "end": 832.64,
+      "text": "a fast entry. So previously, a company needed to be, I think the term they used was seasoned."
+    },
+    {
+      "start": 833.52,
+      "end": 837.2,
+      "text": "Whatever that means. I don't think that there was like an X number of days or anything like that."
+    },
+    {
+      "start": 837.2,
+      "end": 841.2,
+      "text": "I think it was three to six months. They're going to get into the index in 15 days."
+    },
+    {
+      "start": 842.08,
+      "end": 849.2,
+      "text": "And this unlies the thing that people are excited about. Because, and credit to Nasdaq,"
+    },
+    {
+      "start": 849.76,
+      "end": 853.44,
+      "text": "so yes, they changed the rules for fast inclusion, which people are like, oh, there's a bullsh**,"
+    },
+    {
+      "start": 853.44,
+      "end": 861.2800000000001,
+      "text": "passive, exit, retail, liquidity. Okay. But they also protected investors. Because what they did was,"
+    },
+    {
+      "start": 861.2800000000001,
+      "end": 867.6,
+      "text": "so SpaceX is not going to be selling or issuing a lot of new stock. It's low-float."
+    },
+    {
+      "start": 868.5600000000001,
+      "end": 874.32,
+      "text": "It is going, so a lot of it is not going to be publicly traded. Elon Musk's portion, for example,"
+    },
+    {
+      "start": 875.2,
+      "end": 879.9200000000001,
+      "text": "is not going to be publicly traded or not going to be available. He controls it. So what Nasdaq did"
+    },
+    {
+      "start": 879.9200000000001,
+      "end": 884.72,
+      "text": "was, he said, we've been burned once before with a similar IPO, where was a lot of insider shares"
+    },
+    {
+      "start": 884.72,
+      "end": 888.88,
+      "text": "being held. We're not going to give you the benefit of the doubt of your full $1.75 trillion"
+    },
+    {
+      "start": 888.88,
+      "end": 895.52,
+      "text": "valuation. What we're going to do is we're going to do a modified market cap, which is not unusual."
+    },
+    {
+      "start": 896.16,
+      "end": 901.4399999999999,
+      "text": "We're going to allow you to have three times your float inside of the index. And that's what we're"
+    },
+    {
+      "start": 901.4399999999999,
+      "end": 909.04,
+      "text": "capping it there. So if they float, I'm making this up. If they float $30 billion worth of stock,"
+    },
+    {
+      "start": 910.0,
+      "end": 914.0,
+      "text": "then the index will hold $90 billion. The market cap in the index will be $90 billion."
+    },
+    {
+      "start": 914.0,
+      "end": 918.0,
+      "text": "Right. It's not going to be the full value, right? I think the actual numbers are closer to, to"
+    },
+    {
+      "start": 919.52,
+      "end": 923.1999999999999,
+      "text": "$100,000. There's going to be a lot of people going, oh, the bag holders here are the index"
+    },
+    {
+      "start": 923.2800000000001,
+      "end": 928.4000000000001,
+      "text": "fun people. There's going to be a lot of that. So there will be a lot of, there will be a lot of stock"
+    },
+    {
+      "start": 928.4000000000001,
+      "end": 932.32,
+      "text": "that has to be bought inside of the indexes. That is true. So if the Nasdaq 100, we're looking at"
+    },
+    {
+      "start": 932.32,
+      "end": 935.84,
+      "text": "like four to five percent. I mean, obviously, it's a, you know, it's a range. So that's a lot of"
+    },
+    {
+      "start": 935.84,
+      "end": 942.32,
+      "text": "buying. And with a float that's small, the number of buyers is a, if you can't see me, I'm holding"
+    },
+    {
+      "start": 942.32,
+      "end": 948.6400000000001,
+      "text": "up my arms, a gigantic circle of buyers, pool of buyers that want the stock and the pool of supply"
+    },
+    {
+      "start": 948.64,
+      "end": 955.52,
+      "text": "is much smaller. So the valuation does not matter in the short term. But could you imagine,"
+    },
+    {
+      "start": 955.52,
+      "end": 958.96,
+      "text": "if it goes up to 2.9 trillion because of the way they financially engineered this, people"
+    },
+    {
+      "start": 958.96,
+      "end": 965.52,
+      "text": "are going to lose their f***ing minds. Yes. There's also, there's also like weird cliff"
+    },
+    {
+      "start": 965.52,
+      "end": 972.3199999999999,
+      "text": "divesting, unlocking up of the shares where insiders can sell. But insiders are not selling at the"
+    },
+    {
+      "start": 972.3199999999999,
+      "end": 977.4399999999999,
+      "text": "open. This is, they are, they are diluting the shareholders. What's interesting is that they're"
+    },
+    {
+      "start": 977.44,
+      "end": 983.9200000000001,
+      "text": "giving a disproportionate amount to retail investors, which are still being finalized. But"
+    },
+    {
+      "start": 984.5600000000001,
+      "end": 989.6800000000001,
+      "text": "anyway, it's certainly, it's certainly captured everybody's attention as you would, as you would"
+    },
+    {
+      "start": 989.6800000000001,
+      "end": 992.72,
+      "text": "expect to do. It's a big deal. And maybe this will be the first level thinking again. Like this,"
+    },
+    {
+      "start": 992.72,
+      "end": 996.96,
+      "text": "this really will be it, right? I'm waiting for that to happen. Copy. I don't know. All right."
+    },
+    {
+      "start": 996.96,
+      "end": 1001.84,
+      "text": "Kai Wu, who was on the compound friends of this couple weeks ago, writes these long, what will"
+    },
+    {
+      "start": 1001.9200000000001,
+      "end": 1006.96,
+      "text": "you call them? White papers? Is that fair enough to say? I pulled a little, he taught, he had an AI"
+    },
+    {
+      "start": 1006.96,
+      "end": 1011.6,
+      "text": "disruption paper and he talked about modes and value traps. I just wanted to pull out one thing here"
+    },
+    {
+      "start": 1011.6,
+      "end": 1015.9200000000001,
+      "text": "that I was interested just to show how hard stock picking is. So he shows the biggest"
+    },
+    {
+      "start": 1015.9200000000001,
+      "end": 1020.72,
+      "text": "disruptors of all time. He showed how Netflix disrupted blockbuster, Amazon disrupted borders,"
+    },
+    {
+      "start": 1020.72,
+      "end": 1024.88,
+      "text": "Amazon disrupted radio shack as well. And Google disrupted McClatchee, which I didn't get McClatchee."
+    },
+    {
+      "start": 1024.88,
+      "end": 1031.44,
+      "text": "Is that encyclopedias? Was that encyclopedia Britannica? The owners? I can't remember"
+    },
+    {
+      "start": 1031.44,
+      "end": 1035.68,
+      "text": "it. It's a great chart here showing the returns of each and they're both going in opposite"
+    },
+    {
+      "start": 1035.68,
+      "end": 1041.8400000000001,
+      "text": "directions where these are the ones that just fall off a cliff. But he also shows the stock"
+    },
+    {
+      "start": 1041.8400000000001,
+      "end": 1046.24,
+      "text": "prices of these disrupted companies. So blockbuster borders, radio shack and McClatchee. And"
+    },
+    {
+      "start": 1047.1200000000001,
+      "end": 1051.44,
+      "text": "it's funny because as the stock price is dropping, the revenue per share is either holding"
+    },
+    {
+      "start": 1051.44,
+      "end": 1057.28,
+      "text": "still or going up still as these things are getting disrupted in that. McClatchee is newspapers."
+    },
+    {
+      "start": 1057.52,
+      "end": 1061.6,
+      "text": "That's right in the chart. Yeah, that's wild. And that's what's going to make this stuff so"
+    },
+    {
+      "start": 1061.6,
+      "end": 1064.48,
+      "text": "hard about the software companies is like you look at the results right now and you go"
+    },
+    {
+      "start": 1065.36,
+      "end": 1070.8,
+      "text": "these companies are fine. They're reporting great earnings and then this could happen."
+    },
+    {
+      "start": 1070.8,
+      "end": 1073.44,
+      "text": "That's what's going to make this so hard and that's why stock picking is difficult."
+    },
+    {
+      "start": 1073.44,
+      "end": 1081.6,
+      "text": "Yeah, because the market is obviously pricing in. The market is saying the terminal value is"
+    },
+    {
+      "start": 1081.6,
+      "end": 1087.28,
+      "text": "radio shack. Yeah, so we so every time I see radio shack, I think that I had a friend in elementary"
+    },
+    {
+      "start": 1087.28,
+      "end": 1090.8799999999999,
+      "text": "school. And I think we were actually going to be coming to America something like that in New York"
+    },
+    {
+      "start": 1090.8799999999999,
+      "end": 1095.04,
+      "text": "and there was a radio shack on a corner, right? So on each side, each corner, there's a radio shack"
+    },
+    {
+      "start": 1095.04,
+      "end": 1098.8,
+      "text": "sign, right? Radio shack on one side, radio shack on the other and they show it overhead."
+    },
+    {
+      "start": 1098.8,
+      "end": 1103.36,
+      "text": "And my friend goes totally serious. That's really weird. Why are there two radio shack in the same"
+    },
+    {
+      "start": 1103.36,
+      "end": 1111.36,
+      "text": "corner? Because each sign didn't get it anyway. I don't get it. It was a store on the corner."
+    },
+    {
+      "start": 1111.3600000000001,
+      "end": 1118.96,
+      "text": "So each corner had its own sign. All right. Last week, I talked about interest rate concerns."
+    },
+    {
+      "start": 1118.96,
+      "end": 1123.6000000000001,
+      "text": "Okay. John Arnold, very smart. One of the best maybe the best energy investor all"
+    },
+    {
+      "start": 1123.6000000000001,
+      "end": 1126.88,
+      "text": "the time. He's on Patrick's or Sean as he's podcast recently. Very smart guy."
+    },
+    {
+      "start": 1126.88,
+      "end": 1130.0800000000002,
+      "text": "He said a flare alarm is going off and everyone is ignoring it. And he shows the long-term"
+    },
+    {
+      "start": 1130.0800000000002,
+      "end": 1134.88,
+      "text": "bonding. I think this is a Bloomberg chart of you know, the Kingdom, France, United States, Japan,"
+    },
+    {
+      "start": 1134.88,
+      "end": 1139.3600000000001,
+      "text": "and all these long-term bonds, 30-year bonds are going vertical, right? We talked about this"
+    },
+    {
+      "start": 1139.5200000000002,
+      "end": 1144.0800000000002,
+      "text": "that people are very concerned with this. All right. I want to talk about that worry,"
+    },
+    {
+      "start": 1144.0800000000002,
+      "end": 1148.88,
+      "text": "that five alarm fire with this email we got. Hi, Ben. I've noticed that the yield curve is no"
+    },
+    {
+      "start": 1148.88,
+      "end": 1152.88,
+      "text": "longer inverted. I haven't heard anyone talking about this. It has been observed that recessions"
+    },
+    {
+      "start": 1152.88,
+      "end": 1157.0400000000002,
+      "text": "occur not when the yield curve inverse but when it uninverts. Looks like that hasn't happened"
+    },
+    {
+      "start": 1157.0400000000002,
+      "end": 1160.72,
+      "text": "this time. Harvey's recessionary indicator has experienced his first exception. What are your"
+    },
+    {
+      "start": 1160.72,
+      "end": 1165.0400000000002,
+      "text": "thoughts? And this is what I want to point out. When the yield curve was inverted, short-term yields"
+    },
+    {
+      "start": 1165.04,
+      "end": 1169.6,
+      "text": "were higher than long-term yields. People were screaming. This is going to be a recession because"
+    },
+    {
+      "start": 1169.6,
+      "end": 1173.84,
+      "text": "this indicator has always done that. You and I said, wait a minute. This is just the fed jacking"
+    },
+    {
+      "start": 1173.84,
+      "end": 1177.44,
+      "text": "up short-term rates. It doesn't have to be that. Right. We were kind of saying, let's pump the"
+    },
+    {
+      "start": 1177.44,
+      "end": 1181.84,
+      "text": "brakes on that a little bit. Now what we've seen is a normalization. Short-term yields have come"
+    },
+    {
+      "start": 1181.84,
+      "end": 1187.28,
+      "text": "down. Long-term yields have gone back up. That's a normal yield curve. This is normalization."
+    },
+    {
+      "start": 1188.0,
+      "end": 1193.6,
+      "text": "This is not a reason to freak out people. Okay. I'm throwing cold water on this all day long."
+    },
+    {
+      "start": 1193.6000000000001,
+      "end": 1198.2400000000002,
+      "text": "This is a normal state of affairs. Long-term yields should be higher than short-term yields"
+    },
+    {
+      "start": 1198.2400000000002,
+      "end": 1202.8000000000002,
+      "text": "when you're counting for risk because there's way more risk in a long-term bond than a short-term"
+    },
+    {
+      "start": 1202.8000000000002,
+      "end": 1208.16,
+      "text": "bond in terms of volatility and interest rate changes and inflation. And maybe, just maybe,"
+    },
+    {
+      "start": 1208.16,
+      "end": 1213.2800000000002,
+      "text": "the bond market is saying, I think we're in a higher growth in inflationary environment."
+    },
+    {
+      "start": 1213.2800000000002,
+      "end": 1218.72,
+      "text": "Listen to this from Warren Pies, another fellow TK person. S&P 500 forward sale of growth has"
+    },
+    {
+      "start": 1218.72,
+      "end": 1224.64,
+      "text": "projected at 18% of the next 24 months. Historically, this corresponds to 12.4% nominal GDP growth,"
+    },
+    {
+      "start": 1225.2,
+      "end": 1229.3600000000001,
+      "text": "6% annualized, something to consider as yields and a fed look for new equilibrium. So he's saying,"
+    },
+    {
+      "start": 1230.0,
+      "end": 1235.04,
+      "text": "we're probably going to have higher economic growth. And what if the bond market is just telling us,"
+    },
+    {
+      "start": 1235.6000000000001,
+      "end": 1239.92,
+      "text": "you know what, that period the last 15 years were not normal for interest rates. We're trying to"
+    },
+    {
+      "start": 1239.92,
+      "end": 1245.1200000000001,
+      "text": "normalize here for a higher growth and higher inflation than we had in 2010s. Thoughts."
+    },
+    {
+      "start": 1245.2800000000002,
+      "end": 1249.2,
+      "text": "That makes more sense to me than the alarm situation."
+    },
+    {
+      "start": 1249.2,
+      "end": 1253.5200000000002,
+      "text": "Yeah, totally. I also still think it's weird that everyone is ignoring it. I know it's just"
+    },
+    {
+      "start": 1253.5200000000002,
+      "end": 1256.96,
+      "text": "tweeted. It doesn't mean it literally. But I feel like a lot of people are doing the opposite."
+    },
+    {
+      "start": 1256.96,
+      "end": 1262.8000000000002,
+      "text": "I think there's actually an overwhelming amount of worry relative to the potential outcomes"
+    },
+    {
+      "start": 1262.8000000000002,
+      "end": 1268.24,
+      "text": "about rising rates. What I would say, though, is the part of the worry that I think is valid"
+    },
+    {
+      "start": 1269.2,
+      "end": 1275.52,
+      "text": "is it's not the spread between short-term and long-term, which are healthy and normal."
+    },
+    {
+      "start": 1276.08,
+      "end": 1282.72,
+      "text": "It's the speed at which these lines are all accelerating. I think people worried what if this"
+    },
+    {
+      "start": 1282.72,
+      "end": 1288.64,
+      "text": "doesn't slow down? Nothing has to happen. I'd say it has to slow down. It doesn't."
+    },
+    {
+      "start": 1290.48,
+      "end": 1295.92,
+      "text": "If the long end keeps going up and we're at, I don't know where the line is,"
+    },
+    {
+      "start": 1295.92,
+      "end": 1300.72,
+      "text": "six percent, seven percent, I'm going to start to get nervous. I would very much like for this to"
+    },
+    {
+      "start": 1300.72,
+      "end": 1304.96,
+      "text": "slow down. Yeah, we're not going to get there. That's not going to happen. I don't think so. We"
+    },
+    {
+      "start": 1304.96,
+      "end": 1308.8000000000002,
+      "text": "have time stamp double stamp triple stamp. Not going to happen. We have to be way higher growth."
+    },
+    {
+      "start": 1308.8000000000002,
+      "end": 1313.52,
+      "text": "The thing is, here's the problem. Here's a psychology behind this, though. You can't triple stamp"
+    },
+    {
+      "start": 1313.52,
+      "end": 1317.44,
+      "text": "of double stamp. Come on. Here's the psychology behind this, though. Everything is happening faster."
+    },
+    {
+      "start": 1317.44,
+      "end": 1321.28,
+      "text": "So when we have these moves, that's what freaks everyone out because people are not used to it."
+    },
+    {
+      "start": 1321.28,
+      "end": 1326.48,
+      "text": "When inflation went from zero to nine, it freaked everyone out because it happened fast. When oil went"
+    },
+    {
+      "start": 1326.48,
+      "end": 1331.76,
+      "text": "from $50 a barrel, a negative $37 a barrel, everyone freaked out when mortgage rates went from three"
+    },
+    {
+      "start": 1331.76,
+      "end": 1336.48,
+      "text": "to eight. This is just the markets now. People are going to have to get used to things happening"
+    },
+    {
+      "start": 1336.48,
+      "end": 1341.2,
+      "text": "faster. Just because they happen fast doesn't mean something is breaking. This is just how markets work"
+    },
+    {
+      "start": 1341.2,
+      "end": 1347.36,
+      "text": "now. You might be right. All right. Here's the positive side. I think there's pros and cons to"
+    },
+    {
+      "start": 1347.3600000000001,
+      "end": 1351.5200000000002,
+      "text": "rising rates because obviously rising rates are not good for every like borrowing mortgage rates"
+    },
+    {
+      "start": 1351.5200000000002,
+      "end": 1356.88,
+      "text": "are back near seven percent. I don't think that's a good thing. Okay. Here's the positive behind this"
+    },
+    {
+      "start": 1357.92,
+      "end": 1362.2400000000002,
+      "text": "exhibit a chart of the week from last week. Bond yields are historically linked with higher"
+    },
+    {
+      "start": 1362.2400000000002,
+      "end": 1365.8400000000001,
+      "text": "forward returns. So we're looking at the 10 year starting yield we've talked about this before"
+    },
+    {
+      "start": 1365.8400000000001,
+      "end": 1370.5600000000002,
+      "text": "versus the forward annualized return. And guess what? The starting yields are pretty good predictor"
+    },
+    {
+      "start": 1370.5600000000002,
+      "end": 1375.1200000000001,
+      "text": "of future returns for bonds. So we're getting probably 5% now in high quality bonds."
+    },
+    {
+      "start": 1375.6000000000001,
+      "end": 1380.24,
+      "text": "That's great. You're right. That's better get on the side of the coin and it's a really shiny"
+    },
+    {
+      "start": 1380.24,
+      "end": 1386.3200000000002,
+      "text": "side of the coin. Hey, we give a ton of love to chart can Matt for making design of these charts as"
+    },
+    {
+      "start": 1386.3200000000002,
+      "end": 1396.64,
+      "text": "he has earned every ounce of praise that kid is incredible. So is Eric founding CTO architect of"
+    },
+    {
+      "start": 1396.64,
+      "end": 1402.0800000000002,
+      "text": "exhibit a so I just wanted to give Eric some love. He's the guy behind the guy. He built the"
+    },
+    {
+      "start": 1402.08,
+      "end": 1407.36,
+      "text": "architectural that allows Matt to paint. So he's the he made the canvas and Matt is the painter."
+    },
+    {
+      "start": 1407.36,
+      "end": 1412.56,
+      "text": "So here's the potential. So let's say you're right that we do have a sustained rising rates."
+    },
+    {
+      "start": 1412.56,
+      "end": 1415.76,
+      "text": "So I looked I looked at this like what happens if we get a sustained rising rates and this is"
+    },
+    {
+      "start": 1415.76,
+      "end": 1420.56,
+      "text": "the 10 year going back to 1950. And I looked at the total return for the S&P over that time frame"
+    },
+    {
+      "start": 1420.56,
+      "end": 1425.04,
+      "text": "versus the drawdown. And now the total return actually is pretty comforting like most of the time"
+    },
+    {
+      "start": 1425.04,
+      "end": 1429.1999999999998,
+      "text": "stocks are up in these rising rate cycles. This is every time the 10 year had a sustained rise."
+    },
+    {
+      "start": 1430.16,
+      "end": 1436.0800000000002,
+      "text": "And what is this one more guy guy guy guy guy guy guy. Okay, yep. And that also shows the drawdown"
+    },
+    {
+      "start": 1436.0800000000002,
+      "end": 1440.64,
+      "text": "and there was there was a correction in every single one of these of 10% except for one time"
+    },
+    {
+      "start": 1440.64,
+      "end": 1445.44,
+      "text": "and I was 1994. And so every time this happened and some of these are. Is this supposed to make me"
+    },
+    {
+      "start": 1445.44,
+      "end": 1450.48,
+      "text": "feel better? This looks really bad. But the thing is we're not in a sustained that's like there's"
+    },
+    {
+      "start": 1450.48,
+      "end": 1455.1200000000001,
+      "text": "nothing to worry about except for the 40% the clients and stock prices. Well short term hiccup. But"
+    },
+    {
+      "start": 1455.2,
+      "end": 1459.2,
+      "text": "the thing is is this really is didn't we already have the sustained rise in rates? Yeah."
+    },
+    {
+      "start": 1459.2,
+      "end": 1463.8400000000001,
+      "text": "I feel like now we've been range bound forever. Right. So the thing is is this some of the"
+    },
+    {
+      "start": 1463.8400000000001,
+      "end": 1468.16,
+      "text": "to have a sustained rise rates like you said we have to see six or seven percent for that to be"
+    },
+    {
+      "start": 1468.16,
+      "end": 1472.64,
+      "text": "another cycle up. We already had the one cycle up. Okay. Yeah. You're right. So I think we already"
+    },
+    {
+      "start": 1472.64,
+      "end": 1477.7600000000002,
+      "text": "had it in 2025. This is all another thing from Goldman Sachs median annual SB 500 total return"
+    },
+    {
+      "start": 1477.7600000000002,
+      "end": 1483.1200000000001,
+      "text": "based on nominal 10 year treasury yield. And they break it down by 0 to 2% 2 to 3 to 4 all these"
+    },
+    {
+      "start": 1483.1200000000001,
+      "end": 1487.3600000000001,
+      "text": "different ranges just one percent all up to eight plus. And there's no discerning there's nothing"
+    },
+    {
+      "start": 1487.3600000000001,
+      "end": 1491.2800000000002,
+      "text": "to learn here. Well, yeah, when you presented the data this way, I don't love this chart."
+    },
+    {
+      "start": 1492.0800000000002,
+      "end": 1498.64,
+      "text": "I do think that the direction of the speed of the of the 10 year matters a lot. I agree with you."
+    },
+    {
+      "start": 1498.64,
+      "end": 1503.8400000000001,
+      "text": "Just knowing where what bucket you fall into doesn't tell you anything. But I really do think"
+    },
+    {
+      "start": 1503.8400000000001,
+      "end": 1507.6000000000001,
+      "text": "there's something to the right. I know we can't do technical analysis on interest rate charts."
+    },
+    {
+      "start": 1507.6000000000001,
+      "end": 1512.48,
+      "text": "Is that the thing? Like we can't do that, right? Well, no, you can. It's quite a man. If we could. I"
+    },
+    {
+      "start": 1512.48,
+      "end": 1517.52,
+      "text": "want to see like every time we've hit 5%. That's been a higher range, essentially, and they've"
+    },
+    {
+      "start": 1517.52,
+      "end": 1521.3600000000001,
+      "text": "rates have come right back down. People freak out. Then we come down. It's happened like five times."
+    },
+    {
+      "start": 1521.3600000000001,
+      "end": 1525.52,
+      "text": "I just want to see a sustained breakout about 5% before I start to worry. Deal? You know, yes."
+    },
+    {
+      "start": 1525.52,
+      "end": 1530.32,
+      "text": "You know the meme where it's the musician who looks at Jennifer Aniston. Is that is that"
+    },
+    {
+      "start": 1530.32,
+      "end": 1536.56,
+      "text": "Iggy Papa Kimber? Yes. So who that is? Okay. So it's it's like the five year on the way up."
+    },
+    {
+      "start": 1537.1200000000001,
+      "end": 1541.6,
+      "text": "Yeah. It's him and the five year on the five five percent of the way down is her. Right. Yes."
+    },
+    {
+      "start": 1541.6000000000001,
+      "end": 1545.5200000000002,
+      "text": "So it matters where you're coming. We're going from. So last week we last week we talked about I"
+    },
+    {
+      "start": 1545.5200000000002,
+      "end": 1549.92,
+      "text": "just want to talk about oil prices real quick because this in this this whole geopolitical situation"
+    },
+    {
+      "start": 1549.92,
+      "end": 1555.2,
+      "text": "because oil is back to non to like $96 a barrel. I think the high was actually when you and I were at"
+    },
+    {
+      "start": 1555.2,
+      "end": 1559.7600000000002,
+      "text": "that dinner in Miami for future proof. I remember people. Everyone around the dinner table was"
+    },
+    {
+      "start": 1559.7600000000002,
+      "end": 1563.2800000000002,
+      "text": "like a game of telephone was talking about oil prices spiking super duper high. They got like"
+    },
+    {
+      "start": 1563.2800000000002,
+      "end": 1568.64,
+      "text": "$120 a barrel. They're up like 20% after hours or whatever. Remember that? I think that was the high."
+    },
+    {
+      "start": 1568.64,
+      "end": 1575.8400000000001,
+      "text": "I remember very well. So I think this is another game of really smart because you listen to all the"
+    },
+    {
+      "start": 1575.8400000000001,
+      "end": 1582.48,
+      "text": "oil analysts and they're like $2 a barrel. It has to. It has to. There's no situ. There's no"
+    },
+    {
+      "start": 1582.48,
+      "end": 1587.68,
+      "text": "situation that doesn't happen. And then it just didn't happen. Did the market get it right on debt"
+    },
+    {
+      "start": 1587.68,
+      "end": 1593.68,
+      "text": "from from jump? Kind of. From the jump because I've told the story you know a couple of months"
+    },
+    {
+      "start": 1593.76,
+      "end": 1599.8400000000001,
+      "text": "when it happened, but we were at dinner and me and Dan ives were looking on our phones. And I"
+    },
+    {
+      "start": 1599.8400000000001,
+      "end": 1605.6000000000001,
+      "text": "said to him Bitcoin's flat S&P's down like a buck 10 or something like that. The market didn't"
+    },
+    {
+      "start": 1605.6000000000001,
+      "end": 1610.3200000000002,
+      "text": "really react. The way that we thought it would and it continued to under react. We were like"
+    },
+    {
+      "start": 1610.3200000000002,
+      "end": 1613.2,
+      "text": "this doesn't make sense. This doesn't make sense. And eventually we were like okay this doesn't"
+    },
+    {
+      "start": 1613.2,
+      "end": 1618.8,
+      "text": "make sense. But the market was right immediately. Not overreacting. It's it's wild. Yes. The good"
+    },
+    {
+      "start": 1618.8,
+      "end": 1623.28,
+      "text": "lesson is always like the market is usually smarter than smart people which is hard to wrap your head"
+    },
+    {
+      "start": 1623.28,
+      "end": 1628.32,
+      "text": "around. Usually it's on the caveat there. We've done this for a thousand times but it is usually"
+    },
+    {
+      "start": 1628.32,
+      "end": 1636.0,
+      "text": "the facts. Okay. I did an awesome. This is like random but as we get into investor behavior"
+    },
+    {
+      "start": 1636.0,
+      "end": 1641.12,
+      "text": "which is actually shockingly blank this week. This has been one of the most popular"
+    },
+    {
+      "start": 1644.8,
+      "end": 1650.72,
+      "text": "what's that big fat text called? Yeah. Topics. Geez. The Wii is my brain. You know something about"
+    },
+    {
+      "start": 1650.72,
+      "end": 1656.16,
+      "text": "this microphone breaks the brain. Invested behavior is one of our most popular most most packed"
+    },
+    {
+      "start": 1656.16,
+      "end": 1660.48,
+      "text": "jam packed categories of the show and nothing in here. The Wall Street Journal's got to get a"
+    },
+    {
+      "start": 1660.48,
+      "end": 1663.92,
+      "text": "profile interviewing traders how what they're thinking about right now. That's what they got to do."
+    },
+    {
+      "start": 1664.64,
+      "end": 1672.96,
+      "text": "Anyway in here I put Brent Sullivan who has a great sub-stack on a lot of the mechanics of"
+    },
+    {
+      "start": 1672.96,
+      "end": 1680.08,
+      "text": "tax treatment for custom indexing and particularly long short strategies which are becoming a bigger"
+    },
+    {
+      "start": 1680.08,
+      "end": 1684.8799999999999,
+      "text": "and bigger part of the advisor toolkit on talking wealth him and I had a great conversation."
+    },
+    {
+      "start": 1684.8799999999999,
+      "end": 1688.96,
+      "text": "So if you're an advisor and you want to check that out I cannot recommend. There was a big piece"
+    },
+    {
+      "start": 1688.96,
+      "end": 1694.08,
+      "text": "in the Wall Street Journal on that last week. Bloomberg had a thing on tax class harvesting a couple"
+    },
+    {
+      "start": 1694.08,
+      "end": 1698.1599999999999,
+      "text": "months ago. This is something that's price it took so long. Yeah it's getting big in the wealth"
+    },
+    {
+      "start": 1698.1599999999999,
+      "end": 1701.36,
+      "text": "management space and it's going to be something you're going to be hearing about more and more"
+    },
+    {
+      "start": 1702.0,
+      "end": 1705.9199999999998,
+      "text": "as we talk about it. Okay. Let's talk about broken sentiment. So,"
+    },
+    {
+      "start": 1705.92,
+      "end": 1712.72,
+      "text": "University of Michigan consumer sentiment index at all time lows since this index started in 1950."
+    },
+    {
+      "start": 1713.3600000000001,
+      "end": 1719.44,
+      "text": "The lowest this has ever been. Yeah it's kind of stupid huh. Okay. We've been talking about this"
+    },
+    {
+      "start": 1719.44,
+      "end": 1722.64,
+      "text": "for a while. I feel like we're maybe we're a broken record here. The Atlantic had this piece."
+    },
+    {
+      "start": 1723.2,
+      "end": 1727.28,
+      "text": "The vibe session is over. The perma session is here. Why Americans are so unhappy by Annie Lowry."
+    },
+    {
+      "start": 1728.0,
+      "end": 1732.72,
+      "text": "Now she's trying to get to the bottom of this like why why are sentiment so low? There's no way you"
+    },
+    {
+      "start": 1732.72,
+      "end": 1736.4,
+      "text": "could objectively look at this. Someone on Twitter last week as a young person I couldn't tell if"
+    },
+    {
+      "start": 1736.4,
+      "end": 1740.96,
+      "text": "they were you know engagement farming or what but they said it was 2008 really worse than this"
+    },
+    {
+      "start": 1740.96,
+      "end": 1748.48,
+      "text": "economy and again that's probably rage baiting and engagement baiting. But I think there are some"
+    },
+    {
+      "start": 1748.48,
+      "end": 1752.88,
+      "text": "young people who really truly think this is a terrible terribly economy and they yet to see what an"
+    },
+    {
+      "start": 1752.88,
+      "end": 1757.3600000000001,
+      "text": "actual bad economy is. So here's a quote from this article. People have stopped believing that the"
+    },
+    {
+      "start": 1757.3600000000001,
+      "end": 1761.68,
+      "text": "economy can be good and have lost the willingness to admit that they are doing well. That pessimism"
+    },
+    {
+      "start": 1761.68,
+      "end": 1765.8400000000001,
+      "text": "might be harder to fix than an actual downturn. She goes through like why is this housing costs"
+    },
+    {
+      "start": 1765.8400000000001,
+      "end": 1770.3200000000002,
+      "text": "and inflation and higher costs of living and all the stuff that you would have been talking about"
+    },
+    {
+      "start": 1770.3200000000002,
+      "end": 1775.6000000000001,
+      "text": "forever. But this is this boils on to one thing and it's the internet. This is just my no no no"
+    },
+    {
+      "start": 1775.6000000000001,
+      "end": 1782.72,
+      "text": "an inflation. We've had inflation in the past and it's the 70s inflation. My god I did a whole"
+    },
+    {
+      "start": 1782.72,
+      "end": 1787.92,
+      "text": "chapter on book. Yeah but the 70s inflation destroyed the country too. In its worst sentiment now"
+    },
+    {
+      "start": 1787.92,
+      "end": 1792.8000000000002,
+      "text": "then it was back then. Yeah. I mean inflation. We had this but to put that just say it's not"
+    },
+    {
+      "start": 1792.8000000000002,
+      "end": 1796.16,
+      "text": "the internet. Nothing to just say it's the internet is come on. That's not it's not just the"
+    },
+    {
+      "start": 1796.16,
+      "end": 1801.04,
+      "text": "internet. Okay. It's the internet and it's COVID and then sprinkle a little inflation on top of"
+    },
+    {
+      "start": 1801.04,
+      "end": 1806.0,
+      "text": "that. But that's it didn't it almost didn't matter what it was. I think everything is just amplify"
+    },
+    {
+      "start": 1806.0,
+      "end": 1811.8400000000001,
+      "text": "these days and we had no chance humanity had stood no chance against social media. None. We did"
+    },
+    {
+      "start": 1812.3200000000002,
+      "end": 1818.5600000000002,
+      "text": "well whether you want to blame COVID or inflation. This line broke permanently after that."
+    },
+    {
+      "start": 1819.2,
+      "end": 1823.3600000000001,
+      "text": "So the internet wasn't created in my point is if bad stuff that happened in the past would have"
+    },
+    {
+      "start": 1823.3600000000001,
+      "end": 1828.16,
+      "text": "happened in the social media era that's what have amplified it. Okay. It didn't matter what it was."
+    },
+    {
+      "start": 1828.16,
+      "end": 1833.44,
+      "text": "If something bad always does happen social media made everyone's sentiment worth and now"
+    },
+    {
+      "start": 1833.44,
+      "end": 1838.2400000000002,
+      "text": "sentiment is a broken reading for all of history. It's never coming back. Not that now that's not"
+    },
+    {
+      "start": 1838.24,
+      "end": 1842.56,
+      "text": "got a spike in the future. But as a reliable indicator of how people are actually feeling what"
+    },
+    {
+      "start": 1842.56,
+      "end": 1849.04,
+      "text": "the economy it's useless. You can't use it anymore. Well, but for the stock market for sure and for"
+    },
+    {
+      "start": 1849.04,
+      "end": 1854.16,
+      "text": "real life too. But it does have political like this. This is a direct line to the political that's"
+    },
+    {
+      "start": 1854.16,
+      "end": 1857.76,
+      "text": "it's political politics as you think that it matters for. And that's why we're going to have"
+    },
+    {
+      "start": 1858.56,
+      "end": 1862.16,
+      "text": "people are like are politics just going to go back to normal eventually like will we not have"
+    },
+    {
+      "start": 1862.16,
+      "end": 1868.8000000000002,
+      "text": "this like craziness of the extremes. I think you could say could you say that even though"
+    },
+    {
+      "start": 1868.8000000000002,
+      "end": 1874.24,
+      "text": "it being lower than it was in the bottom and 80 and the bottom it doesn't eat. Even though that's"
+    },
+    {
+      "start": 1874.24,
+      "end": 1878.8000000000002,
+      "text": "stupid right because this metric is objectively broken even the way that they collect this."
+    },
+    {
+      "start": 1878.8000000000002,
+      "end": 1883.44,
+      "text": "So if we've been over this 100 times. I still think it's directionally it's right. Like people"
+    },
+    {
+      "start": 1883.44,
+      "end": 1888.96,
+      "text": "the mood of the country is not awesome. At the macro level at the micro level things are fine."
+    },
+    {
+      "start": 1888.96,
+      "end": 1892.08,
+      "text": "And not for everybody believe me. I'm not suggesting that they are. But I think like the average"
+    },
+    {
+      "start": 1892.08,
+      "end": 1897.52,
+      "text": "person feels way better about their situation and this is always true than how the country is doing."
+    },
+    {
+      "start": 1897.52,
+      "end": 1901.28,
+      "text": "That's not like a that's like an insight that I just made. Yes. And my point is because we are"
+    },
+    {
+      "start": 1901.28,
+      "end": 1906.08,
+      "text": "just inundated with negativity at all times. That whole thing of the country is going to hell is"
+    },
+    {
+      "start": 1906.08,
+      "end": 1910.32,
+      "text": "never going to change. That's always going to be something now. Yeah. And also people like us just"
+    },
+    {
+      "start": 1910.32,
+      "end": 1917.3600000000001,
+      "text": "give this sort of stuff too much oxygen. Potentially. But it's a thing obviously right."
+    },
+    {
+      "start": 1918.96,
+      "end": 1923.6000000000001,
+      "text": "All right. US household ownership of corporate stocks and mutual funds now totals 58 trillion"
+    },
+    {
+      "start": 1923.6000000000001,
+      "end": 1927.44,
+      "text": "dollars which far exceeds real estate assets totally 48 trillion dollars. And this is part of the"
+    },
+    {
+      "start": 1928.72,
+      "end": 1933.92,
+      "text": "this is like part of part you know one of the key ingredients of the pie of of discontent"
+    },
+    {
+      "start": 1934.8,
+      "end": 1940.4,
+      "text": "is all this wealth is in people's faces. And if you don't have a piece of it. It feels really"
+    },
+    {
+      "start": 1940.4,
+      "end": 1948.48,
+      "text": "shitty. I also think that the what we experienced in the 2020s with simultaneous booms in housing"
+    },
+    {
+      "start": 1948.48,
+      "end": 1954.16,
+      "text": "prices and stock prices. We're never going to have that again. Okay. So people are going to look"
+    },
+    {
+      "start": 1954.16,
+      "end": 1959.28,
+      "text": "at that if they miss the boat and go oh my gosh. Here's the thing though. Two thirds of the country"
+    },
+    {
+      "start": 1959.28,
+      "end": 1965.52,
+      "text": "own stocks. Two thirds of the country own homes. Most people have financial assets. I know it's"
+    },
+    {
+      "start": 1965.52,
+      "end": 1969.68,
+      "text": "skewed. I know it's you're right. It is funny. A lot of the people that are like yelling at each"
+    },
+    {
+      "start": 1969.68,
+      "end": 1973.3600000000001,
+      "text": "other about how bad things are have benefited. I'm very yelling about how bad it is for people that"
+    },
+    {
+      "start": 1973.3600000000001,
+      "end": 1978.0,
+      "text": "don't have part of it. It's like it's weird. It's weird virtue signaling all over all over the"
+    },
+    {
+      "start": 1978.0,
+      "end": 1982.24,
+      "text": "internet. All right. Jeff Bezos calls for a zero income taxes on bottom half of the earners."
+    },
+    {
+      "start": 1983.52,
+      "end": 1986.24,
+      "text": "I didn't I didn't read this or listen to the interview. Did you?"
+    },
+    {
+      "start": 1987.2,
+      "end": 1991.6,
+      "text": "I listened to a CNBC interview. Yes. Okay. What are you later? All right. So"
+    },
+    {
+      "start": 1993.6,
+      "end": 1997.92,
+      "text": "if somebody actually was running wild with this one. Okay. Somebody said it's great that Jeff Bezos"
+    },
+    {
+      "start": 1997.92,
+      "end": 2002.96,
+      "text": "thinks this way because too many people who don't make money because too many people who don't"
+    },
+    {
+      "start": 2002.96,
+      "end": 2007.28,
+      "text": "make money think that giving money to the government will solve a lot of their problems. They think"
+    },
+    {
+      "start": 2007.28,
+      "end": 2011.28,
+      "text": "these government programs are the answer. It's clearly not I would agree with that. Jeff Bezos"
+    },
+    {
+      "start": 2011.28,
+      "end": 2015.28,
+      "text": "quote tweeted and said thank you. The important part is zeroing out taxes on the bottom half."
+    },
+    {
+      "start": 2015.92,
+      "end": 2020.6399999999999,
+      "text": "Best way to put someone best way to put money in someone's pocket is to not take it out in the first"
+    },
+    {
+      "start": 2020.6399999999999,
+      "end": 2027.04,
+      "text": "place. Bottom half is only 3% of total tax revenue but it's very meaningful to that person zero"
+    },
+    {
+      "start": 2027.04,
+      "end": 2033.6,
+      "text": "it out. My thoughts on this are this is a very, very complicated topic and there's obviously very"
+    },
+    {
+      "start": 2033.6000000000001,
+      "end": 2039.5200000000002,
+      "text": "strong feelings from coming from every angle here. I think that it's a really potentially"
+    },
+    {
+      "start": 2040.4,
+      "end": 2046.72,
+      "text": "scary thing and slippery slope to divide the country like that between think about how bad the"
+    },
+    {
+      "start": 2046.72,
+      "end": 2053.6000000000004,
+      "text": "class warfare will get. If we if the country allows a certain portion of the population and I'm not"
+    },
+    {
+      "start": 2053.6000000000004,
+      "end": 2058.1600000000003,
+      "text": "talking about people giving this as Mike could give a shit about that but if it's like the us versus"
+    },
+    {
+      "start": 2058.16,
+      "end": 2063.68,
+      "text": "them and you really create like a caste system of halves and halves not it's like formally. Now yeah"
+    },
+    {
+      "start": 2063.68,
+      "end": 2068.16,
+      "text": "I think it's I think it'll be phenomenal like in a vacuum right I turn out to have people pay taxes"
+    },
+    {
+      "start": 2068.16,
+      "end": 2074.3199999999997,
+      "text": "that don't contribute a damn thing like in a vacuum in an ideal world yes who says no to that"
+    },
+    {
+      "start": 2074.3199999999997,
+      "end": 2080.0,
+      "text": "who says no what type of monster says no to that but I think it has real big societal ramifications"
+    },
+    {
+      "start": 2080.0,
+      "end": 2085.04,
+      "text": "that people much more thoughtful about this topic need to spend a long time thinking about."
+    },
+    {
+      "start": 2085.92,
+      "end": 2091.52,
+      "text": "Yes I the psychology one you go well I'm in the 51st percentile and I'm having to pay now"
+    },
+    {
+      "start": 2092.16,
+      "end": 2097.12,
+      "text": "I moved out of the bottom well now I'm paying it true close true yeah yeah yeah so you're right it's"
+    },
+    {
+      "start": 2098.24,
+      "end": 2101.84,
+      "text": "there's got to be it there's got to be but there's got to be a better system. It's never going to"
+    },
+    {
+      "start": 2101.84,
+      "end": 2105.2,
+      "text": "happen though because we just keep everyone keeps saying taxes have to go higher and all they do"
+    },
+    {
+      "start": 2105.2,
+      "end": 2108.96,
+      "text": "is keep going lower people they keep funding different ways to take taxes away from people so I think"
+    },
+    {
+      "start": 2108.96,
+      "end": 2113.52,
+      "text": "we're just going to keep testing hum taxes tax rates we can take down lower and see what happens"
+    },
+    {
+      "start": 2114.16,
+      "end": 2119.68,
+      "text": "that seems to be my only this is this is a true rabbit hole that I care not to go down you know what"
+    },
+    {
+      "start": 2119.68,
+      "end": 2122.32,
+      "text": "speaking of that when people say I went down a rabbit hole no you didn't he spent 20 minutes on"
+    },
+    {
+      "start": 2122.32,
+      "end": 2128.88,
+      "text": "Claude true right now like there's some people there's some people that genuinely go down rabbit"
+    },
+    {
+      "start": 2128.88,
+      "end": 2134.24,
+      "text": "holes but I'm going to say 90% of people have full of shit rabbit holes are now speaking of Claude"
+    },
+    {
+      "start": 2134.24,
+      "end": 2140.48,
+      "text": "this is this is fucking unbelievable so Ben got an email from a famous author and"
+    },
+    {
+      "start": 2140.64,
+      "end": 2145.84,
+      "text": "entire inbox like this is so weird who writes this way like it was just there was a line in that there"
+    },
+    {
+      "start": 2145.84,
+      "end": 2150.96,
+      "text": "was I'm not even sure it was like I thought it was like two cheesed to be AI but Ben's like this"
+    },
+    {
+      "start": 2150.96,
+      "end": 2155.44,
+      "text": "is obviously AI I'll write back whatever so Ben responded and the person responded with what was"
+    },
+    {
+      "start": 2155.44,
+      "end": 2162.0,
+      "text": "clearly an AI response and I said to myself he got to be fucking skinny for the f-bombs you had to"
+    },
+    {
+      "start": 2162.0,
+      "end": 2166.72,
+      "text": "be kidding me this is a very well known person who sold millions of copies of books and the thing is"
+    },
+    {
+      "start": 2166.7200000000003,
+      "end": 2172.0000000000005,
+      "text": "this this is this is how you behave you I'm about to see if I'm again you freaking weirdo you"
+    },
+    {
+      "start": 2172.0000000000005,
+      "end": 2177.0400000000004,
+      "text": "think this is normal behavior so I are you human being so since my book was released I probably"
+    },
+    {
+      "start": 2177.0400000000004,
+      "end": 2183.84,
+      "text": "get two or three AI emails a day from like people who want to promote the book and I can tell because"
+    },
+    {
+      "start": 2183.84,
+      "end": 2190.0000000000005,
+      "text": "they stole the the summary from Amazon and it like resummarizes the book to me hey you did a good"
+    },
+    {
+      "start": 2190.0000000000005,
+      "end": 2193.6800000000003,
+      "text": "job explaining this and then it says would you like to join our PR department help promote your"
+    },
+    {
+      "start": 2193.68,
+      "end": 2197.68,
+      "text": "book and I get two or three of them a day and I can't tell you how quickly I delete an email that"
+    },
+    {
+      "start": 2197.68,
+      "end": 2202.3999999999996,
+      "text": "I know is written by AI and I can't believe that successful people I get it you want to be more"
+    },
+    {
+      "start": 2202.3999999999996,
+      "end": 2209.6,
+      "text": "proficient and productive and have an AI agent help you but it is so cringe when I see an AI"
+    },
+    {
+      "start": 2209.6,
+      "end": 2214.16,
+      "text": "email from someone I can't I I immediately delete it it's unbelievable I hope that's just"
+    },
+    {
+      "start": 2214.16,
+      "end": 2218.16,
+      "text": "something that happens in the future with people where they go no we're not going to give you the"
+    },
+    {
+      "start": 2218.16,
+      "end": 2223.44,
+      "text": "light of day for this like you can sign off using AI somehow like yes or no this work but like"
+    },
+    {
+      "start": 2223.44,
+      "end": 2230.16,
+      "text": "an actual personal email to someone using I is no way sorry it's unbelievable um so Google had a"
+    },
+    {
+      "start": 2230.16,
+      "end": 2236.2400000000002,
+      "text": "big demonstration of their new capabilities it's called spark and it's basically like the AI"
+    },
+    {
+      "start": 2236.2400000000002,
+      "end": 2243.12,
+      "text": "assistant that's that's that's coming so Ben Thompson wrote a lot about this and a friend of mine"
+    },
+    {
+      "start": 2243.12,
+      "end": 2248.16,
+      "text": "actually was text me the yes he's like dude it's here like everything that we've been like"
+    },
+    {
+      "start": 2248.16,
+      "end": 2255.3599999999997,
+      "text": "waiting for to like the really like holy effing crap moment like that's what this is I haven't"
+    },
+    {
+      "start": 2255.3599999999997,
+      "end": 2262.7999999999997,
+      "text": "used it yet so I'm I'm excited to take it for a drive but this is what crypto was supposed to be"
+    },
+    {
+      "start": 2262.7999999999997,
+      "end": 2267.92,
+      "text": "right where it was like and I mean the promise of a different future per se I mean specifically like"
+    },
+    {
+      "start": 2267.92,
+      "end": 2274.72,
+      "text": "oh the the you won't even know that you're using crypto it's just going to be in the background"
+    },
+    {
+      "start": 2274.7200000000003,
+      "end": 2281.2000000000003,
+      "text": "or all the companies are going to start to use it this is what Google is now going to be pushing and a"
+    },
+    {
+      "start": 2281.2000000000003,
+      "end": 2285.44,
+      "text": "lot of these hyper-scalers going to be they're just going to be integrating AI more and more"
+    },
+    {
+      "start": 2285.44,
+      "end": 2289.6800000000003,
+      "text": "before you get to the right that's even knowing it and what's so funny what are you laughing at oh no"
+    },
+    {
+      "start": 2289.6800000000003,
+      "end": 2294.8,
+      "text": "we have don't get don't get don't get don't get me going to try to guess who the author was uh uh so"
+    },
+    {
+      "start": 2295.6000000000004,
+      "end": 2299.28,
+      "text": "is did crypto like miss it's a moment is what I want to ask because I there was a story last"
+    },
+    {
+      "start": 2299.28,
+      "end": 2303.5200000000004,
+      "text": "week called mark cubans like I sold my Bitcoin like I'm done with this like do you do you think that AI"
+    },
+    {
+      "start": 2303.6,
+      "end": 2308.16,
+      "text": "has just stuck all the oxygen out of the room and crypto had its moment to like really"
+    },
+    {
+      "start": 2308.16,
+      "end": 2312.0,
+      "text": "get a consumer use case and all you have people say stablecoins and maybe that will be integrated AI"
+    },
+    {
+      "start": 2312.0,
+      "end": 2317.7599999999998,
+      "text": "but crypto never had its things like oh my gosh this is the thing yeah and it never happened didn't"
+    },
+    {
+      "start": 2317.7599999999998,
+      "end": 2322.08,
+      "text": "miss its moment it's easy to say yes I don't know enough about what's happening in the crypto economy"
+    },
+    {
+      "start": 2322.08,
+      "end": 2328.8,
+      "text": "to say like yes it's dead forever but the short answer is yes um shy baller tweeted robinhoods crypto"
+    },
+    {
+      "start": 2328.8,
+      "end": 2335.28,
+      "text": "COO is stepping down uh that's a big signal is their crypto revenue growth slows this is a a a"
+    },
+    {
+      "start": 2335.28,
+      "end": 2341.76,
+      "text": "gut punch or at least a jab SEC delays plan allowing for crypto versions of us stocks so it's crypto"
+    },
+    {
+      "start": 2341.76,
+      "end": 2345.6800000000003,
+      "text": "dead and buried forever you know I'm not gonna say that I have no idea I would say that it's"
+    },
+    {
+      "start": 2345.6800000000003,
+      "end": 2352.2400000000002,
+      "text": "it's it missed it like AI has the the thing is AI is sucking up all of the talent in the world"
+    },
+    {
+      "start": 2352.2400000000002,
+      "end": 2355.36,
+      "text": "that's what I'm that kind of thing remember before I was like everyone's going to work in crypto now"
+    },
+    {
+      "start": 2355.36,
+      "end": 2360.88,
+      "text": "yes all those and that's what AI and that's what drives innovation it's the talent that builds it"
+    },
+    {
+      "start": 2360.88,
+      "end": 2366.2400000000002,
+      "text": "right and who is going into crypto now like nobody if you were going to if if you're off that"
+    },
+    {
+      "start": 2366.2400000000002,
+      "end": 2373.28,
+      "text": "mind and of that spirit you're going where the next thing is and it's clearly not crypto right that's"
+    },
+    {
+      "start": 2373.28,
+      "end": 2378.88,
+      "text": "what I'm that's what I'm thinking who knows so Benedict Evans has his I think he does it every"
+    },
+    {
+      "start": 2378.88,
+      "end": 2383.2000000000003,
+      "text": "six months he updates his presentation and this one of course was on AI this was interesting we"
+    },
+    {
+      "start": 2383.2000000000003,
+      "end": 2386.5600000000004,
+      "text": "talked about this last week he said everyone is already using this as the total the presentation"
+    },
+    {
+      "start": 2386.5600000000004,
+      "end": 2392.1600000000003,
+      "text": "says open AI reports 900 million plus weekly users but only five percent of them are paying"
+    },
+    {
+      "start": 2393.84,
+      "end": 2401.36,
+      "text": "which is kind of nuts so getting back to the the crypto stuff we were so early was the rallying"
+    },
+    {
+      "start": 2401.36,
+      "end": 2410.2400000000002,
+      "text": "cry and it's very easy with the AI stuff that we're talking about nonstop this is a bubble it's"
+    },
+    {
+      "start": 2410.2400000000002,
+      "end": 2415.2000000000003,
+      "text": "got to be a bubble look at the numbers these are unsustainable to spend the bubble bubble but then"
+    },
+    {
+      "start": 2415.2000000000003,
+      "end": 2421.5200000000004,
+      "text": "also the reality is getting back to like the earlier conversation of headline talk versus people"
+    },
+    {
+      "start": 2421.5200000000004,
+      "end": 2428.96,
+      "text": "that actually do the work and contextualize where we are we are in top of the first inning as"
+    },
+    {
+      "start": 2428.96,
+      "end": 2434.0800000000004,
+      "text": "hard as I just believe now the stocks might be in a bubble right and it might be that we discounted"
+    },
+    {
+      "start": 2434.0800000000004,
+      "end": 2440.1600000000003,
+      "text": "everything okay fine I don't know we'll find out but in terms of AI adoption we really are so early"
+    },
+    {
+      "start": 2440.56,
+      "end": 2446.0,
+      "text": "yeah and the use case obvious is obvious once you start using it so you talk about the"
+    },
+    {
+      "start": 2446.0,
+      "end": 2450.96,
+      "text": "Bayzo Center review on CNBC one thing he said he said I'm taking the other side of the labor"
+    },
+    {
+      "start": 2450.96,
+      "end": 2455.3599999999997,
+      "text": "disruption he said he thinks AI is going to make people so much more productive the productivity is"
+    },
+    {
+      "start": 2455.3599999999997,
+      "end": 2459.7599999999998,
+      "text": "going to go through the roof people are going to have more money he said AI is going to lead to deflation"
+    },
+    {
+      "start": 2459.7599999999998,
+      "end": 2464.64,
+      "text": "the labor shortages he said we're going to have more desire for things in the future because of AI"
+    },
+    {
+      "start": 2464.64,
+      "end": 2469.68,
+      "text": "and it's going to create more businesses and more jobs than ever he's taking the positive spin on AI"
+    },
+    {
+      "start": 2469.68,
+      "end": 2474.72,
+      "text": "which is actually kind of refreshing to hear someone last week commented us that I'm sick of all the AI"
+    },
+    {
+      "start": 2474.72,
+      "end": 2480.0,
+      "text": "doom from you guys and I think we've been pretty fair about it all doom but I know but"
+    },
+    {
+      "start": 2481.04,
+      "end": 2484.56,
+      "text": "Bayzo says no no no it's going to lead to job shortages because people are going to have"
+    },
+    {
+      "start": 2484.56,
+      "end": 2493.9199999999996,
+      "text": "been more productive and richer very plausible I hope so all right Ben I bought a stock this is"
+    },
+    {
+      "start": 2493.9199999999996,
+      "end": 2498.8799999999997,
+      "text": "definitely not financial advice people like when Josh and I talk about stocks and what are your"
+    },
+    {
+      "start": 2498.88,
+      "end": 2503.12,
+      "text": "thoughts so as much as ever say this is financial advice has anyone ever sent that before"
+    },
+    {
+      "start": 2505.6,
+      "end": 2512.0,
+      "text": "this guy as much as part of me would like to never pick stocks again because it's stupid and it's a"
+    },
+    {
+      "start": 2512.0,
+      "end": 2517.6,
+      "text": "waste of time and I don't make money a bubble blah blah blah I love it excuse me it keeps me young Ben"
+    },
+    {
+      "start": 2519.28,
+      "end": 2523.84,
+      "text": "and it's it's great for the content all right so whatever I'm picking stocks again what do I"
+    },
+    {
+      "start": 2524.32,
+      "end": 2533.04,
+      "text": "so I bought flooring decor flooring decor is a looks like an incredibly beautiful perfectly"
+    },
+    {
+      "start": 2534.32,
+      "end": 2540.8,
+      "text": "perfect downtrend the stock sucks flooring decor do they have one by you there's like I think"
+    },
+    {
+      "start": 2540.8,
+      "end": 2544.8,
+      "text": "there's like 500 stores in the country it sounds like a place my mom shops at okay so it's"
+    },
+    {
+      "start": 2545.6000000000004,
+      "end": 2552.7200000000003,
+      "text": "they do they do flooring obviously and other home improvement stuff okay so they could be"
+    },
+    {
+      "start": 2552.7200000000003,
+      "end": 2557.5200000000004,
+      "text": "directly with home depot and low as a matter of fact I think they sell more flooring so I how's"
+    },
+    {
+      "start": 2557.5200000000004,
+      "end": 2563.76,
+      "text": "this even on my radar so Alex more so I follow wonderful writer sub-stacker this is bit he's been on"
+    },
+    {
+      "start": 2563.76,
+      "end": 2569.2000000000003,
+      "text": "this beef for a long time and I followed him right into this stock stock is in a 65% drawdown so he"
+    },
+    {
+      "start": 2569.2000000000003,
+      "end": 2575.6800000000003,
+      "text": "gave me financial advice so if any if this doesn't work out that's on him not me so anyway um"
+    },
+    {
+      "start": 2576.4800000000005,
+      "end": 2582.1600000000003,
+      "text": "you know how we were talking about like how fast things change and part of the lessons at least"
+    },
+    {
+      "start": 2582.16,
+      "end": 2589.04,
+      "text": "from recent history is that stocks just don't let you in like by that when the story changes like"
+    },
+    {
+      "start": 2589.04,
+      "end": 2593.2799999999997,
+      "text": "look at intel or or any of these like it's like wait what just happened why is this like a 40%"
+    },
+    {
+      "start": 2593.2799999999997,
+      "end": 2598.64,
+      "text": "I can't buy it now that's how it works okay so I am very confident that at some point in time"
+    },
+    {
+      "start": 2599.7599999999998,
+      "end": 2604.8799999999997,
+      "text": "there will be a changing of the housing cycle and I don't want to miss it okay so this is the"
+    },
+    {
+      "start": 2604.8799999999997,
+      "end": 2608.16,
+      "text": "stock that I'm betting on and while I sell it in three months when I get bored I don't make money"
+    },
+    {
+      "start": 2608.24,
+      "end": 2614.0,
+      "text": "probably so this is this is your way to bet on the home renovation boom yeah people not moving"
+    },
+    {
+      "start": 2614.0,
+      "end": 2619.04,
+      "text": "yeah so anyhow that's a long setup but I thought this was interesting so the Wall Street Journal has"
+    },
+    {
+      "start": 2620.48,
+      "end": 2628.3999999999996,
+      "text": "a piece showing the age of america's homes and most of the homes are 55 years are old or older"
+    },
+    {
+      "start": 2629.04,
+      "end": 2634.8799999999997,
+      "text": "a lot of the houses in my town I'm sure in every town when they sell there is a lot of work that"
+    },
+    {
+      "start": 2634.88,
+      "end": 2640.88,
+      "text": "needs to be done and flooring decor and all these other housing stocks are in an absolute ice age"
+    },
+    {
+      "start": 2640.88,
+      "end": 2646.7200000000003,
+      "text": "this is a great depression this is a great recession for these housing stocks the news cannot"
+    },
+    {
+      "start": 2646.7200000000003,
+      "end": 2651.44,
+      "text": "possibly be any worse unless it just goes on longer than even the market is suggesting which"
+    },
+    {
+      "start": 2651.44,
+      "end": 2657.12,
+      "text": "obviously is happening right like who knows all right so I saw a chart from torsen slack"
+    },
+    {
+      "start": 2658.08,
+      "end": 2664.96,
+      "text": "who we mention all the time and it says higher rates more renovations locked in mortgage rates are"
+    },
+    {
+      "start": 2664.96,
+      "end": 2670.88,
+      "text": "keeping homeowners in place and driving a surge in renovation spending see chart below"
+    },
+    {
+      "start": 2673.2799999999997,
+      "end": 2679.2,
+      "text": "see chart below this chart is bunk I actually thought about this so wait let me see if I can guess"
+    },
+    {
+      "start": 2679.2,
+      "end": 2683.8399999999997,
+      "text": "go ahead so the reason this is bunk because it's renovations as a percentage of construction spending"
+    },
+    {
+      "start": 2683.92,
+      "end": 2688.8,
+      "text": "is it because construction spending is falling is that why yeah the denominator right now that"
+    },
+    {
+      "start": 2689.28,
+      "end": 2695.52,
+      "text": "okay so so claw decoder this for me and if you look at improvements"
+    },
+    {
+      "start": 2698.4,
+      "end": 2704.2400000000002,
+      "text": "now this is this is a little bit data the data but it's growing like two percent a year"
+    },
+    {
+      "start": 2704.2400000000002,
+      "end": 2708.8,
+      "text": "it's barely growing it's barely growing and if you look at if you look at the"
+    },
+    {
+      "start": 2708.88,
+      "end": 2714.1600000000003,
+      "text": "comps of all these companies flowing to core mohawk show and lows home depot williams and"
+    },
+    {
+      "start": 2714.1600000000003,
+      "end": 2718.32,
+      "text": "on the restoration they're all saying the same thing we know the housing market is an absolute"
+    },
+    {
+      "start": 2718.32,
+      "end": 2726.7200000000003,
+      "text": "shit show okay it is terrible um whirlpool that sells uh dish washes whatever annihilated there is"
+    },
+    {
+      "start": 2726.7200000000003,
+      "end": 2733.04,
+      "text": "nothing happening there is nothing happening so hot so locked in mortgage or keeping homeowners"
+    },
+    {
+      "start": 2733.04,
+      "end": 2736.96,
+      "text": "in place and driving a surge in renovation spending yeah I suppose if you're looking at a"
+    },
+    {
+      "start": 2736.96,
+      "end": 2740.96,
+      "text": "denominator as a percentage okay so you're what's your thesis here then you're trying to get ahead of"
+    },
+    {
+      "start": 2740.96,
+      "end": 2748.4,
+      "text": "this yeah okay yeah so that's because here's here's so I think this is actually like not like a one"
+    },
+    {
+      "start": 2748.4,
+      "end": 2753.04,
+      "text": "or two year trend I think this is like a 15 or 20 year trend because redfin has the data that shows"
+    },
+    {
+      "start": 2753.04,
+      "end": 2756.64,
+      "text": "like two thirds of all baby boomers have lived in their homes for 15 years or longer and something"
+    },
+    {
+      "start": 2756.64,
+      "end": 2762.32,
+      "text": "like 40% have lived in their house for 20 years or more a lot of those houses got to need a ton of"
+    },
+    {
+      "start": 2762.32,
+      "end": 2767.6800000000003,
+      "text": "renovation to meet the standards of young people who grew up on HDTV okay I think that's going to be"
+    },
+    {
+      "start": 2767.6800000000003,
+      "end": 2771.6800000000003,
+      "text": "a big huge thing for baby boomers have just said you know I don't need I don't need to run it I'm"
+    },
+    {
+      "start": 2771.6800000000003,
+      "end": 2776.48,
+      "text": "fine with it we did a renovation 20 years ago we don't need to renovate again and young people"
+    },
+    {
+      "start": 2776.48,
+      "end": 2780.7200000000003,
+      "text": "who come into buy those houses are going to go nope we need to got this new this new countertops new"
+    },
+    {
+      "start": 2780.7200000000003,
+      "end": 2786.96,
+      "text": "flooring updated bedroom open up for entertaining all that stuff that's going to be a 20 year trend"
+    },
+    {
+      "start": 2787.04,
+      "end": 2791.36,
+      "text": "but does it is it just dribs and drabs or is it like this you know that's the that's the the"
+    },
+    {
+      "start": 2791.36,
+      "end": 2800.32,
+      "text": "well higher rates are killing housing uh obviously so I hope you're right Ben I hope"
+    },
+    {
+      "start": 2800.32,
+      "end": 2808.64,
+      "text": "rates come down flooring decor all right your bottom vision um how about this uh I was listening"
+    },
+    {
+      "start": 2808.64,
+      "end": 2816.16,
+      "text": "to Matt Bellany and he had a podcast on vertical vertical streaming because everybody holds their"
+    },
+    {
+      "start": 2816.16,
+      "end": 2821.3599999999997,
+      "text": "phone like this and even though it's a minor inconvenience to do this it's an inconvenience right"
+    },
+    {
+      "start": 2821.3599999999997,
+      "end": 2826.72,
+      "text": "this is the natural so uh Netflix is getting in on it like all these companies are spending big"
+    },
+    {
+      "start": 2826.72,
+      "end": 2832.64,
+      "text": "bucks to compete because also like reels and TikTok this is how this is how people watch it"
+    },
+    {
+      "start": 2833.8399999999997,
+      "end": 2836.8799999999997,
+      "text": "they said this on the pod I had Claude confirm and make a chart"
+    },
+    {
+      "start": 2838.0,
+      "end": 2844.24,
+      "text": "reels alone metas reels is doing more revenue now they just this is a new product"
+    },
+    {
+      "start": 2845.1200000000003,
+      "end": 2848.0000000000005,
+      "text": "reels is doing more revenue than Netflix"
+    },
+    {
+      "start": 2849.28,
+      "end": 2856.32,
+      "text": "geez just reels did this is why the concentration argument about the big tech companies is"
+    },
+    {
+      "start": 2856.32,
+      "end": 2861.36,
+      "text": "falls flat for me you you always talk about the business lines of apple apple does more revenue"
+    },
+    {
+      "start": 2861.36,
+      "end": 2865.6000000000004,
+      "text": "in airpods and you know you know you always talk about that like if you break down inside these"
+    },
+    {
+      "start": 2865.6000000000004,
+      "end": 2870.32,
+      "text": "companies for instagram and you you said just reels and then youtube for google and all youtube"
+    },
+    {
+      "start": 2870.4,
+      "end": 2874.0800000000004,
+      "text": "tv and all these things like they're those are individual businesses of themselves this is that's"
+    },
+    {
+      "start": 2874.0800000000004,
+      "end": 2881.92,
+      "text": "pretty crazy the funny thing is is that's obviously not a good way to watch something vertically it's"
+    },
+    {
+      "start": 2881.92,
+      "end": 2890.4,
+      "text": "way better to watch it horizontally but people don't care it's convenience right no idea for the first"
+    },
+    {
+      "start": 2890.4,
+      "end": 2898.4,
+      "text": "time um we had a four day week weekend as did I'm guessing most are all of the country I don't know"
+    },
+    {
+      "start": 2898.48,
+      "end": 2905.12,
+      "text": "where we're off on friday um and the weather sucked the sun finally came out on monday afternoon but"
+    },
+    {
+      "start": 2905.12,
+      "end": 2913.44,
+      "text": "it was a complete washout here uh i took the boys to see the mandalore mandalore and grogo i sat"
+    },
+    {
+      "start": 2913.44,
+      "end": 2918.96,
+      "text": "on the like seventh row of the iMacs theater people liked the tv show right i watched one episode"
+    },
+    {
+      "start": 2918.96,
+      "end": 2922.48,
+      "text": "like i'm not gonna watch stories show sorry i watch for a season show right it was good yeah i think"
+    },
+    {
+      "start": 2922.48,
+      "end": 2926.88,
+      "text": "people are into it um but sitting up front in iMacs wasn't as better as i thought it was it was"
+    },
+    {
+      "start": 2926.88,
+      "end": 2933.6800000000003,
+      "text": "it was an inexperience right up no no i was afraid of that no it was it was not bad um the movie was"
+    },
+    {
+      "start": 2933.6800000000003,
+      "end": 2939.84,
+      "text": "the movie was so it did good business i think it did a hundred sixty million globally not terrible um"
+    },
+    {
+      "start": 2941.2000000000003,
+      "end": 2946.96,
+      "text": "and it was it was totally watchable kids loved it uh map out and he had a stat like"
+    },
+    {
+      "start": 2947.92,
+      "end": 2954.32,
+      "text": "i think it was like 70% of all tickets were sold before 5 pm it was like a heavy a heavy kids audience"
+    },
+    {
+      "start": 2955.04,
+      "end": 2959.44,
+      "text": "now i don't watch mandal so i don't know if this is an extension of the show i'm guessing it is"
+    },
+    {
+      "start": 2960.1600000000003,
+      "end": 2964.7200000000003,
+      "text": "it just was like why you know like it was just that's what i was gonna say why do we need this"
+    },
+    {
+      "start": 2964.7200000000003,
+      "end": 2969.1200000000003,
+      "text": "yeah it was the movie was like fine it was watchable was i didn't fall asleep actually i did once"
+    },
+    {
+      "start": 2969.84,
+      "end": 2973.92,
+      "text": "but um it just didn't move the plot forward like this is the best they got it's been"
+    },
+    {
+      "start": 2974.56,
+      "end": 2980.6400000000003,
+      "text": "seven years john favre it's been seven years since we had a star wars movie and this was it it was just"
+    },
+    {
+      "start": 2980.8799999999997,
+      "end": 2984.7999999999997,
+      "text": "like it just felt like like like marvel did this shit and got it out of the system like it's"
+    },
+    {
+      "start": 2984.7999999999997,
+      "end": 2988.48,
+      "text": "over we're not doing these movies anymore but uh i guess we're still doing them it was kind of"
+    },
+    {
+      "start": 2988.48,
+      "end": 2993.3599999999997,
+      "text": "depressing the isn't he's gonna squeeze the last bit of that toothpaste tube for as long as they"
+    },
+    {
+      "start": 2993.3599999999997,
+      "end": 3002.4,
+      "text": "can yes they are Ben um nobody's buying dad books Ben what is that a dad books like World War 2"
+    },
+    {
+      "start": 3002.48,
+      "end": 3007.04,
+      "text": "biographies so charnau's most recent biography of mark twain"
+    },
+    {
+      "start": 3008.48,
+      "end": 3014.48,
+      "text": "uh which was published in time for file this day 2025 has sold 119,000 hardcover copies to date"
+    },
+    {
+      "start": 3015.6,
+      "end": 3022.0,
+      "text": "ulysses which i wrote in 2017 sold that one too in one thousand speaking of dad books so"
+    },
+    {
+      "start": 3022.0,
+      "end": 3026.8,
+      "text": "wait they they need him because these biographies are too long no one has time to read 900 pages on"
+    },
+    {
+      "start": 3026.8,
+      "end": 3035.36,
+      "text": "someone's third cousin sorry nobody too much um i always stroke i'm not a big gift giver i'm not"
+    },
+    {
+      "start": 3035.36,
+      "end": 3039.2000000000003,
+      "text": "i'm a bad gift giver i'm not a big gift giver but i love you know i love giving gifts i just don't"
+    },
+    {
+      "start": 3039.2000000000003,
+      "end": 3043.2000000000003,
+      "text": "know how to do it great it's an anti birthday guy i'm obviously not good at it okay"
+    },
+    {
+      "start": 3044.32,
+      "end": 3051.44,
+      "text": "so in a period of of being unlocked from this brick on instagram speaking of dad books"
+    },
+    {
+      "start": 3051.84,
+      "end": 3060.88,
+      "text": "i bought my dad a book um and this is reals right like this is this is reals monetization i bought"
+    },
+    {
+      "start": 3060.88,
+      "end": 3065.36,
+      "text": "my dad a book where it's like the first time you did this like like the shit that i don't know"
+    },
+    {
+      "start": 3065.36,
+      "end": 3069.92,
+      "text": "that i would love to know when he's not here one day hopefully far into the future and he'll he'll"
+    },
+    {
+      "start": 3069.92,
+      "end": 3073.6,
+      "text": "be able to fill it on give it to me i'm afraid of all these things all these are your parents"
+    },
+    {
+      "start": 3073.6,
+      "end": 3077.76,
+      "text": "essentially right yeah so it's like that but it's just done for you my dad just has to fill it out"
+    },
+    {
+      "start": 3077.76,
+      "end": 3083.1200000000003,
+      "text": "so i'm excited yeah it a lot of the stuff you just literally never asked before yeah and good"
+    },
+    {
+      "start": 3083.1200000000003,
+      "end": 3087.92,
+      "text": "for your kids too and things that are like you know uncomfortable that you probably would regret not"
+    },
+    {
+      "start": 3087.92,
+      "end": 3092.5600000000004,
+      "text": "asking not having asked before you know when it's too late yes you know i had an uncomfortable my"
+    },
+    {
+      "start": 3092.5600000000004,
+      "end": 3096.7200000000003,
+      "text": "conversation with my dad about six months ago i said giving all your stuff my dad's gonna be"
+    },
+    {
+      "start": 3096.7200000000003,
+      "end": 3100.7200000000003,
+      "text": "80 next year i said give me all your stuff everything i need to know where your accounts are i need"
+    },
+    {
+      "start": 3100.7200000000003,
+      "end": 3105.2000000000003,
+      "text": "to know your passwords i need to know your insurance i need to know more good stuff i need everything"
+    },
+    {
+      "start": 3105.2000000000003,
+      "end": 3110.0000000000005,
+      "text": "put it in one place for me if something happens to you i need that i'm good you know i i don't"
+    },
+    {
+      "start": 3110.0000000000005,
+      "end": 3115.6800000000003,
+      "text": "want to have to like go digging and looking for stuff did he do it he did it and he's an old school"
+    },
+    {
+      "start": 3115.6800000000003,
+      "end": 3122.88,
+      "text": "guy he um he handed it to be handwritten kind of piece of paper not not i went home i keep giving"
+    },
+    {
+      "start": 3122.88,
+      "end": 3127.84,
+      "text": "my dad crap on the show i went home last week and we were we were a big card playing family we love"
+    },
+    {
+      "start": 3127.84,
+      "end": 3130.7200000000003,
+      "text": "playing cards my kids old playing cards so we're playing cards we like listening to music playing"
+    },
+    {
+      "start": 3131.2000000000003,
+      "end": 3136.5600000000004,
+      "text": "having beer and uh my dad comes out with a sheet of paper with stuff written on it and he said"
+    },
+    {
+      "start": 3136.5600000000004,
+      "end": 3143.28,
+      "text": "Alexa play Beatles hard days night he wrote out his playlist and he's ever after every song is over"
+    },
+    {
+      "start": 3143.28,
+      "end": 3148.6400000000003,
+      "text": "he tell Alexa to play the next song it's a dad can i show you how to create a playlist he said no"
+    },
+    {
+      "start": 3148.6400000000003,
+      "end": 3152.5600000000004,
+      "text": "i don't want to do i'm just gonna i have my playlist here i'm gonna all right so every song he'd"
+    },
+    {
+      "start": 3152.5600000000004,
+      "end": 3160.4,
+      "text": "have to tell Alexa what to play my uncle uh it's cut from the same cloth he still uses and i"
+    },
+    {
+      "start": 3160.4,
+      "end": 3165.36,
+      "text": "think it's a joke at this point but like he would do it even if it wasn't a joke he uses weak"
+    },
+    {
+      "start": 3165.36,
+      "end": 3173.84,
+      "text": "at a glance which is the physical calendar it's like a pocket size calendar oh yes right it's"
+    },
+    {
+      "start": 3173.84,
+      "end": 3179.84,
+      "text": "always in his pocket right that's how he and he has an iPhone but he literally uses weak at a"
+    },
+    {
+      "start": 3179.84,
+      "end": 3184.96,
+      "text": "glance that's funny and i know he used to print out his portfolio every single day and you know"
+    },
+    {
+      "start": 3185.6,
+      "end": 3191.52,
+      "text": "some people are just uh stuck in their way there you go that's right Ben i want to ask you about"
+    },
+    {
+      "start": 3191.52,
+      "end": 3197.68,
+      "text": "this so i this article is not for me but it's for you the ice cold civil war between diet coke and"
+    },
+    {
+      "start": 3197.68,
+      "end": 3205.28,
+      "text": "coke zero drinkers so i i'm not a huge diet coke drinker i try not to drink a ton of soda but"
+    },
+    {
+      "start": 3205.28,
+      "end": 3211.28,
+      "text": "i drink it more than i would you know i probably have three cans a month ish ebbs and flows"
+    },
+    {
+      "start": 3211.36,
+      "end": 3218.0,
+      "text": "sometimes i drink it sometimes i don't i've never had coke zero oh my gosh it's it's i used to be a"
+    },
+    {
+      "start": 3218.0,
+      "end": 3223.2000000000003,
+      "text": "diet coke diet Pepsi drinker i go back and forth coke zero and Pepsi zero are so much better than"
+    },
+    {
+      "start": 3223.2000000000003,
+      "end": 3230.48,
+      "text": "diet coke diet Pepsi in what way they deflavor it tastes close to the regular versions it's so much"
+    },
+    {
+      "start": 3230.48,
+      "end": 3235.76,
+      "text": "better i can't it's hard to explain it's so i can see why the girl is happening in those those"
+    },
+    {
+      "start": 3235.76,
+      "end": 3240.5600000000004,
+      "text": "zero drinks they it tastes it tastes a lot better so diet coke sales increased by just"
+    },
+    {
+      "start": 3241.44,
+      "end": 3247.44,
+      "text": "uh 1.3 percent and the first nine months of 2025 coke zero grew by 4.8 percent of the same time period"
+    },
+    {
+      "start": 3247.44,
+      "end": 3254.2400000000002,
+      "text": "i'm a big zero guy i love it hmm so i drink now this is zero stuff i'll try it it's good you've my"
+    },
+    {
+      "start": 3254.2400000000002,
+      "end": 3259.28,
+      "text": "interests is peaked um all right retouch retied i don't know if i'm saying that right but that's"
+    },
+    {
+      "start": 3259.28,
+      "end": 3264.7200000000003,
+      "text": "the new shit the new hot shit from Eli Lilly phase three obesity trial just came it just came out"
+    },
+    {
+      "start": 3264.7200000000003,
+      "end": 3270.5600000000004,
+      "text": "and the results are genuinely insane 28.3 percent body weight loss on 12 milligrams over 80 weeks"
+    },
+    {
+      "start": 3270.5600000000004,
+      "end": 3278.1600000000003,
+      "text": "i don't know how much 12 milligrams is 70 pounds on average 70 pounds man people are heavy"
+    },
+    {
+      "start": 3279.36,
+      "end": 3283.92,
+      "text": "45 percent of patients hit 30 percent weight loss this is bariatric surgery territory"
+    },
+    {
+      "start": 3284.4800000000005,
+      "end": 3289.0400000000004,
+      "text": "on wheels we've solved weight loss what does this mean for the health of this country it's we've"
+    },
+    {
+      "start": 3289.52,
+      "end": 3295.7599999999998,
+      "text": "got doctors should be handing this out to every patient who has a BMI over X or uh like the"
+    },
+    {
+      "start": 3296.72,
+      "end": 3303.52,
+      "text": "savings on heart disease and it's unbelievable so i yeah i just said yeah like yeah they should do"
+    },
+    {
+      "start": 3303.52,
+      "end": 3307.44,
+      "text": "it i literally know nothing about medicine uh i'm the last person that should be giving medical"
+    },
+    {
+      "start": 3307.44,
+      "end": 3315.68,
+      "text": "advice i have um i am like a hypercountry like about death because my mom died young i think about"
+    },
+    {
+      "start": 3315.6800000000003,
+      "end": 3319.92,
+      "text": "death a lot and i just think that i'm gonna die young which is not the greatest feeling in the world"
+    },
+    {
+      "start": 3320.9600000000005,
+      "end": 3328.4800000000005,
+      "text": "so i did a blood test there's a company called function health that i found through"
+    },
+    {
+      "start": 3328.4800000000005,
+      "end": 3333.5200000000004,
+      "text": "somebody's sub-stack that i that i like uh it's a you know what this is probably overdue for me"
+    },
+    {
+      "start": 3334.9600000000005,
+      "end": 3341.5200000000004,
+      "text": "so i got like 96 different blood tests um and i signed up for like the cancer the pre-crancer"
+    },
+    {
+      "start": 3341.6,
+      "end": 3347.12,
+      "text": "screening the heart stuff that is not cheap it's like it was like 14 or 1500 bucks um certainly cheaper"
+    },
+    {
+      "start": 3347.12,
+      "end": 3351.7599999999998,
+      "text": "than than than dying or i like there's no amount of money i wouldn't pay to know that to know that"
+    },
+    {
+      "start": 3351.7599999999998,
+      "end": 3356.8,
+      "text": "i'm either whatever on the right track or not or if i need to course correct i hate giving blood"
+    },
+    {
+      "start": 3357.68,
+      "end": 3364.24,
+      "text": "not a fan it was 12 vials not fun do you get like squeamish about it not really i just don't like"
+    },
+    {
+      "start": 3364.24,
+      "end": 3370.48,
+      "text": "it but it was it was it was over fairly quickly anyhow um so i got the results and my biological"
+    },
+    {
+      "start": 3370.48,
+      "end": 3383.2,
+      "text": "age band would you like to take a guess 40 30.8 okay now my my my biological back age is 75"
+    },
+    {
+      "start": 3383.2,
+      "end": 3388.96,
+      "text": "sure but 30.8 made me feel pretty pretty good there was like there was four things that were like"
+    },
+    {
+      "start": 3388.96,
+      "end": 3395.76,
+      "text": "on the upper range of borderline like borderline out of out of range uh and it was like this is like"
+    },
+    {
+      "start": 3396.7200000000003,
+      "end": 3400.88,
+      "text": "and it was like diet stuff stuff that you control but uh but i shouldn't spike the football just"
+    },
+    {
+      "start": 3400.88,
+      "end": 3403.76,
+      "text": "yet in fact i probably shouldn't even be mentioned this because i haven't gotten the results"
+    },
+    {
+      "start": 3403.76,
+      "end": 3408.1600000000003,
+      "text": "for like the pre-cancer stuff which is the stuff that is especially like prevalent in my family"
+    },
+    {
+      "start": 3408.1600000000003,
+      "end": 3412.1600000000003,
+      "text": "and you have to do this like once a year now it's a good question that i don't know"
+    },
+    {
+      "start": 3412.96,
+      "end": 3417.6000000000004,
+      "text": "okay so if you take your internal clock versus your hairline average it out"
+    },
+    {
+      "start": 3417.6000000000004,
+      "end": 3422.0800000000004,
+      "text": "you'll write it where you should be right that was that that was a positive surprise"
+    },
+    {
+      "start": 3422.08,
+      "end": 3426.24,
+      "text": "feel pretty good about that um all right recommendations Ben i took your advice and i listened"
+    },
+    {
+      "start": 3426.24,
+      "end": 3432.3199999999997,
+      "text": "to the Harris and Ford podcast which uh speaking of genetics his mother was Jewish i had no idea"
+    },
+    {
+      "start": 3432.3199999999997,
+      "end": 3439.92,
+      "text": "one of us um great pod you know what kind of annoys me not kind of it annoys me for whatever reason"
+    },
+    {
+      "start": 3439.92,
+      "end": 3445.04,
+      "text": "on Spotify there was no video for this and it's not there's some are they on Netflix"
+    },
+    {
+      "start": 3446.4,
+      "end": 3449.7599999999998,
+      "text": "oh maybe i don't know that's a good question i don't know i saw i saw there's there's a video"
+    },
+    {
+      "start": 3449.76,
+      "end": 3457.28,
+      "text": "version on youtube okay so what did you it's great so i after listening to the podcast so you"
+    },
+    {
+      "start": 3457.28,
+      "end": 3461.1200000000003,
+      "text": "know what i watched the first season of shrinking it was a show i liked i didn't love i'm gonna i need"
+    },
+    {
+      "start": 3461.1200000000003,
+      "end": 3464.96,
+      "text": "it as a background show and i realize maybe i already made this observation bill Lawrence is the"
+    },
+    {
+      "start": 3464.96,
+      "end": 3472.7200000000003,
+      "text": "Taylor Sheridan of comedies so he's got he's got shrinking bad monkey rooster ted lasso he did"
+    },
+    {
+      "start": 3472.7200000000003,
+      "end": 3477.28,
+      "text": "this grubs remake we watched that all these which was which was bad monkey the vince van one"
+    },
+    {
+      "start": 3477.6800000000003,
+      "end": 3483.36,
+      "text": "oh i didn't watch that no none of them are great they're all good though yeah like we there's"
+    },
+    {
+      "start": 3483.36,
+      "end": 3487.0400000000004,
+      "text": "no comedies anymore so it's nice to just have it's a background show you don't have to like pay"
+    },
+    {
+      "start": 3487.0400000000004,
+      "end": 3490.6400000000003,
+      "text": "attention to every scene so i put it in the background while i'm doing stuff at night e-nails"
+    },
+    {
+      "start": 3490.6400000000003,
+      "end": 3500.1600000000003,
+      "text": "and catching up on stuff um it is a good background show uh oh obsession which is a hardcore"
+    },
+    {
+      "start": 3500.1600000000003,
+      "end": 3503.84,
+      "text": "Michael movie i haven't seen it yet you might have heard about this kind of you heard about this yet"
+    },
+    {
+      "start": 3504.56,
+      "end": 3510.48,
+      "text": "no it's one of those indie horror movies it's on fire okay i think it passed a hundred million"
+    },
+    {
+      "start": 3510.48,
+      "end": 3517.2000000000003,
+      "text": "of the box up so it's going to movies are movie what you have seen it i know i saw a trailer for it i'm"
+    },
+    {
+      "start": 3517.2000000000003,
+      "end": 3523.44,
+      "text": "not gonna watch horror movies you know that i know you don't movies are having a moment so much so"
+    },
+    {
+      "start": 3523.44,
+      "end": 3530.2400000000002,
+      "text": "that one of the stocks that i've owned for a lot for a long time in michael years is i max"
+    },
+    {
+      "start": 3530.5600000000004,
+      "end": 3536.96,
+      "text": "there was reports that i max is uh might be getting some some offers we got a lot of"
+    },
+    {
+      "start": 3536.96,
+      "end": 3541.2000000000003,
+      "text": "congratulations are you gonna sell it are you gonna wait i'm not selling it wait for the bidding war"
+    },
+    {
+      "start": 3541.2000000000003,
+      "end": 3545.6000000000004,
+      "text": "okay uh i actually took your recommendation for a movie my wife and i watched remarkably bright"
+    },
+    {
+      "start": 3545.6000000000004,
+      "end": 3551.1200000000003,
+      "text": "creatures this week on a Netflix that's been Carlson movie it's so nice to have just a sweet movie"
+    },
+    {
+      "start": 3551.1200000000003,
+      "end": 3556.7200000000003,
+      "text": "that's the best way i can describe it was sweet it had like no ulterior motives no like cynicism"
+    },
+    {
+      "start": 3556.8,
+      "end": 3561.6800000000003,
+      "text": "just like a nice movie like and it was kind of surprising because it was in a lot of ways i"
+    },
+    {
+      "start": 3561.6800000000003,
+      "end": 3566.4800000000005,
+      "text": "don't i feel like i got a little like whoa a little chucked up maybe uh sali field still has it"
+    },
+    {
+      "start": 3566.4800000000005,
+      "end": 3570.88,
+      "text": "like i haven't seen her in something in forever she's still got it and i love bill polman son i love him"
+    },
+    {
+      "start": 3570.88,
+      "end": 3575.92,
+      "text": "he's he was in top gun maverick he was in the show with brioche on apple uh i think he's"
+    },
+    {
+      "start": 3575.92,
+      "end": 3580.1600000000003,
+      "text": "gonna be a great character actor he's yeah he looks different everything he does he's like i"
+    },
+    {
+      "start": 3580.1600000000003,
+      "end": 3585.6000000000004,
+      "text": "sali field like still has it um yeah it's just it's just a nice movie it's just awesome"
+    },
+    {
+      "start": 3585.6,
+      "end": 3591.36,
+      "text": "not that's that's a nice movie like didn't have any like yeah i need other agendas besides just"
+    },
+    {
+      "start": 3591.36,
+      "end": 3595.6,
+      "text": "being a nice sweet movie i really liked it it was pretty good one for Netflix really good for"
+    },
+    {
+      "start": 3595.6,
+      "end": 3603.68,
+      "text": "Netflix yeah all right i believe that's it son of shining that's good sky hasn't been following for"
+    },
+    {
+      "start": 3603.68,
+      "end": 3609.12,
+      "text": "a while as far as the markets go someone said that i'm like the dad when i say like whenever we do get"
+    },
+    {
+      "start": 3609.12,
+      "end": 3614.4,
+      "text": "a correction i'm gonna i'm gonna walk out like when after rains that uh we do that that's going"
+    },
+    {
+      "start": 3614.4,
+      "end": 3618.88,
+      "text": "me after correction we just can't find other correction but i agree we do need one i'm with you"
+    },
+    {
+      "start": 3618.96,
+      "end": 3625.28,
+      "text": "nine percent it's nothing all right analyst beards at the compound news.com"
+    },
+    {
+      "start": 3625.84,
+      "end": 3637.12,
+      "text": "personally most personal responses see you next time"
+    },
+    {
+      "start": 3637.68,
+      "end": 3639.68,
+      "text": "you"
+    },
+    {
+      "start": 3643.68,
+      "end": 3648.72,
+      "text": "visible puts the ultimate wireless hack in the palm of your hand you get unlimited 5G data"
+    },
+    {
+      "start": 3648.72,
+      "end": 3655.3599999999997,
+      "text": "and hotspot designed to keep you connected all powered by Verizon's 5G network plan start at"
+    },
+    {
+      "start": 3655.3599999999997,
+      "end": 3662.3199999999997,
+      "text": "$25 a month or get the premium visible plus pro plan and save $10 on your first month with promo"
+    },
+    {
+      "start": 3662.32,
+      "end": 3668.1600000000003,
+      "text": "code hack top the banner to switch today terms apply see visible.com for plan features and network"
+    },
+    {
+      "start": 3668.1600000000003,
+      "end": 3671.28,
+      "text": "management details"
+    }
+  ]
+}

@@ -1,0 +1,4646 @@
+{
+  "id": "0956017edb06d988",
+  "show": "No Priors",
+  "theme": "Tech & AI",
+  "title": "We Need An Ecosystem in AI, And Every Company Can Win A Place In It",
+  "audio_url": "https://traffic.megaphone.fm/PDP8130248763.mp3",
+  "source": "local-whisper",
+  "duration": 2538.8,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "The world is going to be very skeptical of tech and tech companies."
+    },
+    {
+      "start": 4.16,
+      "end": 6.36,
+      "text": "That's a trust us, we've got it."
+    },
+    {
+      "start": 6.36,
+      "end": 7.88,
+      "text": "The future is going to be glorious."
+    },
+    {
+      "start": 7.88,
+      "end": 12.32,
+      "text": "You kind of have to deliver tangible benefits"
+    },
+    {
+      "start": 12.32,
+      "end": 13.92,
+      "text": "because it's too important this time around."
+    },
+    {
+      "start": 13.92,
+      "end": 16.68,
+      "text": "It's too much of the economy for it not to be the case."
+    },
+    {
+      "start": 16.68,
+      "end": 19.64,
+      "text": "True ambition is about making the impossible possible."
+    },
+    {
+      "start": 19.64,
+      "end": 22.04,
+      "text": "I take great inspiration from sort of the people"
+    },
+    {
+      "start": 22.04,
+      "end": 24.04,
+      "text": "who were managing the Azure network."
+    },
+    {
+      "start": 24.04,
+      "end": 27.400000000000002,
+      "text": "We built in the last 15 months more Azure capacity"
+    },
+    {
+      "start": 27.400000000000002,
+      "end": 29.36,
+      "text": "than we built in the first 15 years."
+    },
+    {
+      "start": 29.36,
+      "end": 30.4,
+      "text": "I mean, it's crazy."
+    },
+    {
+      "start": 30.4,
+      "end": 32.68,
+      "text": "Our job is not to do Azure networking."
+    },
+    {
+      "start": 32.68,
+      "end": 35.12,
+      "text": "Our job is to build the agentic system"
+    },
+    {
+      "start": 35.12,
+      "end": 36.56,
+      "text": "that does Azure networking."
+    },
+    {
+      "start": 36.56,
+      "end": 38.76,
+      "text": "Right, the way to get to information,"
+    },
+    {
+      "start": 38.76,
+      "end": 40.24,
+      "text": "where to educate yourself,"
+    },
+    {
+      "start": 40.24,
+      "end": 43.2,
+      "text": "where to continuously keep yourself updated as changed so much."
+    },
+    {
+      "start": 43.2,
+      "end": 49.04,
+      "text": "Maybe the next big startup could be someone who builds a new university,"
+    },
+    {
+      "start": 49.04,
+      "end": 54.04,
+      "text": "a new pedagogy even of how to get someone to go through a curriculum"
+    },
+    {
+      "start": 54.04,
+      "end": 56.04,
+      "text": "and find economic opportunity."
+    },
+    {
+      "start": 56.04,
+      "end": 57.04,
+      "text": "That's highly valuable."
+    },
+    {
+      "start": 59.36,
+      "end": 60.36,
+      "text": "Thank you."
+    },
+    {
+      "start": 60.36,
+      "end": 61.36,
+      "text": "Thank you."
+    },
+    {
+      "start": 89.36,
+      "end": 91.36,
+      "text": "Hello, Sam."
+    },
+    {
+      "start": 91.36,
+      "end": 93.28,
+      "text": "I'm so excited to be here."
+    },
+    {
+      "start": 93.28,
+      "end": 98.84,
+      "text": "Welcome to a crossover episode of No Pires and Lanespace with Sa'tina Della."
+    },
+    {
+      "start": 98.84,
+      "end": 101.0,
+      "text": "Congratulations on an amazing build."
+    },
+    {
+      "start": 101.0,
+      "end": 102.0,
+      "text": "No, thank you so much."
+    },
+    {
+      "start": 102.0,
+      "end": 103.4,
+      "text": "And it's great to be with both of you."
+    },
+    {
+      "start": 103.4,
+      "end": 107.12,
+      "text": "I listened to both of you or both the podcasts all the time."
+    },
+    {
+      "start": 107.12,
+      "end": 108.08,
+      "text": "It's great to be on it."
+    },
+    {
+      "start": 108.08,
+      "end": 108.84,
+      "text": "Thank you so much."
+    },
+    {
+      "start": 108.84,
+      "end": 112.03999999999999,
+      "text": "So you're just talking about these amazing announcements"
+    },
+    {
+      "start": 112.03999999999999,
+      "end": 115.88,
+      "text": "from across the Microsoft estate all morning for, I think, three hours."
+    },
+    {
+      "start": 115.88,
+      "end": 119.28,
+      "text": "What is the most important reflection or takeaway you have?"
+    },
+    {
+      "start": 119.28,
+      "end": 126.68,
+      "text": "I'd say there are, perhaps the biggest one for me is,"
+    },
+    {
+      "start": 126.68,
+      "end": 131.36,
+      "text": "let's sort of conceptualize this more as an ecosystem play"
+    },
+    {
+      "start": 131.36,
+      "end": 135.08,
+      "text": "as opposed to a single model or even a single platform, right?"
+    },
+    {
+      "start": 135.08,
+      "end": 137.84,
+      "text": "I mean, yeah, whenever I, at least for me,"
+    },
+    {
+      "start": 137.84,
+      "end": 140.28,
+      "text": "having grown up at Microsoft, having seen whatever"
+    },
+    {
+      "start": 140.28,
+      "end": 146.28,
+      "text": "four major platform shifts, I sort of fall into that camp"
+    },
+    {
+      "start": 146.28,
+      "end": 150.52,
+      "text": "where a platform is defined by fundamentally its ability"
+    },
+    {
+      "start": 150.52,
+      "end": 152.52,
+      "text": "to create more value about the platform"
+    },
+    {
+      "start": 152.52,
+      "end": 154.84,
+      "text": "versus what's captured in the platform."
+    },
+    {
+      "start": 154.84,
+      "end": 157.88,
+      "text": "And so if you view what's happening right now,"
+    },
+    {
+      "start": 157.88,
+      "end": 160.92000000000002,
+      "text": "I think this morning's keynote was,"
+    },
+    {
+      "start": 160.92000000000002,
+      "end": 164.72,
+      "text": "how can any company, whether it's an AI and native company"
+    },
+    {
+      "start": 164.72,
+      "end": 167.28,
+      "text": "or a traditional enterprise company,"
+    },
+    {
+      "start": 167.28,
+      "end": 171.28,
+      "text": "participate as a first class participant,"
+    },
+    {
+      "start": 171.28,
+      "end": 175.36,
+      "text": "where they can point to AI they create, right?"
+    },
+    {
+      "start": 175.36,
+      "end": 178.96,
+      "text": "It's not that they don't use other people's AI, of course they will."
+    },
+    {
+      "start": 178.96,
+      "end": 182.16000000000003,
+      "text": "But to me, what's the path, what's the recipe,"
+    },
+    {
+      "start": 182.16000000000003,
+      "end": 184.32000000000002,
+      "text": "how do I do it, what does the stack look like,"
+    },
+    {
+      "start": 184.32000000000002,
+      "end": 186.92000000000002,
+      "text": "what does the tooling look like, what is valuable,"
+    },
+    {
+      "start": 186.92000000000002,
+      "end": 188.32000000000002,
+      "text": "how do you do that, that's it."
+    },
+    {
+      "start": 188.32000000000002,
+      "end": 190.16000000000003,
+      "text": "That's sort of a job to do."
+    },
+    {
+      "start": 191.60000000000002,
+      "end": 192.56,
+      "text": "Yeah."
+    },
+    {
+      "start": 192.56,
+      "end": 195.88000000000002,
+      "text": "Ecosystems strategy is very complicated, right?"
+    },
+    {
+      "start": 195.88000000000002,
+      "end": 198.24,
+      "text": "Because you end up building certain components,"
+    },
+    {
+      "start": 198.24,
+      "end": 200.48000000000002,
+      "text": "partnering for certain components, supporting them."
+    },
+    {
+      "start": 200.48000000000002,
+      "end": 202.84,
+      "text": "You just announce this big suite of models,"
+    },
+    {
+      "start": 203.08,
+      "end": 206.88,
+      "text": "tell us a little bit about the training strategy for Microsoft."
+    },
+    {
+      "start": 206.88,
+      "end": 211.16,
+      "text": "Yeah, so the thing that we wanted to do with the MAI models"
+    },
+    {
+      "start": 211.16,
+      "end": 214.76,
+      "text": "was to build, and as Mustafa talked about,"
+    },
+    {
+      "start": 214.76,
+      "end": 217.12,
+      "text": "first of all, a great lineage, right?"
+    },
+    {
+      "start": 217.12,
+      "end": 219.92000000000002,
+      "text": "Starting with pre-training,"
+    },
+    {
+      "start": 219.92000000000002,
+      "end": 223.28,
+      "text": "with very good data quality,"
+    },
+    {
+      "start": 223.28,
+      "end": 225.52,
+      "text": "doing all the abilitions, making sure,"
+    },
+    {
+      "start": 225.52,
+      "end": 228.32,
+      "text": "because in some sense it's becoming even harder"
+    },
+    {
+      "start": 228.32,
+      "end": 230.52,
+      "text": "to build a clean lineage model,"
+    },
+    {
+      "start": 230.52,
+      "end": 233.68,
+      "text": "just because there's so much stuff out there"
+    },
+    {
+      "start": 233.68,
+      "end": 236.08,
+      "text": "that you truly need to ablate out"
+    },
+    {
+      "start": 236.08,
+      "end": 238.4,
+      "text": "to be able to have a fantastic pre-trained model."
+    },
+    {
+      "start": 238.4,
+      "end": 239.76000000000002,
+      "text": "In fact, that's one of the challenges"
+    },
+    {
+      "start": 239.76000000000002,
+      "end": 241.68,
+      "text": "of a lot of the open-rate models is,"
+    },
+    {
+      "start": 241.68,
+      "end": 244.52,
+      "text": "they look great on one benchmark or two,"
+    },
+    {
+      "start": 244.52,
+      "end": 246.24,
+      "text": "but they're not great on practice."
+    },
+    {
+      "start": 246.24,
+      "end": 249.08,
+      "text": "So that's why, in fact, even in the RFDs"
+    },
+    {
+      "start": 249.08,
+      "end": 253.96,
+      "text": "are pretty gone really excited about these MAI models,"
+    },
+    {
+      "start": 253.96,
+      "end": 259.08000000000004,
+      "text": "because how the heck can a small 5B model peel climb?"
+    },
+    {
+      "start": 259.08,
+      "end": 260.8,
+      "text": "And it goes back a little bit to"
+    },
+    {
+      "start": 260.8,
+      "end": 263.96,
+      "text": "what I think is ultimately the key thing to do,"
+    },
+    {
+      "start": 263.96,
+      "end": 267.96,
+      "text": "which is try to pursue finding that cognitive core."
+    },
+    {
+      "start": 267.96,
+      "end": 270.88,
+      "text": "So to me, starting with a clean lineage,"
+    },
+    {
+      "start": 270.88,
+      "end": 275.12,
+      "text": "then creating that ability for companies"
+    },
+    {
+      "start": 275.12,
+      "end": 277.32,
+      "text": "to be able to use this, right?"
+    },
+    {
+      "start": 277.32,
+      "end": 279.15999999999997,
+      "text": "Not just as a generalist,"
+    },
+    {
+      "start": 279.15999999999997,
+      "end": 281.91999999999996,
+      "text": "but to create their own specialist"
+    },
+    {
+      "start": 281.91999999999996,
+      "end": 285.24,
+      "text": "by building this hill climbing scaffold around it, right?"
+    },
+    {
+      "start": 285.24,
+      "end": 287.08,
+      "text": "So it's not just the model,"
+    },
+    {
+      "start": 287.08,
+      "end": 289.35999999999996,
+      "text": "but you have a hill climb scaffold around it,"
+    },
+    {
+      "start": 289.35999999999996,
+      "end": 292.59999999999997,
+      "text": "then you will start building your RLE."
+    },
+    {
+      "start": 292.59999999999997,
+      "end": 294.35999999999996,
+      "text": "You will start collecting the traces."
+    },
+    {
+      "start": 294.35999999999996,
+      "end": 296.12,
+      "text": "Most importantly, you'll have private e-walls"
+    },
+    {
+      "start": 296.12,
+      "end": 298.35999999999996,
+      "text": "because we know all the e-walls out there are good,"
+    },
+    {
+      "start": 298.35999999999996,
+      "end": 301.91999999999996,
+      "text": "interesting, but they're not really that good at work"
+    },
+    {
+      "start": 301.91999999999996,
+      "end": 303.79999999999995,
+      "text": "at this point because they're all can be maxed."
+    },
+    {
+      "start": 303.79999999999995,
+      "end": 305.44,
+      "text": "And so the point is, each company will have"
+    },
+    {
+      "start": 305.44,
+      "end": 307.08,
+      "text": "its own private e-wall."
+    },
+    {
+      "start": 307.08,
+      "end": 312.08,
+      "text": "And so that end-to-end platform story around our models"
+    },
+    {
+      "start": 313.15999999999997,
+      "end": 315.71999999999997,
+      "text": "is sort of what I think is interesting."
+    },
+    {
+      "start": 315.72,
+      "end": 317.12,
+      "text": "And then the one other things that are interesting"
+    },
+    {
+      "start": 317.12,
+      "end": 318.72,
+      "text": "to you brought that up is,"
+    },
+    {
+      "start": 318.72,
+      "end": 320.8,
+      "text": "I do feel there's a new frontier,"
+    },
+    {
+      "start": 320.8,
+      "end": 322.28000000000003,
+      "text": "like people talk about the frontier"
+    },
+    {
+      "start": 322.28000000000003,
+      "end": 323.92,
+      "text": "and you're operating at the frontier."
+    },
+    {
+      "start": 325.0,
+      "end": 329.08000000000004,
+      "text": "Interestingly enough, if you add a little temporality to it,"
+    },
+    {
+      "start": 329.08000000000004,
+      "end": 331.40000000000003,
+      "text": "you can use, let's say, in fact,"
+    },
+    {
+      "start": 331.40000000000003,
+      "end": 334.0,
+      "text": "the Landel-Legs demo he showed was pretty cool."
+    },
+    {
+      "start": 334.0,
+      "end": 336.28000000000003,
+      "text": "We used whatever, GPT-5.5, right?"
+    },
+    {
+      "start": 336.28000000000003,
+      "end": 338.32000000000005,
+      "text": "Then you collected a bunch of traces,"
+    },
+    {
+      "start": 338.32000000000005,
+      "end": 341.68,
+      "text": "and then you took a 5B reasoning model and achieved higher."
+    },
+    {
+      "start": 342.72,
+      "end": 345.0,
+      "text": "So that is another aspect of what it means"
+    },
+    {
+      "start": 345.0,
+      "end": 347.04,
+      "text": "to operate at the frontier."
+    },
+    {
+      "start": 348.12,
+      "end": 351.6,
+      "text": "Yeah, I think, first of all, I have to congratulate you"
+    },
+    {
+      "start": 351.6,
+      "end": 353.52,
+      "text": "on basically building a front-end new lab"
+    },
+    {
+      "start": 353.52,
+      "end": 355.72,
+      "text": "inside of Microsoft in two years."
+    },
+    {
+      "start": 355.72,
+      "end": 358.56,
+      "text": "I'm wondering, you have all this AI strategy"
+    },
+    {
+      "start": 358.56,
+      "end": 359.56,
+      "text": "that you're rolling out."
+    },
+    {
+      "start": 359.56,
+      "end": 360.8,
+      "text": "Well, I'm wondering, what do you know now"
+    },
+    {
+      "start": 360.8,
+      "end": 363.2,
+      "text": "that you wish you would tell yourself two years ago,"
+    },
+    {
+      "start": 363.2,
+      "end": 364.08,
+      "text": "or two or three years ago,"
+    },
+    {
+      "start": 364.08,
+      "end": 365.8,
+      "text": "three years for the Jensen partnership,"
+    },
+    {
+      "start": 365.8,
+      "end": 367.64,
+      "text": "two years for MEI?"
+    },
+    {
+      "start": 367.64,
+      "end": 371.96,
+      "text": "Yeah, I mean, I think the thing that I reflect quite a bit,"
+    },
+    {
+      "start": 371.96,
+      "end": 374.0,
+      "text": "which is sort of obviously I got into all this"
+    },
+    {
+      "start": 374.0,
+      "end": 377.0,
+      "text": "even I got excited by the disgating laws paper"
+    },
+    {
+      "start": 377.0,
+      "end": 379.88,
+      "text": "and even the Open AI partnership came about"
+    },
+    {
+      "start": 379.88,
+      "end": 381.92,
+      "text": "when those folks said, hey, we're gonna really throw"
+    },
+    {
+      "start": 381.92,
+      "end": 385.48,
+      "text": "a lot of computer transformers, and they've helped."
+    },
+    {
+      "start": 385.48,
+      "end": 387.64,
+      "text": "The thing that I always low back and say, wow,"
+    },
+    {
+      "start": 387.64,
+      "end": 392.64,
+      "text": "these things do have capability that they're climbing up."
+    },
+    {
+      "start": 392.64,
+      "end": 395.56,
+      "text": "I mean, this crude way of saying it"
+    },
+    {
+      "start": 395.56,
+      "end": 398.84,
+      "text": "is intelligence is log of compute kind of works."
+    },
+    {
+      "start": 398.84,
+      "end": 403.4,
+      "text": "Now, what I think we underestimated perhaps"
+    },
+    {
+      "start": 403.40000000000003,
+      "end": 407.84000000000003,
+      "text": "is the real world complexity of deploying these"
+    },
+    {
+      "start": 407.84000000000003,
+      "end": 411.96000000000004,
+      "text": "so that they actually deliver the value in the real world, right?"
+    },
+    {
+      "start": 411.96000000000004,
+      "end": 415.84000000000003,
+      "text": "So the outcomes as measured by any benchmark"
+    },
+    {
+      "start": 415.84000000000003,
+      "end": 419.96000000000004,
+      "text": "is interesting, important, but the true evil"
+    },
+    {
+      "start": 419.96000000000004,
+      "end": 423.52000000000004,
+      "text": "is when people out there are able to do unique things"
+    },
+    {
+      "start": 423.52000000000004,
+      "end": 428.52000000000004,
+      "text": "that they only can value, and it's very measurable, right?"
+    },
+    {
+      "start": 428.84000000000003,
+      "end": 433.28000000000003,
+      "text": "That I wish we had sort of even had more in our consciousness,"
+    },
+    {
+      "start": 433.28000000000003,
+      "end": 436.68,
+      "text": "which is as an industry, because right now I think,"
+    },
+    {
+      "start": 436.68,
+      "end": 439.64000000000004,
+      "text": "when people say, wow, I don't wanna token max,"
+    },
+    {
+      "start": 439.64000000000004,
+      "end": 443.28000000000003,
+      "text": "it's an artifact of us not having thought ourselves"
+    },
+    {
+      "start": 443.28000000000003,
+      "end": 446.32000000000005,
+      "text": "as an industry that we are using tokens"
+    },
+    {
+      "start": 446.32000000000005,
+      "end": 448.84000000000003,
+      "text": "to create value every step of the way."
+    },
+    {
+      "start": 448.84000000000003,
+      "end": 452.04,
+      "text": "So I think that's kind of what I wish we had gotten there,"
+    },
+    {
+      "start": 452.04,
+      "end": 453.28000000000003,
+      "text": "but I'm glad we are here."
+    },
+    {
+      "start": 453.28000000000003,
+      "end": 455.24,
+      "text": "What are some other use cases that you've seen"
+    },
+    {
+      "start": 455.24,
+      "end": 457.32000000000005,
+      "text": "that have created the most value for your customers?"
+    },
+    {
+      "start": 457.32000000000005,
+      "end": 459.68,
+      "text": "Because I know that people talk a lot about code,"
+    },
+    {
+      "start": 459.68,
+      "end": 460.68,
+      "text": "and I think it's pretty clear"
+    },
+    {
+      "start": 460.68,
+      "end": 463.08000000000004,
+      "text": "that that's something that's having very large skill impact,"
+    },
+    {
+      "start": 463.08,
+      "end": 464.91999999999996,
+      "text": "other areas that you can find in common"
+    },
+    {
+      "start": 464.91999999999996,
+      "end": 466.12,
+      "text": "that your customers are really benefit."
+    },
+    {
+      "start": 466.12,
+      "end": 470.4,
+      "text": "Yeah, I think to your point, obviously coding is now got,"
+    },
+    {
+      "start": 470.4,
+      "end": 471.64,
+      "text": "but it's interesting by the way,"
+    },
+    {
+      "start": 471.64,
+      "end": 473.68,
+      "text": "largest to even talk about the coding, right?"
+    },
+    {
+      "start": 473.68,
+      "end": 476.08,
+      "text": "Which is, coding has worked so well"
+    },
+    {
+      "start": 476.08,
+      "end": 478.24,
+      "text": "that we now have to rebuild the ID, right?"
+    },
+    {
+      "start": 478.24,
+      "end": 481.64,
+      "text": "I mean, it's kind of nuts to see what we launch is,"
+    },
+    {
+      "start": 481.64,
+      "end": 484.2,
+      "text": "like, oh my God, I have these 100-age in sessions."
+    },
+    {
+      "start": 484.2,
+      "end": 487.96,
+      "text": "The cognitive load it transfers back to me as a human"
+    },
+    {
+      "start": 487.96,
+      "end": 492.08,
+      "text": "is so excessive that now I need a new UI."
+    },
+    {
+      "start": 492.08,
+      "end": 496.76,
+      "text": "Oh, by the way, the chat as the only artifact"
+    },
+    {
+      "start": 496.76,
+      "end": 499.08,
+      "text": "is also impossible, so that's why we need a canvas."
+    },
+    {
+      "start": 499.08,
+      "end": 502.15999999999997,
+      "text": "So it's kind of interesting for all the things about"
+    },
+    {
+      "start": 502.15999999999997,
+      "end": 505.2,
+      "text": "where is software needed, or where is UI needed."
+    },
+    {
+      "start": 505.2,
+      "end": 507.28,
+      "text": "You kind of need that even for code, right?"
+    },
+    {
+      "start": 507.28,
+      "end": 509.47999999999996,
+      "text": "In a fully-agentic world."
+    },
+    {
+      "start": 509.47999999999996,
+      "end": 512.28,
+      "text": "But that said, one of the things that we are starting to see,"
+    },
+    {
+      "start": 512.28,
+      "end": 513.6,
+      "text": "we start seeing with co-work,"
+    },
+    {
+      "start": 513.6,
+      "end": 518.48,
+      "text": "but even some of the work we showed with auto-pilot, right,"
+    },
+    {
+      "start": 518.48,
+      "end": 520.8,
+      "text": "on what you see with clause is a good one,"
+    },
+    {
+      "start": 520.8,
+      "end": 525.16,
+      "text": "because if you sort of think about a lot of human capital"
+    },
+    {
+      "start": 525.16,
+      "end": 527.7199999999999,
+      "text": "is doing the glue work, right?"
+    },
+    {
+      "start": 527.7199999999999,
+      "end": 533.12,
+      "text": "If you now can augment that with tokens slash agents"
+    },
+    {
+      "start": 533.12,
+      "end": 536.16,
+      "text": "that are long-running, durable, right,"
+    },
+    {
+      "start": 536.16,
+      "end": 541.0,
+      "text": "then your ability to scale even what is still judgment"
+    },
+    {
+      "start": 541.0,
+      "end": 544.9599999999999,
+      "text": "and glue work gets amplified like coding does."
+    },
+    {
+      "start": 544.9599999999999,
+      "end": 548.04,
+      "text": "So you can, I'm positive that six months from now,"
+    },
+    {
+      "start": 548.04,
+      "end": 551.92,
+      "text": "we'll all be saying, oh wow, like all through the night,"
+    },
+    {
+      "start": 551.92,
+      "end": 555.0799999999999,
+      "text": "there was a bunch of stuff that all these auto pilots"
+    },
+    {
+      "start": 555.0799999999999,
+      "end": 557.0799999999999,
+      "text": "that I have working on my behalf"
+    },
+    {
+      "start": 557.0799999999999,
+      "end": 560.0799999999999,
+      "text": "with my delegated authority, so to speak, right?"
+    },
+    {
+      "start": 560.0799999999999,
+      "end": 563.88,
+      "text": "I can sort of give an even my identity, did a bunch of work."
+    },
+    {
+      "start": 563.88,
+      "end": 566.48,
+      "text": "Then, of course, I'll need my new ADE to say,"
+    },
+    {
+      "start": 566.48,
+      "end": 568.24,
+      "text": "what did you do?"
+    },
+    {
+      "start": 568.24,
+      "end": 569.92,
+      "text": "Did I do this work and so on?"
+    },
+    {
+      "start": 569.92,
+      "end": 573.92,
+      "text": "So I think that that's where compressing of workflows,"
+    },
+    {
+      "start": 573.92,
+      "end": 577.04,
+      "text": "completing of tasks, that's where I think a lot"
+    },
+    {
+      "start": 577.04,
+      "end": 577.88,
+      "text": "of the value gets created."
+    },
+    {
+      "start": 577.88,
+      "end": 579.36,
+      "text": "I think you raised a really interesting point,"
+    },
+    {
+      "start": 579.36,
+      "end": 581.88,
+      "text": "which is there's the actual agent is doing the code,"
+    },
+    {
+      "start": 581.88,
+      "end": 583.92,
+      "text": "and then there's the harness around it."
+    },
+    {
+      "start": 583.92,
+      "end": 586.36,
+      "text": "And that's the environment, that's the context,"
+    },
+    {
+      "start": 586.36,
+      "end": 587.92,
+      "text": "that's everything you're setting up as a developer"
+    },
+    {
+      "start": 587.92,
+      "end": 589.64,
+      "text": "around actually a coding agent."
+    },
+    {
+      "start": 589.64,
+      "end": 591.3199999999999,
+      "text": "What is the harness for the enterprise?"
+    },
+    {
+      "start": 591.3199999999999,
+      "end": 595.0,
+      "text": "Is there an equivalent concept for broader productivity work,"
+    },
+    {
+      "start": 595.0,
+      "end": 596.64,
+      "text": "or how do you think about that concept sort of?"
+    },
+    {
+      "start": 596.64,
+      "end": 598.1999999999999,
+      "text": "That's right, so in some sense,"
+    },
+    {
+      "start": 598.1999999999999,
+      "end": 602.92,
+      "text": "you kind of want the harness to define the models,"
+    },
+    {
+      "start": 602.92,
+      "end": 606.5999999999999,
+      "text": "the data, and the tools."
+    },
+    {
+      "start": 606.6,
+      "end": 609.36,
+      "text": "And so that you have a loop across those three."
+    },
+    {
+      "start": 609.36,
+      "end": 611.16,
+      "text": "And so what we are trying to, first of all,"
+    },
+    {
+      "start": 611.16,
+      "end": 614.28,
+      "text": "make sure is each of our products that we build, right?"
+    },
+    {
+      "start": 614.28,
+      "end": 615.6800000000001,
+      "text": "Whether it's get up co-pilot,"
+    },
+    {
+      "start": 615.6800000000001,
+      "end": 618.96,
+      "text": "or the security, the stuff we showed with M-dash,"
+    },
+    {
+      "start": 618.96,
+      "end": 621.76,
+      "text": "or even the discovery for science, it doesn't matter."
+    },
+    {
+      "start": 621.76,
+      "end": 626.76,
+      "text": "All of them are multimodal harnesses with tools access,"
+    },
+    {
+      "start": 627.32,
+      "end": 630.44,
+      "text": "so that you can do this progressive disclosure of tools"
+    },
+    {
+      "start": 630.44,
+      "end": 632.72,
+      "text": "even so that they're token efficient."
+    },
+    {
+      "start": 632.72,
+      "end": 636.4,
+      "text": "And then you're feeding it with very rich context,"
+    },
+    {
+      "start": 636.4,
+      "end": 639.0799999999999,
+      "text": "because that's sort of the other hard lesson"
+    },
+    {
+      "start": 639.0799999999999,
+      "end": 641.4399999999999,
+      "text": "we have learned in the last two years is,"
+    },
+    {
+      "start": 641.4399999999999,
+      "end": 645.1999999999999,
+      "text": "oh my god, the amount of work you need to do"
+    },
+    {
+      "start": 645.1999999999999,
+      "end": 648.0799999999999,
+      "text": "to prep the context layer,"
+    },
+    {
+      "start": 649.0,
+      "end": 653.56,
+      "text": "such that your plan can execute in the most efficient way"
+    },
+    {
+      "start": 653.56,
+      "end": 654.64,
+      "text": "is where the magic is."
+    },
+    {
+      "start": 654.64,
+      "end": 657.4399999999999,
+      "text": "So we have, in our case, we have the get up harness,"
+    },
+    {
+      "start": 657.4399999999999,
+      "end": 659.84,
+      "text": "which essentially we're using across all our products,"
+    },
+    {
+      "start": 659.84,
+      "end": 661.36,
+      "text": "it's available in Foundry,"
+    },
+    {
+      "start": 661.36,
+      "end": 664.4399999999999,
+      "text": "and we're open like you can use your Lama harness, whatever,"
+    },
+    {
+      "start": 664.44,
+      "end": 666.84,
+      "text": "or you can use the, you know,"
+    },
+    {
+      "start": 666.84,
+      "end": 669.4000000000001,
+      "text": "any open harness or any harness of yours"
+    },
+    {
+      "start": 669.4000000000001,
+      "end": 673.5200000000001,
+      "text": "and train with your tools and multiple models and your context."
+    },
+    {
+      "start": 673.5200000000001,
+      "end": 674.5200000000001,
+      "text": "And so that's the pitch,"
+    },
+    {
+      "start": 674.5200000000001,
+      "end": 677.0400000000001,
+      "text": "because right now a lot of dialogue is,"
+    },
+    {
+      "start": 677.0400000000001,
+      "end": 679.6400000000001,
+      "text": "hey, if I train the harness plus tools"
+    },
+    {
+      "start": 679.6400000000001,
+      "end": 682.24,
+      "text": "and the model together, you get evals."
+    },
+    {
+      "start": 682.24,
+      "end": 684.36,
+      "text": "And what we're proving out is,"
+    },
+    {
+      "start": 684.36,
+      "end": 688.12,
+      "text": "and the best example of that is what we did with M-dash, right?"
+    },
+    {
+      "start": 688.12,
+      "end": 690.48,
+      "text": "Because when it launched,"
+    },
+    {
+      "start": 690.48,
+      "end": 693.6800000000001,
+      "text": "it found bugs or vulnerabilities"
+    },
+    {
+      "start": 693.72,
+      "end": 695.4000000000001,
+      "text": "that were not found by Mithos."
+    },
+    {
+      "start": 696.6400000000001,
+      "end": 700.1600000000001,
+      "text": "And so there is existence proof, I would claim"
+    },
+    {
+      "start": 700.1600000000001,
+      "end": 703.6,
+      "text": "that you can have a multimodal harness"
+    },
+    {
+      "start": 703.6,
+      "end": 707.6,
+      "text": "that can in fact be more performant in the real world."
+    },
+    {
+      "start": 708.8000000000001,
+      "end": 712.2,
+      "text": "So premise behind the training"
+    },
+    {
+      "start": 712.2,
+      "end": 715.8000000000001,
+      "text": "at the independent frontier labs is really,"
+    },
+    {
+      "start": 715.8000000000001,
+      "end": 717.5600000000001,
+      "text": "we're gonna have these models"
+    },
+    {
+      "start": 717.5600000000001,
+      "end": 719.0000000000001,
+      "text": "and we'll have an API business"
+    },
+    {
+      "start": 719.0000000000001,
+      "end": 720.44,
+      "text": "and we'll support enterprises and startups,"
+    },
+    {
+      "start": 720.44,
+      "end": 722.96,
+      "text": "but a first-party product,"
+    },
+    {
+      "start": 722.96,
+      "end": 725.9200000000001,
+      "text": "be it productivity or code or search drives the majority"
+    },
+    {
+      "start": 725.9200000000001,
+      "end": 726.7600000000001,
+      "text": "of revenue."
+    },
+    {
+      "start": 726.7600000000001,
+      "end": 727.8000000000001,
+      "text": "That's a different value equation"
+    },
+    {
+      "start": 727.8000000000001,
+      "end": 729.0,
+      "text": "than you're describing."
+    },
+    {
+      "start": 729.0,
+      "end": 731.6,
+      "text": "I think with the Microsoft ecosystem,"
+    },
+    {
+      "start": 731.6,
+      "end": 733.9200000000001,
+      "text": "if that's the case, tell me if it's the case,"
+    },
+    {
+      "start": 733.9200000000001,
+      "end": 735.7600000000001,
+      "text": "because obviously you have first-party products"
+    },
+    {
+      "start": 735.7600000000001,
+      "end": 738.08,
+      "text": "and you have enablement products."
+    },
+    {
+      "start": 738.08,
+      "end": 739.36,
+      "text": "What is the role of the developed,"
+    },
+    {
+      "start": 739.36,
+      "end": 741.6400000000001,
+      "text": "like what's gonna be hard and the set of skills"
+    },
+    {
+      "start": 741.6400000000001,
+      "end": 743.8800000000001,
+      "text": "and the value capture the developer has in that world?"
+    },
+    {
+      "start": 743.8800000000001,
+      "end": 746.36,
+      "text": "Yeah, so I think that there's always gonna be the case"
+    },
+    {
+      "start": 746.36,
+      "end": 749.96,
+      "text": "that someone who is super successful"
+    },
+    {
+      "start": 749.96,
+      "end": 754.0400000000001,
+      "text": "in as a platform builder can also have first-party products."
+    },
+    {
+      "start": 754.0400000000001,
+      "end": 758.9200000000001,
+      "text": "It was true with Windows, it was true with the SaaS side"
+    },
+    {
+      "start": 758.9200000000001,
+      "end": 762.24,
+      "text": "and the Cloud side as well with us and others and so on."
+    },
+    {
+      "start": 762.24,
+      "end": 766.76,
+      "text": "But the thing that is, it should not be a limiter"
+    },
+    {
+      "start": 766.76,
+      "end": 769.36,
+      "text": "to other people achieving that same success."
+    },
+    {
+      "start": 769.36,
+      "end": 771.12,
+      "text": "That I think is the core difference"
+    },
+    {
+      "start": 771.12,
+      "end": 775.0,
+      "text": "which is the network effects this time around,"
+    },
+    {
+      "start": 775.0,
+      "end": 779.24,
+      "text": "around intelligence are such because they learn from data"
+    },
+    {
+      "start": 779.24,
+      "end": 781.24,
+      "text": "and not really lots of data."
+    },
+    {
+      "start": 781.24,
+      "end": 784.48,
+      "text": "It's just the few samples that you have to see"
+    },
+    {
+      "start": 784.48,
+      "end": 787.64,
+      "text": "to understand what's novel about something."
+    },
+    {
+      "start": 787.64,
+      "end": 791.72,
+      "text": "So that's why the game becomes how to protect."
+    },
+    {
+      "start": 791.72,
+      "end": 794.4,
+      "text": "So that's why I would say every company,"
+    },
+    {
+      "start": 794.4,
+      "end": 798.12,
+      "text": "having private e-walls, maybe the biggest IP, right?"
+    },
+    {
+      "start": 798.12,
+      "end": 800.44,
+      "text": "I think about it, like what's that private e-wall"
+    },
+    {
+      "start": 800.44,
+      "end": 802.6,
+      "text": "that you can then use even a frontier model"
+    },
+    {
+      "start": 802.6,
+      "end": 805.32,
+      "text": "to hill climb on and not leak the traces,"
+    },
+    {
+      "start": 805.32,
+      "end": 808.72,
+      "text": "maybe one of the biggest drivers of IP,"
+    },
+    {
+      "start": 809.08,
+      "end": 812.28,
+      "text": "so in other words, another asset test is"
+    },
+    {
+      "start": 812.28,
+      "end": 814.6,
+      "text": "you have an e-wall, that's private."
+    },
+    {
+      "start": 814.6,
+      "end": 817.72,
+      "text": "You're using a model A."
+    },
+    {
+      "start": 817.72,
+      "end": 822.72,
+      "text": "Can you switch it to model B and climb up?"
+    },
+    {
+      "start": 822.72,
+      "end": 825.0400000000001,
+      "text": "If you can, then you're in control."
+    },
+    {
+      "start": 825.0400000000001,
+      "end": 827.12,
+      "text": "If you can't, you're not in control"
+    },
+    {
+      "start": 827.12,
+      "end": 828.84,
+      "text": "and that's where even the harness decision"
+    },
+    {
+      "start": 828.84,
+      "end": 830.08,
+      "text": "becomes super important, right?"
+    },
+    {
+      "start": 830.08,
+      "end": 832.32,
+      "text": "So therefore, having an open harness,"
+    },
+    {
+      "start": 832.32,
+      "end": 835.8000000000001,
+      "text": "letting all models come in, having your e-walls,"
+    },
+    {
+      "start": 835.8000000000001,
+      "end": 839.5200000000001,
+      "text": "your contacts, your tools, help you hill climb."
+    },
+    {
+      "start": 839.5200000000001,
+      "end": 843.8000000000001,
+      "text": "I think is the skills that an AI native startup needs,"
+    },
+    {
+      "start": 843.8000000000001,
+      "end": 848.0000000000001,
+      "text": "a SaaS company needs, or every enterprise needs."
+    },
+    {
+      "start": 848.0000000000001,
+      "end": 849.6400000000001,
+      "text": "Yeah, I think in a very real way,"
+    },
+    {
+      "start": 849.6400000000001,
+      "end": 853.08,
+      "text": "your Microsoft historically is an operating systems company"
+    },
+    {
+      "start": 853.08,
+      "end": 854.7600000000001,
+      "text": "and then becoming a cloud company,"
+    },
+    {
+      "start": 854.7600000000001,
+      "end": 857.0000000000001,
+      "text": "maybe like the third act is that you're a harness"
+    },
+    {
+      "start": 857.0000000000001,
+      "end": 861.84,
+      "text": "or e-walls company, whatever the sort of conglomerate"
+    },
+    {
+      "start": 861.84,
+      "end": 864.0400000000001,
+      "text": "of concepts that you want to put together."
+    },
+    {
+      "start": 864.04,
+      "end": 866.3199999999999,
+      "text": "I think like enabling every company"
+    },
+    {
+      "start": 866.3199999999999,
+      "end": 868.3199999999999,
+      "text": "to have like frontier intelligence"
+    },
+    {
+      "start": 868.3199999999999,
+      "end": 871.36,
+      "text": "or what I've said the exact term that you use"
+    },
+    {
+      "start": 871.36,
+      "end": 873.12,
+      "text": "is the mission, right?"
+    },
+    {
+      "start": 873.12,
+      "end": 876.5999999999999,
+      "text": "That is the platform promise that you build with us,"
+    },
+    {
+      "start": 876.5999999999999,
+      "end": 879.1999999999999,
+      "text": "you will get your intelligence for your data."
+    },
+    {
+      "start": 879.1999999999999,
+      "end": 881.52,
+      "text": "That's right, to me, that is the,"
+    },
+    {
+      "start": 881.52,
+      "end": 885.0799999999999,
+      "text": "like if there was one tagline for this entire developer"
+    },
+    {
+      "start": 885.0799999999999,
+      "end": 890.12,
+      "text": "conferences, can everybody operate at the frontier"
+    },
+    {
+      "start": 890.12,
+      "end": 892.28,
+      "text": "with their frontier intelligence, right?"
+    },
+    {
+      "start": 892.28,
+      "end": 893.68,
+      "text": "To me, that is so important"
+    },
+    {
+      "start": 893.72,
+      "end": 896.9200000000001,
+      "text": "because otherwise, I don't know how you achieve"
+    },
+    {
+      "start": 896.9200000000001,
+      "end": 898.1600000000001,
+      "text": "stable equilibrium, right?"
+    },
+    {
+      "start": 898.1600000000001,
+      "end": 900.72,
+      "text": "Which is how do I then go and say,"
+    },
+    {
+      "start": 900.72,
+      "end": 903.8800000000001,
+      "text": "oh, my company is going to have a terminal value"
+    },
+    {
+      "start": 903.8800000000001,
+      "end": 907.84,
+      "text": "because I now know how to continuously compound"
+    },
+    {
+      "start": 907.84,
+      "end": 910.5600000000001,
+      "text": "on top of what's a platform that gets better, right?"
+    },
+    {
+      "start": 910.5600000000001,
+      "end": 913.7600000000001,
+      "text": "So when Windows obviously came out,"
+    },
+    {
+      "start": 913.7600000000001,
+      "end": 916.96,
+      "text": "Adobe built, Autodesk built,"
+    },
+    {
+      "start": 916.96,
+      "end": 918.8800000000001,
+      "text": "or even like take what Jensen said,"
+    },
+    {
+      "start": 918.88,
+      "end": 923.88,
+      "text": "we built DX and he built Kuda on top of it, right?"
+    },
+    {
+      "start": 924.28,
+      "end": 925.52,
+      "text": "I mean, I always say to Jensen,"
+    },
+    {
+      "start": 925.52,
+      "end": 927.36,
+      "text": "God, I got the shorn head of that, right?"
+    },
+    {
+      "start": 927.36,
+      "end": 929.4,
+      "text": "I wish we had recognized it,"
+    },
+    {
+      "start": 929.4,
+      "end": 931.76,
+      "text": "but nevertheless, but that idea"
+    },
+    {
+      "start": 931.76,
+      "end": 934.72,
+      "text": "that you can build a platform layer"
+    },
+    {
+      "start": 934.72,
+      "end": 938.0,
+      "text": "that someone else can then extend out"
+    },
+    {
+      "start": 938.0,
+      "end": 939.56,
+      "text": "and build their own intelligence layer"
+    },
+    {
+      "start": 939.56,
+      "end": 941.4399999999999,
+      "text": "in this case, I think is everything, right?"
+    },
+    {
+      "start": 941.4399999999999,
+      "end": 943.44,
+      "text": "Without it, why have a developer conference?"
+    },
+    {
+      "start": 943.44,
+      "end": 945.64,
+      "text": "I can just come and have you all sort of"
+    },
+    {
+      "start": 945.64,
+      "end": 948.36,
+      "text": "just worship at the altar of one model."
+    },
+    {
+      "start": 948.36,
+      "end": 950.4,
+      "text": "That's not a developer conference."
+    },
+    {
+      "start": 950.4,
+      "end": 953.96,
+      "text": "Backstage, we had a discussion about what is IP"
+    },
+    {
+      "start": 953.96,
+      "end": 955.52,
+      "text": "or what is the value in the company."
+    },
+    {
+      "start": 955.52,
+      "end": 958.12,
+      "text": "It used to be the length of human experience"
+    },
+    {
+      "start": 958.12,
+      "end": 958.96,
+      "text": "at the company."
+    },
+    {
+      "start": 958.96,
+      "end": 960.36,
+      "text": "And now it's this other thing,"
+    },
+    {
+      "start": 960.36,
+      "end": 961.84,
+      "text": "which is the evals,"
+    },
+    {
+      "start": 961.84,
+      "end": 965.28,
+      "text": "the experience in sort of applying agents to the company."
+    },
+    {
+      "start": 965.28,
+      "end": 966.24,
+      "text": "I just want you to like,"
+    },
+    {
+      "start": 966.24,
+      "end": 967.28,
+      "text": "fresh that all a bit, Marcus."
+    },
+    {
+      "start": 967.28,
+      "end": 968.96,
+      "text": "Yeah, it's a great way to frame it, right?"
+    },
+    {
+      "start": 968.96,
+      "end": 970.24,
+      "text": "Because at the end of the day,"
+    },
+    {
+      "start": 970.24,
+      "end": 973.5600000000001,
+      "text": "every company is going to have both the human capital"
+    },
+    {
+      "start": 973.5600000000001,
+      "end": 976.04,
+      "text": "that is still going to be super valuable"
+    },
+    {
+      "start": 976.04,
+      "end": 978.8,
+      "text": "because humans and their ability"
+    },
+    {
+      "start": 978.8,
+      "end": 983.12,
+      "text": "to find the gaps that exist at all times"
+    },
+    {
+      "start": 983.12,
+      "end": 985.5999999999999,
+      "text": "is going to be the way we all will create value, right?"
+    },
+    {
+      "start": 985.5999999999999,
+      "end": 987.3199999999999,
+      "text": "I mean, so I'm definitely in the camp"
+    },
+    {
+      "start": 987.3199999999999,
+      "end": 989.36,
+      "text": "that this is going to be about"
+    },
+    {
+      "start": 989.36,
+      "end": 993.3199999999999,
+      "text": "expressing new forms of human agency and ambition"
+    },
+    {
+      "start": 993.3199999999999,
+      "end": 995.7199999999999,
+      "text": "even as token capital goes up, right?"
+    },
+    {
+      "start": 995.7199999999999,
+      "end": 999.24,
+      "text": "So let's say any corporation has lots of tokens"
+    },
+    {
+      "start": 999.24,
+      "end": 1000.92,
+      "text": "and a lot of human capital."
+    },
+    {
+      "start": 1000.92,
+      "end": 1003.68,
+      "text": "The question is, how do you compound the two?"
+    },
+    {
+      "start": 1003.6800000000001,
+      "end": 1006.7600000000001,
+      "text": "So if you take in teams,"
+    },
+    {
+      "start": 1006.7600000000001,
+      "end": 1008.4000000000001,
+      "text": "I have a bunch of agents doing work"
+    },
+    {
+      "start": 1008.4000000000001,
+      "end": 1009.8800000000001,
+      "text": "and a bunch of humans doing work"
+    },
+    {
+      "start": 1009.8800000000001,
+      "end": 1012.1600000000001,
+      "text": "and the traces between those,"
+    },
+    {
+      "start": 1012.1600000000001,
+      "end": 1015.0400000000001,
+      "text": "that is really important context"
+    },
+    {
+      "start": 1015.0400000000001,
+      "end": 1018.08,
+      "text": "of how that enterprise is creating value."
+    },
+    {
+      "start": 1018.08,
+      "end": 1020.5600000000001,
+      "text": "Then that goes back to train,"
+    },
+    {
+      "start": 1020.5600000000001,
+      "end": 1022.32,
+      "text": "not a generalist model,"
+    },
+    {
+      "start": 1022.32,
+      "end": 1026.3600000000001,
+      "text": "but to train the company veteran agent, right?"
+    },
+    {
+      "start": 1026.3600000000001,
+      "end": 1028.6000000000001,
+      "text": "That is super valuable again, right?"
+    },
+    {
+      "start": 1028.6000000000001,
+      "end": 1030.0,
+      "text": "Which is when a company says,"
+    },
+    {
+      "start": 1030.0,
+      "end": 1032.0800000000002,
+      "text": "it should in fact go on to the balance sheet"
+    },
+    {
+      "start": 1032.0800000000002,
+      "end": 1033.24,
+      "text": "is how I think about it, right?"
+    },
+    {
+      "start": 1033.24,
+      "end": 1034.36,
+      "text": "That's so, in fact,"
+    },
+    {
+      "start": 1034.36,
+      "end": 1037.24,
+      "text": "they may be like human capital was never possible"
+    },
+    {
+      "start": 1037.24,
+      "end": 1039.68,
+      "text": "to go put on a balance sheet"
+    },
+    {
+      "start": 1039.68,
+      "end": 1042.44,
+      "text": "because you then know how to capture the passive knowledge."
+    },
+    {
+      "start": 1042.44,
+      "end": 1043.76,
+      "text": "But as now, I think you can"
+    },
+    {
+      "start": 1043.76,
+      "end": 1047.36,
+      "text": "with the agents that have learned through time,"
+    },
+    {
+      "start": 1047.36,
+      "end": 1049.36,
+      "text": "through all the traces,"
+    },
+    {
+      "start": 1049.36,
+      "end": 1051.68,
+      "text": "so that's what at least we think will happen."
+    },
+    {
+      "start": 1051.68,
+      "end": 1054.24,
+      "text": "I think the SEC is going to have to have accounting standards"
+    },
+    {
+      "start": 1054.24,
+      "end": 1056.52,
+      "text": "for token expertise."
+    },
+    {
+      "start": 1058.68,
+      "end": 1061.8,
+      "text": "You're talking about the equilibrium state"
+    },
+    {
+      "start": 1061.8,
+      "end": 1063.9199999999998,
+      "text": "and a stable equilibrium where companies"
+    },
+    {
+      "start": 1063.9199999999998,
+      "end": 1065.24,
+      "text": "have this compounding value"
+    },
+    {
+      "start": 1065.24,
+      "end": 1067.1599999999999,
+      "text": "and can see terminal value for themselves."
+    },
+    {
+      "start": 1067.1599999999999,
+      "end": 1071.44,
+      "text": "Another challenge to the considered equilibrium of,"
+    },
+    {
+      "start": 1071.44,
+      "end": 1074.48,
+      "text": "okay, there are applications and workflows"
+    },
+    {
+      "start": 1074.48,
+      "end": 1078.2,
+      "text": "that are sort of common to a vertical or horizontal."
+    },
+    {
+      "start": 1078.2,
+      "end": 1080.76,
+      "text": "And this was like the generation of SaaS companies"
+    },
+    {
+      "start": 1080.76,
+      "end": 1083.84,
+      "text": "and Microsoft has lots of SaaS properties as well."
+    },
+    {
+      "start": 1083.84,
+      "end": 1085.28,
+      "text": "And then there are things that are very specific"
+    },
+    {
+      "start": 1085.28,
+      "end": 1088.32,
+      "text": "to every enterprise that they're differentiated against."
+    },
+    {
+      "start": 1088.32,
+      "end": 1089.6,
+      "text": "I'm sure you have heard much"
+    },
+    {
+      "start": 1089.6,
+      "end": 1091.0,
+      "text": "and participated much of the debate"
+    },
+    {
+      "start": 1091.0,
+      "end": 1092.6,
+      "text": "about the end of software"
+    },
+    {
+      "start": 1092.6,
+      "end": 1096.28,
+      "text": "because all these workflows are cheap to generate now."
+    },
+    {
+      "start": 1096.28,
+      "end": 1097.88,
+      "text": "Do you think the equilibrium looks different"
+    },
+    {
+      "start": 1097.88,
+      "end": 1101.28,
+      "text": "between what agents get built in enterprises"
+    },
+    {
+      "start": 1101.28,
+      "end": 1103.52,
+      "text": "versus in their vendors in the future?"
+    },
+    {
+      "start": 1103.52,
+      "end": 1105.8,
+      "text": "Yeah, so I think what's happening there is see,"
+    },
+    {
+      "start": 1105.8,
+      "end": 1109.88,
+      "text": "we had a particular way we captured,"
+    },
+    {
+      "start": 1111.28,
+      "end": 1114.68,
+      "text": "I would say workflow in apps, right?"
+    },
+    {
+      "start": 1114.68,
+      "end": 1117.04,
+      "text": "Because we built a data model, right?"
+    },
+    {
+      "start": 1117.04,
+      "end": 1120.8,
+      "text": "We schematized some part of some business process."
+    },
+    {
+      "start": 1120.8,
+      "end": 1123.24,
+      "text": "We then built a bunch of business logic"
+    },
+    {
+      "start": 1123.24,
+      "end": 1125.6399999999999,
+      "text": "and then we put a bunch of UI on top of it, right?"
+    },
+    {
+      "start": 1125.6399999999999,
+      "end": 1127.44,
+      "text": "So that's kind of what every SaaS company"
+    },
+    {
+      "start": 1127.44,
+      "end": 1129.48,
+      "text": "and a little configuration for like 20 years,"
+    },
+    {
+      "start": 1129.48,
+      "end": 1130.32,
+      "text": "that was correct."
+    },
+    {
+      "start": 1130.32,
+      "end": 1131.68,
+      "text": "And that was it."
+    },
+    {
+      "start": 1131.68,
+      "end": 1134.6,
+      "text": "So interestingly enough, now you kind of get"
+    },
+    {
+      "start": 1134.6,
+      "end": 1137.2,
+      "text": "to relitigate that vertical stacking, right?"
+    },
+    {
+      "start": 1137.2,
+      "end": 1139.6399999999999,
+      "text": "So I still think, for example,"
+    },
+    {
+      "start": 1139.6399999999999,
+      "end": 1143.48,
+      "text": "that data model that you build underneath every SaaS application"
+    },
+    {
+      "start": 1143.48,
+      "end": 1145.08,
+      "text": "is super good, right?"
+    },
+    {
+      "start": 1145.08,
+      "end": 1146.28,
+      "text": "Like why reinvent it?"
+    },
+    {
+      "start": 1146.28,
+      "end": 1148.9199999999998,
+      "text": "Like my general ledger better be a general ledger."
+    },
+    {
+      "start": 1148.92,
+      "end": 1151.92,
+      "text": "I don't need new schema creation."
+    },
+    {
+      "start": 1151.92,
+      "end": 1154.8000000000002,
+      "text": "In fact, that entity relationship"
+    },
+    {
+      "start": 1154.8000000000002,
+      "end": 1158.6000000000001,
+      "text": "is actually pretty good robust thing that I want to feed."
+    },
+    {
+      "start": 1158.6000000000001,
+      "end": 1159.64,
+      "text": "And you want to be stable?"
+    },
+    {
+      "start": 1159.64,
+      "end": 1160.48,
+      "text": "That's right, yeah."
+    },
+    {
+      "start": 1160.48,
+      "end": 1162.8000000000002,
+      "text": "Then same thing with business logic, right?"
+    },
+    {
+      "start": 1162.8000000000002,
+      "end": 1166.48,
+      "text": "If you look at, we have this product called Power BI, right?"
+    },
+    {
+      "start": 1166.48,
+      "end": 1170.3200000000002,
+      "text": "It was like dashboards galore people created."
+    },
+    {
+      "start": 1170.3200000000002,
+      "end": 1172.64,
+      "text": "The beauty underneath that dashboard is"
+    },
+    {
+      "start": 1172.64,
+      "end": 1175.1200000000001,
+      "text": "a very rich semantic model, right?"
+    },
+    {
+      "start": 1175.1200000000001,
+      "end": 1178.8000000000002,
+      "text": "Someone took the pain to create a dashboard"
+    },
+    {
+      "start": 1178.8,
+      "end": 1180.8,
+      "text": "and do all the measures."
+    },
+    {
+      "start": 1180.8,
+      "end": 1183.44,
+      "text": "And you want that, that's business logic, right?"
+    },
+    {
+      "start": 1183.44,
+      "end": 1186.0,
+      "text": "I want that to be available to me."
+    },
+    {
+      "start": 1186.0,
+      "end": 1190.12,
+      "text": "So I think the challenge of the SaaS business model is"
+    },
+    {
+      "start": 1190.12,
+      "end": 1192.0,
+      "text": "we packaged one way."
+    },
+    {
+      "start": 1192.0,
+      "end": 1195.24,
+      "text": "We now have to learn how to unbundle these things"
+    },
+    {
+      "start": 1195.24,
+      "end": 1196.9199999999998,
+      "text": "and rebundle in new ways"
+    },
+    {
+      "start": 1196.9199999999998,
+      "end": 1198.8,
+      "text": "and discover new business models, right?"
+    },
+    {
+      "start": 1198.8,
+      "end": 1201.76,
+      "text": "I mean, if you look at it, what's happening today"
+    },
+    {
+      "start": 1201.76,
+      "end": 1204.68,
+      "text": "with Microsoft 365 is a great example, right?"
+    },
+    {
+      "start": 1204.68,
+      "end": 1206.48,
+      "text": "We have this thing called Work IQ."
+    },
+    {
+      "start": 1206.48,
+      "end": 1209.72,
+      "text": "In fact, what we are realizing is, oh my God,"
+    },
+    {
+      "start": 1209.72,
+      "end": 1212.72,
+      "text": "like if I look at it, in fact, there's a historical parallel"
+    },
+    {
+      "start": 1212.72,
+      "end": 1213.72,
+      "text": "to, right?"
+    },
+    {
+      "start": 1213.72,
+      "end": 1216.3600000000001,
+      "text": "We sold first exchange and SharePoint"
+    },
+    {
+      "start": 1216.3600000000001,
+      "end": 1219.72,
+      "text": "and before Teams, we had a thing called Link Server"
+    },
+    {
+      "start": 1219.72,
+      "end": 1220.68,
+      "text": "and what have you."
+    },
+    {
+      "start": 1220.68,
+      "end": 1222.52,
+      "text": "And we thought, oh, that's all going to move to the cloud."
+    },
+    {
+      "start": 1222.52,
+      "end": 1226.24,
+      "text": "But literally, we realized that the number of people"
+    },
+    {
+      "start": 1226.24,
+      "end": 1229.84,
+      "text": "who will use servers in the cloud is 10x, 100x, right?"
+    },
+    {
+      "start": 1229.84,
+      "end": 1231.28,
+      "text": "Because people were not buying servers."
+    },
+    {
+      "start": 1231.28,
+      "end": 1233.3600000000001,
+      "text": "They were just buying a subscription."
+    },
+    {
+      "start": 1233.3600000000001,
+      "end": 1236.08,
+      "text": "The same thing is now happening with M365"
+    },
+    {
+      "start": 1236.1599999999999,
+      "end": 1240.56,
+      "text": "because with Work IQ, we have exposed what is perhaps"
+    },
+    {
+      "start": 1240.56,
+      "end": 1243.0,
+      "text": "the most important database in a company"
+    },
+    {
+      "start": 1243.0,
+      "end": 1244.6399999999999,
+      "text": "that never got used as a database"
+    },
+    {
+      "start": 1244.6399999999999,
+      "end": 1247.76,
+      "text": "because it was only captive to our apps, right?"
+    },
+    {
+      "start": 1247.76,
+      "end": 1250.9199999999998,
+      "text": "It was all email operated on it, Teams operated on it,"
+    },
+    {
+      "start": 1250.9199999999998,
+      "end": 1252.56,
+      "text": "Word, Excel, PowerPoint, SharePoint."
+    },
+    {
+      "start": 1252.56,
+      "end": 1255.48,
+      "text": "But now, like, this is one of the coolest things"
+    },
+    {
+      "start": 1255.48,
+      "end": 1256.6399999999999,
+      "text": "I get to do with Work IQ."
+    },
+    {
+      "start": 1256.6399999999999,
+      "end": 1259.48,
+      "text": "I go to a GitHub repo and I say, hey,"
+    },
+    {
+      "start": 1259.48,
+      "end": 1262.6,
+      "text": "I attended a bunch of design meetings last week"
+    },
+    {
+      "start": 1262.6,
+      "end": 1264.1599999999999,
+      "text": "related to this repo."
+    },
+    {
+      "start": 1264.16,
+      "end": 1267.5600000000002,
+      "text": "Can you capture all that and tell me what changes I should make?"
+    },
+    {
+      "start": 1267.5600000000002,
+      "end": 1269.0800000000002,
+      "text": "I mean, think about that, right?"
+    },
+    {
+      "start": 1269.0800000000002,
+      "end": 1272.0,
+      "text": "It literally can go look at all those transcripts,"
+    },
+    {
+      "start": 1272.0,
+      "end": 1275.24,
+      "text": "come back with a plan to change a code base, right?"
+    },
+    {
+      "start": 1275.24,
+      "end": 1277.68,
+      "text": "Previously, you could never have thought of using"
+    },
+    {
+      "start": 1277.68,
+      "end": 1280.2,
+      "text": "M365 for something like that."
+    },
+    {
+      "start": 1280.2,
+      "end": 1283.44,
+      "text": "So the value creation opportunity now"
+    },
+    {
+      "start": 1283.44,
+      "end": 1286.24,
+      "text": "in the agent world is, in fact, 10x more."
+    },
+    {
+      "start": 1286.24,
+      "end": 1288.44,
+      "text": "But it does require us to have, for example,"
+    },
+    {
+      "start": 1288.44,
+      "end": 1291.1200000000001,
+      "text": "there's going to be usage around M365, right?"
+    },
+    {
+      "start": 1291.1200000000001,
+      "end": 1294.72,
+      "text": "Which is going to be, perhaps, more than even the end users."
+    },
+    {
+      "start": 1294.72,
+      "end": 1296.24,
+      "text": "And we have to even re-architect."
+    },
+    {
+      "start": 1296.24,
+      "end": 1300.1200000000001,
+      "text": "Like, in fact, like, what I use to serve an inbox"
+    },
+    {
+      "start": 1300.1200000000001,
+      "end": 1305.2,
+      "text": "or a mailbox cannot be used to serve an agent."
+    },
+    {
+      "start": 1305.2,
+      "end": 1307.1200000000001,
+      "text": "And so that's sort of what we're doing."
+    },
+    {
+      "start": 1307.1200000000001,
+      "end": 1310.0400000000002,
+      "text": "I don't believe in, like, permanent business models"
+    },
+    {
+      "start": 1310.0400000000002,
+      "end": 1311.48,
+      "text": "for any of these domains."
+    },
+    {
+      "start": 1311.48,
+      "end": 1313.4,
+      "text": "But in the near term, do you have a prediction"
+    },
+    {
+      "start": 1313.4,
+      "end": 1319.6000000000001,
+      "text": "between, you know, outcomes-based pricing, token-based pricing,"
+    },
+    {
+      "start": 1319.6000000000001,
+      "end": 1320.92,
+      "text": "enterprise bundles?"
+    },
+    {
+      "start": 1320.92,
+      "end": 1324.76,
+      "text": "Yeah, the way I think about this is, always we've had,"
+    },
+    {
+      "start": 1324.76,
+      "end": 1327.6000000000001,
+      "text": "like, let's even take the per-user pricing."
+    },
+    {
+      "start": 1327.6000000000001,
+      "end": 1332.72,
+      "text": "The per-user pricing is really an artifact of someone"
+    },
+    {
+      "start": 1332.72,
+      "end": 1335.48,
+      "text": "creating a budget needing certainty, right?"
+    },
+    {
+      "start": 1335.48,
+      "end": 1337.68,
+      "text": "Because it's the most important thing."
+    },
+    {
+      "start": 1337.68,
+      "end": 1339.44,
+      "text": "Like, somebody wants a budget."
+    },
+    {
+      "start": 1339.44,
+      "end": 1340.64,
+      "text": "They need a per-user."
+    },
+    {
+      "start": 1340.64,
+      "end": 1345.44,
+      "text": "And per-user is just a set of entitlements to usage, right?"
+    },
+    {
+      "start": 1345.44,
+      "end": 1346.52,
+      "text": "That's kind of what it is."
+    },
+    {
+      "start": 1346.52,
+      "end": 1349.48,
+      "text": "And so the way is, if the first bundling will be,"
+    },
+    {
+      "start": 1349.48,
+      "end": 1353.0,
+      "text": "take some usage, bundle it into per-user stacks,"
+    },
+    {
+      "start": 1353.0,
+      "end": 1354.92,
+      "text": "and then sell subscriptions."
+    },
+    {
+      "start": 1354.92,
+      "end": 1357.24,
+      "text": "So subscriptions, I think, are going to be there."
+    },
+    {
+      "start": 1357.24,
+      "end": 1358.68,
+      "text": "Per-user is going to be there."
+    },
+    {
+      "start": 1358.68,
+      "end": 1361.0,
+      "text": "Then the next big thing will be consumption."
+    },
+    {
+      "start": 1361.0,
+      "end": 1363.1200000000001,
+      "text": "So people will say, I want consumption."
+    },
+    {
+      "start": 1363.1200000000001,
+      "end": 1365.08,
+      "text": "And it's also possible that people will say,"
+    },
+    {
+      "start": 1365.08,
+      "end": 1367.3600000000001,
+      "text": "I don't even want to pay for any of the subscriptions"
+    },
+    {
+      "start": 1367.3600000000001,
+      "end": 1369.0,
+      "text": "or the consumption's outcome."
+    },
+    {
+      "start": 1369.0,
+      "end": 1371.84,
+      "text": "But remember, most people love outcomes"
+    },
+    {
+      "start": 1371.84,
+      "end": 1373.1200000000001,
+      "text": "until they have an outcome."
+    },
+    {
+      "start": 1373.1200000000001,
+      "end": 1374.4,
+      "text": "Because once you have an outcome,"
+    },
+    {
+      "start": 1374.4,
+      "end": 1376.2,
+      "text": "it's like giving away royalty, right?"
+    },
+    {
+      "start": 1376.2,
+      "end": 1377.8,
+      "text": "I mean, like, I've talked to customers"
+    },
+    {
+      "start": 1377.8,
+      "end": 1380.1599999999999,
+      "text": "who love, you know, outcome-based pricing."
+    },
+    {
+      "start": 1380.1599999999999,
+      "end": 1382.9199999999998,
+      "text": "And I say, I'm all in until they, oh my God."
+    },
+    {
+      "start": 1382.9199999999998,
+      "end": 1384.1599999999999,
+      "text": "Like, what are you talking about?"
+    },
+    {
+      "start": 1384.1599999999999,
+      "end": 1385.48,
+      "text": "You're sharing in my outcome?"
+    },
+    {
+      "start": 1385.48,
+      "end": 1386.32,
+      "text": "No, no, no, no."
+    },
+    {
+      "start": 1386.32,
+      "end": 1388.1599999999999,
+      "text": "I want you to go back to per-user pricing"
+    },
+    {
+      "start": 1388.1599999999999,
+      "end": 1389.76,
+      "text": "and I want you to consumption price, right?"
+    },
+    {
+      "start": 1389.76,
+      "end": 1392.52,
+      "text": "So I think that debate will go on."
+    },
+    {
+      "start": 1392.52,
+      "end": 1396.24,
+      "text": "And all of these business models have a particular time"
+    },
+    {
+      "start": 1396.24,
+      "end": 1399.8799999999999,
+      "text": "and a place versus one to rule them all."
+    },
+    {
+      "start": 1399.8799999999999,
+      "end": 1401.8799999999999,
+      "text": "And if anything, if you're a SaaS vendor"
+    },
+    {
+      "start": 1401.8799999999999,
+      "end": 1404.96,
+      "text": "or you're a platform vendor, having that flexibility"
+    },
+    {
+      "start": 1404.96,
+      "end": 1407.48,
+      "text": "and quite frankly, we face this with, get up, right?"
+    },
+    {
+      "start": 1407.48,
+      "end": 1410.88,
+      "text": "We just recently announced a per-user pricing on get up."
+    },
+    {
+      "start": 1410.88,
+      "end": 1413.28,
+      "text": "Because little, you know, get up,"
+    },
+    {
+      "start": 1413.28,
+      "end": 1417.32,
+      "text": "co-pilot was constructed at a per-user level"
+    },
+    {
+      "start": 1417.32,
+      "end": 1422.32,
+      "text": "before we understood even the intensity of usage of agents."
+    },
+    {
+      "start": 1422.52,
+      "end": 1424.4,
+      "text": "Right? There's an interactive way"
+    },
+    {
+      "start": 1424.4,
+      "end": 1427.92,
+      "text": "for a developer to use code complete, maybe task."
+    },
+    {
+      "start": 1427.92,
+      "end": 1431.6,
+      "text": "It was not like, oh, I launched 10,000, you know, agents"
+    },
+    {
+      "start": 1431.6,
+      "end": 1434.08,
+      "text": "that are going on all day, right?"
+    },
+    {
+      "start": 1434.08,
+      "end": 1436.6,
+      "text": "So that is what the adjustment is about."
+    },
+    {
+      "start": 1436.6000000000001,
+      "end": 1438.2,
+      "text": "So now that we really want,"
+    },
+    {
+      "start": 1438.2,
+      "end": 1440.0400000000002,
+      "text": "there will always be a per-user,"
+    },
+    {
+      "start": 1440.0400000000002,
+      "end": 1442.64,
+      "text": "but they will have to be a consumption meter."
+    },
+    {
+      "start": 1442.64,
+      "end": 1444.7600000000002,
+      "text": "How do you think about the durability of SaaS more generally?"
+    },
+    {
+      "start": 1444.7600000000002,
+      "end": 1448.44,
+      "text": "One thing I've observed is in a lot of enterprises internally,"
+    },
+    {
+      "start": 1448.44,
+      "end": 1451.0800000000002,
+      "text": "there will be teams that almost have agent euphoria."
+    },
+    {
+      "start": 1451.0800000000002,
+      "end": 1453.68,
+      "text": "They're so excited about the explosion of things they can build"
+    },
+    {
+      "start": 1453.68,
+      "end": 1455.4,
+      "text": "that they're trying to re-bub a lot of applications"
+    },
+    {
+      "start": 1455.4,
+      "end": 1456.72,
+      "text": "or going to other SaaS vendors and saying,"
+    },
+    {
+      "start": 1456.72,
+      "end": 1458.2800000000002,
+      "text": "we're not going to work with you anymore,"
+    },
+    {
+      "start": 1458.2800000000002,
+      "end": 1460.2800000000002,
+      "text": "or we're considering an internal project."
+    },
+    {
+      "start": 1460.2800000000002,
+      "end": 1461.4800000000002,
+      "text": "And it seems like in six to nine months,"
+    },
+    {
+      "start": 1461.4800000000002,
+      "end": 1462.92,
+      "text": "maybe some of those people will come back"
+    },
+    {
+      "start": 1462.92,
+      "end": 1465.44,
+      "text": "and say, actually, we can't rebuild everything."
+    },
+    {
+      "start": 1465.44,
+      "end": 1466.5600000000002,
+      "text": "How do you think about what's durable"
+    },
+    {
+      "start": 1466.6799999999998,
+      "end": 1468.28,
+      "text": "for all of them, what is it?"
+    },
+    {
+      "start": 1468.28,
+      "end": 1472.8,
+      "text": "I think we have to go through one full budget cycle"
+    },
+    {
+      "start": 1472.8,
+      "end": 1477.8,
+      "text": "on this to really see the emergence of the equilibrium."
+    },
+    {
+      "start": 1479.52,
+      "end": 1481.2,
+      "text": "Because at the end of the day,"
+    },
+    {
+      "start": 1481.2,
+      "end": 1485.0,
+      "text": "there's marginal cost to even generating the app, right?"
+    },
+    {
+      "start": 1485.0,
+      "end": 1487.24,
+      "text": "In fact, there can be even a simple way to say it,"
+    },
+    {
+      "start": 1487.24,
+      "end": 1490.8799999999999,
+      "text": "like if you should always acquire something,"
+    },
+    {
+      "start": 1490.8799999999999,
+      "end": 1495.72,
+      "text": "if the marginal cost of building and maintaining something"
+    },
+    {
+      "start": 1495.72,
+      "end": 1498.04,
+      "text": "on your own is higher, right?"
+    },
+    {
+      "start": 1498.04,
+      "end": 1502.4,
+      "text": "That should be like it's a quantifiable thing."
+    },
+    {
+      "start": 1502.4,
+      "end": 1504.6000000000001,
+      "text": "And the maintenance part is important, right?"
+    },
+    {
+      "start": 1504.6000000000001,
+      "end": 1506.44,
+      "text": "Even like you got to remember like,"
+    },
+    {
+      "start": 1506.44,
+      "end": 1510.08,
+      "text": "hey, all the security staff that now AI will find"
+    },
+    {
+      "start": 1510.08,
+      "end": 1512.04,
+      "text": "you better fix them too fast."
+    },
+    {
+      "start": 1512.04,
+      "end": 1514.08,
+      "text": "Of course, there's a coding agent to help you with,"
+    },
+    {
+      "start": 1514.08,
+      "end": 1516.0,
+      "text": "but then that burns tokens, right?"
+    },
+    {
+      "start": 1516.0,
+      "end": 1517.6000000000001,
+      "text": "So whose responsibility is it?"
+    },
+    {
+      "start": 1517.6000000000001,
+      "end": 1521.1200000000001,
+      "text": "It's kind of like a cycle that you've got to think through."
+    },
+    {
+      "start": 1521.1200000000001,
+      "end": 1523.52,
+      "text": "And I think we have gone through the excitement"
+    },
+    {
+      "start": 1523.52,
+      "end": 1525.92,
+      "text": "that I can generate a lot of software."
+    },
+    {
+      "start": 1525.92,
+      "end": 1527.28,
+      "text": "I think the next thing would be,"
+    },
+    {
+      "start": 1527.28,
+      "end": 1529.96,
+      "text": "what software do I really want to generate?"
+    },
+    {
+      "start": 1529.96,
+      "end": 1532.76,
+      "text": "What software do I want to use from others?"
+    },
+    {
+      "start": 1532.76,
+      "end": 1535.24,
+      "text": "How do I compose these two into some"
+    },
+    {
+      "start": 1535.24,
+      "end": 1538.4,
+      "text": "agentic workflow that I have agency over?"
+    },
+    {
+      "start": 1538.4,
+      "end": 1540.48,
+      "text": "Right, because I think there'll be very little tolerance"
+    },
+    {
+      "start": 1540.48,
+      "end": 1545.56,
+      "text": "for anybody who's inflexible at the vendor level."
+    },
+    {
+      "start": 1545.56,
+      "end": 1546.84,
+      "text": "But at the same time,"
+    },
+    {
+      "start": 1546.84,
+      "end": 1549.68,
+      "text": "I think that anyone who has got that flexibility"
+    },
+    {
+      "start": 1549.68,
+      "end": 1553.96,
+      "text": "shows up how delivers the value will be back again, right?"
+    },
+    {
+      "start": 1553.96,
+      "end": 1555.4,
+      "text": "We're selling software,"
+    },
+    {
+      "start": 1555.4,
+      "end": 1558.64,
+      "text": "but with just different business models, in fact."
+    },
+    {
+      "start": 1558.64,
+      "end": 1560.8,
+      "text": "It's being about building software."
+    },
+    {
+      "start": 1560.8,
+      "end": 1561.92,
+      "text": "One of my favorite moments from,"
+    },
+    {
+      "start": 1561.92,
+      "end": 1564.44,
+      "text": "I think a previous build maybe one or two years ago was,"
+    },
+    {
+      "start": 1564.44,
+      "end": 1567.5600000000002,
+      "text": "they had a section of you building your own software."
+    },
+    {
+      "start": 1567.5600000000002,
+      "end": 1569.3200000000002,
+      "text": "I'm curious if you're building anything now."
+    },
+    {
+      "start": 1569.3200000000002,
+      "end": 1573.3600000000001,
+      "text": "Yeah, so I think, first of all, let's face it,"
+    },
+    {
+      "start": 1573.3600000000001,
+      "end": 1576.3600000000001,
+      "text": "right, building software is made it possible"
+    },
+    {
+      "start": 1576.3600000000001,
+      "end": 1579.64,
+      "text": "for even the incompetence of a CEO of a company like ours."
+    },
+    {
+      "start": 1580.2,
+      "end": 1582.0800000000002,
+      "text": "You can build, so thank God."
+    },
+    {
+      "start": 1582.0800000000002,
+      "end": 1587.16,
+      "text": "But that said, I do feel that, you know,"
+    },
+    {
+      "start": 1587.16,
+      "end": 1591.16,
+      "text": "something like GitHub Copilot to me,"
+    },
+    {
+      "start": 1591.16,
+      "end": 1594.96,
+      "text": "and especially the new Sessions app or the new app,"
+    },
+    {
+      "start": 1594.96,
+      "end": 1598.76,
+      "text": "has just made it so much more possible"
+    },
+    {
+      "start": 1598.76,
+      "end": 1602.16,
+      "text": "for you to have agency over artifacts"
+    },
+    {
+      "start": 1602.16,
+      "end": 1604.16,
+      "text": "that you felt you couldn't touch before, right?"
+    },
+    {
+      "start": 1604.16,
+      "end": 1608.3200000000002,
+      "text": "So for me as a CEO, even, to go to a court base,"
+    },
+    {
+      "start": 1608.32,
+      "end": 1609.6399999999999,
+      "text": "to be able to learn about it,"
+    },
+    {
+      "start": 1609.6399999999999,
+      "end": 1611.8799999999999,
+      "text": "like I remember joining Microsoft Longback,"
+    },
+    {
+      "start": 1611.8799999999999,
+      "end": 1613.28,
+      "text": "you know, first, and then you say,"
+    },
+    {
+      "start": 1613.28,
+      "end": 1615.08,
+      "text": "man, everybody had to go in and look at,"
+    },
+    {
+      "start": 1615.08,
+      "end": 1616.6,
+      "text": "you know, whatever, cutler's mallet,"
+    },
+    {
+      "start": 1616.6,
+      "end": 1617.72,
+      "text": "or what have you to learn,"
+    },
+    {
+      "start": 1617.72,
+      "end": 1621.6,
+      "text": "how to grow good C++ code."
+    },
+    {
+      "start": 1621.6,
+      "end": 1626.2,
+      "text": "So now that ability to be more full stack up and down"
+    },
+    {
+      "start": 1626.2,
+      "end": 1628.84,
+      "text": "is so good, but that doesn't mean"
+    },
+    {
+      "start": 1628.84,
+      "end": 1631.12,
+      "text": "every one of us should be doing the same thing."
+    },
+    {
+      "start": 1631.12,
+      "end": 1633.52,
+      "text": "The question is, how do you then have the ability"
+    },
+    {
+      "start": 1633.52,
+      "end": 1637.6,
+      "text": "to inspect things, learn things, see things?"
+    },
+    {
+      "start": 1637.6000000000001,
+      "end": 1638.8400000000001,
+      "text": "I think it's just so much more."
+    },
+    {
+      "start": 1638.8400000000001,
+      "end": 1641.0000000000002,
+      "text": "And so to me, what I'm building a lot of"
+    },
+    {
+      "start": 1641.0000000000002,
+      "end": 1644.5600000000002,
+      "text": "is these long-running foundry agents, right?"
+    },
+    {
+      "start": 1644.5600000000002,
+      "end": 1646.2400000000002,
+      "text": "So there's auto pilots."
+    },
+    {
+      "start": 1646.2400000000002,
+      "end": 1648.44,
+      "text": "So the easiest thing is to me,"
+    },
+    {
+      "start": 1648.44,
+      "end": 1650.92,
+      "text": "I think I just built one even last week,"
+    },
+    {
+      "start": 1650.92,
+      "end": 1655.5200000000002,
+      "text": "where the idea was, can I have an agent"
+    },
+    {
+      "start": 1655.5200000000002,
+      "end": 1658.3600000000001,
+      "text": "that is continuously monitoring,"
+    },
+    {
+      "start": 1658.3600000000001,
+      "end": 1662.2400000000002,
+      "text": "essentially my own chief of staff auto pilot, right?"
+    },
+    {
+      "start": 1662.2400000000002,
+      "end": 1665.3200000000002,
+      "text": "We're gonna have that obviously in Scout,"
+    },
+    {
+      "start": 1665.32,
+      "end": 1667.76,
+      "text": "that's what we showed,"
+    },
+    {
+      "start": 1667.76,
+      "end": 1669.76,
+      "text": "but it is so easy and trivial to build."
+    },
+    {
+      "start": 1669.76,
+      "end": 1671.1599999999999,
+      "text": "I took it work IQ."
+    },
+    {
+      "start": 1671.1599999999999,
+      "end": 1675.12,
+      "text": "I said, take work IQ, go and build a foundry"
+    },
+    {
+      "start": 1675.12,
+      "end": 1678.0,
+      "text": "long-running agent, store all the memory"
+    },
+    {
+      "start": 1678.0,
+      "end": 1680.9199999999998,
+      "text": "in using Ray Finn, right?"
+    },
+    {
+      "start": 1680.9199999999998,
+      "end": 1683.04,
+      "text": "Basically at my back end of the service,"
+    },
+    {
+      "start": 1683.04,
+      "end": 1685.8,
+      "text": "and lo and behold, it built it, and not only built it,"
+    },
+    {
+      "start": 1685.8,
+      "end": 1687.56,
+      "text": "I could say, publish to teams,"
+    },
+    {
+      "start": 1687.56,
+      "end": 1689.24,
+      "text": "and it published the damn thing to teams."
+    },
+    {
+      "start": 1689.24,
+      "end": 1693.32,
+      "text": "So the ability to have, you know,"
+    },
+    {
+      "start": 1693.32,
+      "end": 1696.12,
+      "text": "some end-to-end project like this complete"
+    },
+    {
+      "start": 1696.12,
+      "end": 1697.24,
+      "text": "is just pretty miraculous."
+    },
+    {
+      "start": 1697.24,
+      "end": 1699.36,
+      "text": "How do you think that impacts the different types"
+    },
+    {
+      "start": 1699.36,
+      "end": 1701.32,
+      "text": "of engineering roles that exist in the future?"
+    },
+    {
+      "start": 1701.32,
+      "end": 1703.6399999999999,
+      "text": "Because right now, I think there's, you know,"
+    },
+    {
+      "start": 1703.6399999999999,
+      "end": 1705.24,
+      "text": "a dozen different types of engineers"
+    },
+    {
+      "start": 1705.24,
+      "end": 1708.28,
+      "text": "that you can be from QA, Frontend, et cetera."
+    },
+    {
+      "start": 1708.28,
+      "end": 1709.8,
+      "text": "You know, there's a big swath."
+    },
+    {
+      "start": 1709.8,
+      "end": 1711.96,
+      "text": "I've heard some people argue that in four or five years,"
+    },
+    {
+      "start": 1711.96,
+      "end": 1714.36,
+      "text": "we'll basically end up with four engineering roles."
+    },
+    {
+      "start": 1714.36,
+      "end": 1716.56,
+      "text": "It'll be people who are managing agents."
+    },
+    {
+      "start": 1716.56,
+      "end": 1719.04,
+      "text": "It'll be four deployed engineers or FTEs."
+    },
+    {
+      "start": 1719.04,
+      "end": 1720.8799999999999,
+      "text": "It'll be security engineers."
+    },
+    {
+      "start": 1720.8799999999999,
+      "end": 1722.52,
+      "text": "And then people working on large-scale"
+    },
+    {
+      "start": 1722.52,
+      "end": 1724.8799999999999,
+      "text": "infrastructure for a small number of services,"
+    },
+    {
+      "start": 1724.8799999999999,
+      "end": 1726.36,
+      "text": "and then everything else just collapses"
+    },
+    {
+      "start": 1726.36,
+      "end": 1727.68,
+      "text": "into the agentic world."
+    },
+    {
+      "start": 1727.68,
+      "end": 1729.24,
+      "text": "Yeah, I think that's a correct view of the world."
+    },
+    {
+      "start": 1729.24,
+      "end": 1732.72,
+      "text": "Yeah, I mean, I think we'll have to experiment our way"
+    },
+    {
+      "start": 1732.72,
+      "end": 1735.52,
+      "text": "through it, but what you said is what,"
+    },
+    {
+      "start": 1735.52,
+      "end": 1737.28,
+      "text": "there are some very at-scale things."
+    },
+    {
+      "start": 1737.28,
+      "end": 1741.68,
+      "text": "At LinkedIn, they did structurally change,"
+    },
+    {
+      "start": 1741.68,
+      "end": 1744.36,
+      "text": "and you know, basically built up a new discipline"
+    },
+    {
+      "start": 1744.36,
+      "end": 1745.8799999999999,
+      "text": "called Full Stack Builder, right?"
+    },
+    {
+      "start": 1745.8799999999999,
+      "end": 1748.56,
+      "text": "So they went and said, hey, let's bring people"
+    },
+    {
+      "start": 1748.56,
+      "end": 1750.68,
+      "text": "from design and product management,"
+    },
+    {
+      "start": 1750.68,
+      "end": 1754.3600000000001,
+      "text": "frontend engineering, all pull them together."
+    },
+    {
+      "start": 1754.3600000000001,
+      "end": 1755.68,
+      "text": "But I also have an edge, right?"
+    },
+    {
+      "start": 1755.68,
+      "end": 1758.0800000000002,
+      "text": "It's not like the design person still doesn't have"
+    },
+    {
+      "start": 1758.0800000000002,
+      "end": 1760.1200000000001,
+      "text": "the design edge, or the frontend person doesn't"
+    },
+    {
+      "start": 1760.1200000000001,
+      "end": 1762.5600000000002,
+      "text": "have the frontend edge, but you can give yourself"
+    },
+    {
+      "start": 1762.5600000000002,
+      "end": 1767.3600000000001,
+      "text": "bigger scope in roles so that you're not confined to one role."
+    },
+    {
+      "start": 1767.3600000000001,
+      "end": 1770.28,
+      "text": "And then, equally, infrastructures"
+    },
+    {
+      "start": 1770.28,
+      "end": 1771.76,
+      "text": "become very critical, right?"
+    },
+    {
+      "start": 1771.76,
+      "end": 1774.1200000000001,
+      "text": "So in other words, like, I mean, our Elise,"
+    },
+    {
+      "start": 1774.1200000000001,
+      "end": 1776.04,
+      "text": "I mean, one thing we have realized is,"
+    },
+    {
+      "start": 1776.04,
+      "end": 1778.8400000000001,
+      "text": "even for the Excel team, for example,"
+    },
+    {
+      "start": 1778.8400000000001,
+      "end": 1783.8400000000001,
+      "text": "building the RLE in which a reward can be learned"
+    },
+    {
+      "start": 1783.92,
+      "end": 1787.8000000000002,
+      "text": "is actually one of the hardest sort of infrastructure problems."
+    },
+    {
+      "start": 1787.8000000000002,
+      "end": 1789.88,
+      "text": "And so you kind of need even new talent, right?"
+    },
+    {
+      "start": 1789.88,
+      "end": 1791.8400000000001,
+      "text": "Distribute systems, people even in"
+    },
+    {
+      "start": 1791.8400000000001,
+      "end": 1794.7200000000003,
+      "text": "what was considered an end user app team,"
+    },
+    {
+      "start": 1794.7200000000003,
+      "end": 1796.0800000000002,
+      "text": "because it's a different skill set."
+    },
+    {
+      "start": 1796.0800000000002,
+      "end": 1799.7600000000002,
+      "text": "So yes, infrastructure, science is the other one, obviously."
+    },
+    {
+      "start": 1799.7600000000002,
+      "end": 1802.0800000000002,
+      "text": "So I think we'll see how these evolve, right?"
+    },
+    {
+      "start": 1802.0800000000002,
+      "end": 1804.16,
+      "text": "Where's the real, I mean, always the world"
+    },
+    {
+      "start": 1804.16,
+      "end": 1805.68,
+      "text": "will have a bunch of specialists."
+    },
+    {
+      "start": 1806.68,
+      "end": 1811.28,
+      "text": "You know, I think the generalist role"
+    },
+    {
+      "start": 1811.28,
+      "end": 1813.44,
+      "text": "is going to be the most exciting, right?"
+    },
+    {
+      "start": 1813.44,
+      "end": 1816.24,
+      "text": "Because the leverage of a generalist"
+    },
+    {
+      "start": 1817.24,
+      "end": 1820.28,
+      "text": "is where we are going to see the maximum returns, right?"
+    },
+    {
+      "start": 1820.28,
+      "end": 1822.3200000000002,
+      "text": "When you said, hey, are you coding?"
+    },
+    {
+      "start": 1822.3200000000002,
+      "end": 1823.92,
+      "text": "I'm now a general, like, what,"
+    },
+    {
+      "start": 1823.92,
+      "end": 1828.16,
+      "text": "I've basically translated knowledge work, right?"
+    },
+    {
+      "start": 1828.16,
+      "end": 1831.28,
+      "text": "Which I did, where I created a word document,"
+    },
+    {
+      "start": 1831.28,
+      "end": 1834.3600000000001,
+      "text": "or a spreadsheet, or even,"
+    },
+    {
+      "start": 1834.3600000000001,
+      "end": 1836.2400000000002,
+      "text": "and now I can build an app, right?"
+    },
+    {
+      "start": 1836.2400000000002,
+      "end": 1838.1200000000001,
+      "text": "It's in the same sentence,"
+    },
+    {
+      "start": 1839.2400000000002,
+      "end": 1843.0000000000002,
+      "text": "that idea that, oh, wow, my generalist skills"
+    },
+    {
+      "start": 1843.0000000000002,
+      "end": 1844.64,
+      "text": "have gotten a higher leverage."
+    },
+    {
+      "start": 1844.64,
+      "end": 1846.92,
+      "text": "I think is what we're going to see across the board."
+    },
+    {
+      "start": 1846.92,
+      "end": 1849.6000000000001,
+      "text": "Music to the ears of CEOs and VCs"
+    },
+    {
+      "start": 1849.6000000000001,
+      "end": 1851.0000000000002,
+      "text": "that are, like, a little dangerous"
+    },
+    {
+      "start": 1851.0000000000002,
+      "end": 1851.8400000000001,
+      "text": "and a lot of things."
+    },
+    {
+      "start": 1851.8400000000001,
+      "end": 1852.8000000000002,
+      "text": "Call them age for idea of people."
+    },
+    {
+      "start": 1852.8000000000002,
+      "end": 1855.0400000000002,
+      "text": "Idea of people with a lot of agency."
+    },
+    {
+      "start": 1855.0400000000002,
+      "end": 1856.88,
+      "text": "If you take that idea of personal agency,"
+    },
+    {
+      "start": 1856.88,
+      "end": 1860.2400000000002,
+      "text": "and you just zoom it out to the organizational context,"
+    },
+    {
+      "start": 1861.24,
+      "end": 1864.08,
+      "text": "my partner, Mike Vernal, who actually started"
+    },
+    {
+      "start": 1864.08,
+      "end": 1866.6,
+      "text": "his career at Microsoft, just wrote an essay"
+    },
+    {
+      "start": 1866.6,
+      "end": 1868.08,
+      "text": "where one of the big takeaways is,"
+    },
+    {
+      "start": 1868.08,
+      "end": 1870.64,
+      "text": "it's an age where you can be much more ambitious,"
+    },
+    {
+      "start": 1870.64,
+      "end": 1873.2,
+      "text": "and you need to be given the pace of the environment,"
+    },
+    {
+      "start": 1873.2,
+      "end": 1875.92,
+      "text": "and how quickly, actually, users and companies"
+    },
+    {
+      "start": 1875.92,
+      "end": 1878.4,
+      "text": "are open to adopting new technologies."
+    },
+    {
+      "start": 1878.4,
+      "end": 1879.68,
+      "text": "How do you think about,"
+    },
+    {
+      "start": 1879.68,
+      "end": 1882.52,
+      "text": "I feel silly asking this of somebody running"
+    },
+    {
+      "start": 1882.52,
+      "end": 1884.64,
+      "text": "a trillion dollar plus company already,"
+    },
+    {
+      "start": 1884.64,
+      "end": 1886.4,
+      "text": "but how do you think about how Microsoft"
+    },
+    {
+      "start": 1886.4,
+      "end": 1888.36,
+      "text": "can be more ambitious now?"
+    },
+    {
+      "start": 1888.36,
+      "end": 1889.84,
+      "text": "It's a great question."
+    },
+    {
+      "start": 1889.8400000000001,
+      "end": 1894.8400000000001,
+      "text": "I think the thing in these type of transitions"
+    },
+    {
+      "start": 1896.5600000000002,
+      "end": 1901.5600000000002,
+      "text": "is to have a conceptual model of how work can change"
+    },
+    {
+      "start": 1906.3600000000001,
+      "end": 1911.3600000000001,
+      "text": "to go after outcomes that you could hardly imagine previously."
+    },
+    {
+      "start": 1911.64,
+      "end": 1914.6000000000001,
+      "text": "In fact, Kevin Scott has this nice line,"
+    },
+    {
+      "start": 1914.6000000000001,
+      "end": 1918.3600000000001,
+      "text": "which is when you can make the impossible,"
+    },
+    {
+      "start": 1918.5200000000002,
+      "end": 1921.0000000000002,
+      "text": "when you're making hard things easier,"
+    },
+    {
+      "start": 1921.0000000000002,
+      "end": 1923.6000000000001,
+      "text": "that sort of one point of leverage,"
+    },
+    {
+      "start": 1923.6000000000001,
+      "end": 1928.0400000000002,
+      "text": "but true ambition is about making the impossible possible."
+    },
+    {
+      "start": 1928.0400000000002,
+      "end": 1932.3600000000001,
+      "text": "So now the thing that is missing a little bit"
+    },
+    {
+      "start": 1932.3600000000001,
+      "end": 1935.2800000000002,
+      "text": "in all of our organizations is what is that"
+    },
+    {
+      "start": 1935.2800000000002,
+      "end": 1938.5200000000002,
+      "text": "new conceptual model of what can we build,"
+    },
+    {
+      "start": 1938.5200000000002,
+      "end": 1941.44,
+      "text": "what was impossible, and what can we build?"
+    },
+    {
+      "start": 1941.44,
+      "end": 1943.0400000000002,
+      "text": "And I'll give you one example of this,"
+    },
+    {
+      "start": 1943.0400000000002,
+      "end": 1945.1200000000001,
+      "text": "which is I take great inspiration"
+    },
+    {
+      "start": 1945.1200000000001,
+      "end": 1949.3200000000002,
+      "text": "from sort of the people who were managing the Azure network."
+    },
+    {
+      "start": 1949.3200000000002,
+      "end": 1952.72,
+      "text": "And they came to the, this was from even last year,"
+    },
+    {
+      "start": 1952.72,
+      "end": 1954.1200000000001,
+      "text": "we were scaling, you saw that,"
+    },
+    {
+      "start": 1954.1200000000001,
+      "end": 1956.16,
+      "text": "I talked about sort of how we built"
+    },
+    {
+      "start": 1956.16,
+      "end": 1959.48,
+      "text": "in the last 15 months more Azure capacity"
+    },
+    {
+      "start": 1959.48,
+      "end": 1961.44,
+      "text": "than we built in the first 15 years."
+    },
+    {
+      "start": 1961.44,
+      "end": 1962.8400000000001,
+      "text": "I mean, it's crazy, right?"
+    },
+    {
+      "start": 1962.8400000000001,
+      "end": 1963.68,
+      "text": "It's pretty wild."
+    },
+    {
+      "start": 1963.68,
+      "end": 1964.92,
+      "text": "And it's the same team."
+    },
+    {
+      "start": 1964.92,
+      "end": 1966.2800000000002,
+      "text": "So they saw that and they said,"
+    },
+    {
+      "start": 1966.2800000000002,
+      "end": 1967.7600000000002,
+      "text": "Bob, this is just going to work"
+    },
+    {
+      "start": 1967.7600000000002,
+      "end": 1970.6000000000001,
+      "text": "if we don't reconceptualize our work."
+    },
+    {
+      "start": 1970.6000000000001,
+      "end": 1973.3200000000002,
+      "text": "So they built, essentially they said,"
+    },
+    {
+      "start": 1973.32,
+      "end": 1975.76,
+      "text": "our job is not to do Azure networking."
+    },
+    {
+      "start": 1975.76,
+      "end": 1978.24,
+      "text": "Our job is to build the agentic system"
+    },
+    {
+      "start": 1978.24,
+      "end": 1980.32,
+      "text": "that does Azure networking, right?"
+    },
+    {
+      "start": 1980.32,
+      "end": 1985.9199999999998,
+      "text": "These are the folks managing the 500 plus fiber operators"
+    },
+    {
+      "start": 1985.9199999999998,
+      "end": 1987.8799999999999,
+      "text": "managing the van, right, all over."
+    },
+    {
+      "start": 1987.8799999999999,
+      "end": 1991.24,
+      "text": "And fiber operations ultimately is a physical operation."
+    },
+    {
+      "start": 1991.24,
+      "end": 1993.48,
+      "text": "Things get caught, things get, you know,"
+    },
+    {
+      "start": 1993.48,
+      "end": 1994.6799999999998,
+      "text": "have to be repaired."
+    },
+    {
+      "start": 1994.6799999999998,
+      "end": 1997.2,
+      "text": "You know, we have fancy words called DevOps and so on."
+    },
+    {
+      "start": 1997.2,
+      "end": 1999.12,
+      "text": "Basically emails are coming in"
+    },
+    {
+      "start": 1999.12,
+      "end": 2001.6799999999998,
+      "text": "and you got to go respond to them, take care of it."
+    },
+    {
+      "start": 2001.68,
+      "end": 2003.3600000000001,
+      "text": "So they built this agentic system."
+    },
+    {
+      "start": 2003.3600000000001,
+      "end": 2004.76,
+      "text": "They even have a character for it."
+    },
+    {
+      "start": 2004.76,
+      "end": 2008.5600000000002,
+      "text": "It's called miles and it sort of does all this stuff, right?"
+    },
+    {
+      "start": 2008.5600000000002,
+      "end": 2012.64,
+      "text": "They started sort of screaming for more tokens and so on."
+    },
+    {
+      "start": 2012.64,
+      "end": 2014.52,
+      "text": "And so they were saying, look, we don't need a head count."
+    },
+    {
+      "start": 2014.52,
+      "end": 2018.5600000000002,
+      "text": "We need tokens in order to be able to manage our operation."
+    },
+    {
+      "start": 2018.5600000000002,
+      "end": 2023.3600000000001,
+      "text": "That reconceptualization of what their work is, right?"
+    },
+    {
+      "start": 2023.3600000000001,
+      "end": 2026.92,
+      "text": "They basically took their work and made it meta, right?"
+    },
+    {
+      "start": 2026.92,
+      "end": 2030.1200000000001,
+      "text": "That meta work is now their new work, right?"
+    },
+    {
+      "start": 2030.1200000000001,
+      "end": 2033.0000000000002,
+      "text": "In the 80s, if somebody had come to us and said,"
+    },
+    {
+      "start": 2033.0000000000002,
+      "end": 2035.0000000000002,
+      "text": "four billion people are going to get up in the morning"
+    },
+    {
+      "start": 2035.0000000000002,
+      "end": 2037.7600000000002,
+      "text": "and start typing, my model would have been,"
+    },
+    {
+      "start": 2037.7600000000002,
+      "end": 2041.4,
+      "text": "we need four billion typists, but we're not doing typing."
+    },
+    {
+      "start": 2041.4,
+      "end": 2042.6000000000001,
+      "text": "We're doing knowledge work."
+    },
+    {
+      "start": 2042.6000000000001,
+      "end": 2044.68,
+      "text": "So that, to me, I think, is it, right?"
+    },
+    {
+      "start": 2044.68,
+      "end": 2047.3200000000002,
+      "text": "Which is whether it's Microsoft or whether it's"
+    },
+    {
+      "start": 2047.3200000000002,
+      "end": 2050.2000000000003,
+      "text": "any organization is to give ourselves permission"
+    },
+    {
+      "start": 2050.2000000000003,
+      "end": 2054.7200000000003,
+      "text": "to do new types of meta cognition, meta work"
+    },
+    {
+      "start": 2054.7200000000003,
+      "end": 2059.48,
+      "text": "using these new tools to change the outputs that matter"
+    },
+    {
+      "start": 2059.48,
+      "end": 2061.56,
+      "text": "and then really make the impossible possible."
+    },
+    {
+      "start": 2061.56,
+      "end": 2065.84,
+      "text": "So completing that dot or the connective tissue across those,"
+    },
+    {
+      "start": 2065.84,
+      "end": 2070.12,
+      "text": "I think is where a lot of the enterprise value will get created."
+    },
+    {
+      "start": 2070.12,
+      "end": 2071.36,
+      "text": "We talked about data centers."
+    },
+    {
+      "start": 2071.36,
+      "end": 2072.2,
+      "text": "Yeah, please ask."
+    },
+    {
+      "start": 2072.2,
+      "end": 2073.0,
+      "text": "Oh, OK."
+    },
+    {
+      "start": 2073.0,
+      "end": 2077.12,
+      "text": "Well, this leaves nicely into the data center buildup."
+    },
+    {
+      "start": 2077.12,
+      "end": 2079.84,
+      "text": "I always think I'm just impressed with the sheer scale"
+    },
+    {
+      "start": 2079.84,
+      "end": 2082.56,
+      "text": "of the buildup from Microsoft, but also everyone else."
+    },
+    {
+      "start": 2082.56,
+      "end": 2085.76,
+      "text": "That this is redefining what it means to be a hyperscaler."
+    },
+    {
+      "start": 2085.76,
+      "end": 2089.84,
+      "text": "And I just feel like that is unprecedented scale"
+    },
+    {
+      "start": 2089.84,
+      "end": 2092.92,
+      "text": "on finances, on the way you run the company,"
+    },
+    {
+      "start": 2092.92,
+      "end": 2096.2400000000002,
+      "text": "but also the communities that are impacted."
+    },
+    {
+      "start": 2096.2400000000002,
+      "end": 2097.4,
+      "text": "Then just talk a bit more about what"
+    },
+    {
+      "start": 2097.4,
+      "end": 2099.0400000000004,
+      "text": "you're seeing on the ground, like when you visit your..."
+    },
+    {
+      "start": 2099.0400000000004,
+      "end": 2101.36,
+      "text": "Yeah, I think there are two aspects of it."
+    },
+    {
+      "start": 2101.36,
+      "end": 2106.44,
+      "text": "Obviously, the build out is extraordinary."
+    },
+    {
+      "start": 2106.44,
+      "end": 2108.84,
+      "text": "Nothing like this has happened, and it's"
+    },
+    {
+      "start": 2108.84,
+      "end": 2111.96,
+      "text": "great to be one of the participants in it."
+    },
+    {
+      "start": 2111.96,
+      "end": 2113.44,
+      "text": "But you brought up the other part, right?"
+    },
+    {
+      "start": 2113.44,
+      "end": 2117.4,
+      "text": "I think at this point, it's clear that unless we,"
+    },
+    {
+      "start": 2117.4,
+      "end": 2123.92,
+      "text": "as an industry, are very principled about ensuring"
+    },
+    {
+      "start": 2123.92,
+      "end": 2127.2400000000002,
+      "text": "that the benefits of all the stuff we're talking about"
+    },
+    {
+      "start": 2127.2400000000002,
+      "end": 2131.2000000000003,
+      "text": "are felt in real ways at the community level, right?"
+    },
+    {
+      "start": 2131.2000000000003,
+      "end": 2135.44,
+      "text": "Because this is not just a campaign, right?"
+    },
+    {
+      "start": 2135.44,
+      "end": 2138.64,
+      "text": "It has to be real where people are saying, look,"
+    },
+    {
+      "start": 2138.64,
+      "end": 2141.52,
+      "text": "this is not changing the prices on energy for me."
+    },
+    {
+      "start": 2141.52,
+      "end": 2144.7599999999998,
+      "text": "In fact, if anything, it's bringing down prices"
+    },
+    {
+      "start": 2144.7599999999998,
+      "end": 2147.16,
+      "text": "because long-term, there's going to be a better grid."
+    },
+    {
+      "start": 2147.16,
+      "end": 2149.04,
+      "text": "There's going to be more energy."
+    },
+    {
+      "start": 2149.04,
+      "end": 2151.96,
+      "text": "Water consumption is in fact not sort of..."
+    },
+    {
+      "start": 2151.96,
+      "end": 2153.92,
+      "text": "In fact, water is being replenished, right?"
+    },
+    {
+      "start": 2153.92,
+      "end": 2156.32,
+      "text": "You've got to really educate folks"
+    },
+    {
+      "start": 2156.32,
+      "end": 2160.24,
+      "text": "on truly what's happening, the close-loop systems"
+    },
+    {
+      "start": 2160.24,
+      "end": 2161.24,
+      "text": "we're building."
+    },
+    {
+      "start": 2161.24,
+      "end": 2164.24,
+      "text": "We have to invest in the training, the jobs, the tax base."
+    },
+    {
+      "start": 2164.24,
+      "end": 2165.88,
+      "text": "In fact, the least talked about stuff"
+    },
+    {
+      "start": 2165.88,
+      "end": 2170.2,
+      "text": "is the amount of jobs that get created during construction"
+    },
+    {
+      "start": 2170.2,
+      "end": 2172.6,
+      "text": "after construction, what's the tax base"
+    },
+    {
+      "start": 2172.6,
+      "end": 2174.12,
+      "text": "that's there in the community."
+    },
+    {
+      "start": 2174.12,
+      "end": 2176.2,
+      "text": "And all this has to be real."
+    },
+    {
+      "start": 2177.2,
+      "end": 2180.2,
+      "text": "And if that is the case, then we will have permission."
+    },
+    {
+      "start": 2180.2,
+      "end": 2181.96,
+      "text": "If it is not, we won't have permission."
+    },
+    {
+      "start": 2181.96,
+      "end": 2183.08,
+      "text": "It's as simple as that, right?"
+    },
+    {
+      "start": 2183.08,
+      "end": 2185.72,
+      "text": "Which is, I think we have to take it"
+    },
+    {
+      "start": 2185.72,
+      "end": 2188.16,
+      "text": "as an industry pretty seriously."
+    },
+    {
+      "start": 2188.16,
+      "end": 2190.9199999999996,
+      "text": "I think it's good for communities to be skeptical,"
+    },
+    {
+      "start": 2190.9199999999996,
+      "end": 2195.64,
+      "text": "ask the hard question for us to do the hard work on that."
+    },
+    {
+      "start": 2195.64,
+      "end": 2199.48,
+      "text": "But at the end of the day, if we can really be"
+    },
+    {
+      "start": 2200.28,
+      "end": 2202.88,
+      "text": "I've always felt like in human history,"
+    },
+    {
+      "start": 2202.88,
+      "end": 2204.28,
+      "text": "if you use a lot of energy,"
+    },
+    {
+      "start": 2204.28,
+      "end": 2208.08,
+      "text": "but also create a lot of value for society,"
+    },
+    {
+      "start": 2208.08,
+      "end": 2210.2,
+      "text": "the story has been fantastic."
+    },
+    {
+      "start": 2210.2,
+      "end": 2212.56,
+      "text": "If you don't do that, it's not been that great."
+    },
+    {
+      "start": 2212.56,
+      "end": 2214.56,
+      "text": "And this time around, I'm a firm believer"
+    },
+    {
+      "start": 2214.56,
+      "end": 2217.6,
+      "text": "that ultimately if you do have a token economy"
+    },
+    {
+      "start": 2217.6,
+      "end": 2221.12,
+      "text": "that drives productivity, that drives economic growth,"
+    },
+    {
+      "start": 2221.12,
+      "end": 2225.4,
+      "text": "that drives broad spread participation,"
+    },
+    {
+      "start": 2225.4,
+      "end": 2227.64,
+      "text": "better health outcomes,"
+    },
+    {
+      "start": 2227.64,
+      "end": 2230.7999999999997,
+      "text": "then I think we will be in a great place."
+    },
+    {
+      "start": 2230.7999999999997,
+      "end": 2233.68,
+      "text": "And that's at least what we all have to be focused on."
+    },
+    {
+      "start": 2233.68,
+      "end": 2235.96,
+      "text": "Yeah, it makes me think actually"
+    },
+    {
+      "start": 2235.96,
+      "end": 2237.68,
+      "text": "that with all this initiatives that you're doing,"
+    },
+    {
+      "start": 2237.68,
+      "end": 2239.7999999999997,
+      "text": "might be easier to see ROI in a community"
+    },
+    {
+      "start": 2239.7999999999997,
+      "end": 2241.44,
+      "text": "is first before an enterprise."
+    },
+    {
+      "start": 2241.44,
+      "end": 2243.52,
+      "text": "Yeah, I mean, I think both sides."
+    },
+    {
+      "start": 2243.52,
+      "end": 2245.04,
+      "text": "In fact, it comes back together."
+    },
+    {
+      "start": 2245.04,
+      "end": 2247.7599999999998,
+      "text": "It's just to be the people in the communities"
+    },
+    {
+      "start": 2247.7599999999998,
+      "end": 2249.16,
+      "text": "are going to be employed,"
+    },
+    {
+      "start": 2249.16,
+      "end": 2253.08,
+      "text": "are going to be participants in the real economy, right?"
+    },
+    {
+      "start": 2253.08,
+      "end": 2254.8799999999997,
+      "text": "That's I think the question is like,"
+    },
+    {
+      "start": 2254.88,
+      "end": 2257.6800000000003,
+      "text": "if the broad economy is doing well,"
+    },
+    {
+      "start": 2257.6800000000003,
+      "end": 2260.2000000000003,
+      "text": "and the communities are doing well,"
+    },
+    {
+      "start": 2260.2000000000003,
+      "end": 2261.56,
+      "text": "the dots get connected."
+    },
+    {
+      "start": 2261.56,
+      "end": 2264.44,
+      "text": "It's sort of the market forces are such"
+    },
+    {
+      "start": 2264.44,
+      "end": 2266.2000000000003,
+      "text": "that we will connect the dots."
+    },
+    {
+      "start": 2266.2000000000003,
+      "end": 2267.12,
+      "text": "And now I think it's it."
+    },
+    {
+      "start": 2267.12,
+      "end": 2268.56,
+      "text": "Like you ought to be able to see the evidence."
+    },
+    {
+      "start": 2268.56,
+      "end": 2271.0,
+      "text": "You can't be about any one company,"
+    },
+    {
+      "start": 2271.0,
+      "end": 2273.6800000000003,
+      "text": "but it has to be broad economic growth"
+    },
+    {
+      "start": 2273.6800000000003,
+      "end": 2276.28,
+      "text": "and broad community permission."
+    },
+    {
+      "start": 2276.28,
+      "end": 2277.48,
+      "text": "Yeah."
+    },
+    {
+      "start": 2277.48,
+      "end": 2280.08,
+      "text": "It was optimistic about currently,"
+    },
+    {
+      "start": 2280.08,
+      "end": 2282.44,
+      "text": "or what have you most updated your personal models on"
+    },
+    {
+      "start": 2282.44,
+      "end": 2285.2400000000002,
+      "text": "regarding societal impact of AI?"
+    },
+    {
+      "start": 2285.2400000000002,
+      "end": 2287.32,
+      "text": "So you're saying what's the,"
+    },
+    {
+      "start": 2287.32,
+      "end": 2288.76,
+      "text": "what have you updated most on"
+    },
+    {
+      "start": 2288.76,
+      "end": 2290.88,
+      "text": "in terms of societal impact of AI?"
+    },
+    {
+      "start": 2290.88,
+      "end": 2295.88,
+      "text": "I think the most critical thing is the first question"
+    },
+    {
+      "start": 2298.36,
+      "end": 2299.64,
+      "text": "we even started with,"
+    },
+    {
+      "start": 2299.64,
+      "end": 2304.64,
+      "text": "which is we need to tell the story and make it real"
+    },
+    {
+      "start": 2305.84,
+      "end": 2310.84,
+      "text": "that everybody has a real shot to participate"
+    },
+    {
+      "start": 2311.8,
+      "end": 2315.52,
+      "text": "as a first class participant in this new economy."
+    },
+    {
+      "start": 2315.52,
+      "end": 2320.52,
+      "text": "That's kind of I think in the next 12 months, 18 months,"
+    },
+    {
+      "start": 2321.1600000000003,
+      "end": 2322.96,
+      "text": "we need a way for people to say,"
+    },
+    {
+      "start": 2322.96,
+      "end": 2324.92,
+      "text": "oh, wow, I get it, right?"
+    },
+    {
+      "start": 2324.92,
+      "end": 2327.96,
+      "text": "There's going to be tremendous capability,"
+    },
+    {
+      "start": 2327.96,
+      "end": 2330.48,
+      "text": "tremendous amount of infrastructure,"
+    },
+    {
+      "start": 2330.48,
+      "end": 2333.1600000000003,
+      "text": "but I can see what is going to happen,"
+    },
+    {
+      "start": 2333.1600000000003,
+      "end": 2335.8,
+      "text": "whether it's the benefits like health outcomes,"
+    },
+    {
+      "start": 2335.8,
+      "end": 2338.52,
+      "text": "or my ability to create a startup,"
+    },
+    {
+      "start": 2338.52,
+      "end": 2343.52,
+      "text": "or my ability to run my local store more efficiently."
+    },
+    {
+      "start": 2344.44,
+      "end": 2348.48,
+      "text": "It's just happening and I see that benefit myself, right?"
+    },
+    {
+      "start": 2348.48,
+      "end": 2352.52,
+      "text": "That to me, earning that permission"
+    },
+    {
+      "start": 2352.52,
+      "end": 2354.64,
+      "text": "in a path dependent way, we can't wait."
+    },
+    {
+      "start": 2354.64,
+      "end": 2357.44,
+      "text": "So the one thing I've learned is,"
+    },
+    {
+      "start": 2357.44,
+      "end": 2360.24,
+      "text": "I think the world is going to be very skeptical"
+    },
+    {
+      "start": 2360.24,
+      "end": 2364.96,
+      "text": "of tech and tech companies that say trust us,"
+    },
+    {
+      "start": 2364.96,
+      "end": 2368.08,
+      "text": "we've got it, the future is going to be glorious."
+    },
+    {
+      "start": 2369.16,
+      "end": 2374.16,
+      "text": "You kind of have to deliver tangible benefits"
+    },
+    {
+      "start": 2376.04,
+      "end": 2380.04,
+      "text": "and for frankly, politicians winning elections"
+    },
+    {
+      "start": 2380.04,
+      "end": 2382.6,
+      "text": "because they advocated for that."
+    },
+    {
+      "start": 2382.6,
+      "end": 2385.24,
+      "text": "That will be at least my adjustment"
+    },
+    {
+      "start": 2385.24,
+      "end": 2388.96,
+      "text": "because without it, thinking that somehow,"
+    },
+    {
+      "start": 2388.96,
+      "end": 2390.56,
+      "text": "because it's too important this time around,"
+    },
+    {
+      "start": 2390.56,
+      "end": 2393.88,
+      "text": "it's too much of the economy for it not to be the case."
+    },
+    {
+      "start": 2393.88,
+      "end": 2397.28,
+      "text": "So one very simple framework I have for, you know,"
+    },
+    {
+      "start": 2397.28,
+      "end": 2402.28,
+      "text": "what is going to be the broad benefit of AI"
+    },
+    {
+      "start": 2402.28,
+      "end": 2405.6000000000004,
+      "text": "beyond the community's just working in technology"
+    },
+    {
+      "start": 2405.6000000000004,
+      "end": 2407.2400000000002,
+      "text": "or sort of wealth creation."
+    },
+    {
+      "start": 2407.2400000000002,
+      "end": 2409.1600000000003,
+      "text": "It's going to happen in a ton of different companies,"
+    },
+    {
+      "start": 2409.1600000000003,
+      "end": 2410.7200000000003,
+      "text": "startups and large companies."
+    },
+    {
+      "start": 2410.7200000000003,
+      "end": 2413.52,
+      "text": "And you have healthcare, you had amazing demos today,"
+    },
+    {
+      "start": 2413.52,
+      "end": 2414.76,
+      "text": "there are companies like Open Evidence,"
+    },
+    {
+      "start": 2414.76,
+      "end": 2417.0,
+      "text": "I think that is happening."
+    },
+    {
+      "start": 2417.0,
+      "end": 2420.48,
+      "text": "Education seems like another one that's an obvious good"
+    },
+    {
+      "start": 2420.48,
+      "end": 2423.1200000000003,
+      "text": "where we haven't seen as much impact as I'd expect."
+    },
+    {
+      "start": 2423.1200000000003,
+      "end": 2425.32,
+      "text": "Do you have a hypothesis on why that might be"
+    },
+    {
+      "start": 2425.32,
+      "end": 2426.1600000000003,
+      "text": "or if it'll come?"
+    },
+    {
+      "start": 2426.24,
+      "end": 2427.7599999999998,
+      "text": "I mean, I think this is where again,"
+    },
+    {
+      "start": 2427.7599999999998,
+      "end": 2429.68,
+      "text": "how we think about education,"
+    },
+    {
+      "start": 2429.68,
+      "end": 2434.12,
+      "text": "how recently I met with the founders of alpha school"
+    },
+    {
+      "start": 2434.12,
+      "end": 2436.2,
+      "text": "and learned a lot about what they were going"
+    },
+    {
+      "start": 2436.2,
+      "end": 2439.16,
+      "text": "and going about and it is fascinating to listen"
+    },
+    {
+      "start": 2439.16,
+      "end": 2443.3199999999997,
+      "text": "to how do we even rethink what is education really look like."
+    },
+    {
+      "start": 2443.3199999999997,
+      "end": 2445.64,
+      "text": "Because I think it's actually very important."
+    },
+    {
+      "start": 2445.64,
+      "end": 2447.3999999999996,
+      "text": "And I'm not saying anything traditionally"
+    },
+    {
+      "start": 2447.3999999999996,
+      "end": 2448.96,
+      "text": "being done is less important, right?"
+    },
+    {
+      "start": 2448.96,
+      "end": 2450.44,
+      "text": "I was even looking at the,"
+    },
+    {
+      "start": 2450.44,
+      "end": 2453.6,
+      "text": "it's fascinating to see, I forget the which Stanford class"
+    },
+    {
+      "start": 2453.6,
+      "end": 2457.4,
+      "text": "it was, the Asian guidelines for CS something."
+    },
+    {
+      "start": 2458.44,
+      "end": 2461.3199999999997,
+      "text": "Because you still need people to learn."
+    },
+    {
+      "start": 2461.3199999999997,
+      "end": 2463.04,
+      "text": "Like it was an interesting AI class"
+    },
+    {
+      "start": 2463.04,
+      "end": 2464.7999999999997,
+      "text": "that they were making sure people were learning"
+    },
+    {
+      "start": 2464.7999999999997,
+      "end": 2466.72,
+      "text": "how to apply softmax appropriately"
+    },
+    {
+      "start": 2466.72,
+      "end": 2469.92,
+      "text": "versus saying, hey, fix my training run."
+    },
+    {
+      "start": 2469.92,
+      "end": 2472.88,
+      "text": "So I think learning concepts is important,"
+    },
+    {
+      "start": 2472.88,
+      "end": 2474.44,
+      "text": "it's going to be a critical."
+    },
+    {
+      "start": 2474.44,
+      "end": 2477.6,
+      "text": "But the way we create the incentives,"
+    },
+    {
+      "start": 2477.6,
+      "end": 2479.08,
+      "text": "what are the credentials,"
+    },
+    {
+      "start": 2479.08,
+      "end": 2481.44,
+      "text": "how we value those credentials,"
+    },
+    {
+      "start": 2481.44,
+      "end": 2484.12,
+      "text": "what is the employment opportunity for those credentials."
+    },
+    {
+      "start": 2484.12,
+      "end": 2487.04,
+      "text": "So I think that there is a complete change"
+    },
+    {
+      "start": 2487.04,
+      "end": 2491.88,
+      "text": "that has to happen given the way to get to information,"
+    },
+    {
+      "start": 2491.88,
+      "end": 2493.56,
+      "text": "way to educate yourself,"
+    },
+    {
+      "start": 2493.56,
+      "end": 2495.64,
+      "text": "way to continuously keep yourself updated"
+    },
+    {
+      "start": 2495.64,
+      "end": 2496.48,
+      "text": "as changed so much."
+    },
+    {
+      "start": 2496.48,
+      "end": 2498.96,
+      "text": "So I think interestingly enough,"
+    },
+    {
+      "start": 2498.96,
+      "end": 2503.96,
+      "text": "maybe the next big startup and success story could be"
+    },
+    {
+      "start": 2504.04,
+      "end": 2506.76,
+      "text": "someone who builds a new university"
+    },
+    {
+      "start": 2507.7200000000003,
+      "end": 2514.0800000000004,
+      "text": "or a new pedagogy even of how to get someone to go through a curriculum"
+    },
+    {
+      "start": 2514.0800000000004,
+      "end": 2517.84,
+      "text": "and find economic opportunity, that's highly valuable."
+    },
+    {
+      "start": 2517.84,
+      "end": 2521.1200000000003,
+      "text": "Well, that has felt perhaps impossible for a long time,"
+    },
+    {
+      "start": 2521.1200000000003,
+      "end": 2522.2400000000002,
+      "text": "but it's a great note to end on"
+    },
+    {
+      "start": 2522.2400000000002,
+      "end": 2524.0,
+      "text": "and something that might be possible."
+    },
+    {
+      "start": 2524.0,
+      "end": 2525.2400000000002,
+      "text": "Thank you so much."
+    },
+    {
+      "start": 2525.2400000000002,
+      "end": 2526.28,
+      "text": "Thank you, I appreciate it."
+    },
+    {
+      "start": 2526.28,
+      "end": 2527.1200000000003,
+      "text": "Thank you all."
+    },
+    {
+      "start": 2536.76,
+      "end": 2537.76,
+      "text": "I'll see you in the next one."
+    },
+    {
+      "start": 2537.76,
+      "end": 2538.76,
+      "text": "Bye."
+    }
+  ]
+}

@@ -1,0 +1,3186 @@
+{
+  "id": "ad425b5f1d7f5b94",
+  "show": "Real Vision: Finance & Investing",
+  "theme": "Strategy & Markets",
+  "title": "Why Hyperliquid Is the \"Gold Standard\" with Blocmates' Grant | REKT Vision",
+  "audio_url": "https://pdst.fm/e/chtbl.com/track/1B146C/traffic.megaphone.fm/ADV8374129871.mp3?updated=1780339738",
+  "source": "local-whisper",
+  "duration": 3463.7,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.28,
+      "text": "It's heating up here in NYC which means summer is almost upon us. It also means it's nearly"
+    },
+    {
+      "start": 5.28,
+      "end": 10.8,
+      "text": "time for my summer vacation. And this year I don't have to stress about my finances because I know"
+    },
+    {
+      "start": 10.8,
+      "end": 17.04,
+      "text": "they are better organized and I can enjoy myself without worry. Monarch is the personal finance app"
+    },
+    {
+      "start": 17.04,
+      "end": 22.88,
+      "text": "that tracks everything. Accounts, investments, saving goals and spending. Get your first year of Monarch"
+    },
+    {
+      "start": 22.88,
+      "end": 28.88,
+      "text": "core for just half off, just 50 dollars with promo code real vision. Indeed, without Monarch,"
+    },
+    {
+      "start": 28.88,
+      "end": 35.519999999999996,
+      "text": "I don't think my upcoming vacation would be stress-free because now I know and I can see my finances"
+    },
+    {
+      "start": 35.519999999999996,
+      "end": 41.04,
+      "text": "all in one place. Not only that, with their unique features, I know my portfolio is outpacing the"
+    },
+    {
+      "start": 41.04,
+      "end": 47.92,
+      "text": "S&P 500. But my favorite thing about the Monarch app is their AI insights which helped me understand"
+    },
+    {
+      "start": 47.92,
+      "end": 54.08,
+      "text": "am I spending more? Or is it just inflation? Use code realvision at monarch.com to get your first year"
+    },
+    {
+      "start": 54.08,
+      "end": 62.64,
+      "text": "of Monarch core half off at just 50 dollars. That's 50% off your first year at Monarch.com with code real vision."
+    },
+    {
+      "start": 69.2,
+      "end": 74.32000000000001,
+      "text": "Happy Friday everyone and welcome to wrecked vision. I'm Bijan Maleki,"
+    },
+    {
+      "start": 74.4,
+      "end": 81.12,
+      "text": "filling in for Mando. Today we have a great conversation for you. We're joined by Grant from"
+    },
+    {
+      "start": 81.12,
+      "end": 87.68,
+      "text": "Blockmates to talk about just a bunch of things. Hyperlake, we're going to talk privacy coins,"
+    },
+    {
+      "start": 87.68,
+      "end": 93.68,
+      "text": "AI agents, human longevity and just so much more. Grant, thanks for joining us. How are you doing today?"
+    },
+    {
+      "start": 94.4,
+      "end": 99.36000000000001,
+      "text": "All good, all good. This is a great way to wrap up the Friday here in Europe. So yeah, thanks for"
+    },
+    {
+      "start": 99.36,
+      "end": 104.16,
+      "text": "having us on. Yeah, well, thanks for joining us. So I guess, you know, before we kind of get into it,"
+    },
+    {
+      "start": 105.12,
+      "end": 108.88,
+      "text": "let's talk a little bit about Blockmates because you guys are doing some pretty cool things,"
+    },
+    {
+      "start": 108.88,
+      "end": 113.84,
+      "text": "right? And you've been on wrecked vision before. So why don't we just, where are you guys at these"
+    },
+    {
+      "start": 113.84,
+      "end": 120.88,
+      "text": "days? Any new cool updates? I think you rad can film festival if I'm not mistaken. So tell us"
+    },
+    {
+      "start": 120.88,
+      "end": 126.64,
+      "text": "a little bit about what's going on with you guys. Yeah, well, first of all, I apologize to anyone"
+    },
+    {
+      "start": 126.8,
+      "end": 130.08,
+      "text": "who's looking at the site because the new site should go live in a few weeks. But"
+    },
+    {
+      "start": 131.28,
+      "end": 134.8,
+      "text": "primarily just kicking on doing the same old stuff. We're covering what's happening at the"
+    },
+    {
+      "start": 134.8,
+      "end": 139.6,
+      "text": "forefront of this industry, what's happening in the eye and just trying to present the most"
+    },
+    {
+      "start": 139.6,
+      "end": 145.12,
+      "text": "interesting teams and opportunities for people. It's quite in the weeds, but it's all positioned"
+    },
+    {
+      "start": 145.12,
+      "end": 149.92000000000002,
+      "text": "to be understandable to the average person on the street, you know, but it would like to present"
+    },
+    {
+      "start": 149.92000000000002,
+      "end": 154.4,
+      "text": "as early opportunities as physically possible to people and then hopefully, as I was mentioned"
+    },
+    {
+      "start": 154.48000000000002,
+      "end": 157.36,
+      "text": "before, we don't know, we don't have to buy our drink every time we go to the bar of confidence."
+    },
+    {
+      "start": 159.04,
+      "end": 164.8,
+      "text": "Yeah, no, absolutely. So like, one thing I wanted to just ask you about because you guys are,"
+    },
+    {
+      "start": 164.8,
+      "end": 170.0,
+      "text": "so your tagline basically on blockmates is you're the basically new frontier for digital media,"
+    },
+    {
+      "start": 170.0,
+      "end": 174.08,
+      "text": "right? And what is like, because you are, you're just an operator in this space, you're someone"
+    },
+    {
+      "start": 174.08,
+      "end": 179.04000000000002,
+      "text": "who's been here early, you know, making just great, giving great insights and just valuable"
+    },
+    {
+      "start": 179.04,
+      "end": 184.23999999999998,
+      "text": "information. So how do you think about like media in this like crazy web three in social media"
+    },
+    {
+      "start": 184.23999999999998,
+      "end": 191.51999999999998,
+      "text": "landscape? Um, I think like, so being completely candid, I really started to panic when I started to"
+    },
+    {
+      "start": 191.51999999999998,
+      "end": 197.28,
+      "text": "see the early iterations of AI come around and then we had a few foot three lenses that were quite"
+    },
+    {
+      "start": 197.28,
+      "end": 203.51999999999998,
+      "text": "obviously using it and those articles never made it like the light idea. And then I think started"
+    },
+    {
+      "start": 203.51999999999998,
+      "end": 208.39999999999998,
+      "text": "like progressing and I started getting less and less worried about the kind of media landscape,"
+    },
+    {
+      "start": 208.4,
+      "end": 213.52,
+      "text": "because I feel like anyone who's got a little bit of charisma, a little bit of personality,"
+    },
+    {
+      "start": 213.52,
+      "end": 219.20000000000002,
+      "text": "I think a little bit of taste, a little bit of opinion, I think matters more now than ever."
+    },
+    {
+      "start": 219.20000000000002,
+      "end": 223.6,
+      "text": "I think while everyone else is over there, just trying to commoditize all content, just becomes a"
+    },
+    {
+      "start": 223.6,
+      "end": 230.32,
+      "text": "risk. The bottom of this AI sloppiness just becomes so, you know, like we're posted to the average"
+    },
+    {
+      "start": 230.32,
+      "end": 234.08,
+      "text": "person, you can kind of spot it and have a sixth sense that you're reading something that slops."
+    },
+    {
+      "start": 234.08,
+      "end": 239.52,
+      "text": "So once said sloppers, um, sloppers when it's went take less time to create the thing that it does"
+    },
+    {
+      "start": 239.52,
+      "end": 244.72000000000003,
+      "text": "actually consume it. And I like really, really prescribed to that. And I think the way that media"
+    },
+    {
+      "start": 244.72000000000003,
+      "end": 249.44,
+      "text": "is actually going is, you've seen a lot of media fall off a cliff at the minute, a lot of like media"
+    },
+    {
+      "start": 249.44,
+      "end": 255.68,
+      "text": "pivot, but I really, really think now media, it couldn't be in a bad position, um, particularly in"
+    },
+    {
+      "start": 255.68,
+      "end": 260.72,
+      "text": "this dawn of AI, like you're looking at DBPN being acquired by open AI, they know distribution,"
+    },
+    {
+      "start": 260.72,
+      "end": 265.76000000000005,
+      "text": "they know credibility, they know reputation can't just be immediately created by any AI model and"
+    },
+    {
+      "start": 265.76000000000005,
+      "end": 270.08000000000004,
+      "text": "they need to be able to purchase that and need to be able to buy it and so that so, um, I was"
+    },
+    {
+      "start": 270.08000000000004,
+      "end": 276.72,
+      "text": "concerned, I'm increasingly bullish on media as a, as a business model now, but, uh, you know,"
+    },
+    {
+      "start": 276.72,
+      "end": 281.20000000000005,
+      "text": "things are changing every single day, but yeah, um, just looking at the landscape, I'm very,"
+    },
+    {
+      "start": 281.20000000000005,
+      "end": 285.36,
+      "text": "very optimistic about where we're going. Yeah, that's a fascinating point because I remember I"
+    },
+    {
+      "start": 286.08000000000004,
+      "end": 291.68,
+      "text": "watched a podcast a while back with, um, Ben Affleck and, uh, Matt Damon on the Joe Rogan podcast,"
+    },
+    {
+      "start": 291.68,
+      "end": 296.32,
+      "text": "and they were talking literally about this and Ben Affleck's thesis was like, basically, actually,"
+    },
+    {
+      "start": 296.32,
+      "end": 301.04,
+      "text": "it's a good, I think it's great for human creators because people are going to increasingly seek out"
+    },
+    {
+      "start": 301.04,
+      "end": 305.2,
+      "text": "things that are genuinely created by humans with that emotion and everything. So that's a great"
+    },
+    {
+      "start": 305.2,
+      "end": 312.16,
+      "text": "point you made there, Graham. Yeah, I think events events as well in fast and events is going to be a"
+    },
+    {
+      "start": 312.24,
+      "end": 316.8,
+      "text": "people are going to long to touch across and go and see people. So, yeah, uh, quite optimistic."
+    },
+    {
+      "start": 317.68,
+      "end": 322.08000000000004,
+      "text": "That's, that's so true. Ralph then talks about like, hey, you can either build a business in AI,"
+    },
+    {
+      "start": 322.08000000000004,
+      "end": 326.72,
+      "text": "or build a business that's like the opposite where it's like based on human interaction and like,"
+    },
+    {
+      "start": 326.72,
+      "end": 330.32000000000005,
+      "text": "they're living, three-seeing human experiences that people are going to seek out as we're like,"
+    },
+    {
+      "start": 330.32000000000005,
+      "end": 336.48,
+      "text": "just living in these digital lives, right, uh, crazy stuff. Um, so I want to talk about hyper-liquid"
+    },
+    {
+      "start": 336.48,
+      "end": 340.40000000000003,
+      "text": "because this is like, this is awesome. You, I think you were talking about this before"
+    },
+    {
+      "start": 340.40000000000003,
+      "end": 346.16,
+      "text": "anyone was back in 2023, our producer, uh, before we came my hair joke that he didn't even know"
+    },
+    {
+      "start": 346.16,
+      "end": 351.52000000000004,
+      "text": "hype was around back then. So can you just, you had a great thesis and I think we're kind of seeing"
+    },
+    {
+      "start": 351.52000000000004,
+      "end": 355.84000000000003,
+      "text": "that play out like literally right now in real time, which is crazy that you called this like three"
+    },
+    {
+      "start": 355.84000000000003,
+      "end": 360.72,
+      "text": "years ago at this point. So I'm going to kind of trace back to that moment, like, what did you see in"
+    },
+    {
+      "start": 360.72,
+      "end": 365.44000000000005,
+      "text": "that time? Uh, because hyper-liquid was just so new and like, I don't think it was on anyone's radar."
+    },
+    {
+      "start": 365.44,
+      "end": 369.92,
+      "text": "So like, what did you see and like, where are you seeing, uh, that thesis right now?"
+    },
+    {
+      "start": 371.36,
+      "end": 377.44,
+      "text": "Uh, so two two things that we look for like in early stage teams. So we're very, very selective of"
+    },
+    {
+      "start": 377.44,
+      "end": 381.44,
+      "text": "who we like to cover. It has to be new. Has to be novel. Has to be unique and"
+    },
+    {
+      "start": 382.24,
+      "end": 386.8,
+      "text": "people have to be thinking a little bit outside the box of how don't just do things because that's"
+    },
+    {
+      "start": 386.8,
+      "end": 391.36,
+      "text": "like the world-run path. Don't just like replicate the same old playbook and teams that I think"
+    },
+    {
+      "start": 391.36,
+      "end": 395.68,
+      "text": "just try and replicate things that I can't before. It just, it just never fails. And it's just kind"
+    },
+    {
+      "start": 395.68,
+      "end": 401.36,
+      "text": "of a, you know, as you roll across the law of diminishing returns like every single like one"
+    },
+    {
+      "start": 401.36,
+      "end": 406.48,
+      "text": "thereafter. So the team were very, very, very, very good. It was a lot easier to get in touch with them"
+    },
+    {
+      "start": 406.48,
+      "end": 414.40000000000003,
+      "text": "then. And um, the whole, the, the product in of itself took a few earlier iterations,"
+    },
+    {
+      "start": 414.40000000000003,
+      "end": 419.12,
+      "text": "and I'm meeting completely on some thinking back. But we at the time were, we had an idea that"
+    },
+    {
+      "start": 420.08,
+      "end": 426.4,
+      "text": "we think general purpose block space has a space in the industry. But I also thought that"
+    },
+    {
+      "start": 427.36,
+      "end": 435.2,
+      "text": "we felt like the demand for that general purpose block space was kind of hitting like a plateau."
+    },
+    {
+      "start": 435.2,
+      "end": 439.84000000000003,
+      "text": "It's such a saturation. And we thought, well, what's the, again, what's the equal and opposite"
+    },
+    {
+      "start": 439.84000000000003,
+      "end": 447.28000000000003,
+      "text": "reaction to that? So purpose built like text like in mind, built for a specific use case. And we thought,"
+    },
+    {
+      "start": 447.28000000000003,
+      "end": 451.36,
+      "text": "well, there's a lot of stuff happening in our cosmos at the time. None of that necessarily took"
+    },
+    {
+      "start": 451.36,
+      "end": 456.72,
+      "text": "off. And then once we spoke to this team and we kind of got a picture of like where the heads are"
+    },
+    {
+      "start": 456.72,
+      "end": 464.0,
+      "text": "from a mark, like a fundamental. And I wouldn't, I don't know that philosophical is too strong of a"
+    },
+    {
+      "start": 464.0,
+      "end": 469.92,
+      "text": "word, but how are we going to go to market and how like the core ethos of like crypto ideals had"
+    },
+    {
+      "start": 469.92,
+      "end": 475.68,
+      "text": "relatively been abandoned and how do you galvanize a community and like what does it actually mean"
+    },
+    {
+      "start": 475.68,
+      "end": 480.48,
+      "text": "to have a token and all those things just started like taking a lot of boxes in our heads for us. And"
+    },
+    {
+      "start": 481.28000000000003,
+      "end": 486.24,
+      "text": "like obviously the products killer. It's like, it's best in class product. But then that also has"
+    },
+    {
+      "start": 486.24,
+      "end": 490.72,
+      "text": "to match up with how you go to market and the way that you kind of conduct yourself. Because it's"
+    },
+    {
+      "start": 490.72,
+      "end": 495.28000000000003,
+      "text": "seen a lot of good products from market, but sometimes teams get too high on their own supply. And"
+    },
+    {
+      "start": 495.28000000000003,
+      "end": 500.64,
+      "text": "you're also betting on founders at that point from early stage startups. And I think it's played out."
+    },
+    {
+      "start": 500.71999999999997,
+      "end": 506.88,
+      "text": "And I wish we could see more of that. Like I wish we could see more of teams backing"
+    },
+    {
+      "start": 506.88,
+      "end": 511.36,
+      "text": "themselves to give a ridiculous amount of the token supply into the market, backing"
+    },
+    {
+      "start": 511.36,
+      "end": 516.4,
+      "text": "themselves with taking zero unlimited funding and then building for the base as opposed to"
+    },
+    {
+      "start": 516.4,
+      "end": 521.92,
+      "text": "defending the ridiculously highly implemented price. And I think that, I think if you look at that"
+    },
+    {
+      "start": 521.92,
+      "end": 528.24,
+      "text": "in deal and look at that in a like in microcosm, it's teams truly backing and believing what they're"
+    },
+    {
+      "start": 528.24,
+      "end": 532.64,
+      "text": "actually building as opposed to just trying to get a quick paid. And a lot of things just were"
+    },
+    {
+      "start": 532.64,
+      "end": 536.0,
+      "text": "lining up. So we're just like, right, we just need to need to get this thing covered. And"
+    },
+    {
+      "start": 536.96,
+      "end": 542.48,
+      "text": "yeah, they we actually got the post wrong. We said it was a we said it we'd give them people"
+    },
+    {
+      "start": 542.48,
+      "end": 547.04,
+      "text": "early access to Tesla, but it actually got them in that by the time we posted it. So Jeff"
+    },
+    {
+      "start": 547.04,
+      "end": 551.84,
+      "text": "shout out as on the timeline for that. But yeah, the rest is history really. And I think we've"
+    },
+    {
+      "start": 552.48,
+      "end": 555.92,
+      "text": "I'd say for many media companies, probably covered hyper, they're good apart from probably hyper"
+    },
+    {
+      "start": 555.92,
+      "end": 560.24,
+      "text": "collective. They classified themselves as a media company, but we've been championed what"
+    },
+    {
+      "start": 560.24,
+      "end": 564.4,
+      "text": "those guys have been doing and we'll continue to do so in the future. Yeah, I think you guys"
+    },
+    {
+      "start": 564.4,
+      "end": 569.5999999999999,
+      "text": "are make have a pretty clear case of being the early champions of that. I think most people heard"
+    },
+    {
+      "start": 569.5999999999999,
+      "end": 576.0,
+      "text": "about it first from your guys is, you know, thesis laid out. And I want to ask you about that because"
+    },
+    {
+      "start": 576.0,
+      "end": 581.76,
+      "text": "you know, we talked about kind of the launch, right? And the ethos and the kind of the the philosophy,"
+    },
+    {
+      "start": 581.76,
+      "end": 587.68,
+      "text": "I guess if you will behind crypto. And I think it is I think it's kind of a a referendum,"
+    },
+    {
+      "start": 587.68,
+      "end": 592.88,
+      "text": "if you will, on like kind of the VC token model, because hype is like completely different than that."
+    },
+    {
+      "start": 592.88,
+      "end": 597.68,
+      "text": "And like we always hear about fair launches in crypto. And I think that's what we like kind of"
+    },
+    {
+      "start": 597.68,
+      "end": 604.16,
+      "text": "expect in this space, but like that rarely happens. So what do you think like hyper liquid did that"
+    },
+    {
+      "start": 604.16,
+      "end": 608.16,
+      "text": "like address that in the market that made it like catch on so quickly with people?"
+    },
+    {
+      "start": 609.12,
+      "end": 614.0,
+      "text": "I think it's I know we've brought it up a couple of times and touched upon it, but I think with"
+    },
+    {
+      "start": 614.0,
+      "end": 622.56,
+      "text": "anything similar to what Raoul was saying, it's if we're hurtling towards this, like near future,"
+    },
+    {
+      "start": 622.56,
+      "end": 626.8,
+      "text": "or currently living in it where everyone is totally occupied by AI and we're starting to turn"
+    },
+    {
+      "start": 626.8,
+      "end": 631.1999999999999,
+      "text": "into the metrics. There's always an equal and opposite reaction to be played out. Think about,"
+    },
+    {
+      "start": 632.4,
+      "end": 636.88,
+      "text": "I don't know, even down to like vegetarian movement and vegan movement, there was a carnival"
+    },
+    {
+      "start": 636.88,
+      "end": 640.8,
+      "text": "movement like equal and opposite reactions are always kind of what were what I don't know why I'm"
+    },
+    {
+      "start": 640.8,
+      "end": 644.64,
+      "text": "tuned to let like think about stuff like that, but like what's the counter culture like"
+    },
+    {
+      "start": 645.68,
+      "end": 649.4399999999999,
+      "text": "where will the book go or where will the pendulum swing? And I think at the time,"
+    },
+    {
+      "start": 650.24,
+      "end": 656.32,
+      "text": "what you've seen was BCs had figured out that they could keep tokens like the token"
+    },
+    {
+      "start": 657.04,
+      "end": 660.48,
+      "text": "prices recovery was happening in the private markets and the average person on the street was"
+    },
+    {
+      "start": 660.48,
+      "end": 664.72,
+      "text": "not invited to partake in that and actually had influence, you had access and you had capital,"
+    },
+    {
+      "start": 665.44,
+      "end": 669.0400000000001,
+      "text": "so what would happen there is you'd get a token come to market with, I don't know,"
+    },
+    {
+      "start": 669.0400000000001,
+      "end": 674.96,
+      "text": "three to maybe 10% float, so let's apply if you were lucky, price recovery had already happened,"
+    },
+    {
+      "start": 674.96,
+      "end": 679.6800000000001,
+      "text": "you'd defend in this ridiculously high FDV that token was never going to amount to and then"
+    },
+    {
+      "start": 679.6800000000001,
+      "end": 684.64,
+      "text": "everyone got jaded because when they were buying stuff, stuff would just sat at astronomical values"
+    },
+    {
+      "start": 684.64,
+      "end": 688.24,
+      "text": "and wondering why tokens were consistently going down and everyone was referring to it at the time,"
+    },
+    {
+      "start": 688.24,
+      "end": 694.48,
+      "text": "it's like BC coins and people were just getting fat and bruised, people got sick of it,"
+    },
+    {
+      "start": 694.48,
+      "end": 699.28,
+      "text": "so immediately it's like, well, what's the equal opposite reaction? What I will say is,"
+    },
+    {
+      "start": 699.28,
+      "end": 704.48,
+      "text": "it probably went too far the other way, so I think there was two reactions, one of them was pumped up"
+    },
+    {
+      "start": 704.48,
+      "end": 711.2,
+      "text": "fun, because what's the, what's the antithesis of like BC low floor high FDV? It's launched,"
+    },
+    {
+      "start": 711.2,
+      "end": 716.24,
+      "text": "talking for two dollars and anyone can do it in an instant, that is the complete antithesis of it"
+    },
+    {
+      "start": 716.24,
+      "end": 722.08,
+      "text": "and the more ethical and more like pragmatic response to it was something like hyper liquid,"
+    },
+    {
+      "start": 722.08,
+      "end": 725.2,
+      "text": "they're a really, really good product that people want, that has product market fit,"
+    },
+    {
+      "start": 725.2,
+      "end": 731.5200000000001,
+      "text": "which is a lot harder, it's a lot easier said than done, but then also don't get keep"
+    },
+    {
+      "start": 731.5200000000001,
+      "end": 736.72,
+      "text": "allow the average person on the street to participate in the upside and allow fair and equal access,"
+    },
+    {
+      "start": 736.72,
+      "end": 740.8000000000001,
+      "text": "allow to be as close to a fair launch as physically possible, like the early days of DeFi and even like"
+    },
+    {
+      "start": 740.8000000000001,
+      "end": 745.84,
+      "text": "the early days of, I would say I'd say Bitcoin's a bit too strong to be comparing it to,"
+    },
+    {
+      "start": 745.84,
+      "end": 750.48,
+      "text": "well, quite a lot too strong to be comparing it to but the core crypto ideals with that and I think"
+    },
+    {
+      "start": 750.5600000000001,
+      "end": 756.8000000000001,
+      "text": "that's what is kind of like, just captured a lot of people's imagination and it's like yeah,"
+    },
+    {
+      "start": 756.8000000000001,
+      "end": 761.12,
+      "text": "this is what it's supposed to be like and like I got fair and equal access, I didn't have to have"
+    },
+    {
+      "start": 761.12,
+      "end": 765.36,
+      "text": "influence, I didn't have to be part of the fund, you know, so I think, I think those are the two"
+    },
+    {
+      "start": 765.36,
+      "end": 770.4,
+      "text": "opposite reactions and I think that's played out now and I would like to see a little bit more of it,"
+    },
+    {
+      "start": 770.4,
+      "end": 776.8000000000001,
+      "text": "I'm starting to see a few teas with the idea, obviously helps if you kind of gig a rich before,"
+    },
+    {
+      "start": 776.8000000000001,
+      "end": 781.5200000000001,
+      "text": "doing something like this because building these things are quite expensive and I think the"
+    },
+    {
+      "start": 781.5200000000001,
+      "end": 786.8800000000001,
+      "text": "high political team had a very, very successful market make a business before this so I've seen"
+    },
+    {
+      "start": 786.8800000000001,
+      "end": 792.4000000000001,
+      "text": "a few try and take the fair launch group which we may be getting to a little bit later but I think"
+    },
+    {
+      "start": 792.4000000000001,
+      "end": 797.44,
+      "text": "what Megarew did was pretty interesting where it was like KPI best vest things or nobody's going"
+    },
+    {
+      "start": 797.44,
+      "end": 802.32,
+      "text": "to eat unless we hit like actual tangible milestones, I think that was a step in the right direction but"
+    },
+    {
+      "start": 802.32,
+      "end": 806.32,
+      "text": "I just wish we seen a little bit more of that in the industry at times but, you know, when it"
+    },
+    {
+      "start": 806.32,
+      "end": 810.0,
+      "text": "goes right, it really, really goes right as you can see on the high political chart in front of us."
+    },
+    {
+      "start": 810.72,
+      "end": 818.4000000000001,
+      "text": "Yeah, absolutely, just breaking them through all time highs seemingly, you know, and like hype is,"
+    },
+    {
+      "start": 818.4000000000001,
+      "end": 823.6800000000001,
+      "text": "hype is what I like about them too is they're like continuing to innovate, right? So we obviously,"
+    },
+    {
+      "start": 823.6800000000001,
+      "end": 827.44,
+      "text": "you know, they're decentralized exchange, so we know what that is but then they added perps,"
+    },
+    {
+      "start": 827.44,
+      "end": 831.84,
+      "text": "right? And you could start trading oil, gold, silver, and you know, doing all of that and we just"
+    },
+    {
+      "start": 831.84,
+      "end": 836.72,
+      "text": "saw them blow up and then obviously recently they can't, they have that deal with Coinbase and"
+    },
+    {
+      "start": 836.72,
+      "end": 841.2,
+      "text": "Circle which, you know, just essentially adds a third revenue stream to that, it was like super bullish in"
+    },
+    {
+      "start": 841.2,
+      "end": 849.0400000000001,
+      "text": "general. Now, Matt Hogan of Bitwise is also really, really liking hype right now and I just want to"
+    },
+    {
+      "start": 849.0400000000001,
+      "end": 854.24,
+      "text": "bring this comment to your attention. So he said hyper liquid is not a crypto app, it's a super app,"
+    },
+    {
+      "start": 854.24,
+      "end": 860.32,
+      "text": "it's not targeting three trillion dollar crypto economy, it's targeting the six hundred trillion"
+    },
+    {
+      "start": 860.32,
+      "end": 866.96,
+      "text": "dollar global asset market. Now in your thesis, is that like something you envisioned happening"
+    },
+    {
+      "start": 866.96,
+      "end": 872.8000000000001,
+      "text": "with like hyper liquid is like, because that, that's just so crazy to me that we can see a relatively"
+    },
+    {
+      "start": 872.8000000000001,
+      "end": 878.1600000000001,
+      "text": "unknown deep like decentralized exchange, all of a sudden become like a global player, you know,"
+    },
+    {
+      "start": 878.1600000000001,
+      "end": 883.36,
+      "text": "and then we're also seeing them compete with finances, daily volume, their surpassing Coinbase's"
+    },
+    {
+      "start": 883.36,
+      "end": 887.7600000000001,
+      "text": "volume, which is just absolutely wild. So I just want to get your your cake on that."
+    },
+    {
+      "start": 888.24,
+      "end": 890.8,
+      "text": "Yeah, I'd love to say, yeah, I've seen the ground vision and"
+    },
+    {
+      "start": 892.3199999999999,
+      "end": 897.52,
+      "text": "before it was going to display us all of modern finance, but yeah, I don't even think,"
+    },
+    {
+      "start": 897.52,
+      "end": 900.0,
+      "text": "I mean, maybe they seem kind of in the back of their mind that they could achieve this,"
+    },
+    {
+      "start": 900.0,
+      "end": 903.36,
+      "text": "they have to be kind of like delusionaly bullish on what you build and they think at times, but"
+    },
+    {
+      "start": 903.92,
+      "end": 910.16,
+      "text": "yeah, like seeing it break through the, break through the kind of like bubble that we're sometimes in"
+    },
+    {
+      "start": 910.16,
+      "end": 916.48,
+      "text": "is, it's just amazing to see, you know, like the, I suppose the, the head of New York Stock Exchange,"
+    },
+    {
+      "start": 916.48,
+      "end": 920.16,
+      "text": "basically saying it's bigger than that, then I was talking as running on like 12 to 15 people,"
+    },
+    {
+      "start": 920.16,
+      "end": 925.6,
+      "text": "it's just, it's just hilarious at the same time, but yeah, it definitely didn't envision it to be"
+    },
+    {
+      "start": 925.6,
+      "end": 931.52,
+      "text": "this big, this quickly maybe, but maybe some people that I don't know. Yeah, no, it definitely"
+    },
+    {
+      "start": 931.52,
+      "end": 938.0,
+      "text": "and a truly impressive story, just kind of to to wrap a bow on this insane hyper liquid,"
+    },
+    {
+      "start": 938.5600000000001,
+      "end": 944.48,
+      "text": "just, I mean, it's $65 right now, and you're awesome. Like, where do you like, what do you see the"
+    },
+    {
+      "start": 944.48,
+      "end": 949.12,
+      "text": "future for hyper liquid? Where do you see them going? Like, do you think, do you think they can"
+    },
+    {
+      "start": 949.12,
+      "end": 953.52,
+      "text": "compete with like, you know, the big players or what, what, what's your take on them in the next,"
+    },
+    {
+      "start": 953.52,
+      "end": 959.6800000000001,
+      "text": "I don't know, a few years? Um, I think, so we're just looking at like FDV, it's sats."
+    },
+    {
+      "start": 962.5600000000001,
+      "end": 971.28,
+      "text": "That's what's it's 62 billion FDV, I think you've got only USDC higher XRP, which is two X from here."
+    },
+    {
+      "start": 972.24,
+      "end": 978.3199999999999,
+      "text": "Yeah, it's closing in on B and B, which is, you know, like these, these things can be"
+    },
+    {
+      "start": 978.3199999999999,
+      "end": 983.1999999999999,
+      "text": "self-fulfill in prophecies. I know they've kind of gone head to head, and Jeff was in one of the early"
+    },
+    {
+      "start": 983.1999999999999,
+      "end": 988.64,
+      "text": "Binance Accelerator Core Horts, and they're closer that gets, the more that likely becomes a,"
+    },
+    {
+      "start": 989.6,
+      "end": 993.52,
+      "text": "what is it, what is it, what comes, what comes raised the most then to 10 now comes the most likely,"
+    },
+    {
+      "start": 993.52,
+      "end": 998.0799999999999,
+      "text": "I think those things become a self-fulfill in prophecy and people will probably have to take profit"
+    },
+    {
+      "start": 998.08,
+      "end": 1005.84,
+      "text": "targets as those marketcaps and FDVs converge. So I don't know, man, it's, it's one of the,"
+    },
+    {
+      "start": 1005.84,
+      "end": 1010.1600000000001,
+      "text": "well, it's not the most profitable business on the planet, per revenue, per employee."
+    },
+    {
+      "start": 1013.12,
+      "end": 1017.9200000000001,
+      "text": "You know, when sometimes in the industry there is a little bit of revenue problem, and you know,"
+    },
+    {
+      "start": 1017.9200000000001,
+      "end": 1023.12,
+      "text": "you've just got things that have stuck around for no apparent reason, then on paper, you would"
+    },
+    {
+      "start": 1023.12,
+      "end": 1029.44,
+      "text": "expect to see it in top five, top maybe even three, but you know, I think into logically sometimes"
+    },
+    {
+      "start": 1029.44,
+      "end": 1036.08,
+      "text": "we can get you killed particularly in the markets. Yeah. Yeah, the way I think about it unlogically"
+    },
+    {
+      "start": 1036.08,
+      "end": 1042.72,
+      "text": "is I think like what if base was just an L1 and they said, you know what, you know, you're buying"
+    },
+    {
+      "start": 1042.72,
+      "end": 1048.0,
+      "text": "on Coinbase, we're going to take 97% of our fees and buy back and burn base, like how bullish would"
+    },
+    {
+      "start": 1048.0,
+      "end": 1053.84,
+      "text": "people be on that token? Like that's literally hype. So that's kind of how I view it."
+    },
+    {
+      "start": 1056.0,
+      "end": 1062.08,
+      "text": "So another thing that you've been talking about, and I want to kind of get your take on the privacy"
+    },
+    {
+      "start": 1062.08,
+      "end": 1067.12,
+      "text": "stuff, right? Zcash has been blowing up, we're seeing some of the old Bitcoin like cipher"
+    },
+    {
+      "start": 1067.12,
+      "end": 1072.56,
+      "text": "bunks, you know, kind of moving from Bitcoin into Zcash, maybe not all of it, but they're definitely"
+    },
+    {
+      "start": 1072.56,
+      "end": 1078.3999999999999,
+      "text": "buying a lot of Zcash, right? Winkelby, Balaji, all of them. Monero has obviously been in the news."
+    },
+    {
+      "start": 1078.3999999999999,
+      "end": 1084.8,
+      "text": "What's your take on kind of this privacy narrative going on? Yeah, I think, I don't think it's too"
+    },
+    {
+      "start": 1084.8,
+      "end": 1089.84,
+      "text": "dissimilar to what we've just been talking about, right? And I think it's, it's a few things like"
+    },
+    {
+      "start": 1089.84,
+      "end": 1099.2,
+      "text": "culminating at once. So one, I really think the battle was won for Bitcoin, and I think a lot of"
+    },
+    {
+      "start": 1099.2,
+      "end": 1105.52,
+      "text": "orgs will also subscribe to that idea that, right? What did we all use to say in 2016,"
+    },
+    {
+      "start": 1105.52,
+      "end": 1108.8,
+      "text": "2017, it was like, oh, the institutions are coming and they're going to buy our backs, right?"
+    },
+    {
+      "start": 1108.8,
+      "end": 1112.88,
+      "text": "All right, they're here and they've done it. So like, what is the next, what is the next battle"
+    },
+    {
+      "start": 1112.88,
+      "end": 1118.32,
+      "text": "of what's in our next conquest? Is it nation states? Like because after that, you start to get"
+    },
+    {
+      "start": 1118.32,
+      "end": 1123.92,
+      "text": "into territory that I don't really subscribe to that, it becomes just like the global currency,"
+    },
+    {
+      "start": 1124.0,
+      "end": 1131.68,
+      "text": "which I think is a little bit of the world for my liking, but I think the next battle, which I think"
+    },
+    {
+      "start": 1131.68,
+      "end": 1137.92,
+      "text": "is going to be much larger than anything that's been before it is privacy. And I think it's privacy,"
+    },
+    {
+      "start": 1137.92,
+      "end": 1143.2,
+      "text": "if you're in transactions, I do subscribe to being a human right, and I know a lot of people say,"
+    },
+    {
+      "start": 1143.2,
+      "end": 1147.44,
+      "text": "well, if you've got nothing to hide, like why should privacy matter? I don't subscribe to that"
+    },
+    {
+      "start": 1147.44,
+      "end": 1152.16,
+      "text": "whatsoever. I feel like I've got a stupid kind of phrase, and I think it's a stupid way to think"
+    },
+    {
+      "start": 1152.16,
+      "end": 1161.28,
+      "text": "about things. I think it's probably the last asset class that people could really buy into from"
+    },
+    {
+      "start": 1161.28,
+      "end": 1167.2,
+      "text": "an ideological and philosophical pursuit, and I think that hugs back to very, very, very early days"
+    },
+    {
+      "start": 1167.2,
+      "end": 1173.8400000000001,
+      "text": "of what the industry wants about. So there's a few things there. I think as the industry slowly"
+    },
+    {
+      "start": 1173.8400000000001,
+      "end": 1178.48,
+      "text": "starting to get more intertwined with the traditional rails, there's going to be equal opposite pushback"
+    },
+    {
+      "start": 1178.56,
+      "end": 1182.56,
+      "text": "again, not to continue to look at everything through that lens, but I think that plays into it as"
+    },
+    {
+      "start": 1182.56,
+      "end": 1187.28,
+      "text": "well. And you know, there's also a shit ton of geopolitical tension in the world, and people might"
+    },
+    {
+      "start": 1187.28,
+      "end": 1191.92,
+      "text": "want to be looking for an escape hatch as well. So a couple of different things culminate into a point"
+    },
+    {
+      "start": 1191.92,
+      "end": 1197.6,
+      "text": "of where, yeah, you start to see this like privacy narrative where it really begins to take up. And"
+    },
+    {
+      "start": 1197.6,
+      "end": 1203.76,
+      "text": "there's a few more technical about like the ZKs becoming a very, very good now, FHEs becoming very,"
+    },
+    {
+      "start": 1203.76,
+      "end": 1211.92,
+      "text": "very good now, T's becoming very, very good now. So like narrative is starting to align up and"
+    },
+    {
+      "start": 1211.92,
+      "end": 1217.92,
+      "text": "converge with the practicality of the underlying tech as well. So it's just a big wash of a lot of"
+    },
+    {
+      "start": 1217.92,
+      "end": 1222.0,
+      "text": "positive tailwinds I think. So I think that's all I've seen priced response to it as well."
+    },
+    {
+      "start": 1222.56,
+      "end": 1227.76,
+      "text": "Do you see one particular privacy coin being better than another? Like, for example, like a ZKash,"
+    },
+    {
+      "start": 1228.48,
+      "end": 1235.92,
+      "text": "a better use to hold then like a Monero, or like, how do you view like the, I guess, the"
+    },
+    {
+      "start": 1235.92,
+      "end": 1241.36,
+      "text": "the hierarchy within the privacy sector? Yeah, I think there was a pretty big unlock last year,"
+    },
+    {
+      "start": 1241.36,
+      "end": 1246.0,
+      "text": "maybe, talking November time, with the Cache and Shia of the transactions, and"
+    },
+    {
+      "start": 1247.92,
+      "end": 1253.76,
+      "text": "the mobile first wallet, which is really, really good. I'm going to say if I say one or the other,"
+    },
+    {
+      "start": 1253.76,
+      "end": 1260.64,
+      "text": "I'm going to get lasted for both sides, right? I'm not doglike enough to have a dog in any"
+    },
+    {
+      "start": 1260.64,
+      "end": 1265.76,
+      "text": "fight. From like my investor head on, I'd probably like to see the ZKash do a little bit better,"
+    },
+    {
+      "start": 1265.76,
+      "end": 1270.08,
+      "text": "but that's only because I've got buyers, so I've got a position in it. I think there's a lot of"
+    },
+    {
+      "start": 1270.08,
+      "end": 1275.2,
+      "text": "a really, really interesting stuff happening like mid-caps and a lot of cuts that slowly come online."
+    },
+    {
+      "start": 1278.48,
+      "end": 1282.56,
+      "text": "Curious about online trading, but haven't taken the first step yet? You're not alone"
+    },
+    {
+      "start": 1282.56,
+      "end": 1289.04,
+      "text": "and plus 500 futures is a great place to start. The futures markets are moving fast and with plus 500,"
+    },
+    {
+      "start": 1289.04,
+      "end": 1296.48,
+      "text": "you can explore popular assets like oil, gold, the S&P 500, Bitcoin, and more. From crypto to commodities,"
+    },
+    {
+      "start": 1296.48,
+      "end": 1301.52,
+      "text": "there's always something happening. The platform is super easy to use, so you can trade on the go"
+    },
+    {
+      "start": 1301.52,
+      "end": 1306.8,
+      "text": "right from your phone. And you can get started with just $100 and jump into the action. See something"
+    },
+    {
+      "start": 1306.8,
+      "end": 1311.76,
+      "text": "interesting? Once your account is open, you can trade it in just a couple of clicks. And if you're not"
+    },
+    {
+      "start": 1311.76,
+      "end": 1316.8799999999999,
+      "text": "quite ready yet, you can practice with a free demo account. No risk, no pressure. With over 20"
+    },
+    {
+      "start": 1316.8799999999999,
+      "end": 1323.36,
+      "text": "years of experience, plus 500 makes trading more accessible than ever. Check it out at plus500.com."
+    },
+    {
+      "start": 1323.36,
+      "end": 1327.84,
+      "text": "Trading in future involves risk of loss and is not suitable for everyone. Not all applicants"
+    },
+    {
+      "start": 1327.84,
+      "end": 1331.04,
+      "text": "will qualify. Plus 500, it's trading with a plus."
+    },
+    {
+      "start": 1331.04,
+      "end": 1341.84,
+      "text": "So yeah, I don't really have an opinion on the actual tech stock in and of itself. And what"
+    },
+    {
+      "start": 1342.56,
+      "end": 1349.6,
+      "text": "I think price will tell you which the best tech stock is. Even if it isn't, you're going to have"
+    },
+    {
+      "start": 1349.6,
+      "end": 1355.92,
+      "text": "people argue in the comments all day long about any opinion based on that. So yeah, we'll do stuff"
+    },
+    {
+      "start": 1355.92,
+      "end": 1361.1200000000001,
+      "text": "to see how it plays out. I'm with you. I'm with prices. The best tech stock. Just like a price"
+    },
+    {
+      "start": 1361.1200000000001,
+      "end": 1368.4,
+      "text": "lets me know which art looks the best, you know, I'm there with you. So one thing I wanted to ask you"
+    },
+    {
+      "start": 1368.4,
+      "end": 1372.88,
+      "text": "though, is it are you seeing kind of like, or do you think like retail or like just kind of the"
+    },
+    {
+      "start": 1372.88,
+      "end": 1377.76,
+      "text": "average purse average crypto holder is kind of moving into privacy? Are we mostly seeing like the big"
+    },
+    {
+      "start": 1377.76,
+      "end": 1382.4,
+      "text": "players speculators? Because right, it's like they're moving first and then like the actual users"
+    },
+    {
+      "start": 1382.4,
+      "end": 1387.0400000000002,
+      "text": "and retail arrive later. Like are you seeing that happening now? Or is it like still kind of like"
+    },
+    {
+      "start": 1387.0400000000002,
+      "end": 1393.76,
+      "text": "an early type of adoption curve on that? Yeah, I think it's like, you tend to get a lot of"
+    },
+    {
+      "start": 1393.76,
+      "end": 1398.88,
+      "text": "flash in the pan type narratives. I think this is something bigger than that. This has kind of"
+    },
+    {
+      "start": 1398.88,
+      "end": 1406.72,
+      "text": "been ticking over since Qlet Q3 2025 and is continuing to be one of the men's days. So it's not kind"
+    },
+    {
+      "start": 1406.72,
+      "end": 1411.6000000000001,
+      "text": "of like flash in the pan. It hasn't just been ignited by one catalyst. There's a multitude of things"
+    },
+    {
+      "start": 1411.6000000000001,
+      "end": 1418.0800000000002,
+      "text": "that have contributed to this being relatively top of mind show in the industry. I think it's the same"
+    },
+    {
+      "start": 1418.0800000000002,
+      "end": 1421.8400000000001,
+      "text": "same all same all. It's people who've stuck around in a bear market. They get the early opportunity"
+    },
+    {
+      "start": 1421.8400000000001,
+      "end": 1427.68,
+      "text": "to buy things that the lowest price possible. People will inherently buy in when it starts hitting"
+    },
+    {
+      "start": 1427.68,
+      "end": 1433.2800000000002,
+      "text": "the headlines and stuff like that. It's just that it always happens. Like not a lot of wealth is made"
+    },
+    {
+      "start": 1433.2800000000002,
+      "end": 1437.8400000000001,
+      "text": "in bear market when you do actually stick around and figure out where the narrative and where the"
+    },
+    {
+      "start": 1437.9199999999998,
+      "end": 1441.84,
+      "text": "kind of potential industry is actually heading. So I try and forecast in yourself and"
+    },
+    {
+      "start": 1441.84,
+      "end": 1447.04,
+      "text": "I pick and stuff up really like out the lows, thinking about maybe Solana, last cycle,"
+    },
+    {
+      "start": 1447.04,
+      "end": 1450.8,
+      "text": "eight to ten dollars and things like that. That's where the true meat is actually made. It's not"
+    },
+    {
+      "start": 1450.8,
+      "end": 1457.04,
+      "text": "when you start seeing it all on CNN, CNBC and like all these major headlines and you have to"
+    },
+    {
+      "start": 1457.04,
+      "end": 1461.6,
+      "text": "pick it up and stuff like that. So people will inherently come in. Do I think people"
+    },
+    {
+      "start": 1462.5600000000002,
+      "end": 1469.0400000000002,
+      "text": "will care about it as much as they should? No. I think if we get onto Ethereum, I think there's"
+    },
+    {
+      "start": 1469.0400000000002,
+      "end": 1474.5600000000002,
+      "text": "probably some close parallels there as well. I think it's one of those things where people don't"
+    },
+    {
+      "start": 1474.5600000000002,
+      "end": 1479.1200000000001,
+      "text": "care about it until it's too late and then they wish it did. And I think because we're so close"
+    },
+    {
+      "start": 1479.1200000000001,
+      "end": 1484.88,
+      "text": "to it, we probably assume that people give more of a shit about it then. But I think we just live"
+    },
+    {
+      "start": 1484.88,
+      "end": 1490.0000000000002,
+      "text": "in the second chamber our time. We spend too much time online and we're all kind of like"
+    },
+    {
+      "start": 1490.0,
+      "end": 1494.48,
+      "text": "ideologically aligned in the sense so you kind of all have the same opinions but you take a step"
+    },
+    {
+      "start": 1494.48,
+      "end": 1497.84,
+      "text": "outside and you go and ask the average person on the street then you have absolutely no idea."
+    },
+    {
+      "start": 1497.84,
+      "end": 1502.96,
+      "text": "They're subbiting all their data to Facebook quizzes telling them what Disney character they're"
+    },
+    {
+      "start": 1502.96,
+      "end": 1507.68,
+      "text": "going to be in like Cambridge Analytico, but breathing down the neck and they're absolutely everything"
+    },
+    {
+      "start": 1507.68,
+      "end": 1512.32,
+      "text": "about you. So it's one of those things where the average person has absolutely no idea what they're"
+    },
+    {
+      "start": 1512.32,
+      "end": 1517.92,
+      "text": "giving over a day and they probably don't care until let's do it. So a quick break in your regular"
+    },
+    {
+      "start": 1517.92,
+      "end": 1523.68,
+      "text": "programming. If you're serious about your future, grab my free report called Prepare for 2030."
+    },
+    {
+      "start": 1524.3200000000002,
+      "end": 1528.5600000000002,
+      "text": "I think you've got five years to make as much money as possible and this guide will help you"
+    },
+    {
+      "start": 1528.5600000000002,
+      "end": 1534.5600000000002,
+      "text": "navigate what's coming. The link is in the description. Download it now. Yeah, I mean I think even"
+    },
+    {
+      "start": 1534.5600000000002,
+      "end": 1538.8000000000002,
+      "text": "like the average person within crypto barely cares about their security until like they get"
+    },
+    {
+      "start": 1538.8000000000002,
+      "end": 1543.28,
+      "text": "a scare. So like I can't imagine they would care about their privacy until like and it actually"
+    },
+    {
+      "start": 1543.36,
+      "end": 1549.6,
+      "text": "directly impacts them. So you touched on it. I want to move to ETH. ETH has just been"
+    },
+    {
+      "start": 1550.16,
+      "end": 1556.8,
+      "text": "they've really been in the news right from the brain drain narrative to Vitalik's sci-fi novel."
+    },
+    {
+      "start": 1556.8,
+      "end": 1560.72,
+      "text": "Like what's going on in ETH right now? Grant, talk to me here."
+    },
+    {
+      "start": 1562.0,
+      "end": 1568.48,
+      "text": "This one pains me more than anything because I hit being awfully critical about it because"
+    },
+    {
+      "start": 1568.48,
+      "end": 1573.04,
+      "text": "I really wanted it to succeed. I think it could have been like one of the greatest public goods"
+    },
+    {
+      "start": 1573.04,
+      "end": 1581.52,
+      "text": "to humanity ever invented. And I think I truly really stand by that. I just think I think it's"
+    },
+    {
+      "start": 1581.52,
+      "end": 1588.32,
+      "text": "been a long time in existence now. I think there's been a lot of ideas around where they want to go"
+    },
+    {
+      "start": 1588.32,
+      "end": 1592.6399999999999,
+      "text": "and it's fine to pivot. It's completely fine to pivot. But if you're going to execute at speed"
+    },
+    {
+      "start": 1592.6399999999999,
+      "end": 1597.6,
+      "text": "as at the same rate as what you're pivoting, that's completely fine. I think they've been dragged"
+    },
+    {
+      "start": 1597.6,
+      "end": 1602.8,
+      "text": "into a throughput conversation with Salana and other highly performing pragmatic chains,"
+    },
+    {
+      "start": 1603.2,
+      "end": 1607.68,
+      "text": "which they're never going to win. Unfortunately, they're never going to win. They should be stuck"
+    },
+    {
+      "start": 1607.68,
+      "end": 1613.28,
+      "text": "to single, hydrological pursuit. They've been the maximum decentralized chain, don't get thrown"
+    },
+    {
+      "start": 1613.28,
+      "end": 1619.68,
+      "text": "into other kind of situations. People would be actually, I think people would actually subscribe"
+    },
+    {
+      "start": 1619.68,
+      "end": 1623.68,
+      "text": "to the fact that if it was just going to stay as it was for the longest period of time and then"
+    },
+    {
+      "start": 1623.68,
+      "end": 1629.52,
+      "text": "knew what was actually coming without this flip flopping of ideas and changing leadership and just"
+    },
+    {
+      "start": 1629.52,
+      "end": 1635.76,
+      "text": "lack of overall direction. This isn't 2016, 2017, where people are just having to go anymore."
+    },
+    {
+      "start": 1635.76,
+      "end": 1640.24,
+      "text": "They've got the likes of tempo, which is quite stripe and it's been portioned some of the,"
+    },
+    {
+      "start": 1640.24,
+      "end": 1644.6399999999999,
+      "text": "if you like lead Ethereum researchers and it's got all the distribution of stripe and it's got"
+    },
+    {
+      "start": 1644.6399999999999,
+      "end": 1649.2,
+      "text": "500 million dollars behind it and paradigm are involved and you've got Salana, which is"
+    },
+    {
+      "start": 1650.16,
+      "end": 1655.52,
+      "text": "hyper hyper hyper organized and hyper competitor than that likes a hyper liquid. So the industry's"
+    },
+    {
+      "start": 1655.92,
+      "end": 1660.32,
+      "text": "thought, well, it's good, but it's not pragmatic for the use cases that there is actually demand for."
+    },
+    {
+      "start": 1660.32,
+      "end": 1665.68,
+      "text": "So it creates a situation where it's all well and good having a roadmap to 2030, but are you"
+    },
+    {
+      "start": 1665.68,
+      "end": 1672.16,
+      "text": "going to be relevant enough into that time where people actually give a shit? And if I'm being"
+    },
+    {
+      "start": 1672.16,
+      "end": 1677.84,
+      "text": "really critical, if you've got a roadmap to 2030, and if you keep selling your treasury at the rate"
+    },
+    {
+      "start": 1677.84,
+      "end": 1682.8799999999999,
+      "text": "you're going to go, you're going to run out of funds by 2027. So how does that work? I know there's a lot"
+    },
+    {
+      "start": 1682.88,
+      "end": 1688.24,
+      "text": "more people I contribute to the enablement and the financing of to maintain the network, but"
+    },
+    {
+      "start": 1689.0400000000002,
+      "end": 1693.2,
+      "text": "I don't know, you send in mixed signals to the market that you can't expect to be able to"
+    },
+    {
+      "start": 1693.2,
+      "end": 1698.4,
+      "text": "keep people interested for a long enough time to see your ideological pursuit actually become a"
+    },
+    {
+      "start": 1698.4,
+      "end": 1704.0,
+      "text": "reality. And I also don't like the fact that they've basically done everything they can not"
+    },
+    {
+      "start": 1704.0,
+      "end": 1707.68,
+      "text": "to promote what happened in the DeFi sector, which basically put them on the map."
+    },
+    {
+      "start": 1708.4,
+      "end": 1716.88,
+      "text": "There's been a lot of kind of anything that hasn't been financed as relatively being pursued, but"
+    },
+    {
+      "start": 1717.8400000000001,
+      "end": 1721.1200000000001,
+      "text": "like if we're talking about it correctly, I don't think people give a shit."
+    },
+    {
+      "start": 1722.4,
+      "end": 1726.4,
+      "text": "What are these networks good for? They're good for financial"
+    },
+    {
+      "start": 1726.4,
+      "end": 1731.1200000000001,
+      "text": "preliminaries, they're good for new opportunities on Jan, they're good for giving the average"
+    },
+    {
+      "start": 1731.1200000000001,
+      "end": 1734.72,
+      "text": "person on the street no matter where they're from, permissionless access to financial instruments"
+    },
+    {
+      "start": 1734.72,
+      "end": 1738.24,
+      "text": "that they've never, ever, ever in their wildest dreams thought they could get access to."
+    },
+    {
+      "start": 1738.24,
+      "end": 1742.16,
+      "text": "That is the bread and butter of the industry. Everything else can be built from that as a best."
+    },
+    {
+      "start": 1742.16,
+      "end": 1746.48,
+      "text": "That's fine, we'll get that shit sorted first and lean into that and use that as your"
+    },
+    {
+      "start": 1746.48,
+      "end": 1751.52,
+      "text": "distribution mechanism and then go and do all the artistic pursuits and the social and everything"
+    },
+    {
+      "start": 1751.52,
+      "end": 1755.84,
+      "text": "else could that can be like that's downstream of that, but I think I think you need to get like"
+    },
+    {
+      "start": 1755.84,
+      "end": 1760.48,
+      "text": "the house in order for the finance in DeFi first and then build from the butter."
+    },
+    {
+      "start": 1761.2,
+      "end": 1767.52,
+      "text": "It just annoys me because I wanted to see I want it to do well more than anything really in the"
+    },
+    {
+      "start": 1767.52,
+      "end": 1771.68,
+      "text": "industry. It's kind of what got me really, really interested in DeFi. It's what made me kind of leave"
+    },
+    {
+      "start": 1772.64,
+      "end": 1777.6,
+      "text": "why I was supposed to do from a regular career perspective to go and pursue what's happened in DeFi"
+    },
+    {
+      "start": 1777.6,
+      "end": 1782.96,
+      "text": "and then just seeing how they've kind of like dropped the ball and luckily leadership is just"
+    },
+    {
+      "start": 1782.96,
+      "end": 1788.56,
+      "text": "frustrating more than anything else I think. Do you think that decentralised nature of eat"
+    },
+    {
+      "start": 1788.6399999999999,
+      "end": 1792.24,
+      "text": "is actually hurting it in that aspect? Because you did mention like Salana and how they're like"
+    },
+    {
+      "start": 1792.24,
+      "end": 1799.28,
+      "text": "very organised. I feel like that's a product of Salana being centralised. They have a clear"
+    },
+    {
+      "start": 1799.28,
+      "end": 1803.84,
+      "text": "board, they have a clear leadership hierarchy and that's driving the ship, whereas"
+    },
+    {
+      "start": 1803.84,
+      "end": 1811.28,
+      "text": "if yeah, like Vitalik there, but how much is that really impacting it? So just curious on your"
+    },
+    {
+      "start": 1811.28,
+      "end": 1817.6,
+      "text": "thoughts on that. Yeah, that's a really good point because when people say it's like"
+    },
+    {
+      "start": 1819.36,
+      "end": 1823.04,
+      "text": "when people say it's a distributed system and like there's nothing like Ethereum,"
+    },
+    {
+      "start": 1823.04,
+      "end": 1829.9199999999998,
+      "text": "when it comes to the Burmese hardware and people running Ethereum globally. I think the pushback"
+    },
+    {
+      "start": 1829.9199999999998,
+      "end": 1835.44,
+      "text": "on Salana being artificially decentralised from a hardware perspective is a bit poor to be honest,"
+    },
+    {
+      "start": 1835.44,
+      "end": 1839.36,
+      "text": "but then when you come down to like who's there in the ship, who has the gun vision, what is the"
+    },
+    {
+      "start": 1839.36,
+      "end": 1845.2,
+      "text": "north star and who's actually making sure that it's executed against? If you put them side by side,"
+    },
+    {
+      "start": 1846.0,
+      "end": 1852.32,
+      "text": "it's night and day. It really is night and day. And not to say that some of the Ethereum researchers"
+    },
+    {
+      "start": 1852.32,
+      "end": 1855.6000000000001,
+      "text": "aren't doing great work, they're probably some of the smartest people on the planet working on"
+    },
+    {
+      "start": 1856.24,
+      "end": 1862.8,
+      "text": "some of the most technical concepts known to man, but putting that to use is also equally"
+    },
+    {
+      "start": 1862.8,
+      "end": 1866.8,
+      "text": "as important and getting that to market is also equally as important and making sure people"
+    },
+    {
+      "start": 1866.8,
+      "end": 1871.04,
+      "text": "give a shit or making sure it actually falls on people's radar is also equally important. So"
+    },
+    {
+      "start": 1871.92,
+      "end": 1879.52,
+      "text": "it feels like a battle of a team from yesterday where the vast majority of people's"
+    },
+    {
+      "start": 1879.52,
+      "end": 1883.92,
+      "text": "mantra and attention, the reason why they were in the industry was brought around from an ideological"
+    },
+    {
+      "start": 1883.92,
+      "end": 1890.0,
+      "text": "pursuit where when now in this all the tech actually works, we're walking a bit useful. So you've"
+    },
+    {
+      "start": 1890.0,
+      "end": 1895.12,
+      "text": "got this like ideology versus pragmatism battle going on and the market sure on you which one"
+    },
+    {
+      "start": 1895.1200000000001,
+      "end": 1900.0000000000002,
+      "text": "it prefers and it's an ultimate ideological pursuit. Unfortunately."
+    },
+    {
+      "start": 1901.2800000000002,
+      "end": 1906.16,
+      "text": "Yeah, I think a lot of us, you know, kind of want it, want to do well. I think there's a lot of us,"
+    },
+    {
+      "start": 1906.16,
+      "end": 1911.44,
+      "text": "especially those people that got in in 2017 or even like right around the COVID time. I think a"
+    },
+    {
+      "start": 1911.44,
+      "end": 1919.5200000000002,
+      "text": "lot of people were buying eth over Bitcoin because they saw the ROI on eth over Bitcoin. So a lot of us"
+    },
+    {
+      "start": 1919.52,
+      "end": 1926.24,
+      "text": "hold a near and dear. So yeah, I'm with you on that. So I'm going to pivot to a little AI talk"
+    },
+    {
+      "start": 1926.24,
+      "end": 1931.12,
+      "text": "right? Because this is obviously like all the narrative. I feel like every every time on my timeline,"
+    },
+    {
+      "start": 1931.12,
+      "end": 1938.32,
+      "text": "I see like some posts about Claude just made this job obsolete. So I'm in YouTube this, you know,"
+    },
+    {
+      "start": 1938.32,
+      "end": 1942.72,
+      "text": "this and that right? There's so many posts just going on. So it's obviously everywhere. But before"
+    },
+    {
+      "start": 1942.72,
+      "end": 1950.16,
+      "text": "we do that, I just want to get your quick take on near protocol because Janie Coot's real vision,"
+    },
+    {
+      "start": 1950.16,
+      "end": 1954.72,
+      "text": "crypto and chief crypto analyst has been talking about near a lot. They had a really big pump up and"
+    },
+    {
+      "start": 1955.3600000000001,
+      "end": 1959.84,
+      "text": "I feel like it might be, I don't really know what they do to be completely honest with you,"
+    },
+    {
+      "start": 1959.84,
+      "end": 1965.84,
+      "text": "but I feel like they might be like the L1 that is I guess closely, most closely related to the AI"
+    },
+    {
+      "start": 1965.84,
+      "end": 1971.68,
+      "text": "space. But I wanted to hear your thoughts on it. Yeah, I mean, Nia's been around for a while and"
+    },
+    {
+      "start": 1971.68,
+      "end": 1977.68,
+      "text": "I'm just pulling up. I got to just check what I'm about to say is correct. So I think what's"
+    },
+    {
+      "start": 1977.68,
+      "end": 1985.44,
+      "text": "interesting about Nia is they've got two products that are probably the most two under it products in"
+    },
+    {
+      "start": 1985.44,
+      "end": 1992.64,
+      "text": "the full industry. And one of them is near intent. So being able to basically be anywhere and tap"
+    },
+    {
+      "start": 1992.64,
+      "end": 1999.6000000000001,
+      "text": "into any asset and the user experience is absolutely fantastic. And there's very, very trust minimized"
+    },
+    {
+      "start": 1999.6000000000001,
+      "end": 2003.68,
+      "text": "security assumptions. And it's just a fantastic product. But like a quite a big problem in the"
+    },
+    {
+      "start": 2003.68,
+      "end": 2008.72,
+      "text": "industry, which is quickly you're actually moving around on Chen. That goes on notice in the revenue"
+    },
+    {
+      "start": 2008.72,
+      "end": 2014.4,
+      "text": "on that thing is absolutely nuts. That's the thing that got you going. Then the confidential transactions"
+    },
+    {
+      "start": 2014.4,
+      "end": 2018.16,
+      "text": "which you just basically roll out that just went under the radar. I don't know what happened"
+    },
+    {
+      "start": 2018.16,
+      "end": 2021.5200000000002,
+      "text": "that there, but you know where there's like a quite a heavy news there and someone's waiting for"
+    },
+    {
+      "start": 2021.5200000000002,
+      "end": 2025.5200000000002,
+      "text": "an announcement and it just gets washed. Then I didn't see anything else from that, but I was just like"
+    },
+    {
+      "start": 2025.6,
+      "end": 2031.36,
+      "text": "that is huge. That's massive. But maybe at the same time, it's like, well, market's not really"
+    },
+    {
+      "start": 2031.36,
+      "end": 2034.48,
+      "text": "paid attention. It's probably opportunity. But I think that's why you're seeing this surprise"
+    },
+    {
+      "start": 2034.48,
+      "end": 2041.68,
+      "text": "appreciation in it. One other thing. And I'd have to like 100% check this. But from what I'm seeing"
+    },
+    {
+      "start": 2042.48,
+      "end": 2048.4,
+      "text": "on the block explorer, it looks like it's fully, fully vested. So no kind of"
+    },
+    {
+      "start": 2049.36,
+      "end": 2054.88,
+      "text": "I've got this big unlock coming. It's like who's why's it going? It was going to get hold of it."
+    },
+    {
+      "start": 2056.8,
+      "end": 2061.52,
+      "text": "So yeah, there's a few things there. There's obviously the strong contentions of AI. They do"
+    },
+    {
+      "start": 2061.52,
+      "end": 2066.56,
+      "text": "a shit ton of work in that space and they're like really, really, really, really, really strong team."
+    },
+    {
+      "start": 2068.4,
+      "end": 2071.44,
+      "text": "So yeah, I think it's again, it's one of those things where it's covering a lot of different"
+    },
+    {
+      "start": 2071.44,
+      "end": 2076.08,
+      "text": "tailwinds at the same time. And anytime where you've got probably one tailwind, it's just like"
+    },
+    {
+      "start": 2076.08,
+      "end": 2080.72,
+      "text": "a little bit more difficult to purchase and you kind of think, well, if that enveloping"
+    },
+    {
+      "start": 2080.72,
+      "end": 2084.16,
+      "text": "validation happens and it's like, it's kind of dead in the water, but it's got a lot of good"
+    },
+    {
+      "start": 2084.16,
+      "end": 2087.92,
+      "text": "things going for it at the same time. And I think in a time where people are just sick of this"
+    },
+    {
+      "start": 2087.92,
+      "end": 2092.16,
+      "text": "supply overhang as well, it's, you know, it looks quite appealing for a lot of people. And I think"
+    },
+    {
+      "start": 2093.04,
+      "end": 2097.92,
+      "text": "any liquid funds very easily justifiable if you want to go and purchase some near in the market,"
+    },
+    {
+      "start": 2097.92,
+      "end": 2105.6,
+      "text": "I think. Yeah. So yeah, let's move on to AI, right? AI agents."
+    },
+    {
+      "start": 2105.6,
+      "end": 2110.7999999999997,
+      "text": "So let's let's talk about our first of all, are you using any agents in what you do or"
+    },
+    {
+      "start": 2110.7999999999997,
+      "end": 2115.2799999999997,
+      "text": "like how, how are you thinking about that? Yeah, I keep, I keep floating between"
+    },
+    {
+      "start": 2115.2799999999997,
+      "end": 2119.04,
+      "text": "chords. I'm basically running everything up my terminal and then it keeps getting"
+    },
+    {
+      "start": 2120.64,
+      "end": 2126.24,
+      "text": "like noticeably rubbish from time to time. And then they've obviously just pushed 4.8."
+    },
+    {
+      "start": 2127.6,
+      "end": 2131.12,
+      "text": "Cordex, I've been playing around with from opening AI, which is really, really good."
+    },
+    {
+      "start": 2131.7599999999998,
+      "end": 2136.64,
+      "text": "And we joke internally that whenever chord chords down, people might as well have a day off. So"
+    },
+    {
+      "start": 2138.16,
+      "end": 2142.56,
+      "text": "no one knows that I send an email anymore, but yeah, you have very much in the weeds. We've got"
+    },
+    {
+      "start": 2142.56,
+      "end": 2147.12,
+      "text": "a few products coming out. Over coming weeks were 12 months ago. They would have been just"
+    },
+    {
+      "start": 2147.12,
+      "end": 2151.7599999999998,
+      "text": "where to constantly start to build or getting your idea across someone who actually build them,"
+    },
+    {
+      "start": 2151.7599999999998,
+      "end": 2156.56,
+      "text": "what has just been like pulling teeth and you never get your actual vision down into the page"
+    },
+    {
+      "start": 2156.56,
+      "end": 2160.72,
+      "text": "when it's kind of getting lost in translations to people. So I think it's one of the most exciting times"
+    },
+    {
+      "start": 2161.36,
+      "end": 2165.6800000000003,
+      "text": "even just if you can think that you can build it now, I think it's, you know, it's just an amazing"
+    },
+    {
+      "start": 2165.6800000000003,
+      "end": 2168.5600000000004,
+      "text": "time for Cikilevi who's got a lot of ideas and we're going to get them out in the world."
+    },
+    {
+      "start": 2169.6800000000003,
+      "end": 2173.6800000000003,
+      "text": "Yeah, absolutely. Raoul also jokes about like he knows when Claude is about to"
+    },
+    {
+      "start": 2173.6800000000003,
+      "end": 2180.4800000000005,
+      "text": "first shout a new model because absolutely nuke his, the old father, like mess up the memory"
+    },
+    {
+      "start": 2180.4800000000005,
+      "end": 2187.6000000000004,
+      "text": "and everything. So, anthropic also, like they just, I mean, it feels like every day is like"
+    },
+    {
+      "start": 2187.68,
+      "end": 2191.12,
+      "text": "their, their valuation is interesting. They're going to, they're going to, obviously,"
+    },
+    {
+      "start": 2191.12,
+      "end": 2195.2799999999997,
+      "text": "they're going to break a trillion. It's just a matter of like when, which probably very soon,"
+    },
+    {
+      "start": 2195.2799999999997,
+      "end": 2200.56,
+      "text": "open AI, same thing, SpaceX, like same thing. They're probably going to, there's talks about them,"
+    },
+    {
+      "start": 2200.56,
+      "end": 2206.08,
+      "text": "you know, combining with Tesla and everything. So there's a lot, just a lot going on. What do you think,"
+    },
+    {
+      "start": 2206.08,
+      "end": 2211.36,
+      "text": "because I have this theory, and I don't know like how, how valid it is, but I have this theory"
+    },
+    {
+      "start": 2211.36,
+      "end": 2215.92,
+      "text": "that retail is going to get wrecked on these IPOs, but like I just wanted to hear like how you"
+    },
+    {
+      "start": 2215.92,
+      "end": 2220.8,
+      "text": "think about like all of these like insane valuations that are coming to market."
+    },
+    {
+      "start": 2221.76,
+      "end": 2229.6,
+      "text": "Yeah, I kind of agree, unfortunately. So why are these valuations happening, and why"
+    },
+    {
+      "start": 2232.0,
+      "end": 2236.0,
+      "text": "teams staying private for much longer, and not having to go for the headache of having to go"
+    },
+    {
+      "start": 2236.0,
+      "end": 2241.92,
+      "text": "public? So there's more and more access to private capital than ever. Like Stripe, Stripe, we've"
+    },
+    {
+      "start": 2241.92,
+      "end": 2247.6800000000003,
+      "text": "got a good, right? Stripe basically invites prime investors in, and they say to their employees"
+    },
+    {
+      "start": 2247.6800000000003,
+      "end": 2251.28,
+      "text": "and people on the board, do you want to sell any secondaries? So do you want to sell any of your"
+    },
+    {
+      "start": 2251.28,
+      "end": 2255.04,
+      "text": "options and shares? There's people lining up around the block to just buy that off and get"
+    },
+    {
+      "start": 2255.04,
+      "end": 2258.16,
+      "text": "exposure. So they don't necessarily need to go public because they've got infinite access to"
+    },
+    {
+      "start": 2258.16,
+      "end": 2263.44,
+      "text": "private cash. Now anyone in the right mind who's got a Monday or a phone to actually allocate"
+    },
+    {
+      "start": 2263.44,
+      "end": 2268.88,
+      "text": "to Anthropic, I've seen a house listing in SF, I've been there that was willing to take"
+    },
+    {
+      "start": 2268.96,
+      "end": 2274.8,
+      "text": "exposure to Anthropic instead of cash. Like, this is the state we're in. I think it was like"
+    },
+    {
+      "start": 2274.8,
+      "end": 2279.6800000000003,
+      "text": "8 million on some shit, and same for OpenAI, they've got infinite access to private cash,"
+    },
+    {
+      "start": 2279.6800000000003,
+      "end": 2283.04,
+      "text": "and I think Elon's just gone to infinite money printer and could raise money"
+    },
+    {
+      "start": 2283.92,
+      "end": 2288.6400000000003,
+      "text": "in any situation, doesn't really matter what's happening. So that's just driving private market"
+    },
+    {
+      "start": 2288.6400000000003,
+      "end": 2294.0,
+      "text": "valuation as high as possible, until it becomes untenable for that private cash jet, actually"
+    },
+    {
+      "start": 2294.0,
+      "end": 2297.12,
+      "text": "picture it actually getting a return investment. You've got to remember, in the videos set at"
+    },
+    {
+      "start": 2297.12,
+      "end": 2301.36,
+      "text": "level 5 trillion. So there is still some upside of people think there's going to play out, but"
+    },
+    {
+      "start": 2301.36,
+      "end": 2306.64,
+      "text": "the question is then is where are we in the cycle? So do you really want to be going to allocate?"
+    },
+    {
+      "start": 2306.64,
+      "end": 2309.76,
+      "text": "Because you've got to be putting meaningful size in that trillion dollar valuation if you"
+    },
+    {
+      "start": 2309.76,
+      "end": 2313.68,
+      "text": "wanted to decent return, compared to, I don't know, going a little bit higher up the stack,"
+    },
+    {
+      "start": 2313.68,
+      "end": 2319.6,
+      "text": "I'm looking at some consumer stuff and, you know, maybe defense tech or robotics, and there's a"
+    },
+    {
+      "start": 2319.6,
+      "end": 2324.08,
+      "text": "couple of other shiny narratives that come in quantum, like photonics, like all this sort of stuff."
+    },
+    {
+      "start": 2325.8399999999997,
+      "end": 2333.36,
+      "text": "I think, I don't want to be a doomer about this, I think they're running out as"
+    },
+    {
+      "start": 2335.2,
+      "end": 2340.48,
+      "text": "people that are willing to give them money in the private markets, and once that does run dry,"
+    },
+    {
+      "start": 2341.44,
+      "end": 2348.88,
+      "text": "retail is stupid. It's the thought, and he wouldn't want to get access to OpenAI"
+    },
+    {
+      "start": 2350.48,
+      "end": 2357.12,
+      "text": "when all they do is create dog pictures of himself, or, you know, like using Judgy PT image gen,"
+    },
+    {
+      "start": 2357.12,
+      "end": 2364.08,
+      "text": "or they've created their first application on God, and Elon's got this kind of cult,"
+    },
+    {
+      "start": 2365.2,
+      "end": 2368.8,
+      "text": "like religious following behind him, so you can take anything public and people want to"
+    },
+    {
+      "start": 2368.8,
+      "end": 2375.84,
+      "text": "expose it to it, so I think it might be scary when a huge liquidity circle when these things"
+    },
+    {
+      "start": 2375.84,
+      "end": 2379.44,
+      "text": "start going live. I don't know, and I don't know if you have any thoughts on this, does it"
+    },
+    {
+      "start": 2380.1600000000003,
+      "end": 2387.6800000000003,
+      "text": "with OpenAI and Anthropic? Does it benefit you to go first or second? Who's going to jump first?"
+    },
+    {
+      "start": 2389.36,
+      "end": 2393.76,
+      "text": "SpaceX are obviously going to go first, and God knows what Elon's up to. But out of those two,"
+    },
+    {
+      "start": 2394.7200000000003,
+      "end": 2400.2400000000002,
+      "text": "I don't really know. Do you go first and even fanship and you've kind of put your competitor off"
+    },
+    {
+      "start": 2400.2400000000002,
+      "end": 2403.28,
+      "text": "going public? I don't really know. There's a lot of game for you behind it."
+    },
+    {
+      "start": 2403.28,
+      "end": 2409.44,
+      "text": "I see the pros and cons to it, because what if OpenAI goes second, for example, and they don't match"
+    },
+    {
+      "start": 2409.44,
+      "end": 2414.96,
+      "text": "what Anthropic did? Then they're going to look pretty bad and vice versa. So I don't know,"
+    },
+    {
+      "start": 2414.96,
+      "end": 2421.92,
+      "text": "honestly, but I do have another theory that I think Elon's a crazy guy. He's wild, he's unhinged,"
+    },
+    {
+      "start": 2421.92,
+      "end": 2428.0,
+      "text": "you cannot predict him at all. But I have a feeling, and again, I just a theory, just a crazy"
+    },
+    {
+      "start": 2428.0,
+      "end": 2435.04,
+      "text": "tinfoil theory. But my theory is that he's going to do whatever he can to spoil OpenAI's IPO."
+    },
+    {
+      "start": 2435.04,
+      "end": 2440.88,
+      "text": "Whether that's time is SpaceX IPO around them might have spies figuring out when they're going."
+    },
+    {
+      "start": 2440.88,
+      "end": 2446.16,
+      "text": "I just have a feeling he's going to do that. So OpenAI, I don't know. But if I were Anthropic,"
+    },
+    {
+      "start": 2446.16,
+      "end": 2451.6,
+      "text": "I just think I've got, I'm clear. I'm doing my own thing. I think they are leading the space."
+    },
+    {
+      "start": 2451.6,
+      "end": 2454.64,
+      "text": "So I think for them to go first or second, I don't think they'd really care."
+    },
+    {
+      "start": 2457.04,
+      "end": 2461.12,
+      "text": "But it's going to be wild. It's going to be worth doing a live stream, as these things go"
+    },
+    {
+      "start": 2461.12,
+      "end": 2467.12,
+      "text": "alive, because it's literally history, isn't it? It's truly, like, we are literally at the"
+    },
+    {
+      "start": 2467.12,
+      "end": 2472.16,
+      "text": "precipice. Like we're at the beginning of history being created. Ralph often says, like he just"
+    },
+    {
+      "start": 2472.16,
+      "end": 2477.2,
+      "text": "said something on his episode yesterday, kind of blew my mind. He just said, AI is the greatest"
+    },
+    {
+      "start": 2477.2000000000003,
+      "end": 2482.0000000000005,
+      "text": "technology that humanity will ever create. And it's the last technology that humanity will ever"
+    },
+    {
+      "start": 2482.0000000000005,
+      "end": 2489.5200000000004,
+      "text": "create. And I'm just like, that's so crazy. Equal parts excited and equal parts terrified."
+    },
+    {
+      "start": 2490.9600000000005,
+      "end": 2494.4800000000005,
+      "text": "Yeah, because this whole thesis is like, you know, on the agentic economy, which I think is like,"
+    },
+    {
+      "start": 2494.4800000000005,
+      "end": 2499.5200000000004,
+      "text": "it's very valid, right? And I think it's, I can absolutely see happen, you know, just my cell"
+    },
+    {
+      "start": 2499.5200000000004,
+      "end": 2504.7200000000003,
+      "text": "playing around with agents. I'm DCAing Solano with my, through my OpenClaw right now,"
+    },
+    {
+      "start": 2504.8,
+      "end": 2510.6400000000003,
+      "text": "gave it a phantom wallet and it's doing its thing. How do you view like the agentic economy? Do you"
+    },
+    {
+      "start": 2510.6400000000003,
+      "end": 2515.2000000000003,
+      "text": "think, like, do you think it's actually going to happen? Do you think there's this other argument?"
+    },
+    {
+      "start": 2515.2000000000003,
+      "end": 2518.8,
+      "text": "I'm sorry to go off on a tangent here, but I was just in a heated debate in our discord earlier."
+    },
+    {
+      "start": 2518.8,
+      "end": 2523.76,
+      "text": "But there's this argument that the AI agents are essentially going to just create their own chain."
+    },
+    {
+      "start": 2523.76,
+      "end": 2528.5600000000004,
+      "text": "So that the existing chains right now don't matter. But like my thing is like, that's literally not"
+    },
+    {
+      "start": 2528.5600000000004,
+      "end": 2533.1200000000003,
+      "text": "what they do. Like, it's, it's the human operator that's controlling it. They're going to go the path"
+    },
+    {
+      "start": 2533.2,
+      "end": 2538.4,
+      "text": "of least resistance and with infrastructure already built. But anyway, I digress, what is like,"
+    },
+    {
+      "start": 2538.4,
+      "end": 2544.96,
+      "text": "what's your take on the overall agentic economy? Yeah, I think, I think payments and the"
+    },
+    {
+      "start": 2544.96,
+      "end": 2551.68,
+      "text": "early stages are being completely disrupted. And I think we're going to look back in maybe five"
+    },
+    {
+      "start": 2551.68,
+      "end": 2556.88,
+      "text": "to 10 years and think about whenever you used to pay for something online and you have to play"
+    },
+    {
+      "start": 2556.88,
+      "end": 2561.6,
+      "text": "your card or even if it's saved in Apple Pay or Google Pay and it's put a number in and what you"
+    },
+    {
+      "start": 2561.6,
+      "end": 2565.12,
+      "text": "want me to sign up for a year or a month. Well, I just want to use, I just want to pay us a"
+    },
+    {
+      "start": 2565.12,
+      "end": 2569.44,
+      "text": "call for any subscription service. And I think everything's going to be completely headless. So"
+    },
+    {
+      "start": 2570.0,
+      "end": 2573.92,
+      "text": "everyone's going to be operating out of the chat in the first of choice whether that's telegram,"
+    },
+    {
+      "start": 2573.92,
+      "end": 2580.4,
+      "text": "WhatsApp, chat GPT interface, cloud interface. Everything will be done by a chat and it's"
+    },
+    {
+      "start": 2580.4,
+      "end": 2586.24,
+      "text": "going to be pinging APIs. It's going to be pinging Webhooks. And I think the idea of paying for"
+    },
+    {
+      "start": 2586.24,
+      "end": 2590.64,
+      "text": "something per month or annually is going to be gone. I think it's going to be pay-per-use. It's"
+    },
+    {
+      "start": 2590.72,
+      "end": 2594.08,
+      "text": "going to be micro-transactions. I think what you see them with X4 or 2 and MPP,"
+    },
+    {
+      "start": 2594.08,
+      "end": 2598.56,
+      "text": "from telephone things like that. That's only going to continue to explode. And businesses"
+    },
+    {
+      "start": 2598.56,
+      "end": 2604.7999999999997,
+      "text": "that do enable that and allow for that the early and the better. And I think it's just an"
+    },
+    {
+      "start": 2604.7999999999997,
+      "end": 2610.08,
+      "text": "inflection point where for us to continue to give maybe like the mom and pop shoppers on the street"
+    },
+    {
+      "start": 2610.08,
+      "end": 2614.56,
+      "text": "never get there. But for things where it's a SaaS product where you can affect it. Like how many"
+    },
+    {
+      "start": 2614.56,
+      "end": 2618.64,
+      "text": "subscriptions do you pay for now? Where it's just like, I remember the last time I opened that up."
+    },
+    {
+      "start": 2618.64,
+      "end": 2622.16,
+      "text": "Enough is not a great business model, while you were relying on people for getting"
+    },
+    {
+      "start": 2622.16,
+      "end": 2629.7599999999998,
+      "text": "that subscription. You should have actual demand. And I think agents just pinging APIs and then"
+    },
+    {
+      "start": 2629.7599999999998,
+      "end": 2632.96,
+      "text": "getting a micro-transaction. And that's how you pay for certain things. I think that's probably"
+    },
+    {
+      "start": 2632.96,
+      "end": 2637.6,
+      "text": "what the future will look like. I think you're a spot on, right? Sam Altman even just said"
+    },
+    {
+      "start": 2637.6,
+      "end": 2644.3199999999997,
+      "text": "as much himself, actually kind of recently. He was saying he visions a world where AI or intelligence"
+    },
+    {
+      "start": 2644.32,
+      "end": 2649.44,
+      "text": "is like electricity where you just pay for it on a meter based on what you're using. That's"
+    },
+    {
+      "start": 2649.44,
+      "end": 2654.4,
+      "text": "absolutely going to happen because well, first of all, you like, I use OpenClaw, right? So I"
+    },
+    {
+      "start": 2654.4,
+      "end": 2660.4,
+      "text": "can't connect it through my anthropic or my cloud account. They just they remove that. But I use"
+    },
+    {
+      "start": 2660.4,
+      "end": 2666.0800000000004,
+      "text": "the API like all the time. So and I'm paying for it. It racks up at cost. But like that is"
+    },
+    {
+      "start": 2666.0800000000004,
+      "end": 2669.84,
+      "text": "absolutely the world we're going to. And hopefully they can get those costs down."
+    },
+    {
+      "start": 2670.8,
+      "end": 2675.84,
+      "text": "Yeah, I hope it's not just being I know it's been subsidized, but I hope it's"
+    },
+    {
+      "start": 2676.88,
+      "end": 2680.48,
+      "text": "like not to the point where it's just completely unaffordable to access them. So"
+    },
+    {
+      "start": 2681.44,
+      "end": 2686.08,
+      "text": "because that would be, you know, I'd be devastating until the cost of inference actually comes down"
+    },
+    {
+      "start": 2686.08,
+      "end": 2692.6400000000003,
+      "text": "and, you know, the GPU bottleneck is actually sold. And, you know, the electricity bottleneck is"
+    },
+    {
+      "start": 2692.6400000000003,
+      "end": 2697.6000000000004,
+      "text": "also sold. Like, what worry you get the power for these things? It's not just in video, you know,"
+    },
+    {
+      "start": 2697.68,
+      "end": 2702.08,
+      "text": "priced out until 2028. So I got that GPUs and into people's hands. It's also awake and the electricity"
+    },
+    {
+      "start": 2702.08,
+      "end": 2707.44,
+      "text": "to actually, you know, fund these gigasandas and stuff like that. Yeah, no, it's kind of going"
+    },
+    {
+      "start": 2707.44,
+      "end": 2711.04,
+      "text": "going back to your little joke about, you know, and it's down. You could just take a day off."
+    },
+    {
+      "start": 2711.04,
+      "end": 2714.72,
+      "text": "I give bad, they don't salt that if you ever be taking days off left and right. So"
+    },
+    {
+      "start": 2717.2,
+      "end": 2724.3199999999997,
+      "text": "so you're right. So last question on this, this is a selfish question. What do you think I should"
+    },
+    {
+      "start": 2724.32,
+      "end": 2729.04,
+      "text": "switch to Hermes? Or should I stick with OpenClaw? Are you like involved in that? Like, what's your"
+    },
+    {
+      "start": 2729.04,
+      "end": 2734.88,
+      "text": "like, have you that dove into those much, if at all? Or are you like more focused on like kind of"
+    },
+    {
+      "start": 2734.88,
+      "end": 2739.76,
+      "text": "the clawed and like how those like within anthropics clawed, how those agents are being used?"
+    },
+    {
+      "start": 2740.56,
+      "end": 2745.44,
+      "text": "Yeah. So I've played around for a long, the longest time we've opened clock. And"
+    },
+    {
+      "start": 2745.92,
+      "end": 2755.92,
+      "text": "and quite amazing, really like what got built and people kind of like collaborating on this"
+    },
+    {
+      "start": 2755.92,
+      "end": 2761.2000000000003,
+      "text": "open-source product to actually get it to market. I think Hermes is fantastic. And I think the"
+    },
+    {
+      "start": 2761.2000000000003,
+      "end": 2767.92,
+      "text": "news team, some of the smart people I've ever met, and I think what they're doing is like"
+    },
+    {
+      "start": 2767.92,
+      "end": 2773.2000000000003,
+      "text": "totally brilliant. And I'd love to find somewhere to get exposure to what they're actually doing."
+    },
+    {
+      "start": 2774.1600000000003,
+      "end": 2777.92,
+      "text": "I don't necessarily have a preference. I think there are probably different horses for different"
+    },
+    {
+      "start": 2777.92,
+      "end": 2785.28,
+      "text": "causes. What I prefer just having a little bit more configurability by just being able to run"
+    },
+    {
+      "start": 2785.28,
+      "end": 2790.0000000000005,
+      "text": "everything from my terminal and my command line and talking into anything that I need to from"
+    },
+    {
+      "start": 2790.0000000000005,
+      "end": 2796.8,
+      "text": "there. With the way that even the mobile interface for for quarters actually going now and for"
+    },
+    {
+      "start": 2796.8,
+      "end": 2802.7200000000003,
+      "text": "codex, anything that I was kind of wanting to use with OpenClaw or anything that I was kind of"
+    },
+    {
+      "start": 2802.7200000000003,
+      "end": 2809.6800000000003,
+      "text": "wanting to use like schedules scheduled updates, like basically Condrups and basically being able"
+    },
+    {
+      "start": 2809.6800000000003,
+      "end": 2814.8,
+      "text": "to have stuff run while I wasn't at the desk. And anything that I was really using OpenClaw 4"
+    },
+    {
+      "start": 2814.8,
+      "end": 2821.52,
+      "text": "is finding I was spending more time trying to debug it. And then as I say like OpenAI and"
+    },
+    {
+      "start": 2821.52,
+      "end": 2826.0800000000004,
+      "text": "anthropic and just turn on features overnight. And basically that was like the core principles of"
+    },
+    {
+      "start": 2826.08,
+      "end": 2831.92,
+      "text": "why I was actually using it. So it became kind of like redundant to the point of am I spending more"
+    },
+    {
+      "start": 2831.92,
+      "end": 2837.04,
+      "text": "time trying to fix this than and what am I actually getting out of getting out of using it in this"
+    },
+    {
+      "start": 2837.04,
+      "end": 2842.0,
+      "text": "set up. And then again, I'm just defaulted back to using kind of like code from my phone and"
+    },
+    {
+      "start": 2842.0,
+      "end": 2846.24,
+      "text": "acted into an excellent core code or core work and running out that way really."
+    },
+    {
+      "start": 2847.36,
+      "end": 2851.04,
+      "text": "Yeah, I think that's a great way that's actually a great way to go about it because I literally I have"
+    },
+    {
+      "start": 2851.04,
+      "end": 2856.64,
+      "text": "an updated my OpenClaw and like the like from three updates ago because every time I update it,"
+    },
+    {
+      "start": 2856.64,
+      "end": 2861.36,
+      "text": "because they release an update like every day, it's on the updated it breaks. And then like you said,"
+    },
+    {
+      "start": 2861.36,
+      "end": 2866.56,
+      "text": "I'm spending like 30 minutes like debugging it and you know troubleshooting things before I get"
+    },
+    {
+      "start": 2866.56,
+      "end": 2870.24,
+      "text": "actually get to my task. And at that point, I'm like fired. I don't want to do this."
+    },
+    {
+      "start": 2870.24,
+      "end": 2878.0,
+      "text": "Just waste it off the day. Yeah, exactly. So let's pivot, you know, because AI right is obviously it"
+    },
+    {
+      "start": 2878.0,
+      "end": 2884.4,
+      "text": "can help with a lot of things, not just like your finances. And you made you made a statement that"
+    },
+    {
+      "start": 2884.4,
+      "end": 2888.32,
+      "text": "I've also made in the past and I want to talk to you about it because I want to see how's like"
+    },
+    {
+      "start": 2888.32,
+      "end": 2894.0,
+      "text": "how much do you actually believe this is going to happen because I'm firmly of the opinion that"
+    },
+    {
+      "start": 2894.0,
+      "end": 2898.56,
+      "text": "this is going to happen in our lifetime. So for anyone that doesn't know what we're talking about,"
+    },
+    {
+      "start": 2898.56,
+      "end": 2902.24,
+      "text": "it's that basically humans are going to live to 150 years old."
+    },
+    {
+      "start": 2902.48,
+      "end": 2907.6800000000003,
+      "text": "Brett, how seriously, how serious do you think that is and how soon do you think we could see that?"
+    },
+    {
+      "start": 2910.6400000000003,
+      "end": 2915.76,
+      "text": "I think anyone under for you should be taking their health and fitness as seriously as physical"
+    },
+    {
+      "start": 2915.76,
+      "end": 2925.44,
+      "text": "as possible. And that's not to say I've got a full grind Johnson because I think there is also some"
+    },
+    {
+      "start": 2925.44,
+      "end": 2931.6800000000003,
+      "text": "merit to being able to unwind and have really good social experiences and maybe some"
+    },
+    {
+      "start": 2932.8,
+      "end": 2936.4,
+      "text": "certain things that he tell you basically not to do. I still think there's some"
+    },
+    {
+      "start": 2936.4,
+      "end": 2943.0400000000004,
+      "text": "on probably unempirical evidence that would counteract basically what he's saying."
+    },
+    {
+      "start": 2944.88,
+      "end": 2949.28,
+      "text": "So I was supposed to actually go into cancer research and do PhD and"
+    },
+    {
+      "start": 2949.28,
+      "end": 2953.84,
+      "text": "think got drawn into block medicine and built that from built that from an academic standpoint."
+    },
+    {
+      "start": 2953.84,
+      "end": 2959.6800000000003,
+      "text": "So everything that we were looking at back then was pushing towards personalized medicine."
+    },
+    {
+      "start": 2959.7599999999998,
+      "end": 2963.68,
+      "text": "So can like CAR T therapy is a is a pretty interesting"
+    },
+    {
+      "start": 2966.16,
+      "end": 2969.44,
+      "text": "concert personalized concert therapy where you're basically taking out"
+    },
+    {
+      "start": 2970.7999999999997,
+      "end": 2975.04,
+      "text": "the cells or the cancer cells that are in your body and then engineering antibodies that are"
+    },
+    {
+      "start": 2975.04,
+      "end": 2979.44,
+      "text": "specific to that type of cancer because it's completely different in each individual case,"
+    },
+    {
+      "start": 2979.44,
+      "end": 2985.52,
+      "text": "not just each individual cancer subset. Expanding that up in a lab so you've got infinite"
+    },
+    {
+      "start": 2985.52,
+      "end": 2989.12,
+      "text": "amount of antibodies against that specific cancer then re-injecting the bucket."
+    },
+    {
+      "start": 2989.92,
+      "end": 2996.8,
+      "text": "So that's it. We're going to probably look back in five, ten years time and think why we're"
+    },
+    {
+      "start": 2996.8,
+      "end": 3001.12,
+      "text": "doing one size fits all treatment because that's not the case. And I know you"
+    },
+    {
+      "start": 3002.0,
+      "end": 3005.84,
+      "text": "use different combinations as hurt and drugs to target certain diseases and it increases the"
+    },
+    {
+      "start": 3006.96,
+      "end": 3012.4,
+      "text": "brings out the mortality ratio and stuff like that, but it's stupid. It's obviously something"
+    },
+    {
+      "start": 3012.4,
+      "end": 3017.44,
+      "text": "that needs to be solved at scale. There's a lot of bottleneck in manufacturing and say a few"
+    },
+    {
+      "start": 3017.44,
+      "end": 3021.28,
+      "text": "issues. I know this is going to sound ridiculous but I think regulation in the next five,"
+    },
+    {
+      "start": 3021.28,
+      "end": 3023.76,
+      "text": "ten years is going to cause more deaths than it's actually going to save people."
+    },
+    {
+      "start": 3025.6800000000003,
+      "end": 3032.2400000000002,
+      "text": "The way that we're moving with these models and it's all it's all linear information. Like"
+    },
+    {
+      "start": 3032.96,
+      "end": 3038.32,
+      "text": "DNA and RNA are very well mapped. It's very easy. It's very predictable. You've got protein"
+    },
+    {
+      "start": 3038.32,
+      "end": 3043.28,
+      "text": "models and like mapping out basically any form of protein. It's basically a collection of four"
+    },
+    {
+      "start": 3043.28,
+      "end": 3051.36,
+      "text": "different nucleotides, right? Anthropic, Claude, Nithos, all these new and certain models"
+    },
+    {
+      "start": 3051.36,
+      "end": 3057.52,
+      "text": "that come online. Very, very, very careful of figuring that out. So being hampered by regulation"
+    },
+    {
+      "start": 3057.52,
+      "end": 3062.8,
+      "text": "and over bureaucracy when this personalized medicine started getting performed"
+    },
+    {
+      "start": 3063.76,
+      "end": 3070.7200000000003,
+      "text": "and probably without jurisdiction of certain governments and it's working. You see the guy who"
+    },
+    {
+      "start": 3070.7200000000003,
+      "end": 3076.88,
+      "text": "he used out in Australia is dog had this really, really strong milkman concert and the sequence"
+    },
+    {
+      "start": 3076.88,
+      "end": 3080.6400000000003,
+      "text": "of DNA for concert and group antibodies in the lab and re-enjected and the dog wasn't"
+    },
+    {
+      "start": 3080.6400000000003,
+      "end": 3088.4,
+      "text": "permissioned enough to be like just full remission. It's available. It just needs"
+    },
+    {
+      "start": 3088.4,
+      "end": 3093.2000000000003,
+      "text": "pursuing and there's a lot of money funding that I have thrown out of it. So if you can kind of"
+    },
+    {
+      "start": 3093.2000000000003,
+      "end": 3098.96,
+      "text": "bring down all caused mortality by personalized medicines and people just generally understand"
+    },
+    {
+      "start": 3098.96,
+      "end": 3103.36,
+      "text": "and have to look after themselves on a personal level. These kind of like blanket statements"
+    },
+    {
+      "start": 3103.36,
+      "end": 3108.32,
+      "text": "of you should do this, you shouldn't do this, it's totally stupid. It's like everyone's body"
+    },
+    {
+      "start": 3108.32,
+      "end": 3111.76,
+      "text": "and everyone's genetic code is completely different and the way that it's being exposed to the"
+    },
+    {
+      "start": 3111.76,
+      "end": 3116.7200000000003,
+      "text": "environment over the course of their lifetime is also just completely throws up everything off"
+    },
+    {
+      "start": 3116.7200000000003,
+      "end": 3122.4800000000005,
+      "text": "from an epigenetic standpoint. So I think people understanding what's going on inside their body"
+    },
+    {
+      "start": 3122.4800000000005,
+      "end": 3126.2400000000002,
+      "text": "from like a genetic level, but also not given to you much of your information away to"
+    },
+    {
+      "start": 3127.44,
+      "end": 3132.0000000000005,
+      "text": "the likes of an open eye and unprofit maybe some local models are probably a better use case"
+    },
+    {
+      "start": 3132.0000000000005,
+      "end": 3137.28,
+      "text": "for that. So yeah, I think I generally think we'll get there. It's just entropy up the end of the"
+    },
+    {
+      "start": 3137.28,
+      "end": 3144.88,
+      "text": "day. It's disease. It's an inevitable disease but it can be slow, you know. So yeah, I generally"
+    },
+    {
+      "start": 3144.96,
+      "end": 3149.92,
+      "text": "think like just peel up the closer attention to your body and like look after yourself from a"
+    },
+    {
+      "start": 3149.92,
+      "end": 3154.08,
+      "text": "health and fitness standpoint and you never know what's going to like what the unlocks are around"
+    },
+    {
+      "start": 3154.08,
+      "end": 3160.7200000000003,
+      "text": "the corner, I think. Yeah, oh my god, that's like that is like so fascinating to think about."
+    },
+    {
+      "start": 3160.7200000000003,
+      "end": 3168.56,
+      "text": "And like I love your DNA point too because um, listen, if they were able to bring back the"
+    },
+    {
+      "start": 3168.56,
+      "end": 3175.7599999999998,
+      "text": "dire wolf and like, those are insane. Those are insane with like very limited DNA, like they"
+    },
+    {
+      "start": 3175.7599999999998,
+      "end": 3180.32,
+      "text": "they configure this sound, I think that's that's that's my that's one of my case cases."
+    },
+    {
+      "start": 3181.04,
+      "end": 3186.16,
+      "text": "You're literally very in uh, the dire wolves in woolly mama spark, I'm sure,"
+    },
+    {
+      "start": 3186.16,
+      "end": 3191.12,
+      "text": "pretty sure we can sequence some pet people's like invasive diseases and figure out like"
+    },
+    {
+      "start": 3191.7599999999998,
+      "end": 3195.7599999999998,
+      "text": "the right engineered antibodies against them, you know. Absolutely, we can add, yeah, we can add"
+    },
+    {
+      "start": 3195.76,
+      "end": 3202.0800000000004,
+      "text": "extra 50 years to our lifespan or you know 75, like we've just brought back thousands of years old"
+    },
+    {
+      "start": 3202.0800000000004,
+      "end": 3211.28,
+      "text": "extinct animals. So it doesn't it doesn't stop um, bungee cord accidents or you can stop jumping"
+    },
+    {
+      "start": 3211.28,
+      "end": 3214.88,
+      "text": "out of an aeroplane, like those those are risk factors that it's probably never going to be able to"
+    },
+    {
+      "start": 3214.88,
+      "end": 3222.8,
+      "text": "uncomplete. Right. Yeah, yeah, craziness can't uh can't be controlled. Uh, so so grab before I let you"
+    },
+    {
+      "start": 3222.8,
+      "end": 3229.2000000000003,
+      "text": "grow here. I just want to just you know, kind of get your your thoughts on where like kind of your"
+    },
+    {
+      "start": 3229.2000000000003,
+      "end": 3235.2000000000003,
+      "text": "future your future vision for the crypto market AI, just like all this intersection that we're within"
+    },
+    {
+      "start": 3235.2000000000003,
+      "end": 3241.28,
+      "text": "is like crypto AI has so much crossover. Uh, it seems like a natural fit. Um, when I throw in"
+    },
+    {
+      "start": 3241.28,
+      "end": 3246.1600000000003,
+      "text": "I'm baking another question here because like some people are of the opinion that maybe AI and"
+    },
+    {
+      "start": 3246.1600000000003,
+      "end": 3251.76,
+      "text": "crypto isn't a natural adoption and that AI can just like, you know, use a PayPal or something like"
+    },
+    {
+      "start": 3251.84,
+      "end": 3255.44,
+      "text": "that. But anyway, I want to get your your take on just where we're going in this world."
+    },
+    {
+      "start": 3256.6400000000003,
+      "end": 3265.1200000000003,
+      "text": "I think it's uh, it's one of the most synergistic technologies and running in parallel that has"
+    },
+    {
+      "start": 3265.1200000000003,
+      "end": 3270.2400000000002,
+      "text": "ever been invented and it kind of feels weird to say that probably the next 100 million users that"
+    },
+    {
+      "start": 3270.2400000000002,
+      "end": 3274.1600000000003,
+      "text": "are operating, particularly on chair, are definitely going to be agents as opposed to the new cohort"
+    },
+    {
+      "start": 3274.1600000000003,
+      "end": 3280.1600000000003,
+      "text": "of humans. I think you're relatively close to the last seal and particularly from speculative"
+    },
+    {
+      "start": 3280.64,
+      "end": 3285.52,
+      "text": "maybe payments change as that but I think the next way for people is not actually people and I think"
+    },
+    {
+      "start": 3285.52,
+      "end": 3290.7999999999997,
+      "text": "it's, you know, I think it's agents and I think programmable money, particularly at a stable"
+    },
+    {
+      "start": 3290.7999999999997,
+      "end": 3295.2799999999997,
+      "text": "coin level, is very, very, very, very, very interesting. Um, I think with what we were saying about"
+    },
+    {
+      "start": 3295.2799999999997,
+      "end": 3300.64,
+      "text": "x4 or 2 and mpp and pigeoning payments, I think that's very, very interesting. Um, it goes on in"
+    },
+    {
+      "start": 3300.64,
+      "end": 3306.56,
+      "text": "the growth in my opinion. I don't get the, I don't get the opposite opinion, um, from what I've,"
+    },
+    {
+      "start": 3306.56,
+      "end": 3311.52,
+      "text": "I have seen them. I just, I just don't subscribe to it. Yeah, I'm with you. Uh, so for those of you"
+    },
+    {
+      "start": 3311.52,
+      "end": 3315.12,
+      "text": "that I was arguing within the discord, a grand piece with me, you guys are wrong."
+    },
+    {
+      "start": 3316.96,
+      "end": 3321.7599999999998,
+      "text": "So, Grant, where, uh, where can we check out what you guys are doing next? I know you guys have a"
+    },
+    {
+      "start": 3321.7599999999998,
+      "end": 3327.36,
+      "text": "bunch of things coming. We, we mentioned like a new websites come in as well. Like what's,"
+    },
+    {
+      "start": 3327.36,
+      "end": 3332.0,
+      "text": "where can we find out more and follow along with some of the cool stuff you guys will be coming"
+    },
+    {
+      "start": 3332.0,
+      "end": 3336.32,
+      "text": "out with? Yeah, I'd really just, if you want to see what's going on at the fall front of the"
+    },
+    {
+      "start": 3336.32,
+      "end": 3341.84,
+      "text": "industry, like the earliest access to teams. I mean, the hyper liquid one is obviously being,"
+    },
+    {
+      "start": 3341.84,
+      "end": 3346.4,
+      "text": "is obviously a gold standard of covering a team three years ago and then they blow up. But"
+    },
+    {
+      "start": 3347.04,
+      "end": 3350.6400000000003,
+      "text": "there's, uh, there's a lot more where that came from. Like we've got a previous of covering"
+    },
+    {
+      "start": 3350.6400000000003,
+      "end": 3354.4,
+      "text": "some read, really early teams and they wouldn't be on there if we didn't, like truly think they were"
+    },
+    {
+      "start": 3354.4,
+      "end": 3359.36,
+      "text": "legit, you know, so hopefully a bit of sharp. So we have all edge-sorial control of what goes out."
+    },
+    {
+      "start": 3359.36,
+      "end": 3364.32,
+      "text": "So there's no pressure from external investors to cover this cover that. It's like, if we don't"
+    },
+    {
+      "start": 3364.32,
+      "end": 3368.6400000000003,
+      "text": "think it's good, it's not going on now. Um, so yeah, just putting notifications on the"
+    },
+    {
+      "start": 3368.6400000000003,
+      "end": 3372.4,
+      "text": "blockmates account just for now until then you, and you'll see when the new site goes live and"
+    },
+    {
+      "start": 3372.4,
+      "end": 3375.76,
+      "text": "that's going to be a little bit more all-seeing and all-dancing because the current ones are both"
+    },
+    {
+      "start": 3375.76,
+      "end": 3380.8,
+      "text": "live and completely honest. But, um, but yeah, that's probably the best, like, place to actually find"
+    },
+    {
+      "start": 3380.8,
+      "end": 3385.04,
+      "text": "everything that's going on because everything gets distributed for them. Absolutely. Well, thank you,"
+    },
+    {
+      "start": 3385.04,
+      "end": 3388.88,
+      "text": "Grant. Well, the block, look, the blockmates, PFP, we have a regular on the screen. The blockmates,"
+    },
+    {
+      "start": 3388.88,
+      "end": 3395.6,
+      "text": "PFP is clean though. So we guys are doing something good there on the design standpoint. Grant,"
+    },
+    {
+      "start": 3395.6,
+      "end": 3399.92,
+      "text": "it's been an absolute pleasure. Thank you so much for joining us on Reckvision. We hope to have"
+    },
+    {
+      "start": 3399.92,
+      "end": 3404.7200000000003,
+      "text": "you back again soon. You've been awesome. Anytime. Anytime. Thanks very much. Thanks everyone for"
+    },
+    {
+      "start": 3404.7200000000003,
+      "end": 3410.08,
+      "text": "joining us. This has been another episode of Reckvision. And actually, before we go, we've been"
+    },
+    {
+      "start": 3410.08,
+      "end": 3416.32,
+      "text": "talking about AI. Check out the RV website. We just released some new AI features, including RV"
+    },
+    {
+      "start": 3416.32,
+      "end": 3424.32,
+      "text": "Cypher, which is the former ASK AI co-pilot. And we released Pulse, which does an AI summary of"
+    },
+    {
+      "start": 3424.32,
+      "end": 3431.76,
+      "text": "everything that's going on on the website. And also, Raubot and Andreas Bot coming. Well, Raubot's"
+    },
+    {
+      "start": 3431.76,
+      "end": 3435.76,
+      "text": "already out. Andreas Bot coming soon. Thanks again, everyone for tuning in. We will catch you"
+    },
+    {
+      "start": 3435.76,
+      "end": 3441.28,
+      "text": "next week. You obviously enjoyed the episode because you're here with me at the end. But listen,"
+    },
+    {
+      "start": 3441.28,
+      "end": 3447.6000000000004,
+      "text": "don't forget to go to rivers.com forward slash join and grab a free membership. It's an incredible"
+    },
+    {
+      "start": 3447.6000000000004,
+      "end": 3453.6800000000003,
+      "text": "community packed with alpha, great investment ideas, and the research that you need to help you"
+    },
+    {
+      "start": 3453.6800000000003,
+      "end": 3463.6800000000003,
+      "text": "unfuck your future. So get started now. Go to rivers.com forward slash join."
+    }
+  ]
+}

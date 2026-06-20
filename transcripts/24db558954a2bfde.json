@@ -1,0 +1,3761 @@
+{
+  "id": "24db558954a2bfde",
+  "show": "Animal Spirits",
+  "theme": "Strategy & Markets",
+  "title": "Talk Your Book: Why Rising Rates Won't Hurt You Anymore",
+  "audio_url": "https://pdst.fm/e/mgln.ai/e/309/traffic.megaphone.fm/TCP8747896200.mp3",
+  "source": "local-whisper",
+  "duration": 1913.3,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Today's Animal Spirits talk your book is brought to you by Franklin Templeton."
+    },
+    {
+      "start": 3.6,
+      "end": 9.6,
+      "text": "Go to FranklinTempleton.com to learn more about their whole suite of active municipal bond ETFs."
+    },
+    {
+      "start": 9.6,
+      "end": 11.6,
+      "text": "It's FranklinTempleton.com to learn more."
+    },
+    {
+      "start": 13.200000000000001,
+      "end": 17.2,
+      "text": "Welcome to Animal Spirits, a shell about markets, life, and investing."
+    },
+    {
+      "start": 17.2,
+      "end": 22.400000000000002,
+      "text": "Join Michael Batnik and Ben Carlson as they talk about what they're reading, writing, and watching."
+    },
+    {
+      "start": 22.400000000000002,
+      "end": 25.6,
+      "text": "All opinions expressed by Michael and Ben are solely their own opinion"
+    },
+    {
+      "start": 25.6,
+      "end": 28.8,
+      "text": "and do not reflect the opinion of Redholst wealth management."
+    },
+    {
+      "start": 28.8,
+      "end": 31.2,
+      "text": "This podcast is for informational purposes only,"
+    },
+    {
+      "start": 31.2,
+      "end": 34.4,
+      "text": "and should not be relied upon for any investment decisions."
+    },
+    {
+      "start": 34.4,
+      "end": 39.2,
+      "text": "Clients of Redholst wealth management may maintain positions in the securities discussed in this podcast."
+    },
+    {
+      "start": 42.8,
+      "end": 46.8,
+      "text": "Welcome to Animal Spirits with Michael and Ben."
+    },
+    {
+      "start": 46.8,
+      "end": 49.2,
+      "text": "Michael texts Alpha as all the rage these days."
+    },
+    {
+      "start": 49.2,
+      "end": 51.6,
+      "text": "You know, I'll be talking about it in a number of different ways."
+    },
+    {
+      "start": 51.6,
+      "end": 55.6,
+      "text": "I still remember when Meredith Wadey came out with her call."
+    },
+    {
+      "start": 55.6,
+      "end": 58.0,
+      "text": "After she kind of quote-unquote,"
+    },
+    {
+      "start": 58.0,
+      "end": 60.4,
+      "text": "her thing was her claim to fame was City Group, right?"
+    },
+    {
+      "start": 60.4,
+      "end": 61.6,
+      "text": "She's like, City Group's going down."
+    },
+    {
+      "start": 61.6,
+      "end": 62.4,
+      "text": "She's shorted it."
+    },
+    {
+      "start": 62.4,
+      "end": 63.2,
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 63.2,
+      "end": 65.2,
+      "text": "And then after the great venture crisis, she said,"
+    },
+    {
+      "start": 65.2,
+      "end": 66.8,
+      "text": "I'm from my next trek."
+    },
+    {
+      "start": 66.8,
+      "end": 67.6,
+      "text": "Yes."
+    },
+    {
+      "start": 67.6,
+      "end": 70.8,
+      "text": "And she predicted that there's going to be massive defaults in the muni bond market."
+    },
+    {
+      "start": 70.8,
+      "end": 72.0,
+      "text": "Was it Detroit? I can't remember."
+    },
+    {
+      "start": 72.0,
+      "end": 74.0,
+      "text": "Did she single out cities? I can't quite remember."
+    },
+    {
+      "start": 74.0,
+      "end": 76.0,
+      "text": "Yeah, I'm sure Chicago's the one I like people always talk about."
+    },
+    {
+      "start": 76.0,
+      "end": 78.0,
+      "text": "Maybe California."
+    },
+    {
+      "start": 78.0,
+      "end": 80.8,
+      "text": "And obviously didn't happen."
+    },
+    {
+      "start": 80.8,
+      "end": 82.4,
+      "text": "There have been no huge problems."
+    },
+    {
+      "start": 82.4,
+      "end": 84.0,
+      "text": "There's probably been some small ones."
+    },
+    {
+      "start": 84.8,
+      "end": 87.6,
+      "text": "But this is an area of the market in munisables"
+    },
+    {
+      "start": 87.6,
+      "end": 92.0,
+      "text": "that I don't think there's a ton of people that cover it, essentially."
+    },
+    {
+      "start": 92.0,
+      "end": 95.2,
+      "text": "Would you call it the, almost like the small caps of the bond market?"
+    },
+    {
+      "start": 95.2,
+      "end": 96.8,
+      "text": "Just in terms of like coverage."
+    },
+    {
+      "start": 96.8,
+      "end": 98.4,
+      "text": "Overlocked."
+    },
+    {
+      "start": 98.4,
+      "end": 99.6,
+      "text": "Yeah, right."
+    },
+    {
+      "start": 99.6,
+      "end": 100.4,
+      "text": "Overlocked."
+    },
+    {
+      "start": 100.4,
+      "end": 102.4,
+      "text": "But it's interesting because states actually are different"
+    },
+    {
+      "start": 102.4,
+      "end": 105.6,
+      "text": "than the federal government and how they have to spend and their budgets."
+    },
+    {
+      "start": 105.6,
+      "end": 108.8,
+      "text": "And a lot of these are like revenue-backed bonds and such."
+    },
+    {
+      "start": 108.8,
+      "end": 111.6,
+      "text": "But this is a space that you and I aren't experts on, obviously."
+    },
+    {
+      "start": 112.00000000000001,
+      "end": 116.4,
+      "text": "But we have clients in muni bond funds because sometimes especially"
+    },
+    {
+      "start": 116.4,
+      "end": 119.60000000000001,
+      "text": "for high income people the tax breaks can be phenomenal."
+    },
+    {
+      "start": 119.60000000000001,
+      "end": 122.00000000000001,
+      "text": "But as we get into with Ben Barber,"
+    },
+    {
+      "start": 122.00000000000001,
+      "end": 125.2,
+      "text": "who is the director of munisable bond department"
+    },
+    {
+      "start": 125.2,
+      "end": 128.0,
+      "text": "at Frank of Templeton, muni bonds are not just"
+    },
+    {
+      "start": 128.0,
+      "end": 130.0,
+      "text": "reaping with really high income, right?"
+    },
+    {
+      "start": 130.0,
+      "end": 131.20000000000002,
+      "text": "So he says."
+    },
+    {
+      "start": 131.20000000000002,
+      "end": 134.4,
+      "text": "So he says, we talked a lot about the whole space,"
+    },
+    {
+      "start": 134.4,
+      "end": 137.60000000000002,
+      "text": "how to think about rising interest rates in the market."
+    },
+    {
+      "start": 137.60000000000002,
+      "end": 138.4,
+      "text": "What else we talk about?"
+    },
+    {
+      "start": 138.4,
+      "end": 140.0,
+      "text": "A bunch of stuff. We won't step on it here."
+    },
+    {
+      "start": 140.0,
+      "end": 142.4,
+      "text": "Here's our topic with Ben Barber from Frank of Templeton."
+    },
+    {
+      "start": 145.6,
+      "end": 147.2,
+      "text": "Ben, welcome to the show."
+    },
+    {
+      "start": 147.2,
+      "end": 149.2,
+      "text": "All right, thanks very much for having me appreciate it."
+    },
+    {
+      "start": 149.2,
+      "end": 150.8,
+      "text": "All right, let's start here."
+    },
+    {
+      "start": 150.8,
+      "end": 152.0,
+      "text": "Over the last couple of weeks,"
+    },
+    {
+      "start": 152.0,
+      "end": 155.2,
+      "text": "the market has increasingly become focused on"
+    },
+    {
+      "start": 155.2,
+      "end": 157.6,
+      "text": "the direction of interest rates up into the right"
+    },
+    {
+      "start": 157.6,
+      "end": 160.8,
+      "text": "at almost every area of the yield curve."
+    },
+    {
+      "start": 160.8,
+      "end": 163.6,
+      "text": "I'm curious how does"
+    },
+    {
+      "start": 163.6,
+      "end": 167.2,
+      "text": "how do interest rates impact the munisable bond market?"
+    },
+    {
+      "start": 167.2,
+      "end": 168.0,
+      "text": "Yeah, absolutely."
+    },
+    {
+      "start": 168.0,
+      "end": 170.8,
+      "text": "Great question and a great place to start."
+    },
+    {
+      "start": 170.8,
+      "end": 176.4,
+      "text": "The muni market very much follows the treasury market."
+    },
+    {
+      "start": 176.4,
+      "end": 179.2,
+      "text": "We like to say it doesn't follow it tick for tick."
+    },
+    {
+      "start": 179.2,
+      "end": 180.8,
+      "text": "So it's not exact."
+    },
+    {
+      "start": 180.8,
+      "end": 185.2,
+      "text": "There's always a lag between the muni market and the treasury market."
+    },
+    {
+      "start": 185.2,
+      "end": 188.4,
+      "text": "And over time, you could actually kind of set your clock"
+    },
+    {
+      "start": 188.4,
+      "end": 192.0,
+      "text": "to how correlated the muni market was versus treasuries."
+    },
+    {
+      "start": 192.0,
+      "end": 194.4,
+      "text": "That correlation has broken down over the years"
+    },
+    {
+      "start": 194.4,
+      "end": 195.6,
+      "text": "for a bunch of different reasons."
+    },
+    {
+      "start": 195.6,
+      "end": 198.0,
+      "text": "Overall, the muni market will follow"
+    },
+    {
+      "start": 198.0,
+      "end": 201.2,
+      "text": "the same general trends as the treasury market"
+    },
+    {
+      "start": 201.2,
+      "end": 203.2,
+      "text": "up and down the yield curve."
+    },
+    {
+      "start": 203.2,
+      "end": 206.4,
+      "text": "I guess more specifically, like how reliant,"
+    },
+    {
+      "start": 206.4,
+      "end": 207.6,
+      "text": "I know this is a very dumb question,"
+    },
+    {
+      "start": 207.6,
+      "end": 210.0,
+      "text": "but hey, I never cleaned out a smart of the muni market."
+    },
+    {
+      "start": 210.0,
+      "end": 214.4,
+      "text": "How impacted are munisabalities by interest rates today?"
+    },
+    {
+      "start": 214.4,
+      "end": 217.2,
+      "text": "I would say that they're very impacted."
+    },
+    {
+      "start": 217.2,
+      "end": 220.79999999999998,
+      "text": "So when we think about the two main angles of risk"
+    },
+    {
+      "start": 220.79999999999998,
+      "end": 223.6,
+      "text": "or the two main factors that drive price volatility"
+    },
+    {
+      "start": 223.6,
+      "end": 226.4,
+      "text": "in the muni market, it would be number one, interest rates."
+    },
+    {
+      "start": 226.4,
+      "end": 229.6,
+      "text": "By far and away, that's your most important factor"
+    },
+    {
+      "start": 229.6,
+      "end": 233.2,
+      "text": "in terms of what causes prices of bonds to move up or down."
+    },
+    {
+      "start": 233.2,
+      "end": 237.2,
+      "text": "So it's number one, interest rates, number two, credit risk."
+    },
+    {
+      "start": 237.2,
+      "end": 242.79999999999998,
+      "text": "So is the credit story of the particular borrower"
+    },
+    {
+      "start": 242.79999999999998,
+      "end": 245.2,
+      "text": "on a positive trajectory or a negative trajectory?"
+    },
+    {
+      "start": 245.2,
+      "end": 248.0,
+      "text": "And that's a factor as well that interest rates"
+    },
+    {
+      "start": 248.0,
+      "end": 251.2,
+      "text": "by far is the most important factor in terms"
+    },
+    {
+      "start": 251.20000000000002,
+      "end": 254.4,
+      "text": "of what drives price volatility of muni bonds."
+    },
+    {
+      "start": 254.4,
+      "end": 256.40000000000003,
+      "text": "And so if you're thinking about it from an issue"
+    },
+    {
+      "start": 256.40000000000003,
+      "end": 259.20000000000005,
+      "text": "or perspective, say the city of San Francisco"
+    },
+    {
+      "start": 259.20000000000005,
+      "end": 262.40000000000003,
+      "text": "or New York City needs to issue debt issue municipal bonds"
+    },
+    {
+      "start": 262.40000000000003,
+      "end": 265.20000000000005,
+      "text": "to finance some sort of infrastructure project,"
+    },
+    {
+      "start": 265.20000000000005,
+      "end": 267.20000000000005,
+      "text": "they're very mindful of what's going on"
+    },
+    {
+      "start": 267.20000000000005,
+      "end": 269.6,
+      "text": "in the overall interest rate environment"
+    },
+    {
+      "start": 269.6,
+      "end": 273.6,
+      "text": "before they get out there and borrow significant money."
+    },
+    {
+      "start": 273.6,
+      "end": 275.6,
+      "text": "I'm curious how you think from a macro perspective"
+    },
+    {
+      "start": 275.6,
+      "end": 277.6,
+      "text": "about interest rates, because Michael and I have been talking"
+    },
+    {
+      "start": 277.6,
+      "end": 280.8,
+      "text": "that people are framing the rate rise as,"
+    },
+    {
+      "start": 280.8,
+      "end": 282.0,
+      "text": "oh, this is bad, right?"
+    },
+    {
+      "start": 282.0,
+      "end": 284.8,
+      "text": "Because it's going to be harder for people to borrow"
+    },
+    {
+      "start": 284.8,
+      "end": 288.2,
+      "text": "and it's going to make it more onerous for governments"
+    },
+    {
+      "start": 288.2,
+      "end": 290.0,
+      "text": "because interest expenses are higher."
+    },
+    {
+      "start": 290.0,
+      "end": 291.6,
+      "text": "But I look at it from the perspective"
+    },
+    {
+      "start": 291.6,
+      "end": 292.6,
+      "text": "of a bond investor."
+    },
+    {
+      "start": 292.6,
+      "end": 296.0,
+      "text": "And to me, it's short-term pain for more long-term gain."
+    },
+    {
+      "start": 296.0,
+      "end": 300.0,
+      "text": "And for years, fixed income investors were saying,"
+    },
+    {
+      "start": 300.0,
+      "end": 301.0,
+      "text": "this is terrible."
+    },
+    {
+      "start": 301.0,
+      "end": 302.2,
+      "text": "There's no yield anywhere."
+    },
+    {
+      "start": 302.2,
+      "end": 303.2,
+      "text": "What are we supposed to do?"
+    },
+    {
+      "start": 303.2,
+      "end": 306.0,
+      "text": "Now, yield is finally here."
+    },
+    {
+      "start": 306.0,
+      "end": 307.6,
+      "text": "But you just had to go through the pain to get there."
+    },
+    {
+      "start": 307.6,
+      "end": 310.0,
+      "text": "Like, do you look at this as more of an opportunity?"
+    },
+    {
+      "start": 310.0,
+      "end": 312.0,
+      "text": "Like, man, these are yields we haven't seen"
+    },
+    {
+      "start": 312.0,
+      "end": 314.0,
+      "text": "in a very long time, potentially."
+    },
+    {
+      "start": 314.0,
+      "end": 316.0,
+      "text": "Yeah, without a doubt, we look at it much more"
+    },
+    {
+      "start": 316.0,
+      "end": 317.8,
+      "text": "from the opportunistic side of things."
+    },
+    {
+      "start": 317.8,
+      "end": 320.0,
+      "text": "If you think about what has happened,"
+    },
+    {
+      "start": 320.0,
+      "end": 322.2,
+      "text": "you know, over the last several years,"
+    },
+    {
+      "start": 322.2,
+      "end": 326.4,
+      "text": "when you were at a near zero or near zero interest rate"
+    },
+    {
+      "start": 326.4,
+      "end": 329.2,
+      "text": "environment for quite a long time,"
+    },
+    {
+      "start": 329.2,
+      "end": 332.0,
+      "text": "there were many, many investors who just went to cash"
+    },
+    {
+      "start": 332.0,
+      "end": 334.4,
+      "text": "and say, you know, forget it."
+    },
+    {
+      "start": 334.4,
+      "end": 337.2,
+      "text": "Rates started rising on the short end of the curve"
+    },
+    {
+      "start": 337.2,
+      "end": 338.8,
+      "text": "and it was a very popular trade."
+    },
+    {
+      "start": 338.8,
+      "end": 343.4,
+      "text": "It was just to stay in cash as the fear of rising rates"
+    },
+    {
+      "start": 343.4,
+      "end": 345.4,
+      "text": "really precluded a lot of investors"
+    },
+    {
+      "start": 345.4,
+      "end": 347.2,
+      "text": "from pushing out the yield curve"
+    },
+    {
+      "start": 347.2,
+      "end": 350.2,
+      "text": "and taking on more interest rate volatility in there"
+    },
+    {
+      "start": 350.2,
+      "end": 351.59999999999997,
+      "text": "and their fixed income portfolio."
+    },
+    {
+      "start": 351.59999999999997,
+      "end": 354.2,
+      "text": "Now, you know, here we are with a 10-year"
+    },
+    {
+      "start": 354.2,
+      "end": 358.0,
+      "text": "that's floating somewhere around a 460, 470,"
+    },
+    {
+      "start": 358.0,
+      "end": 360.8,
+      "text": "in 10-year treasury space."
+    },
+    {
+      "start": 360.8,
+      "end": 363.2,
+      "text": "Right now, it is exactly at 458,"
+    },
+    {
+      "start": 363.2,
+      "end": 366.2,
+      "text": "but it's been sort of moving around in that,"
+    },
+    {
+      "start": 366.59999999999997,
+      "end": 369.0,
+      "text": "in that general area, you've got 30-year treasuries"
+    },
+    {
+      "start": 369.0,
+      "end": 373.2,
+      "text": "north of 5%, and so investors are really, really waking up"
+    },
+    {
+      "start": 373.2,
+      "end": 375.59999999999997,
+      "text": "to that exact point that there's finally yield"
+    },
+    {
+      "start": 375.59999999999997,
+      "end": 378.0,
+      "text": "in the market, and it's a heck of a lot better"
+    },
+    {
+      "start": 378.0,
+      "end": 380.4,
+      "text": "than sitting in money markets, for example."
+    },
+    {
+      "start": 380.4,
+      "end": 383.0,
+      "text": "And so we've seen a lot of investor movement"
+    },
+    {
+      "start": 383.0,
+      "end": 386.8,
+      "text": "from cash and cash equivalents pushing out the yield curve"
+    },
+    {
+      "start": 386.8,
+      "end": 388.4,
+      "text": "as far as they're possibly comfortable."
+    },
+    {
+      "start": 388.4,
+      "end": 392.59999999999997,
+      "text": "We've got a pretty good, steep shape to the yield curve."
+    },
+    {
+      "start": 392.59999999999997,
+      "end": 395.2,
+      "text": "So for every year that you're willing to push out"
+    },
+    {
+      "start": 395.4,
+      "end": 398.3,
+      "text": "in terms of investing, you're getting compensated"
+    },
+    {
+      "start": 398.3,
+      "end": 400.0,
+      "text": "that much more in terms of additional yield."
+    },
+    {
+      "start": 400.0,
+      "end": 403.59999999999997,
+      "text": "So yeah, we definitely look at it as an opportunistic time."
+    },
+    {
+      "start": 403.59999999999997,
+      "end": 404.9,
+      "text": "And from a risk perspective, it's funny"
+    },
+    {
+      "start": 404.9,
+      "end": 407.8,
+      "text": "because people were really worried about a recession"
+    },
+    {
+      "start": 407.8,
+      "end": 410.0,
+      "text": "when the yield curve inverted, right?"
+    },
+    {
+      "start": 410.0,
+      "end": 411.5,
+      "text": "Now, the yield curve is uninverted"
+    },
+    {
+      "start": 411.5,
+      "end": 414.09999999999997,
+      "text": "and it's back to what I think is more normal."
+    },
+    {
+      "start": 414.09999999999997,
+      "end": 417.59999999999997,
+      "text": "Yes, if there is such a thing as normal in the yield curve,"
+    },
+    {
+      "start": 417.59999999999997,
+      "end": 419.5,
+      "text": "this is more normal, correct?"
+    },
+    {
+      "start": 419.5,
+      "end": 420.7,
+      "text": "Yeah, absolutely."
+    },
+    {
+      "start": 420.7,
+      "end": 424.09999999999997,
+      "text": "I mean, we're talking about essentially 100 basis points"
+    },
+    {
+      "start": 424.1,
+      "end": 427.3,
+      "text": "of steepness in the treasury curve from two to 30s,"
+    },
+    {
+      "start": 427.3,
+      "end": 428.3,
+      "text": "give or take."
+    },
+    {
+      "start": 428.3,
+      "end": 431.90000000000003,
+      "text": "And so yeah, that's a fairly normal shape to the yield curve."
+    },
+    {
+      "start": 431.90000000000003,
+      "end": 434.3,
+      "text": "You want the yield curve to be upward sloping."
+    },
+    {
+      "start": 434.3,
+      "end": 436.8,
+      "text": "You want those expectations set up that way."
+    },
+    {
+      "start": 436.8,
+      "end": 438.70000000000005,
+      "text": "And that's exactly where we are now."
+    },
+    {
+      "start": 438.70000000000005,
+      "end": 442.1,
+      "text": "I think the fixed income market gets very uncomfortable"
+    },
+    {
+      "start": 442.1,
+      "end": 445.70000000000005,
+      "text": "in an inverted yield curve situation,"
+    },
+    {
+      "start": 445.70000000000005,
+      "end": 447.5,
+      "text": "which is where we found ourselves a couple of years ago."
+    },
+    {
+      "start": 447.5,
+      "end": 452.3,
+      "text": "So yeah, this definitely feels much, much better for investors"
+    },
+    {
+      "start": 452.3,
+      "end": 454.3,
+      "text": "to be able to push out a little bit beyond, you know,"
+    },
+    {
+      "start": 454.3,
+      "end": 458.1,
+      "text": "money markets and cash accolade type of investments."
+    },
+    {
+      "start": 458.1,
+      "end": 461.90000000000003,
+      "text": "This week on the podcast, Ben and I were talking about"
+    },
+    {
+      "start": 461.90000000000003,
+      "end": 467.1,
+      "text": "how impactful the AI trade has been"
+    },
+    {
+      "start": 467.1,
+      "end": 469.0,
+      "text": "for capital formation."
+    },
+    {
+      "start": 469.0,
+      "end": 472.90000000000003,
+      "text": "We're getting the SpaceX IPO, not exactly, you know,"
+    },
+    {
+      "start": 472.90000000000003,
+      "end": 476.5,
+      "text": "AI, but certainly some areas of it"
+    },
+    {
+      "start": 476.5,
+      "end": 478.6,
+      "text": "and throbbing might be coming later in the year."
+    },
+    {
+      "start": 478.6,
+      "end": 481.3,
+      "text": "But outside of just the equity space,"
+    },
+    {
+      "start": 481.3,
+      "end": 482.6,
+      "text": "I think I can remember the number."
+    },
+    {
+      "start": 482.6,
+      "end": 485.3,
+      "text": "It was like 87% of high yield issuance, some crazy number"
+    },
+    {
+      "start": 485.3,
+      "end": 487.5,
+      "text": "and a lot of the investment grade issuance"
+    },
+    {
+      "start": 487.5,
+      "end": 488.90000000000003,
+      "text": "also has been related to AI."
+    },
+    {
+      "start": 488.90000000000003,
+      "end": 491.90000000000003,
+      "text": "I'm wondering if you're starting to see municipalities"
+    },
+    {
+      "start": 491.90000000000003,
+      "end": 495.6,
+      "text": "be impacted at the local level between like where AI"
+    },
+    {
+      "start": 495.6,
+      "end": 497.0,
+      "text": "where data centers are being built."
+    },
+    {
+      "start": 497.0,
+      "end": 500.1,
+      "text": "Does that infiltrated your headspace?"
+    },
+    {
+      "start": 500.1,
+      "end": 502.6,
+      "text": "It's definitely infiltrated our thoughts."
+    },
+    {
+      "start": 502.6,
+      "end": 506.90000000000003,
+      "text": "You know, we've got a very large and experienced research team"
+    },
+    {
+      "start": 506.90000000000003,
+      "end": 507.90000000000003,
+      "text": "that works here."
+    },
+    {
+      "start": 507.90000000000003,
+      "end": 511.2,
+      "text": "You know, right next to our team is basically half portfolio"
+    },
+    {
+      "start": 511.2,
+      "end": 514.0,
+      "text": "managers and traders and then half research analysts"
+    },
+    {
+      "start": 514.0,
+      "end": 516.7,
+      "text": "who are a large team, roughly 27 people."
+    },
+    {
+      "start": 516.7,
+      "end": 521.7,
+      "text": "And so yes, the notion of AI and data centers"
+    },
+    {
+      "start": 521.7,
+      "end": 524.6,
+      "text": "and financing and capital structure, capital formation"
+    },
+    {
+      "start": 524.6,
+      "end": 528.7,
+      "text": "around financing all this stuff has definitely taken up"
+    },
+    {
+      "start": 528.7,
+      "end": 530.2,
+      "text": "a lot of our headspace."
+    },
+    {
+      "start": 530.2,
+      "end": 533.3,
+      "text": "We think about it from a bunch of different perspectives."
+    },
+    {
+      "start": 533.3,
+      "end": 537.9,
+      "text": "But one, when you think about municipalities specifically,"
+    },
+    {
+      "start": 537.9,
+      "end": 540.2,
+      "text": "you're really concerned about electricity usage"
+    },
+    {
+      "start": 540.2,
+      "end": 542.5,
+      "text": "and water usage and space."
+    },
+    {
+      "start": 542.5,
+      "end": 545.5,
+      "text": "So there are certainly positives and negatives"
+    },
+    {
+      "start": 545.5,
+      "end": 549.5,
+      "text": "with regard to capital formation around building"
+    },
+    {
+      "start": 549.5,
+      "end": 550.8000000000001,
+      "text": "all of this infrastructure."
+    },
+    {
+      "start": 550.8000000000001,
+      "end": 553.0,
+      "text": "But there's also on the risk side of things,"
+    },
+    {
+      "start": 553.0,
+      "end": 555.9000000000001,
+      "text": "you know, a lot of water usage, a lot of electricity usage"
+    },
+    {
+      "start": 555.9000000000001,
+      "end": 560.2,
+      "text": "and so municipalities are definitely having to plan ahead"
+    },
+    {
+      "start": 560.2,
+      "end": 561.2,
+      "text": "for that."
+    },
+    {
+      "start": 561.2,
+      "end": 565.5,
+      "text": "You guys have a whole suite of municipal bond ETFs"
+    },
+    {
+      "start": 565.5,
+      "end": 568.3000000000001,
+      "text": "that can range in, you know, how aggressive they are,"
+    },
+    {
+      "start": 568.3000000000001,
+      "end": 571.2,
+      "text": "type of credit risk they take or the type of duration."
+    },
+    {
+      "start": 571.2,
+      "end": 572.9000000000001,
+      "text": "Are any of these like go anywhere funds"
+    },
+    {
+      "start": 572.9000000000001,
+      "end": 575.4000000000001,
+      "text": "that kind of can go different durations"
+    },
+    {
+      "start": 575.4000000000001,
+      "end": 577.1,
+      "text": "or do you have pretty strict guidelines"
+    },
+    {
+      "start": 577.1,
+      "end": 579.7,
+      "text": "for the types of bonds you can buy in these funds?"
+    },
+    {
+      "start": 579.7,
+      "end": 581.6,
+      "text": "The answer is yes to both."
+    },
+    {
+      "start": 581.6,
+      "end": 584.4000000000001,
+      "text": "You know, many of our muni ETFs"
+    },
+    {
+      "start": 584.4000000000001,
+      "end": 586.0000000000001,
+      "text": "that we have here at Franklin Templeton"
+    },
+    {
+      "start": 586.0000000000001,
+      "end": 587.0000000000001,
+      "text": "are very specific."
+    },
+    {
+      "start": 587.0000000000001,
+      "end": 588.1,
+      "text": "They're state specific"
+    },
+    {
+      "start": 588.1,
+      "end": 591.8000000000001,
+      "text": "and they are generally market duration type of funds"
+    },
+    {
+      "start": 591.8000000000001,
+      "end": 593.8000000000001,
+      "text": "and mostly investment grade."
+    },
+    {
+      "start": 593.8000000000001,
+      "end": 596.4000000000001,
+      "text": "So that's the largest number of ETFs"
+    },
+    {
+      "start": 596.5,
+      "end": 598.5,
+      "text": "that we manage here."
+    },
+    {
+      "start": 598.5,
+      "end": 602.5,
+      "text": "But yes, we do have a sort of quote-unquote go anywhere"
+    },
+    {
+      "start": 602.5,
+      "end": 605.1,
+      "text": "muni ETF."
+    },
+    {
+      "start": 605.1,
+      "end": 608.1,
+      "text": "It's called the dynamic Franklin Dynamic Muni bond fund"
+    },
+    {
+      "start": 608.1,
+      "end": 610.5,
+      "text": "and muni bond ETF."
+    },
+    {
+      "start": 610.5,
+      "end": 613.5,
+      "text": "And the whole notion there is that we have a little bit"
+    },
+    {
+      "start": 613.5,
+      "end": 615.8,
+      "text": "more flexibility on the portfolio management side"
+    },
+    {
+      "start": 615.8,
+      "end": 617.3,
+      "text": "to move around duration,"
+    },
+    {
+      "start": 617.3,
+      "end": 619.1,
+      "text": "which is your interest rate volatility,"
+    },
+    {
+      "start": 619.1,
+      "end": 622.6,
+      "text": "side of things as well as credit risk."
+    },
+    {
+      "start": 622.6,
+      "end": 625.3,
+      "text": "So we can move both of those levers"
+    },
+    {
+      "start": 625.3000000000001,
+      "end": 627.2,
+      "text": "as we see opportunities in the market."
+    },
+    {
+      "start": 627.2,
+      "end": 629.2,
+      "text": "That's our sort of our best quote-unquote"
+    },
+    {
+      "start": 629.2,
+      "end": 631.7,
+      "text": "best ideas muni bond ETF."
+    },
+    {
+      "start": 631.7,
+      "end": 633.2,
+      "text": "I'm curious where you're seeing that now."
+    },
+    {
+      "start": 633.2,
+      "end": 635.0000000000001,
+      "text": "Like are you moving out on the duration?"
+    },
+    {
+      "start": 635.0000000000001,
+      "end": 637.5000000000001,
+      "text": "Little bit because those yields are higher."
+    },
+    {
+      "start": 637.5000000000001,
+      "end": 639.6,
+      "text": "It seems like credit spreads for corporate bonds"
+    },
+    {
+      "start": 639.6,
+      "end": 640.6,
+      "text": "are pretty tight."
+    },
+    {
+      "start": 640.6,
+      "end": 641.7,
+      "text": "Is it pretty similar?"
+    },
+    {
+      "start": 641.7,
+      "end": 644.4000000000001,
+      "text": "Are the spreads pretty similar in munis as well?"
+    },
+    {
+      "start": 644.4000000000001,
+      "end": 646.2,
+      "text": "Like where are you guys finding value these days?"
+    },
+    {
+      "start": 646.2,
+      "end": 648.4000000000001,
+      "text": "We see a lot more opportunities in the muni market"
+    },
+    {
+      "start": 648.4000000000001,
+      "end": 651.2,
+      "text": "than certainly that I'm hearing from my colleagues"
+    },
+    {
+      "start": 651.2,
+      "end": 652.9000000000001,
+      "text": "and the rest of fixed income."
+    },
+    {
+      "start": 652.9000000000001,
+      "end": 655.0000000000001,
+      "text": "We spend a lot of time with the other asset classes"
+    },
+    {
+      "start": 655.0,
+      "end": 655.9,
+      "text": "around fixed income."
+    },
+    {
+      "start": 655.9,
+      "end": 659.5,
+      "text": "And we continue to hear spreads are either at or very close"
+    },
+    {
+      "start": 659.5,
+      "end": 663.46,
+      "text": "to all time tights across many of the different fixed income"
+    },
+    {
+      "start": 663.46,
+      "end": 664.46,
+      "text": "asset classes."
+    },
+    {
+      "start": 664.46,
+      "end": 668.2,
+      "text": "That's not true in munis."
+    },
+    {
+      "start": 668.2,
+      "end": 670.8,
+      "text": "So I think from an opportunistic perspective,"
+    },
+    {
+      "start": 670.8,
+      "end": 673.2,
+      "text": "from a yield, we think about it a couple of different ways"
+    },
+    {
+      "start": 673.2,
+      "end": 675.0,
+      "text": "overall duration and yield curve."
+    },
+    {
+      "start": 675.0,
+      "end": 677.6,
+      "text": "And so to your point, yes, we're a little bit further"
+    },
+    {
+      "start": 677.6,
+      "end": 681.1,
+      "text": "out duration-wise than we are normally."
+    },
+    {
+      "start": 681.1,
+      "end": 684.1,
+      "text": "We're trying to get access to that 20 to 30-year portion"
+    },
+    {
+      "start": 684.2,
+      "end": 687.2,
+      "text": "of the curve, which is the steepest portion of our curve"
+    },
+    {
+      "start": 687.2,
+      "end": 689.9,
+      "text": "right now and quite attractive from our perspective"
+    },
+    {
+      "start": 689.9,
+      "end": 691.4,
+      "text": "as well as on the credit side."
+    },
+    {
+      "start": 691.4,
+      "end": 693.5,
+      "text": "So we're pushed down a little bit more"
+    },
+    {
+      "start": 693.5,
+      "end": 695.7,
+      "text": "on the credit risk side of things."
+    },
+    {
+      "start": 695.7,
+      "end": 697.5,
+      "text": "So taking on a little bit more credit risk"
+    },
+    {
+      "start": 697.5,
+      "end": 700.5,
+      "text": "than we ordinarily would because credit spreads"
+    },
+    {
+      "start": 700.5,
+      "end": 703.5,
+      "text": "from our perspective are very attractive in munis."
+    },
+    {
+      "start": 703.5,
+      "end": 706.7,
+      "text": "So we have not had nearly the tightening"
+    },
+    {
+      "start": 706.7,
+      "end": 710.9,
+      "text": "that other asset classes have had across fixed income."
+    },
+    {
+      "start": 710.9,
+      "end": 713.3000000000001,
+      "text": "You've mentioned credit risk a number of times"
+    },
+    {
+      "start": 713.4000000000001,
+      "end": 716.0000000000001,
+      "text": "I'm curious, what does that mean"
+    },
+    {
+      "start": 716.0000000000001,
+      "end": 718.0000000000001,
+      "text": "through the lens of municipal bonds?"
+    },
+    {
+      "start": 718.0000000000001,
+      "end": 721.2,
+      "text": "What does lousy credit look like?"
+    },
+    {
+      "start": 721.2,
+      "end": 725.2,
+      "text": "I would imagine that these are not things"
+    },
+    {
+      "start": 725.2,
+      "end": 726.6,
+      "text": "that change rapidly."
+    },
+    {
+      "start": 726.6,
+      "end": 729.5000000000001,
+      "text": "I would imagine it's like a very slow moving,"
+    },
+    {
+      "start": 729.5000000000001,
+      "end": 731.1,
+      "text": "upgrade downgrade cycle."
+    },
+    {
+      "start": 732.1,
+      "end": 734.0000000000001,
+      "text": "So what does that all look like?"
+    },
+    {
+      "start": 734.0000000000001,
+      "end": 735.0000000000001,
+      "text": "Great question."
+    },
+    {
+      "start": 735.0000000000001,
+      "end": 738.1,
+      "text": "I think one of the things that people think about"
+    },
+    {
+      "start": 738.1,
+      "end": 739.3000000000001,
+      "text": "with regard to the municipal market"
+    },
+    {
+      "start": 739.3000000000001,
+      "end": 743.0600000000001,
+      "text": "is they think about states and cities and counties"
+    },
+    {
+      "start": 743.0600000000001,
+      "end": 745.6600000000001,
+      "text": "as being the issuers and that's absolutely true."
+    },
+    {
+      "start": 745.6600000000001,
+      "end": 749.0600000000001,
+      "text": "However, there are dozens of other sectors"
+    },
+    {
+      "start": 749.0600000000001,
+      "end": 751.6600000000001,
+      "text": "within the municipal market that have different elements"
+    },
+    {
+      "start": 751.6600000000001,
+      "end": 753.6600000000001,
+      "text": "of risk that some of which have nothing to do"
+    },
+    {
+      "start": 753.6600000000001,
+      "end": 756.2600000000001,
+      "text": "with the state or the city or the county"
+    },
+    {
+      "start": 756.2600000000001,
+      "end": 757.7600000000001,
+      "text": "where that bond is being issued."
+    },
+    {
+      "start": 757.7600000000001,
+      "end": 759.36,
+      "text": "So there are lots of sectors"
+    },
+    {
+      "start": 759.36,
+      "end": 761.86,
+      "text": "around the utility sector, water and sewer,"
+    },
+    {
+      "start": 761.86,
+      "end": 764.0600000000001,
+      "text": "electric authorities, et cetera."
+    },
+    {
+      "start": 764.0600000000001,
+      "end": 766.86,
+      "text": "There are several different sectors within higher education,"
+    },
+    {
+      "start": 766.86,
+      "end": 769.7600000000001,
+      "text": "whether it's private schools, public schools,"
+    },
+    {
+      "start": 769.7600000000001,
+      "end": 772.5600000000001,
+      "text": "you name it, there are lots of different transportation sectors"
+    },
+    {
+      "start": 772.5600000000001,
+      "end": 777.2600000000001,
+      "text": "around toll roads and bridges and ports, airports."
+    },
+    {
+      "start": 777.2600000000001,
+      "end": 779.6600000000001,
+      "text": "Even airlines can issue debt in the municipal market"
+    },
+    {
+      "start": 779.6600000000001,
+      "end": 781.46,
+      "text": "if they're doing infrastructure at airports."
+    },
+    {
+      "start": 781.46,
+      "end": 783.96,
+      "text": "And so you're taking on an airline credit risk."
+    },
+    {
+      "start": 783.96,
+      "end": 786.5600000000001,
+      "text": "There are lots of different healthcare sectors."
+    },
+    {
+      "start": 786.5600000000001,
+      "end": 788.96,
+      "text": "For example, nonprofit acute care hospitals,"
+    },
+    {
+      "start": 788.96,
+      "end": 790.1600000000001,
+      "text": "there are retirement centers, et cetera."
+    },
+    {
+      "start": 790.1600000000001,
+      "end": 792.7600000000001,
+      "text": "So there are, and these all have different types,"
+    },
+    {
+      "start": 792.7600000000001,
+      "end": 796.96,
+      "text": "different elements of risk, different drivers"
+    },
+    {
+      "start": 796.96,
+      "end": 799.7600000000001,
+      "text": "that affect the economy, that will affect these sectors"
+    },
+    {
+      "start": 799.7600000000001,
+      "end": 800.46,
+      "text": "in different ways."
+    },
+    {
+      "start": 800.5600000000001,
+      "end": 803.96,
+      "text": "And so what does credit risk look like in the municipal market?"
+    },
+    {
+      "start": 803.96,
+      "end": 806.76,
+      "text": "Well, you have to take it sector by sector."
+    },
+    {
+      "start": 806.76,
+      "end": 810.96,
+      "text": "Default rates are very low in the municipal market overall,"
+    },
+    {
+      "start": 810.96,
+      "end": 813.0600000000001,
+      "text": "but they do exist most specifically"
+    },
+    {
+      "start": 813.0600000000001,
+      "end": 814.6600000000001,
+      "text": "down in the blow investment grade,"
+    },
+    {
+      "start": 814.6600000000001,
+      "end": 817.0600000000001,
+      "text": "high yield portion of the municipalities."
+    },
+    {
+      "start": 817.0600000000001,
+      "end": 820.0600000000001,
+      "text": "Even in that space, defaults tend to be much,"
+    },
+    {
+      "start": 820.0600000000001,
+      "end": 823.86,
+      "text": "much lower than defaults in the corporate high yield space,"
+    },
+    {
+      "start": 823.86,
+      "end": 826.76,
+      "text": "for example, and recoveries tend to be higher"
+    },
+    {
+      "start": 826.76,
+      "end": 829.46,
+      "text": "than they are in corporate defaults."
+    },
+    {
+      "start": 829.46,
+      "end": 831.26,
+      "text": "It's a fascinating market."
+    },
+    {
+      "start": 831.26,
+      "end": 834.86,
+      "text": "I've loved it for my decades in the municipal market"
+    },
+    {
+      "start": 834.86,
+      "end": 837.26,
+      "text": "because it's so nuanced specifically."
+    },
+    {
+      "start": 837.26,
+      "end": 839.76,
+      "text": "It's pretty illiquid in terms of,"
+    },
+    {
+      "start": 839.76,
+      "end": 841.0600000000001,
+      "text": "as you go down the credit spectrum,"
+    },
+    {
+      "start": 841.0600000000001,
+      "end": 843.86,
+      "text": "it's very inefficient as an asset class overall."
+    },
+    {
+      "start": 843.86,
+      "end": 847.5600000000001,
+      "text": "And so that creates lots of opportunity"
+    },
+    {
+      "start": 847.5600000000001,
+      "end": 850.76,
+      "text": "for us as institutional managers."
+    },
+    {
+      "start": 850.76,
+      "end": 852.1600000000001,
+      "text": "It seems like once every few years,"
+    },
+    {
+      "start": 852.1600000000001,
+      "end": 853.5600000000001,
+      "text": "someone comes out with a proclamation"
+    },
+    {
+      "start": 853.5600000000001,
+      "end": 856.76,
+      "text": "that the state's municipalities are all screwed"
+    },
+    {
+      "start": 856.76,
+      "end": 858.5600000000001,
+      "text": "in these good luck with these munibonds, right?"
+    },
+    {
+      "start": 858.5600000000001,
+      "end": 860.86,
+      "text": "Meredith, when he was the most infamous one back in the day,"
+    },
+    {
+      "start": 860.86,
+      "end": 862.36,
+      "text": "but a lot of people say this,"
+    },
+    {
+      "start": 862.36,
+      "end": 866.1600000000001,
+      "text": "and they pick certain cities or whatever states,"
+    },
+    {
+      "start": 866.1600000000001,
+      "end": 868.2600000000001,
+      "text": "what do you think are some of the misnomers about this,"
+    },
+    {
+      "start": 868.2600000000001,
+      "end": 869.6600000000001,
+      "text": "about these types of bonds"
+    },
+    {
+      "start": 869.6600000000001,
+      "end": 870.96,
+      "text": "that people don't seem to understand?"
+    },
+    {
+      "start": 870.96,
+      "end": 874.1600000000001,
+      "text": "Because it is kind of like the US government debt"
+    },
+    {
+      "start": 874.1600000000001,
+      "end": 875.36,
+      "text": "where people are constantly predicting"
+    },
+    {
+      "start": 875.36,
+      "end": 876.7600000000001,
+      "text": "there's going to be a crisis,"
+    },
+    {
+      "start": 876.7600000000001,
+      "end": 878.7600000000001,
+      "text": "and then when it never comes,"
+    },
+    {
+      "start": 878.7600000000001,
+      "end": 881.5600000000001,
+      "text": "what is it about munis that people want to predict a crisis?"
+    },
+    {
+      "start": 881.5600000000001,
+      "end": 886.96,
+      "text": "But it seems like there hasn't been many waves in this space."
+    },
+    {
+      "start": 886.96,
+      "end": 890.76,
+      "text": "Well, I think there are two things that really stick out."
+    },
+    {
+      "start": 890.76,
+      "end": 894.1600000000001,
+      "text": "And we had to answer this question"
+    },
+    {
+      "start": 894.1600000000001,
+      "end": 898.96,
+      "text": "quite a bit in the aftermath of the GFC thinking through,"
+    },
+    {
+      "start": 898.96,
+      "end": 900.26,
+      "text": "I was getting the question,"
+    },
+    {
+      "start": 900.26,
+      "end": 902.84,
+      "text": "I remember what's going to be first to default?"
+    },
+    {
+      "start": 902.84,
+      "end": 906.76,
+      "text": "Is it going to be Portugal, Ireland, Greece, Spain,"
+    },
+    {
+      "start": 906.76,
+      "end": 908.36,
+      "text": "or the state of California?"
+    },
+    {
+      "start": 908.36,
+      "end": 910.76,
+      "text": "And I was being asked this question by a lot of folks"
+    },
+    {
+      "start": 910.76,
+      "end": 913.1600000000001,
+      "text": "that were not experts in the municipal market."
+    },
+    {
+      "start": 913.1600000000001,
+      "end": 915.0600000000001,
+      "text": "And it was really interesting"
+    },
+    {
+      "start": 915.0600000000001,
+      "end": 917.86,
+      "text": "when we kind of thought through different ways"
+    },
+    {
+      "start": 917.86,
+      "end": 923.0600000000001,
+      "text": "to explain the overall strength of the credit fundamentals"
+    },
+    {
+      "start": 923.0600000000001,
+      "end": 923.96,
+      "text": "in the municipal market."
+    },
+    {
+      "start": 923.96,
+      "end": 925.96,
+      "text": "Two things really stood out to us."
+    },
+    {
+      "start": 925.96,
+      "end": 929.96,
+      "text": "Number one is that states have to operate with a balanced budget."
+    },
+    {
+      "start": 929.96,
+      "end": 932.36,
+      "text": "That's a mandate for every state in the country"
+    },
+    {
+      "start": 932.36,
+      "end": 933.46,
+      "text": "with the exception of Vermont."
+    },
+    {
+      "start": 933.46,
+      "end": 935.7600000000001,
+      "text": "But every other state has to operate with a balanced budget."
+    },
+    {
+      "start": 935.7600000000001,
+      "end": 938.5600000000001,
+      "text": "It doesn't mean that gaps and deficits don't get created."
+    },
+    {
+      "start": 938.5600000000001,
+      "end": 939.5600000000001,
+      "text": "Of course, they do,"
+    },
+    {
+      "start": 939.5600000000001,
+      "end": 941.46,
+      "text": "but they have to have that discipline"
+    },
+    {
+      "start": 941.46,
+      "end": 944.6600000000001,
+      "text": "of coming back into balance at the state level."
+    },
+    {
+      "start": 944.66,
+      "end": 946.9599999999999,
+      "text": "Not true at cities and counties"
+    },
+    {
+      "start": 946.9599999999999,
+      "end": 948.76,
+      "text": "or other sectors that I mentioned earlier,"
+    },
+    {
+      "start": 948.76,
+      "end": 950.9599999999999,
+      "text": "but at the state level, which is a major,"
+    },
+    {
+      "start": 950.9599999999999,
+      "end": 953.76,
+      "text": "obviously major borrower in the municipal market,"
+    },
+    {
+      "start": 953.76,
+      "end": 956.76,
+      "text": "that discipline of having to have a balanced budget"
+    },
+    {
+      "start": 956.76,
+      "end": 958.86,
+      "text": "is very, very important."
+    },
+    {
+      "start": 958.86,
+      "end": 959.86,
+      "text": "That's number one."
+    },
+    {
+      "start": 959.86,
+      "end": 963.26,
+      "text": "Number two, in general, remember that with municipal's,"
+    },
+    {
+      "start": 963.26,
+      "end": 966.9599999999999,
+      "text": "we're providing financing for public infrastructure"
+    },
+    {
+      "start": 966.9599999999999,
+      "end": 969.56,
+      "text": "and that infrastructure will have an average useful life."
+    },
+    {
+      "start": 969.56,
+      "end": 972.36,
+      "text": "Say it's a bridge or a school or a hospital"
+    },
+    {
+      "start": 972.36,
+      "end": 976.16,
+      "text": "call it 30 years average life before major reconstruction"
+    },
+    {
+      "start": 976.16,
+      "end": 977.26,
+      "text": "needs to be done,"
+    },
+    {
+      "start": 977.26,
+      "end": 979.36,
+      "text": "municipal's amortized their debt,"
+    },
+    {
+      "start": 979.36,
+      "end": 982.16,
+      "text": "generally in line with the average useful life"
+    },
+    {
+      "start": 982.16,
+      "end": 984.16,
+      "text": "of whatever asset was being financed."
+    },
+    {
+      "start": 984.16,
+      "end": 986.26,
+      "text": "And so that's another critical difference."
+    },
+    {
+      "start": 986.26,
+      "end": 989.66,
+      "text": "When you think about the post GFC time and Greece"
+    },
+    {
+      "start": 989.66,
+      "end": 992.86,
+      "text": "and other countries in Europe having to face the capital markets"
+    },
+    {
+      "start": 992.86,
+      "end": 994.36,
+      "text": "at a time where the capital markets"
+    },
+    {
+      "start": 994.36,
+      "end": 998.46,
+      "text": "weren't terribly happy to lend more money,"
+    },
+    {
+      "start": 998.46,
+      "end": 1001.76,
+      "text": "they had these walls of maturities that were impending."
+    },
+    {
+      "start": 1001.76,
+      "end": 1003.36,
+      "text": "In municipal's, you don't really have that"
+    },
+    {
+      "start": 1003.36,
+      "end": 1005.56,
+      "text": "because you are constantly amortizing your debt,"
+    },
+    {
+      "start": 1005.56,
+      "end": 1006.96,
+      "text": "meaning you're paying down your debts."
+    },
+    {
+      "start": 1006.96,
+      "end": 1010.96,
+      "text": "So if you borrow a billion dollars to build a bridge,"
+    },
+    {
+      "start": 1010.96,
+      "end": 1013.76,
+      "text": "you won't have a billion dollars that's due in 30 years."
+    },
+    {
+      "start": 1013.76,
+      "end": 1016.26,
+      "text": "You'll be paying that off through serial maturities"
+    },
+    {
+      "start": 1016.26,
+      "end": 1017.56,
+      "text": "or sinking funds,"
+    },
+    {
+      "start": 1017.56,
+      "end": 1019.56,
+      "text": "but you're paying down that debt over time"
+    },
+    {
+      "start": 1019.56,
+      "end": 1020.56,
+      "text": "over that 30 years."
+    },
+    {
+      "start": 1020.56,
+      "end": 1023.66,
+      "text": "So in year 30, you might only owe 50 million left"
+    },
+    {
+      "start": 1023.66,
+      "end": 1026.36,
+      "text": "or 100 million left, not a billion dollars."
+    },
+    {
+      "start": 1026.36,
+      "end": 1031.56,
+      "text": "And that amortization of your principal of municipal bonds"
+    },
+    {
+      "start": 1031.6599999999999,
+      "end": 1036.6599999999999,
+      "text": "is critical to think about the overall credit strength"
+    },
+    {
+      "start": 1036.6599999999999,
+      "end": 1037.46,
+      "text": "of the municipal market."
+    },
+    {
+      "start": 1037.46,
+      "end": 1038.46,
+      "text": "So I'd say there's two things."
+    },
+    {
+      "start": 1038.46,
+      "end": 1041.46,
+      "text": "Number one, the balance budget discipline"
+    },
+    {
+      "start": 1041.46,
+      "end": 1044.06,
+      "text": "and number two, the amortization in general"
+    },
+    {
+      "start": 1044.06,
+      "end": 1046.86,
+      "text": "of municipal debt in line with the average useful life"
+    },
+    {
+      "start": 1046.86,
+      "end": 1047.86,
+      "text": "of the asset."
+    },
+    {
+      "start": 1047.86,
+      "end": 1049.86,
+      "text": "So those are two critical features."
+    },
+    {
+      "start": 1049.86,
+      "end": 1051.06,
+      "text": "As you're thinking along these lines"
+    },
+    {
+      "start": 1051.06,
+      "end": 1052.26,
+      "text": "and building a portfolio,"
+    },
+    {
+      "start": 1052.26,
+      "end": 1054.96,
+      "text": "how do you think about different areas of the curve"
+    },
+    {
+      "start": 1054.96,
+      "end": 1058.36,
+      "text": "and different durations and attractive opportunities?"
+    },
+    {
+      "start": 1058.36,
+      "end": 1060.86,
+      "text": "How does that all filter into your process at Franklin?"
+    },
+    {
+      "start": 1060.8600000000001,
+      "end": 1062.5600000000002,
+      "text": "That's a very iterative process"
+    },
+    {
+      "start": 1062.5600000000002,
+      "end": 1064.5600000000002,
+      "text": "that we have between our portfolio management staff"
+    },
+    {
+      "start": 1064.5600000000002,
+      "end": 1066.96,
+      "text": "and our research team."
+    },
+    {
+      "start": 1066.96,
+      "end": 1069.66,
+      "text": "Because it's sort of the beauty of the municipal market"
+    },
+    {
+      "start": 1069.66,
+      "end": 1071.8600000000001,
+      "text": "is you've got the highly quantitative side,"
+    },
+    {
+      "start": 1071.8600000000001,
+      "end": 1073.8600000000001,
+      "text": "which is just your straight up bond math,"
+    },
+    {
+      "start": 1073.8600000000001,
+      "end": 1075.2600000000002,
+      "text": "which is kind of what you're referring to"
+    },
+    {
+      "start": 1075.2600000000002,
+      "end": 1077.0600000000002,
+      "text": "where's the value in the yield curve,"
+    },
+    {
+      "start": 1077.0600000000002,
+      "end": 1079.96,
+      "text": "where's the steepest, where's the best roll down"
+    },
+    {
+      "start": 1079.96,
+      "end": 1081.0600000000002,
+      "text": "and that sort of thing."
+    },
+    {
+      "start": 1081.0600000000002,
+      "end": 1082.16,
+      "text": "Those are critical features"
+    },
+    {
+      "start": 1082.16,
+      "end": 1084.8600000000001,
+      "text": "of just straight up quantitative bond math."
+    },
+    {
+      "start": 1084.8600000000001,
+      "end": 1087.66,
+      "text": "On the other side, you've got the creative side"
+    },
+    {
+      "start": 1087.66,
+      "end": 1090.66,
+      "text": "of what's required to research properly."
+    },
+    {
+      "start": 1090.66,
+      "end": 1093.0600000000002,
+      "text": "You know, these different sectors from a top down perspective"
+    },
+    {
+      "start": 1093.0600000000002,
+      "end": 1094.76,
+      "text": "and then from a bottom up perspective"
+    },
+    {
+      "start": 1094.76,
+      "end": 1097.16,
+      "text": "thinking about individual security selection."
+    },
+    {
+      "start": 1097.16,
+      "end": 1098.66,
+      "text": "Those are the critical features"
+    },
+    {
+      "start": 1098.66,
+      "end": 1101.16,
+      "text": "of how we analyze the municipal market,"
+    },
+    {
+      "start": 1101.16,
+      "end": 1104.96,
+      "text": "how we go about building portfolios is very specific."
+    },
+    {
+      "start": 1104.96,
+      "end": 1108.76,
+      "text": "So if we're talking about an ETF or an open end municipal bond"
+    },
+    {
+      "start": 1108.76,
+      "end": 1109.76,
+      "text": "mutual fund, you know,"
+    },
+    {
+      "start": 1109.76,
+      "end": 1112.46,
+      "text": "both which we manage here at Franklin Templeton,"
+    },
+    {
+      "start": 1112.46,
+      "end": 1113.76,
+      "text": "it's all going to be about the target,"
+    },
+    {
+      "start": 1113.76,
+      "end": 1115.76,
+      "text": "the goals of that specific fund"
+    },
+    {
+      "start": 1115.76,
+      "end": 1117.46,
+      "text": "that we're managing."
+    },
+    {
+      "start": 1117.46,
+      "end": 1119.3600000000001,
+      "text": "Same sort of thing on the SMA side,"
+    },
+    {
+      "start": 1119.46,
+      "end": 1120.7600000000002,
+      "text": "the separately managed account side,"
+    },
+    {
+      "start": 1120.7600000000002,
+      "end": 1123.66,
+      "text": "where we have very customized goals for our clients."
+    },
+    {
+      "start": 1123.66,
+      "end": 1125.2600000000002,
+      "text": "So it's all about the target."
+    },
+    {
+      "start": 1125.2600000000002,
+      "end": 1126.5600000000002,
+      "text": "What do we have to work with?"
+    },
+    {
+      "start": 1126.5600000000002,
+      "end": 1129.8600000000001,
+      "text": "What's our risk budget stipulate for us"
+    },
+    {
+      "start": 1129.8600000000001,
+      "end": 1131.3600000000001,
+      "text": "with regard to interest rate risk"
+    },
+    {
+      "start": 1131.3600000000001,
+      "end": 1133.3600000000001,
+      "text": "and then we go about building the portfolio"
+    },
+    {
+      "start": 1133.3600000000001,
+      "end": 1135.46,
+      "text": "based on the best value in the yield curve"
+    },
+    {
+      "start": 1135.46,
+      "end": 1137.7600000000002,
+      "text": "to get us to that duration number at the end of the day."
+    },
+    {
+      "start": 1137.7600000000002,
+      "end": 1140.3600000000001,
+      "text": "Same sort of thing with credit risk."
+    },
+    {
+      "start": 1140.3600000000001,
+      "end": 1142.8600000000001,
+      "text": "So within the same vein, how do you think about them?"
+    },
+    {
+      "start": 1142.8600000000001,
+      "end": 1145.5600000000002,
+      "text": "Maybe it's not your job per se, but I'm curious."
+    },
+    {
+      "start": 1145.5600000000002,
+      "end": 1147.66,
+      "text": "You obviously talk to a lot of"
+    },
+    {
+      "start": 1147.66,
+      "end": 1151.0600000000002,
+      "text": "a lot of clients, advisors and their clients"
+    },
+    {
+      "start": 1151.0600000000002,
+      "end": 1154.66,
+      "text": "are municipal bonds only for high income people"
+    },
+    {
+      "start": 1154.66,
+      "end": 1157.0600000000002,
+      "text": "in high tax states."
+    },
+    {
+      "start": 1157.0600000000002,
+      "end": 1158.3600000000001,
+      "text": "I'm really glad you asked that question."
+    },
+    {
+      "start": 1158.3600000000001,
+      "end": 1160.8600000000001,
+      "text": "I think that's the biggest misnomer"
+    },
+    {
+      "start": 1160.8600000000001,
+      "end": 1165.0600000000002,
+      "text": "that we've got in our market is I think the answer is"
+    },
+    {
+      "start": 1165.0600000000002,
+      "end": 1169.16,
+      "text": "that munis are attractive really for any investor in the US"
+    },
+    {
+      "start": 1169.16,
+      "end": 1172.3600000000001,
+      "text": "that's paying any sort of taxes, any sort of income taxes."
+    },
+    {
+      "start": 1172.3600000000001,
+      "end": 1174.16,
+      "text": "It depends where you are in the curve,"
+    },
+    {
+      "start": 1174.16,
+      "end": 1176.5600000000002,
+      "text": "but it's very easy to look at the after tax analysis"
+    },
+    {
+      "start": 1176.56,
+      "end": 1179.86,
+      "text": "and say, here's the yield on a muni tax free."
+    },
+    {
+      "start": 1179.86,
+      "end": 1183.36,
+      "text": "Here's the yield on a corporate or a government bond."
+    },
+    {
+      "start": 1183.36,
+      "end": 1186.1599999999999,
+      "text": "And here's how we line up from a credit perspective"
+    },
+    {
+      "start": 1186.1599999999999,
+      "end": 1190.1599999999999,
+      "text": "as well as from a duration or interest rate risk perspective."
+    },
+    {
+      "start": 1190.1599999999999,
+      "end": 1192.26,
+      "text": "And to take a look at the after tax analysis"
+    },
+    {
+      "start": 1192.26,
+      "end": 1195.1599999999999,
+      "text": "and what you'll see is as you push out the curve"
+    },
+    {
+      "start": 1195.1599999999999,
+      "end": 1196.96,
+      "text": "from one to 30 years when you get longer,"
+    },
+    {
+      "start": 1196.96,
+      "end": 1199.76,
+      "text": "longer on the maturity spectrum, the term structure,"
+    },
+    {
+      "start": 1199.76,
+      "end": 1203.96,
+      "text": "munis get more and more attractive on a relative basis."
+    },
+    {
+      "start": 1204.06,
+      "end": 1207.3600000000001,
+      "text": "So looking out in that 20, 25, 30 years of maturity,"
+    },
+    {
+      "start": 1207.3600000000001,
+      "end": 1210.56,
+      "text": "it's very difficult to compete with municipal bonds"
+    },
+    {
+      "start": 1210.56,
+      "end": 1213.3600000000001,
+      "text": "across any other fixed income asset class"
+    },
+    {
+      "start": 1213.3600000000001,
+      "end": 1216.76,
+      "text": "that you might see on an after tax yield perspective."
+    },
+    {
+      "start": 1216.76,
+      "end": 1218.56,
+      "text": "And even down in the shorter portion of the curve"
+    },
+    {
+      "start": 1218.56,
+      "end": 1222.56,
+      "text": "where munis are less attractive on an after tax basis,"
+    },
+    {
+      "start": 1222.56,
+      "end": 1227.3600000000001,
+      "text": "given the overall very, very high credit fundamental"
+    },
+    {
+      "start": 1227.3600000000001,
+      "end": 1232.3600000000001,
+      "text": "potential of munis, you can even find munis down"
+    },
+    {
+      "start": 1232.3600000000001,
+      "end": 1233.5600000000002,
+      "text": "on the short portion of the curve"
+    },
+    {
+      "start": 1233.5600000000002,
+      "end": 1235.7600000000002,
+      "text": "that are attractive on an after tax basis"
+    },
+    {
+      "start": 1235.7600000000002,
+      "end": 1237.96,
+      "text": "when you really compare credit to credit"
+    },
+    {
+      "start": 1237.96,
+      "end": 1240.0600000000002,
+      "text": "and try to get to an apples to apples comparison."
+    },
+    {
+      "start": 1240.0600000000002,
+      "end": 1244.66,
+      "text": "So I think munis are for sure attractive to high income people."
+    },
+    {
+      "start": 1244.66,
+      "end": 1247.66,
+      "text": "But even those in a lower income bracket,"
+    },
+    {
+      "start": 1247.66,
+      "end": 1251.46,
+      "text": "lower income tax bracket at the federal and and or"
+    },
+    {
+      "start": 1251.46,
+      "end": 1252.46,
+      "text": "at the state level,"
+    },
+    {
+      "start": 1252.46,
+      "end": 1255.3600000000001,
+      "text": "there's quite a bit of opportunity in the municipal market."
+    },
+    {
+      "start": 1255.3600000000001,
+      "end": 1256.8600000000001,
+      "text": "I'm curious how you explain that"
+    },
+    {
+      "start": 1256.8600000000001,
+      "end": 1258.8600000000001,
+      "text": "because Michael and I have noticed in wealth management"
+    },
+    {
+      "start": 1258.8600000000001,
+      "end": 1261.46,
+      "text": "that especially last few years, the tax alpha thing"
+    },
+    {
+      "start": 1261.46,
+      "end": 1264.2600000000002,
+      "text": "is a real thing that clients are coming to us with"
+    },
+    {
+      "start": 1264.2600000000002,
+      "end": 1265.16,
+      "text": "and asking for."
+    },
+    {
+      "start": 1265.16,
+      "end": 1266.8600000000001,
+      "text": "They understand better than ever"
+    },
+    {
+      "start": 1266.8600000000001,
+      "end": 1268.46,
+      "text": "that it's not your gross returns that matter."
+    },
+    {
+      "start": 1268.46,
+      "end": 1270.0600000000002,
+      "text": "It's a net after taxes after fees."
+    },
+    {
+      "start": 1270.0600000000002,
+      "end": 1271.16,
+      "text": "That's the only thing that matters."
+    },
+    {
+      "start": 1271.16,
+      "end": 1273.3600000000001,
+      "text": "What's in your pocket?"
+    },
+    {
+      "start": 1273.3600000000001,
+      "end": 1275.46,
+      "text": "And municipal bonds have this interesting feature"
+    },
+    {
+      "start": 1275.46,
+      "end": 1278.2600000000002,
+      "text": "that it's almost like phantom savings, right?"
+    },
+    {
+      "start": 1278.2600000000002,
+      "end": 1279.46,
+      "text": "Or phantom yield."
+    },
+    {
+      "start": 1279.46,
+      "end": 1281.66,
+      "text": "And so you have to show this tax equivalent yield"
+    },
+    {
+      "start": 1281.66,
+      "end": 1285.46,
+      "text": "to show people like put them on the same wavelength, right?"
+    },
+    {
+      "start": 1285.46,
+      "end": 1287.2600000000002,
+      "text": "Because it's the taxes that you're not paying"
+    },
+    {
+      "start": 1287.26,
+      "end": 1289.16,
+      "text": "on other types of bonds."
+    },
+    {
+      "start": 1289.16,
+      "end": 1292.26,
+      "text": "I'm just curious how you go about presenting that idea"
+    },
+    {
+      "start": 1292.26,
+      "end": 1295.26,
+      "text": "to show these on a one-to-one basis"
+    },
+    {
+      "start": 1295.26,
+      "end": 1297.26,
+      "text": "to show like the attractiveness."
+    },
+    {
+      "start": 1297.26,
+      "end": 1299.26,
+      "text": "Yeah, we definitely had a lot of conversations"
+    },
+    {
+      "start": 1299.26,
+      "end": 1303.26,
+      "text": "with clients around tax equivalent yields."
+    },
+    {
+      "start": 1303.26,
+      "end": 1305.26,
+      "text": "Very easy math to do."
+    },
+    {
+      "start": 1305.26,
+      "end": 1309.26,
+      "text": "Just looking at any sort of taxable bond,"
+    },
+    {
+      "start": 1309.26,
+      "end": 1312.26,
+      "text": "whether it's corporate bond or government bond,"
+    },
+    {
+      "start": 1312.26,
+      "end": 1314.26,
+      "text": "whatever the range of taxation is,"
+    },
+    {
+      "start": 1315.26,
+      "end": 1319.26,
+      "text": "take that off of the yield to get to a taxable,"
+    },
+    {
+      "start": 1319.26,
+      "end": 1322.26,
+      "text": "to get your tax equivalent basis"
+    },
+    {
+      "start": 1322.26,
+      "end": 1324.26,
+      "text": "or you can gross up the muni yields"
+    },
+    {
+      "start": 1324.26,
+      "end": 1326.26,
+      "text": "to get to a taxable equivalent basis."
+    },
+    {
+      "start": 1326.26,
+      "end": 1328.26,
+      "text": "Either way you want to do it,"
+    },
+    {
+      "start": 1328.26,
+      "end": 1331.26,
+      "text": "you can get to apples to apples on an after-tax basis,"
+    },
+    {
+      "start": 1331.26,
+      "end": 1333.26,
+      "text": "which is critical for that analysis."
+    },
+    {
+      "start": 1333.26,
+      "end": 1335.26,
+      "text": "So we do that quite a bit."
+    },
+    {
+      "start": 1335.26,
+      "end": 1338.26,
+      "text": "The other angle of tax efficiency"
+    },
+    {
+      "start": 1338.26,
+      "end": 1340.26,
+      "text": "that is really attractive in municipal"
+    },
+    {
+      "start": 1340.26,
+      "end": 1342.26,
+      "text": "is tax loss harvesting."
+    },
+    {
+      "start": 1342.26,
+      "end": 1344.26,
+      "text": "And here what we're talking about is,"
+    },
+    {
+      "start": 1344.26,
+      "end": 1347.26,
+      "text": "if we invested today and rates go down,"
+    },
+    {
+      "start": 1347.26,
+      "end": 1349.26,
+      "text": "we all know that the price and yields"
+    },
+    {
+      "start": 1349.26,
+      "end": 1351.26,
+      "text": "are inversely correlated."
+    },
+    {
+      "start": 1351.26,
+      "end": 1353.26,
+      "text": "So if yields go down, prices rise,"
+    },
+    {
+      "start": 1353.26,
+      "end": 1355.26,
+      "text": "you're sitting on an unrealized capital gain."
+    },
+    {
+      "start": 1355.26,
+      "end": 1358.26,
+      "text": "We'd be very reticent to have turnover in that situation"
+    },
+    {
+      "start": 1358.26,
+      "end": 1360.26,
+      "text": "because the last thing we want to do"
+    },
+    {
+      "start": 1360.26,
+      "end": 1362.26,
+      "text": "is book a capital gain, investor has to go out"
+    },
+    {
+      "start": 1362.26,
+      "end": 1364.26,
+      "text": "and pay taxes on that capital gain."
+    },
+    {
+      "start": 1364.26,
+      "end": 1366.26,
+      "text": "Conversely, if we invest today,"
+    },
+    {
+      "start": 1366.26,
+      "end": 1368.26,
+      "text": "rates go higher,"
+    },
+    {
+      "start": 1368.26,
+      "end": 1370.26,
+      "text": "and we're sitting on an unrealized loss"
+    },
+    {
+      "start": 1370.26,
+      "end": 1372.26,
+      "text": "in a separately managed account,"
+    },
+    {
+      "start": 1372.26,
+      "end": 1375.26,
+      "text": "we would be very incentivized to book that loss,"
+    },
+    {
+      "start": 1375.26,
+      "end": 1379.26,
+      "text": "that loss flows directly through to the bondholder,"
+    },
+    {
+      "start": 1379.26,
+      "end": 1381.26,
+      "text": "to the client that they can use against gains"
+    },
+    {
+      "start": 1381.26,
+      "end": 1384.26,
+      "text": "they might have in real estate or equities or whatever."
+    },
+    {
+      "start": 1384.26,
+      "end": 1386.26,
+      "text": "But that loss can be very, very valuable."
+    },
+    {
+      "start": 1386.26,
+      "end": 1389.26,
+      "text": "The key to this whole transaction in munis"
+    },
+    {
+      "start": 1389.26,
+      "end": 1392.26,
+      "text": "is that to get around the 30-day wash sale rule,"
+    },
+    {
+      "start": 1392.26,
+      "end": 1395.26,
+      "text": "which is if you sell Cisco at a loss,"
+    },
+    {
+      "start": 1395.26,
+      "end": 1397.26,
+      "text": "you can't go back into the market"
+    },
+    {
+      "start": 1397.26,
+      "end": 1399.26,
+      "text": "and buy Cisco back within those 30 days."
+    },
+    {
+      "start": 1399.26,
+      "end": 1401.26,
+      "text": "Otherwise, it's a wash sale."
+    },
+    {
+      "start": 1401.26,
+      "end": 1403.26,
+      "text": "In munis, because you have so many different attributes"
+    },
+    {
+      "start": 1403.26,
+      "end": 1405.26,
+      "text": "to what a muni bond is,"
+    },
+    {
+      "start": 1405.26,
+      "end": 1407.26,
+      "text": "you get the issuer, the coupon, the call,"
+    },
+    {
+      "start": 1407.26,
+      "end": 1410.26,
+      "text": "the maturity, all of which can be slightly different"
+    },
+    {
+      "start": 1410.26,
+      "end": 1413.26,
+      "text": "to escape that 30-day wash sale rule."
+    },
+    {
+      "start": 1413.26,
+      "end": 1415.26,
+      "text": "And so it's a very efficient asset class"
+    },
+    {
+      "start": 1415.26,
+      "end": 1418.26,
+      "text": "to take tax losses"
+    },
+    {
+      "start": 1418.26,
+      "end": 1422.26,
+      "text": "as well as obviously providing the very attractive yield"
+    },
+    {
+      "start": 1422.26,
+      "end": 1424.26,
+      "text": "on an after-tax basis."
+    },
+    {
+      "start": 1424.26,
+      "end": 1428.26,
+      "text": "Do you think there's any particular wrapper"
+    },
+    {
+      "start": 1428.26,
+      "end": 1430.26,
+      "text": "for the investor that is better than the others,"
+    },
+    {
+      "start": 1430.26,
+      "end": 1433.26,
+      "text": "whether it's an SMA, a mutual fund, an ETF?"
+    },
+    {
+      "start": 1433.26,
+      "end": 1435.26,
+      "text": "It's really interesting."
+    },
+    {
+      "start": 1435.26,
+      "end": 1437.26,
+      "text": "We do all three here at Franklin Templeton,"
+    },
+    {
+      "start": 1437.26,
+      "end": 1439.26,
+      "text": "very large in growing,"
+    },
+    {
+      "start": 1439.26,
+      "end": 1441.26,
+      "text": "circular managed account business, ETF."
+    },
+    {
+      "start": 1441.26,
+      "end": 1444.26,
+      "text": "We have lots of different stripes and varieties of muni ETFs"
+    },
+    {
+      "start": 1444.26,
+      "end": 1447.26,
+      "text": "and the history of the Franklin muni group,"
+    },
+    {
+      "start": 1447.26,
+      "end": 1450.26,
+      "text": "of course, is an open-end municipal bond mutual fund."
+    },
+    {
+      "start": 1450.26,
+      "end": 1452.26,
+      "text": "So we have loads of those state-specific,"
+    },
+    {
+      "start": 1452.26,
+      "end": 1455.26,
+      "text": "as well as national, all sorts of different risks, et cetera."
+    },
+    {
+      "start": 1455.26,
+      "end": 1458.26,
+      "text": "It comes down to client preference,"
+    },
+    {
+      "start": 1458.26,
+      "end": 1461.26,
+      "text": "which is I think what I'm most proud about"
+    },
+    {
+      "start": 1461.26,
+      "end": 1464.26,
+      "text": "with this group is that we were able to offer"
+    },
+    {
+      "start": 1464.26,
+      "end": 1467.26,
+      "text": "all of our capabilities and municipals"
+    },
+    {
+      "start": 1467.26,
+      "end": 1469.26,
+      "text": "in all three of the major wrappers."
+    },
+    {
+      "start": 1469.26,
+      "end": 1472.26,
+      "text": "I don't think there's a one-size-fits-all"
+    },
+    {
+      "start": 1472.26,
+      "end": 1473.26,
+      "text": "here type of situation."
+    },
+    {
+      "start": 1473.26,
+      "end": 1476.26,
+      "text": "I think every client is going to be a little bit different"
+    },
+    {
+      "start": 1476.26,
+      "end": 1478.26,
+      "text": "in terms of their tax sensitivity,"
+    },
+    {
+      "start": 1478.26,
+      "end": 1480.26,
+      "text": "in terms of their desires around duration"
+    },
+    {
+      "start": 1480.26,
+      "end": 1484.26,
+      "text": "and credit risk, liquidity in open-end funds,"
+    },
+    {
+      "start": 1484.26,
+      "end": 1487.26,
+      "text": "obviously, is daily with muni ETFs."
+    },
+    {
+      "start": 1487.26,
+      "end": 1490.26,
+      "text": "It's intra-daily, which is an advantage for some people."
+    },
+    {
+      "start": 1490.26,
+      "end": 1493.26,
+      "text": "In SMAs, you own the individual bonds as a client,"
+    },
+    {
+      "start": 1493.26,
+      "end": 1496.26,
+      "text": "and so that's very attractive for people, as well."
+    },
+    {
+      "start": 1496.26,
+      "end": 1498.26,
+      "text": "It really depends on client goals,"
+    },
+    {
+      "start": 1498.26,
+      "end": 1500.26,
+      "text": "but I'm really happy that we were able to provide"
+    },
+    {
+      "start": 1500.26,
+      "end": 1503.26,
+      "text": "all three of those major wrappers to clients."
+    },
+    {
+      "start": 1503.26,
+      "end": 1506.26,
+      "text": "You know, we don't hear that argument too much these days,"
+    },
+    {
+      "start": 1506.26,
+      "end": 1510.26,
+      "text": "which is, I like individual bonds and I hate bond funds."
+    },
+    {
+      "start": 1510.26,
+      "end": 1512.26,
+      "text": "I'm sure that drives you nuts,"
+    },
+    {
+      "start": 1512.26,
+      "end": 1515.26,
+      "text": "because we know that portfolio of bonds,"
+    },
+    {
+      "start": 1515.26,
+      "end": 1517.26,
+      "text": "it doesn't matter if you own the individual bonds"
+    },
+    {
+      "start": 1517.26,
+      "end": 1518.26,
+      "text": "or not, they're on somewhere,"
+    },
+    {
+      "start": 1518.26,
+      "end": 1520.26,
+      "text": "and it's the exact same thing."
+    },
+    {
+      "start": 1520.26,
+      "end": 1522.26,
+      "text": "But whatever, you can't change human nature."
+    },
+    {
+      "start": 1522.26,
+      "end": 1523.26,
+      "text": "I don't have a question."
+    },
+    {
+      "start": 1523.26,
+      "end": 1524.26,
+      "text": "That's more of just a comment."
+    },
+    {
+      "start": 1524.26,
+      "end": 1525.26,
+      "text": "Do you have any thoughts on that?"
+    },
+    {
+      "start": 1525.26,
+      "end": 1526.26,
+      "text": "Well, I do."
+    },
+    {
+      "start": 1526.26,
+      "end": 1528.26,
+      "text": "I think it's an excellent comment,"
+    },
+    {
+      "start": 1528.26,
+      "end": 1530.26,
+      "text": "because it's spot on."
+    },
+    {
+      "start": 1530.26,
+      "end": 1533.26,
+      "text": "And I think the really interesting part of that comment"
+    },
+    {
+      "start": 1533.26,
+      "end": 1537.26,
+      "text": "is in periods of interest rate volatility,"
+    },
+    {
+      "start": 1537.26,
+      "end": 1540.26,
+      "text": "specifically in an interest rate increase in environment."
+    },
+    {
+      "start": 1540.26,
+      "end": 1542.26,
+      "text": "Like 2022 was, you know,"
+    },
+    {
+      "start": 1542.26,
+      "end": 1546.26,
+      "text": "the worst year on record for total return in the municipal bond market."
+    },
+    {
+      "start": 1546.26,
+      "end": 1549.26,
+      "text": "And it was just, you know, rates were going higher and higher and higher,"
+    },
+    {
+      "start": 1549.26,
+      "end": 1552.26,
+      "text": "250 basis points and different portions of the curve."
+    },
+    {
+      "start": 1552.26,
+      "end": 1554.26,
+      "text": "So it was a very difficult year"
+    },
+    {
+      "start": 1554.26,
+      "end": 1558.26,
+      "text": "from a total return perspective in 2022."
+    },
+    {
+      "start": 1558.26,
+      "end": 1562.26,
+      "text": "Very typical response from shareholders of open end funds,"
+    },
+    {
+      "start": 1562.26,
+      "end": 1565.26,
+      "text": "historically, it was to sell the losing asset class"
+    },
+    {
+      "start": 1565.26,
+      "end": 1567.26,
+      "text": "and buy the winning asset class."
+    },
+    {
+      "start": 1567.26,
+      "end": 1569.26,
+      "text": "And so in a year like 2022,"
+    },
+    {
+      "start": 1569.26,
+      "end": 1571.26,
+      "text": "rates rising, NAVs falling"
+    },
+    {
+      "start": 1571.26,
+      "end": 1574.26,
+      "text": "and shareholders redeem like crazy out of open end funds."
+    },
+    {
+      "start": 1574.26,
+      "end": 1576.26,
+      "text": "That was a record breaking year"
+    },
+    {
+      "start": 1576.26,
+      "end": 1578.26,
+      "text": "from a redemption perspective from open end funds."
+    },
+    {
+      "start": 1578.26,
+      "end": 1581.26,
+      "text": "So our open end funds were getting liquidated,"
+    },
+    {
+      "start": 1581.26,
+      "end": 1583.26,
+      "text": "getting redeemed, just like everyone else's."
+    },
+    {
+      "start": 1583.26,
+      "end": 1586.26,
+      "text": "Our SMA business, very interestingly,"
+    },
+    {
+      "start": 1586.26,
+      "end": 1591.26,
+      "text": "every month in 2022 was positive net flows in 2022."
+    },
+    {
+      "start": 1591.26,
+      "end": 1594.26,
+      "text": "And I think what you just hit on was exactly it."
+    },
+    {
+      "start": 1594.26,
+      "end": 1598.26,
+      "text": "And that is the difference in the psyche of the retail investor."
+    },
+    {
+      "start": 1598.26,
+      "end": 1599.26,
+      "text": "Wow."
+    },
+    {
+      "start": 1599.26,
+      "end": 1601.26,
+      "text": "With open end funds, they can tend to be, you know,"
+    },
+    {
+      "start": 1601.26,
+      "end": 1604.26,
+      "text": "kind of flighty with SMAs, kind of the theory is,"
+    },
+    {
+      "start": 1604.26,
+      "end": 1607.26,
+      "text": "if I liked this investment at a 2% yield,"
+    },
+    {
+      "start": 1607.26,
+      "end": 1609.26,
+      "text": "I should love it at a 4% yield,"
+    },
+    {
+      "start": 1609.26,
+      "end": 1610.26,
+      "text": "and I'll give more money."
+    },
+    {
+      "start": 1610.26,
+      "end": 1614.26,
+      "text": "And so we found that the investors over lots of different cycles"
+    },
+    {
+      "start": 1614.26,
+      "end": 1617.26,
+      "text": "that we've been managing money in all these formats"
+    },
+    {
+      "start": 1617.26,
+      "end": 1620.26,
+      "text": "have been very good and responsive"
+    },
+    {
+      "start": 1620.26,
+      "end": 1623.26,
+      "text": "and really opportunistic in the SMA space."
+    },
+    {
+      "start": 1624.26,
+      "end": 1626.26,
+      "text": "That's it. So you've been doing this for a long time."
+    },
+    {
+      "start": 1626.26,
+      "end": 1628.26,
+      "text": "I've had this talk with Michael before,"
+    },
+    {
+      "start": 1628.26,
+      "end": 1630.26,
+      "text": "that I think that investors are actually becoming"
+    },
+    {
+      "start": 1630.26,
+      "end": 1632.26,
+      "text": "better behaved at this kind of thing."
+    },
+    {
+      "start": 1632.26,
+      "end": 1634.26,
+      "text": "They're not running from the burning building anymore,"
+    },
+    {
+      "start": 1634.26,
+      "end": 1635.26,
+      "text": "they're running into it, right?"
+    },
+    {
+      "start": 1635.26,
+      "end": 1637.26,
+      "text": "Have you seen that over your career"
+    },
+    {
+      "start": 1637.26,
+      "end": 1639.26,
+      "text": "where people are more apt to put money in"
+    },
+    {
+      "start": 1639.26,
+      "end": 1641.26,
+      "text": "when you get something like that at downturn"
+    },
+    {
+      "start": 1641.26,
+      "end": 1642.26,
+      "text": "and yields go higher?"
+    },
+    {
+      "start": 1642.26,
+      "end": 1645.26,
+      "text": "And they're better understanding what this means?"
+    },
+    {
+      "start": 1645.26,
+      "end": 1649.26,
+      "text": "Well, I think education is critical to that exact question."
+    },
+    {
+      "start": 1649.26,
+      "end": 1652.26,
+      "text": "And so that's why I'm very appreciative to be"
+    },
+    {
+      "start": 1652.26,
+      "end": 1655.26,
+      "text": "on this podcast today, because the more information,"
+    },
+    {
+      "start": 1655.26,
+      "end": 1658.26,
+      "text": "more education we can provide to clients,"
+    },
+    {
+      "start": 1658.26,
+      "end": 1660.26,
+      "text": "the better investors they will be."
+    },
+    {
+      "start": 1660.26,
+      "end": 1663.26,
+      "text": "And to your exact point, you know, rates rise,"
+    },
+    {
+      "start": 1663.26,
+      "end": 1664.26,
+      "text": "we don't want people to be scared."
+    },
+    {
+      "start": 1664.26,
+      "end": 1666.26,
+      "text": "We want them to be, you know, think on the front foot,"
+    },
+    {
+      "start": 1666.26,
+      "end": 1668.26,
+      "text": "and maybe this is a better environment for them"
+    },
+    {
+      "start": 1668.26,
+      "end": 1670.26,
+      "text": "to put money into fixed income"
+    },
+    {
+      "start": 1670.26,
+      "end": 1671.26,
+      "text": "and in particular, communities,"
+    },
+    {
+      "start": 1671.26,
+      "end": 1675.26,
+      "text": "and the whole key here is we know that rates"
+    },
+    {
+      "start": 1675.26,
+      "end": 1676.26,
+      "text": "are going to move up and down."
+    },
+    {
+      "start": 1676.26,
+      "end": 1678.26,
+      "text": "We know that that's going to cause price volatility."
+    },
+    {
+      "start": 1678.26,
+      "end": 1679.26,
+      "text": "That's a given."
+    },
+    {
+      "start": 1679.26,
+      "end": 1680.26,
+      "text": "And we also know,"
+    },
+    {
+      "start": 1680.26,
+      "end": 1683.26,
+      "text": "and we fully acknowledge is fixed income portfolio managers."
+    },
+    {
+      "start": 1683.26,
+      "end": 1686.26,
+      "text": "We can't guess interest rates correctly every single time."
+    },
+    {
+      "start": 1686.26,
+      "end": 1688.26,
+      "text": "No one can, no one ever has."
+    },
+    {
+      "start": 1688.26,
+      "end": 1691.26,
+      "text": "And so the key is, you know, that's coming"
+    },
+    {
+      "start": 1691.26,
+      "end": 1693.26,
+      "text": "and let's take advantage of it."
+    },
+    {
+      "start": 1693.26,
+      "end": 1694.26,
+      "text": "So rates rise a little bit."
+    },
+    {
+      "start": 1694.26,
+      "end": 1696.26,
+      "text": "It might be a great time to tax less harvest."
+    },
+    {
+      "start": 1696.26,
+      "end": 1699.26,
+      "text": "It could be a great time to put more money into, you know,"
+    },
+    {
+      "start": 1699.26,
+      "end": 1701.26,
+      "text": "extend more capital, more of your asset allocation"
+    },
+    {
+      "start": 1701.26,
+      "end": 1703.26,
+      "text": "into fixed income at that moment"
+    },
+    {
+      "start": 1703.26,
+      "end": 1705.26,
+      "text": "with a higher rate environment."
+    },
+    {
+      "start": 1705.26,
+      "end": 1709.26,
+      "text": "So, yeah, I do believe that investors are smarter,"
+    },
+    {
+      "start": 1709.26,
+      "end": 1710.26,
+      "text": "more well-informed,"
+    },
+    {
+      "start": 1710.26,
+      "end": 1713.26,
+      "text": "but the more the merrier in terms of education"
+    },
+    {
+      "start": 1713.26,
+      "end": 1715.26,
+      "text": "and, you know, client interaction."
+    },
+    {
+      "start": 1715.26,
+      "end": 1717.26,
+      "text": "Ben, where can we send people to learn more about your funds?"
+    },
+    {
+      "start": 1717.26,
+      "end": 1720.26,
+      "text": "Well, Franklin Templeton has a very good website."
+    },
+    {
+      "start": 1720.26,
+      "end": 1722.26,
+      "text": "There's a lot to do there."
+    },
+    {
+      "start": 1722.26,
+      "end": 1726.26,
+      "text": "You can look specifically into the municipal bond group."
+    },
+    {
+      "start": 1726.26,
+      "end": 1728.26,
+      "text": "We're very happy to connect"
+    },
+    {
+      "start": 1728.26,
+      "end": 1732.26,
+      "text": "and there's lots of information online, for sure."
+    },
+    {
+      "start": 1732.26,
+      "end": 1734.26,
+      "text": "All right, thanks so much for your time, Ben."
+    },
+    {
+      "start": 1734.26,
+      "end": 1735.26,
+      "text": "Thank you."
+    },
+    {
+      "start": 1736.26,
+      "end": 1738.26,
+      "text": "Okay, thank you to Ben."
+    },
+    {
+      "start": 1738.26,
+      "end": 1741.26,
+      "text": "Remember, check out FranklinTempleton.com to learn more."
+    },
+    {
+      "start": 1741.26,
+      "end": 1742.26,
+      "text": "But all our active community ETFs"
+    },
+    {
+      "start": 1742.26,
+      "end": 1745.26,
+      "text": "and more email us animal spirits at thecompoundnews.com."
+    },
+    {
+      "start": 1745.26,
+      "end": 1747.26,
+      "text": "Investors should carefully consider"
+    },
+    {
+      "start": 1747.26,
+      "end": 1750.26,
+      "text": "a funds investment goals, risks, sales charges,"
+    },
+    {
+      "start": 1750.26,
+      "end": 1752.26,
+      "text": "and expenses before investing."
+    },
+    {
+      "start": 1752.26,
+      "end": 1755.26,
+      "text": "The prospectus contains this and other information."
+    },
+    {
+      "start": 1755.26,
+      "end": 1757.26,
+      "text": "Please read the prospectus carefully"
+    },
+    {
+      "start": 1757.26,
+      "end": 1759.26,
+      "text": "before investing or sending money."
+    },
+    {
+      "start": 1759.26,
+      "end": 1762.26,
+      "text": "Investments involve risk, including possible loss of principle."
+    },
+    {
+      "start": 1762.26,
+      "end": 1765.26,
+      "text": "Please see each product's web page for specific details"
+    },
+    {
+      "start": 1765.26,
+      "end": 1768.26,
+      "text": "regarding investment objective, risks, performance,"
+    },
+    {
+      "start": 1768.26,
+      "end": 1770.26,
+      "text": "and other important information."
+    },
+    {
+      "start": 1770.26,
+      "end": 1772.26,
+      "text": "Review this information carefully"
+    },
+    {
+      "start": 1772.26,
+      "end": 1774.26,
+      "text": "before you make any investment decision."
+    },
+    {
+      "start": 1774.26,
+      "end": 1776.26,
+      "text": "There is no guarantee that any strategy"
+    },
+    {
+      "start": 1776.26,
+      "end": 1778.26,
+      "text": "will achieve its objective."
+    },
+    {
+      "start": 1778.26,
+      "end": 1781.26,
+      "text": "This material is intended to be of general interest only"
+    },
+    {
+      "start": 1781.26,
+      "end": 1785.26,
+      "text": "and should not be construed as individual investment advice"
+    },
+    {
+      "start": 1785.26,
+      "end": 1788.26,
+      "text": "or a recommendation or solicitation to buy, sell,"
+    },
+    {
+      "start": 1788.26,
+      "end": 1790.26,
+      "text": "or hold any security"
+    },
+    {
+      "start": 1790.26,
+      "end": 1793.26,
+      "text": "or to adopt any investment strategy."
+    },
+    {
+      "start": 1793.26,
+      "end": 1796.26,
+      "text": "It does not constitute legal or tax advice."
+    },
+    {
+      "start": 1796.26,
+      "end": 1799.26,
+      "text": "ETFs trade like stocks, fluctuate in market value"
+    },
+    {
+      "start": 1799.26,
+      "end": 1802.26,
+      "text": "and may trade at prices, above or below"
+    },
+    {
+      "start": 1802.26,
+      "end": 1805.26,
+      "text": "the ETF's net asset value."
+    },
+    {
+      "start": 1805.26,
+      "end": 1808.26,
+      "text": "brokerage commissions and expenses will reduce returns."
+    },
+    {
+      "start": 1808.26,
+      "end": 1811.26,
+      "text": "There is no guarantee that any strategy"
+    },
+    {
+      "start": 1811.26,
+      "end": 1813.26,
+      "text": "will achieve its objective."
+    },
+    {
+      "start": 1813.26,
+      "end": 1815.26,
+      "text": "Separately managed accounts, SMAs,"
+    },
+    {
+      "start": 1815.26,
+      "end": 1817.26,
+      "text": "are investment services provided"
+    },
+    {
+      "start": 1817.26,
+      "end": 1820.26,
+      "text": "by Franklin Templeton Private Portfolio Group,"
+    },
+    {
+      "start": 1820.26,
+      "end": 1823.26,
+      "text": "LLC, FTPPG,"
+    },
+    {
+      "start": 1823.26,
+      "end": 1826.26,
+      "text": "a federally registered investment advisor."
+    },
+    {
+      "start": 1826.26,
+      "end": 1829.26,
+      "text": "Client portfolios are managed based on investment instructions"
+    },
+    {
+      "start": 1829.26,
+      "end": 1832.26,
+      "text": "or advice provided by affiliated sub-advisors"
+    },
+    {
+      "start": 1832.26,
+      "end": 1834.26,
+      "text": "of Franklin Templeton."
+    },
+    {
+      "start": 1834.26,
+      "end": 1836.26,
+      "text": "Management is implemented by FTPPG,"
+    },
+    {
+      "start": 1836.26,
+      "end": 1838.26,
+      "text": "the designated sub-advisor,"
+    },
+    {
+      "start": 1838.26,
+      "end": 1840.26,
+      "text": "or in the case of certain programs,"
+    },
+    {
+      "start": 1840.26,
+      "end": 1843.26,
+      "text": "the program sponsor, or its designee."
+    },
+    {
+      "start": 1843.26,
+      "end": 1845.26,
+      "text": "Putnam funds are not exchangeable"
+    },
+    {
+      "start": 1845.26,
+      "end": 1848.26,
+      "text": "for funds distributed by Franklin Distributors,"
+    },
+    {
+      "start": 1848.26,
+      "end": 1851.26,
+      "text": "LLC, Franklin Distributors,"
+    },
+    {
+      "start": 1851.26,
+      "end": 1855.26,
+      "text": "LLC, member FINRA, SIPC,"
+    },
+    {
+      "start": 1855.26,
+      "end": 1857.26,
+      "text": "investment products."
+    },
+    {
+      "start": 1857.26,
+      "end": 1861.26,
+      "text": "Not FDIC insured, no bank guarantee may lose value."
+    },
+    {
+      "start": 1861.26,
+      "end": 1863.26,
+      "text": "Municipal income may be subject to state"
+    },
+    {
+      "start": 1863.26,
+      "end": 1866.26,
+      "text": "and local taxes for out-of-state residents."
+    },
+    {
+      "start": 1866.26,
+      "end": 1869.26,
+      "text": "Some income may be subject to the federal alternative"
+    },
+    {
+      "start": 1869.26,
+      "end": 1871.26,
+      "text": "minimum tax for certain investors."
+    },
+    {
+      "start": 1871.26,
+      "end": 1874.26,
+      "text": "Capital gains, if any, are taxable."
+    },
+    {
+      "start": 1874.26,
+      "end": 1877.26,
+      "text": "Franklin Templeton, its affiliates and its employees"
+    },
+    {
+      "start": 1877.26,
+      "end": 1879.26,
+      "text": "are not in the business of providing tax"
+    },
+    {
+      "start": 1879.26,
+      "end": 1881.26,
+      "text": "or legal advice to taxpayers."
+    },
+    {
+      "start": 1881.26,
+      "end": 1883.26,
+      "text": "These materials and tax-related statements"
+    },
+    {
+      "start": 1883.26,
+      "end": 1885.26,
+      "text": "are not intended or written to be used,"
+    },
+    {
+      "start": 1885.26,
+      "end": 1889.26,
+      "text": "and cannot be used or relied upon by any such taxpayer"
+    },
+    {
+      "start": 1889.26,
+      "end": 1891.26,
+      "text": "for the purpose of avoiding tax penalties"
+    },
+    {
+      "start": 1891.26,
+      "end": 1895.26,
+      "text": "or complying with any applicable tax laws or regulations."
+    },
+    {
+      "start": 1895.26,
+      "end": 1898.26,
+      "text": "Tax-related statements, if any, may have been written in connection"
+    },
+    {
+      "start": 1898.26,
+      "end": 1901.26,
+      "text": "with the promotion or marketing of the transactions"
+    },
+    {
+      "start": 1901.26,
+      "end": 1903.26,
+      "text": "or matters addressed by these materials."
+    },
+    {
+      "start": 1903.26,
+      "end": 1906.26,
+      "text": "To the extent allowed by applicable law,"
+    },
+    {
+      "start": 1906.26,
+      "end": 1908.26,
+      "text": "any such taxpayers should seek advice based"
+    },
+    {
+      "start": 1908.26,
+      "end": 1910.26,
+      "text": "on the taxpayers' particular circumstances"
+    },
+    {
+      "start": 1910.26,
+      "end": 1913.26,
+      "text": "from an independent tax advisor."
+    }
+  ]
+}

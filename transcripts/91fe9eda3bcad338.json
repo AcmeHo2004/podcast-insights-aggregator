@@ -1,0 +1,2236 @@
+{
+  "id": "91fe9eda3bcad338",
+  "show": "Y Combinator Startup Podcast",
+  "theme": "Tech & AI",
+  "title": "Why Domain Experts Are Winning In The Age Of AI",
+  "audio_url": "https://anchor.fm/s/8c1524bc/podcast/play/121692170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-19%2F426428445-44100-2-cc6fbd2bc5962.mp3",
+  "source": "local-whisper",
+  "duration": 2549.2,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.36,
+      "text": "you need to have a certain amount of expertise to know what to do with this boundless intelligence"
+    },
+    {
+      "start": 5.36,
+      "end": 11.36,
+      "text": "that's imbued in the model. And I think this is where folks with experience, folks that have"
+    },
+    {
+      "start": 11.36,
+      "end": 17.84,
+      "text": "spent decade plus in this industry, they know how to create something like this because they can"
+    },
+    {
+      "start": 17.84,
+      "end": 23.6,
+      "text": "leverage the model's underlying capability to create something that's just world-class."
+    },
+    {
+      "start": 23.6,
+      "end": 28.64,
+      "text": "So many businesses, they have a great product, they have a great service, but there's just so much"
+    },
+    {
+      "start": 28.64,
+      "end": 35.36,
+      "text": "sort of a net opportunity for these business owners, for these founders. And I'm really just"
+    },
+    {
+      "start": 35.36,
+      "end": 37.92,
+      "text": "here to make it easier for them to tap into it."
+    },
+    {
+      "start": 45.36,
+      "end": 50.32,
+      "text": "Welcome back to another episode of The Light Cone. Today we're joined by Bryant Cho, co-founder and"
+    },
+    {
+      "start": 50.32,
+      "end": 58.16,
+      "text": "CTO of Webflow, which created 1% of all websites live today. Bryant is back in the current YC batch"
+    },
+    {
+      "start": 58.160000000000004,
+      "end": 64.16,
+      "text": "with a brand new startup called Play, which is taking the work he did on Webflow to the next level."
+    },
+    {
+      "start": 64.16,
+      "end": 71.28,
+      "text": "Bryant, welcome to The Light Cone. Thanks for having me. So what is Play? We're looking at it right now."
+    },
+    {
+      "start": 71.28,
+      "end": 78.32000000000001,
+      "text": "It kind of looks like a lot of the other things you might use to vibe code, but it's actually way"
+    },
+    {
+      "start": 78.32000000000001,
+      "end": 85.28,
+      "text": "more awesome than that. It is a website platform. You can build really incredible bespoke award-winning"
+    },
+    {
+      "start": 85.28,
+      "end": 90.8,
+      "text": "websites with Play, but it doesn't just stop there. The premise is that your website has all this"
+    },
+    {
+      "start": 90.8,
+      "end": 96.08,
+      "text": "traffic, it has all this data, and what we're doing is we're building an entire marketing platform"
+    },
+    {
+      "start": 96.08,
+      "end": 101.36,
+      "text": "to help you run your business, to help you run your ads, help you find your customers,"
+    },
+    {
+      "start": 101.36,
+      "end": 107.2,
+      "text": "help you make your website copy, but then also most importantly, help you get found by Chad GPT,"
+    },
+    {
+      "start": 107.2,
+      "end": 112.96000000000001,
+      "text": "help you get found by perplexity and cloud, so that businesses can run their marketing on autopilot."
+    },
+    {
+      "start": 112.96000000000001,
+      "end": 119.44000000000001,
+      "text": "It kind of sounds like hiring the perfect CMO who also is a designer and who can code."
+    },
+    {
+      "start": 119.44000000000001,
+      "end": 124.08000000000001,
+      "text": "That's actually kind of my background, so I started as a CTO of Webflow, but then I also"
+    },
+    {
+      "start": 124.08000000000001,
+      "end": 129.44,
+      "text": "let our marketing teams, I also started our sales teams, so I'm just taking all that knowledge and"
+    },
+    {
+      "start": 129.44,
+      "end": 134.88,
+      "text": "I'm baking it into Play. Okay, so that sounds like Founder Market fit a triple unicorn, making the AI"
+    },
+    {
+      "start": 134.88,
+      "end": 141.68,
+      "text": "triple unicorn for everyone in the world, like the other 98% of websites could really use this."
+    },
+    {
+      "start": 141.76000000000002,
+      "end": 146.88,
+      "text": "That's right, so what you're seeing is that it's sure like a vibe coding sort of UI UX,"
+    },
+    {
+      "start": 146.88,
+      "end": 152.4,
+      "text": "but you're also getting stuff out of the box that you wouldn't normally get, so you get all of these"
+    },
+    {
+      "start": 152.4,
+      "end": 157.84,
+      "text": "sort of integrations, but then most importantly, you get all this traffic, so what I actually did was"
+    },
+    {
+      "start": 157.84,
+      "end": 164.88,
+      "text": "just to show off Play's web design skills, I loaded your old startup website."
+    },
+    {
+      "start": 164.88,
+      "end": 170.0,
+      "text": "Yeah, this is a lot. This is Posterous, it does simple blogs by email, you can see the little"
+    },
+    {
+      "start": 170.0,
+      "end": 175.68,
+      "text": "I, the Gmail buttons and things like that. What year did you build the site Gary? 2008, so you know,"
+    },
+    {
+      "start": 175.68,
+      "end": 182.8,
+      "text": "if it looks dated, it is. So we dropped it into Play and we essentially said, hey, go and recreate"
+    },
+    {
+      "start": 182.8,
+      "end": 190.16,
+      "text": "this website in Play, and this is what it created. Oh my god, wow, so this is not 2008 Posterous,"
+    },
+    {
+      "start": 190.16,
+      "end": 196.24,
+      "text": "it is truly 2026 Posterous. Be careful, because now that you've created, I might have to actually"
+    },
+    {
+      "start": 196.24,
+      "end": 202.4,
+      "text": "write a million lines of code and make it real again. This is definitely a Google Vio video and all"
+    },
+    {
+      "start": 202.4,
+      "end": 206.88,
+      "text": "these sort of prompts and sort of knowledge about how to create these type of videos or embed it"
+    },
+    {
+      "start": 206.88,
+      "end": 213.12,
+      "text": "into Play. Yeah, I mean, once you're in the land of doing image gen and video gen, there's just a lot"
+    },
+    {
+      "start": 213.12,
+      "end": 218.64,
+      "text": "you have to do around curation and proper prompting. It's kind of like a dark art actually, so being able"
+    },
+    {
+      "start": 218.64000000000001,
+      "end": 223.36,
+      "text": "to start off with the thousand examples that you've already pulled together. I mean, that's"
+    },
+    {
+      "start": 223.36,
+      "end": 227.68,
+      "text": "context in action. Jared, I also got yours coming up. We also took,"
+    },
+    {
+      "start": 227.68,
+      "end": 234.08,
+      "text": "Scrib, we went back in the way back machine, Scrib, from 2007, YouTube Adolescence,"
+    },
+    {
+      "start": 234.08,
+      "end": 238.64000000000001,
+      "text": "YouTube Documents. I remember fiddling with the CSS to try to make that look"
+    },
+    {
+      "start": 238.64000000000001,
+      "end": 243.20000000000002,
+      "text": "right. How did you even host this back in the day? This is before AWS. This is on a physical"
+    },
+    {
+      "start": 243.20000000000002,
+      "end": 248.4,
+      "text": "server, originally physically in my dorm room closet. Just how I learned that servers are loud"
+    },
+    {
+      "start": 248.56,
+      "end": 256.24,
+      "text": "so this is what ploy redesigned it to. And this is basically like, you basically just gave it"
+    },
+    {
+      "start": 256.24,
+      "end": 260.56,
+      "text": "the old website and I told it to go with maybe like a short prompt and then just like went and just"
+    },
+    {
+      "start": 260.56,
+      "end": 265.68,
+      "text": "like brought it up to 2026, right? That's right. So it actually went to the way back machines URL,"
+    },
+    {
+      "start": 265.68,
+      "end": 270.48,
+      "text": "understood the contents and then understood the context of your business and then it was like,"
+    },
+    {
+      "start": 270.48,
+      "end": 274.8,
+      "text": "oh, cool, we're bringing this business back. Let's go and redesign it for the modern era."
+    },
+    {
+      "start": 274.8,
+      "end": 278.72,
+      "text": "So yeah, it's interesting because it's not merely web design. It's actually understanding,"
+    },
+    {
+      "start": 278.72,
+      "end": 285.92,
+      "text": "memory reasoning, really like a marketing company brain. That's right. And asset generation,"
+    },
+    {
+      "start": 285.92,
+      "end": 290.56,
+      "text": "like I remember like packing the day to like make images like this, you used to hire like a team"
+    },
+    {
+      "start": 290.56,
+      "end": 295.36,
+      "text": "of designers and it was so slow and expensive. And like animations like what you did for Gary's"
+    },
+    {
+      "start": 295.36,
+      "end": 300.8,
+      "text": "site, that was like impossible. Yeah, like unaffordable for any startup. Yeah. Oh man, this is"
+    },
+    {
+      "start": 300.8,
+      "end": 308.96000000000004,
+      "text": "hargess. 2007. Yeah, automatic. Software for small businesses to sell online. Yeah, mostly"
+    },
+    {
+      "start": 308.96000000000004,
+      "end": 312.64,
+      "text": "managing the eBay auctions. And this is what we were designed it to. It's much better."
+    },
+    {
+      "start": 314.24,
+      "end": 320.0,
+      "text": "So it's able to like build these sort of like product marks of your product. Okay."
+    },
+    {
+      "start": 320.0,
+      "end": 326.24,
+      "text": "Kind of like interact and also develop your actual website too. It can do everything a model can"
+    },
+    {
+      "start": 326.24,
+      "end": 331.68,
+      "text": "do. I mean, this is actually pretty interesting. That dashboard is the kind of, that's basically the"
+    },
+    {
+      "start": 331.68,
+      "end": 335.92,
+      "text": "kind of software we built. I didn't actually think we had that on the New Jersey website, but that"
+    },
+    {
+      "start": 335.92,
+      "end": 340.64,
+      "text": "like top listings and channel map. It's interesting that it, yeah, the controls. Yeah, this is all like"
+    },
+    {
+      "start": 340.64,
+      "end": 344.56,
+      "text": "really, really quite intelligent. Yeah, it's really working backwards from what the"
+    },
+    {
+      "start": 344.56,
+      "end": 349.04,
+      "text": "customer is, what do they want? What are the jobs to be done? It's kind of impressive. I kind of"
+    },
+    {
+      "start": 349.04,
+      "end": 353.6,
+      "text": "understand more what automatic does with this website. Yeah, no, that's what I mean. It's not"
+    },
+    {
+      "start": 354.24,
+      "end": 361.44,
+      "text": "minimal. Yeah, I understand what it does. I don't know what he was. Yeah, well, it's new. I think"
+    },
+    {
+      "start": 361.44,
+      "end": 365.84000000000003,
+      "text": "there's actually a deep point like it's not just prettier, which obviously it is like the obviously"
+    },
+    {
+      "start": 365.84000000000003,
+      "end": 371.6,
+      "text": "like the visual design is better, but actually the content is better too. And we always hear about"
+    },
+    {
+      "start": 371.6,
+      "end": 376.64000000000004,
+      "text": "like AI slop, but like if he was AI slop, that wouldn't have worked. Diane, I remember this one."
+    },
+    {
+      "start": 376.64000000000004,
+      "end": 381.6,
+      "text": "Oh, man, we had such a hard time trying to make our website because we had very complex tech"
+    },
+    {
+      "start": 381.6,
+      "end": 389.04,
+      "text": "building API for AR. This is back in 2017 for phones. We kind of actually hired a designer to make"
+    },
+    {
+      "start": 389.04,
+      "end": 393.6,
+      "text": "some of these assets, which took a while to look like a good Jared was my group partner."
+    },
+    {
+      "start": 393.6,
+      "end": 397.76000000000005,
+      "text": "Really took like, I don't know, two months to get this. This happened to be one of the favorite"
+    },
+    {
+      "start": 397.76000000000005,
+      "end": 404.0,
+      "text": "websites that ploy created because it's like got on this really cool screenshots and stuff."
+    },
+    {
+      "start": 404.0,
+      "end": 410.56,
+      "text": "And I think this was just three or four prompts. So it actually created this video. Wow, that's so cool."
+    },
+    {
+      "start": 410.56,
+      "end": 414.64,
+      "text": "It isn't just a random video. It's actually a video of AR like this is basically like the vision"
+    },
+    {
+      "start": 414.64,
+      "end": 422.0,
+      "text": "of extra reality, right? Yeah, being able to have avatars and things just in your real world,"
+    },
+    {
+      "start": 422.0,
+      "end": 426.32,
+      "text": "but totally programmatic very easily. I think now I understand what my company does too."
+    },
+    {
+      "start": 428.08,
+      "end": 432.16,
+      "text": "Yeah, I think that's one of the biggest things about ploy is that, you know, we're we've got"
+    },
+    {
+      "start": 432.16,
+      "end": 437.68,
+      "text": "about like 12% of the YC batch using ploy. And one of the biggest pieces of feedback is just like,"
+    },
+    {
+      "start": 437.68,
+      "end": 443.6,
+      "text": "wow, I'm actually able to tell my story a lot more coherently and concisely. And then that's"
+    },
+    {
+      "start": 443.6,
+      "end": 447.2,
+      "text": "actually the most important part of your website. It's actually used to be a big part of office hours"
+    },
+    {
+      "start": 447.2,
+      "end": 450.96000000000004,
+      "text": "way back in the day. We sort of stopped doing it. But the early ones used to be like, hey,"
+    },
+    {
+      "start": 450.96000000000004,
+      "end": 455.52,
+      "text": "like here's your website, like what people through explaining what it does. Yeah, Weftlow had a big"
+    },
+    {
+      "start": 455.52,
+      "end": 461.04,
+      "text": "part in democratizing web development and web design. And the way I've always thought about ploy"
+    },
+    {
+      "start": 461.04,
+      "end": 467.6,
+      "text": "in the beginning is I want to democratize marketing and demystify growth. A lot of incredible"
+    },
+    {
+      "start": 467.6,
+      "end": 471.76000000000005,
+      "text": "founders in YC, they've built these incredible products. They're starting to get a sense for"
+    },
+    {
+      "start": 471.76000000000005,
+      "end": 479.36,
+      "text": "how to talk about it. But then there's just like these somewhat like wrote and arduous SEO marketing"
+    },
+    {
+      "start": 479.36,
+      "end": 484.8,
+      "text": "things that they should be doing. But it's just like, oh man, do I need to go and hire someone for it?"
+    },
+    {
+      "start": 484.8,
+      "end": 489.28000000000003,
+      "text": "And this is really what I'm trying to bring to YC and to all the founders that are out there."
+    },
+    {
+      "start": 489.28000000000003,
+      "end": 493.04,
+      "text": "I mean, this is a big deal. I mean, it does feel like we're entering this moment where,"
+    },
+    {
+      "start": 493.68,
+      "end": 498.32,
+      "text": "you know, there's sort of a doomer AI scenario where people think like, oh, there's not going to be"
+    },
+    {
+      "start": 498.32,
+      "end": 503.68,
+      "text": "jobs. One of the thoughts I've been having lately is like, why can't the person who they were at"
+    },
+    {
+      "start": 503.68,
+      "end": 509.04,
+      "text": "some company, someone is trying to cost cut here. And then they're like, okay, we have to let go all"
+    },
+    {
+      "start": 509.04,
+      "end": 514.72,
+      "text": "these people. Like some of them actually could do the whole thing. They're as good as the founders."
+    },
+    {
+      "start": 514.72,
+      "end": 519.6800000000001,
+      "text": "And those are the people who actually should just go and do it. But especially if you're a little"
+    },
+    {
+      "start": 519.6800000000001,
+      "end": 524.48,
+      "text": "bit older, like, you know, it's actually kind of hard to fill in your brain with like, you know,"
+    },
+    {
+      "start": 524.48,
+      "end": 530.6400000000001,
+      "text": "you might not be like Bryant, like a, you know, triple threat, right? Like you're like the Bo Jackson."
+    },
+    {
+      "start": 533.1200000000001,
+      "end": 537.6,
+      "text": "Sorry. Now that's a great. My muscles aren't as big. Yeah. I mean, this is actually one of the great"
+    },
+    {
+      "start": 537.6,
+      "end": 543.6,
+      "text": "equalizers. Like the founders in the past who did it the best. I mean, they sort of had to be"
+    },
+    {
+      "start": 543.6,
+      "end": 548.6400000000001,
+      "text": "super deep in all of these different ways. And then now we're entering this other moment. How often"
+    },
+    {
+      "start": 548.64,
+      "end": 554.08,
+      "text": "is it that we meet founders who are incredibly great technologists? But when it comes to actually"
+    },
+    {
+      "start": 554.08,
+      "end": 559.04,
+      "text": "getting people to use their product, like they actually sometimes really struggle. Like I think"
+    },
+    {
+      "start": 559.84,
+      "end": 566.56,
+      "text": "human beings to me resemble sort of, we started playing Dungeons and Dragons with my sons. And so"
+    },
+    {
+      "start": 566.56,
+      "end": 570.72,
+      "text": "you know, when you have to do like the reroll, like everyone has different hit points and different"
+    },
+    {
+      "start": 570.72,
+      "end": 575.4399999999999,
+      "text": "characteristics, you know, some people are mages, some people are barbarians, you know, there's like"
+    },
+    {
+      "start": 575.44,
+      "end": 580.5600000000001,
+      "text": "a lot of stuff going on. I think that that sort of extends to capability of founders."
+    },
+    {
+      "start": 580.5600000000001,
+      "end": 585.9200000000001,
+      "text": "Interestingly, like we're sort of entering this other moment where because ploy exists, you know,"
+    },
+    {
+      "start": 585.9200000000001,
+      "end": 592.24,
+      "text": "you might have someone who's like 200 IQ, you know, nearly nonverbal, like Codex is. They're"
+    },
+    {
+      "start": 592.24,
+      "end": 598.0,
+      "text": "able to make just some sort of hardware software that literally no one else could. But in the past,"
+    },
+    {
+      "start": 598.0,
+      "end": 605.12,
+      "text": "like if you're that, you know, OP in one stat, you tend to, you know, not be able to do those"
+    },
+    {
+      "start": 605.12,
+      "end": 611.52,
+      "text": "other things. But now that person could actually come in to ploy. And there's just so much that can"
+    },
+    {
+      "start": 611.52,
+      "end": 616.72,
+      "text": "help them win in the marketplace. So it's a really unusual and different way to think about"
+    },
+    {
+      "start": 617.52,
+      "end": 623.04,
+      "text": "what, you know, markets and capitalism might be, you know, it's more access to it and then more"
+    },
+    {
+      "start": 623.04,
+      "end": 628.4,
+      "text": "alternatives. And so that's sort of the AI white pill that I hope, you know, ploy actually becomes"
+    },
+    {
+      "start": 628.4,
+      "end": 633.76,
+      "text": "a really big part of. All right. So we've seen these, this blast from the past and then brought"
+    },
+    {
+      "start": 633.76,
+      "end": 640.24,
+      "text": "into the future. Can we see what it actually looks like? Let's actually use ploy. Yeah, totally."
+    },
+    {
+      "start": 640.24,
+      "end": 647.04,
+      "text": "So what you can do is you can sign up for ploy and then you can just get started. So it will"
+    },
+    {
+      "start": 647.04,
+      "end": 651.68,
+      "text": "know who you are. It'll know what domain you're coming from. And in this case, I'm just going to"
+    },
+    {
+      "start": 651.68,
+      "end": 660.48,
+      "text": "pretend that I'm someone from cursor. And we spent about I think like $750,000 worth of tokens"
+    },
+    {
+      "start": 660.48,
+      "end": 667.2,
+      "text": "to create what's called the ploy slurper. And the ploy slurper essentially is a purely"
+    },
+    {
+      "start": 667.2,
+      "end": 674.4,
+      "text": "deterministic method to take an existing website and to not just create a design system, but to"
+    },
+    {
+      "start": 674.4,
+      "end": 682.0,
+      "text": "create all the components that belong on your website. So then subsequently, your next generations"
+    },
+    {
+      "start": 682.0,
+      "end": 686.08,
+      "text": "and stuff like that. It's going to be on brand. The buttons are all going to look the same."
+    },
+    {
+      "start": 686.08,
+      "end": 690.32,
+      "text": "You're not going to have 10 different variations of your header font. And those are the things that"
+    },
+    {
+      "start": 690.32,
+      "end": 694.64,
+      "text": "are going to be really important, especially as a business scales. You really want that sort of"
+    },
+    {
+      "start": 694.64,
+      "end": 698.4000000000001,
+      "text": "design consistency. So that's what it's doing right now. That's what it's doing right now."
+    },
+    {
+      "start": 698.4000000000001,
+      "end": 702.88,
+      "text": "The design slurper is doing its job right now. That's right. And then as it's lurping, it's going"
+    },
+    {
+      "start": 702.88,
+      "end": 707.6800000000001,
+      "text": "to ask you, hey, what's important? And I'm like, well, I think cursor wants to get found in search"
+    },
+    {
+      "start": 707.6800000000001,
+      "end": 714.72,
+      "text": "and AI. I'm going to tell it that. And then I'm going to turn more visitors into customers. I hit"
+    },
+    {
+      "start": 714.72,
+      "end": 720.08,
+      "text": "that. And now it's going to imbue it into its memory. It's going to understand just like, okay,"
+    },
+    {
+      "start": 720.08,
+      "end": 728.0,
+      "text": "cool. This particular user, they want to go and improve these things. And in about 75 seconds,"
+    },
+    {
+      "start": 728.0,
+      "end": 735.12,
+      "text": "we would have slurped the existing site, recreated all the components, refactored it. And"
+    },
+    {
+      "start": 736.72,
+      "end": 742.32,
+      "text": "you get this. And so it's operating in real time. I mean, it's probably doing the equivalent work"
+    },
+    {
+      "start": 742.32,
+      "end": 749.2800000000001,
+      "text": "of a team of three to five engineers in front and people and probably take a week, at least."
+    },
+    {
+      "start": 749.2800000000001,
+      "end": 754.08,
+      "text": "They're probably going to open up cloud code or cursor to try to do this. But they'll do a much"
+    },
+    {
+      "start": 754.08,
+      "end": 761.12,
+      "text": "worse version of it. Here's the moment of truth. Let's see if this is responsive. Boom. Boom."
+    },
+    {
+      "start": 764.32,
+      "end": 769.2800000000001,
+      "text": "Cool. So it's responsive. You know, the fonts are showing up. Let's see if there's like some"
+    },
+    {
+      "start": 769.28,
+      "end": 777.04,
+      "text": "hover effects that we captured down here. Okay, cool. Some CSS hover effects. So these are all"
+    },
+    {
+      "start": 777.04,
+      "end": 783.12,
+      "text": "things are just like all these details. That's why you need to have an opinion about how websites should"
+    },
+    {
+      "start": 783.12,
+      "end": 788.88,
+      "text": "be made in order to do this. But this isn't the point, right? It's the point is not to just recreate"
+    },
+    {
+      "start": 788.88,
+      "end": 794.24,
+      "text": "something. The point is after your website's done, what can it do to work for you? And that's where"
+    },
+    {
+      "start": 794.24,
+      "end": 797.8399999999999,
+      "text": "play really shines. There's a bit of a nuance here that I don't know if everyone in the audience"
+    },
+    {
+      "start": 797.84,
+      "end": 803.76,
+      "text": "would know. But when you try to create something like this with any other vibe coding tool,"
+    },
+    {
+      "start": 804.72,
+      "end": 810.32,
+      "text": "it's not consistent. It kind of remixes and forgets all the design consistency. And that's"
+    },
+    {
+      "start": 810.32,
+      "end": 816.32,
+      "text": "pretty impressive to get it to do that. I sort of the following following the. Yeah, this is this is"
+    },
+    {
+      "start": 816.32,
+      "end": 823.6,
+      "text": "where I think in the age of AI, which is I think you need to have a certain amount of expertise to"
+    },
+    {
+      "start": 823.6,
+      "end": 829.12,
+      "text": "know what to do with this boundless intelligence that's imbued in the model. And I think this is where"
+    },
+    {
+      "start": 830.16,
+      "end": 836.64,
+      "text": "folks with experience, folks that have spent decade plus in this industry, they know how to"
+    },
+    {
+      "start": 836.64,
+      "end": 842.4,
+      "text": "create something like this because they can leverage the models underlying capability to create"
+    },
+    {
+      "start": 842.4,
+      "end": 848.72,
+      "text": "something that's just world-class. Let's see. So say I'm cursor, I release composer, it's a new type"
+    },
+    {
+      "start": 848.72,
+      "end": 855.2,
+      "text": "of model. Can I just come in deploy and paste in screenshots and even my like PM spec and you"
+    },
+    {
+      "start": 855.2,
+      "end": 861.2,
+      "text": "could make the product page for me? Even better. So we have integrations with like 50 different"
+    },
+    {
+      "start": 861.2,
+      "end": 865.6,
+      "text": "tools. It can not only just connect to your code base, but it connects to Figma, connects to all"
+    },
+    {
+      "start": 865.6,
+      "end": 871.6,
+      "text": "of your analytics tools, CRM, spreadsheets. It can even draft emails on your behalf based off of"
+    },
+    {
+      "start": 871.6,
+      "end": 876.4,
+      "text": "who's coming to your website. Okay, this looks like a company brain for your marketing then."
+    },
+    {
+      "start": 876.88,
+      "end": 882.4,
+      "text": "So you start with the website, but that rapidly becomes sort of your company brain for how you"
+    },
+    {
+      "start": 882.4,
+      "end": 887.1999999999999,
+      "text": "describe your product and show it off. And it makes sense that you would start off with your home"
+    },
+    {
+      "start": 887.1999999999999,
+      "end": 890.88,
+      "text": "page. I mean, I would probably do that the same thing too. It's like your home page is sort of your"
+    },
+    {
+      "start": 890.88,
+      "end": 895.76,
+      "text": "face. And if the home page doesn't have it, that's almost like the source of truth for how you"
+    },
+    {
+      "start": 895.76,
+      "end": 899.76,
+      "text": "discuss what you're building. It really reminds me of rippling in the early days. We're down"
+    },
+    {
+      "start": 899.92,
+      "end": 905.52,
+      "text": "old, but I remember like the very first thing Parker built was an offer letter generator. And"
+    },
+    {
+      "start": 905.52,
+      "end": 908.96,
+      "text": "I'm seeing it in place. Yeah, but like is there any insight you get as like a second time"
+    },
+    {
+      "start": 908.96,
+      "end": 913.04,
+      "text": "founder? So the time I was like, you pitching this really big vision, but like you're starting with"
+    },
+    {
+      "start": 913.04,
+      "end": 917.52,
+      "text": "like an offer letter generator. Yeah, but everyone has offer letters. Everyone's hiring people. So,"
+    },
+    {
+      "start": 917.52,
+      "end": 922.64,
+      "text": "but then yeah, that becomes an HR system. And then once you have HR, you have auth. And then"
+    },
+    {
+      "start": 922.64,
+      "end": 928.0,
+      "text": "boom, you're like literally your company app store OS. And if you think about the journey of a new"
+    },
+    {
+      "start": 928.0,
+      "end": 932.16,
+      "text": "employee, the very first step with the new employee is the get an offer letter. That's where like"
+    },
+    {
+      "start": 932.16,
+      "end": 937.28,
+      "text": "everything else starts very first thing with the website is the home page. Yeah. And then"
+    },
+    {
+      "start": 937.28,
+      "end": 941.04,
+      "text": "everything else on. I mean, even for a business, right? Like you might start with Stripe Atlas,"
+    },
+    {
+      "start": 941.04,
+      "end": 945.68,
+      "text": "but right after that, like I better make a home page. And then it might be very cryptic. But when"
+    },
+    {
+      "start": 945.68,
+      "end": 951.92,
+      "text": "you actually launch it, it better say what it is. Yeah. So it can not only just integrate to your"
+    },
+    {
+      "start": 952.0000000000001,
+      "end": 957.84,
+      "text": "GitHub, but your entire systems of record. But the really cool thing is that it's actually"
+    },
+    {
+      "start": 958.5600000000001,
+      "end": 964.08,
+      "text": "thinking about what to do while you're sleeping. So every single night, we look at all the traffic,"
+    },
+    {
+      "start": 964.08,
+      "end": 971.7600000000001,
+      "text": "we check your Google search console. We see what your pipeline looks like. And it's able to like"
+    },
+    {
+      "start": 972.5600000000001,
+      "end": 978.96,
+      "text": "offer suggestions, right? Like, oh, you got an active target account. Oh, you've got someone"
+    },
+    {
+      "start": 978.96,
+      "end": 984.72,
+      "text": "engaging with your campaign. These are all sort of things that it's telling you, like,"
+    },
+    {
+      "start": 984.72,
+      "end": 988.8000000000001,
+      "text": "and it's able to glean because instead of like checking your analytics every day,"
+    },
+    {
+      "start": 989.44,
+      "end": 994.08,
+      "text": "no plug literally just tell you everything out of the box, right? So this is just really basic"
+    },
+    {
+      "start": 994.08,
+      "end": 999.6800000000001,
+      "text": "analytics that we offer. But it can also tell you who's coming to the site. And I think"
+    },
+    {
+      "start": 999.6800000000001,
+      "end": 1004.64,
+      "text": "that's really cool, right? It's like, oh, wow, someone from this company clicked on this call"
+    },
+    {
+      "start": 1004.64,
+      "end": 1008.3199999999999,
+      "text": "to action button. And now I can do something with it. I think what's pretty cool is basically"
+    },
+    {
+      "start": 1008.3199999999999,
+      "end": 1014.16,
+      "text": "you're taking this very esoteric niche thing that open claw users know about with a dream cycle"
+    },
+    {
+      "start": 1014.8,
+      "end": 1019.52,
+      "text": "when it iterates and improves the skills, which I think only people that are in super long tail"
+    },
+    {
+      "start": 1019.52,
+      "end": 1023.76,
+      "text": "and in open claw, which I don't think the rest of the world knows. You're doing that in"
+    },
+    {
+      "start": 1024.56,
+      "end": 1029.12,
+      "text": "for everyone else doing it for businesses. Because I just think that so many businesses,"
+    },
+    {
+      "start": 1029.12,
+      "end": 1034.0,
+      "text": "they have a great product, they have a great service. But there's just so much sort of"
+    },
+    {
+      "start": 1034.0,
+      "end": 1040.64,
+      "text": "on that opportunity for these business owners, for these founders. And I'm really just here to"
+    },
+    {
+      "start": 1040.64,
+      "end": 1045.52,
+      "text": "make it easier for them to tap into it. So I wired this up to white commentators Google Analytics"
+    },
+    {
+      "start": 1045.52,
+      "end": 1050.8,
+      "text": "and Google search console and pulled in all the data. And what was cool is that like right out of"
+    },
+    {
+      "start": 1050.8,
+      "end": 1054.96,
+      "text": "the box without me having to do anything other than like click through a couple of OAuth flows,"
+    },
+    {
+      "start": 1054.96,
+      "end": 1059.6,
+      "text": "it was able to give me like a full SEO report with a bunch of like suggestions for the site."
+    },
+    {
+      "start": 1059.6,
+      "end": 1063.84,
+      "text": "And I was thinking about like how I would do it without ploy. And like with enough effort,"
+    },
+    {
+      "start": 1063.84,
+      "end": 1067.36,
+      "text": "I could have maybe gotten like clawed code to do it. But like clawed code doesn't know how to connect"
+    },
+    {
+      "start": 1067.36,
+      "end": 1070.9599999999998,
+      "text": "to any of those things out of the box. So it'd have to like figure out the APIs and have to like"
+    },
+    {
+      "start": 1070.9599999999998,
+      "end": 1074.24,
+      "text": "suck in all the data and it doesn't really know how to do SEO optimization. So like,"
+    },
+    {
+      "start": 1074.24,
+      "end": 1077.12,
+      "text": "it'd have been so much prompting and work to get that same result."
+    },
+    {
+      "start": 1077.12,
+      "end": 1083.6799999999998,
+      "text": "Yeah, I think that's stuff that I'm surprised by because I think the best companies that I've met"
+    },
+    {
+      "start": 1083.68,
+      "end": 1090.0,
+      "text": "in YC, they are on the right side of model development. And what these models need is with a little"
+    },
+    {
+      "start": 1090.0,
+      "end": 1096.72,
+      "text": "bit of steering with a lot of data, there's just so much alpha that you can derive. So I think like"
+    },
+    {
+      "start": 1096.72,
+      "end": 1101.92,
+      "text": "that is one of those examples where let's just like feed the model data, structured unstructured data"
+    },
+    {
+      "start": 1101.92,
+      "end": 1107.52,
+      "text": "and just let it cook. How did you imbue it with like an understanding of like how to market websites,"
+    },
+    {
+      "start": 1107.52,
+      "end": 1112.4,
+      "text": "how to design websites? Are there some ways that you like distilled lessons from webflow?"
+    },
+    {
+      "start": 1112.4,
+      "end": 1117.8400000000001,
+      "text": "This is stuff we geek out about. I just weren't we're in happened. So yeah, we're in the"
+    },
+    {
+      "start": 1117.8400000000001,
+      "end": 1124.5600000000002,
+      "text": "admin. Yeah, this is behind the scenes. The look book. So what you're looking at is our curation"
+    },
+    {
+      "start": 1125.3600000000001,
+      "end": 1130.88,
+      "text": "of what we believe is the frontier of web design. And this is stuff that you can't really get"
+    },
+    {
+      "start": 1130.88,
+      "end": 1137.8400000000001,
+      "text": "anywhere else. And we've used a collection of models, open AI's, chat GPT images. But then we've"
+    },
+    {
+      "start": 1137.84,
+      "end": 1147.52,
+      "text": "created 3,500 prompts for web designs that then ploy takes inspiration from. So you're not going"
+    },
+    {
+      "start": 1147.52,
+      "end": 1152.3999999999999,
+      "text": "to get a website that looks exactly like this when you're using ploy. What you're going to get is"
+    },
+    {
+      "start": 1152.3999999999999,
+      "end": 1158.32,
+      "text": "you're going to get some of the vibes of these sites. And I think that's really actually how human"
+    },
+    {
+      "start": 1158.32,
+      "end": 1162.8799999999999,
+      "text": "designers work, right? So if you go and work with the agency of freelance web designer,"
+    },
+    {
+      "start": 1163.68,
+      "end": 1167.7600000000002,
+      "text": "some of the best might come up with something incredibly bespoke and unique that no one's ever"
+    },
+    {
+      "start": 1167.7600000000002,
+      "end": 1172.0,
+      "text": "seen before. But a lot of them, you know, they get inspiration. And that's essentially what we're"
+    },
+    {
+      "start": 1172.0,
+      "end": 1177.7600000000002,
+      "text": "trying to do here with our product, which is like, hey, let's like emulate how real humans work."
+    },
+    {
+      "start": 1177.7600000000002,
+      "end": 1182.5600000000002,
+      "text": "And let's think about how we can create some really unique layouts, really unique designs that"
+    },
+    {
+      "start": 1182.5600000000002,
+      "end": 1188.48,
+      "text": "can really stand out. Ploy is basically like the anti-slop. It looks like given the corpus of data"
+    },
+    {
+      "start": 1188.48,
+      "end": 1193.28,
+      "text": "that you have, the context you give the agents, it actually you sort of overwhelms their"
+    },
+    {
+      "start": 1194.72,
+      "end": 1200.48,
+      "text": "you know, inbuilt predilections. You know, one of the examples is like for some reason that"
+    },
+    {
+      "start": 1200.48,
+      "end": 1205.92,
+      "text": "the models really love that, you know, left hand rule with the rounded corners."
+    },
+    {
+      "start": 1205.92,
+      "end": 1212.8,
+      "text": "I mean, in web design, there's so many AI tells. I would like to say that ploy eliminates all of them,"
+    },
+    {
+      "start": 1212.8,
+      "end": 1217.84,
+      "text": "but you can't necessarily eliminate all of it with all of the prompts and guard rails and steering."
+    },
+    {
+      "start": 1218.48,
+      "end": 1224.24,
+      "text": "However, we have spent a lot of time to make sure that the sort of essence of the human"
+    },
+    {
+      "start": 1224.24,
+      "end": 1231.6,
+      "text": "individuals and like the businesses bespoke sort of representation their brand can be reflected"
+    },
+    {
+      "start": 1231.6,
+      "end": 1238.08,
+      "text": "in ploy to the best of our ability. And I think like the best analogy that I have for where"
+    },
+    {
+      "start": 1238.08,
+      "end": 1243.6,
+      "text": "we're at in the AI cycle is like Andy Warhol, you know, creative paintings, but, you know, the stuff"
+    },
+    {
+      "start": 1243.6,
+      "end": 1248.16,
+      "text": "eventually ended up at a factory. And the factory would use machines to recreate these prints. But"
+    },
+    {
+      "start": 1248.16,
+      "end": 1253.68,
+      "text": "it's still Warhol. And I think that's where we're at, which is like these models. They are"
+    },
+    {
+      "start": 1253.68,
+      "end": 1259.1200000000001,
+      "text": "essentially the factories for human creativity. And that's essentially what I want to be able to"
+    },
+    {
+      "start": 1259.1200000000001,
+      "end": 1265.44,
+      "text": "deliver for digital marketing. Why digital marketing? Like you could have done like factories for"
+    },
+    {
+      "start": 1265.44,
+      "end": 1271.28,
+      "text": "anything. Why is this the thing you decided to build the factory for? I think that the web is still"
+    },
+    {
+      "start": 1271.36,
+      "end": 1279.36,
+      "text": "one of the most transformational technologies. Sure, it's done some funny things with how we consume"
+    },
+    {
+      "start": 1279.36,
+      "end": 1286.0,
+      "text": "media, how we respect sort of media organizations. However, ultimately, this sort of democratization,"
+    },
+    {
+      "start": 1286.0,
+      "end": 1292.24,
+      "text": "the dissemination of information for the internet to me is a really exciting tenant. It's a really"
+    },
+    {
+      "start": 1292.24,
+      "end": 1298.08,
+      "text": "exciting space to be even after working in this space for for dozens of years. My approach is that"
+    },
+    {
+      "start": 1298.24,
+      "end": 1306.08,
+      "text": "where we're at in AI, these businesses, they still need to be found. And I actually think there's"
+    },
+    {
+      "start": 1306.08,
+      "end": 1313.6,
+      "text": "going to be way more small business in the future. You're not going to have like massive companies"
+    },
+    {
+      "start": 1313.6,
+      "end": 1319.6799999999998,
+      "text": "anymore that are dominating. I think we know that where society is moving is I actually think like"
+    },
+    {
+      "start": 1319.6799999999998,
+      "end": 1324.56,
+      "text": "entrepreneurship might become way more important than it has been. Entrepreneurship, especially if"
+    },
+    {
+      "start": 1324.56,
+      "end": 1328.48,
+      "text": "you're a small business, you need to be found. You need to be able to tell your story. You need to"
+    },
+    {
+      "start": 1328.48,
+      "end": 1333.2,
+      "text": "be able to represent your brand well. And I think that's just like a really exciting space for me."
+    },
+    {
+      "start": 1333.2,
+      "end": 1338.8799999999999,
+      "text": "This is like 13 years after your prior company, the web flow. You were my group partner."
+    },
+    {
+      "start": 1338.8799999999999,
+      "end": 1347.6799999999998,
+      "text": "Yeah, I remember you coming in with basically the best visual like graphical user interface for"
+    },
+    {
+      "start": 1347.68,
+      "end": 1353.3600000000001,
+      "text": "building a website because it was built directly off of CSS. Yeah, so I mean, it was incredibly"
+    },
+    {
+      "start": 1354.0800000000002,
+      "end": 1361.28,
+      "text": "novel at the time. But we created this visual interface over HTML, CSS and JavaScript. And it was"
+    },
+    {
+      "start": 1361.28,
+      "end": 1367.1200000000001,
+      "text": "sort of the first no code application that was out there. Power's big portion of the internet"
+    },
+    {
+      "start": 1367.1200000000001,
+      "end": 1371.52,
+      "text": "today. Something I'm really, really proud of. It's just one of those products and companies that"
+    },
+    {
+      "start": 1371.52,
+      "end": 1379.2,
+      "text": "I think is just I never knew it would become that big. You know, I remember doing office hours with"
+    },
+    {
+      "start": 1379.2,
+      "end": 1384.8,
+      "text": "PG and PG couldn't figure it out. And it was like, started to stress me out. We're all sweating."
+    },
+    {
+      "start": 1384.8,
+      "end": 1391.2,
+      "text": "He doesn't know CSS. He knows HTML tags and you know, you can like put like font properties on it."
+    },
+    {
+      "start": 1392.08,
+      "end": 1396.4,
+      "text": "But that's about you know, Hacker News was more or less like about what he just did."
+    },
+    {
+      "start": 1396.48,
+      "end": 1401.3600000000001,
+      "text": "Yeah. And like for someone that's like as technical as PG, we thought that he was like, oh,"
+    },
+    {
+      "start": 1401.3600000000001,
+      "end": 1407.2,
+      "text": "he would be able to get it. I mean, he built Hacker News. So this was 2013. What was the market"
+    },
+    {
+      "start": 1407.2,
+      "end": 1411.2,
+      "text": "for website builders like then? I think it was pretty competitive by that point. It was extremely"
+    },
+    {
+      "start": 1411.2,
+      "end": 1416.48,
+      "text": "competitive. I could probably I remember there's probably eight of them, four of them. I still"
+    },
+    {
+      "start": 1416.48,
+      "end": 1421.92,
+      "text": "remember. And then even in our history, it are so many different ones that popped up, right? So"
+    },
+    {
+      "start": 1422.0,
+      "end": 1427.76,
+      "text": "I think like the things that we did really well was and it really bothered me at the time,"
+    },
+    {
+      "start": 1427.76,
+      "end": 1433.52,
+      "text": "but my co-founder, Sergi and Vlad were like perfectionists. And they just like stressed over"
+    },
+    {
+      "start": 1433.52,
+      "end": 1440.0,
+      "text": "every minute thing. And when you're building something that's supposed to scream pro,"
+    },
+    {
+      "start": 1440.96,
+      "end": 1446.5600000000002,
+      "text": "it's supposed to scream craft, that really helped. Maybe going to more detail like how did you come"
+    },
+    {
+      "start": 1446.5600000000002,
+      "end": 1450.16,
+      "text": "up with the original idea? And I think the reason it's interesting is it feels like from"
+    },
+    {
+      "start": 1450.16,
+      "end": 1454.0800000000002,
+      "text": "our perspective in the batches, we chatted with you launch. And there was just like green field"
+    },
+    {
+      "start": 1454.0800000000002,
+      "end": 1458.16,
+      "text": "for like all these ideas to build. Now it feels like we're entering a bit more of an age of where"
+    },
+    {
+      "start": 1458.16,
+      "end": 1462.96,
+      "text": "it's competitive and it's harder. And often you're entering in a new idea, but you've got several"
+    },
+    {
+      "start": 1462.96,
+      "end": 1466.8000000000002,
+      "text": "competitors. So like, how do you build a confidence to enter a space that's competitive? And how do"
+    },
+    {
+      "start": 1466.8000000000002,
+      "end": 1471.68,
+      "text": "you know that you have like an edge that's worth digging into? I think for me this time around,"
+    },
+    {
+      "start": 1472.8000000000002,
+      "end": 1479.0400000000002,
+      "text": "it's almost opposite of Weftlow. At Weftlow, we focused on one persona. That persona was this"
+    },
+    {
+      "start": 1479.04,
+      "end": 1484.96,
+      "text": "like freelance web designer, you know, just like, there's probably only 50,000 of them, honestly."
+    },
+    {
+      "start": 1484.96,
+      "end": 1491.28,
+      "text": "With Play, you know, we're essentially solving for tens of millions of people. And I think that's"
+    },
+    {
+      "start": 1491.28,
+      "end": 1495.52,
+      "text": "just like a really interesting thing now that you can do now with AI. And we've talked about like"
+    },
+    {
+      "start": 1495.52,
+      "end": 1501.12,
+      "text": "boiling the lakes, the oceans, like, this is a very much, Play is very much a boiled ocean."
+    },
+    {
+      "start": 1501.12,
+      "end": 1507.44,
+      "text": "You can do this before, but now you can do it. And you can do it to just sort of award winning degree."
+    },
+    {
+      "start": 1507.44,
+      "end": 1514.88,
+      "text": "You know, I've been in tax since 2006, like 20 years. And you know, when Cloud Computing came out,"
+    },
+    {
+      "start": 1514.88,
+      "end": 1520.0,
+      "text": "it was like, oh, this is revolutionary. I've got like, untapped sort of compute, networking,"
+    },
+    {
+      "start": 1520.0,
+      "end": 1526.88,
+      "text": "storage. And now, you know, as of a couple of years ago, there's this new primitive of intelligence."
+    },
+    {
+      "start": 1526.88,
+      "end": 1531.8400000000001,
+      "text": "It's just like so irresistible to not build something in this space. How has that changed the way"
+    },
+    {
+      "start": 1531.8400000000001,
+      "end": 1537.2,
+      "text": "that you built Play? I have sort of like the first three months or so of Play being compared to"
+    },
+    {
+      "start": 1537.2,
+      "end": 1544.4,
+      "text": "the first three months of Webplay. To be honest, when we were in YC 2013, we worked a lot. And we"
+    },
+    {
+      "start": 1544.4,
+      "end": 1549.68,
+      "text": "also covered so much product in those three months, manually coding. Like, what is this? Like,"
+    },
+    {
+      "start": 1549.68,
+      "end": 1556.16,
+      "text": "I have to like, type stuff. So I would say that we covered a lot of functionality just coding."
+    },
+    {
+      "start": 1556.16,
+      "end": 1562.5600000000002,
+      "text": "But now it's obviously a different league. Everyone can code. You don't have to have all this"
+    },
+    {
+      "start": 1562.5600000000002,
+      "end": 1568.0,
+      "text": "background and infrastructure and systems design. You know, like these models are really, really good"
+    },
+    {
+      "start": 1568.0,
+      "end": 1573.92,
+      "text": "at it. So I would say like the biggest difference is the output, you know, you're probably going to"
+    },
+    {
+      "start": 1573.92,
+      "end": 1579.3600000000001,
+      "text": "get more tests than you ever wanted. You're probably going to get way more code coverage, way more"
+    },
+    {
+      "start": 1579.3600000000001,
+      "end": 1585.6000000000001,
+      "text": "sort of functionality. But the thing that hasn't changed is what to focus on and how to how to actually"
+    },
+    {
+      "start": 1585.6000000000001,
+      "end": 1591.7600000000002,
+      "text": "mold it. I think that's something that still benefits experience builders. That's something that"
+    },
+    {
+      "start": 1591.7600000000002,
+      "end": 1596.16,
+      "text": "if you have a very strong vision, if you have all that track record of building products,"
+    },
+    {
+      "start": 1596.16,
+      "end": 1600.0000000000002,
+      "text": "that's where AI can really help you. I'm curious how that factored into Building Play. Like,"
+    },
+    {
+      "start": 1600.0000000000002,
+      "end": 1604.8000000000002,
+      "text": "you've been doing website design the old fashioned way since 2012. You probably watched a million"
+    },
+    {
+      "start": 1604.8000000000002,
+      "end": 1610.3200000000002,
+      "text": "people use Webflow to design a website. Can you like, remember decisions you made and how you"
+    },
+    {
+      "start": 1610.32,
+      "end": 1615.12,
+      "text": "designed play that maybe somebody who didn't have that experience would have like not done it that"
+    },
+    {
+      "start": 1615.12,
+      "end": 1621.04,
+      "text": "way. I have such a great example of this. For example, I just like have spent so much time"
+    },
+    {
+      "start": 1621.04,
+      "end": 1628.08,
+      "text": "in a visual builder. I was like, you need this panel to help you like drag and drop and to help"
+    },
+    {
+      "start": 1628.08,
+      "end": 1635.28,
+      "text": "you resize elements to help you control the flow. And we stressed a lot about how to like bring"
+    },
+    {
+      "start": 1635.36,
+      "end": 1641.2,
+      "text": "some of that visual tooling into play. And then we just kept deferring it and kept deferring it."
+    },
+    {
+      "start": 1641.2,
+      "end": 1646.24,
+      "text": "And we're essentially at a position now where if you essentially just give the models"
+    },
+    {
+      "start": 1646.24,
+      "end": 1652.0,
+      "text": "enough context, screenshots, images, and just essentially here something that you can do right here"
+    },
+    {
+      "start": 1652.0,
+      "end": 1657.76,
+      "text": "is you can essentially just use our annotation feature and say click on this. It's like rewrite"
+    },
+    {
+      "start": 1657.76,
+      "end": 1667.36,
+      "text": "this copy, make it super bold. You just send it off. And now you can just have this web designer"
+    },
+    {
+      "start": 1667.36,
+      "end": 1673.6,
+      "text": "that's imbued in the product that just sort of absorbs your intention and translates it into"
+    },
+    {
+      "start": 1673.6,
+      "end": 1678.32,
+      "text": "incredible outputs. Let's play it out a little bit. The models are going to get, I don't know,"
+    },
+    {
+      "start": 1678.32,
+      "end": 1684.0,
+      "text": "you know, unbelievably better from here. And then where does that leave ploy? Like, you know,"
+    },
+    {
+      "start": 1684.32,
+      "end": 1687.36,
+      "text": "how good is it going to get from here? What's the future of the web?"
+    },
+    {
+      "start": 1687.36,
+      "end": 1695.04,
+      "text": "I can't predict the future. However, I can predict that there will be tons of businesses out there"
+    },
+    {
+      "start": 1695.04,
+      "end": 1700.96,
+      "text": "that are going to want an opinionated solution to help them solve real problems for the things"
+    },
+    {
+      "start": 1700.96,
+      "end": 1705.36,
+      "text": "that really matter to them. The way I think about it is that these underlying models,"
+    },
+    {
+      "start": 1705.36,
+      "end": 1711.92,
+      "text": "they're really good at a lot of different things. They're general purpose. They're general purpose."
+    },
+    {
+      "start": 1711.92,
+      "end": 1717.68,
+      "text": "And I think they're just going to be a big need for something that is purpose built to help a"
+    },
+    {
+      "start": 1717.68,
+      "end": 1724.0,
+      "text": "customer achieve an outcome. And that's where products, even pure SaaS products still have a right"
+    },
+    {
+      "start": 1724.0,
+      "end": 1728.8000000000002,
+      "text": "to really kind of explore that and to really leverage the model capabilities to benefit the end"
+    },
+    {
+      "start": 1728.8000000000002,
+      "end": 1735.8400000000001,
+      "text": "customers. I guess there's an interesting competitive play here. Like, basically, if ploy becomes"
+    },
+    {
+      "start": 1735.8400000000001,
+      "end": 1740.3200000000002,
+      "text": "really, really good, you know, one of the things you do, for instance, is everyone's talking on the"
+    },
+    {
+      "start": 1740.32,
+      "end": 1745.4399999999998,
+      "text": "internet. It's talking about loops. But, you know, you have basically a marketing and, you know,"
+    },
+    {
+      "start": 1745.4399999999998,
+      "end": 1752.96,
+      "text": "SEO slash geo marketing loop. You build content. You figure out how to say what you need to say to"
+    },
+    {
+      "start": 1752.96,
+      "end": 1759.28,
+      "text": "get someone to understand what it is to want it. And then you improve it and agency it. Agents want to"
+    },
+    {
+      "start": 1759.28,
+      "end": 1764.72,
+      "text": "use it. People see it, you know, they click on it. They want to use it. In the future, like, if"
+    },
+    {
+      "start": 1764.88,
+      "end": 1771.68,
+      "text": "you're not using things like ploy, then your competitors will win. So there is like a competitive dynamic"
+    },
+    {
+      "start": 1771.68,
+      "end": 1776.96,
+      "text": "to it, which has already happened for coding tools, for instance, like sort of unconscionable in"
+    },
+    {
+      "start": 1777.92,
+      "end": 1786.24,
+      "text": "2026 to not be using cloud code or codex or cursor, you know, just, you wouldn't be able to stay"
+    },
+    {
+      "start": 1786.24,
+      "end": 1792.4,
+      "text": "on top of what's going on. I happen to think that software engineers are one of like the worst"
+    },
+    {
+      "start": 1792.4,
+      "end": 1799.8400000000001,
+      "text": "customers to sell to you. And they can change tools on a whim. Something new comes out over here."
+    },
+    {
+      "start": 1799.8400000000001,
+      "end": 1806.8000000000002,
+      "text": "They'll adopt it. So I see it as like almost this, this market that's always just incredibly"
+    },
+    {
+      "start": 1806.8000000000002,
+      "end": 1811.68,
+      "text": "competitive, but also like lowest common denominator. It's like, who's going to provide an engineer"
+    },
+    {
+      "start": 1811.68,
+      "end": 1818.0,
+      "text": "the most tokens? And that can always shift. And that battle is just really, really difficult."
+    },
+    {
+      "start": 1818.0,
+      "end": 1823.52,
+      "text": "For me, I'm always someone and maybe this is where my background working at into it sort of comes"
+    },
+    {
+      "start": 1823.52,
+      "end": 1829.68,
+      "text": "into play. It's just like, hey, just go and pick a customer that has like a true, true, true pain"
+    },
+    {
+      "start": 1829.68,
+      "end": 1836.08,
+      "text": "point and just really, really focus on that. To me, it's businesses, it's small businesses, it's"
+    },
+    {
+      "start": 1836.08,
+      "end": 1843.12,
+      "text": "startups. And I think like by building this product to to solve for them, they're most important"
+    },
+    {
+      "start": 1843.1200000000001,
+      "end": 1847.6000000000001,
+      "text": "pain points. I think that's going to be one of those things that I'm always going to try to focus"
+    },
+    {
+      "start": 1847.6000000000001,
+      "end": 1855.0400000000002,
+      "text": "on. I think there's a world, which I think it is true, where there's still a lot of that you can"
+    },
+    {
+      "start": 1855.0400000000002,
+      "end": 1859.1200000000001,
+      "text": "value that you can build on top of the models, because these are so good. And I think the limiting"
+    },
+    {
+      "start": 1859.1200000000001,
+      "end": 1866.0000000000002,
+      "text": "factor is knowing how to prompt them and sort of imbuing all these 20 years plus experience that"
+    },
+    {
+      "start": 1866.0000000000002,
+      "end": 1872.3200000000002,
+      "text": "you have to really get the models to focus. It is almost like you're building a very special"
+    },
+    {
+      "start": 1872.3999999999999,
+      "end": 1878.1599999999999,
+      "text": "hardness. We talk about a hardness as this being the thin layer to getting the models to do the"
+    },
+    {
+      "start": 1878.1599999999999,
+      "end": 1883.6,
+      "text": "right outcome. And I'm dropping did it wonderfully for a clock code. It took the world by storm and"
+    },
+    {
+      "start": 1884.3999999999999,
+      "end": 1889.76,
+      "text": "within just a year. There's a lot more that can be done for lots of the main. So you're kind of"
+    },
+    {
+      "start": 1889.76,
+      "end": 1895.36,
+      "text": "doing that for website creator creation. I mean, you're selling skills, but you're also selling"
+    },
+    {
+      "start": 1895.36,
+      "end": 1901.04,
+      "text": "code and it's fat skills, fat code. Some of these foundational primitives. So for example,"
+    },
+    {
+      "start": 1901.12,
+      "end": 1907.2,
+      "text": "you're getting a database out of a box that is very opinionated around website use cases,"
+    },
+    {
+      "start": 1907.2,
+      "end": 1914.08,
+      "text": "CRM use cases. And sure, you can go and, you know, go use a Postgres Hostage Postgres server."
+    },
+    {
+      "start": 1914.08,
+      "end": 1919.92,
+      "text": "But if you're a small business owner or if you're a CMO, you don't want to worry about that."
+    },
+    {
+      "start": 1919.92,
+      "end": 1924.32,
+      "text": "You're not going to go and stitch together this MCP and have your cloud code instance and then"
+    },
+    {
+      "start": 1924.32,
+      "end": 1929.76,
+      "text": "make sure it's running all the time. These are just to your point Diana, the harnesses that we're"
+    },
+    {
+      "start": 1929.76,
+      "end": 1934.48,
+      "text": "going to make sure is always on, always working for you. And ultimately, it's going to drive you"
+    },
+    {
+      "start": 1934.48,
+      "end": 1941.44,
+      "text": "outcomes without you losing sleep over it. Has anyone asked you yet for ploy, but make it really,"
+    },
+    {
+      "start": 1941.44,
+      "end": 1946.64,
+      "text": "really easy for agents to use a given product? Like do you have a bunch of lookbook stuff around"
+    },
+    {
+      "start": 1947.28,
+      "end": 1953.68,
+      "text": "properlm.txt and things like that? I mean, in the YC batch, we're seeing this wave of forget."
+    },
+    {
+      "start": 1953.68,
+      "end": 1957.2,
+      "text": "It's like code storage, for instance, it's doing super well, right? And then"
+    },
+    {
+      "start": 1957.76,
+      "end": 1964.4,
+      "text": "in storage in the current YC batch, it's like sort of AWS agent phone, agent mail, like"
+    },
+    {
+      "start": 1964.4,
+      "end": 1969.92,
+      "text": "recent. If the agents choose you, that's actually big. And that is huge. Yeah, that is huge. And"
+    },
+    {
+      "start": 1969.92,
+      "end": 1975.92,
+      "text": "I think that's one of the biggest benefits of doing YC again is that I'm living two years into"
+    },
+    {
+      "start": 1975.92,
+      "end": 1981.3600000000001,
+      "text": "the future, like right now here at YC. And just being able to see these founders think in this"
+    },
+    {
+      "start": 1981.3600000000001,
+      "end": 1987.2,
+      "text": "way, I was just like, oh, I never even thought of that. And to that point, you know, you're getting"
+    },
+    {
+      "start": 1987.2,
+      "end": 1993.0400000000002,
+      "text": "a lot of stuff out of the box employee to make sure that it's a yo, you get FAQ sections, you get"
+    },
+    {
+      "start": 1993.0400000000002,
+      "end": 1998.96,
+      "text": "structured sort of schema markups, bots are crawling it, connections to all the things. But I think"
+    },
+    {
+      "start": 1998.96,
+      "end": 2006.0800000000002,
+      "text": "one of the most exciting things is being able to let agent sign up for ploy. Oh, cool. So that works."
+    },
+    {
+      "start": 2006.0800000000002,
+      "end": 2012.2400000000002,
+      "text": "Working on it, working on it. So then you know, just wire it up to your claw and like if claw"
+    },
+    {
+      "start": 2012.2400000000002,
+      "end": 2017.0400000000002,
+      "text": "needs to go and build a really awesome site, ploy is one of the places where hopefully it can go."
+    },
+    {
+      "start": 2017.0400000000002,
+      "end": 2021.1200000000001,
+      "text": "Yeah. Are you going to do MCP or how are you going to implement it? I think we're going to do a"
+    },
+    {
+      "start": 2021.1200000000001,
+      "end": 2029.0400000000002,
+      "text": "CLI with skills. So an MCP would be really good if we had more constrained sort of things. However,"
+    },
+    {
+      "start": 2029.7600000000002,
+      "end": 2035.1200000000001,
+      "text": "I think with the number of things that you can do employee, I think the CLI is going to be the"
+    },
+    {
+      "start": 2035.1200000000001,
+      "end": 2042.24,
+      "text": "way we do it. CLI seems to be becoming the, the right UX for agents. This is why I think going back"
+    },
+    {
+      "start": 2042.24,
+      "end": 2048.8,
+      "text": "through claw covers is cursor and that I'm doing so well. It is just so much more freedom being"
+    },
+    {
+      "start": 2050.1600000000003,
+      "end": 2056.2400000000002,
+      "text": "fully on the command line, same thing with open claw. I mean, ASCII characters, they're really good."
+    },
+    {
+      "start": 2058.32,
+      "end": 2062.56,
+      "text": "I'm curious to get you perspective as like one of the more experienced founders in the batch."
+    },
+    {
+      "start": 2063.12,
+      "end": 2067.84,
+      "text": "Again, we certainly saw chassis beauty launch. There was a heavy snap towards young founders sort"
+    },
+    {
+      "start": 2067.84,
+      "end": 2071.44,
+      "text": "of like intense rise of young founders because there's only young founders that are actually"
+    },
+    {
+      "start": 2072.08,
+      "end": 2077.36,
+      "text": "well using the technology and building with the tools. It seems like it's either coming back towards"
+    },
+    {
+      "start": 2077.36,
+      "end": 2082.0,
+      "text": "the middle, extending further in the other direction, not sure. What's your take on it from being"
+    },
+    {
+      "start": 2082.0,
+      "end": 2086.96,
+      "text": "in the batch and then to say you can share like what when you look around and you see young founders"
+    },
+    {
+      "start": 2086.96,
+      "end": 2091.52,
+      "text": "like where do you see them having an edge and where do you feel like, I don't know, I've got you."
+    },
+    {
+      "start": 2091.52,
+      "end": 2096.32,
+      "text": "I do think as an experienced founder, there's just so many lived experiences you've had."
+    },
+    {
+      "start": 2097.68,
+      "end": 2104.16,
+      "text": "There's so much appreciation for how something gets done and sometimes it actually can hold a"
+    },
+    {
+      "start": 2104.16,
+      "end": 2108.08,
+      "text": "founder back. I was like, oh, don't do that. It's really, really hard. I was burned by that many"
+    },
+    {
+      "start": 2108.08,
+      "end": 2115.7599999999998,
+      "text": "years ago. So I think like you have to kind of for experience founders adopt a little bit more of"
+    },
+    {
+      "start": 2115.76,
+      "end": 2122.6400000000003,
+      "text": "that bravada and that risk appetite. But then also for the earlier founders, I should have maybe"
+    },
+    {
+      "start": 2122.6400000000003,
+      "end": 2128.48,
+      "text": "an appreciation for how some things you have to get right and not to bring it back to play again,"
+    },
+    {
+      "start": 2128.48,
+      "end": 2136.2400000000002,
+      "text": "but you can't create 100 websites and then expect Google to think that, hey, you're an authoritative"
+    },
+    {
+      "start": 2136.2400000000002,
+      "end": 2142.7200000000003,
+      "text": "source. And just creating content for content's sake is not the goal. So I always bring it back to"
+    },
+    {
+      "start": 2142.7200000000003,
+      "end": 2147.1200000000003,
+      "text": "like the first principles of it, right? Just like make sure you can tell a coherent story,"
+    },
+    {
+      "start": 2147.1200000000003,
+      "end": 2151.76,
+      "text": "make sure you're providing value in the world and then hopefully people will notice and you'll succeed."
+    },
+    {
+      "start": 2151.76,
+      "end": 2157.28,
+      "text": "What you get to do today is you get to draw on all these years of like all the things that went"
+    },
+    {
+      "start": 2157.28,
+      "end": 2165.6000000000004,
+      "text": "wrong and all the things that went right. And I like the idea of you just go directly to the part"
+    },
+    {
+      "start": 2165.6000000000004,
+      "end": 2171.2000000000003,
+      "text": "of the idea maze that you were before. And then when you have a company that's multi-billion dollar"
+    },
+    {
+      "start": 2171.2,
+      "end": 2177.68,
+      "text": "company like Webflow, like many, you know, how many people were in your org? Hundreds. Yeah. I mean,"
+    },
+    {
+      "start": 2178.64,
+      "end": 2184.24,
+      "text": "basically when you have that momentum in like what the org is and what you're trying to do,"
+    },
+    {
+      "start": 2184.24,
+      "end": 2189.2,
+      "text": "like how often is it that you're in that little idea maze and you're just like trying to see around"
+    },
+    {
+      "start": 2189.2,
+      "end": 2194.3999999999996,
+      "text": "corners, like you avoid monsters and like find the gold, right? And once in a while there's like"
+    },
+    {
+      "start": 2194.3999999999996,
+      "end": 2200.08,
+      "text": "this offshoot that comes off. And you're like, well, like the gold's over there for sure, but man,"
+    },
+    {
+      "start": 2200.08,
+      "end": 2204.08,
+      "text": "if I could clone myself, I would like go and check out this other place and like there might be"
+    },
+    {
+      "start": 2204.08,
+      "end": 2209.7599999999998,
+      "text": "even more gold. I don't know. It's like one of those things that now with a lot of experience,"
+    },
+    {
+      "start": 2209.7599999999998,
+      "end": 2213.36,
+      "text": "you could just like you can actually do both of these things. I think the keyword there was clone"
+    },
+    {
+      "start": 2213.36,
+      "end": 2221.92,
+      "text": "yourself. Yeah. I have always lived in scarcity, scarcity of time, scarcity of my own capacity,"
+    },
+    {
+      "start": 2221.92,
+      "end": 2229.44,
+      "text": "mental and physical, but I mean, AI is here and I'm really replicating myself, not just"
+    },
+    {
+      "start": 2229.44,
+      "end": 2233.6,
+      "text": "in the products, not just in the technology that we're building, but also in the company,"
+    },
+    {
+      "start": 2233.6,
+      "end": 2237.6,
+      "text": "then also in some of the sort of really AI native ways that we're trying to build the company"
+    },
+    {
+      "start": 2237.6,
+      "end": 2241.84,
+      "text": "as well. And that's just like a completely different world. Can you talk about any of them?"
+    },
+    {
+      "start": 2241.84,
+      "end": 2246.96,
+      "text": "I mean, I think we're doing the stuff that everyone else in YC is doing, right? Making sure everything"
+    },
+    {
+      "start": 2246.96,
+      "end": 2252.2400000000002,
+      "text": "is recorded, making sure that your cloud code, you know, can access all of this,"
+    },
+    {
+      "start": 2253.12,
+      "end": 2260.32,
+      "text": "making sure that our systems and operations on the go-to-market side are as automated as possible."
+    },
+    {
+      "start": 2260.32,
+      "end": 2267.68,
+      "text": "So every single call gets transcribed, gets put in the CRM, proposals get automatically drafted,"
+    },
+    {
+      "start": 2267.68,
+      "end": 2273.68,
+      "text": "email follow-ups are automatically scheduled. And now like we're just able to just like take on way"
+    },
+    {
+      "start": 2273.7599999999998,
+      "end": 2279.8399999999997,
+      "text": "more way faster and still feel like we have room to think. And I think that's something that's"
+    },
+    {
+      "start": 2279.8399999999997,
+      "end": 2284.16,
+      "text": "just like a level of abundance that people don't really talk about when they're talking about AI."
+    },
+    {
+      "start": 2284.16,
+      "end": 2289.7599999999998,
+      "text": "I mean, I just love the, you know, not only do you get to think, but you also have the agent"
+    },
+    {
+      "start": 2289.7599999999998,
+      "end": 2296.0,
+      "text": "run a CRON that will surface interesting patterns and it'll think with you. My favorite thing to do"
+    },
+    {
+      "start": 2296.0,
+      "end": 2302.0,
+      "text": "is go and open cloud and just say like, what did you learn about me or YC or my companies in the last"
+    },
+    {
+      "start": 2302.0,
+      "end": 2307.2,
+      "text": "week? Like was the most surprising thing. And then when you have Fable 5, it's like actually really"
+    },
+    {
+      "start": 2307.2,
+      "end": 2311.52,
+      "text": "insightful. And I was like, oh, I didn't notice that. That's really interesting. So one of the cool"
+    },
+    {
+      "start": 2311.52,
+      "end": 2318.48,
+      "text": "things to go back to the IDMA's analogy is, you know, not only do you and your brain have it all"
+    },
+    {
+      "start": 2318.48,
+      "end": 2324.48,
+      "text": "mapped out. I mean, to talk about Parker Conrad and Prasanna again briefly about rippling. I mean,"
+    },
+    {
+      "start": 2324.48,
+      "end": 2329.84,
+      "text": "obviously Xenifits was this huge, you know, all the way up and then all the way down, you know,"
+    },
+    {
+      "start": 2329.84,
+      "end": 2336.56,
+      "text": "sort of rise and fall. And it was such a no brainer for me to fund him again because I knew that"
+    },
+    {
+      "start": 2336.56,
+      "end": 2344.32,
+      "text": "he had loaded all of that stuff into his brain. Like he knew who to sell to, you know, he sure"
+    },
+    {
+      "start": 2344.32,
+      "end": 2349.76,
+      "text": "did know the regulatory by then, you know, that's like seared into your brain at that point. And you"
+    },
+    {
+      "start": 2349.76,
+      "end": 2356.0,
+      "text": "could just go directly to that point again. And, you know, the difference between him and you,"
+    },
+    {
+      "start": 2356.0,
+      "end": 2363.92,
+      "text": "Brian is that he still took two years and he went into a cave. And he had to write code with a"
+    },
+    {
+      "start": 2363.92,
+      "end": 2370.4,
+      "text": "team of five or 10 people literally in a basement in the mission. I'd go and visit him after the first"
+    },
+    {
+      "start": 2370.4,
+      "end": 2374.64,
+      "text": "six months was like, okay, cool. You haven't launched anything yet. No worries. And then like after"
+    },
+    {
+      "start": 2374.64,
+      "end": 2378.72,
+      "text": "a year, I was like, oh, yeah, it's been a year. Like, but the demos are really impressive. And then"
+    },
+    {
+      "start": 2378.72,
+      "end": 2383.52,
+      "text": "after two years is like, oh, man, like, are we going to launch like, you know, what's going to happen?"
+    },
+    {
+      "start": 2383.52,
+      "end": 2388.08,
+      "text": "And then of course he did launch, but he didn't launch like just this one little thing. It wasn't"
+    },
+    {
+      "start": 2388.08,
+      "end": 2395.44,
+      "text": "like a wedge. He actually launched the whole package of HR and onboarding in one go with insurance,"
+    },
+    {
+      "start": 2395.44,
+      "end": 2400.32,
+      "text": "like done right, you know, without having to scale with people and things like that. And so that"
+    },
+    {
+      "start": 2400.32,
+      "end": 2407.36,
+      "text": "was sort of the defining startup that I got to see, you know, sort of before AI really came to"
+    },
+    {
+      "start": 2407.36,
+      "end": 2416.0,
+      "text": "the fore in the way. And what is happening now is that instead imagine, you know, Bryant, you're"
+    },
+    {
+      "start": 2416.0,
+      "end": 2421.6800000000003,
+      "text": "in this idea maze, but you don't clone yourself like once. You don't clone yourself twice."
+    },
+    {
+      "start": 2422.48,
+      "end": 2428.1600000000003,
+      "text": "I mean, by my measure with G brain and G stack and just like the code I'm releasing open source,"
+    },
+    {
+      "start": 2428.1600000000003,
+      "end": 2434.96,
+      "text": "I'm actually on on track to do like four or five million lines of logical logical lines of code."
+    },
+    {
+      "start": 2434.96,
+      "end": 2439.6,
+      "text": "This is like adjusted for like bloat and things like that. And so it's basically like"
+    },
+    {
+      "start": 2440.32,
+      "end": 2449.04,
+      "text": "400 to 1000 clones of myself from, you know, from 2026 right now, right? So not only do you,"
+    },
+    {
+      "start": 2449.04,
+      "end": 2454.8,
+      "text": "are you able to sort of like flash forward into exactly the right place inside the idea maze,"
+    },
+    {
+      "start": 2454.8,
+      "end": 2462.0,
+      "text": "but, you know, you have like 500 to a thousand versions of yourself with like your skills and"
+    },
+    {
+      "start": 2462.0,
+      "end": 2467.68,
+      "text": "your taste and all the, you know, imagination and the things that came with you, you know, like"
+    },
+    {
+      "start": 2467.68,
+      "end": 2472.24,
+      "text": "Parker still needed to hire five and ten more people. And that was a process. It's like, how do I"
+    },
+    {
+      "start": 2472.24,
+      "end": 2477.6,
+      "text": "train people? How do I give them the right things? How do I give them like a few weeks? And then let's"
+    },
+    {
+      "start": 2477.6,
+      "end": 2483.12,
+      "text": "do a checkpoint. Like, you know, did you do what I need or not? And then now it's like actually"
+    },
+    {
+      "start": 2483.12,
+      "end": 2490.0,
+      "text": "what would take a week or a month or a year? Like you literally do in, you know, minutes hours or,"
+    },
+    {
+      "start": 2490.0,
+      "end": 2495.68,
+      "text": "you know, at the worst, like you could build a whole cathedral of like 20 to 40,000 lines of code,"
+    },
+    {
+      "start": 2495.68,
+      "end": 2501.04,
+      "text": "like what would take a typical engineer an entire year? You do it in a few days, right? This is"
+    },
+    {
+      "start": 2501.04,
+      "end": 2505.6,
+      "text": "like a really, it's not like a little thing. It's actually a really big thing that's happening."
+    },
+    {
+      "start": 2505.6,
+      "end": 2511.04,
+      "text": "So this is why this is the age of the 40 year old solo founder. I mean, you don't have to be"
+    },
+    {
+      "start": 2511.04,
+      "end": 2515.6,
+      "text": "for it. You just have to have taste, you know? It takes a while for it to start up to catch fire,"
+    },
+    {
+      "start": 2515.6,
+      "end": 2520.7999999999997,
+      "text": "but I feel like I'm standing outside with the magnifying glass under the blazing sun,"
+    },
+    {
+      "start": 2520.7999999999997,
+      "end": 2526.24,
+      "text": "and I'm able to focus it, and I'm able to focus all my experience, background, technical,"
+    },
+    {
+      "start": 2526.24,
+      "end": 2531.52,
+      "text": "and knowledge of the customer base, knowledge of their buying patterns, knowledge of these cycles,"
+    },
+    {
+      "start": 2531.52,
+      "end": 2537.92,
+      "text": "and just catch something with fire. Well, let's fucking go. Love it. Brian, thanks a lot for joining us."
+    },
+    {
+      "start": 2538.72,
+      "end": 2543.6,
+      "text": "For those of you watching, if you actually want more customers, if you actually want to win,"
+    },
+    {
+      "start": 2543.6,
+      "end": 2549.2,
+      "text": "if you want to beat your competitors, I don't know why you wouldn't use ploy.ai. Thanks guys,"
+    }
+  ]
+}

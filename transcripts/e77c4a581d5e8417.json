@@ -1,0 +1,4226 @@
+{
+  "id": "e77c4a581d5e8417",
+  "show": "Odd Lots",
+  "theme": "Macro & Rates",
+  "title": "The Hidden Plumbing of Commodity Finance",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9d19da5c-6eca-418c-9fda-b4590139c80f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+  "source": "feed",
+  "duration": 2762.5,
+  "segments": [
+    {
+      "start": 2.72,
+      "end": 14.0,
+      "text": "Speaker 1: Bloomberg Audio Studios, Podcasts, radio News."
+    },
+    {
+      "start": 17.92,
+      "end": 20.72,
+      "text": "Speaker 2: Hello and welcome to another episode of the All Thoughts podcast."
+    },
+    {
+      "start": 20.8,
+      "end": 22.48,
+      "text": "Speaker 2: I'm Tracy Alloway and I'm Joe."
+    },
+    {
+      "start": 22.48,
+      "end": 23.68,
+      "text": "Speaker 3: Why isn't thal Joe?"
+    },
+    {
+      "start": 23.72,
+      "end": 26.64,
+      "text": "Speaker 2: I think I've told you this before, but way back"
+    },
+    {
+      "start": 26.68,
+      "end": 29.6,
+      "text": "Speaker 2: when I was starting in financial journalism, I really wanted"
+    },
+    {
+      "start": 29.6,
+      "end": 30.76,
+      "text": "Speaker 2: to be a commodities reporter."
+    },
+    {
+      "start": 30.96,
+      "end": 33.8,
+      "text": "Speaker 3: I get it. It's a it seems fun, it seems real."
+    },
+    {
+      "start": 34.24,
+      "end": 38.0,
+      "text": "Speaker 3: It seems like one of the few areas of finance"
+    },
+    {
+      "start": 38.28,
+      "end": 41.88,
+      "text": "Speaker 3: that's like not just a screen, you know what I'm saying."
+    },
+    {
+      "start": 42.2,
+      "end": 44.84,
+      "text": "Speaker 2: There's no there's a physicality yeah right, yeah."
+    },
+    {
+      "start": 44.96,
+      "end": 47.44,
+      "text": "Speaker 3: But also, like you know, every was like this was"
+    },
+    {
+      "start": 47.479,
+      "end": 50.64,
+      "text": "Speaker 3: a relationship business. But I feel like commodities, you know,"
+    },
+    {
+      "start": 50.72,
+      "end": 51.959,
+      "text": "Speaker 3: everyone in finance."
+    },
+    {
+      "start": 51.56,
+      "end": 53.52,
+      "text": "Speaker 2: Has that, right, do your banker impression again?"
+    },
+    {
+      "start": 55.28,
+      "end": 57.96,
+      "text": "Speaker 3: But right, But everyone says that in finance this is"
+    },
+    {
+      "start": 58.0,
+      "end": 60.72,
+      "text": "Speaker 3: a relationship business. But actually commodity seems to be one"
+    },
+    {
+      "start": 60.72,
+      "end": 63.64,
+      "text": "Speaker 3: of those areas where actually it's a real thing and"
+    },
+    {
+      "start": 63.64,
+      "end": 66.52,
+      "text": "Speaker 3: not just a cliche and stuff. So I get it."
+    },
+    {
+      "start": 66.52,
+      "end": 70.0,
+      "text": "Speaker 2: It seems to be very idiosyncratic, where like one load"
+    },
+    {
+      "start": 70.2,
+      "end": 73.319,
+      "text": "Speaker 2: of whatever commodity might not be completely fungible with the"
+    },
+    {
+      "start": 73.36,
+      "end": 76.28,
+      "text": "Speaker 2: same commodity, yeah, because we call it commodities, right and"
+    },
+    {
+      "start": 76.48,
+      "end": 81.0,
+      "text": "Speaker 2: yet and yes, but you know, so I had this"
+    },
+    {
+      "start": 81.12,
+      "end": 83.36,
+      "text": "Speaker 2: like romantic idea in my head of what a commodities"
+    },
+    {
+      "start": 83.4,
+      "end": 86.2,
+      "text": "Speaker 2: reporter actually does, which is, like, I don't know, go"
+    },
+    {
+      "start": 86.319,
+      "end": 91.16,
+      "text": "Speaker 2: on ships and travel alongside like huge things of coal"
+    },
+    {
+      "start": 91.28,
+      "end": 93.64,
+      "text": "Speaker 2: and metal and aluminum and stuff like that, which is"
+    },
+    {
+      "start": 93.68,
+      "end": 98.36,
+      "text": "Speaker 2: probably not realistic. One aspect of commodities I never really"
+    },
+    {
+      "start": 98.44,
+      "end": 103.12,
+      "text": "Speaker 2: appreciated was how much financialization there actually is in the market,"
+    },
+    {
+      "start": 103.24000000000001,
+      "end": 106.75999999999999,
+      "text": "Speaker 2: and that there are so many different players in the market."
+    },
+    {
+      "start": 106.84,
+      "end": 109.16,
+      "text": "Speaker 2: We've sort of touched on it before with the Strait"
+    },
+    {
+      "start": 109.2,
+      "end": 113.16,
+      "text": "Speaker 2: of Hormuz situation, where you know, you have the insurers"
+    },
+    {
+      "start": 113.24000000000001,
+      "end": 115.64,
+      "text": "Speaker 2: and then you have the reinsurers, and you have like"
+    },
+    {
+      "start": 115.68,
+      "end": 117.96000000000001,
+      "text": "Speaker 2: insurers for the freight and for the whole and for"
+    },
+    {
+      "start": 118.2,
+      "end": 121.8,
+      "text": "Speaker 2: like liability, and it just seems so complicated. You have"
+    },
+    {
+      "start": 121.84,
+      "end": 125.44,
+      "text": "Speaker 2: a very similar situation on the financing side, sure, And"
+    },
+    {
+      "start": 125.52,
+      "end": 128.88,
+      "text": "Speaker 2: it struck me that we have never actually done a"
+    },
+    {
+      "start": 128.919,
+      "end": 130.639,
+      "text": "Speaker 2: commodity financing episode."
+    },
+    {
+      "start": 130.84,
+      "end": 133.36,
+      "text": "Speaker 3: No. And I'm really interested in this because again, like"
+    },
+    {
+      "start": 133.4,
+      "end": 136.799,
+      "text": "Speaker 3: one of these things you always hear about capital efficiency, right,"
+    },
+    {
+      "start": 136.88,
+      "end": 140.519,
+      "text": "Speaker 3: this is very important, and so okay, here's like let's"
+    },
+    {
+      "start": 140.56,
+      "end": 142.52,
+      "text": "Speaker 3: say we do not know, I don't know what the"
+    },
+    {
+      "start": 142.56,
+      "end": 146.12,
+      "text": "Speaker 3: cost of moving so and so many kilograms of copper"
+    },
+    {
+      "start": 146.12,
+      "end": 149.639,
+      "text": "Speaker 3: from one place to another is whatever, that cost is"
+    },
+    {
+      "start": 150.2,
+      "end": 152.239,
+      "text": "Speaker 3: I probably don't want to tie up all of my"
+    },
+    {
+      "start": 152.4,
+      "end": 155.07999999999998,
+      "text": "Speaker 3: capital at it. I probably want to put down a"
+    },
+    {
+      "start": 155.12,
+      "end": 158.84,
+      "text": "Speaker 3: fraction of the thing, borrow the rest, et cetera, then"
+    },
+    {
+      "start": 158.91899999999998,
+      "end": 161.68,
+      "text": "Speaker 3: pay off that loan when the ship gets there, et cetera,"
+    },
+    {
+      "start": 162.04,
+      "end": 165.2,
+      "text": "Speaker 3: so that I'm as liquid as possible at any given moment."
+    },
+    {
+      "start": 165.52,
+      "end": 167.84,
+      "text": "Speaker 3: This is just like I'm sort of like, this is"
+    },
+    {
+      "start": 167.88,
+      "end": 170.0,
+      "text": "Speaker 3: my first principles. I don't know anything about the space,"
+    },
+    {
+      "start": 170.04,
+      "end": 172.76,
+      "text": "Speaker 3: but I assume that there are a lot of calculations"
+    },
+    {
+      "start": 172.96,
+      "end": 178.12,
+      "text": "Speaker 3: like this within the process of procuring, mining, delivering commodities."
+    },
+    {
+      "start": 178.16,
+      "end": 181.16,
+      "text": "Speaker 2: Absolutely, So today we are going to learn about commodity finance."
+    },
+    {
+      "start": 181.16,
+      "end": 182.88,
+      "text": "Speaker 2: We're also going to try to get a handle on"
+    },
+    {
+      "start": 182.96,
+      "end": 185.44,
+      "text": "Speaker 2: what's going on in the commodities world right now, given"
+    },
+    {
+      "start": 185.52,
+      "end": 188.32,
+      "text": "Speaker 2: some of the disruptions that we've seen, and I'm glad"
+    },
+    {
+      "start": 188.36,
+      "end": 190.84,
+      "text": "Speaker 2: to say we do, in fact have the perfect guest."
+    },
+    {
+      "start": 191.0,
+      "end": 193.12,
+      "text": "Speaker 2: We're going to be speaking with Lewis Hart. He is,"
+    },
+    {
+      "start": 193.16,
+      "end": 196.16,
+      "text": "Speaker 2: of course, the head of corporate advisory and banking at"
+    },
+    {
+      "start": 196.2,
+      "end": 200.679,
+      "text": "Speaker 2: Brown Brothers Harriman, so someone who lives and breathes commodity finance."
+    },
+    {
+      "start": 201.88,
+      "end": 203.839,
+      "text": "Speaker 4: Thanks Tracy, Thanks Joe, it's great to be here."
+    },
+    {
+      "start": 204.639,
+      "end": 207.0,
+      "text": "Speaker 2: Would you say you know more about commodity finance or"
+    },
+    {
+      "start": 207.12,
+      "end": 209.8,
+      "text": "Speaker 2: nineties hip hop and R and B Ooh."
+    },
+    {
+      "start": 209.52,
+      "end": 211.84,
+      "text": "Speaker 4: That's a tough one. Very close, very close."
+    },
+    {
+      "start": 211.84,
+      "end": 214.68,
+      "text": "Speaker 2: I'm throwing that out of nowhere. He's a big brillion"
+    },
+    {
+      "start": 214.76,
+      "end": 215.07999999999998,
+      "text": "Speaker 2: hip hop."
+    },
+    {
+      "start": 217.32,
+      "end": 219.56,
+      "text": "Speaker 3: We just go back and to talk about that."
+    },
+    {
+      "start": 219.6,
+      "end": 222.76,
+      "text": "Speaker 2: No, we should just go it. Okay, what's commodity finance? Like,"
+    },
+    {
+      "start": 222.76,
+      "end": 224.36,
+      "text": "Speaker 2: what exactly are we trying to achieve here?"
+    },
+    {
+      "start": 224.68,
+      "end": 227.96,
+      "text": "Speaker 4: It's it's a good question, and the way I think"
+    },
+    {
+      "start": 227.96,
+      "end": 231.72,
+      "text": "Speaker 4: of it, it's like the biggest twenty trillion dollar market"
+    },
+    {
+      "start": 231.76,
+      "end": 234.88,
+      "text": "Speaker 4: that no one talks about. So you think about global trade,"
+    },
+    {
+      "start": 235.0,
+      "end": 239.2,
+      "text": "Speaker 4: about twenty trillion dollars of global trade in goods goes"
+    },
+    {
+      "start": 239.24,
+      "end": 244.32,
+      "text": "Speaker 4: through trade for programs. Commodity finance is a specialized subset"
+    },
+    {
+      "start": 244.4,
+      "end": 248.16,
+      "text": "Speaker 4: of trade finance, and it's about four or five trillion dollars."
+    },
+    {
+      "start": 248.72,
+      "end": 251.28,
+      "text": "Speaker 4: So as a huge market, it sort of surprises me"
+    },
+    {
+      "start": 251.36,
+      "end": 254.08,
+      "text": "Speaker 4: sometimes that it doesn't get more headlines. But it's not"
+    },
+    {
+      "start": 254.12,
+      "end": 257.279,
+      "text": "Speaker 4: that glamorous. It's kind of boring, and so when things"
+    },
+    {
+      "start": 257.32,
+      "end": 260.4,
+      "text": "Speaker 4: go well, it doesn't really create the drama that headlines"
+    },
+    {
+      "start": 260.52,
+      "end": 261.12,
+      "text": "Speaker 4: are seeking."
+    },
+    {
+      "start": 261.4,
+      "end": 264.28,
+      "text": "Speaker 3: Sure, well, this is the I mean, to be fair,"
+    },
+    {
+      "start": 264.8,
+      "end": 267.36,
+      "text": "Speaker 3: this is the case with almost anything, which is that"
+    },
+    {
+      "start": 267.839,
+      "end": 270.119,
+      "text": "Speaker 3: you never hear about anything when things are going well,"
+    },
+    {
+      "start": 270.2,
+      "end": 273.76,
+      "text": "Speaker 3: and that including any types of finance. And hopefully you"
+    },
+    {
+      "start": 273.76,
+      "end": 276.599,
+      "text": "Speaker 3: know Ideally you would never hear about any finance because."
+    },
+    {
+      "start": 276.44,
+      "end": 279.24,
+      "text": "Speaker 2: Warehouse shipment successfully makes it right."
+    },
+    {
+      "start": 279.04,
+      "end": 281.15999999999997,
+      "text": "Speaker 3: It wouldn't make for it to be honest. As a journalist,"
+    },
+    {
+      "start": 281.15999999999997,
+      "end": 282.2,
+      "text": "Speaker 3: I wouldn't."
+    },
+    {
+      "start": 281.72,
+      "end": 285.15999999999997,
+      "text": "Speaker 4: Client pay is receivable on time, client phase receive a"
+    },
+    {
+      "start": 285.2,
+      "end": 285.599,
+      "text": "Speaker 4: lot of time."
+    },
+    {
+      "start": 285.839,
+      "end": 289.6,
+      "text": "Speaker 3: When I think about finance, generally, I think about, like,"
+    },
+    {
+      "start": 290.12,
+      "end": 293.44,
+      "text": "Speaker 3: who is a consumer of financial services? And what services"
+    },
+    {
+      "start": 293.48,
+      "end": 297.2,
+      "text": "Speaker 3: are they? Actually? I guess purchasing or when do people"
+    },
+    {
+      "start": 297.279,
+      "end": 300.2,
+      "text": "Speaker 3: find the need for finance? Right, So a home one"
+    },
+    {
+      "start": 300.32,
+      "end": 304.56,
+      "text": "Speaker 3: or occasionally needs financials, or a home buyer suddenly needs"
+    },
+    {
+      "start": 304.8,
+      "end": 309.04,
+      "text": "Speaker 3: is a purchaser of the financial services through a mortgage, right,"
+    },
+    {
+      "start": 309.24,
+      "end": 313.719,
+      "text": "Speaker 3: et cetera. What is a canonical or modal example of"
+    },
+    {
+      "start": 314.12,
+      "end": 316.24,
+      "text": "Speaker 3: a consumer of commodity finance?"
+    },
+    {
+      "start": 317.12,
+      "end": 320.68,
+      "text": "Speaker 4: Sure, well, it's really the business of financing motion, and"
+    },
+    {
+      "start": 320.76,
+      "end": 325.28,
+      "text": "Speaker 4: so the classic example would be a commodity merchant. Commodity"
+    },
+    {
+      "start": 325.32,
+      "end": 328.159,
+      "text": "Speaker 4: merchant kind of evokes a lot of history, right, you"
+    },
+    {
+      "start": 328.24,
+      "end": 333.04,
+      "text": "Speaker 4: think back to Renaissance Italy and the Mediceese and all"
+    },
+    {
+      "start": 333.08,
+      "end": 336.52,
+      "text": "Speaker 4: the merchants that kind of pioneered global trade in those days,"
+    },
+    {
+      "start": 336.56,
+      "end": 339.2,
+      "text": "Speaker 4: and actually goes back even farther, you can go back"
+    },
+    {
+      "start": 339.24,
+      "end": 343.279,
+      "text": "Speaker 4: to even the BCS and c trade finance happening. But"
+    },
+    {
+      "start": 343.56,
+      "end": 346.64,
+      "text": "Speaker 4: the typical consumer is a physical merchant and they may"
+    },
+    {
+      "start": 346.68,
+      "end": 348.76,
+      "text": "Speaker 4: be in the energy space, they may be in the"
+    },
+    {
+      "start": 348.8,
+      "end": 352.04,
+      "text": "Speaker 4: metal space, or they may be in the agricultural space."
+    },
+    {
+      "start": 352.72,
+      "end": 356.2,
+      "text": "Speaker 4: Their job is not to speculate on prices. Contrary to"
+    },
+    {
+      "start": 356.279,
+      "end": 359.88,
+      "text": "Speaker 4: popular belief, you think commodity trader, most people think spec"
+    },
+    {
+      "start": 360.68,
+      "end": 364.0,
+      "text": "Speaker 4: That's actually not what they do. They are essentially supply"
+    },
+    {
+      "start": 364.2,
+      "end": 367.64,
+      "text": "Speaker 4: chain managers. That's their role. And they are the largest"
+    },
+    {
+      "start": 367.64,
+      "end": 369.2,
+      "text": "Speaker 4: consumers of commodity finance."
+    },
+    {
+      "start": 369.76,
+      "end": 371.04,
+      "text": "Speaker 3: And what are they purchasing."
+    },
+    {
+      "start": 371.68,
+      "end": 375.72,
+      "text": "Speaker 4: They're purchasing you said it well at the beginning, shiploads"
+    },
+    {
+      "start": 375.76,
+      "end": 381.36,
+      "text": "Speaker 4: of copper cathode containers of coffee, green coffee, unroasted coffee"
+    },
+    {
+      "start": 381.4,
+      "end": 382.44,
+      "text": "Speaker 4: in bare lap bag. No."
+    },
+    {
+      "start": 382.52,
+      "end": 385.279,
+      "text": "Speaker 3: But like, so when I get a mortgage, I am"
+    },
+    {
+      "start": 385.32,
+      "end": 389.36,
+      "text": "Speaker 3: purchasing the ability to have a minimum monthly payment that's"
+    },
+    {
+      "start": 389.36,
+      "end": 392.4,
+      "text": "Speaker 3: spread out over thirty years. So that is what when"
+    },
+    {
+      "start": 392.4,
+      "end": 395.56,
+      "text": "Speaker 3: I like entering, when I interface with the bank or"
+    },
+    {
+      "start": 395.56,
+      "end": 399.08,
+      "text": "Speaker 3: whatever a mortgage broker, I am purchasing the ability to"
+    },
+    {
+      "start": 399.24,
+      "end": 402.679,
+      "text": "Speaker 3: not destroy all my liquidity when I buy a house."
+    },
+    {
+      "start": 403.0,
+      "end": 404.8,
+      "text": "Speaker 3: So what are they now, It's not I I said,"
+    },
+    {
+      "start": 404.839,
+      "end": 407.48,
+      "text": "Speaker 3: the commodity that they're purchasing. What are they purchasing from"
+    },
+    {
+      "start": 407.48,
+      "end": 407.92,
+      "text": "Speaker 3: the bank."
+    },
+    {
+      "start": 408.08,
+      "end": 412.0,
+      "text": "Speaker 4: Yeah, So essentially the basic product is a line of credit, Okay,"
+    },
+    {
+      "start": 412.08,
+      "end": 415.72,
+      "text": "Speaker 4: secured line of credit, and that line of credit kind"
+    },
+    {
+      "start": 415.76,
+      "end": 417.88,
+      "text": "Speaker 4: of like a credit card, can be used to buy"
+    },
+    {
+      "start": 417.96,
+      "end": 421.92,
+      "text": "Speaker 4: eligible commodities. So it's a line of credit that's self liquidating,"
+    },
+    {
+      "start": 422.08,
+      "end": 424.4,
+      "text": "Speaker 4: meaning once you make the loan, you know what the"
+    },
+    {
+      "start": 424.56,
+      "end": 427.039,
+      "text": "Speaker 4: client's buying and you know what the source of repayment is."
+    },
+    {
+      "start": 427.08,
+      "end": 430.36,
+      "text": "Speaker 4: That's very different than other types of lending that take"
+    },
+    {
+      "start": 430.48,
+      "end": 433.84,
+      "text": "Speaker 4: much longer to repay, so it's very short term. It's"
+    },
+    {
+      "start": 433.84,
+      "end": 438.48,
+      "text": "Speaker 4: self liquidating, and it's secured by inventory, and then when"
+    },
+    {
+      "start": 438.48,
+      "end": 441.72,
+      "text": "Speaker 4: the inventory is sold, it's secured by the account receivable"
+    },
+    {
+      "start": 442.0,
+      "end": 445.08,
+      "text": "Speaker 4: that results from the sale of the inventory. The receivable"
+    },
+    {
+      "start": 445.16,
+      "end": 447.52,
+      "text": "Speaker 4: gets paid, and then it keeps happening again and again."
+    },
+    {
+      "start": 447.6,
+      "end": 448.88,
+      "text": "Speaker 3: It revolves up and down."
+    },
+    {
+      "start": 449.68,
+      "end": 452.6,
+      "text": "Speaker 4: The big variable that is always tricky is what's the"
+    },
+    {
+      "start": 452.6,
+      "end": 454.55899999999997,
+      "text": "Speaker 4: price of that commodity at the time of the loan,"
+    },
+    {
+      "start": 455.2,
+      "end": 459.52,
+      "text": "Speaker 4: And these structures are designed to give clients flexibility to"
+    },
+    {
+      "start": 459.72,
+      "end": 462.8,
+      "text": "Speaker 4: buy the copper, whether it's six dollars a pound, four"
+    },
+    {
+      "start": 462.84000000000003,
+      "end": 465.52,
+      "text": "Speaker 4: dollars a pound, seven dollars a pound. It's hard to"
+    },
+    {
+      "start": 465.52,
+      "end": 470.15999999999997,
+      "text": "Speaker 4: predict these capital needs, and that's most lenders like fixed amounts."
+    },
+    {
+      "start": 470.32,
+      "end": 473.2,
+      "text": "Speaker 4: This is a floating dollar amount, which is kind of"
+    },
+    {
+      "start": 473.24,
+      "end": 476.68,
+      "text": "Speaker 4: a unique part of it, where the value of the"
+    },
+    {
+      "start": 476.72,
+      "end": 479.84000000000003,
+      "text": "Speaker 4: loan changes as the price of the commodity changes."
+    },
+    {
+      "start": 480.72,
+      "end": 483.2,
+      "text": "Speaker 2: Oh that's interesting. Wait, okay, so why did they need"
+    },
+    {
+      "start": 483.2,
+      "end": 484.16,
+      "text": "Speaker 2: that flexibility?"
+    },
+    {
+      "start": 484.36,
+      "end": 485.32,
+      "text": "Speaker 3: You explained that further."
+    },
+    {
+      "start": 485.64,
+      "end": 489.92,
+      "text": "Speaker 4: Yes, so good question. So think about a client who's"
+    },
+    {
+      "start": 489.96,
+      "end": 493.32,
+      "text": "Speaker 4: buying a pound of coffee, right, think about your local"
+    },
+    {
+      "start": 493.32,
+      "end": 497.2,
+      "text": "Speaker 4: coffee shop here. That coffee being traveled two thousand miles"
+    },
+    {
+      "start": 497.24,
+      "end": 500.64,
+      "text": "Speaker 4: from somewhere, likely in South America. It went through a"
+    },
+    {
+      "start": 500.64,
+      "end": 503.84,
+      "text": "Speaker 4: whole process of milling and exporting, it went on a ship,"
+    },
+    {
+      "start": 503.88,
+      "end": 506.4,
+      "text": "Speaker 4: it ended up at a roaster in the US, and"
+    },
+    {
+      "start": 506.52,
+      "end": 509.96,
+      "text": "Speaker 4: finally made its way to a retail shop in Manhattan."
+    },
+    {
+      "start": 510.28,
+      "end": 514.48,
+      "text": "Speaker 4: There's a ton of capital involved there. That client likely"
+    },
+    {
+      "start": 514.52,
+      "end": 518.16,
+      "text": "Speaker 4: agreed to buy that coffee several months in advance. The"
+    },
+    {
+      "start": 518.24,
+      "end": 521.32,
+      "text": "Speaker 4: time when they actually fixed the contract and pay is"
+    },
+    {
+      "start": 521.48,
+      "end": 525.24,
+      "text": "Speaker 4: when the coffee ships. Typically, and at that point we"
+    },
+    {
+      "start": 525.28,
+      "end": 527.0,
+      "text": "Speaker 4: don't know if the price is going to be three"
+    },
+    {
+      "start": 527.04,
+      "end": 530.24,
+      "text": "Speaker 4: dollars a pound, two dollars a pound, one dollar a pound,"
+    },
+    {
+      "start": 530.32,
+      "end": 533.4,
+      "text": "Speaker 4: and so the capital needs you kind of can figure"
+    },
+    {
+      "start": 533.44,
+      "end": 536.72,
+      "text": "Speaker 4: them out within a band. But sometimes things happened that"
+    },
+    {
+      "start": 536.84,
+      "end": 541.72,
+      "text": "Speaker 4: actually change what you thought. And so the unique thing"
+    },
+    {
+      "start": 541.76,
+      "end": 545.88,
+      "text": "Speaker 4: about a commodity lender is their marking to market that inventory."
+    },
+    {
+      "start": 546.32,
+      "end": 549.48,
+      "text": "Speaker 4: So if you pledge me a pound of copper, I'll"
+    },
+    {
+      "start": 549.559,
+      "end": 553.199,
+      "text": "Speaker 4: lend you seventy five cents, eighty cents, maybe more of"
+    },
+    {
+      "start": 553.24,
+      "end": 556.36,
+      "text": "Speaker 4: the value of that copper, whether it's three dollars a pound,"
+    },
+    {
+      "start": 556.48,
+      "end": 558.36,
+      "text": "Speaker 4: three fifty a pounds, or two fifty a pound."
+    },
+    {
+      "start": 559.24,
+      "end": 563.72,
+      "text": "Speaker 3: Where does the commodity futures market play into this, Because"
+    },
+    {
+      "start": 563.72,
+      "end": 567.68,
+      "text": "Speaker 3: when we're talking about the unpredictable nature of we don't know."
+    },
+    {
+      "start": 567.76,
+      "end": 571.64,
+      "text": "Speaker 3: The price of commodities fluctuate. You can lock in prices"
+    },
+    {
+      "start": 571.84,
+      "end": 573.599,
+      "text": "Speaker 3: in many commodities and not all, and I want to"
+    },
+    {
+      "start": 573.64,
+      "end": 579.44,
+      "text": "Speaker 3: get into that non financialized commodities, but to some extent,"
+    },
+    {
+      "start": 579.48,
+      "end": 582.439,
+      "text": "Speaker 3: doesn't the futures market solve part of the problem of"
+    },
+    {
+      "start": 582.48,
+      "end": 583.84,
+      "text": "Speaker 3: the variability of the pricing."
+    },
+    {
+      "start": 584.16,
+      "end": 586.64,
+      "text": "Speaker 4: In one sense, it solves the price risk. So one"
+    },
+    {
+      "start": 586.64,
+      "end": 589.24,
+      "text": "Speaker 4: of the key risks in commodity finance is the price risk."
+    },
+    {
+      "start": 589.72,
+      "end": 593.24,
+      "text": "Speaker 4: So if I'm lending against copper and the price goes down,"
+    },
+    {
+      "start": 593.72,
+      "end": 596.64,
+      "text": "Speaker 4: I better be careful, right, my capital could be impaired."
+    },
+    {
+      "start": 597.0,
+      "end": 599.72,
+      "text": "Speaker 4: So you use the futures market, the derivatives market to"
+    },
+    {
+      "start": 599.76,
+      "end": 602.76,
+      "text": "Speaker 4: head that price risk. So we like to say our"
+    },
+    {
+      "start": 602.76,
+      "end": 608.04,
+      "text": "Speaker 4: clients are typically long physical meaning they own the inventory,"
+    },
+    {
+      "start": 608.24,
+      "end": 613.04,
+      "text": "Speaker 4: and they're short paper. There's short futures contracts. That works"
+    },
+    {
+      "start": 613.12,
+      "end": 616.88,
+      "text": "Speaker 4: really well, but when prices go up, that means they"
+    },
+    {
+      "start": 616.92,
+      "end": 619.8,
+      "text": "Speaker 4: have to post margin calls. So if I have a"
+    },
+    {
+      "start": 619.84,
+      "end": 623.92,
+      "text": "Speaker 4: three dollars a pound copper shipment and the price goes"
+    },
+    {
+      "start": 623.96,
+      "end": 626.24,
+      "text": "Speaker 4: to three point fifty while it's on the water coming"
+    },
+    {
+      "start": 626.28,
+      "end": 630.28,
+      "text": "Speaker 4: from Chile to Georgia. That client says, I need to"
+    },
+    {
+      "start": 630.28,
+      "end": 633.9590000000001,
+      "text": "Speaker 4: borrow more money to keep my hedge open. And until"
+    },
+    {
+      "start": 634.04,
+      "end": 636.72,
+      "text": "Speaker 4: the ship arrives and the client pays for the copper"
+    },
+    {
+      "start": 637.36,
+      "end": 639.8389999999999,
+      "text": "Speaker 4: that hedge is on and you don't know what that"
+    },
+    {
+      "start": 639.88,
+      "end": 640.88,
+      "text": "Speaker 4: margin call is going to be."
+    },
+    {
+      "start": 641.08,
+      "end": 643.52,
+      "text": "Speaker 3: This is what happened with like Nickel a few years ago. Yeah,"
+    },
+    {
+      "start": 643.6,
+      "end": 646.28,
+      "text": "Speaker 3: where you had entities that were long nickel, it still"
+    },
+    {
+      "start": 646.28,
+      "end": 650.439,
+      "text": "Speaker 3: got destroyed by the margin calls that they experienced. Even"
+    },
+    {
+      "start": 650.48,
+      "end": 653.08,
+      "text": "Speaker 3: though they were on unlucky on some level, they were"
+    },
+    {
+      "start": 653.08,
+      "end": 654.56,
+      "text": "Speaker 3: on the right side, the right side."
+    },
+    {
+      "start": 654.64,
+      "end": 656.92,
+      "text": "Speaker 2: Yeah, this is a slight tangent. But you brought up"
+    },
+    {
+      "start": 656.92,
+      "end": 660.36,
+      "text": "Speaker 2: coffee just then. I think both of us read Blank"
+    },
+    {
+      "start": 660.4,
+      "end": 663.52,
+      "text": "Speaker 2: Finds book in preparation for having him on the podcast,"
+    },
+    {
+      "start": 663.72,
+      "end": 666.72,
+      "text": "Speaker 2: and he was talking how about how when he was"
+    },
+    {
+      "start": 666.72,
+      "end": 669.92,
+      "text": "Speaker 2: at Jay Aaron they had the huge warehouses of coffee beans,"
+    },
+    {
+      "start": 670.16,
+      "end": 673.72,
+      "text": "Speaker 2: and apparently they smelled really bad because they would like rot,"
+    },
+    {
+      "start": 674.0,
+      "end": 674.76,
+      "text": "Speaker 2: I guess, or like."
+    },
+    {
+      "start": 674.76,
+      "end": 677.6,
+      "text": "Speaker 3: There'd be yeah, what are you doing? Yeah?"
+    },
+    {
+      "start": 677.72,
+      "end": 680.12,
+      "text": "Speaker 2: Is that true? Do coffee beans actually smell bad in"
+    },
+    {
+      "start": 680.2,
+      "end": 680.76,
+      "text": "Speaker 2: large mouths?"
+    },
+    {
+      "start": 680.88,
+      "end": 683.04,
+      "text": "Speaker 4: I mean, I like the smell. I've walked through many"
+    },
+    {
+      "start": 683.24,
+      "end": 685.64,
+      "text": "Speaker 4: coffee warehouses. Yeah, there are a lot of them in"
+    },
+    {
+      "start": 685.84,
+      "end": 687.88,
+      "text": "Speaker 4: New Orleans. There are a lot of them in New Jersey."
+    },
+    {
+      "start": 688.64,
+      "end": 692.9590000000001,
+      "text": "Speaker 4: They're basically burlap bags full of green coffee, roasted good."
+    },
+    {
+      "start": 693.2,
+      "end": 695.52,
+      "text": "Speaker 4: All's pretty good. So I don't I'm not sure about"
+    },
+    {
+      "start": 695.52,
+      "end": 699.36,
+      "text": "Speaker 4: that story. But the good warehouses store them well. They"
+    },
+    {
+      "start": 699.36,
+      "end": 701.76,
+      "text": "Speaker 4: don't really degrade that quickly. You know, they have a"
+    },
+    {
+      "start": 701.76,
+      "end": 704.04,
+      "text": "Speaker 4: pretty good shelf life, and they can last for a"
+    },
+    {
+      "start": 704.08,
+      "end": 707.16,
+      "text": "Speaker 4: pretty long time before they start to decay. But you"
+    },
+    {
+      "start": 707.24,
+      "end": 709.32,
+      "text": "Speaker 4: have to keep moisture away. There are things you have"
+    },
+    {
+      "start": 709.36,
+      "end": 712.2,
+      "text": "Speaker 4: to do to secure the quality of them, and the"
+    },
+    {
+      "start": 712.24,
+      "end": 716.0,
+      "text": "Speaker 4: good warehouses are expert at handling those backs."
+    },
+    {
+      "start": 716.0,
+      "end": 718.76,
+      "text": "Speaker 2: Okay, so this is actually a serious question. Then when"
+    },
+    {
+      "start": 718.8,
+      "end": 722.56,
+      "text": "Speaker 2: you're doing dou dillens for a loan, what are the"
+    },
+    {
+      "start": 722.559,
+      "end": 724.6,
+      "text": "Speaker 2: factors that you're taking to account? Would you look at"
+    },
+    {
+      "start": 724.679,
+      "end": 727.36,
+      "text": "Speaker 2: something like the quality of the warehouse that commodities are"
+    },
+    {
+      "start": 727.36,
+      "end": 728.04,
+      "text": "Speaker 2: going to be stored in."
+    },
+    {
+      "start": 728.32,
+      "end": 733.52,
+      "text": "Speaker 4: Absolutely, you would look at You would have location eligibility requirements,"
+    },
+    {
+      "start": 733.6,
+      "end": 736.44,
+      "text": "Speaker 4: so you'd say I will lend against coffee that's in"
+    },
+    {
+      "start": 736.52,
+      "end": 739.72,
+      "text": "Speaker 4: this warehouse, this warehouse or this warehouse, but not coffee"
+    },
+    {
+      "start": 739.76,
+      "end": 742.72,
+      "text": "Speaker 4: that's in this warehouse for whatever reason. So that's a"
+    },
+    {
+      "start": 742.76,
+      "end": 746.08,
+      "text": "Speaker 4: big part of your diligence. That's one risk. The bigger"
+    },
+    {
+      "start": 746.16,
+      "end": 749.72,
+      "text": "Speaker 4: risks are really what we touched on price risk. Counter"
+    },
+    {
+      "start": 749.8,
+      "end": 753.72,
+      "text": "Speaker 4: Party risk is the second one, international risk, which I'm"
+    },
+    {
+      "start": 753.76,
+      "end": 757.04,
+      "text": "Speaker 4: sure we'll talk about. Where is the good that you're financing."
+    },
+    {
+      "start": 757.16,
+      "end": 761.84,
+      "text": "Speaker 4: Hopefully it's moving. Sometimes it may not be the yeah, exactly,"
+    },
+    {
+      "start": 761.88,
+      "end": 764.48,
+      "text": "Speaker 4: in some cases it may not be. And the biggest"
+    },
+    {
+      "start": 764.52,
+      "end": 767.88,
+      "text": "Speaker 4: one I think that Brown Brothers Harriman particularly focuses on"
+    },
+    {
+      "start": 768.16,
+      "end": 771.76,
+      "text": "Speaker 4: is the management the owners of the business. What are"
+    },
+    {
+      "start": 771.76,
+      "end": 776.32,
+      "text": "Speaker 4: their motivations, what's their reputation, what's their character. We have"
+    },
+    {
+      "start": 776.64,
+      "end": 778.88,
+      "text": "Speaker 4: something we call the five seeds of credit. It's kind"
+    },
+    {
+      "start": 778.92,
+      "end": 785.16,
+      "text": "Speaker 4: of an old adage, and those are character, collateral, capital conditions,"
+    },
+    {
+      "start": 785.24,
+      "end": 787.68,
+      "text": "Speaker 4: and the most important one, we think is character, a"
+    },
+    {
+      "start": 787.76,
+      "end": 791.08,
+      "text": "Speaker 4: character of the barrower, which really comes out when markets"
+    },
+    {
+      "start": 791.12,
+      "end": 794.12,
+      "text": "Speaker 4: get volatile, how people behave and these are you started"
+    },
+    {
+      "start": 794.16,
+      "end": 798.92,
+      "text": "Speaker 4: saying accurately. This is a super relationship focused business. Character"
+    },
+    {
+      "start": 799.08,
+      "end": 802.24,
+      "text": "Speaker 4: is really the most important thing in the business when"
+    },
+    {
+      "start": 802.28,
+      "end": 803.16,
+      "text": "Speaker 4: you boil it all down."
+    },
+    {
+      "start": 803.76,
+      "end": 807.24,
+      "text": "Speaker 3: So just to be clear here, when we're talking about, Okay,"
+    },
+    {
+      "start": 807.24,
+      "end": 810.92,
+      "text": "Speaker 3: a client comes and whatever they have, need for some"
+    },
+    {
+      "start": 811.0,
+      "end": 814.24,
+      "text": "Speaker 3: coffee or whatever. The other side is this coming off"
+    },
+    {
+      "start": 814.28,
+      "end": 817.12,
+      "text": "Speaker 3: of Brown Brothers Herman's balance sheet. Are you a middleman"
+    },
+    {
+      "start": 817.32,
+      "end": 819.32,
+      "text": "Speaker 3: for this or is it your own Bilan sheet or both."
+    },
+    {
+      "start": 819.84,
+      "end": 824.0,
+      "text": "Speaker 4: Historically this market was dominated by banks, Okay, sort of"
+    },
+    {
+      "start": 824.04,
+      "end": 828.88,
+      "text": "Speaker 4: a group of banks, particularly European banks that dominated. I"
+    },
+    {
+      "start": 828.88,
+      "end": 831.12,
+      "text": "Speaker 4: would say in the last ten years, many of those"
+    },
+    {
+      "start": 831.16,
+      "end": 833.439,
+      "text": "Speaker 4: banks have actually stepped away from the market for a"
+    },
+    {
+      "start": 833.52,
+      "end": 836.84,
+      "text": "Speaker 4: variety of reasons, and as a result, they're not that"
+    },
+    {
+      "start": 836.92,
+      "end": 839.64,
+      "text": "Speaker 4: many in the US who really specialize in this where"
+    },
+    {
+      "start": 839.64,
+      "end": 842.6,
+      "text": "Speaker 4: one of them, but there are plenty of European banks"
+    },
+    {
+      "start": 842.64,
+      "end": 846.2,
+      "text": "Speaker 4: that really understand this business. And what we've seen is"
+    },
+    {
+      "start": 846.36,
+      "end": 849.16,
+      "text": "Speaker 4: you're seeing more and more interest in this asset class"
+    },
+    {
+      "start": 849.2,
+      "end": 854.28,
+      "text": "Speaker 4: from institutional investors, so they like short term floating rates,"
+    },
+    {
+      "start": 854.96,
+      "end": 859.84,
+      "text": "Speaker 4: inflation protection, uncorrelated to the broader equity markets. There's some"
+    },
+    {
+      "start": 859.84,
+      "end": 863.2,
+      "text": "Speaker 4: really attractive features in this It's historically been a very"
+    },
+    {
+      "start": 863.2,
+      "end": 866.12,
+      "text": "Speaker 4: small group of banks, but it's starting to expand into"
+    },
+    {
+      "start": 866.16,
+      "end": 867.68,
+      "text": "Speaker 4: the institutional investor world."
+    },
+    {
+      "start": 867.72,
+      "end": 870.32,
+      "text": "Speaker 3: So are you selling that reselling that risk?"
+    },
+    {
+      "start": 870.36,
+      "end": 873.48,
+      "text": "Speaker 4: In many cases, we're typically holding the majority of it,"
+    },
+    {
+      "start": 873.88,
+      "end": 877.52,
+      "text": "Speaker 4: but we will syndicate risk out to other investors from"
+    },
+    {
+      "start": 877.56,
+      "end": 880.76,
+      "text": "Speaker 4: time to time as well, and we have some partners"
+    },
+    {
+      "start": 880.8,
+      "end": 883.64,
+      "text": "Speaker 4: that we work with. We have different banks that will"
+    },
+    {
+      "start": 883.72,
+      "end": 887.72,
+      "text": "Speaker 4: essentially buy risk from Brown Brothers, but we're always holding"
+    },
+    {
+      "start": 888.08,
+      "end": 891.0,
+      "text": "Speaker 4: a significant portion of the risk on our balance youet."
+    },
+    {
+      "start": 906.64,
+      "end": 909.4,
+      "text": "Speaker 2: How come the banks have exited the business. Is that"
+    },
+    {
+      "start": 909.48,
+      "end": 912.64,
+      "text": "Speaker 2: just like a two thousand and eight regulatory capital story or."
+    },
+    {
+      "start": 912.68,
+      "end": 915.88,
+      "text": "Speaker 4: Something definitely a Basil story to some extent. I think"
+    },
+    {
+      "start": 916.04,
+      "end": 918.72,
+      "text": "Speaker 4: as Basil four has kind of taken hold, you see"
+    },
+    {
+      "start": 918.72,
+      "end": 922.48,
+      "text": "Speaker 4: more and more capital requirements that make it harder to"
+    },
+    {
+      "start": 922.64,
+      "end": 925.08,
+      "text": "Speaker 4: issue letters of credit and things like that. So that's"
+    },
+    {
+      "start": 925.12,
+      "end": 927.72,
+      "text": "Speaker 4: definitely part of it. I think another big part of"
+    },
+    {
+      "start": 927.76,
+      "end": 931.36,
+      "text": "Speaker 4: it is just the administrative intensity of running this business."
+    },
+    {
+      "start": 931.44,
+      "end": 934.72,
+      "text": "Speaker 4: If you think about tracking all this collateral as it's"
+    },
+    {
+      "start": 934.72,
+      "end": 937.4,
+      "text": "Speaker 4: moving around the world, you need people."
+    },
+    {
+      "start": 937.72,
+      "end": 937.88,
+      "text": "Speaker 2: Now."
+    },
+    {
+      "start": 937.92,
+      "end": 941.16,
+      "text": "Speaker 4: Over time, digitization is going to take hold here, but"
+    },
+    {
+      "start": 941.92,
+      "end": 943.68,
+      "text": "Speaker 4: you still need to know how you need people, and"
+    },
+    {
+      "start": 943.72,
+      "end": 947.12,
+      "text": "Speaker 4: it's not easy to kind of run this business every"
+    },
+    {
+      "start": 947.2,
+      "end": 950.0,
+      "text": "Speaker 4: day if you don't have the right people. We're fortunate"
+    },
+    {
+      "start": 950.04,
+      "end": 953.28,
+      "text": "Speaker 4: to have a very experienced team that knows how to"
+    },
+    {
+      "start": 953.32,
+      "end": 956.24,
+      "text": "Speaker 4: do this. We started two hundred and six years ago"
+    },
+    {
+      "start": 956.64,
+      "end": 959.4,
+      "text": "Speaker 4: in this business, so we've literally been doing it for"
+    },
+    {
+      "start": 959.52,
+      "end": 963.16,
+      "text": "Speaker 4: over two two centuries, and that's a big part I"
+    },
+    {
+      "start": 963.2,
+      "end": 965.24,
+      "text": "Speaker 4: think of why we've stayed committed. It's kind of the"
+    },
+    {
+      "start": 965.32,
+      "end": 969.28,
+      "text": "Speaker 4: dna our of our firm. I think. You know, over"
+    },
+    {
+      "start": 969.4,
+      "end": 973.36,
+      "text": "Speaker 4: time you're seeing some banks coming back into it, but"
+    },
+    {
+      "start": 973.48,
+      "end": 977.44,
+      "text": "Speaker 4: you also saw in the energy space in particular, first"
+    },
+    {
+      "start": 977.44,
+      "end": 981.4,
+      "text": "Speaker 4: of all, big problems in twenty fifteen during the correction,"
+    },
+    {
+      "start": 982.04,
+      "end": 985.44,
+      "text": "Speaker 4: banks lost some money, and then you had ESG pressures,"
+    },
+    {
+      "start": 985.56,
+      "end": 989.08,
+      "text": "Speaker 4: particularly around European banks, that caused some to say, you know,"
+    },
+    {
+      "start": 989.32,
+      "end": 991.04,
+      "text": "Speaker 4: I don't really want to be in the business of"
+    },
+    {
+      "start": 991.08,
+      "end": 994.12,
+      "text": "Speaker 4: financing this commodity or that commodity. I'm going to shift"
+    },
+    {
+      "start": 994.16,
+      "end": 998.6,
+      "text": "Speaker 4: my resources more to the renewable sector, for example. So"
+    },
+    {
+      "start": 998.6,
+      "end": 1000.84,
+      "text": "Speaker 4: those are you know, all the factors that I think"
+    },
+    {
+      "start": 1000.88,
+      "end": 1003.76,
+      "text": "Speaker 4: have contributed to it. But there is a group of"
+    },
+    {
+      "start": 1003.8,
+      "end": 1007.2,
+      "text": "Speaker 4: banks globally that has stayed committed to this business through"
+    },
+    {
+      "start": 1007.28,
+      "end": 1009.2,
+      "text": "Speaker 4: kind of thick and thin and knows how to do"
+    },
+    {
+      "start": 1009.28,
+      "end": 1013.36,
+      "text": "Speaker 4: it has produced good returns, very low losses over time."
+    },
+    {
+      "start": 1013.96,
+      "end": 1017.8,
+      "text": "Speaker 2: You know you mentioned tracking commodities and shipments. How do"
+    },
+    {
+      "start": 1017.84,
+      "end": 1020.64,
+      "text": "Speaker 2: you do that exactly? And is it different to what"
+    },
+    {
+      "start": 1020.84,
+      "end": 1021.4,
+      "text": "Speaker 2: I can do?"
+    },
+    {
+      "start": 1022.04,
+      "end": 1022.48,
+      "text": "Speaker 3: Maps go?"
+    },
+    {
+      "start": 1022.72,
+      "end": 1025.28,
+      "text": "Speaker 2: Yeah, maps go is pretty cool. I was looking up"
+    },
+    {
+      "start": 1025.28,
+      "end": 1029.64,
+      "text": "Speaker 2: something the other day. It was a cargo of fertilizer"
+    },
+    {
+      "start": 1030.119,
+      "end": 1032.52,
+      "text": "Speaker 2: leaving Saudi Arabia. It was pretty easy to see like"
+    },
+    {
+      "start": 1032.56,
+      "end": 1034.76,
+      "text": "Speaker 2: where the ship had left from and where it was"
+    },
+    {
+      "start": 1034.8,
+      "end": 1037.159,
+      "text": "Speaker 2: going and whether it was on time. So what exactly"
+    },
+    {
+      "start": 1037.24,
+      "end": 1037.76,
+      "text": "Speaker 2: are you doing?"
+    },
+    {
+      "start": 1038.4,
+      "end": 1041.879,
+      "text": "Speaker 4: So? You know, the bill of lading is like I"
+    },
+    {
+      "start": 1041.96,
+      "end": 1045.4,
+      "text": "Speaker 4: call it the talisman of trade finance. It's this really"
+    },
+    {
+      "start": 1045.44,
+      "end": 1048.96,
+      "text": "Speaker 4: cool document. It's a title document when it's negotiable, so"
+    },
+    {
+      "start": 1049.52,
+      "end": 1053.0,
+      "text": "Speaker 4: there are four words to the order of that. When"
+    },
+    {
+      "start": 1053.04,
+      "end": 1055.119,
+      "text": "Speaker 4: those four words are printed on a bill of lading,"
+    },
+    {
+      "start": 1055.68,
+      "end": 1059.24,
+      "text": "Speaker 4: that means that whoever to the order of the word"
+    },
+    {
+      "start": 1059.32,
+      "end": 1063.04,
+      "text": "Speaker 4: after that they essentially control those goods. Those bills of"
+    },
+    {
+      "start": 1063.119,
+      "end": 1066.32,
+      "text": "Speaker 4: lating have numbers, and you can type those numbers into"
+    },
+    {
+      "start": 1066.52,
+      "end": 1070.679,
+      "text": "Speaker 4: For example, Bloomberg Terminal has the Marine Tracker app. We"
+    },
+    {
+      "start": 1070.76,
+      "end": 1074.52,
+      "text": "Speaker 4: look at that, so we're using public source data to"
+    },
+    {
+      "start": 1074.6,
+      "end": 1078.6,
+      "text": "Speaker 4: really track that collateral when it's necessary. You typically don't"
+    },
+    {
+      "start": 1078.68,
+      "end": 1082.399,
+      "text": "Speaker 4: need to do that it's something's going wrong because ships"
+    },
+    {
+      "start": 1082.44,
+      "end": 1084.32,
+      "text": "Speaker 4: tend to go where you think they're going to go."
+    },
+    {
+      "start": 1084.92,
+      "end": 1088.399,
+      "text": "Speaker 4: But that is a tool with technology that makes it"
+    },
+    {
+      "start": 1088.48,
+      "end": 1091.48,
+      "text": "Speaker 4: much easier to actually track your collateral wallets on the water."
+    },
+    {
+      "start": 1092.28,
+      "end": 1094.879,
+      "text": "Speaker 4: Once it goes into a warehouse, you typically get a"
+    },
+    {
+      "start": 1094.92,
+      "end": 1098.6,
+      "text": "Speaker 4: warehouse receipt, which also can be a title document, very"
+    },
+    {
+      "start": 1098.64,
+      "end": 1102.56,
+      "text": "Speaker 4: important if it has those four important words, and in"
+    },
+    {
+      "start": 1102.6,
+      "end": 1105.92,
+      "text": "Speaker 4: that case you're often talking to the warehouse directly, so"
+    },
+    {
+      "start": 1106.16,
+      "end": 1109.879,
+      "text": "Speaker 4: you may say, I'm the client, may say I'd like"
+    },
+    {
+      "start": 1109.96,
+      "end": 1113.08,
+      "text": "Speaker 4: to release these five bags of coffee or one cappuccino"
+    },
+    {
+      "start": 1113.64,
+      "end": 1117.159,
+      "text": "Speaker 4: to sell to you this roaster. Is that okay? And"
+    },
+    {
+      "start": 1117.24,
+      "end": 1120.56,
+      "text": "Speaker 4: our team is actually saying yes, please, release those, but"
+    },
+    {
+      "start": 1121.119,
+      "end": 1123.919,
+      "text": "Speaker 4: that's on trust what we call a trust receipt, and"
+    },
+    {
+      "start": 1124.0,
+      "end": 1126.32,
+      "text": "Speaker 4: then they have to give us an account receivable to"
+    },
+    {
+      "start": 1126.4,
+      "end": 1128.84,
+      "text": "Speaker 4: replace that within a certain number of days."
+    },
+    {
+      "start": 1129.119,
+      "end": 1132.76,
+      "text": "Speaker 3: Interesting, okay. So obviously in the backdrop of this conversation"
+    },
+    {
+      "start": 1133.48,
+      "end": 1135.68,
+      "text": "Speaker 3: is the closure of the straight andform moves, and we'll"
+    },
+    {
+      "start": 1135.68,
+      "end": 1138.04,
+      "text": "Speaker 3: get to that in a second. But it does raise"
+    },
+    {
+      "start": 1138.16,
+      "end": 1141.04,
+      "text": "Speaker 3: a question was sort of hinted in the beginning. We"
+    },
+    {
+      "start": 1141.119,
+      "end": 1143.96,
+      "text": "Speaker 3: all know that oil flows through the strait of horror moves,"
+    },
+    {
+      "start": 1144.0,
+      "end": 1146.679,
+      "text": "Speaker 3: and there's a futures market for it that allows some"
+    },
+    {
+      "start": 1147.2,
+      "end": 1151.84,
+      "text": "Speaker 3: ability to reduce volatility or take out concerns. Pistascios also"
+    },
+    {
+      "start": 1152.0,
+      "end": 1153.76,
+      "text": "Speaker 3: flow through the strait of horm moves. There's no as"
+    },
+    {
+      "start": 1153.92,
+      "end": 1155.919,
+      "text": "Speaker 3: far as I can tell, there's no pistacio futures. I"
+    },
+    {
+      "start": 1155.96,
+      "end": 1158.04,
+      "text": "Speaker 3: just looked it up on the terminal, and I'm curious,"
+    },
+    {
+      "start": 1158.08,
+      "end": 1161.6,
+      "text": "Speaker 3: do you First of all, a do you do commodity"
+    },
+    {
+      "start": 1161.68,
+      "end": 1165.32,
+      "text": "Speaker 3: finance for commodities that don't have hedging instruments."
+    },
+    {
+      "start": 1165.68,
+      "end": 1168.239,
+      "text": "Speaker 4: So one of my colleagues, this may shock you, is"
+    },
+    {
+      "start": 1168.28,
+      "end": 1171.8,
+      "text": "Speaker 4: on the board of the Peanut Tree Nut Association, and."
+    },
+    {
+      "start": 1171.84,
+      "end": 1174.16,
+      "text": "Speaker 2: So it's actually called the Peanuts Nut."
+    },
+    {
+      "start": 1174.08,
+      "end": 1177.4,
+      "text": "Speaker 4: Tree Nut Association. It's a big trade organization and we"
+    },
+    {
+      "start": 1177.44,
+      "end": 1178.36,
+      "text": "Speaker 4: happen to fine."
+    },
+    {
+      "start": 1178.68,
+      "end": 1180.6,
+      "text": "Speaker 3: Tree nuts hence the name has to be."
+    },
+    {
+      "start": 1180.48,
+      "end": 1185.24,
+      "text": "Speaker 4: Segregated peanuts and insurant title. It's very very important, very specific."
+    },
+    {
+      "start": 1185.84,
+      "end": 1188.52,
+      "text": "Speaker 4: So we we actually are active in lots of non"
+    },
+    {
+      "start": 1188.64,
+      "end": 1192.6,
+      "text": "Speaker 4: hedgeable commodities like cashews is a good example, pine nuts,"
+    },
+    {
+      "start": 1193.48,
+      "end": 1197.96,
+      "text": "Speaker 4: pistachios less so, but all kinds of non hedgeable commodities"
+    },
+    {
+      "start": 1197.96,
+      "end": 1199.8,
+      "text": "Speaker 4: that would probably surprise you."
+    },
+    {
+      "start": 1200.2,
+      "end": 1204.44,
+      "text": "Speaker 3: How does that change the calculus of commodity finance when"
+    },
+    {
+      "start": 1204.52,
+      "end": 1206.32,
+      "text": "Speaker 3: that instrument doesn't exist."
+    },
+    {
+      "start": 1206.92,
+      "end": 1211.0,
+      "text": "Speaker 4: Yeah, So thinking about what's happening in the street. First"
+    },
+    {
+      "start": 1211.0,
+      "end": 1213.44,
+      "text": "Speaker 4: of all, we're not the largest player in the Middle East,"
+    },
+    {
+      "start": 1213.48,
+      "end": 1215.96,
+      "text": "Speaker 4: I think more of the European banks, but certainly we"
+    },
+    {
+      "start": 1215.96,
+      "end": 1219.399,
+      "text": "Speaker 4: were watching it closely, and I think what the media"
+    },
+    {
+      "start": 1219.52,
+      "end": 1222.48,
+      "text": "Speaker 4: is really focused on is kind of the oil side"
+    },
+    {
+      "start": 1222.48,
+      "end": 1225.639,
+      "text": "Speaker 4: of the story. So you keep hearing twenty percent of"
+    },
+    {
+      "start": 1225.64,
+      "end": 1229.92,
+      "text": "Speaker 4: global oil is trapped, the largest disruption in the history"
+    },
+    {
+      "start": 1229.96,
+      "end": 1232.96,
+      "text": "Speaker 4: of the oil market. Those are all true. You see"
+    },
+    {
+      "start": 1233.16,
+      "end": 1235.8,
+      "text": "Speaker 4: lots of activity in the price, although it's mostly in"
+    },
+    {
+      "start": 1235.84,
+      "end": 1237.72,
+      "text": "Speaker 4: the front month, the front of the curve, not in"
+    },
+    {
+      "start": 1237.72,
+      "end": 1241.199,
+      "text": "Speaker 4: the back of the curve. What I think we're interested in,"
+    },
+    {
+      "start": 1241.28,
+      "end": 1243.84,
+      "text": "Speaker 4: actually in the lens of a commodity banker versus the"
+    },
+    {
+      "start": 1243.92,
+      "end": 1247.159,
+      "text": "Speaker 4: lens of sort of an oil research analyst, is how"
+    },
+    {
+      "start": 1247.24,
+      "end": 1251.84,
+      "text": "Speaker 4: much capital is actually trapped right, because our business relies"
+    },
+    {
+      "start": 1251.88,
+      "end": 1254.76,
+      "text": "Speaker 4: on turning over your balance sheet, the commodity merchant and"
+    },
+    {
+      "start": 1254.76,
+      "end": 1259.439,
+      "text": "Speaker 4: the commodity banker. The fundamental principle is that self liquidating nature."
+    },
+    {
+      "start": 1259.48,
+      "end": 1261.52,
+      "text": "Speaker 4: So you buy, you sell it, you collect, and then"
+    },
+    {
+      "start": 1261.56,
+      "end": 1262.16,
+      "text": "Speaker 4: you do it again."
+    },
+    {
+      "start": 1262.24,
+      "end": 1263.52,
+      "text": "Speaker 2: It's velocity of money."
+    },
+    {
+      "start": 1263.56,
+      "end": 1267.68,
+      "text": "Speaker 4: It's the velocity of the turnover. And right now there"
+    },
+    {
+      "start": 1267.76,
+      "end": 1270.399,
+      "text": "Speaker 4: is a lot of capital that's stuck in the strait"
+    },
+    {
+      "start": 1270.56,
+      "end": 1273.56,
+      "text": "Speaker 4: and it you know, I see lots of different reports."
+    },
+    {
+      "start": 1274.2,
+      "end": 1277.399,
+      "text": "Speaker 4: Is it something like fifteen hundred commercial vessels some number"
+    },
+    {
+      "start": 1277.52,
+      "end": 1280.0,
+      "text": "Speaker 4: like that. I think that's what the Pentagon said recently."
+    },
+    {
+      "start": 1280.8,
+      "end": 1283.639,
+      "text": "Speaker 4: That's a lot of working capital. So you know, doing"
+    },
+    {
+      "start": 1283.68,
+      "end": 1286.76,
+      "text": "Speaker 4: some rough math, that's tens of billions of dollars. Maybe"
+    },
+    {
+      "start": 1286.8,
+      "end": 1289.52,
+      "text": "Speaker 4: it's more than one hundred billion, but it's a massive number."
+    },
+    {
+      "start": 1290.32,
+      "end": 1294.32,
+      "text": "Speaker 4: And when all that gets trapped and you have potentially"
+    },
+    {
+      "start": 1294.359,
+      "end": 1299.48,
+      "text": "Speaker 4: margin calls related to hedges on those inventories, that can"
+    },
+    {
+      "start": 1299.52,
+      "end": 1302.24,
+      "text": "Speaker 4: really strain your liquidity if you don't have the right"
+    },
+    {
+      "start": 1302.32,
+      "end": 1306.72,
+      "text": "Speaker 4: financing structure behind you. And that's why in these situations"
+    },
+    {
+      "start": 1306.76,
+      "end": 1310.479,
+      "text": "Speaker 4: you need a bank that understands your business. So if"
+    },
+    {
+      "start": 1310.52,
+      "end": 1313.119,
+      "text": "Speaker 4: you were going to load an afromax, which is like"
+    },
+    {
+      "start": 1313.48,
+      "end": 1316.879,
+      "text": "Speaker 4: typically seven hundred thousand barrels of oil, that's the capacity"
+    },
+    {
+      "start": 1316.92,
+      "end": 1322.32,
+      "text": "Speaker 4: of an Afromax vessel. For February twenty eighth, the cost"
+    },
+    {
+      "start": 1322.359,
+      "end": 1325.52,
+      "text": "Speaker 4: of that might be forty million, forty five million dollars."
+    },
+    {
+      "start": 1325.96,
+      "end": 1329.92,
+      "text": "Speaker 4: Today it's more like seventy seventy five million dollars. And"
+    },
+    {
+      "start": 1329.96,
+      "end": 1333.96,
+      "text": "Speaker 4: so overnight the cost of your single shipment went up"
+    },
+    {
+      "start": 1334.2,
+      "end": 1337.64,
+      "text": "Speaker 4: a significant amount. And how do you finance that? Back"
+    },
+    {
+      "start": 1337.68,
+      "end": 1340.0,
+      "text": "Speaker 4: to the earlier point, you need a bank that can"
+    },
+    {
+      "start": 1340.4,
+      "end": 1343.04,
+      "text": "Speaker 4: be flexible enough to write a line of credit that"
+    },
+    {
+      "start": 1343.119,
+      "end": 1348.359,
+      "text": "Speaker 4: allows you to do financing under a certain guideline."
+    },
+    {
+      "start": 1348.48,
+      "end": 1351.12,
+      "text": "Speaker 2: So how are the banks actually handling this at the moment,"
+    },
+    {
+      "start": 1351.16,
+      "end": 1353.6,
+      "text": "Speaker 2: Because on the one hand, like, okay, the cost of"
+    },
+    {
+      "start": 1353.64,
+      "end": 1357.08,
+      "text": "Speaker 2: actually shipping stuff has gone up. On the other hand,"
+    },
+    {
+      "start": 1357.08,
+      "end": 1360.04,
+      "text": "Speaker 2: the value of the underlying collateral, you know, assuming it's"
+    },
+    {
+      "start": 1360.08,
+      "end": 1362.56,
+      "text": "Speaker 2: oil or maybe steel or something like that, has also"
+    },
+    {
+      "start": 1362.64,
+      "end": 1365.48,
+      "text": "Speaker 2: gone up. But on the other hand, as you point out,"
+    },
+    {
+      "start": 1366.32,
+      "end": 1369.52,
+      "text": "Speaker 2: balance sheets are probably a little more restricted if you"
+    },
+    {
+      "start": 1369.6,
+      "end": 1372.8,
+      "text": "Speaker 2: have these huge sums that are already tied up because"
+    },
+    {
+      "start": 1372.84,
+      "end": 1374.04,
+      "text": "Speaker 2: the ships aren't actually moving."
+    },
+    {
+      "start": 1374.32,
+      "end": 1377.6,
+      "text": "Speaker 4: Yeah. So I think going back to COVID and then"
+    },
+    {
+      "start": 1377.68,
+      "end": 1381.6,
+      "text": "Speaker 4: Russia Ukraine. First you had this huge supply chain disruption."
+    },
+    {
+      "start": 1381.88,
+      "end": 1385.359,
+      "text": "Speaker 4: We all remember images of container ships off the coast"
+    },
+    {
+      "start": 1385.359,
+      "end": 1388.879,
+      "text": "Speaker 4: of Long Beach. Two years later we had the Russian"
+    },
+    {
+      "start": 1388.92,
+      "end": 1392.28,
+      "text": "Speaker 4: invasion of Ukraine and this huge disruption in natural gas"
+    },
+    {
+      "start": 1392.359,
+      "end": 1396.04,
+      "text": "Speaker 4: flows from Russia to Europe. People didn't forget about those things,"
+    },
+    {
+      "start": 1396.04,
+      "end": 1399.639,
+      "text": "Speaker 4: so companies went out and raised more capital so that"
+    },
+    {
+      "start": 1399.72,
+      "end": 1402.16,
+      "text": "Speaker 4: they were ready for the next exogenous event."
+    },
+    {
+      "start": 1402.28,
+      "end": 1405.24,
+      "text": "Speaker 3: So I think when you think companies, commoudit."
+    },
+    {
+      "start": 1404.84,
+      "end": 1409.96,
+      "text": "Speaker 4: Emerchants, commodity merchants in this case, YEAP commodity merchants specifically"
+    },
+    {
+      "start": 1410.0,
+      "end": 1412.44,
+      "text": "Speaker 4: went out as a result of the volatility in those"
+    },
+    {
+      "start": 1412.44,
+      "end": 1415.919,
+      "text": "Speaker 4: two events, raised more capital, So they're coming into this"
+    },
+    {
+      "start": 1416.0,
+      "end": 1419.76,
+      "text": "Speaker 4: crisis well funded, and so so far things are working okay."
+    },
+    {
+      "start": 1419.76,
+      "end": 1423.32,
+      "text": "Speaker 4: Actually there's not evidence that things are breaking. If this"
+    },
+    {
+      "start": 1423.48,
+      "end": 1426.48,
+      "text": "Speaker 4: lasts for months and months and months, you know, who"
+    },
+    {
+      "start": 1426.56,
+      "end": 1429.84,
+      "text": "Speaker 4: knows where it goes. But right now the system is"
+    },
+    {
+      "start": 1429.92,
+      "end": 1434.56,
+      "text": "Speaker 4: functioning well. Actually, the banks are supportive, the commodity merchants"
+    },
+    {
+      "start": 1434.6,
+      "end": 1438.2,
+      "text": "Speaker 4: are dealing with the liquidity needs. They have enough liquidity."
+    },
+    {
+      "start": 1438.28,
+      "end": 1442.08,
+      "text": "Speaker 4: We haven't heard of any major issues yet. But it's"
+    },
+    {
+      "start": 1442.119,
+      "end": 1445.72,
+      "text": "Speaker 4: a matter of time, and if the strait doesn't open"
+    },
+    {
+      "start": 1446.2,
+      "end": 1449.199,
+      "text": "Speaker 4: sooner than later, then I think you could see, you know,"
+    },
+    {
+      "start": 1449.4,
+      "end": 1452.96,
+      "text": "Speaker 4: big strains because there's so much trap capital there."
+    },
+    {
+      "start": 1453.72,
+      "end": 1459.04,
+      "text": "Speaker 2: What actually happens mechanically if I've financed a particular shipment"
+    },
+    {
+      "start": 1459.119,
+      "end": 1462.28,
+      "text": "Speaker 2: and it is now hypothetically stuck in the strait of"
+    },
+    {
+      "start": 1462.28,
+      "end": 1465.48,
+      "text": "Speaker 2: horror moves like what conditions start to kick in?"
+    },
+    {
+      "start": 1466.64,
+      "end": 1469.879,
+      "text": "Speaker 4: Yeah, so I think putting if you're channeling your inner"
+    },
+    {
+      "start": 1469.96,
+      "end": 1473.8,
+      "text": "Speaker 4: commodity banker, the first thing you're looking at is is"
+    },
+    {
+      "start": 1473.84,
+      "end": 1477.2,
+      "text": "Speaker 4: my collateral? Okay? Right, So, if it's a shipment of oil,"
+    },
+    {
+      "start": 1478.4,
+      "end": 1483.0,
+      "text": "Speaker 4: is you know, the crew okay, is the ship in"
+    },
+    {
+      "start": 1483.04,
+      "end": 1485.76,
+      "text": "Speaker 4: the right place? Is it going to be at risk of,"
+    },
+    {
+      "start": 1486.04,
+      "end": 1488.48,
+      "text": "Speaker 4: you know, being in a war zone and having impairment."
+    },
+    {
+      "start": 1489.16,
+      "end": 1491.04,
+      "text": "Speaker 4: Once you sort of get over that, you're looking at"
+    },
+    {
+      "start": 1491.04,
+      "end": 1494.52,
+      "text": "Speaker 4: the insurance, making sure the insurance coverage is there. You're"
+    },
+    {
+      "start": 1494.56,
+      "end": 1498.52,
+      "text": "Speaker 4: looking at what does the charter contract say between the"
+    },
+    {
+      "start": 1498.56,
+      "end": 1501.8,
+      "text": "Speaker 4: merchant and the ship operator, And that's going to govern"
+    },
+    {
+      "start": 1501.92,
+      "end": 1506.24,
+      "text": "Speaker 4: sort of who pays for this detention. Voyage frustration, they"
+    },
+    {
+      "start": 1506.24,
+      "end": 1508.72,
+      "text": "Speaker 4: are different terms, but all those are going to be."
+    },
+    {
+      "start": 1509.2,
+      "end": 1511.08,
+      "text": "Speaker 2: Voyage frustration an actual term."
+    },
+    {
+      "start": 1511.119,
+      "end": 1516.0,
+      "text": "Speaker 4: Yes, frustration of voyage yess. And so this is you know,"
+    },
+    {
+      "start": 1516.08,
+      "end": 1520.2,
+      "text": "Speaker 4: to merriage is a common term. That's when the merchant"
+    },
+    {
+      "start": 1520.28,
+      "end": 1523.24,
+      "text": "Speaker 4: is slow to load a vessel or slow to discharge"
+    },
+    {
+      "start": 1523.28,
+      "end": 1526.08,
+      "text": "Speaker 4: a vessel. This is something a little different because this"
+    },
+    {
+      "start": 1526.24,
+      "end": 1530.0,
+      "text": "Speaker 4: is essentially a war zone. The ships can't leave, and"
+    },
+    {
+      "start": 1530.04,
+      "end": 1533.8,
+      "text": "Speaker 4: so it has happened historically, but it hasn't happened in"
+    },
+    {
+      "start": 1533.8,
+      "end": 1536.0,
+      "text": "Speaker 4: a long time, and I know everyone is sort of"
+    },
+    {
+      "start": 1536.04,
+      "end": 1539.28,
+      "text": "Speaker 4: looking at the contract, figuring out what the losses and"
+    },
+    {
+      "start": 1539.359,
+      "end": 1542.399,
+      "text": "Speaker 4: costs are, and then figuring out who's responsible for what."
+    },
+    {
+      "start": 1542.96,
+      "end": 1547.28,
+      "text": "Speaker 4: It's not a single answer, it's case by case. But"
+    },
+    {
+      "start": 1547.4,
+      "end": 1549.64,
+      "text": "Speaker 4: first you're looking at the collateral. Then you're looking at"
+    },
+    {
+      "start": 1550.0,
+      "end": 1553.52,
+      "text": "Speaker 4: does my client have enough capital to withstand this? How"
+    },
+    {
+      "start": 1553.52,
+      "end": 1558.84,
+      "text": "Speaker 4: many months days, you know, hopefully years? Could they withstand"
+    },
+    {
+      "start": 1558.92,
+      "end": 1559.96,
+      "text": "Speaker 4: if this actually never own?"
+    },
+    {
+      "start": 1576.16,
+      "end": 1578.52,
+      "text": "Speaker 3: Do you do, like, you know, what would be the"
+    },
+    {
+      "start": 1578.56,
+      "end": 1582.56,
+      "text": "Speaker 3: equivalent of workouts with clients? I mean, you know, here"
+    },
+    {
+      "start": 1582.68,
+      "end": 1585.64,
+      "text": "Speaker 3: is a clearly something that's not their fault, it's an"
+    },
+    {
+      "start": 1585.64,
+      "end": 1589.199,
+      "text": "Speaker 3: exaugnous shock, and so forth, you probably would like to"
+    },
+    {
+      "start": 1589.24,
+      "end": 1591.48,
+      "text": "Speaker 3: have that client be with you five years from now"
+    },
+    {
+      "start": 1591.52,
+      "end": 1595.239,
+      "text": "Speaker 3: when hopefully hopefully the straits opened in five years and"
+    },
+    {
+      "start": 1595.28,
+      "end": 1597.84,
+      "text": "Speaker 3: so forth, and so do you have like okay, like,"
+    },
+    {
+      "start": 1598.359,
+      "end": 1601.36,
+      "text": "Speaker 3: here's money some os, but this would be really stupid"
+    },
+    {
+      "start": 1601.48,
+      "end": 1604.28,
+      "text": "Speaker 3: to put the screws to you now to collect that."
+    },
+    {
+      "start": 1604.56,
+      "end": 1606.399,
+      "text": "Speaker 3: Maybe they have the capitol and could make the payment,"
+    },
+    {
+      "start": 1606.56,
+      "end": 1608.64,
+      "text": "Speaker 3: but it would be very unwise in the long term"
+    },
+    {
+      "start": 1608.68,
+      "end": 1610.68,
+      "text": "Speaker 3: to put the screws to the client to get that"
+    },
+    {
+      "start": 1610.8,
+      "end": 1613.88,
+      "text": "Speaker 3: payment back, given that life is long and so forth."
+    },
+    {
+      "start": 1613.96,
+      "end": 1616.76,
+      "text": "Speaker 4: Yah, we operate under the principle that you don't put"
+    },
+    {
+      "start": 1616.76,
+      "end": 1621.24,
+      "text": "Speaker 4: all your eggs in one basket. So supplier diversification is"
+    },
+    {
+      "start": 1621.28,
+      "end": 1625.119,
+      "text": "Speaker 4: a really important part of commodity risk underwriting, and that"
+    },
+    {
+      "start": 1625.32,
+      "end": 1627.719,
+      "text": "Speaker 4: means if a client has one hundred percent of their"
+    },
+    {
+      "start": 1627.72,
+      "end": 1630.8,
+      "text": "Speaker 4: supply coming from one region, you might get a little"
+    },
+    {
+      "start": 1630.84,
+      "end": 1633.44,
+      "text": "Speaker 4: anxious about that credit and say, maybe not for us."
+    },
+    {
+      "start": 1634.04,
+      "end": 1638.32,
+      "text": "Speaker 4: So typically there's enough diversification that a single ship or"
+    },
+    {
+      "start": 1638.68,
+      "end": 1642.2,
+      "text": "Speaker 4: series of ships that are stuck in one place doesn't"
+    },
+    {
+      "start": 1642.76,
+      "end": 1646.6,
+      "text": "Speaker 4: cause the company to kind of seize up. You know,"
+    },
+    {
+      "start": 1647.24,
+      "end": 1649.68,
+      "text": "Speaker 4: there may be some of that out there, but we're"
+    },
+    {
+      "start": 1649.72,
+      "end": 1651.48,
+      "text": "Speaker 4: not seeing that all right with our clients."
+    },
+    {
+      "start": 1651.64,
+      "end": 1653.4,
+      "text": "Speaker 3: I'm sorry, I want to just go back to something"
+    },
+    {
+      "start": 1653.4,
+      "end": 1656.639,
+      "text": "Speaker 3: because I didn't understand. So you mentioned your colleague who's"
+    },
+    {
+      "start": 1656.64,
+      "end": 1660.16,
+      "text": "Speaker 3: on the Peanut tree Nut Association. Yes, yes, what how"
+    },
+    {
+      "start": 1660.4,
+      "end": 1664.16,
+      "text": "Speaker 3: like from from the perspective of Brown Brothers hereman, how"
+    },
+    {
+      "start": 1664.24,
+      "end": 1668.28,
+      "text": "Speaker 3: does like how does commodity banking or finance work differently"
+    },
+    {
+      "start": 1668.84,
+      "end": 1672.48,
+      "text": "Speaker 3: for some of these more niche commodities where the client"
+    },
+    {
+      "start": 1672.84,
+      "end": 1675.8,
+      "text": "Speaker 3: does not have the ability to go short to contrast"
+    },
+    {
+      "start": 1675.8,
+      "end": 1676.68,
+      "text": "Speaker 3: the physical."
+    },
+    {
+      "start": 1676.6,
+      "end": 1680.52,
+      "text": "Speaker 4: Yes, so you're you're always in non hudgeable commout. You're"
+    },
+    {
+      "start": 1680.56,
+      "end": 1686.12,
+      "text": "Speaker 4: also measuring price risk, typically in something like Cashew's as"
+    },
+    {
+      "start": 1686.119,
+      "end": 1690.28,
+      "text": "Speaker 4: an example, they typically they CASHU supply chain is super"
+    },
+    {
+      "start": 1690.32,
+      "end": 1693.919,
+      "text": "Speaker 4: interesting by the way it starts typically in West Africa."
+    },
+    {
+      "start": 1694.08,
+      "end": 1697.24,
+      "text": "Speaker 4: It comes in something called raw seed. It then gets"
+    },
+    {
+      "start": 1697.28,
+      "end": 1702.199,
+      "text": "Speaker 4: shipped to Southeast Asia, Vietnam, India, and they extract this"
+    },
+    {
+      "start": 1702.359,
+      "end": 1705.44,
+      "text": "Speaker 4: kernel and the kernel is what you eat, and there's"
+    },
+    {
+      "start": 1705.48,
+      "end": 1708.959,
+      "text": "Speaker 4: actually toxic liquid in between the shell and the kernel."
+    },
+    {
+      "start": 1709.16,
+      "end": 1711.64,
+      "text": "Speaker 4: Long story, but it's sort of a fun supply chain,"
+    },
+    {
+      "start": 1711.68,
+      "end": 1715.12,
+      "text": "Speaker 4: and then it gets exported in edible form, typically from"
+    },
+    {
+      "start": 1715.119,
+      "end": 1718.6,
+      "text": "Speaker 4: places like Vietnam, and so it's a very long supply chain."
+    },
+    {
+      "start": 1718.64,
+      "end": 1721.32,
+      "text": "Speaker 4: And typically what you're relying on there, because the price"
+    },
+    {
+      "start": 1721.4,
+      "end": 1724.56,
+      "text": "Speaker 4: does move a lot, is a forward contract, and that"
+    },
+    {
+      "start": 1724.64,
+      "end": 1728.08,
+      "text": "Speaker 4: forward contract may not be financially settled as it is"
+    },
+    {
+      "start": 1728.08,
+      "end": 1731.4,
+      "text": "Speaker 4: in the futures market. It may be I've sold this"
+    },
+    {
+      "start": 1731.56,
+      "end": 1734.84,
+      "text": "Speaker 4: all to XYZ buyer at."
+    },
+    {
+      "start": 1734.96,
+      "end": 1738.44,
+      "text": "Speaker 3: ABC price, some maker of like sweets or something."
+    },
+    {
+      "start": 1738.48,
+      "end": 1740.88,
+      "text": "Speaker 4: Think about if you like cashew is if you go"
+    },
+    {
+      "start": 1740.96,
+      "end": 1744.56,
+      "text": "Speaker 4: to your local grocery store, it's probably whoever sits in"
+    },
+    {
+      "start": 1744.6,
+      "end": 1747.92,
+      "text": "Speaker 4: between your local grocery store and our client that is"
+    },
+    {
+      "start": 1748.0,
+      "end": 1750.2,
+      "text": "Speaker 4: packaging and salting and all those things."
+    },
+    {
+      "start": 1750.44,
+      "end": 1752.72,
+      "text": "Speaker 2: So I was looking up the toxic liquid that comes"
+    },
+    {
+      "start": 1752.72,
+      "end": 1756.6,
+      "text": "Speaker 2: from cashews and it's urshoil. I'm not trying pronouncing that right,"
+    },
+    {
+      "start": 1756.64,
+      "end": 1759.04,
+      "text": "Speaker 2: but the stuff that comes from poison ivy, which I"
+    },
+    {
+      "start": 1759.08,
+      "end": 1763.32,
+      "text": "Speaker 2: am currently suffering from. So this is yeah, This is"
+    },
+    {
+      "start": 1763.32,
+      "end": 1764.12,
+      "text": "Speaker 2: interesting to me."
+    },
+    {
+      "start": 1764.24,
+      "end": 1766.68,
+      "text": "Speaker 3: Really interesting to know. But it's interesting too. Like I"
+    },
+    {
+      "start": 1766.68,
+      "end": 1770.8,
+      "text": "Speaker 3: remember when we were in Alaska talking about we were"
+    },
+    {
+      "start": 1770.8,
+      "end": 1772.68,
+      "text": "Speaker 3: talking about some of the fishing that happens out there."
+    },
+    {
+      "start": 1772.88,
+      "end": 1776.92,
+      "text": "Speaker 3: How much fish goes to Asia, Yeah, for processing. Yeah,"
+    },
+    {
+      "start": 1776.96,
+      "end": 1779.96,
+      "text": "Speaker 3: And it's really interesting to think from just like these"
+    },
+    {
+      "start": 1780.0,
+      "end": 1783.44,
+      "text": "Speaker 3: pure commodity standpoints, how I imagine a lot of the"
+    },
+    {
+      "start": 1783.52,
+      "end": 1788.36,
+      "text": "Speaker 3: value added the supply chain is not actually accruing to"
+    },
+    {
+      "start": 1788.44,
+      "end": 1792.88,
+      "text": "Speaker 3: the original origin of the commodity, but rather the entity"
+    },
+    {
+      "start": 1792.96,
+      "end": 1797.68,
+      "text": "Speaker 3: that can do processing most efficiently through some combination of technology,"
+    },
+    {
+      "start": 1798.16,
+      "end": 1802.24,
+      "text": "Speaker 3: environmental standards, labor costs, and so forth. I imagine a"
+    },
+    {
+      "start": 1802.28,
+      "end": 1805.24,
+      "text": "Speaker 3: lot of the value add and a thin cashew comes there."
+    },
+    {
+      "start": 1805.52,
+      "end": 1808.4,
+      "text": "Speaker 4: Yeah, Yeah, it's it's I'd see a lot of the"
+    },
+    {
+      "start": 1808.48,
+      "end": 1811.72,
+      "text": "Speaker 4: value is happening kind of in the midstream point in"
+    },
+    {
+      "start": 1813.04,
+      "end": 1816.76,
+      "text": "Speaker 4: between the upstream, which would be the farm for example"
+    },
+    {
+      "start": 1816.8,
+      "end": 1821.04,
+      "text": "Speaker 4: in West Africa, and the client at the end, the retailer."
+    },
+    {
+      "start": 1821.24,
+      "end": 1825.64,
+      "text": "Speaker 4: So that's definitely true. Interesting fact about the peanut tree"
+    },
+    {
+      "start": 1825.72,
+      "end": 1829.12,
+      "text": "Speaker 4: nut market is that it's also full, I want to"
+    },
+    {
+      "start": 1829.16,
+      "end": 1832.08,
+      "text": "Speaker 4: keep saying that it's full of family businesses. And the"
+    },
+    {
+      "start": 1832.12,
+      "end": 1833.92,
+      "text": "Speaker 4: other thing we do a lot of is work with"
+    },
+    {
+      "start": 1834.04,
+      "end": 1837.56,
+      "text": "Speaker 4: family businesses. So you sort of look at this intersection"
+    },
+    {
+      "start": 1837.68,
+      "end": 1842.08,
+      "text": "Speaker 4: of commodity trade, finance, family business, And in the middle"
+    },
+    {
+      "start": 1842.08,
+      "end": 1846.08,
+      "text": "Speaker 4: of those two overlapping circles is the peanut tree nut industry."
+    },
+    {
+      "start": 1846.2,
+      "end": 1846.56,
+      "text": "Speaker 3: Got it."
+    },
+    {
+      "start": 1846.88,
+      "end": 1849.76,
+      "text": "Speaker 2: Just going back to collateral, you know, one of the"
+    },
+    {
+      "start": 1849.96,
+      "end": 1853.8,
+      "text": "Speaker 2: tropes or jokes that often gets brought up in commodities markets."
+    },
+    {
+      "start": 1853.88,
+      "end": 1856.6,
+      "text": "Speaker 2: It's like I put on a physical oil trade and like,"
+    },
+    {
+      "start": 1856.64,
+      "end": 1858.68,
+      "text": "Speaker 2: oh no, now I'm going to have to actually settle"
+    },
+    {
+      "start": 1858.84,
+      "end": 1861.64,
+      "text": "Speaker 2: and take delivery of like fifty barrels of oil in"
+    },
+    {
+      "start": 1861.76,
+      "end": 1864.76,
+      "text": "Speaker 2: my studio apartment or something like that. If you're in"
+    },
+    {
+      "start": 1864.84,
+      "end": 1870.0,
+      "text": "Speaker 2: commodity finance, is taking delivery of actual collateral? Like is"
+    },
+    {
+      "start": 1870.0,
+      "end": 1872.36,
+      "text": "Speaker 2: it a disaster for you the way it is for"
+    },
+    {
+      "start": 1872.52,
+      "end": 1875.56,
+      "text": "Speaker 2: other investors or is it kind of that's what it's"
+    },
+    {
+      "start": 1875.56,
+      "end": 1877.4,
+      "text": "Speaker 2: there for. These are all collateralized loan."
+    },
+    {
+      "start": 1877.96,
+      "end": 1882.04,
+      "text": "Speaker 4: Usually you wouldn't take delivery if you didn't intend to,"
+    },
+    {
+      "start": 1882.2,
+      "end": 1884.84,
+      "text": "Speaker 4: so usually it means something went wrong. There are certain"
+    },
+    {
+      "start": 1884.88,
+      "end": 1888.44,
+      "text": "Speaker 4: products where you actually buy the commodity physically with a"
+    },
+    {
+      "start": 1888.48,
+      "end": 1891.0,
+      "text": "Speaker 4: contract to sell it back in the future. It's a"
+    },
+    {
+      "start": 1891.04,
+      "end": 1895.52,
+      "text": "Speaker 4: form of inventory financing called a repurchase agreement. But typically"
+    },
+    {
+      "start": 1895.88,
+      "end": 1898.84,
+      "text": "Speaker 4: your goal is to manage the credit so it's a"
+    },
+    {
+      "start": 1898.84,
+      "end": 1902.0,
+      "text": "Speaker 4: good company that doesn't default on the loan and therefore"
+    },
+    {
+      "start": 1902.04,
+      "end": 1905.6,
+      "text": "Speaker 4: you avoid having to get out of the loan the"
+    },
+    {
+      "start": 1905.6,
+      "end": 1908.4,
+      "text": "Speaker 4: second way, which is liquidating the collateral, So you try"
+    },
+    {
+      "start": 1908.4,
+      "end": 1910.68,
+      "text": "Speaker 4: to avoid that at all costs if you had to."
+    },
+    {
+      "start": 1911.04,
+      "end": 1913.92,
+      "text": "Speaker 4: The good news is you can typically sell it in"
+    },
+    {
+      "start": 1914.0,
+      "end": 1917.44,
+      "text": "Speaker 4: the location where it exists. So if it's in a"
+    },
+    {
+      "start": 1917.48,
+      "end": 1921.64,
+      "text": "Speaker 4: tank in Houston and it's experts of oil, you kind"
+    },
+    {
+      "start": 1921.64,
+      "end": 1924.16,
+      "text": "Speaker 4: of say to someone else, hey can I sell you this?"
+    },
+    {
+      "start": 1924.8,
+      "end": 1927.44,
+      "text": "Speaker 4: It's sitting here, and they'll quote you a prince. So"
+    },
+    {
+      "start": 1927.48,
+      "end": 1931.16,
+      "text": "Speaker 4: it's it's not as dramatic as actually arriving at our doorstep,"
+    },
+    {
+      "start": 1931.92,
+      "end": 1934.52,
+      "text": "Speaker 4: and we try to avoid having to do that. That's"
+    },
+    {
+      "start": 1934.64,
+      "end": 1936.84,
+      "text": "Speaker 4: part of our job. Something has gone wrong if we're"
+    },
+    {
+      "start": 1936.84,
+      "end": 1940.28,
+      "text": "Speaker 4: doing that, but it has happened before over our two"
+    },
+    {
+      "start": 1940.36,
+      "end": 1941.479,
+      "text": "Speaker 4: hundred and six year history."
+    },
+    {
+      "start": 1941.84,
+      "end": 1945.2,
+      "text": "Speaker 3: Once again going back to unheedgeable commodities, and I asked"
+    },
+    {
+      "start": 1945.24,
+      "end": 1948.96,
+      "text": "Speaker 3: this for a different reason. Is one of the things,"
+    },
+    {
+      "start": 1949.0,
+      "end": 1951.04,
+      "text": "Speaker 3: and it's sort of commodity ish one of the things"
+    },
+    {
+      "start": 1951.08,
+      "end": 1953.36,
+      "text": "Speaker 3: that's very hot right now or a lot of people"
+    },
+    {
+      "start": 1953.4,
+      "end": 1956.959,
+      "text": "Speaker 3: are hoping that compute futures are going to be a"
+    },
+    {
+      "start": 1957.0,
+      "end": 1959.76,
+      "text": "Speaker 3: thing and that people will trade capacity of an H"
+    },
+    {
+      "start": 1959.84,
+      "end": 1962.479,
+      "text": "Speaker 3: one hundred and video chip in the way, and there"
+    },
+    {
+      "start": 1962.48,
+      "end": 1964.32,
+      "text": "Speaker 3: are some nascent efforts and I don't know if this"
+    },
+    {
+      "start": 1964.36,
+      "end": 1968.08,
+      "text": "Speaker 3: is going to take off, but I'm curious, like if"
+    },
+    {
+      "start": 1968.08,
+      "end": 1971.12,
+      "text": "Speaker 3: there are any intuitions that we can build based on"
+    },
+    {
+      "start": 1971.28,
+      "end": 1976.0,
+      "text": "Speaker 3: existing markets of what types of commodities lend themselves to"
+    },
+    {
+      "start": 1976.12,
+      "end": 1978.44,
+      "text": "Speaker 3: financialization in that way, So we don't have we have"
+    },
+    {
+      "start": 1978.48,
+      "end": 1983.28,
+      "text": "Speaker 3: oil futures, and we have cotton futures blue and pistacio futures."
+    },
+    {
+      "start": 1983.44,
+      "end": 1985.56,
+      "text": "Speaker 3: Is there anything that we can look at and say, yes,"
+    },
+    {
+      "start": 1985.68,
+      "end": 1989.56,
+      "text": "Speaker 3: this type of market lends itself to financialization on an exchange,"
+    },
+    {
+      "start": 1989.64,
+      "end": 1992.64,
+      "text": "Speaker 3: whereas this one doesn't. So as in our minds we"
+    },
+    {
+      "start": 1992.68,
+      "end": 1996.2,
+      "text": "Speaker 3: can help try to predict whether this will logically apply"
+    },
+    {
+      "start": 1996.44,
+      "end": 1998.52,
+      "text": "Speaker 3: to something like compute futures. Yeah."
+    },
+    {
+      "start": 1998.56,
+      "end": 2001.04,
+      "text": "Speaker 4: So if you look at the origin of the futures market,"
+    },
+    {
+      "start": 2001.12,
+      "end": 2004.96,
+      "text": "Speaker 4: it was really designed to help farmers manage their price risk."
+    },
+    {
+      "start": 2005.08,
+      "end": 2008.6,
+      "text": "Speaker 4: So think of a grain farmer in Iowa planting. This"
+    },
+    {
+      "start": 2008.64,
+      "end": 2011.2,
+      "text": "Speaker 4: is what they teach you in the textbook, the farmer"
+    },
+    {
+      "start": 2011.28,
+      "end": 2013.28,
+      "text": "Speaker 4: and the hedge and all that bring it to market onion."
+    },
+    {
+      "start": 2013.88,
+      "end": 2016.719,
+      "text": "Speaker 4: But if you look at the properties of the commodities,"
+    },
+    {
+      "start": 2016.8,
+      "end": 2019.12,
+      "text": "Speaker 4: I think it's a few things. One is how homogeneous"
+    },
+    {
+      "start": 2019.28,
+      "end": 2022.92,
+      "text": "Speaker 4: is the product. So the more heterogeneous the product is,"
+    },
+    {
+      "start": 2023.04,
+      "end": 2026.64,
+      "text": "Speaker 4: the harder it is to standardize into a financial contract."
+    },
+    {
+      "start": 2026.96,
+      "end": 2030.32,
+      "text": "Speaker 4: Two is volatility. If there's no futures market and it's"
+    },
+    {
+      "start": 2030.4,
+      "end": 2032.88,
+      "text": "Speaker 4: moving all over the place, there's going to be a"
+    },
+    {
+      "start": 2032.88,
+      "end": 2036.36,
+      "text": "Speaker 4: lot of demand from a producer end user for a"
+    },
+    {
+      "start": 2036.4,
+      "end": 2041.72,
+      "text": "Speaker 4: futures market. So actually, memory chips and compute are extremely"
+    },
+    {
+      "start": 2041.84,
+      "end": 2044.72,
+      "text": "Speaker 4: vauatile right now. We've been thinking a lot about whether"
+    },
+    {
+      "start": 2044.76,
+      "end": 2049.439,
+      "text": "Speaker 4: that's a good candidate for a futures contract. And if"
+    },
+    {
+      "start": 2049.48,
+      "end": 2053.36,
+      "text": "Speaker 4: you are a fab that's producing chips right now, you"
+    },
+    {
+      "start": 2053.48,
+      "end": 2055.96,
+      "text": "Speaker 4: love the price you're getting, right, I mean, maybe you've"
+    },
+    {
+      "start": 2056.0,
+      "end": 2059.0,
+      "text": "Speaker 4: sold some of it forward below the market, but as"
+    },
+    {
+      "start": 2059.0,
+      "end": 2062.279,
+      "text": "Speaker 4: you're kind of rolling your contracts, it's very profitable, right"
+    },
+    {
+      "start": 2062.4,
+      "end": 2064.96,
+      "text": "Speaker 4: And could you lock that in. On the other side,"
+    },
+    {
+      "start": 2065.04,
+      "end": 2069.759,
+      "text": "Speaker 4: if you're an electronics consumer of chips, you'd love to"
+    },
+    {
+      "start": 2069.8,
+      "end": 2072.24,
+      "text": "Speaker 4: be able to hedge that price and hedge your consumption."
+    },
+    {
+      "start": 2072.36,
+      "end": 2075.08,
+      "text": "Speaker 4: So I actually think it's a great candidate for the"
+    },
+    {
+      "start": 2075.08,
+      "end": 2078.36,
+      "text": "Speaker 4: futures market. Whether it takes off, you know, I'm not sure,"
+    },
+    {
+      "start": 2078.4,
+      "end": 2080.88,
+      "text": "Speaker 4: but I know some of the exchanges are spending a"
+    },
+    {
+      "start": 2080.92,
+      "end": 2081.6,
+      "text": "Speaker 4: lot of time on this."
+    },
+    {
+      "start": 2082.52,
+      "end": 2085.839,
+      "text": "Speaker 2: So I don't know when this particular episode is coming out."
+    },
+    {
+      "start": 2085.88,
+      "end": 2089.759,
+      "text": "Speaker 2: We're recording on May twenty seventh, but very soon at"
+    },
+    {
+      "start": 2089.76,
+      "end": 2092.839,
+      "text": "Speaker 2: our live show it will have we will have an"
+    },
+    {
+      "start": 2092.84,
+      "end": 2096.88,
+      "text": "Speaker 2: episode dedicated to, you know, hearing from one company that"
+    },
+    {
+      "start": 2097.0,
+      "end": 2101.36,
+      "text": "Speaker 2: is trying to create a compute exchange futures market basically,"
+    },
+    {
+      "start": 2101.44,
+      "end": 2102.32,
+      "text": "Speaker 2: so that'll be interesting."
+    },
+    {
+      "start": 2102.48,
+      "end": 2104.08,
+      "text": "Speaker 3: Yeah, very interested in this question."
+    },
+    {
+      "start": 2104.44,
+      "end": 2106.68,
+      "text": "Speaker 4: I think part of the big story with compute, by"
+    },
+    {
+      "start": 2106.68,
+      "end": 2110.12,
+      "text": "Speaker 4: the way, that's underfollowed is copper. So I think everyone"
+    },
+    {
+      "start": 2110.12,
+      "end": 2112.239,
+      "text": "Speaker 4: talks about the power, you know, and power is really"
+    },
+    {
+      "start": 2112.28,
+      "end": 2115.52,
+      "text": "Speaker 4: important and there needs to be lots of power capacity"
+    },
+    {
+      "start": 2115.64,
+      "end": 2120.16,
+      "text": "Speaker 4: in order to build the AI revolution. Copper is as important,"
+    },
+    {
+      "start": 2120.48,
+      "end": 2124.72,
+      "text": "Speaker 4: and you see copper prices a record highs largely because"
+    },
+    {
+      "start": 2124.76,
+      "end": 2128.319,
+      "text": "Speaker 4: of how much copper data centers are consuming because of"
+    },
+    {
+      "start": 2128.36,
+      "end": 2131.92,
+      "text": "Speaker 4: all the electrical capacity that needs to be in that infrastructure."
+    },
+    {
+      "start": 2133.239,
+      "end": 2137.92,
+      "text": "Speaker 2: Do commodity financiers do they have good insight into like"
+    },
+    {
+      "start": 2138.64,
+      "end": 2141.799,
+      "text": "Speaker 2: trends in commodity prices just by virtue of being able"
+    },
+    {
+      "start": 2141.84,
+      "end": 2144.32,
+      "text": "Speaker 2: to see like actual supply and demand on the ground."
+    },
+    {
+      "start": 2144.68,
+      "end": 2147.719,
+      "text": "Speaker 4: In general, our philosophy is we don't know where the"
+    },
+    {
+      "start": 2147.76,
+      "end": 2150.48,
+      "text": "Speaker 4: price is going, so we try to be price agnostic."
+    },
+    {
+      "start": 2151.08,
+      "end": 2154.64,
+      "text": "Speaker 4: But you can't help but notice trends. See things early."
+    },
+    {
+      "start": 2154.719,
+      "end": 2158.759,
+      "text": "Speaker 4: And one example would be in twenty twenty when COVID hit."
+    },
+    {
+      "start": 2159.4,
+      "end": 2162.88,
+      "text": "Speaker 4: You just freight prices skyrocketing, I think went well before"
+    },
+    {
+      "start": 2162.92,
+      "end": 2166.6,
+      "text": "Speaker 4: the market. You saw things like steel going up quickly"
+    },
+    {
+      "start": 2166.76,
+      "end": 2170.12,
+      "text": "Speaker 4: and those prices being passed down the supply chain. So"
+    },
+    {
+      "start": 2170.239,
+      "end": 2173.52,
+      "text": "Speaker 4: you definitely can see things that kind of feed into"
+    },
+    {
+      "start": 2173.56,
+      "end": 2177.759,
+      "text": "Speaker 4: like the PPI. Ultimately the CPI. When you live upstream"
+    },
+    {
+      "start": 2177.96,
+      "end": 2181.44,
+      "text": "Speaker 4: the way we do in kind of these metal energy"
+    },
+    {
+      "start": 2181.56,
+      "end": 2185.8,
+      "text": "Speaker 4: agg supply chains, you often see things first and before"
+    },
+    {
+      "start": 2185.88,
+      "end": 2189.399,
+      "text": "Speaker 4: they actually get transmitted into the economic data. Now it's"
+    },
+    {
+      "start": 2189.48,
+      "end": 2192.52,
+      "text": "Speaker 4: just one side of it, so it may not be conclusive,"
+    },
+    {
+      "start": 2192.64,
+      "end": 2196.28,
+      "text": "Speaker 4: but it certainly provides us with lots of interesting information."
+    },
+    {
+      "start": 2196.88,
+      "end": 2200.44,
+      "text": "Speaker 3: There's not a trucking future trucking capacity futures market, but"
+    },
+    {
+      "start": 2200.48,
+      "end": 2202.719,
+      "text": "Speaker 3: it tends to be like, Okay, here is a situation"
+    },
+    {
+      "start": 2203.04,
+      "end": 2206.16,
+      "text": "Speaker 3: in which you have this sort of idiosyncratic moment, and"
+    },
+    {
+      "start": 2206.239,
+      "end": 2209.16,
+      "text": "Speaker 3: then it probably wouldn't have made sense. I don't know"
+    },
+    {
+      "start": 2209.2,
+      "end": 2213.239,
+      "text": "Speaker 3: truck actually trucking, Like is that in your mind? Like"
+    },
+    {
+      "start": 2213.32,
+      "end": 2216.6,
+      "text": "Speaker 3: could that eventually be a candidate for Yeah, because you"
+    },
+    {
+      "start": 2216.64,
+      "end": 2219.6,
+      "text": "Speaker 3: have these explosions of price, and so in the explosion"
+    },
+    {
+      "start": 2219.68,
+      "end": 2221.839,
+      "text": "Speaker 3: of price a moment, probably everyone's like, oh, I wish"
+    },
+    {
+      "start": 2221.88,
+      "end": 2223.879,
+      "text": "Speaker 3: I could hedge this right, But then you don't really"
+    },
+    {
+      "start": 2223.96,
+      "end": 2226.0,
+      "text": "Speaker 3: know is this a permanent fixture or is just this"
+    },
+    {
+      "start": 2226.16,
+      "end": 2228.319,
+      "text": "Speaker 3: just a post COVID thing where there was a one"
+    },
+    {
+      "start": 2228.36,
+      "end": 2231.52,
+      "text": "Speaker 3: time price readjustment. Because if it's a one time price readjustment,"
+    },
+    {
+      "start": 2231.56,
+      "end": 2234.12,
+      "text": "Speaker 3: you don't really need a future as a market. And"
+    },
+    {
+      "start": 2234.2,
+      "end": 2236.6,
+      "text": "Speaker 3: this we don't really know, like from memory, is this"
+    },
+    {
+      "start": 2236.719,
+      "end": 2238.92,
+      "text": "Speaker 3: like a one time price readjustment? Or is this a"
+    },
+    {
+      "start": 2238.96,
+      "end": 2242.12,
+      "text": "Speaker 3: new permanent fixture of the memory landscape. But answering that"
+    },
+    {
+      "start": 2242.239,
+      "end": 2244.879,
+      "text": "Speaker 3: question would be an important part of whether it's worth"
+    },
+    {
+      "start": 2244.88,
+      "end": 2247.64,
+      "text": "Speaker 3: it to build out a futures market. But I'm just curious,"
+    },
+    {
+      "start": 2247.64,
+      "end": 2250.88,
+      "text": "Speaker 3: like in the post COVID environment, were there people kicking"
+    },
+    {
+      "start": 2250.92,
+      "end": 2253.48,
+      "text": "Speaker 3: around the idea of freight futures or something like that,"
+    },
+    {
+      "start": 2254.12,
+      "end": 2256.48,
+      "text": "Speaker 3: and there are it wakes to this volatility."
+    },
+    {
+      "start": 2256.6,
+      "end": 2259.96,
+      "text": "Speaker 4: There's not super liquid, but there are tanker contracts."
+    },
+    {
+      "start": 2260.16,
+      "end": 2262.239,
+      "text": "Speaker 3: Yeah, I just noticed this, Cape Cape says, but it"
+    },
+    {
+      "start": 2262.239,
+      "end": 2263.44,
+      "text": "Speaker 3: looks like there's almost no Look."
+    },
+    {
+      "start": 2263.52,
+      "end": 2265.6,
+      "text": "Speaker 4: Yeah, there's not. The bid ask is pretty wide, but"
+    },
+    {
+      "start": 2265.719,
+      "end": 2268.76,
+      "text": "Speaker 4: people do try to make markets, so drive bulk freight,"
+    },
+    {
+      "start": 2268.88,
+      "end": 2271.68,
+      "text": "Speaker 4: you can go long or short. Trucking I think is"
+    },
+    {
+      "start": 2271.68,
+      "end": 2274.84,
+      "text": "Speaker 4: a good candidate for it. I think because trucking in"
+    },
+    {
+      "start": 2274.88,
+      "end": 2276.96,
+      "text": "Speaker 4: a lot of ways follows the diesel market because the"
+    },
+    {
+      "start": 2276.96,
+      "end": 2281.88,
+      "text": "Speaker 4: biggest kind of variable cost of trucking is a little"
+    },
+    {
+      "start": 2281.88,
+      "end": 2284.96,
+      "text": "Speaker 4: bit it's not perfect, but it's pretty highly correlated."
+    },
+    {
+      "start": 2285.239,
+      "end": 2290.52,
+      "text": "Speaker 3: Tracy hinted at this, were onion futures to be legalized,"
+    },
+    {
+      "start": 2290.719,
+      "end": 2292.719,
+      "text": "Speaker 3: would onions themselves you."
+    },
+    {
+      "start": 2292.76,
+      "end": 2294.759,
+      "text": "Speaker 2: Mentioned, now we're just doing hypothetical."
+    },
+    {
+      "start": 2296.68,
+      "end": 2299.12,
+      "text": "Speaker 3: You mentioned there are two conditions that the high price"
+    },
+    {
+      "start": 2299.2,
+      "end": 2305.52,
+      "text": "Speaker 3: volatility and homage homogeneity of the underlying commodity. Would onions"
+    },
+    {
+      "start": 2305.64,
+      "end": 2308.719,
+      "text": "Speaker 3: meet the can't meet the conditions such that were they"
+    },
+    {
+      "start": 2308.8,
+      "end": 2313.16,
+      "text": "Speaker 3: to be legalized, they would be a good candidate for financialization."
+    },
+    {
+      "start": 2314.64,
+      "end": 2318.56,
+      "text": "Speaker 4: Well, one thing I'd worry about with onions is perishability. Yeah,"
+    },
+    {
+      "start": 2318.92,
+      "end": 2322.2,
+      "text": "Speaker 4: you know, so, I think putting onions in a warehouse,"
+    },
+    {
+      "start": 2322.239,
+      "end": 2325.239,
+      "text": "Speaker 4: if you had a physical settlement process, could be a"
+    },
+    {
+      "start": 2325.28,
+      "end": 2327.96,
+      "text": "Speaker 4: little dangerous, you know, because you can only store them"
+    },
+    {
+      "start": 2327.96,
+      "end": 2332.399,
+      "text": "Speaker 4: for so long. But onions, they are pretty homogeneous as"
+    },
+    {
+      "start": 2332.4,
+      "end": 2335.239,
+      "text": "Speaker 4: far as I know. Maybe I'm missing like a specific,"
+    },
+    {
+      "start": 2336.28,
+      "end": 2339.68,
+      "text": "Speaker 4: specific type, so there's some basis res you know. My"
+    },
+    {
+      "start": 2339.68,
+      "end": 2340.2,
+      "text": "Speaker 4: favorite it."
+    },
+    {
+      "start": 2340.12,
+      "end": 2343.04,
+      "text": "Speaker 3: Onion is the Texas ten fifteen Do you know that"
+    },
+    {
+      "start": 2344.08,
+      "end": 2347.52,
+      "text": "Speaker 3: you Yeah, it's a type of yellow onion that I"
+    },
+    {
+      "start": 2347.52,
+      "end": 2350.0,
+      "text": "Speaker 3: think was created at Texas A and M University. It's"
+    },
+    {
+      "start": 2350.08,
+      "end": 2351.12,
+      "text": "Speaker 3: really sweet and tasty."
+    },
+    {
+      "start": 2351.16,
+      "end": 2353.64,
+      "text": "Speaker 2: That's a fake, no, no, I mean it's like any"
+    },
+    {
+      "start": 2353.68,
+      "end": 2355.48,
+      "text": "Speaker 2: other Texas A and M propaganda."
+    },
+    {
+      "start": 2355.36,
+      "end": 2357.64,
+      "text": "Speaker 3: YEA, believe me. I would be the last person to"
+    },
+    {
+      "start": 2357.76,
+      "end": 2360.4,
+      "text": "Speaker 3: advocate for Texas A and M propaganda. Now look up"
+    },
+    {
+      "start": 2360.44,
+      "end": 2363.64,
+      "text": "Speaker 3: Texas ten to fifteen. It's a really nice onion."
+    },
+    {
+      "start": 2363.64,
+      "end": 2365.56,
+      "text": "Speaker 2: And I've got big onion growing plans."
+    },
+    {
+      "start": 2365.68,
+      "end": 2367.919,
+      "text": "Speaker 3: My good. It's the official state vegetable of the state"
+    },
+    {
+      "start": 2367.96,
+      "end": 2370.799,
+      "text": "Speaker 3: of Texas. According to Google's AI overview, so I have"
+    },
+    {
+      "start": 2370.84,
+      "end": 2372.56,
+      "text": "Speaker 3: no idea if that it's true, No way I'm going"
+    },
+    {
+      "start": 2372.6,
+      "end": 2374.879,
+      "text": "Speaker 3: to have to Yeah, they're good, they're good."
+    },
+    {
+      "start": 2375.0,
+      "end": 2377.359,
+      "text": "Speaker 2: All right, Well, we're learning all sorts of things in"
+    },
+    {
+      "start": 2377.4,
+      "end": 2379.759,
+      "text": "Speaker 2: this conversation. I just want to go back to the"
+    },
+    {
+      "start": 2379.84,
+      "end": 2384.2,
+      "text": "Speaker 2: idea of seeing some trends before they kind of burst"
+    },
+    {
+      "start": 2384.2,
+      "end": 2386.64,
+      "text": "Speaker 2: into the public consciousness. So one of the reasons I"
+    },
+    {
+      "start": 2386.68,
+      "end": 2389.32,
+      "text": "Speaker 2: was tracking a ship last week was because it was"
+    },
+    {
+      "start": 2389.36,
+      "end": 2392.68,
+      "text": "Speaker 2: going with its payload of fertilizer. It was going from"
+    },
+    {
+      "start": 2392.719,
+      "end": 2397.839,
+      "text": "Speaker 2: Saudi Arabia's Yamboo port to Bangladesh. So basically they had"
+    },
+    {
+      "start": 2397.92,
+      "end": 2401.88,
+      "text": "Speaker 2: trucked a bunch of fertilizer from the like Gulf side"
+    },
+    {
+      "start": 2402.32,
+      "end": 2405.64,
+      "text": "Speaker 2: of Saudi Arabia over to the African side of Saudi"
+    },
+    {
+      "start": 2405.68,
+      "end": 2409.0,
+      "text": "Speaker 2: Arabia and we're going round. Are you seeing any new"
+    },
+    {
+      "start": 2409.48,
+      "end": 2412.879,
+      "text": "Speaker 2: trade routes being established as a result of what's going"
+    },
+    {
+      "start": 2412.92,
+      "end": 2413.68,
+      "text": "Speaker 2: on in the straight."
+    },
+    {
+      "start": 2413.48,
+      "end": 2417.08,
+      "text": "Speaker 4: UPA rights, I totally great question. I think we saw"
+    },
+    {
+      "start": 2417.12,
+      "end": 2420.919,
+      "text": "Speaker 4: that starting actually with the Huti issue in the Red Sea."
+    },
+    {
+      "start": 2421.8,
+      "end": 2426.919,
+      "text": "Speaker 4: And if you think about voyages, for example, from Shanghai"
+    },
+    {
+      "start": 2426.96,
+      "end": 2429.2,
+      "text": "Speaker 4: to northern Europe, take that route, which is a pretty"
+    },
+    {
+      "start": 2429.239,
+      "end": 2432.72,
+      "text": "Speaker 4: big route. They used to go through the Suez Canal."
+    },
+    {
+      "start": 2433.04,
+      "end": 2437.16,
+      "text": "Speaker 4: Suez Canal kind of closes because ships are not comfortable"
+    },
+    {
+      "start": 2437.32,
+      "end": 2440.439,
+      "text": "Speaker 4: taking that risk. Suddenly they're now routing around the Cape"
+    },
+    {
+      "start": 2440.48,
+      "end": 2443.12,
+      "text": "Speaker 4: of Good Hope. And back to my point on kind"
+    },
+    {
+      "start": 2443.16,
+      "end": 2447.239,
+      "text": "Speaker 4: of this age of bottlenecks and disruption, that's adding you know,"
+    },
+    {
+      "start": 2447.4,
+      "end": 2451.239,
+      "text": "Speaker 4: ten fifteen maybe more in terms of shipping days, which"
+    },
+    {
+      "start": 2451.239,
+      "end": 2454.6,
+      "text": "Speaker 4: adds to the working capital requirement, adds to the cost,"
+    },
+    {
+      "start": 2454.84,
+      "end": 2458.239,
+      "text": "Speaker 4: the day rate on the ship, the insurance. So absolutely"
+    },
+    {
+      "start": 2458.28,
+      "end": 2460.64,
+      "text": "Speaker 4: seeing a lot of that, and I would guess if"
+    },
+    {
+      "start": 2461.28,
+      "end": 2465.84,
+      "text": "Speaker 4: the Strait of Hormu's conflict continues for a lot longer,"
+    },
+    {
+      "start": 2466.36,
+      "end": 2468.52,
+      "text": "Speaker 4: there's going to be a lot of creativity in terms"
+    },
+    {
+      "start": 2468.56,
+      "end": 2471.879,
+      "text": "Speaker 4: of how to discharge cargoes from those ships, get them"
+    },
+    {
+      "start": 2471.92,
+      "end": 2475.6,
+      "text": "Speaker 4: to safer ground, and then export them in some other way."
+    },
+    {
+      "start": 2476.2,
+      "end": 2478.759,
+      "text": "Speaker 4: I would imagine if I were Saudi Arabia, I'd be"
+    },
+    {
+      "start": 2478.8,
+      "end": 2482.68,
+      "text": "Speaker 4: thinking about building pipelines going to the other direction. I'm"
+    },
+    {
+      "start": 2482.719,
+      "end": 2484.919,
+      "text": "Speaker 4: sure that's happening all over the Middle East to try"
+    },
+    {
+      "start": 2484.92,
+      "end": 2488.239,
+      "text": "Speaker 4: to avoid the straight Even if it does subside, I"
+    },
+    {
+      "start": 2488.239,
+      "end": 2490.48,
+      "text": "Speaker 4: think people are still going to want to find alternatives"
+    },
+    {
+      "start": 2490.52,
+      "end": 2493.08,
+      "text": "Speaker 4: because we've realized how reliant we are on this one"
+    },
+    {
+      "start": 2493.16,
+      "end": 2493.68,
+      "text": "Speaker 4: choke point."
+    },
+    {
+      "start": 2495.28,
+      "end": 2497.359,
+      "text": "Speaker 2: All right, Lewis Hart, thank you so much for coming"
+    },
+    {
+      "start": 2497.36,
+      "end": 2497.96,
+      "text": "Speaker 2: on all thoughts."
+    },
+    {
+      "start": 2497.96,
+      "end": 2498.759,
+      "text": "Speaker 4: That was so much fun."
+    },
+    {
+      "start": 2500.32,
+      "end": 2504.719,
+      "text": "Speaker 3: Yeah, yeah, that was really really interesting enough learned about"
+    },
+    {
+      "start": 2504.84,
+      "end": 2506.12,
+      "text": "Speaker 3: the onion question was good."
+    },
+    {
+      "start": 2506.719,
+      "end": 2522.84,
+      "text": "Speaker 2: That was good, Joe. I always enjoy those commodity discussions."
+    },
+    {
+      "start": 2522.88,
+      "end": 2526.08,
+      "text": "Speaker 2: I feel like I learn a lot of things like that."
+    },
+    {
+      "start": 2526.239,
+      "end": 2528.88,
+      "text": "Speaker 2: Ershaul is also found in cashews. I had no idea,"
+    },
+    {
+      "start": 2529.36,
+      "end": 2531.64,
+      "text": "Speaker 2: and it sucks when it gets on your skin because"
+    },
+    {
+      "start": 2531.64,
+      "end": 2532.44,
+      "text": "Speaker 2: you've been gardening."
+    },
+    {
+      "start": 2532.56,
+      "end": 2536.16,
+      "text": "Speaker 3: I also learned that there's a peanut tree nut association."
+    },
+    {
+      "start": 2537.64,
+      "end": 2538.44,
+      "text": "Speaker 3: I learned about that."
+    },
+    {
+      "start": 2538.64,
+      "end": 2542.08,
+      "text": "Speaker 2: Why didn't they call it like ground nut tree nut association?"
+    },
+    {
+      "start": 2542.239,
+      "end": 2544.76,
+      "text": "Speaker 2: Are there just like not enough popular ground nuts?"
+    },
+    {
+      "start": 2544.8,
+      "end": 2547.2,
+      "text": "Speaker 3: It's peanut a ground nut, That's what I thought. I"
+    },
+    {
+      "start": 2547.28,
+      "end": 2547.8,
+      "text": "Speaker 3: have no idea."
+    },
+    {
+      "start": 2547.84,
+      "end": 2548.6,
+      "text": "Speaker 2: Doesn't it grow on."
+    },
+    {
+      "start": 2548.68,
+      "end": 2551.719,
+      "text": "Speaker 3: Like I have? I have? I have no idea, No,"
+    },
+    {
+      "start": 2551.88,
+      "end": 2555.96,
+      "text": "Speaker 3: I did think. I love that conversation. I guess you know. Yes, commodity,"
+    },
+    {
+      "start": 2555.96,
+      "end": 2559.36,
+      "text": "Speaker 3: as you said, there's a sort of romantic, exciting element"
+    },
+    {
+      "start": 2559.44,
+      "end": 2562.08,
+      "text": "Speaker 3: of commodities. It's very real. I mean it's and it"
+    },
+    {
+      "start": 2562.2,
+      "end": 2565.239,
+      "text": "Speaker 3: still exists. The fact that you're having to like reroute"
+    },
+    {
+      "start": 2565.56,
+      "end": 2567.479,
+      "text": "Speaker 3: trade flows in real time."
+    },
+    {
+      "start": 2567.64,
+      "end": 2571.04,
+      "text": "Speaker 2: Yeah, they're saying new trade routes established."
+    },
+    {
+      "start": 2571.28,
+      "end": 2572.84,
+      "text": "Speaker 3: You know what I want to do an episode on"
+    },
+    {
+      "start": 2573.48,
+      "end": 2577.48,
+      "text": "Speaker 3: is Asian food processing, because it's really interesting to think"
+    },
+    {
+      "start": 2577.48,
+      "end": 2580.719,
+      "text": "Speaker 3: about commodities are grown all over the world, or agricultural"
+    },
+    {
+      "start": 2580.719,
+      "end": 2584.68,
+      "text": "Speaker 3: commodities in particular are grown all around the world. But"
+    },
+    {
+      "start": 2585.08,
+      "end": 2588.479,
+      "text": "Speaker 3: essentially we're more and more of our food come from"
+    },
+    {
+      "start": 2588.52,
+      "end": 2591.88,
+      "text": "Speaker 3: East Asia, even though we don't think of East Asia"
+    },
+    {
+      "start": 2591.88,
+      "end": 2594.56,
+      "text": "Speaker 3: as being a big agricultural powerhouse. Per se."
+    },
+    {
+      "start": 2594.76,
+      "end": 2598.88,
+      "text": "Speaker 2: The Alaska fish stat blew my mind yea when we"
+    },
+    {
+      "start": 2598.92,
+      "end": 2601.239,
+      "text": "Speaker 2: heard it last year. Also, okay, so I just googled this."
+    },
+    {
+      "start": 2601.719,
+      "end": 2603.279,
+      "text": "Speaker 2: I feel like we've been doing a lot of like"
+    },
+    {
+      "start": 2603.56,
+      "end": 2605.16,
+      "text": "Speaker 2: searches during this conversation."
+    },
+    {
+      "start": 2605.239,
+      "end": 2606.6,
+      "text": "Speaker 3: It's actually a good episode."
+    },
+    {
+      "start": 2606.64,
+      "end": 2609.56,
+      "text": "Speaker 2: But apparently peanut is just another word for ground nut."
+    },
+    {
+      "start": 2609.64,
+      "end": 2611.799,
+      "text": "Speaker 2: I always thought peanut was a type of ground nut,"
+    },
+    {
+      "start": 2612.32,
+      "end": 2615.56,
+      "text": "Speaker 2: but it turns out they're just like interchange the terms. Yeah,"
+    },
+    {
+      "start": 2615.64,
+      "end": 2618.879,
+      "text": "Speaker 2: so in Asia and India they'll talk about ground nut oil,"
+    },
+    {
+      "start": 2619.0,
+      "end": 2620.399,
+      "text": "Speaker 2: which is just peanut oil."
+    },
+    {
+      "start": 2620.68,
+      "end": 2621.279,
+      "text": "Speaker 3: Interesting."
+    },
+    {
+      "start": 2621.719,
+      "end": 2623.879,
+      "text": "Speaker 2: We're learning a lot there, you go. One other thing"
+    },
+    {
+      "start": 2623.92,
+      "end": 2627.52,
+      "text": "Speaker 2: I wanted to say is, you know, it's becoming a"
+    },
+    {
+      "start": 2627.56,
+      "end": 2630.84,
+      "text": "Speaker 2: cliche at this point, but Lewis was talking about the"
+    },
+    {
+      "start": 2630.88,
+      "end": 2633.56,
+      "text": "Speaker 2: idea of all this capital tied up in the strait"
+    },
+    {
+      "start": 2633.56,
+      "end": 2637.16,
+      "text": "Speaker 2: of our moves, right, and like it's okay now, but"
+    },
+    {
+      "start": 2637.88,
+      "end": 2640.2,
+      "text": "Speaker 2: a few months, but the longer it goes on, like"
+    },
+    {
+      "start": 2640.2,
+      "end": 2643.279,
+      "text": "Speaker 2: the more problematic it becomes. And this seems to be"
+    },
+    {
+      "start": 2643.4,
+      "end": 2646.6,
+      "text": "Speaker 2: like the overriding theme of this entire shock. Right."
+    },
+    {
+      "start": 2647.239,
+      "end": 2650.6,
+      "text": "Speaker 3: You know, it's interesting, yes, absolutely, because we're recording this"
+    },
+    {
+      "start": 2650.76,
+      "end": 2653.52,
+      "text": "Speaker 3: May twenty seventh, so tomorrow will have been the three"
+    },
+    {
+      "start": 2653.6,
+      "end": 2656.44,
+      "text": "Speaker 3: month start of the war. Yeah, I don't know when"
+    },
+    {
+      "start": 2656.48,
+      "end": 2660.36,
+      "text": "Speaker 3: this episode is coming out. But it's also interesting to"
+    },
+    {
+      "start": 2660.4,
+      "end": 2664.04,
+      "text": "Speaker 3: think that, you know, a couple months ago, when we"
+    },
+    {
+      "start": 2664.04,
+      "end": 2667.44,
+      "text": "Speaker 3: were doing commodity episodes, we would say like the exact"
+    },
+    {
+      "start": 2667.52,
+      "end": 2671.359,
+      "text": "Speaker 3: time of the episode, like recording this at ten thirty, right,"
+    },
+    {
+      "start": 2671.44,
+      "end": 2673.16,
+      "text": "Speaker 3: But now it just feels like this is just this"
+    },
+    {
+      "start": 2673.239,
+      "end": 2676.36,
+      "text": "Speaker 3: interminable thing that's part of the background. We're actually so"
+    },
+    {
+      "start": 2676.56,
+      "end": 2678.84,
+      "text": "Speaker 3: deep into it that it's just like, yeah, it's probably"
+    },
+    {
+      "start": 2678.84,
+      "end": 2680.56,
+      "text": "Speaker 3: gonna be closed a year from now to it. It"
+    },
+    {
+      "start": 2680.68,
+      "end": 2683.48,
+      "text": "Speaker 3: just feels like it has this feeling of permanence that"
+    },
+    {
+      "start": 2683.92,
+      "end": 2687.0,
+      "text": "Speaker 3: now it suddenly becomes yeah, I suppose things could change"
+    },
+    {
+      "start": 2687.0,
+      "end": 2689.28,
+      "text": "Speaker 3: by the time this episode comes out, but it almost"
+    },
+    {
+      "start": 2689.28,
+      "end": 2690.239,
+      "text": "Speaker 3: feels like it probably won't."
+    },
+    {
+      "start": 2690.32,
+      "end": 2694.12,
+      "text": "Speaker 2: We definitely stopped doing the minute by minute times damp. Okay,"
+    },
+    {
+      "start": 2694.239,
+      "end": 2695.12,
+      "text": "Speaker 2: shall we leave it there."
+    },
+    {
+      "start": 2695.44,
+      "end": 2696.16,
+      "text": "Speaker 3: Let's leave it there."
+    },
+    {
+      "start": 2696.239,
+      "end": 2698.719,
+      "text": "Speaker 2: This has been another episode of the Authoughts podcast. I'm"
+    },
+    {
+      "start": 2698.76,
+      "end": 2701.68,
+      "text": "Speaker 2: Tracy Allaway. You can follow me at Tracy Alaway."
+    },
+    {
+      "start": 2701.44,
+      "end": 2704.32,
+      "text": "Speaker 3: And I'm Jill Wisenthal. You can follow me at the Stalwart."
+    },
+    {
+      "start": 2704.6,
+      "end": 2707.799,
+      "text": "Speaker 3: Follow our producers Kerman Rodriguez at Kerman armand dash Ol"
+    },
+    {
+      "start": 2707.8,
+      "end": 2711.56,
+      "text": "Speaker 3: Bennett at Dashbot, Calebrooks at Klee Brooks and Kevin Lozano"
+    },
+    {
+      "start": 2711.68,
+      "end": 2714.6,
+      "text": "Speaker 3: at Kevin Lloyd Lozano and form our odd Laws content."
+    },
+    {
+      "start": 2714.64,
+      "end": 2716.88,
+      "text": "Speaker 3: Go to Bloomberg dot com slash odd Lots, where have"
+    },
+    {
+      "start": 2716.92,
+      "end": 2719.4,
+      "text": "Speaker 3: a daily newsletter and all of our episodes, and you"
+    },
+    {
+      "start": 2719.4,
+      "end": 2721.64,
+      "text": "Speaker 3: can shout about all these topics twenty four seven in"
+    },
+    {
+      "start": 2721.8,
+      "end": 2725.319,
+      "text": "Speaker 3: our discord Discord dot gg slash od lots."
+    },
+    {
+      "start": 2725.28,
+      "end": 2727.44,
+      "text": "Speaker 2: And if you enjoy odd Lots, if you like it"
+    },
+    {
+      "start": 2727.52,
+      "end": 2730.52,
+      "text": "Speaker 2: when we talk about the non existent onion futures market,"
+    },
+    {
+      "start": 2730.52,
+      "end": 2732.8,
+      "text": "Speaker 2: then please leave us a positive review on your favorite"
+    },
+    {
+      "start": 2732.84,
+      "end": 2736.12,
+      "text": "Speaker 2: podcast platform. And remember, if you are a Bloomberg subscriber,"
+    },
+    {
+      "start": 2736.2,
+      "end": 2739.0,
+      "text": "Speaker 2: you can listen to all of our episodes absolutely add free."
+    },
+    {
+      "start": 2739.32,
+      "end": 2741.4,
+      "text": "Speaker 2: All you need to do is find the Bloomberg channel"
+    },
+    {
+      "start": 2741.44,
+      "end": 2744.839,
+      "text": "Speaker 2: on Apple Podcasts and follow the instructions there. Thanks for"
+    },
+    {
+      "start": 2744.88,
+      "end": 2762.48,
+      "text": "Speaker 2: listening in"
+    }
+  ]
+}

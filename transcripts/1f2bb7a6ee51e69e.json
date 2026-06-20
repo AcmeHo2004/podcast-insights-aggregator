@@ -1,0 +1,2366 @@
+{
+  "id": "1f2bb7a6ee51e69e",
+  "show": "The Rules of Investing",
+  "theme": "Investor Talks",
+  "title": "James Abela: The high-stakes search for Quality",
+  "audio_url": "https://mcdn.podbean.com/mf/web/iwbe9hjg5uggb7ac/RoI_James_Abela_V2_Podcast_1_b5aww.mp3",
+  "source": "local-whisper",
+  "duration": 2839.1,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.68,
+      "text": "Today on the rules of investing, I'm speaking with James Abila, portfolio manager at Fidelity"
+    },
+    {
+      "start": 10.68,
+      "end": 16.080000000000002,
+      "text": "International. James is a code portfolio manager on Fidelity's future leaders and global"
+    },
+    {
+      "start": 16.080000000000002,
+      "end": 21.04,
+      "text": "future leaders funds, giving him a unique perspective across both Australian and global"
+    },
+    {
+      "start": 21.04,
+      "end": 27.38,
+      "text": "markets. Today, we'll be drawing on insights from Fidelity's team of 180 analysts located"
+    },
+    {
+      "start": 27.38,
+      "end": 32.22,
+      "text": "across the world. We'll also explore the underperformance of quality stocks, which have"
+    },
+    {
+      "start": 32.22,
+      "end": 37.82,
+      "text": "endured their toughest period of underperformance since the lead up to the GFC. But these"
+    },
+    {
+      "start": 37.82,
+      "end": 42.78,
+      "text": "periods don't last forever. So stick around to hear about the compelling ideas James has"
+    },
+    {
+      "start": 42.78,
+      "end": 48.94,
+      "text": "uncovered in his search for future leaders on the ASX and abroad. My name is James Marley"
+    },
+    {
+      "start": 48.94,
+      "end": 54.620000000000005,
+      "text": "and this podcast is brought to you by live-wire markets. Now, James, thanks for coming in."
+    },
+    {
+      "start": 54.620000000000005,
+      "end": 59.300000000000004,
+      "text": "Great to catch up and good to see you. Thanks very much James, good to see you again."
+    },
+    {
+      "start": 59.300000000000004,
+      "end": 64.38000000000001,
+      "text": "Now we've spoken many times over the years. I've thrown lots of questions at you, but"
+    },
+    {
+      "start": 64.38000000000001,
+      "end": 70.98,
+      "text": "I thought maybe as a bit of an icebreaker, what's a question that you think people in"
+    },
+    {
+      "start": 70.98,
+      "end": 75.22,
+      "text": "my position should be asking you but we never do? What's the one question you wish we'd"
+    },
+    {
+      "start": 75.22,
+      "end": 81.02000000000001,
+      "text": "ask you and what's your response? I think probably just what gets you up in the morning,"
+    },
+    {
+      "start": 81.02,
+      "end": 87.34,
+      "text": "which is like financial markets, that is my world, but just seeing humanity over"
+    },
+    {
+      "start": 87.34,
+      "end": 92.78,
+      "text": "achieve and achieve and innovate and change, that is what really excites me about actually"
+    },
+    {
+      "start": 92.78,
+      "end": 98.53999999999999,
+      "text": "being in financial markets to see things domestically and globally that literally change"
+    },
+    {
+      "start": 98.53999999999999,
+      "end": 103.1,
+      "text": "the world and being in finance, you have the benefit of seeing the future of the world"
+    },
+    {
+      "start": 103.1,
+      "end": 107.53999999999999,
+      "text": "through the eyes of business people that are innovating in product. And if you extend"
+    },
+    {
+      "start": 107.62,
+      "end": 114.7,
+      "text": "that out of finance into music or other areas of the human endeavour, which change in"
+    },
+    {
+      "start": 114.7,
+      "end": 120.22,
+      "text": "innovating, create things that are just phenomenal, I mean that's what really excites me in"
+    },
+    {
+      "start": 120.22,
+      "end": 124.58000000000001,
+      "text": "the world as a human being and I think financial markets is an amazing place because you get"
+    },
+    {
+      "start": 124.58000000000001,
+      "end": 128.74,
+      "text": "to see that frontier and that's really I guess an interesting question that I've never"
+    },
+    {
+      "start": 128.74,
+      "end": 133.94,
+      "text": "really been asked. Are you innately an optimist? Because that's quite a, I like that, that's"
+    },
+    {
+      "start": 133.94,
+      "end": 138.02,
+      "text": "an optimistic way to kick off the podcast. Yes, definitely. I'm up at the mystic and I do see"
+    },
+    {
+      "start": 138.02,
+      "end": 144.02,
+      "text": "the positive side of the world generally. The world does go through tumultuous times. I think"
+    },
+    {
+      "start": 144.02,
+      "end": 150.02,
+      "text": "we are in one now where things are quite influx and there's a lot of uncertainty, but generally"
+    },
+    {
+      "start": 150.02,
+      "end": 155.7,
+      "text": "I am quite optimistic and generally society, humanity and financial markets get through it"
+    },
+    {
+      "start": 155.7,
+      "end": 160.02,
+      "text": "pretty much as a group. We've been through the GFC, we've been through the tech crash,"
+    },
+    {
+      "start": 160.98000000000002,
+      "end": 165.62,
+      "text": "so there's been a lot of things that have been thrown at the world, whether it's risk or"
+    },
+    {
+      "start": 165.62,
+      "end": 170.74,
+      "text": "COVID which is a pandemic which is phenomenal, even my kids are saying my kids will not believe,"
+    },
+    {
+      "start": 170.74,
+      "end": 176.5,
+      "text": "we were locked up in the house for six months, they will just not believe it. So there is amazing"
+    },
+    {
+      "start": 176.5,
+      "end": 180.98000000000002,
+      "text": "things that the humanity has gone through and so I think I am optimistic and I think you need"
+    },
+    {
+      "start": 180.98000000000002,
+      "end": 185.54000000000002,
+      "text": "to be because we do go through a lot of things but it is generally just a positive outcome of the"
+    },
+    {
+      "start": 186.26,
+      "end": 191.85999999999999,
+      "text": "end. Okay, I like that as a way to start the podcast because as we were talking about just"
+    },
+    {
+      "start": 191.85999999999999,
+      "end": 199.94,
+      "text": "before we kicked off, for me personally I find myself a little out to see, usually I run quite"
+    },
+    {
+      "start": 199.94,
+      "end": 205.94,
+      "text": "bullish, I have conviction in markets right now, it feels like a difficult time for me at least"
+    },
+    {
+      "start": 206.66,
+      "end": 212.01999999999998,
+      "text": "thinking about where I would allocate money and where I have conviction."
+    },
+    {
+      "start": 212.02,
+      "end": 219.14000000000001,
+      "text": "At Fidelity as I mentioned in the introduction, you have 180 analysts there positioned around the"
+    },
+    {
+      "start": 219.14000000000001,
+      "end": 226.10000000000002,
+      "text": "world, sector specialists, which is an incredible resource for you to draw on. Given the"
+    },
+    {
+      "start": 227.06,
+      "end": 231.38,
+      "text": "environment that we find ourselves in, you alluded to it being a bit challenging as well,"
+    },
+    {
+      "start": 231.38,
+      "end": 235.94,
+      "text": "I thought you could perhaps draw on some of the information that you've gained from that"
+    },
+    {
+      "start": 235.94,
+      "end": 240.82000000000002,
+      "text": "network of analysts to help give you a bit of clarity on some of the views that you're forming"
+    },
+    {
+      "start": 240.82,
+      "end": 245.45999999999998,
+      "text": "about where we sit today and how that flows onto equity markets. Yeah James, definitely look,"
+    },
+    {
+      "start": 245.45999999999998,
+      "end": 250.57999999999998,
+      "text": "the big theme globally and I'll just start global to come back to Australia, it really is about AI."
+    },
+    {
+      "start": 250.57999999999998,
+      "end": 255.54,
+      "text": "So there's AI winners and AI, I guess leadership in the marketplace so that's very broad,"
+    },
+    {
+      "start": 256.42,
+      "end": 264.02,
+      "text": "semiconductors, cabling, engineering, physical build, plus all the hyperscalers as well."
+    },
+    {
+      "start": 264.02,
+      "end": 267.94,
+      "text": "And then you've got really the non-AI companies and the non-AI companies are those that are not"
+    },
+    {
+      "start": 267.94,
+      "end": 273.46,
+      "text": "affected by AI. I guess it's either physical, trust, something that's very embedded."
+    },
+    {
+      "start": 274.66,
+      "end": 279.06,
+      "text": "And that is really a good place to be and when we own a lot of stocks in that area."
+    },
+    {
+      "start": 280.42,
+      "end": 286.65999999999997,
+      "text": "In the middle of the rump is the AI losers and that's becoming quite a broad spectrum of the market,"
+    },
+    {
+      "start": 286.65999999999997,
+      "end": 293.14,
+      "text": "which are software companies, engineering companies, service companies that are affected and"
+    },
+    {
+      "start": 293.14,
+      "end": 297.86,
+      "text": "threatened by the revolution or evolution of AI and what its capabilities are."
+    },
+    {
+      "start": 299.53999999999996,
+      "end": 301.7,
+      "text": "That's really what the global setting is. So in Europe,"
+    },
+    {
+      "start": 302.34,
+      "end": 307.46,
+      "text": "multiples of compressed and you've got a mix of companies, the US is definitely where the AI"
+    },
+    {
+      "start": 307.46,
+      "end": 312.58,
+      "text": "leadership is really taking place. So the extremes of AI leadership and then AI losers is probably"
+    },
+    {
+      "start": 312.58,
+      "end": 318.09999999999997,
+      "text": "the highest in that market. Japan, you do get some exposure through peripherals, through technology,"
+    },
+    {
+      "start": 318.1,
+      "end": 323.46000000000004,
+      "text": "through other innovations that are related like robotics or automation."
+    },
+    {
+      "start": 324.58000000000004,
+      "end": 328.98,
+      "text": "And when you come back to the Australian market, it's really resources, to be honest,"
+    },
+    {
+      "start": 328.98,
+      "end": 332.82000000000005,
+      "text": "is really where the powerhouse of the Australian market is occurring right now. That's where you're"
+    },
+    {
+      "start": 332.82000000000005,
+      "end": 339.38,
+      "text": "getting a lot of shortness or concern about supply. So commodities are going well."
+    },
+    {
+      "start": 340.66,
+      "end": 345.86,
+      "text": "And then you do have those, still those non-AI winners that are still doing quite well."
+    },
+    {
+      "start": 346.82,
+      "end": 351.14,
+      "text": "So that's really, I guess, two areas in the market, which are still quite strong."
+    },
+    {
+      "start": 351.14,
+      "end": 355.7,
+      "text": "But globally, it is a very difficult environment because of the factors of basically"
+    },
+    {
+      "start": 355.7,
+      "end": 361.38,
+      "text": "got inflation, you've got AI, you've got consumer concerns, you've got significant regulation"
+    },
+    {
+      "start": 361.38,
+      "end": 364.90000000000003,
+      "text": "and you've got geopolitical uncertainty right now. So just with those five factors,"
+    },
+    {
+      "start": 365.94,
+      "end": 371.86,
+      "text": "it is quite hard to have very high conviction in certain things unless it's very, very clear right"
+    },
+    {
+      "start": 371.86,
+      "end": 378.66,
+      "text": "now. You touched on it there, high inflation. This is a burning topic here in Australia."
+    },
+    {
+      "start": 379.3,
+      "end": 385.62,
+      "text": "We're in a different position to other parts of the world. How are you thinking about"
+    },
+    {
+      "start": 385.62,
+      "end": 391.54,
+      "text": "the rates and inflation environment and its flow on impact equities, which is your bread and butter?"
+    },
+    {
+      "start": 391.54,
+      "end": 396.5,
+      "text": "Yeah, it's a very good question. What it does is increases the hurdle. So companies that are"
+    },
+    {
+      "start": 396.5,
+      "end": 402.98,
+      "text": "a bit more marginal in terms of cost of capital, it becomes a lot harder. Companies that are leveraged"
+    },
+    {
+      "start": 402.98,
+      "end": 407.46,
+      "text": "also, it becomes harder because again, that cost of capital is going up. So that becomes more"
+    },
+    {
+      "start": 407.46,
+      "end": 411.14,
+      "text": "challenging. So what you need to have is companies that aren't heavily leveraged,"
+    },
+    {
+      "start": 411.14,
+      "end": 416.9,
+      "text": "that do have some pricing power is the key. So pricing power and ability to basically"
+    },
+    {
+      "start": 417.7,
+      "end": 422.5,
+      "text": "price in that inflation is really, really important. If you're in markets that are very competitive,"
+    },
+    {
+      "start": 423.14,
+      "end": 428.34,
+      "text": "if you're in markets that are a lack of pricing power, or there is a lot of competition,"
+    },
+    {
+      "start": 429.06,
+      "end": 433.46,
+      "text": "it becomes very, very difficult to survive in a market where there is high inflation."
+    },
+    {
+      "start": 434.1,
+      "end": 439.62,
+      "text": "Then if you have an industry which is very leveraged, also it becomes difficult. So something"
+    },
+    {
+      "start": 439.62,
+      "end": 445.54,
+      "text": "in finance or banking, it can also become very difficult. If you couple that with in Australia,"
+    },
+    {
+      "start": 445.54,
+      "end": 451.46,
+      "text": "the tax changes, I think that puts quite a squeeze on companies, especially where there is"
+    },
+    {
+      "start": 451.46000000000004,
+      "end": 458.1,
+      "text": "financial leverage, especially like housing in the Australian market, it's going to soften"
+    },
+    {
+      "start": 458.1,
+      "end": 462.02000000000004,
+      "text": "or it's going to slow down in terms of its growth trajectory, that's the general perception."
+    },
+    {
+      "start": 462.82000000000005,
+      "end": 468.42,
+      "text": "That makes the mix of inflation and also that driver, which has been really strong in terms of"
+    },
+    {
+      "start": 468.42,
+      "end": 475.14000000000004,
+      "text": "confidence for the Australian market, it just becomes a lot harder. When the interesting thing on"
+    },
+    {
+      "start": 475.86,
+      "end": 482.18,
+      "text": "that point of companies that have the ability to pass on price rises, a number of those"
+    },
+    {
+      "start": 482.18,
+      "end": 488.41999999999996,
+      "text": "companies in the domestic market at least have effectively had a question mark put over their"
+    },
+    {
+      "start": 488.41999999999996,
+      "end": 494.41999999999996,
+      "text": "ability to pass through those price rises. You think about companies like RIA Group or Zero,"
+    },
+    {
+      "start": 494.41999999999996,
+      "end": 499.7,
+      "text": "whatever it might be. They've got a new competitor and there's less places to go find that it"
+    },
+    {
+      "start": 500.65999999999997,
+      "end": 504.65999999999997,
+      "text": "appears. Yeah, definitely. I think software and consumer are the two where it's hit really hard."
+    },
+    {
+      "start": 505.53999999999996,
+      "end": 511.06,
+      "text": "Software has definitely been because of AI as well. It's been a really difficult place to get"
+    },
+    {
+      "start": 511.06,
+      "end": 515.78,
+      "text": "pricing power and on the consumer side because of consumer confidence has been a bit weaker."
+    },
+    {
+      "start": 516.42,
+      "end": 520.74,
+      "text": "That's also been hard. So definitely those two areas were already seen announcements to say it's"
+    },
+    {
+      "start": 520.74,
+      "end": 526.42,
+      "text": "becoming more challenging and those stocks have been pretty weak and coming down in valuations"
+    },
+    {
+      "start": 526.42,
+      "end": 529.62,
+      "text": "and a little bit in earnings but a lot of it is in valuation as well."
+    },
+    {
+      "start": 531.4599999999999,
+      "end": 538.3399999999999,
+      "text": "I'm keen to dive into the area of quality stocks which in markets we've got these labels for"
+    },
+    {
+      "start": 539.14,
+      "end": 543.6999999999999,
+      "text": "factors or styles of investing. All of them sound quite appealing value. Yeah, I'd love some"
+    },
+    {
+      "start": 543.6999999999999,
+      "end": 548.26,
+      "text": "value. What about some growth? Yeah, I'll take that quality who doesn't want quality."
+    },
+    {
+      "start": 549.54,
+      "end": 554.42,
+      "text": "Now you draw on all of those factors within your portfolio construction,"
+    },
+    {
+      "start": 554.8199999999999,
+      "end": 563.4599999999999,
+      "text": "momentum as well. But for people that are not across the jargon, what does quality mean?"
+    },
+    {
+      "start": 564.42,
+      "end": 568.26,
+      "text": "Well, I make it really, really simple and I try to do that myself. Quality,"
+    },
+    {
+      "start": 568.26,
+      "end": 575.06,
+      "text": "so the return and equity of our country is around 9% to 10% return and equity. That's the profit"
+    },
+    {
+      "start": 575.06,
+      "end": 580.98,
+      "text": "divided by the equity contribution is 9%. You look at the markets in the world. That ROE"
+    },
+    {
+      "start": 580.98,
+      "end": 587.22,
+      "text": "correlation to total return is really high. Our country's return in terms of equities is around 9%."
+    },
+    {
+      "start": 587.22,
+      "end": 592.9,
+      "text": "It's very correlated. So quality is just a company that can manage to do two to three percent"
+    },
+    {
+      "start": 592.9,
+      "end": 601.62,
+      "text": "above that level. So basically 11 to 12% sustainable ROE is what we call a quality business."
+    },
+    {
+      "start": 601.62,
+      "end": 606.1,
+      "text": "Now you want to look at that at least sort of three to five year period and quite persistent as well."
+    },
+    {
+      "start": 606.1,
+      "end": 612.4200000000001,
+      "text": "That is what the traditional definition of quality is and that's what we try to term as quality."
+    },
+    {
+      "start": 612.4200000000001,
+      "end": 617.0600000000001,
+      "text": "Now the difference is quality and momentum is what you need to really distinguish,"
+    },
+    {
+      "start": 617.0600000000001,
+      "end": 620.1800000000001,
+      "text": "especially in Australian market. And momentum is where your return and equities"
+    },
+    {
+      "start": 620.1800000000001,
+      "end": 626.26,
+      "text": "is high or your return your returns levels are high but it's cyclical. It's not structural or"
+    },
+    {
+      "start": 626.26,
+      "end": 630.74,
+      "text": "it's not persistent. So that's the difference between quality and momentum and it's very"
+    },
+    {
+      "start": 630.74,
+      "end": 639.94,
+      "text": "important to distinguish between those two things. Just on quality, it's well, it's been well"
+    },
+    {
+      "start": 639.94,
+      "end": 644.1,
+      "text": "covered but you've also published some content yourselves from Fidelity. Talking about the"
+    },
+    {
+      "start": 644.1,
+      "end": 650.9,
+      "text": "challenging period that the quality factor has had, I think it's the worst period since the"
+    },
+    {
+      "start": 650.9,
+      "end": 658.42,
+      "text": "lead up to the GFC, you know, approaching two years of underperformance. What's behind that because"
+    },
+    {
+      "start": 658.42,
+      "end": 664.74,
+      "text": "the traits that you've outlined sound innately attractive to investors, yet it has had this period"
+    },
+    {
+      "start": 664.74,
+      "end": 672.0999999999999,
+      "text": "about the performance. So why is that being? So there's really two reasons. The big one is really AI."
+    },
+    {
+      "start": 672.0999999999999,
+      "end": 678.8199999999999,
+      "text": "AI has short meduration, shortness certainty and increased expectation of"
+    },
+    {
+      "start": 678.8199999999999,
+      "end": 686.3399999999999,
+      "text": "capex or innovation in order to sustain leadership in whatever market it is, whether it's realistate.com"
+    },
+    {
+      "start": 686.34,
+      "end": 692.82,
+      "text": "that are used to real estate in cars, in houses, but then also in engineering and in software,"
+    },
+    {
+      "start": 692.82,
+      "end": 698.02,
+      "text": "you know, across the board. So AI has really shortened that duration. So that return profile,"
+    },
+    {
+      "start": 698.02,
+      "end": 702.74,
+      "text": "the market is now saying it's coming down, but also the persistency and the duration of it is"
+    },
+    {
+      "start": 702.74,
+      "end": 709.3000000000001,
+      "text": "also coming in and that's why multiples have come down very dramatically. That's and the bulk"
+    },
+    {
+      "start": 709.7800000000001,
+      "end": 716.5000000000001,
+      "text": "of the quality stocks in the Australian market are in that software sector. The ones that are also"
+    },
+    {
+      "start": 716.5000000000001,
+      "end": 722.0200000000001,
+      "text": "non-related haven't really come down significantly. So something like a Fisher and Piker,"
+    },
+    {
+      "start": 722.0200000000001,
+      "end": 727.1400000000001,
+      "text": "which had a result out today and it was good, that stayed at that 40 times PE, which is more than"
+    },
+    {
+      "start": 727.1400000000001,
+      "end": 733.22,
+      "text": "double the PE of the market for a sustained period because again, it's not an AI, I guess,"
+    },
+    {
+      "start": 733.94,
+      "end": 739.38,
+      "text": "it's deep trust, it's physical and it's heavy innovation, which is physical innovation,"
+    },
+    {
+      "start": 739.38,
+      "end": 746.34,
+      "text": "not innovation based on information or innovation based on software. So that's really why"
+    },
+    {
+      "start": 746.34,
+      "end": 751.86,
+      "text": "quality has really started to underperform. It really is AI. On the other side of it is value and"
+    },
+    {
+      "start": 751.86,
+      "end": 757.5400000000001,
+      "text": "when the market is macro uncertain, the market does go towards value actually and momentum."
+    },
+    {
+      "start": 758.26,
+      "end": 762.74,
+      "text": "It chooses that paradigm because it doesn't have the patience to pay for something that's 10"
+    },
+    {
+      "start": 762.74,
+      "end": 768.66,
+      "text": "years away from now. It wants to have it right now. So the market goes towards value, which in this"
+    },
+    {
+      "start": 768.66,
+      "end": 773.86,
+      "text": "market, in the Australian market especially has been resources and resources has really been"
+    },
+    {
+      "start": 773.86,
+      "end": 781.14,
+      "text": "one of the key drivers of the market. Small cap resources last year were up 95%. That is just"
+    },
+    {
+      "start": 781.14,
+      "end": 788.5,
+      "text": "massive. And the only time that's happened in history in Australia is 2016-17. Those periods"
+    },
+    {
+      "start": 788.5,
+      "end": 794.34,
+      "text": "when you had the US balance sheet crisis, the Greece crisis, etc. And the market was very uncertain,"
+    },
+    {
+      "start": 794.34,
+      "end": 799.78,
+      "text": "macro like it is now in the market in a very short direction. So value rally was the last one we had"
+    },
+    {
+      "start": 799.78,
+      "end": 807.62,
+      "text": "and that value rally has continued since about June July of last year. And they typically do"
+    },
+    {
+      "start": 807.62,
+      "end": 814.5,
+      "text": "last 12 to sometimes 18 months. Most of the return comes through in about 12 months. So quality"
+    },
+    {
+      "start": 814.5,
+      "end": 821.22,
+      "text": "is probably still going to have another 5 or 6 months of quite typical time. And that coincides"
+    },
+    {
+      "start": 821.22,
+      "end": 828.58,
+      "text": "with AI that people won't really know what actually the impacts of AI actually will be. And you'll"
+    },
+    {
+      "start": 828.58,
+      "end": 832.66,
+      "text": "start to see them. You're already seeing them globally a lot of redundancies because of AI."
+    },
+    {
+      "start": 833.94,
+      "end": 840.02,
+      "text": "And you're starting to see the impacts of that. So if you start to see earnings weaken or"
+    },
+    {
+      "start": 840.1,
+      "end": 847.46,
+      "text": "capex going up or visibility of these businesses that had 5 to 10 years visibility, it's now"
+    },
+    {
+      "start": 847.46,
+      "end": 852.74,
+      "text": "2 or 3 years visibility, that's going to really cause concern for those quality stocks. But those"
+    },
+    {
+      "start": 852.74,
+      "end": 858.5799999999999,
+      "text": "that can deliver are going to start to re-rate. As I mentioned, the Fisher and PICL has and there"
+    },
+    {
+      "start": 858.5799999999999,
+      "end": 864.42,
+      "text": "are examples of that in the US market as well. So that's what I was going to ask you in terms of"
+    },
+    {
+      "start": 865.3800000000001,
+      "end": 870.7400000000001,
+      "text": "a catalyst for a turnaround in quality. Are you simply following earnings update to earnings"
+    },
+    {
+      "start": 870.7400000000001,
+      "end": 876.4200000000001,
+      "text": "update to see how material the impact of AI is on these companies and therefore it's a 12 to 18"
+    },
+    {
+      "start": 876.4200000000001,
+      "end": 881.6200000000001,
+      "text": "month process? Yes, agreed. And it's going to take time for that reality to start to hit."
+    },
+    {
+      "start": 881.6200000000001,
+      "end": 886.9000000000001,
+      "text": "People say the analogy is newspapers. Newspapers are fine for about three or four years after we"
+    },
+    {
+      "start": 886.9,
+      "end": 892.26,
+      "text": "all started to read news on our phones. And then everything just clift like 80 or 90 percent."
+    },
+    {
+      "start": 893.06,
+      "end": 899.4599999999999,
+      "text": "So people are expecting in a 12 to 18 months you just to get some sort of idea of change."
+    },
+    {
+      "start": 900.42,
+      "end": 907.3,
+      "text": "But I do think it is a 12 to 18 month process. And this is in some industries it's a revolution"
+    },
+    {
+      "start": 907.3,
+      "end": 911.54,
+      "text": "and in some industries it's going to be an evolution and in other industries it's just going to be"
+    },
+    {
+      "start": 911.54,
+      "end": 918.98,
+      "text": "non-existent or very low impact. So there's also that breadth of three layers of impact that the"
+    },
+    {
+      "start": 918.98,
+      "end": 927.2199999999999,
+      "text": "market has to distill in individual companies, each company that they're looking at. And that'll take"
+    },
+    {
+      "start": 927.2199999999999,
+      "end": 930.8199999999999,
+      "text": "time. It is going to take time. So I agree with you. I think it's 12 to 18 months."
+    },
+    {
+      "start": 932.18,
+      "end": 937.78,
+      "text": "I promise listeners I'm going to take this conversation in a more upbeat direction in just a moment"
+    },
+    {
+      "start": 937.78,
+      "end": 943.06,
+      "text": "because James is an optimist, I'm an optimist. But I just want to touch on periods of underperformance"
+    },
+    {
+      "start": 943.06,
+      "end": 949.3,
+      "text": "and difficult times. You're paid to manage through these periods, investors, listeners,"
+    },
+    {
+      "start": 949.3,
+      "end": 956.3399999999999,
+      "text": "this podcast might be less sure of how they deal with it. What have you learnt about investing"
+    },
+    {
+      "start": 956.3399999999999,
+      "end": 960.98,
+      "text": "through difficult times? How do you manage it? Are there any tips for our listeners?"
+    },
+    {
+      "start": 960.98,
+      "end": 966.98,
+      "text": "Look it happens to most managers and every factor has a difficult phase. You need to know I guess"
+    },
+    {
+      "start": 966.98,
+      "end": 972.4200000000001,
+      "text": "why it's happening. So I try to have a very deep look at why it's happening at the portfolio level."
+    },
+    {
+      "start": 972.4200000000001,
+      "end": 977.46,
+      "text": "So that's like factors and a portfolio structure level. Then at the industry level and then at"
+    },
+    {
+      "start": 977.46,
+      "end": 983.54,
+      "text": "the individual stock level. And you need to do those three levels to really understand why it's"
+    },
+    {
+      "start": 983.54,
+      "end": 988.66,
+      "text": "happening. And then you need to think about what am I going to do about it? How am I going to"
+    },
+    {
+      "start": 988.66,
+      "end": 994.82,
+      "text": "reposition for it? What have I learned but what has in reality changed and what is transient,"
+    },
+    {
+      "start": 994.82,
+      "end": 1000.98,
+      "text": "what is structural? And the biggest lesson is you can't change your process. If you've had a"
+    },
+    {
+      "start": 1000.98,
+      "end": 1006.5,
+      "text": "process whether it is a value manager, a momentum manager or a quality manager or for me I'm a blended"
+    },
+    {
+      "start": 1006.5,
+      "end": 1012.6600000000001,
+      "text": "manager. You need to stick to that process and reflect on your underperformance in the context of"
+    },
+    {
+      "start": 1012.6600000000001,
+      "end": 1018.5,
+      "text": "your process. And that is what I've learned. And I've always done it in 2016-17 was my other"
+    },
+    {
+      "start": 1018.58,
+      "end": 1025.22,
+      "text": "period of underperformance. That was a lot more severe and I probably would have been in that position"
+    },
+    {
+      "start": 1025.22,
+      "end": 1030.58,
+      "text": "if I didn't take the lessons and actually act on change. That I looked at quality valuations"
+    },
+    {
+      "start": 1030.58,
+      "end": 1037.06,
+      "text": "and extremes and also valuations extremes, value extremes in that market. And when they were"
+    },
+    {
+      "start": 1037.06,
+      "end": 1045.94,
+      "text": "which it was in 2024 and 2025, quality and massively outperformed, massively outperformed."
+    },
+    {
+      "start": 1045.94,
+      "end": 1052.26,
+      "text": "And a lot of that was software and value which is cyclicals and resources had significantly"
+    },
+    {
+      "start": 1052.26,
+      "end": 1057.7,
+      "text": "underperformed. And there was a very similar pattern in 2016-17 where that happened and then"
+    },
+    {
+      "start": 1058.42,
+      "end": 1064.1000000000001,
+      "text": "as I just mentioned to you in that period 2016-17 energy and resources went up 100% during that"
+    },
+    {
+      "start": 1064.1000000000001,
+      "end": 1069.94,
+      "text": "phase and that's what happened again in this phase just now. But that's what I was reducing"
+    },
+    {
+      "start": 1069.94,
+      "end": 1075.78,
+      "text": "quality towards the back end of last year, trimming on the software names, trimming on very,"
+    },
+    {
+      "start": 1075.78,
+      "end": 1083.06,
+      "text": "very high PE stocks that have 60 to 70% of their alpha or price performance was just PE re-rating."
+    },
+    {
+      "start": 1083.06,
+      "end": 1089.3,
+      "text": "Now that is great to emphasise to the market and the world that you have duration. But when that's"
+    },
+    {
+      "start": 1089.3,
+      "end": 1095.3,
+      "text": "too extreme, the risks on the downside are very significant which is what's happened globally"
+    },
+    {
+      "start": 1095.3799999999999,
+      "end": 1100.82,
+      "text": "in the last sort of six to nine months. So that's what I'd say about underperformance. So for me,"
+    },
+    {
+      "start": 1100.82,
+      "end": 1108.18,
+      "text": "I've, yeah, I now own quite a lot of resources. But in terms of quality, I haven't gone,"
+    },
+    {
+      "start": 1108.18,
+      "end": 1112.6599999999999,
+      "text": "you know, completed the other way. I haven't changed my process. I've trimmed down and where I am"
+    },
+    {
+      "start": 1112.6599999999999,
+      "end": 1118.4199999999998,
+      "text": "comfortable that the companies are not, I am impacted I guess. I've actually added more"
+    },
+    {
+      "start": 1119.1399999999999,
+      "end": 1124.58,
+      "text": "in the last six to nine months to those stocks that are still doing well, delivering good"
+    },
+    {
+      "start": 1124.58,
+      "end": 1129.3799999999999,
+      "text": "numbers, what they're doing, you know, is not AI affected. They're still market leaders,"
+    },
+    {
+      "start": 1129.3799999999999,
+      "end": 1133.62,
+      "text": "they're still market innovators. And that's still where I'm comfortable to keep on adding back"
+    },
+    {
+      "start": 1133.62,
+      "end": 1139.54,
+      "text": "into quality. What are a couple of examples there? Hub is one and Fisher and Parkle is the other one."
+    },
+    {
+      "start": 1139.54,
+      "end": 1144.1799999999998,
+      "text": "You know, both of them in my top 10 have actually added to them. Also, Charter Hall are people"
+    },
+    {
+      "start": 1144.1799999999998,
+      "end": 1148.4199999999998,
+      "text": "worried about that. Same as we on CBR in the Global Fund and that was worried about"
+    },
+    {
+      "start": 1148.98,
+      "end": 1155.14,
+      "text": "that being an information services type company. But actually, it is, it's a network of investors"
+    },
+    {
+      "start": 1155.14,
+      "end": 1159.8600000000001,
+      "text": "that are focused on fixed income. So they're the three that I've added to. I'd say quality,"
+    },
+    {
+      "start": 1159.8600000000001,
+      "end": 1166.5,
+      "text": "Charter Hall, Harban Fisher and Parkle Healthcare. Yeah. Now, as I mentioned in my introduction,"
+    },
+    {
+      "start": 1166.5,
+      "end": 1172.66,
+      "text": "you've got the ability to invest both globally and locally, which is, I guess, a bit of a luxury,"
+    },
+    {
+      "start": 1172.66,
+      "end": 1178.5,
+      "text": "maybe a bit of extra work. But if we look globally, attention is all on the hyperscalers"
+    },
+    {
+      "start": 1178.5,
+      "end": 1185.94,
+      "text": "and the AI build out. You're focused on finding future leaders, which excuse you to the"
+    },
+    {
+      "start": 1185.94,
+      "end": 1190.66,
+      "text": "the mid and the small cap part of the market. What's the opportunity set that you're seeing and"
+    },
+    {
+      "start": 1190.66,
+      "end": 1194.74,
+      "text": "how you're playing it? What's getting you, what's getting you excited? Yeah, I'll just frame it in"
+    },
+    {
+      "start": 1194.74,
+      "end": 1201.8600000000001,
+      "text": "terms of market cap size. So our actual mid caps in the world is actually now 100 billion US. That's"
+    },
+    {
+      "start": 1201.8600000000001,
+      "end": 1208.5800000000002,
+      "text": "mid caps. That's small caps down to go down to one billion. So 100 billion US is 150 billion"
+    },
+    {
+      "start": 1208.5800000000002,
+      "end": 1214.66,
+      "text": "dollar companies. So these are big companies. But the opportunity set really has been really towards,"
+    },
+    {
+      "start": 1214.66,
+      "end": 1221.94,
+      "text": "I guess, AI, but the breadth of AI. So semiconductors, memory, cabling, peripherals, consulting,"
+    },
+    {
+      "start": 1221.94,
+      "end": 1230.18,
+      "text": "then you've got builders, engineering. So the breadth of actually picks and shovels in mid caps"
+    },
+    {
+      "start": 1230.18,
+      "end": 1236.66,
+      "text": "and small caps. And it's in that 25 to 30 percent range of our funders now, AI, related."
+    },
+    {
+      "start": 1237.8600000000001,
+      "end": 1243.46,
+      "text": "So that's quite significant. And the opportunity set is quite large. Obviously, hyperscalers"
+    },
+    {
+      "start": 1243.46,
+      "end": 1249.14,
+      "text": "and very large semiconductor businesses like Nvidia are out of our league and being three,"
+    },
+    {
+      "start": 1249.14,
+      "end": 1254.42,
+      "text": "four trillion dollars market caps now. But in that 100 billion dollars and below, there is a lot of"
+    },
+    {
+      "start": 1254.42,
+      "end": 1260.02,
+      "text": "picks and shovels businesses which have been doing incredibly well. So we do own a lot of them"
+    },
+    {
+      "start": 1260.8200000000002,
+      "end": 1266.18,
+      "text": "right across the board. Like I said, semis and a lot of the builders are comfort systems actually"
+    },
+    {
+      "start": 1266.18,
+      "end": 1272.66,
+      "text": "now our number one position. Comfort systems is one of the builders in terms of construction and"
+    },
+    {
+      "start": 1272.66,
+      "end": 1278.3400000000001,
+      "text": "they've been building data centers which upgrades have been significant over the years, especially"
+    },
+    {
+      "start": 1278.34,
+      "end": 1284.82,
+      "text": "the last two to three years. But the breadth of opportunity is significant. And is that 30 percent"
+    },
+    {
+      "start": 1284.82,
+      "end": 1290.02,
+      "text": "exposure you said meaningful? Is that like a really big bet for you in the fund?"
+    },
+    {
+      "start": 1291.1399999999999,
+      "end": 1296.4199999999998,
+      "text": "Well, it's spread across information technology, communication services,"
+    },
+    {
+      "start": 1297.54,
+      "end": 1302.1799999999998,
+      "text": "utilities, or even an energy company as well. It's probably one of the largest"
+    },
+    {
+      "start": 1302.1799999999998,
+      "end": 1306.74,
+      "text": "thematic exposures we've had when we think about our funding terms of theme exposures. It's"
+    },
+    {
+      "start": 1306.74,
+      "end": 1311.06,
+      "text": "probably one of the largest. We've had typically we have 10 to 20 percent exposed to one theme."
+    },
+    {
+      "start": 1311.86,
+      "end": 1316.42,
+      "text": "But being 25 to 30 percent it's probably one of the largest themes. But the breadth of it and the"
+    },
+    {
+      "start": 1317.06,
+      "end": 1324.34,
+      "text": "I guess diversity of that exposure is quite large. We're also not chasing very hot things. We try to"
+    },
+    {
+      "start": 1324.34,
+      "end": 1330.34,
+      "text": "get things that have duration in them. So three to five year visibility is what we want to have"
+    },
+    {
+      "start": 1330.34,
+      "end": 1336.5,
+      "text": "and what we want to be able to see. But it is quite a significant position. So we are"
+    },
+    {
+      "start": 1336.5,
+      "end": 1340.9,
+      "text": "quite conscious of it. Like the fund perform very strongly the global future leads fund perform"
+    },
+    {
+      "start": 1340.9,
+      "end": 1346.5,
+      "text": "very strongly in the month of April because of the fact that we did have a lot of AI exposure."
+    },
+    {
+      "start": 1347.62,
+      "end": 1352.82,
+      "text": "So that's it is symptomatic that it's doing well when AI is doing well. So we're very conscious"
+    },
+    {
+      "start": 1352.82,
+      "end": 1359.14,
+      "text": "of that. But we have tried to create breadth rather than just having one or two kind of exposures."
+    },
+    {
+      "start": 1359.14,
+      "end": 1364.74,
+      "text": "It's about five or six kind of exposures that we do have in that 25 to 30 percent exposure."
+    },
+    {
+      "start": 1365.46,
+      "end": 1371.38,
+      "text": "Let's stay with that perhaps. You could share a recent edition on that global front."
+    },
+    {
+      "start": 1373.06,
+      "end": 1378.34,
+      "text": "The ideas I've looked through your top 10 companies I've never heard of that clearly as you talk"
+    },
+    {
+      "start": 1378.34,
+      "end": 1381.94,
+      "text": "about the scale of these businesses, quite meaningful. Perhaps you could just take us on a little"
+    },
+    {
+      "start": 1381.94,
+      "end": 1386.02,
+      "text": "bit of a stock story and talk through a recent edition, explain what the business does,"
+    },
+    {
+      "start": 1386.02,
+      "end": 1390.26,
+      "text": "how it's involved in that AI build out, if that's the stock that you want to choose."
+    },
+    {
+      "start": 1390.82,
+      "end": 1395.86,
+      "text": "Yeah, well a new edition is is lamenting which is actually optical technology. So"
+    },
+    {
+      "start": 1397.3,
+      "end": 1404.82,
+      "text": "just cabling inside AI and from the AI data center to some sort of a junction point"
+    },
+    {
+      "start": 1405.78,
+      "end": 1412.66,
+      "text": "and also just between within the actual data centers optical cables is becoming a much bigger theme."
+    },
+    {
+      "start": 1412.66,
+      "end": 1418.1,
+      "text": "It's quite a well-known theme I guess globally but domestically we know about copper a lot"
+    },
+    {
+      "start": 1418.1000000000001,
+      "end": 1422.5000000000002,
+      "text": "because we have stocks like sandfire and other copper stocks in the Australian market"
+    },
+    {
+      "start": 1423.7800000000002,
+      "end": 1430.2600000000002,
+      "text": "but globally optical fiber technology to transmit data just because of the speed,"
+    },
+    {
+      "start": 1430.2600000000002,
+      "end": 1435.7,
+      "text": "the demand and the volumes of data that is just going from our phones and computers into the cloud"
+    },
+    {
+      "start": 1435.7,
+      "end": 1439.7,
+      "text": "from the cloud back into workplaces or into data centers and then back out again."
+    },
+    {
+      "start": 1441.0600000000002,
+      "end": 1446.7400000000002,
+      "text": "The view is that this is a new technology that allows for basically faster"
+    },
+    {
+      "start": 1446.74,
+      "end": 1452.42,
+      "text": "more volume of data transmission and so that's something that we we're recently invested in which"
+    },
+    {
+      "start": 1452.42,
+      "end": 1460.34,
+      "text": "is Lamentum there are others that we also own which is a really fascinating technology it's very"
+    },
+    {
+      "start": 1460.34,
+      "end": 1466.74,
+      "text": "innovative and the growth in that market is accelerating quite rapidly because of the the speed of"
+    },
+    {
+      "start": 1466.74,
+      "end": 1475.22,
+      "text": "data center builds but also it's just a volume and speed requirements of data in the world."
+    },
+    {
+      "start": 1476.18,
+      "end": 1480.5,
+      "text": "And what sort of multiple or price are you paying for a business like that?"
+    },
+    {
+      "start": 1481.94,
+      "end": 1487.7,
+      "text": "It's not cheap so it's not like it's in the high multiples so that 30, 40 times multiple but it"
+    },
+    {
+      "start": 1487.7,
+      "end": 1493.06,
+      "text": "is growing very rapidly what you've had in a lot of names like comfort systems is an easy one"
+    },
+    {
+      "start": 1493.06,
+      "end": 1498.58,
+      "text": "that we'll talk about in terms of multiples that's on in a nearly 40 times multiple but the upgrade"
+    },
+    {
+      "start": 1498.58,
+      "end": 1507.6999999999998,
+      "text": "from 12 months ago to today it's in the 70 to 80% range and it's an IPS upgrade so if expectations"
+    },
+    {
+      "start": 1507.6999999999998,
+      "end": 1514.5,
+      "text": "one year ago were X and today they're 80% above X Lamentum similar where expectations in terms of"
+    },
+    {
+      "start": 1514.5,
+      "end": 1519.3,
+      "text": "earnings is going up and then I like to talk about the structure of earnings so the structure"
+    },
+    {
+      "start": 1519.3,
+      "end": 1525.3,
+      "text": "of earnings like this year next year the year after and the year after it's all upward and Lamentum"
+    },
+    {
+      "start": 1525.3,
+      "end": 1530.5,
+      "text": "is the same you know we're not talking about I guess you know companies that are growing 5-10%"
+    },
+    {
+      "start": 1530.5,
+      "end": 1535.7,
+      "text": "and it's kind of you know or it's or it's cyclical it's up 40% and then going downwards this is"
+    },
+    {
+      "start": 1535.7,
+      "end": 1542.58,
+      "text": "a structural growth engine which is why I guess the multiples are quite high but expectations are rising"
+    },
+    {
+      "start": 1543.62,
+      "end": 1552.26,
+      "text": "and the growth that's occurring is you know 30, 40, 50% in terms of earnings you know over the next"
+    },
+    {
+      "start": 1552.26,
+      "end": 1559.06,
+      "text": "three to five years so they're in an in an environment of AI where everything is quite"
+    },
+    {
+      "start": 1559.06,
+      "end": 1565.62,
+      "text": "exponential to be honest and that's where the earnings expectations are going up the speed of"
+    },
+    {
+      "start": 1565.62,
+      "end": 1571.62,
+      "text": "the growth is accelerating quite quickly you know I was just listening to a podcast about Anthropics"
+    },
+    {
+      "start": 1571.62,
+      "end": 1580.5,
+      "text": "Revenue's I mean they are hockey stick phenomenal growth and this whole environment is obviously"
+    },
+    {
+      "start": 1580.5,
+      "end": 1586.42,
+      "text": "getting excited by that but it is it is quite real that this is you know this is happening quite"
+    },
+    {
+      "start": 1586.42,
+      "end": 1592.74,
+      "text": "quickly and the breadth of it is what is exciting and that is what the investment opportunity breadth"
+    },
+    {
+      "start": 1592.74,
+      "end": 1599.94,
+      "text": "is what is exciting because it it is significant and it is quick but it is quite broad okay"
+    },
+    {
+      "start": 1599.94,
+      "end": 1604.1,
+      "text": "what sounds like you got lots to get excited about on the global front what about the Australian"
+    },
+    {
+      "start": 1604.1,
+      "end": 1609.14,
+      "text": "market the the bread and butter of many of our listeners feels feels like we're being a little"
+    },
+    {
+      "start": 1609.14,
+      "end": 1615.3000000000002,
+      "text": "overlooked across many sectors down here at the moment resources it's great that we've got that"
+    },
+    {
+      "start": 1615.3000000000002,
+      "end": 1620.5,
+      "text": "big part of our economy what's the opportunity that you see here in Australia yeah definitely"
+    },
+    {
+      "start": 1620.5,
+      "end": 1627.0600000000002,
+      "text": "resources is one of the biggest ones so yeah we have quite a lot of resources in the fun but don't"
+    },
+    {
+      "start": 1627.0600000000002,
+      "end": 1631.94,
+      "text": "yet I think you've got to think also non-resources there is quite a lot of still good things going on"
+    },
+    {
+      "start": 1631.94,
+      "end": 1636.74,
+      "text": "so FinTech as I mentioned companies like hub and net wealth are still doing well health care has"
+    },
+    {
+      "start": 1636.74,
+      "end": 1641.06,
+      "text": "been a terrible time in the Australian market with large caps you Cochlear CSL have come down"
+    },
+    {
+      "start": 1641.06,
+      "end": 1646.02,
+      "text": "enormously you're probably great grateful you can't venture into that I'm glad I'm not in large"
+    },
+    {
+      "start": 1646.02,
+      "end": 1651.78,
+      "text": "caps I'm glad I'm not doing the large cap environment so they've been really tough so one bright spot"
+    },
+    {
+      "start": 1651.78,
+      "end": 1656.1,
+      "text": "in my space has been Fisher and Parkle health care which has been you know doing really well"
+    },
+    {
+      "start": 1656.1,
+      "end": 1662.34,
+      "text": "delivered a good result today and that's you know again it's not AI affected it's got a deep trust"
+    },
+    {
+      "start": 1662.3400000000001,
+      "end": 1671.3000000000002,
+      "text": "environment it's hospitals it's critical intensive care or sleep apnea so these are in a very"
+    },
+    {
+      "start": 1671.3000000000002,
+      "end": 1679.14,
+      "text": "critical deep trust environments which is again very important same as FinTech the FinTech businesses"
+    },
+    {
+      "start": 1679.14,
+      "end": 1685.7800000000002,
+      "text": "being hub and net wealth this is $100 billion of capital is sitting on those platforms"
+    },
+    {
+      "start": 1685.7800000000002,
+      "end": 1691.2200000000003,
+      "text": "being trusted by investors to be a true representation of their wealth a true representation of"
+    },
+    {
+      "start": 1691.22,
+      "end": 1698.74,
+      "text": "what the values are and that is a system which has been you know successful still so these are"
+    },
+    {
+      "start": 1698.74,
+      "end": 1703.54,
+      "text": "things that are still exciting me and they're still you know in my significant position and holdings"
+    },
+    {
+      "start": 1704.82,
+      "end": 1710.18,
+      "text": "and the yeah the resources piece is significant because that is that is feeding really the AI"
+    },
+    {
+      "start": 1710.18,
+      "end": 1717.3,
+      "text": "boom it's not just AI though because it's it's rare earths it's copper it's nickel it's gold so"
+    },
+    {
+      "start": 1717.3,
+      "end": 1722.82,
+      "text": "the Australian resources breadth is is quite wide so it's best to be exposed to a lot of them and"
+    },
+    {
+      "start": 1722.82,
+      "end": 1729.62,
+      "text": "also steel so there is quite a lot to be excited about in terms of resources so I'd say resources"
+    },
+    {
+      "start": 1729.62,
+      "end": 1736.26,
+      "text": "probably the big one then I'd say it's yeah those sort of innovative leadership quality companies"
+    },
+    {
+      "start": 1736.26,
+      "end": 1741.54,
+      "text": "that are still doing well which I mentioned chart all Fisher and Parkle and Hub they're still doing"
+    },
+    {
+      "start": 1741.54,
+      "end": 1747.62,
+      "text": "well and then it's really the tail is of other businesses so whether it's you know"
+    },
+    {
+      "start": 1749.1399999999999,
+      "end": 1754.8999999999999,
+      "text": "defensive or real estate I still own a small tail of other things as well but they're the main"
+    },
+    {
+      "start": 1754.8999999999999,
+      "end": 1760.42,
+      "text": "things really resources which is mainly in momentum to be honest right now and then those"
+    },
+    {
+      "start": 1760.42,
+      "end": 1766.42,
+      "text": "quality names which from those long duration industry leaders industry winners innovators in"
+    },
+    {
+      "start": 1766.42,
+      "end": 1772.5,
+      "text": "technology or innovators in health care and trust that really sort of lead and drive the portfolio"
+    },
+    {
+      "start": 1772.5,
+      "end": 1779.0600000000002,
+      "text": "at the moment yep so that Australian portfolio based on the latest numbers I saw had a 30% exposure"
+    },
+    {
+      "start": 1779.0600000000002,
+      "end": 1785.8600000000001,
+      "text": "to materials when was the last time you had that big of an exposure yeah I think it's about 36%"
+    },
+    {
+      "start": 1785.8600000000001,
+      "end": 1792.02,
+      "text": "today the last time that happens was that appeared that I mentioned in 2017 oh no actually was"
+    },
+    {
+      "start": 1792.02,
+      "end": 1800.9,
+      "text": "lithium bubble lithium bubble which was 2021 22 so three or four years ago it was and that was"
+    },
+    {
+      "start": 1800.9,
+      "end": 1808.1,
+      "text": "when you had it's very similar theme you had like one or two things which are driving the market"
+    },
+    {
+      "start": 1808.1,
+      "end": 1813.3,
+      "text": "up but you had like maybe one or two stocks two years before the boom and then you had about 10"
+    },
+    {
+      "start": 1813.3,
+      "end": 1819.46,
+      "text": "stocks that were part of that bubble so it was I was I'm lithium bubble driven by electric vehicles"
+    },
+    {
+      "start": 1819.54,
+      "end": 1827.46,
+      "text": "right then and that was a huge theme and you had Pilbara you had Galaxy and you had about 10"
+    },
+    {
+      "start": 1827.46,
+      "end": 1833.46,
+      "text": "lithium stocks and that was the last time we had but gold was doing okay then as well so it was"
+    },
+    {
+      "start": 1833.46,
+      "end": 1839.6200000000001,
+      "text": "actually multiple kind of drivers of that of that resources boom but that was the last time we"
+    },
+    {
+      "start": 1839.6200000000001,
+      "end": 1846.98,
+      "text": "had such a significant weight in resources we have that again now but it actually is broader now"
+    },
+    {
+      "start": 1846.98,
+      "end": 1852.74,
+      "text": "which is quite significant for the Australian market especially means it's malls because it is"
+    },
+    {
+      "start": 1852.74,
+      "end": 1858.02,
+      "text": "that breadth of year lithium as well as nickel as well as copper as well as gold as well as"
+    },
+    {
+      "start": 1858.02,
+      "end": 1865.22,
+      "text": "rare earths as well as steel so that without the last time it was mainly lithium that was driving up"
+    },
+    {
+      "start": 1865.22,
+      "end": 1874.18,
+      "text": "that bubble but it was resources and then yet 2016 17 was the last time so it was really 2016 17"
+    },
+    {
+      "start": 1874.26,
+      "end": 1880.18,
+      "text": "then you had really lithium bubble period and then you've got it now so it's quite a lot for"
+    },
+    {
+      "start": 1880.18,
+      "end": 1886.98,
+      "text": "that happened three times in in basically 10 years and you know luckily for the Australian market"
+    },
+    {
+      "start": 1886.98,
+      "end": 1891.7,
+      "text": "it's quite a significant opportunity because again there's cyclicals and you've got to be willing"
+    },
+    {
+      "start": 1891.7,
+      "end": 1897.14,
+      "text": "to change your mind that this cyclical up swing is happening you get upgrades you get multiples"
+    },
+    {
+      "start": 1897.14,
+      "end": 1902.5800000000002,
+      "text": "commodity prices go up and they do you know they do go upwards with the earnings and when the market"
+    },
+    {
+      "start": 1902.58,
+      "end": 1908.74,
+      "text": "is very value focused they do go short duration so they want to see the earnings now not"
+    },
+    {
+      "start": 1908.74,
+      "end": 1916.1799999999998,
+      "text": "something in 5 or 10 years time so when the market loses that duration I guess impatience the"
+    },
+    {
+      "start": 1916.1799999999998,
+      "end": 1922.98,
+      "text": "resources names and other names which have earnings strong now is something that is going to be"
+    },
+    {
+      "start": 1922.98,
+      "end": 1929.86,
+      "text": "basically I guess working and performing in the market yeah Australia's large cap miners very"
+    },
+    {
+      "start": 1929.8600000000001,
+      "end": 1935.0600000000002,
+      "text": "well-known very well owned in the mid cap space what are some of the ideas that you like"
+    },
+    {
+      "start": 1936.3400000000001,
+      "end": 1941.46,
+      "text": "I really is lithium so Pilbara has just gone out but I still like that and can hold on to that"
+    },
+    {
+      "start": 1941.46,
+      "end": 1948.8200000000002,
+      "text": "one so that's PLS IGO is another good name that we own they're probably two significant ones and"
+    },
+    {
+      "start": 1948.8200000000002,
+      "end": 1954.42,
+      "text": "then you own a little bit of sand fire which is copper but those three you know quite see"
+    },
+    {
+      "start": 1954.5800000000002,
+      "end": 1959.7,
+      "text": "you begin and then there's a range of gold names but Pilbara has been you know see you begin"
+    },
+    {
+      "start": 1959.7,
+      "end": 1965.14,
+      "text": "position for me for a long period of time it's in a good space lithium is going very well in terms"
+    },
+    {
+      "start": 1965.14,
+      "end": 1970.74,
+      "text": "of market structure and commodity prices and and Pilbara has been a very good manager to you know"
+    },
+    {
+      "start": 1970.74,
+      "end": 1977.46,
+      "text": "basically to get exposure to that marketplace yeah we're going to move into our regular questions"
+    },
+    {
+      "start": 1977.46,
+      "end": 1984.1000000000001,
+      "text": "in just a moment but when you participated in our outlook series it started a year you talked"
+    },
+    {
+      "start": 1984.1000000000001,
+      "end": 1991.3000000000002,
+      "text": "about the momentum in growth stocks which was a big theme last year and an expectation that could"
+    },
+    {
+      "start": 1991.3000000000002,
+      "end": 1997.8600000000001,
+      "text": "continue obviously there was a moment of realization earlier this year when that momentum was halted"
+    },
+    {
+      "start": 1998.9800000000002,
+      "end": 2004.8200000000002,
+      "text": "is that an opportunity now in in some of those growth names whether it was that heavy sell-off"
+    },
+    {
+      "start": 2004.8200000000002,
+      "end": 2009.94,
+      "text": "or is it just time to pause and reconsider how are you viewing that that sort of slightly"
+    },
+    {
+      "start": 2009.94,
+      "end": 2017.8600000000001,
+      "text": "battered growth part of the market yeah it's been a huge hit side I think really you've got to"
+    },
+    {
+      "start": 2017.8600000000001,
+      "end": 2023.6200000000001,
+      "text": "look for the lens of AI so if it's AI impacted I think you actually have right to be very cautious"
+    },
+    {
+      "start": 2023.6200000000001,
+      "end": 2027.8600000000001,
+      "text": "and I think it's going to be very hard for those companies to to they're not going to re-rate it's"
+    },
+    {
+      "start": 2027.8600000000001,
+      "end": 2032.9,
+      "text": "unlikely for them to re-rate back to where they were because the duration that they had"
+    },
+    {
+      "start": 2033.7800000000002,
+      "end": 2040.9,
+      "text": "and the runway they had was you know very long now the risk of that is it actually is very short"
+    },
+    {
+      "start": 2042.42,
+      "end": 2048.1800000000003,
+      "text": "because of what AI can basically build and in terms of threaten so it's really competition so"
+    },
+    {
+      "start": 2048.1800000000003,
+      "end": 2055.14,
+      "text": "I've said quality cracks when you get competition capex and complacency and at the moment a lot of"
+    },
+    {
+      "start": 2055.14,
+      "end": 2062.8199999999997,
+      "text": "those three and those big three things are basically hit AI you know basically hit sorry software"
+    },
+    {
+      "start": 2062.8199999999997,
+      "end": 2068.1,
+      "text": "companies in those three ways so that's going to make it hard for those growth socks that are"
+    },
+    {
+      "start": 2068.1,
+      "end": 2073.7,
+      "text": "software based for those growth stocks that are non software based I think you're in a better spot"
+    },
+    {
+      "start": 2073.7,
+      "end": 2080.1,
+      "text": "so like I mentioned things like charter hall or a hub where there's either trust or it's physical"
+    },
+    {
+      "start": 2080.1,
+      "end": 2086.8199999999997,
+      "text": "or it's a significant you know network that's where you've got a bit more a bit more of a runway"
+    },
+    {
+      "start": 2086.8199999999997,
+      "end": 2091.7799999999997,
+      "text": "and a bit more time and that's I think where those stocks have potential to continue to deliver"
+    },
+    {
+      "start": 2091.7799999999997,
+      "end": 2098.66,
+      "text": "and continue to perform but they still need to innovate and they still need to invest so that's"
+    },
+    {
+      "start": 2098.66,
+      "end": 2105.22,
+      "text": "I think where the growth stocks are either challenged or all less challenged and until the market"
+    },
+    {
+      "start": 2105.2200000000003,
+      "end": 2111.7000000000003,
+      "text": "goes through this period of uncertainty it's not going to turn aggressively towards quality I"
+    },
+    {
+      "start": 2111.7000000000003,
+      "end": 2118.34,
+      "text": "think it'll turn to quality slowly from August onwards and then start to re-rate because it'll"
+    },
+    {
+      "start": 2118.34,
+      "end": 2122.82,
+      "text": "start to feel more confident about the duration of these businesses but for the moment the markets"
+    },
+    {
+      "start": 2122.82,
+      "end": 2127.3,
+      "text": "are very cautious I think rightfully so given all the uncertainties in the world well let's dive"
+    },
+    {
+      "start": 2127.3,
+      "end": 2134.26,
+      "text": "into our three regular questions that we put to all guests that come on the podcast James could"
+    },
+    {
+      "start": 2134.26,
+      "end": 2141.7000000000003,
+      "text": "you share a lesson from a big win or a big loss what happened and what was the lesson all right let's"
+    },
+    {
+      "start": 2141.7000000000003,
+      "end": 2146.82,
+      "text": "go big loss first the big loss for me is after pace being one of the you know most significant"
+    },
+    {
+      "start": 2146.82,
+      "end": 2151.6200000000003,
+      "text": "negative contributors for the fund you've got to be just willing to change your mind and this is"
+    },
+    {
+      "start": 2151.6200000000003,
+      "end": 2159.0600000000004,
+      "text": "momentum extreme like this is in covert the market wanted to have credit available you know all"
+    },
+    {
+      "start": 2159.06,
+      "end": 2166.02,
+      "text": "the banks were were stressing about you know jobs and pandemics and housing valuations and credit"
+    },
+    {
+      "start": 2166.9,
+      "end": 2170.9,
+      "text": "the world was in a very difficult place in the middle of a pandemic and after pay was basically"
+    },
+    {
+      "start": 2170.9,
+      "end": 2176.82,
+      "text": "providing short-term credit for people in the Australia market and it had a real significant"
+    },
+    {
+      "start": 2176.82,
+      "end": 2183.38,
+      "text": "in a product that was growing very rapidly I thought regulation would come in regulation was delayed"
+    },
+    {
+      "start": 2184.34,
+      "end": 2189.3,
+      "text": "because the market didn't want to all the government didn't want to put regulation on to credit"
+    },
+    {
+      "start": 2189.3,
+      "end": 2196.34,
+      "text": "huh in the middle of a pandemic so that company you know went up you know 20 or 30 times from"
+    },
+    {
+      "start": 2196.34,
+      "end": 2202.34,
+      "text": "the bottom I mean then I've obviously got then got taken over so you did know it I did know and"
+    },
+    {
+      "start": 2202.34,
+      "end": 2206.5,
+      "text": "I actually held it at index and then thought I know this thing's not going to work and then it"
+    },
+    {
+      "start": 2206.5,
+      "end": 2212.1800000000003,
+      "text": "went down and then it just went up you know enormously after that so yeah I think the lesson is you just"
+    },
+    {
+      "start": 2212.3399999999997,
+      "end": 2218.18,
+      "text": "sometimes moment especially with momentum it's where the big lessons in terms of negatives"
+    },
+    {
+      "start": 2218.98,
+      "end": 2224.8199999999997,
+      "text": "you just got to accept either you don't know or this thing has a lot of momentum and the market"
+    },
+    {
+      "start": 2224.8199999999997,
+      "end": 2231.06,
+      "text": "has put a dream in its mind and the valuation is basically going to be extending to where that"
+    },
+    {
+      "start": 2231.06,
+      "end": 2238.8999999999996,
+      "text": "dream is and after pay's dream was was big I mean it could be huge and that's what really happened"
+    },
+    {
+      "start": 2238.9,
+      "end": 2245.14,
+      "text": "so that became a very significant and a 15 billion market cap and it was losing money right it"
+    },
+    {
+      "start": 2245.14,
+      "end": 2252.58,
+      "text": "was losing money so if you want to be in a very hard discipline investor you know you missed"
+    },
+    {
+      "start": 2252.58,
+      "end": 2258.82,
+      "text": "it and I did so my lessons through that and I've you know had the lesson learned is that you just"
+    },
+    {
+      "start": 2258.82,
+      "end": 2264.6600000000003,
+      "text": "got to be accepting of the market's dream that it has in its mind which takes it as either momentum"
+    },
+    {
+      "start": 2264.66,
+      "end": 2269.46,
+      "text": "is very much like a nightclub it's like a party it's hot sweaty it's fun and everyone wants to"
+    },
+    {
+      "start": 2269.46,
+      "end": 2274.58,
+      "text": "be there and you just need to accept that that happens sometimes in markets and when it comes to"
+    },
+    {
+      "start": 2274.58,
+      "end": 2280.66,
+      "text": "stocks the valuation that can create is significant just like the energy created in a room can be very"
+    },
+    {
+      "start": 2280.66,
+      "end": 2287.22,
+      "text": "significant and there might not even be earnings but that is what happens and you just need to accept"
+    },
+    {
+      "start": 2287.22,
+      "end": 2293.3799999999997,
+      "text": "that the market is seeing it so I should have if I started index I wouldn't have been as significantly"
+    },
+    {
+      "start": 2293.38,
+      "end": 2299.3,
+      "text": "as affected obviously for those that participated they made a lot of money so that's what you"
+    },
+    {
+      "start": 2299.3,
+      "end": 2304.82,
+      "text": "just got to be willing to change your mind on the other side like quality on the positive side"
+    },
+    {
+      "start": 2304.82,
+      "end": 2309.86,
+      "text": "something like a Rista was one that we actually bought almost at the assumption of the global"
+    },
+    {
+      "start": 2309.86,
+      "end": 2315.1400000000003,
+      "text": "future leaders fund and we actually sold it about three days before we had to sell it because it"
+    },
+    {
+      "start": 2315.1400000000003,
+      "end": 2323.06,
+      "text": "was basically too large it's now 150 billion US market cap and that is a business that again"
+    },
+    {
+      "start": 2323.06,
+      "end": 2329.54,
+      "text": "again you this is amazing that it controls the switches that are in data centers and there's"
+    },
+    {
+      "start": 2329.54,
+      "end": 2333.54,
+      "text": "only three companies on the planet that actually manufacture those things and are trusted by the"
+    },
+    {
+      "start": 2333.54,
+      "end": 2338.74,
+      "text": "hyperscale is to actually buy that peripheral and install that in their data centers to control"
+    },
+    {
+      "start": 2339.7,
+      "end": 2345.2999999999997,
+      "text": "massive amounts of data volumes and same as like the fishers and bikers of the world if you"
+    },
+    {
+      "start": 2345.2999999999997,
+      "end": 2350.98,
+      "text": "can find something where the trust is so deep and so significant that there's only"
+    },
+    {
+      "start": 2351.7,
+      "end": 2355.86,
+      "text": "I can say you can fit the industry on the palm of your hand as in there's less than five"
+    },
+    {
+      "start": 2356.58,
+      "end": 2363.7,
+      "text": "companies on the planet that can fix a problem for you as a government as an individual or as a"
+    },
+    {
+      "start": 2363.7,
+      "end": 2371.3,
+      "text": "family or as a business that is a phenomenal position to be in and there are companies in the world"
+    },
+    {
+      "start": 2371.3,
+      "end": 2376.34,
+      "text": "like that that there are only five one of five companies on the planet that can fix a problem"
+    },
+    {
+      "start": 2376.7400000000002,
+      "end": 2383.46,
+      "text": "and that can create things that are just like when we boarded it was five or eight billion"
+    },
+    {
+      "start": 2383.46,
+      "end": 2391.54,
+      "text": "market cap now it's 150 billion market cap so that's the thing the phenomenal nature of some"
+    },
+    {
+      "start": 2391.54,
+      "end": 2397.6200000000003,
+      "text": "companies in the world that they're so unique they do happen and you just need to buy and hold"
+    },
+    {
+      "start": 2397.6200000000003,
+      "end": 2403.86,
+      "text": "those companies and that's sort of one another lesson on the other side of that quality you know it"
+    },
+    {
+      "start": 2403.86,
+      "end": 2408.5,
+      "text": "can become a bit of a love story is you need to not be blinded by love as I mentioned"
+    },
+    {
+      "start": 2408.5,
+      "end": 2415.3,
+      "text": "complacency capex and competition can come at you as a quality business and a road that very"
+    },
+    {
+      "start": 2415.3,
+      "end": 2421.1400000000003,
+      "text": "long duration runway that you have in front of you which is what AI is doing I guess with the world"
+    },
+    {
+      "start": 2421.1400000000003,
+      "end": 2427.1400000000003,
+      "text": "right now but you your mind has to be when you're in that sort of love state of this amazing"
+    },
+    {
+      "start": 2427.1400000000003,
+      "end": 2432.6600000000003,
+      "text": "business which has 10 20 30 years ahead of it and it's very unique and if competition or"
+    },
+    {
+      "start": 2432.66,
+      "end": 2437.94,
+      "text": "capex or complacency starts to come in and you sense it you do need to either trim or regs it"
+    },
+    {
+      "start": 2437.94,
+      "end": 2443.14,
+      "text": "because eventually the multiples will come down earnings will come down and that company will"
+    },
+    {
+      "start": 2443.14,
+      "end": 2450.58,
+      "text": "will be worth a lot less in that new context so you're the power of change and brilliance and"
+    },
+    {
+      "start": 2450.58,
+      "end": 2458.58,
+      "text": "innovation and uniqueness is really all part of that quality sphere and momentum and value is"
+    },
+    {
+      "start": 2458.58,
+      "end": 2465.62,
+      "text": "actually the lesson is just change something can come from a bottom of a cycle or just an idea"
+    },
+    {
+      "start": 2465.62,
+      "end": 2471.54,
+      "text": "to be something that's like an after pay example worth 15 billion dollars and some of these"
+    },
+    {
+      "start": 2471.54,
+      "end": 2475.7,
+      "text": "resources stocks are like that they were making losses at a commodity price of x but when you move"
+    },
+    {
+      "start": 2475.7,
+      "end": 2480.5,
+      "text": "the commodity price up to here and they're making a lot of money Pilbera was an example of that"
+    },
+    {
+      "start": 2480.5,
+      "end": 2485.46,
+      "text": "whereas losing money and then the next year was making five billion dollars free cash flow"
+    },
+    {
+      "start": 2485.94,
+      "end": 2492.34,
+      "text": "so that's where that that's why there's mainly two stars it's quality and then this value transition"
+    },
+    {
+      "start": 2492.34,
+      "end": 2500.02,
+      "text": "to momentum and the the biggest lesson in that is change on the way through and then quality is"
+    },
+    {
+      "start": 2500.02,
+      "end": 2505.54,
+      "text": "uniqueness but then also change on the downside so they're the big lessons that I've learned over time"
+    },
+    {
+      "start": 2505.54,
+      "end": 2511.06,
+      "text": "and you know they still sit with me every day I feel like I need to get a tip on the best nightclubs"
+    },
+    {
+      "start": 2511.06,
+      "end": 2517.46,
+      "text": "to visit James it sounds like you've found some good rooms well I guess look they're all the same"
+    },
+    {
+      "start": 2517.46,
+      "end": 2523.22,
+      "text": "they're all fun and the same but the thing is they do end up I'm in my 50s now so I've said people"
+    },
+    {
+      "start": 2523.22,
+      "end": 2528.74,
+      "text": "the thing is when momentum is is that the peaks are peak in peak valuation peak sentiment and peak"
+    },
+    {
+      "start": 2528.74,
+      "end": 2532.66,
+      "text": "earnings and you need to come out for some of the 50s that might be one o'clock or two o'clock"
+    },
+    {
+      "start": 2532.66,
+      "end": 2537.86,
+      "text": "or two young ones and might be three so that's the trick with the momentum it's working out when"
+    },
+    {
+      "start": 2537.86,
+      "end": 2542.6600000000003,
+      "text": "you're at the peak and it's it's not easy but when they're on you know they're on their full of"
+    },
+    {
+      "start": 2542.6600000000003,
+      "end": 2548.1800000000003,
+      "text": "energy yeah I forgot what they're saying was but nothing good happened to the nightclub after"
+    },
+    {
+      "start": 2548.1800000000003,
+      "end": 2555.86,
+      "text": "some certain time in the morning James what do you think investors are getting wrong about markets"
+    },
+    {
+      "start": 2555.86,
+      "end": 2560.26,
+      "text": "right now it's I think the markets are just very cautious I don't know what they're getting"
+    },
+    {
+      "start": 2560.26,
+      "end": 2565.06,
+      "text": "wrong right now but I think they're just very cautious and I think maybe two cautious in some"
+    },
+    {
+      "start": 2565.06,
+      "end": 2570.18,
+      "text": "instances so that's why a lot of the quality names are just getting hit with a huge blanket of"
+    },
+    {
+      "start": 2570.18,
+      "end": 2576.82,
+      "text": "uncertainty and there's only a few they get to peak through that I've mentioned and I do think"
+    },
+    {
+      "start": 2576.82,
+      "end": 2584.34,
+      "text": "that quality duration and that's domestically and globally I do think that is not an error of the"
+    },
+    {
+      "start": 2584.34,
+      "end": 2591.14,
+      "text": "market but I think the breadth of that of that valuation derate it's probably what is likely to change"
+    },
+    {
+      "start": 2591.14,
+      "end": 2596.2599999999998,
+      "text": "in the next 12 months and probably where there are opportunities right now over the next 12 months"
+    },
+    {
+      "start": 2597.62,
+      "end": 2601.54,
+      "text": "I think that's all honestly the only thing that the market's getting wrong right now I think in"
+    },
+    {
+      "start": 2601.54,
+      "end": 2607.54,
+      "text": "terms of cyclical the market's doing you know what it normally does in terms of macro uncertainty"
+    },
+    {
+      "start": 2607.54,
+      "end": 2614.8199999999997,
+      "text": "the market's doing what it what it normally does in terms of fear of inflation I think everything"
+    },
+    {
+      "start": 2614.82,
+      "end": 2624.02,
+      "text": "else is is generally in a normal sort of range but the extent of quality derate is just so significant"
+    },
+    {
+      "start": 2624.02,
+      "end": 2630.6600000000003,
+      "text": "globally it's going to be hard to see that not and I'm not saying it's going to end I'm just saying"
+    },
+    {
+      "start": 2630.6600000000003,
+      "end": 2637.1400000000003,
+      "text": "the dispersion of it is going to start to dissipate over the next 12 months but that seems quite that"
+    },
+    {
+      "start": 2637.1400000000003,
+      "end": 2643.54,
+      "text": "seems quite rational in the the absence of con you know hard information about it. Yep because"
+    },
+    {
+      "start": 2643.54,
+      "end": 2650.1,
+      "text": "the uncertainty is enormous it is it is very uncertain and you're getting businesses which"
+    },
+    {
+      "start": 2650.1,
+      "end": 2654.82,
+      "text": "you know were worth ten to a hundred billion dollars overnight having competition which"
+    },
+    {
+      "start": 2654.82,
+      "end": 2662.18,
+      "text": "I've never had in 10 or 20 years so I don't think it's irrational I just think the the path is"
+    },
+    {
+      "start": 2662.18,
+      "end": 2671.14,
+      "text": "probably for one of dispersion and the I guess the people delineating how far and how how strong"
+    },
+    {
+      "start": 2671.14,
+      "end": 2677.14,
+      "text": "that sort of impact is but yeah when fear comes and it's unknown the multiples tend to come down"
+    },
+    {
+      "start": 2677.14,
+      "end": 2682.58,
+      "text": "very dramatically in terms of a worst case scenario and it's only when you climb out of that worst case"
+    },
+    {
+      "start": 2682.58,
+      "end": 2686.98,
+      "text": "scenario that you you tend to get some sort of a recovery and I think that's what will happen but it"
+    },
+    {
+      "start": 2686.98,
+      "end": 2693.46,
+      "text": "it'll be dispersed there'll be stocks that stay on five times a PE that used to be on 30 times"
+    },
+    {
+      "start": 2693.46,
+      "end": 2698.8199999999997,
+      "text": "and there'll be stocks that go to 10 and stocks that move up to 20s or 30 times and be reestablished"
+    },
+    {
+      "start": 2699.3,
+      "end": 2704.26,
+      "text": "as being able to survive AI. Listeners before we get into our final question just a quick"
+    },
+    {
+      "start": 2704.9,
+      "end": 2710.34,
+      "text": "health and safety warning this is not a recommendation to go out and buy a single stock it's meant"
+    },
+    {
+      "start": 2710.34,
+      "end": 2717.06,
+      "text": "to be a bit of fun and an experiment in long term thinking so with that disclaimer said James"
+    },
+    {
+      "start": 2717.06,
+      "end": 2722.1800000000003,
+      "text": "if markets were to shut for five years and you could only own shares in one company which company"
+    },
+    {
+      "start": 2722.18,
+      "end": 2730.3399999999997,
+      "text": "would it be and why? Well that's a hard one. I'll probably say that one of the significant"
+    },
+    {
+      "start": 2730.3399999999997,
+      "end": 2738.66,
+      "text": "positions that is in our global fund is Halema HALMA it's in our top 10 it's well diversified it"
+    },
+    {
+      "start": 2738.66,
+      "end": 2745.06,
+      "text": "does have technology leadership but it is a bit of a book she hathaway type business it's got a"
+    },
+    {
+      "start": 2745.06,
+      "end": 2751.8599999999997,
+      "text": "collection of quality businesses I'd feel that that's probably you know the easiest one in terms"
+    },
+    {
+      "start": 2751.86,
+      "end": 2760.1800000000003,
+      "text": "of its its long duration it's got breadth it has I guess persistency in its return profiles"
+    },
+    {
+      "start": 2760.1800000000003,
+      "end": 2764.6600000000003,
+      "text": "it has a very strong management team so that's probably the one that's in our you know top 10 right now"
+    },
+    {
+      "start": 2766.1800000000003,
+      "end": 2771.06,
+      "text": "but a lot of the AI ones I'm very excited about but if you say shut for five years like that"
+    },
+    {
+      "start": 2771.06,
+      "end": 2776.42,
+      "text": "market is going to change pretty dramatically in the next five years so that's why I probably say one"
+    },
+    {
+      "start": 2777.38,
+      "end": 2783.7000000000003,
+      "text": "has a foot in that marketplace but it's not all in on that marketplace just very briefly the"
+    },
+    {
+      "start": 2783.7000000000003,
+      "end": 2788.34,
+      "text": "industry that it operates in could you give us a quick flavor for what Halema does? It's generally"
+    },
+    {
+      "start": 2788.34,
+      "end": 2795.7000000000003,
+      "text": "industrial services and industrial I guess componentry but it is a spread of a big spread of"
+    },
+    {
+      "start": 2795.7000000000003,
+      "end": 2800.9,
+      "text": "businesses so there's nothing nothing one that dominates it it's actually like a whole portfolio"
+    },
+    {
+      "start": 2800.9,
+      "end": 2806.58,
+      "text": "of businesses that it sits in that's what makes it you know diversified and it has breadth as well"
+    },
+    {
+      "start": 2806.58,
+      "end": 2811.46,
+      "text": "as that well James it's always great to catch up I really appreciate you taking the time to"
+    },
+    {
+      "start": 2812.26,
+      "end": 2817.62,
+      "text": "join us on the rules of investing and I look forward to catching up no doubt some stage in the future"
+    },
+    {
+      "start": 2818.26,
+      "end": 2823.62,
+      "text": "great thanks so much James for all you listeners and viewers out there thanks very much to listening"
+    },
+    {
+      "start": 2823.62,
+      "end": 2829.14,
+      "text": "to the rules of investing remember you can find the episodes on our YouTube channel and on all"
+    },
+    {
+      "start": 2829.14,
+      "end": 2839.14,
+      "text": "the major podcasting platforms we'd love to have you on board and we'll speak to you next time"
+    }
+  ]
+}

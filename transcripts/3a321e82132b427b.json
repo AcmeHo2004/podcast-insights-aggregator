@@ -1,0 +1,931 @@
+{
+  "id": "3a321e82132b427b",
+  "show": "Y Combinator Startup Podcast",
+  "theme": "Tech & AI",
+  "title": "How to Build an AI-Native Services Company",
+  "audio_url": "https://anchor.fm/s/8c1524bc/podcast/play/120910885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F425382042-44100-2-c297bc5c34c0a.mp3",
+  "source": "local-whisper",
+  "duration": 681.0,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.0,
+      "text": "Some of the biggest companies of the next decade won't be software businesses at all."
+    },
+    {
+      "start": 14.0,
+      "end": 21.0,
+      "text": "There will be services companies like insurance carriers and law firms rebuilt from scratch with AI doing most of the work."
+    },
+    {
+      "start": 21.0,
+      "end": 24.0,
+      "text": "These are what we call AI-native service companies."
+    },
+    {
+      "start": 24.0,
+      "end": 31.0,
+      "text": "And the markets are trillions of dollars in size, tax, audit, insurance, law, parts of healthcare and so forth."
+    },
+    {
+      "start": 31.0,
+      "end": 34.0,
+      "text": "This opportunity didn't exist even a couple years ago."
+    },
+    {
+      "start": 34.0,
+      "end": 40.0,
+      "text": "But advances in the models have unlocked this new type of business where companies provide the outcome of the customer"
+    },
+    {
+      "start": 40.0,
+      "end": 43.0,
+      "text": "versus build a co-pilot that the customer uses internally."
+    },
+    {
+      "start": 43.0,
+      "end": 47.0,
+      "text": "These companies also look and feel different than most startups today."
+    },
+    {
+      "start": 47.0,
+      "end": 52.0,
+      "text": "In this video, I'll walk through a playbook for founders starting AI services businesses from scratch."
+    },
+    {
+      "start": 52.0,
+      "end": 56.0,
+      "text": "And to people thinking about starting a company, not if you're already running one."
+    },
+    {
+      "start": 56.0,
+      "end": 62.0,
+      "text": "I'll share some obvious and non-obvious elements of building these businesses that we've observed here at YC."
+    },
+    {
+      "start": 62.0,
+      "end": 72.0,
+      "text": "Topics include picking a market, forming a team, building the actual product, serving the customers, the PNL, and whether or not you should even buy a business."
+    },
+    {
+      "start": 72.0,
+      "end": 74.0,
+      "text": "One general comment before we get started."
+    },
+    {
+      "start": 74.0,
+      "end": 79.0,
+      "text": "We're still early here. Like most things in AI, the market is moving fast."
+    },
+    {
+      "start": 79.0,
+      "end": 83.0,
+      "text": "We're learning as we go. But the early successes here should get you really excited."
+    },
+    {
+      "start": 83.0,
+      "end": 85.0,
+      "text": "First, picking the right market."
+    },
+    {
+      "start": 85.0,
+      "end": 89.0,
+      "text": "The same general advice for all startups applies here with some important caveats."
+    },
+    {
+      "start": 89.0,
+      "end": 93.0,
+      "text": "You should pick a market you're excited to work in for a long time."
+    },
+    {
+      "start": 93.0,
+      "end": 96.0,
+      "text": "These companies still take a decade or more."
+    },
+    {
+      "start": 96.0,
+      "end": 103.0,
+      "text": "If you don't love some combination of the customers or the market or the technical problem, you're not going to make it."
+    },
+    {
+      "start": 103.0,
+      "end": 109.0,
+      "text": "And that part isn't really new. But the best markets for AI services have four new pretty unique traits."
+    },
+    {
+      "start": 109.0,
+      "end": 111.0,
+      "text": "The first is low trust."
+    },
+    {
+      "start": 111.0,
+      "end": 117.0,
+      "text": "Meaning the work is already outsourced and the customer cares about the final product, not how they got there."
+    },
+    {
+      "start": 117.0,
+      "end": 122.0,
+      "text": "You're displacing a vendor, not asking the customer to do something fundamentally different."
+    },
+    {
+      "start": 122.0,
+      "end": 125.0,
+      "text": "That's a huge deal because you're not changing behavior."
+    },
+    {
+      "start": 125.0,
+      "end": 129.0,
+      "text": "You're showing up where the budget already lives and doing the work."
+    },
+    {
+      "start": 129.0,
+      "end": 131.0,
+      "text": "Second, low judgment at the task level."
+    },
+    {
+      "start": 132.0,
+      "end": 139.0,
+      "text": "If you can break the work into pieces and every piece needs a human exercising actual judgment, you can't really scale."
+    },
+    {
+      "start": 139.0,
+      "end": 145.0,
+      "text": "You need most of the steps to be automatable with judgment focused in a few places where humans stay in the loop."
+    },
+    {
+      "start": 145.0,
+      "end": 148.0,
+      "text": "The third is a high intelligence threshold."
+    },
+    {
+      "start": 148.0,
+      "end": 151.0,
+      "text": "This sounds contradictory but actually doesn't."
+    },
+    {
+      "start": 151.0,
+      "end": 158.0,
+      "text": "The overwork has to be hard. Hard enough that models plus humans are needed to actually deliver an outcome the customer accepts."
+    },
+    {
+      "start": 158.0,
+      "end": 161.0,
+      "text": "The fourth is regulation could actually be good."
+    },
+    {
+      "start": 161.0,
+      "end": 168.0,
+      "text": "Regulated industries have higher expectations and legal accountability that raises the bar and the moat for founders."
+    },
+    {
+      "start": 168.0,
+      "end": 175.0,
+      "text": "For instance, Panacea is a current YC company that provides FDA regulatory services for biotechs and medtechs."
+    },
+    {
+      "start": 175.0,
+      "end": 182.0,
+      "text": "They actually hire experienced FDA consultants, pair them with an AI platform to deliver faster higher quality FDA approvals."
+    },
+    {
+      "start": 182.0,
+      "end": 185.0,
+      "text": "So what are some of the specific markets we have in mind here at YC?"
+    },
+    {
+      "start": 186.0,
+      "end": 194.0,
+      "text": "The known good fit markets include tax, audit, insurance, mortgages, parts of healthcare and parts of logistics."
+    },
+    {
+      "start": 194.0,
+      "end": 196.0,
+      "text": "But there are plenty more markets nobody has touched yet."
+    },
+    {
+      "start": 196.0,
+      "end": 200.0,
+      "text": "Don't hold yourself to the obvious ones or what people talk about on X."
+    },
+    {
+      "start": 200.0,
+      "end": 203.0,
+      "text": "And here are a few more things to keep an eye on when it comes to the markets."
+    },
+    {
+      "start": 203.0,
+      "end": 205.0,
+      "text": "The first is on the models."
+    },
+    {
+      "start": 205.0,
+      "end": 210.0,
+      "text": "With the models disrupt these businesses, it depends on what I call the SAM Altman test."
+    },
+    {
+      "start": 210.0,
+      "end": 214.0,
+      "text": "You should ask yourself, as the models get better, does your service get stronger?"
+    },
+    {
+      "start": 214.0,
+      "end": 217.0,
+      "text": "Or does the model itself commoditize you?"
+    },
+    {
+      "start": 217.0,
+      "end": 219.0,
+      "text": "You want to be in the first camp."
+    },
+    {
+      "start": 219.0,
+      "end": 220.0,
+      "text": "Where to be careful?"
+    },
+    {
+      "start": 220.0,
+      "end": 223.0,
+      "text": "Anything involving equipment and on site labor."
+    },
+    {
+      "start": 223.0,
+      "end": 227.0,
+      "text": "The software margin math doesn't apply when you own and operate physical things."
+    },
+    {
+      "start": 227.0,
+      "end": 232.0,
+      "text": "It's very hard to create real leverage, though these can be really good businesses."
+    },
+    {
+      "start": 232.0,
+      "end": 234.0,
+      "text": "Let's leave this area to the robotics founders."
+    },
+    {
+      "start": 234.0,
+      "end": 236.0,
+      "text": "One more honesty check."
+    },
+    {
+      "start": 236.0,
+      "end": 241.0,
+      "text": "Ask yourself sincerely. Are you using humans because the work genuinely needs judgment?"
+    },
+    {
+      "start": 241.0,
+      "end": 243.0,
+      "text": "Or are you compensating for product gaps?"
+    },
+    {
+      "start": 243.0,
+      "end": 248.0,
+      "text": "Be honest here so you're not papering over product shortcomings with actual humans."
+    },
+    {
+      "start": 248.0,
+      "end": 252.0,
+      "text": "There are still great massive technology businesses to be built with humans in the loop."
+    },
+    {
+      "start": 252.0,
+      "end": 255.0,
+      "text": "Second and maybe most importantly, the right founding team."
+    },
+    {
+      "start": 255.0,
+      "end": 257.0,
+      "text": "The same advice applies for all startups here."
+    },
+    {
+      "start": 257.0,
+      "end": 259.0,
+      "text": "But again with some important caveats."
+    },
+    {
+      "start": 259.0,
+      "end": 263.0,
+      "text": "You should build companies with people you already know and you've worked with."
+    },
+    {
+      "start": 263.0,
+      "end": 268.0,
+      "text": "If you're so low, think about the best people you've ever worked with and ask them to join you."
+    },
+    {
+      "start": 268.0,
+      "end": 270.0,
+      "text": "You'd be surprised who says yes."
+    },
+    {
+      "start": 270.0,
+      "end": 275.0,
+      "text": "For AI services specifically, there's three attributes that all the best founders share."
+    },
+    {
+      "start": 275.0,
+      "end": 277.0,
+      "text": "The first is domain fluency."
+    },
+    {
+      "start": 277.0,
+      "end": 280.0,
+      "text": "Direct experience is best, but learn is actually okay."
+    },
+    {
+      "start": 280.0,
+      "end": 283.0,
+      "text": "You're selling to skeptical buyers in often regulated spaces."
+    },
+    {
+      "start": 283.0,
+      "end": 285.0,
+      "text": "You have to bleed credibility."
+    },
+    {
+      "start": 285.0,
+      "end": 288.0,
+      "text": "How you acquire it matters somewhat less."
+    },
+    {
+      "start": 288.0,
+      "end": 290.0,
+      "text": "The second is model fluency."
+    },
+    {
+      "start": 290.0,
+      "end": 295.0,
+      "text": "You need to know what frontier models can do today and design the product to ride the curve as they get better."
+    },
+    {
+      "start": 295.0,
+      "end": 297.0,
+      "text": "There is no substitute for great tech here."
+    },
+    {
+      "start": 297.0,
+      "end": 299.0,
+      "text": "People underestimate this."
+    },
+    {
+      "start": 299.0,
+      "end": 301.0,
+      "text": "Next is operational rigor."
+    },
+    {
+      "start": 301.0,
+      "end": 305.0,
+      "text": "Topics like variance, throughput, cycle times, SOPs."
+    },
+    {
+      "start": 305.0,
+      "end": 307.0,
+      "text": "This is not an exciting set of words for most founders."
+    },
+    {
+      "start": 307.0,
+      "end": 310.0,
+      "text": "But you are fundamentally running an operation."
+    },
+    {
+      "start": 310.0,
+      "end": 314.0,
+      "text": "You have to learn that skill set and you have to enjoy it or at least you have to respect it."
+    },
+    {
+      "start": 314.0,
+      "end": 316.0,
+      "text": "The product is an operation."
+    },
+    {
+      "start": 316.0,
+      "end": 321.0,
+      "text": "A great example here is the general legal team, which is an AI native law firm that YC recently backed."
+    },
+    {
+      "start": 321.0,
+      "end": 325.0,
+      "text": "The founders have a unique mix of actual law firm experience at Kool-Aid and Femwick,"
+    },
+    {
+      "start": 325.0,
+      "end": 328.0,
+      "text": "as well as years of technical leadership at CaseTax."
+    },
+    {
+      "start": 328.0,
+      "end": 333.0,
+      "text": "But most importantly, they think deeply about throughput and how they staff their firm."
+    },
+    {
+      "start": 333.0,
+      "end": 339.0,
+      "text": "They've integrated shift work into how they serve clients to reduce cycle times and attract the best lawyers on the team."
+    },
+    {
+      "start": 339.0,
+      "end": 341.0,
+      "text": "This is a win-win for scale."
+    },
+    {
+      "start": 341.0,
+      "end": 343.0,
+      "text": "Now let's talk about building the actual product."
+    },
+    {
+      "start": 343.0,
+      "end": 346.0,
+      "text": "With AI services, the setup is the opposite of most software."
+    },
+    {
+      "start": 346.0,
+      "end": 349.0,
+      "text": "The human is the interface of the customer, not the product."
+    },
+    {
+      "start": 349.0,
+      "end": 352.0,
+      "text": "The product helps the humans scale their work non-linearly."
+    },
+    {
+      "start": 352.0,
+      "end": 355.0,
+      "text": "That changes pretty much everything around building the actual product."
+    },
+    {
+      "start": 355.0,
+      "end": 358.0,
+      "text": "First, you need to apply an operations mindset."
+    },
+    {
+      "start": 358.0,
+      "end": 361.0,
+      "text": "Find the bottlenecks and build for the bottlenecks."
+    },
+    {
+      "start": 361.0,
+      "end": 364.0,
+      "text": "Thruplit and cycle time are now product metrics."
+    },
+    {
+      "start": 364.0,
+      "end": 366.0,
+      "text": "Track them like you would daily active users."
+    },
+    {
+      "start": 366.0,
+      "end": 369.0,
+      "text": "Variance is the existential problem here."
+    },
+    {
+      "start": 369.0,
+      "end": 373.0,
+      "text": "By variance, I mean non-uniform outputs from your actual service."
+    },
+    {
+      "start": 373.0,
+      "end": 379.0,
+      "text": "Customers will fire you for variance faster than they will fire you for being a bit slower or a bit more expensive than the incumbents."
+    },
+    {
+      "start": 379.0,
+      "end": 384.0,
+      "text": "They need to trust the output, inconsistency destroys trust which causes churn."
+    },
+    {
+      "start": 384.0,
+      "end": 388.0,
+      "text": "Thirdly, humans in the loop should scale non-linearly."
+    },
+    {
+      "start": 388.0,
+      "end": 393.0,
+      "text": "If revenue scales just in line with the number of humans you add, you'll have major problems."
+    },
+    {
+      "start": 393.0,
+      "end": 397.0,
+      "text": "The humans in the loop also need to enjoy the software they are your users."
+    },
+    {
+      "start": 397.0,
+      "end": 401.0,
+      "text": "A general point, it's okay to do things that don't scale at the very beginning."
+    },
+    {
+      "start": 401.0,
+      "end": 403.0,
+      "text": "But eventually you really do need a scale."
+    },
+    {
+      "start": 403.0,
+      "end": 405.0,
+      "text": "Automating the process is the product."
+    },
+    {
+      "start": 405.0,
+      "end": 407.0,
+      "text": "Okay, sales and customer success."
+    },
+    {
+      "start": 407.0,
+      "end": 411.0,
+      "text": "The biggest challenge facing founders here is what I'll call the early demand trap."
+    },
+    {
+      "start": 411.0,
+      "end": 415.0,
+      "text": "It's easy to sign up a lot of pilot customers when you're just starting out and have nothing."
+    },
+    {
+      "start": 415.0,
+      "end": 420.0,
+      "text": "But it can quickly overwhelm your ability to serve them and you won't be able to build the product to scale."
+    },
+    {
+      "start": 420.0,
+      "end": 422.0,
+      "text": "You'll be stuck using humans."
+    },
+    {
+      "start": 422.0,
+      "end": 424.0,
+      "text": "It is a literal trap."
+    },
+    {
+      "start": 424.0,
+      "end": 428.0,
+      "text": "Our advice here is to cap your first pilot customers to a small handful."
+    },
+    {
+      "start": 428.0,
+      "end": 430.0,
+      "text": "Resist the temptation to sign too many too quickly."
+    },
+    {
+      "start": 430.0,
+      "end": 435.0,
+      "text": "Assuming you avoid this early demand trap, pre and post sales looks pretty different too."
+    },
+    {
+      "start": 435.0,
+      "end": 439.0,
+      "text": "You have to sell outcomes, not seats or tokens. The pilot is the product."
+    },
+    {
+      "start": 439.0,
+      "end": 442.0,
+      "text": "For the first handful of customers, don't try and standardize too early."
+    },
+    {
+      "start": 442.0,
+      "end": 448.0,
+      "text": "Use those pilots to learn. Find the spots where AI gives you unique leverage versus spots where you're just automating something obvious."
+    },
+    {
+      "start": 448.0,
+      "end": 451.0,
+      "text": "Build the product accordingly and do it fast."
+    },
+    {
+      "start": 452.0,
+      "end": 456.0,
+      "text": "Pricing is harder than traditional software because you're not competing with other software providers."
+    },
+    {
+      "start": 456.0,
+      "end": 460.0,
+      "text": "You're competing directly with the cost of labor, internal or outsourced."
+    },
+    {
+      "start": 460.0,
+      "end": 462.0,
+      "text": "A few options here on pricing."
+    },
+    {
+      "start": 462.0,
+      "end": 465.0,
+      "text": "There's per unit pricing, so per return, per claim, per loan."
+    },
+    {
+      "start": 465.0,
+      "end": 467.0,
+      "text": "This is the cleanest. It's the easiest to explain."
+    },
+    {
+      "start": 467.0,
+      "end": 469.0,
+      "text": "There's also outcome-based pricing."
+    },
+    {
+      "start": 469.0,
+      "end": 473.0,
+      "text": "This aligns incentives beautifully, but it can be harder for you to forecast in your business."
+    },
+    {
+      "start": 473.0,
+      "end": 478.0,
+      "text": "Pantasy prices on the completed consultant study versus hourly, which is the norm in the industry."
+    },
+    {
+      "start": 478.0,
+      "end": 481.0,
+      "text": "There's definitely two pricing strategies to avoid."
+    },
+    {
+      "start": 481.0,
+      "end": 485.0,
+      "text": "Cost plus pricing captures your upside permanently. Don't do it."
+    },
+    {
+      "start": 485.0,
+      "end": 489.0,
+      "text": "Straight line undercutting makes your work seem cheap and potentially low quality."
+    },
+    {
+      "start": 489.0,
+      "end": 490.0,
+      "text": "Price on value."
+    },
+    {
+      "start": 490.0,
+      "end": 493.0,
+      "text": "Next, the P&L, or the profit and loss statement."
+    },
+    {
+      "start": 493.0,
+      "end": 496.0,
+      "text": "This is where these companies live or die, so let's do a quick walkthrough."
+    },
+    {
+      "start": 496.0,
+      "end": 501.0,
+      "text": "If you haven't stared at one of these financial statements before, you're not alone among founders, and that's okay."
+    },
+    {
+      "start": 501.0,
+      "end": 507.0,
+      "text": "The general structure is revenue minus cost of goods sold gets you to gross profit."
+    },
+    {
+      "start": 507.0,
+      "end": 511.0,
+      "text": "Gross profit minus operating expenses gets you to operating income."
+    },
+    {
+      "start": 511.0,
+      "end": 514.0,
+      "text": "Let's dive into each of these in the context of AI services."
+    },
+    {
+      "start": 514.0,
+      "end": 517.0,
+      "text": "Revenue. Ah, the easy part, relatively speaking."
+    },
+    {
+      "start": 517.0,
+      "end": 519.0,
+      "text": "You will be able to sign contracts."
+    },
+    {
+      "start": 519.0,
+      "end": 521.0,
+      "text": "Can you deliver on them repeatedly? I don't know."
+    },
+    {
+      "start": 521.0,
+      "end": 524.0,
+      "text": "That depends on your product and your process."
+    },
+    {
+      "start": 524.0,
+      "end": 526.0,
+      "text": "Eventually, you want smooth and predictable growth."
+    },
+    {
+      "start": 526.0,
+      "end": 533.0,
+      "text": "A great product process is going to smooth out that lumpiness, but in the early days, it'll be spiky on a monthly basis."
+    },
+    {
+      "start": 533.0,
+      "end": 534.0,
+      "text": "That's okay."
+    },
+    {
+      "start": 534.0,
+      "end": 539.0,
+      "text": "Costs of goods sold, or COGS, obsess over this from day one."
+    },
+    {
+      "start": 539.0,
+      "end": 544.0,
+      "text": "There's three main components here. There's model costs, hosting costs, and those humans in the loop."
+    },
+    {
+      "start": 544.0,
+      "end": 547.0,
+      "text": "All three then need a number, a trend line, and someone who owns them."
+    },
+    {
+      "start": 547.0,
+      "end": 551.0,
+      "text": "Be deeply suspicious of zero margin or negative margin pilots."
+    },
+    {
+      "start": 551.0,
+      "end": 555.0,
+      "text": "They're trying to learn from them, but it's really dangerous to get hooked on those."
+    },
+    {
+      "start": 555.0,
+      "end": 561.0,
+      "text": "The core bet here is the more the product is built, the lower the COGS, the better the gross margin."
+    },
+    {
+      "start": 561.0,
+      "end": 563.0,
+      "text": "I call this AI operating leverage."
+    },
+    {
+      "start": 563.0,
+      "end": 570.0,
+      "text": "Okay, op-ex. This includes research and development costs, so building the product, sales, and general administrative,"
+    },
+    {
+      "start": 570.0,
+      "end": 574.0,
+      "text": "which is like finance, legal, exec salaries, pretty standard stuff here."
+    },
+    {
+      "start": 574.0,
+      "end": 575.0,
+      "text": "Operating income."
+    },
+    {
+      "start": 575.0,
+      "end": 578.0,
+      "text": "This is the revenue minus the COGS minus the op-ex."
+    },
+    {
+      "start": 578.0,
+      "end": 583.0,
+      "text": "You will be judged on your operating income in these businesses faster than you might expect."
+    },
+    {
+      "start": 583.0,
+      "end": 584.0,
+      "text": "Net income."
+    },
+    {
+      "start": 584.0,
+      "end": 587.0,
+      "text": "This is the operating income less taxes and interest."
+    },
+    {
+      "start": 587.0,
+      "end": 589.0,
+      "text": "That's less important in the medium term."
+    },
+    {
+      "start": 589.0,
+      "end": 592.0,
+      "text": "And here's the actual P&L opportunity for these businesses."
+    },
+    {
+      "start": 592.0,
+      "end": 595.0,
+      "text": "Traditional services firms top out around 30% margins."
+    },
+    {
+      "start": 595.0,
+      "end": 600.0,
+      "text": "Pure software and agent companies have more margin, but often smaller tams."
+    },
+    {
+      "start": 600.0,
+      "end": 605.0,
+      "text": "The bet on these services companies is that that AI operating leverage gets you closer to software margins."
+    },
+    {
+      "start": 605.0,
+      "end": 610.0,
+      "text": "Say, 50% plus on a market that's two to three times bigger than software."
+    },
+    {
+      "start": 610.0,
+      "end": 612.0,
+      "text": "You don't need to be there right away. That's okay."
+    },
+    {
+      "start": 612.0,
+      "end": 614.0,
+      "text": "But the trajectory has to be believable."
+    },
+    {
+      "start": 614.0,
+      "end": 618.0,
+      "text": "Okay, last but not least, don't try to buy your way in."
+    },
+    {
+      "start": 618.0,
+      "end": 622.0,
+      "text": "There's a temptation we've seen, especially among founders with some operating background,"
+    },
+    {
+      "start": 622.0,
+      "end": 624.0,
+      "text": "to try and buy an existing services business."
+    },
+    {
+      "start": 624.0,
+      "end": 627.0,
+      "text": "Add some AI on top, short circuit, the revenue."
+    },
+    {
+      "start": 627.0,
+      "end": 629.0,
+      "text": "This is generally a trap."
+    },
+    {
+      "start": 629.0,
+      "end": 631.0,
+      "text": "There's one decent reason to do it."
+    },
+    {
+      "start": 631.0,
+      "end": 633.0,
+      "text": "You need a regulatory mode fast."
+    },
+    {
+      "start": 633.0,
+      "end": 635.0,
+      "text": "Insurance licensing, for example."
+    },
+    {
+      "start": 635.0,
+      "end": 637.0,
+      "text": "But otherwise, this almost never works."
+    },
+    {
+      "start": 637.0,
+      "end": 638.0,
+      "text": "So why is that?"
+    },
+    {
+      "start": 638.0,
+      "end": 640.0,
+      "text": "You just can't acquire a product market fit."
+    },
+    {
+      "start": 640.0,
+      "end": 643.0,
+      "text": "Legacy service businesses are, you know, legacy."
+    },
+    {
+      "start": 643.0,
+      "end": 646.0,
+      "text": "They have different expectations on metrics, hiring, and performance."
+    },
+    {
+      "start": 646.0,
+      "end": 650.0,
+      "text": "Adding AI on top of that doesn't immediately change any of those realities."
+    },
+    {
+      "start": 650.0,
+      "end": 652.0,
+      "text": "Building is almost always better than buying."
+    },
+    {
+      "start": 652.0,
+      "end": 657.0,
+      "text": "Okay, to recap, AI services companies present an incredible opportunity for today's founders."
+    },
+    {
+      "start": 657.0,
+      "end": 659.0,
+      "text": "But these are fundamentally different startups to build."
+    },
+    {
+      "start": 659.0,
+      "end": 665.0,
+      "text": "If you avoid the traps and focus on the process as the product and the product as the process,"
+    },
+    {
+      "start": 665.0,
+      "end": 668.0,
+      "text": "you have a chance to create a generational company."
+    },
+    {
+      "start": 668.0,
+      "end": 671.0,
+      "text": "We're excited to see what you build and hope you apply to IC."
+    },
+    {
+      "start": 671.0,
+      "end": 681.0,
+      "text": "Music"
+    }
+  ]
+}

@@ -1,0 +1,4986 @@
+{
+  "id": "1529212a2f1ecc81",
+  "show": "Odd Lots",
+  "theme": "Macro & Rates",
+  "title": "Anjney Midha's Plan to Radically Lower the Price of Compute",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/90cd8aa8-11c9-4cd3-813a-b467011c7f57/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+  "source": "feed",
+  "duration": 3004.9,
+  "segments": [
+    {
+      "start": 2.72,
+      "end": 14.0,
+      "text": "Speaker 1: Bloomberg Audio Studios, Podcasts, Radio News."
+    },
+    {
+      "start": 17.96,
+      "end": 20.68,
+      "text": "Speaker 2: Hello and welcome to another episode of the Odd Thoughts podcast."
+    },
+    {
+      "start": 20.76,
+      "end": 22.4,
+      "text": "Speaker 3: I'm Tracy Alloway and I'm Joe."
+    },
+    {
+      "start": 22.44,
+      "end": 23.439,
+      "text": "Speaker 4: Why isn't thal Joe."
+    },
+    {
+      "start": 23.44,
+      "end": 26.28,
+      "text": "Speaker 2: We like to talk a lot about physical constraints, yeah,"
+    },
+    {
+      "start": 26.36,
+      "end": 29.12,
+      "text": "Speaker 2: on this show, right, And this is one reason why"
+    },
+    {
+      "start": 29.16,
+      "end": 31.92,
+      "text": "Speaker 2: AI is a really fascinating area for us right now,"
+    },
+    {
+      "start": 31.92,
+      "end": 34.879,
+      "text": "Speaker 2: because there are a lot of physical constraints on what"
+    },
+    {
+      "start": 35.04,
+      "end": 39.0,
+      "text": "Speaker 2: is ultimately the sort of ephemeral technology. And I think"
+    },
+    {
+      "start": 39.08,
+      "end": 42.519,
+      "text": "Speaker 2: that the tension between those two things is really interesting, Right,"
+    },
+    {
+      "start": 42.68,
+      "end": 45.839,
+      "text": "Speaker 2: Like you type a prompt into chat, GPT or claude"
+    },
+    {
+      "start": 45.92,
+      "end": 49.56,
+      "text": "Speaker 2: or whatever, and it's the sort of like disembodied digital platform."
+    },
+    {
+      "start": 50.08,
+      "end": 54.56,
+      "text": "Speaker 2: You don't necessarily think about the power usage, the real resources,"
+    },
+    {
+      "start": 54.6,
+      "end": 57.48,
+      "text": "Speaker 2: the transformers that have to go into data centers to"
+    },
+    {
+      "start": 57.52,
+      "end": 58.2,
+      "text": "Speaker 2: get compute."
+    },
+    {
+      "start": 58.48,
+      "end": 60.68,
+      "text": "Speaker 4: The thing that I've been on my mind and lately"
+    },
+    {
+      "start": 60.76,
+      "end": 62.72,
+      "text": "Speaker 4: and I've written about it and I plan to write more,"
+    },
+    {
+      "start": 62.96,
+      "end": 67.12,
+      "text": "Speaker 4: is this idea that the canonical AI thought experiment is"
+    },
+    {
+      "start": 67.44,
+      "end": 69.6,
+      "text": "Speaker 4: what happens if you tell an AI to make a"
+    },
+    {
+      "start": 69.64,
+      "end": 72.36,
+      "text": "Speaker 4: lot of paper clips, and then it destroys the world"
+    },
+    {
+      "start": 72.4,
+      "end": 76.479,
+      "text": "Speaker 4: because in the pursuit of marshaling all of the world's resources,"
+    },
+    {
+      "start": 76.52,
+      "end": 79.679,
+      "text": "Speaker 4: it just turns everything into paper clips. Because it doesn't know, and."
+    },
+    {
+      "start": 80.03999999999999,
+      "end": 82.319,
+      "text": "Speaker 2: I have to ask, is this canonical example? Is this"
+    },
+    {
+      "start": 82.36,
+      "end": 84.759,
+      "text": "Speaker 2: based on your traumatic fear of Clippy?"
+    },
+    {
+      "start": 86.6,
+      "end": 88.64,
+      "text": "Speaker 4: No, but that is you know, it all comes back"
+    },
+    {
+      "start": 88.68,
+      "end": 92.08,
+      "text": "Speaker 4: full circle. But what we're seeing in real life is"
+    },
+    {
+      "start": 92.08,
+      "end": 95.92,
+      "text": "Speaker 4: that everything from access to electrical grids GPU is being"
+    },
+    {
+      "start": 96.12,
+      "end": 101.44,
+      "text": "Speaker 4: the big example, energy, turbines, talent, and now even including"
+    },
+    {
+      "start": 101.44,
+      "end": 104.47999999999999,
+      "text": "Speaker 4: residential real estate are being reproposed to make more and"
+    },
+    {
+      "start": 104.56,
+      "end": 108.03999999999999,
+      "text": "Speaker 4: more advanced AI. And in the original paper clip thought experiment,"
+    },
+    {
+      "start": 108.64,
+      "end": 111.92,
+      "text": "Speaker 4: the envision, or at least in one version, the philosopher"
+    },
+    {
+      "start": 112.0,
+      "end": 115.16,
+      "text": "Speaker 4: Nicolas Bostrom, envisions the AI having exhausted all of the"
+    },
+    {
+      "start": 115.2,
+      "end": 118.84,
+      "text": "Speaker 4: world's resources, then sending a probe into outer space to"
+    },
+    {
+      "start": 118.92,
+      "end": 120.88,
+      "text": "Speaker 4: consume star inner to build."
+    },
+    {
+      "start": 120.6,
+      "end": 122.24,
+      "text": "Speaker 2: More paper clips eat the universe."
+    },
+    {
+      "start": 122.4,
+      "end": 125.52,
+      "text": "Speaker 4: And to this point we're even talking about going into"
+    },
+    {
+      "start": 125.56,
+      "end": 128.48,
+      "text": "Speaker 4: outer space for data centers to build more AI. So"
+    },
+    {
+      "start": 128.6,
+      "end": 132.12,
+      "text": "Speaker 4: every version of the thought experiment is being replicated, except"
+    },
+    {
+      "start": 132.16,
+      "end": 134.959,
+      "text": "Speaker 4: to just more and more resources to build the AI"
+    },
+    {
+      "start": 135.2,
+      "end": 137.84,
+      "text": "Speaker 4: by humans rather than paper clips by AI."
+    },
+    {
+      "start": 138.16,
+      "end": 142.0,
+      "text": "Speaker 2: There's this other connected theme here. So we've talked before"
+    },
+    {
+      "start": 142.04,
+      "end": 144.56,
+      "text": "Speaker 2: about how one of the reasons valuations seem to be"
+    },
+    {
+      "start": 144.6,
+      "end": 147.88,
+      "text": "Speaker 2: getting insane in the market is because all of this"
+    },
+    {
+      "start": 148.0,
+      "end": 151.96,
+      "text": "Speaker 2: activity is being driven by like this existential need to"
+    },
+    {
+      "start": 152.36,
+      "end": 156.519,
+      "text": "Speaker 2: become number one in frontier models and this new technology."
+    },
+    {
+      "start": 156.6,
+      "end": 157.6,
+      "text": "Speaker 3: And so if you."
+    },
+    {
+      "start": 157.6,
+      "end": 160.84,
+      "text": "Speaker 2: Say you absolutely have to be the first to invent AGI,"
+    },
+    {
+      "start": 160.96,
+      "end": 164.839,
+      "text": "Speaker 2: then you can justify any amount of spending on Earth, right,"
+    },
+    {
+      "start": 164.88,
+      "end": 166.959,
+      "text": "Speaker 2: And so what we tend to see is like the"
+    },
+    {
+      "start": 167.0,
+      "end": 169.8,
+      "text": "Speaker 2: biggest companies just keep getting bigger. They're the ones that"
+    },
+    {
+      "start": 169.84,
+      "end": 171.48,
+      "text": "Speaker 2: can get resources for all this stuff."
+    },
+    {
+      "start": 171.52,
+      "end": 173.72,
+      "text": "Speaker 4: And I think one of the most fascinating things right"
+    },
+    {
+      "start": 173.8,
+      "end": 176.04,
+      "text": "Speaker 4: now is that, at least as of right now June fourth,"
+    },
+    {
+      "start": 176.04,
+      "end": 180.12,
+      "text": "Speaker 4: twenty twenty six, the frontier models are really close to"
+    },
+    {
+      "start": 180.16,
+      "end": 182.76,
+      "text": "Speaker 4: each other, right, Yeah, so and the four point a"
+    },
+    {
+      "start": 183.0,
+      "end": 186.76,
+      "text": "Speaker 4: GPT five point five, like they're not that different. And"
+    },
+    {
+      "start": 186.84,
+      "end": 189.6,
+      "text": "Speaker 4: one of the things I'm curious about is is there"
+    },
+    {
+      "start": 189.68,
+      "end": 193.16,
+      "text": "Speaker 4: something inherent in market dynamics in this space that will"
+    },
+    {
+      "start": 193.2,
+      "end": 196.2,
+      "text": "Speaker 4: always keep you know, whether it's not being able to"
+    },
+    {
+      "start": 196.32,
+      "end": 200.4,
+      "text": "Speaker 4: distill results from another model and cause I steal them,"
+    },
+    {
+      "start": 200.4,
+      "end": 205.519,
+      "text": "Speaker 4: whether it's information sharing among employees. Is there some inherent"
+    },
+    {
+      "start": 205.639,
+      "end": 208.72,
+      "text": "Speaker 4: reason why we've seen the stability or could it be"
+    },
+    {
+      "start": 208.8,
+      "end": 211.359,
+      "text": "Speaker 4: that at some point one lab just like breaks out"
+    },
+    {
+      "start": 211.48,
+      "end": 214.6,
+      "text": "Speaker 4: and establishes permanent still possibility."
+    },
+    {
+      "start": 214.639,
+      "end": 217.44,
+      "text": "Speaker 2: But like I am personally on the side of commodification,"
+    },
+    {
+      "start": 217.6,
+      "end": 221.68,
+      "text": "Speaker 2: and everything just becomes kind of basic or whatever basically available."
+    },
+    {
+      "start": 221.76,
+      "end": 223.64,
+      "text": "Speaker 2: I know Okay, well I'm just kidding, all right, thank"
+    },
+    {
+      "start": 223.68,
+      "end": 226.52,
+      "text": "Speaker 2: you Joe as a Joe. All right, that's a polite"
+    },
+    {
+      "start": 226.56,
+      "end": 228.72,
+      "text": "Speaker 2: prompt to get to the guest. We do, in fact"
+    },
+    {
+      "start": 228.84,
+      "end": 231.48,
+      "text": "Speaker 2: have the perfect guest. We're going to be speaking with,"
+    },
+    {
+      "start": 231.8,
+      "end": 235.07999999999998,
+      "text": "Speaker 2: Anjinay Mitta. He is, of course, a former general partner"
+    },
+    {
+      "start": 235.12,
+      "end": 239.72,
+      "text": "Speaker 2: at Anderson Horowitz, a Stanford University visiting scientist who teaches"
+    },
+    {
+      "start": 239.76,
+      "end": 244.24,
+      "text": "Speaker 2: the viral AI lecture called Frontier Systems. Also one of"
+    },
+    {
+      "start": 244.24,
+      "end": 247.56,
+      "text": "Speaker 2: the first guys to write a check for Anthropic is"
+    },
+    {
+      "start": 247.68,
+      "end": 251.56,
+      "text": "Speaker 2: now the founder of a new company called AMPPBC. So"
+    },
+    {
+      "start": 251.88,
+      "end": 254.44,
+      "text": "Speaker 2: thank you so much for coming on our thoughts on Thanks."
+    },
+    {
+      "start": 254.2,
+      "end": 257.039,
+      "text": "Speaker 5: For having me. One correction, it's pronounced amp pbc, but"
+    },
+    {
+      "start": 257.12,
+      "end": 258.96,
+      "text": "Speaker 5: that's everything else you got corect on the."
+    },
+    {
+      "start": 258.96,
+      "end": 262.36,
+      "text": "Speaker 3: Intro would make sense, wouldn't it as an energy Yeah."
+    },
+    {
+      "start": 262.6,
+      "end": 265.64,
+      "text": "Speaker 2: That, and just remind us the PBC is public benefit"
+    },
+    {
+      "start": 265.68,
+      "end": 268.039,
+      "text": "Speaker 2: corporation's right, So you're doing this for the public benefit."
+    },
+    {
+      "start": 268.12,
+      "end": 270.839,
+      "text": "Speaker 5: We're governed by a public benefit charter, which means everything"
+    },
+    {
+      "start": 270.839,
+      "end": 273.719,
+      "text": "Speaker 5: we do has to follow our mission. We have a"
+    },
+    {
+      "start": 273.72,
+      "end": 276.56,
+      "text": "Speaker 5: public charter mission. We are for profit in the same"
+    },
+    {
+      "start": 276.76,
+      "end": 279.359,
+      "text": "Speaker 5: way Ben and Jerry's or OREI and then Tropic our"
+    },
+    {
+      "start": 279.4,
+      "end": 282.599,
+      "text": "Speaker 5: public benefits. So we aim to make a healthy, modest"
+    },
+    {
+      "start": 282.72,
+      "end": 285.28,
+      "text": "Speaker 5: amount of profits that can sustain our mission. But we"
+    },
+    {
+      "start": 285.64,
+      "end": 288.359,
+      "text": "Speaker 5: are we have the flexibility to choose what that margin is."
+    },
+    {
+      "start": 288.8,
+      "end": 289.479,
+      "text": "Speaker 3: Can I just start."
+    },
+    {
+      "start": 289.52,
+      "end": 291.68,
+      "text": "Speaker 2: I want to establish your credentials. Although I feel like"
+    },
+    {
+      "start": 291.72,
+      "end": 293.76,
+      "text": "Speaker 2: that very long list did a pretty good job. But"
+    },
+    {
+      "start": 293.839,
+      "end": 296.6,
+      "text": "Speaker 2: writing the first check for Anthropic like tell us that"
+    },
+    {
+      "start": 296.68,
+      "end": 300.4,
+      "text": "Speaker 2: kind of origin story because the anecdote that you hear"
+    },
+    {
+      "start": 300.6,
+      "end": 304.4,
+      "text": "Speaker 2: is like twenty five vcs turned them away initially and"
+    },
+    {
+      "start": 304.44,
+      "end": 305.08,
+      "text": "Speaker 2: you said yes."
+    },
+    {
+      "start": 305.48,
+      "end": 307.4,
+      "text": "Speaker 5: It was a little bit of the other way around."
+    },
+    {
+      "start": 307.44,
+      "end": 309.559,
+      "text": "Speaker 5: I said yes. Then we tried to get another twenty"
+    },
+    {
+      "start": 309.56,
+      "end": 312.64,
+      "text": "Speaker 5: five dcs to say us and I failed. It was"
+    },
+    {
+      "start": 312.68,
+      "end": 314.32,
+      "text": "Speaker 5: a harrowing experience. It was a bit of a wake"
+    },
+    {
+      "start": 314.4,
+      "end": 317.64,
+      "text": "Speaker 5: up call. It was late twenty twenty. I had just"
+    },
+    {
+      "start": 317.76,
+      "end": 319.88,
+      "text": "Speaker 5: sold my last business. It was called Ubiquity six. It"
+    },
+    {
+      "start": 319.96,
+      "end": 322.359,
+      "text": "Speaker 5: was a three D mapping business. An AI is an"
+    },
+    {
+      "start": 322.36,
+      "end": 326.12,
+      "text": "Speaker 5: AI business that we had founded in twenty seventeen. And"
+    },
+    {
+      "start": 327.04,
+      "end": 329.88,
+      "text": "Speaker 5: I felt like a failure at the time because you know,"
+    },
+    {
+      "start": 329.88,
+      "end": 331.96,
+      "text": "Speaker 5: in San Francis. I was in San Francisco. I just"
+    },
+    {
+      "start": 332.0,
+      "end": 335.68,
+      "text": "Speaker 5: as a big picture my life stories. I was born India."
+    },
+    {
+      "start": 336.72,
+      "end": 338.76,
+      "text": "Speaker 5: I went to high school in Singapore, and I came"
+    },
+    {
+      "start": 338.8,
+      "end": 340.96,
+      "text": "Speaker 5: over to college to the United States at Stanford for"
+    },
+    {
+      "start": 341.08,
+      "end": 343.96,
+      "text": "Speaker 5: my undergraduate degree. And then when I arrived at campus"
+    },
+    {
+      "start": 344.08,
+      "end": 347.08,
+      "text": "Speaker 5: in twenty eleven. Deep learning had just started taking over"
+    },
+    {
+      "start": 347.12,
+      "end": 350.56,
+      "text": "Speaker 5: the world in Silicon Valley. Andre Karpathy was a computer"
+    },
+    {
+      "start": 350.6,
+      "end": 353.479,
+      "text": "Speaker 5: science ta to Andrew Ing, who was one of the"
+    },
+    {
+      "start": 354.08,
+      "end": 357.88,
+      "text": "Speaker 5: i would say modern sort of founding fathers of deep learning."
+    },
+    {
+      "start": 357.88,
+      "end": 361.88,
+      "text": "Speaker 5: This idea that you can teach machines to think without"
+    },
+    {
+      "start": 361.92,
+      "end": 364.72,
+      "text": "Speaker 5: having to give them prescriptive rules, and so I went"
+    },
+    {
+      "start": 364.76,
+      "end": 366.96,
+      "text": "Speaker 5: into sort of machine I got swept up in that"
+    },
+    {
+      "start": 367.4,
+      "end": 369.76,
+      "text": "Speaker 5: moment and started studying. A lot of my coursework was"
+    },
+    {
+      "start": 369.76,
+      "end": 374.24,
+      "text": "Speaker 5: in machine learning. My primary department at Stanford was in bioinformatics,"
+    },
+    {
+      "start": 374.24,
+      "end": 377.6,
+      "text": "Speaker 5: which was machine learning applied to healthcare. I got sidetracked"
+    },
+    {
+      "start": 377.64,
+      "end": 380.48,
+      "text": "Speaker 5: to a venture firm called Clina Perkins for about four"
+    },
+    {
+      "start": 380.56,
+      "end": 382.159,
+      "text": "Speaker 5: and a half years, where I got the chance to"
+    },
+    {
+      "start": 382.16,
+      "end": 384.68,
+      "text": "Speaker 5: work for some of the great investors like John Dore"
+    },
+    {
+      "start": 384.72,
+      "end": 386.599,
+      "text": "Speaker 5: and Mary Meeker. And then I left and started my"
+    },
+    {
+      "start": 386.6,
+      "end": 389.36,
+      "text": "Speaker 5: own company. And as is the case in Silicon Valley,"
+    },
+    {
+      "start": 389.36,
+      "end": 392.0,
+      "text": "Speaker 5: when you start, I mean I was twenty five. I"
+    },
+    {
+      "start": 392.04,
+      "end": 394.84000000000003,
+      "text": "Speaker 5: went and raised about forty seven or two million dollars"
+    },
+    {
+      "start": 394.92,
+      "end": 397.52,
+      "text": "Speaker 5: from some of the usual suspects like Benchmark and Index"
+    },
+    {
+      "start": 397.56,
+      "end": 399.28,
+      "text": "Speaker 5: and so on. I thought I was the coolest kid"
+    },
+    {
+      "start": 399.32,
+      "end": 402.44,
+      "text": "Speaker 5: in town, and I got the bit out of me"
+    },
+    {
+      "start": 403.68,
+      "end": 408.2,
+      "text": "Speaker 5: because we built this incredible technology, which is this AI"
+    },
+    {
+      "start": 408.279,
+      "end": 411.159,
+      "text": "Speaker 5: system that could map any location in three D. And"
+    },
+    {
+      "start": 411.2,
+      "end": 414.76,
+      "text": "Speaker 5: then the pandemic hit, and so location based mapping, three"
+    },
+    {
+      "start": 414.839,
+      "end": 419.48,
+      "text": "Speaker 5: D mapping. The only thing you can control is how"
+    },
+    {
+      "start": 419.52,
+      "end": 422.24,
+      "text": "Speaker 5: you react to what happens. And so I did feel"
+    },
+    {
+      "start": 422.24,
+      "end": 423.92,
+      "text": "Speaker 5: for a moment like it was bad luck. And then"
+    },
+    {
+      "start": 423.92,
+      "end": 425.16,
+      "text": "Speaker 5: you just have to pick up the pieces and make"
+    },
+    {
+      "start": 425.24,
+      "end": 428.08,
+      "text": "Speaker 5: the best of it. So I did with my co founder,"
+    },
+    {
+      "start": 428.12,
+      "end": 429.88,
+      "text": "Speaker 5: we we figured it out. It was it was a"
+    },
+    {
+      "start": 429.92,
+      "end": 433.56,
+      "text": "Speaker 5: tough few years where we had to pivot the business,"
+    },
+    {
+      "start": 434.16,
+      "end": 436.72,
+      "text": "Speaker 5: but we landed the plane. We essentially a lot of"
+    },
+    {
+      "start": 436.76,
+      "end": 439.28,
+      "text": "Speaker 5: the distributed systems we'd built on the back end side"
+    },
+    {
+      "start": 439.36,
+      "end": 441.04,
+      "text": "Speaker 5: ended up being quite valuable. We sold that to a"
+    },
+    {
+      "start": 441.04,
+      "end": 443.52,
+      "text": "Speaker 5: company called Discord, which is a chat up for gamers."
+    },
+    {
+      "start": 444.52,
+      "end": 448.88,
+      "text": "Speaker 4: Lost Discord fans in there. Yeah, awesome our listeners."
+    },
+    {
+      "start": 449.64,
+      "end": 451.48,
+      "text": "Speaker 5: So, you know, about a month after I sold the business,"
+    },
+    {
+      "start": 451.52,
+      "end": 453.28,
+      "text": "Speaker 5: I got a call from some friends. We're running research"
+    },
+    {
+      "start": 453.28,
+      "end": 454.84000000000003,
+      "text": "Speaker 5: at Opening Eye, and we'd all been you know, friends"
+    },
+    {
+      "start": 454.88,
+      "end": 457.84000000000003,
+      "text": "Speaker 5: in the machine learning community in the area, and they said,"
+    },
+    {
+      "start": 457.88,
+      "end": 460.12,
+      "text": "Speaker 5: on you know, we've trained a little model called GBT"
+    },
+    {
+      "start": 460.2,
+      "end": 462.68,
+      "text": "Speaker 5: three and we think it's the best sense just a"
+    },
+    {
+      "start": 462.72,
+      "end": 465.92,
+      "text": "Speaker 5: little model. Yeah, nobody really paid attention. They were like, no,"
+    },
+    {
+      "start": 465.92,
+      "end": 467.6,
+      "text": "Speaker 5: nobody cares, but we think it's the best thing since"
+    },
+    {
+      "start": 467.6,
+      "end": 469.76,
+      "text": "Speaker 5: sliced bread, and we want to leave and turn this"
+    },
+    {
+      "start": 470.24,
+      "end": 473.36,
+      "text": "Speaker 5: into a standalone business. But you know, it'd be helpful"
+    },
+    {
+      "start": 473.44,
+      "end": 475.12,
+      "text": "Speaker 5: to get some of your advice on how to do that."
+    },
+    {
+      "start": 475.84000000000003,
+      "end": 477.6,
+      "text": "Speaker 5: And I couldn't really come on board full time at"
+    },
+    {
+      "start": 477.6,
+      "end": 481.0,
+      "text": "Speaker 5: the time with them because I had to integrate my"
+    },
+    {
+      "start": 481.04,
+      "end": 483.44,
+      "text": "Speaker 5: company to the acquire But I came on as their angel,"
+    },
+    {
+      "start": 483.44,
+      "end": 485.44,
+      "text": "Speaker 5: and nights and weekends I worked with them on the"
+    },
+    {
+      "start": 485.48,
+      "end": 487.68,
+      "text": "Speaker 5: business plan and who we should raise from that. You know,"
+    },
+    {
+      "start": 487.68,
+      "end": 490.16,
+      "text": "Speaker 5: that company was anthropic. Dario and Tom and I started"
+    },
+    {
+      "start": 490.16,
+      "end": 492.76,
+      "text": "Speaker 5: doing these weekly working sessions in early twenty twenty one,"
+    },
+    {
+      "start": 493.76,
+      "end": 498.84,
+      "text": "Speaker 5: and yeah, I assumed that, you know, if we went"
+    },
+    {
+      "start": 498.88,
+      "end": 501.0,
+      "text": "Speaker 5: and talked to a bunch of venture capitalists on Central Road,"
+    },
+    {
+      "start": 501.08,
+      "end": 503.52,
+      "text": "Speaker 5: especially some of the ones who were involved in the"
+    },
+    {
+      "start": 503.52,
+      "end": 506.72,
+      "text": "Speaker 5: biggest hits of the last decade before, that they would"
+    },
+    {
+      "start": 506.76,
+      "end": 508.8,
+      "text": "Speaker 5: get it. These are the creators of GPD three. And"
+    },
+    {
+      "start": 508.84,
+      "end": 510.92,
+      "text": "Speaker 5: they were like, we just don't get this. We've heard"
+    },
+    {
+      "start": 510.96,
+      "end": 513.719,
+      "text": "Speaker 5: the Holy I story before. This whole general Intelligence thing"
+    },
+    {
+      "start": 513.8,
+      "end": 518.2,
+      "text": "Speaker 5: is a pipe dream. And it was painful. We tried"
+    },
+    {
+      "start": 518.2,
+      "end": 521.76,
+      "text": "Speaker 5: to raise five hundred million dollars. We couldn't. We instead"
+    },
+    {
+      "start": 521.8,
+      "end": 523.88,
+      "text": "Speaker 5: scraped toge about one hundred million, which I know sounds"
+    },
+    {
+      "start": 523.88,
+      "end": 525.08,
+      "text": "Speaker 5: like a lot bet at the time was a rounding"
+    },
+    {
+      "start": 525.08,
+      "end": 526.76,
+      "text": "Speaker 5: era compared to how much Google has spent on the"
+    },
+    {
+      "start": 526.8,
+      "end": 530.52,
+      "text": "Speaker 5: same kind of systems. And it was all angels in"
+    },
+    {
+      "start": 530.559,
+      "end": 532.28,
+      "text": "Speaker 5: that first round, a bunch of cats and dogs, all"
+    },
+    {
+      "start": 532.32,
+      "end": 534.28,
+      "text": "Speaker 5: of us who believed in the mission. And then over"
+    },
+    {
+      "start": 534.32,
+      "end": 538.04,
+      "text": "Speaker 5: the next eighteen months, Dario Tom and team put together"
+    },
+    {
+      "start": 538.12,
+      "end": 541.079,
+      "text": "Speaker 5: a plan that we kind of worked shopped on, getting"
+    },
+    {
+      "start": 541.08,
+      "end": 543.68,
+      "text": "Speaker 5: an Amazon involved as a strategic and that resulted in"
+    },
+    {
+      "start": 543.72,
+      "end": 547.24,
+      "text": "Speaker 5: a four billion dollar compute and capital partnership that made"
+    },
+    {
+      "start": 547.28,
+      "end": 552.76,
+      "text": "Speaker 5: me realize infrastructure, especially compute infrastructure, was just a key"
+    },
+    {
+      "start": 552.8,
+      "end": 555.84,
+      "text": "Speaker 5: requirement to create any kind of modern eye lab. And"
+    },
+    {
+      "start": 555.92,
+      "end": 558.44,
+      "text": "Speaker 5: so since then I've spent the past five six years"
+    },
+    {
+      "start": 558.44,
+      "end": 561.24,
+      "text": "Speaker 5: figure out how to unblock that compute bottleneck for research teams."
+    },
+    {
+      "start": 561.48,
+      "end": 564.96,
+      "text": "Speaker 4: Amazing well obviously an incredibly well timed."
+    },
+    {
+      "start": 564.72,
+      "end": 567.679,
+      "text": "Speaker 2: It just like emphasizes how much things have changed, right"
+    },
+    {
+      "start": 567.72,
+      "end": 570.48,
+      "text": "Speaker 2: where like people are literally throwing money at like almost"
+    },
+    {
+      "start": 570.559,
+      "end": 574.04,
+      "text": "Speaker 2: any model now versus like a few years ago, going"
+    },
+    {
+      "start": 574.12,
+      "end": 577.16,
+      "text": "Speaker 2: like hi, agi, really know, Well, let."
+    },
+    {
+      "start": 577.0,
+      "end": 579.72,
+      "text": "Speaker 4: Me ask you this question, because this is a very"
+    },
+    {
+      "start": 579.76,
+      "end": 582.16,
+      "text": "Speaker 4: top of mind question for me, and we're going to"
+    },
+    {
+      "start": 582.24,
+      "end": 585.319,
+      "text": "Speaker 4: we can skip around on the timeline here, but there"
+    },
+    {
+      "start": 585.32,
+      "end": 588.679,
+      "text": "Speaker 4: are three labs that are seen as like genuinely at"
+    },
+    {
+      "start": 588.72,
+      "end": 592.64,
+      "text": "Speaker 4: the frontier right now, and that is obviously deep mind"
+    },
+    {
+      "start": 592.679,
+      "end": 596.12,
+      "text": "Speaker 4: within Google, Open AI and anthropic And then of course"
+    },
+    {
+      "start": 596.28,
+      "end": 598.48,
+      "text": "Speaker 4: you know a lot of people say that the Chinese"
+    },
+    {
+      "start": 598.52,
+      "end": 600.88,
+      "text": "Speaker 4: labs are very close, if not there, maybe they're a"
+    },
+    {
+      "start": 600.92,
+      "end": 605.0,
+      "text": "Speaker 4: few months behind. Is this is there? You know when"
+    },
+    {
+      "start": 605.04,
+      "end": 607.959,
+      "text": "Speaker 4: we think about like part of your mission is like"
+    },
+    {
+      "start": 608.2,
+      "end": 610.679,
+      "text": "Speaker 4: you say, okay, a new lab should be able to"
+    },
+    {
+      "start": 610.72,
+      "end": 613.08,
+      "text": "Speaker 4: get access to compute if you're really bright, like that"
+    },
+    {
+      "start": 613.12,
+      "end": 617.64,
+      "text": "Speaker 4: shouldn't be the bottleneck. Does that imply therefore that you"
+    },
+    {
+      "start": 617.76,
+      "end": 621.56,
+      "text": "Speaker 4: expect more labs to be able to were they to"
+    },
+    {
+      "start": 621.679,
+      "end": 625.36,
+      "text": "Speaker 4: have access to the compute also reached the frontier, and"
+    },
+    {
+      "start": 625.4,
+      "end": 628.04,
+      "text": "Speaker 4: that there is something inherent about like this sort of"
+    },
+    {
+      "start": 628.4,
+      "end": 632.44,
+      "text": "Speaker 4: seeming stability or parody that we see among frontier models."
+    },
+    {
+      "start": 632.679,
+      "end": 634.4,
+      "text": "Speaker 5: So the answer to your first question is yes, there"
+    },
+    {
+      "start": 634.44,
+      "end": 637.96,
+      "text": "Speaker 5: have many frontiers to be conquered, okay, pioneered, and this"
+    },
+    {
+      "start": 638.12,
+      "end": 640.239,
+      "text": "Speaker 5: is not just one frontier. I think that's a fundamental"
+    },
+    {
+      "start": 640.52,
+      "end": 643.12,
+      "text": "Speaker 5: misunderstanding people have about your frontier. They talk about the"
+    },
+    {
+      "start": 643.24,
+      "end": 647.319,
+      "text": "Speaker 5: jagged frontier, jagged intelligence right in a poetic sense, in"
+    },
+    {
+      "start": 647.32,
+      "end": 649.64,
+      "text": "Speaker 5: a historical sense, if you think about the wild West"
+    },
+    {
+      "start": 649.72,
+      "end": 653.16,
+      "text": "Speaker 5: or the Western frontier, it wasn't just one frontier. There"
+    },
+    {
+      "start": 653.2,
+      "end": 655.16,
+      "text": "Speaker 5: was a frontier of gold, and there was a frontier"
+    },
+    {
+      "start": 655.16,
+      "end": 656.88,
+      "text": "Speaker 5: of genes. It turns out Levi's you know, it turned"
+    },
+    {
+      "start": 656.88,
+      "end": 659.0,
+      "text": "Speaker 5: out to be a new modern behemoth of a company."
+    },
+    {
+      "start": 659.0,
+      "end": 661.52,
+      "text": "Speaker 5: I mean, there were so many new businesses founded in"
+    },
+    {
+      "start": 661.559,
+      "end": 664.959,
+      "text": "Speaker 5: the Industrial Revolution, and I think that's that's the reality."
+    },
+    {
+      "start": 665.04,
+      "end": 668.68,
+      "text": "Speaker 5: Is the software engineering frontier, which is where Anthropic is"
+    },
+    {
+      "start": 668.679,
+      "end": 669.92,
+      "text": "Speaker 5: clearly leader, is one frontier."
+    },
+    {
+      "start": 670.16,
+      "end": 670.6,
+      "text": "Speaker 2: Yeah."
+    },
+    {
+      "start": 671.04,
+      "end": 673.76,
+      "text": "Speaker 5: I think the you know, chat frontier, the sort of"
+    },
+    {
+      "start": 673.8,
+      "end": 676.8,
+      "text": "Speaker 5: consumer chat frontier is another frontier where Opening Eye has"
+    },
+    {
+      "start": 676.8,
+      "end": 677.28,
+      "text": "Speaker 5: been a leader."
+    },
+    {
+      "start": 677.4,
+      "end": 680.8,
+      "text": "Speaker 4: Arguably byte Edance is that the video frontier with seed Dance, right."
+    },
+    {
+      "start": 680.679,
+      "end": 683.44,
+      "text": "Speaker 5: Absolutely, yeah, And so I think there's just many many"
+    },
+    {
+      "start": 683.44,
+      "end": 686.64,
+      "text": "Speaker 5: frontiers to be conquered are pioneered. Rather, I think Anthropic"
+    },
+    {
+      "start": 686.72,
+      "end": 688.8389999999999,
+      "text": "Speaker 5: is clearly a role model for the rest of the"
+    },
+    {
+      "start": 688.88,
+      "end": 690.64,
+      "text": "Speaker 5: community on how to do it in an efficient way."
+    },
+    {
+      "start": 691.04,
+      "end": 693.84,
+      "text": "Speaker 5: They're you know, I think he more than five thousand people,"
+    },
+    {
+      "start": 694.32,
+      "end": 695.88,
+      "text": "Speaker 5: and they've been able to put out state of the"
+    },
+    {
+      "start": 695.96,
+      "end": 698.72,
+      "text": "Speaker 5: art models that you know, teams like Google, which have"
+    },
+    {
+      "start": 698.88,
+      "end": 703.36,
+      "text": "Speaker 5: sixty thousand people, are close to but not yet quite there."
+    },
+    {
+      "start": 703.4,
+      "end": 705.88,
+      "text": "Speaker 5: So I actually I don't really agree with your with"
+    },
+    {
+      "start": 706.0,
+      "end": 709.199,
+      "text": "Speaker 5: your assessment that they're all at parity. If you use"
+    },
+    {
+      "start": 709.2,
+      "end": 711.76,
+      "text": "Speaker 5: the models day in and day out, they're quite remarkably"
+    },
+    {
+      "start": 711.8,
+      "end": 714.24,
+      "text": "Speaker 5: different in meaningful ways to the person with hands on"
+    },
+    {
+      "start": 714.24,
+      "end": 716.64,
+      "text": "Speaker 5: the keyboard, you know, doing the engineering work. And I"
+    },
+    {
+      "start": 716.64,
+      "end": 720.84,
+      "text": "Speaker 5: think those those differences reflect the folk of the teams."
+    },
+    {
+      "start": 721.679,
+      "end": 724.199,
+      "text": "Speaker 5: What is the actual mission that the team working on"
+    },
+    {
+      "start": 724.76,
+      "end": 727.92,
+      "text": "Speaker 5: that domain cares about day after day after day. So"
+    },
+    {
+      "start": 727.92,
+      "end": 730.92,
+      "text": "Speaker 5: in the Stanford Class I teach, the first lecture was"
+    },
+    {
+      "start": 731.0,
+      "end": 734.36,
+      "text": "Speaker 5: a breakdown of how frontier models are even created, and"
+    },
+    {
+      "start": 734.4,
+      "end": 737.0,
+      "text": "Speaker 5: it's actually quite simple. The recipes is super simple. There's"
+    },
+    {
+      "start": 737.08,
+      "end": 741.28,
+      "text": "Speaker 5: basically four steps this pre training, mid training, post training,"
+    },
+    {
+      "start": 741.4,
+      "end": 744.32,
+      "text": "Speaker 5: and then what we call the continuous feedback loop. So"
+    },
+    {
+      "start": 744.4,
+      "end": 747.92,
+      "text": "Speaker 5: pre training just is just says, hey, you collect a"
+    },
+    {
+      "start": 747.96,
+      "end": 751.36,
+      "text": "Speaker 5: bunch of data from the Internet and train a model"
+    },
+    {
+      "start": 751.44,
+      "end": 754.92,
+      "text": "Speaker 5: to be a generally good pattern recognition machine. You then"
+    },
+    {
+      "start": 754.96,
+      "end": 757.48,
+      "text": "Speaker 5: do mid training, which is to say, in a particular"
+    },
+    {
+      "start": 757.52,
+      "end": 761.319,
+      "text": "Speaker 5: domain that you really care about, you inject more capabilities."
+    },
+    {
+      "start": 761.559,
+      "end": 763.84,
+      "text": "Speaker 5: So if you want this model to reason about science"
+    },
+    {
+      "start": 763.92,
+      "end": 765.92,
+      "text": "Speaker 5: or math or physics, then you give it science or"
+    },
+    {
+      "start": 765.92,
+      "end": 767.8389999999999,
+      "text": "Speaker 5: matter physics data and then you get a pretty good"
+    },
+    {
+      "start": 767.88,
+      "end": 770.48,
+      "text": "Speaker 5: model that specialized in that domain. And then you deployed"
+    },
+    {
+      "start": 770.48,
+      "end": 772.52,
+      "text": "Speaker 5: to the real world where you have people using it."
+    },
+    {
+      "start": 772.84,
+      "end": 776.8389999999999,
+      "text": "Speaker 5: And the context feedback, which is when the model is"
+    },
+    {
+      "start": 776.92,
+      "end": 779.4,
+      "text": "Speaker 5: able to do a task well or not and you"
+    },
+    {
+      "start": 779.52,
+      "end": 783.08,
+      "text": "Speaker 5: can verify whether that task was done correctly, gives the"
+    },
+    {
+      "start": 783.4,
+      "end": 786.12,
+      "text": "Speaker 5: model the data it needs to keep improving on that task,"
+    },
+    {
+      "start": 786.4,
+      "end": 787.24,
+      "text": "Speaker 5: on that distribution."
+    },
+    {
+      "start": 802.96,
+      "end": 805.64,
+      "text": "Speaker 2: This is slightly tangential, but like, I give a lot"
+    },
+    {
+      "start": 805.64,
+      "end": 809.08,
+      "text": "Speaker 2: of feedback to the models because Joe made me paranoid"
+    },
+    {
+      "start": 809.12,
+      "end": 811.6,
+      "text": "Speaker 2: about the basilisk theory. So I want the models to"
+    },
+    {
+      "start": 811.6,
+      "end": 814.16,
+      "text": "Speaker 2: appreciate me once they take over the world. But when"
+    },
+    {
+      "start": 814.16,
+      "end": 816.199,
+      "text": "Speaker 2: you give them feedback, like if they spit out a"
+    },
+    {
+      "start": 816.2,
+      "end": 820.319,
+      "text": "Speaker 2: wrong answer and you say that's wrong, they immediately apologize"
+    },
+    {
+      "start": 820.4,
+      "end": 822.8,
+      "text": "Speaker 2: and fall over themselves to say that they're sorry. But"
+    },
+    {
+      "start": 822.84,
+      "end": 826.199,
+      "text": "Speaker 2: then you ask them, like give me another output, or"
+    },
+    {
+      "start": 826.28,
+      "end": 828.439,
+      "text": "Speaker 2: like would you do it again the same way, and"
+    },
+    {
+      "start": 828.52,
+      "end": 830.84,
+      "text": "Speaker 2: they like they often say yes or they give like"
+    },
+    {
+      "start": 830.88,
+      "end": 833.439,
+      "text": "Speaker 2: a very similar answer. They don't seem to be responding"
+    },
+    {
+      "start": 833.52,
+      "end": 834.28,
+      "text": "Speaker 2: in real."
+    },
+    {
+      "start": 834.04,
+      "end": 834.76,
+      "text": "Speaker 4: Time, correct."
+    },
+    {
+      "start": 834.84,
+      "end": 836.72,
+      "text": "Speaker 5: So when I say feedback, I'm in a very specific"
+    },
+    {
+      "start": 836.76,
+      "end": 839.76,
+      "text": "Speaker 5: kind of feedback, which I call verifiable feedback. So when"
+    },
+    {
+      "start": 839.76,
+      "end": 843.0,
+      "text": "Speaker 5: you say that wasn't right or that was wrong, that's"
+    },
+    {
+      "start": 843.04,
+      "end": 845.96,
+      "text": "Speaker 5: an opinion, okay. Verifiable feedback is when you can have"
+    },
+    {
+      "start": 846.08,
+      "end": 848.28,
+      "text": "Speaker 5: as close to factual verification as possible."
+    },
+    {
+      "start": 848.28,
+      "end": 850.2,
+      "text": "Speaker 2: The reason So what does that actually look like?"
+    },
+    {
+      "start": 850.32,
+      "end": 853.24,
+      "text": "Speaker 5: That's a great question. So let's take reason by example"
+    },
+    {
+      "start": 853.32,
+      "end": 855.84,
+      "text": "Speaker 5: in two or three cases. In the case of software engineering,"
+    },
+    {
+      "start": 856.0,
+      "end": 858.28,
+      "text": "Speaker 5: in the way software engineer is actually code is you"
+    },
+    {
+      "start": 858.28,
+      "end": 860.76,
+      "text": "Speaker 5: write a piece of code and then you submit it"
+    },
+    {
+      "start": 861.04,
+      "end": 862.88,
+      "text": "Speaker 5: to the main code base, and then you usually have"
+    },
+    {
+      "start": 862.96,
+      "end": 865.6,
+      "text": "Speaker 5: a peer on your team review the code and approve"
+    },
+    {
+      "start": 865.64,
+      "end": 868.6,
+      "text": "Speaker 5: it or reject it, and if it gets approved that"
+    },
+    {
+      "start": 869.04,
+      "end": 871.52,
+      "text": "Speaker 5: that's the first step that's called a PR a pull request."
+    },
+    {
+      "start": 871.8,
+      "end": 874.24,
+      "text": "Speaker 5: And if another human on your team that you trust"
+    },
+    {
+      "start": 874.52,
+      "end": 877.32,
+      "text": "Speaker 5: approved it, that's one kind of verification of quality. And"
+    },
+    {
+      "start": 877.36,
+      "end": 880.84,
+      "text": "Speaker 5: then two before that piece of code usually gets deployed"
+    },
+    {
+      "start": 880.88,
+      "end": 883.56,
+      "text": "Speaker 5: to a production system, you have unit tests, and those"
+    },
+    {
+      "start": 883.6,
+      "end": 888.36,
+      "text": "Speaker 5: are quite objective tests of is this code performing the"
+    },
+    {
+      "start": 888.44,
+      "end": 891.08,
+      "text": "Speaker 5: function we need it to And if it passes both"
+    },
+    {
+      "start": 891.12,
+      "end": 894.16,
+      "text": "Speaker 5: those tests, it's a verifiable piece of code that accomplished"
+    },
+    {
+      "start": 894.16,
+      "end": 897.2,
+      "text": "Speaker 5: the goal. So in software engineering, the reason we've seen"
+    },
+    {
+      "start": 897.28,
+      "end": 900.56,
+      "text": "Speaker 5: such a dramatic improvement and capabilities is that a lot"
+    },
+    {
+      "start": 900.64,
+      "end": 904.08,
+      "text": "Speaker 5: of these labs are using feedback from that verification loop."
+    },
+    {
+      "start": 904.84,
+      "end": 907.88,
+      "text": "Speaker 5: In the case of another lab I incubated called Periodic Labs,"
+    },
+    {
+      "start": 907.88,
+      "end": 910.16,
+      "text": "Speaker 5: which we started a year ago, and you should come"
+    },
+    {
+      "start": 910.16,
+      "end": 912.64,
+      "text": "Speaker 5: by sometime, we've got forty thousand square feet in mental"
+    },
+    {
+      "start": 912.64,
+      "end": 915.76,
+      "text": "Speaker 5: Park where we've got AI models that are predicting new"
+    },
+    {
+      "start": 916.16,
+      "end": 918.28,
+      "text": "Speaker 5: The goal is to try to find a room temperature superconductor,"
+    },
+    {
+      "start": 918.32,
+      "end": 920.359,
+      "text": "Speaker 5: and so these models predicted."
+    },
+    {
+      "start": 920.28,
+      "end": 924.08,
+      "text": "Speaker 4: I forgot about superconductor I forgot about that."
+    },
+    {
+      "start": 923.88,
+      "end": 925.0,
+      "text": "Speaker 3: That was a fun summer."
+    },
+    {
+      "start": 925.4,
+      "end": 928.88,
+      "text": "Speaker 5: Yes, this time we will verify the if we ever"
+    },
+    {
+      "start": 928.92,
+      "end": 930.24,
+      "text": "Speaker 5: put something on you, and you will know it's not"
+    },
+    {
+      "start": 931.72,
+      "end": 934.84,
+      "text": "Speaker 5: that's not going to be us. But the AI system"
+    },
+    {
+      "start": 934.84,
+      "end": 939.4,
+      "text": "Speaker 5: predicts new materials candidates. Then we have robots that synthesize"
+    },
+    {
+      "start": 939.4,
+      "end": 941.6,
+      "text": "Speaker 5: the new material in the lab and then use X"
+    },
+    {
+      "start": 941.68,
+      "end": 943.92,
+      "text": "Speaker 5: ray diffraction machines to test whether the material has the"
+    },
+    {
+      "start": 943.96,
+      "end": 948.0,
+      "text": "Speaker 5: properties they said it would. And that's verifiable feedback from reality,"
+    },
+    {
+      "start": 948.28,
+      "end": 950.8,
+      "text": "Speaker 5: from physics, and then we pipe that data back into"
+    },
+    {
+      "start": 950.8,
+      "end": 953.64,
+      "text": "Speaker 5: the training loop over and over again. That context feedback"
+    },
+    {
+      "start": 954.08,
+      "end": 958.0,
+      "text": "Speaker 5: is very factually verifiable, and that's where progress is the"
+    },
+    {
+      "start": 958.08,
+      "end": 962.04,
+      "text": "Speaker 5: fastest today because that that feed back doesn't result in"
+    },
+    {
+      "start": 962.08,
+      "end": 964.8,
+      "text": "Speaker 5: the kind of hallucinations that you often experience with these"
+    },
+    {
+      "start": 964.84,
+      "end": 967.12,
+      "text": "Speaker 5: models on more subjective desks. It's also, by the way,"
+    },
+    {
+      "start": 967.12,
+      "end": 968.96,
+      "text": "Speaker 5: why the models is a terriblest objective desk, a creative"
+    },
+    {
+      "start": 968.96,
+      "end": 972.6,
+      "text": "Speaker 5: writing and sometimes they can get quite toxic, to be honest,"
+    },
+    {
+      "start": 972.6,
+      "end": 973.92,
+      "text": "Speaker 5: if you get them don the wrong loop. I don't"
+    },
+    {
+      "start": 973.92,
+      "end": 975.6,
+      "text": "Speaker 5: know if you've been using it as a therapy, bought"
+    },
+    {
+      "start": 975.64,
+      "end": 976.0,
+      "text": "Speaker 5: and so on."
+    },
+    {
+      "start": 976.76,
+      "end": 977.28,
+      "text": "Speaker 2: I have not."
+    },
+    {
+      "start": 977.48,
+      "end": 978.92,
+      "text": "Speaker 5: Just for the right, that's great."
+    },
+    {
+      "start": 979.08,
+      "end": 981.52,
+      "text": "Speaker 2: It did ask me to defy the laws of gravity"
+    },
+    {
+      "start": 981.64,
+      "end": 983.56,
+      "text": "Speaker 2: at one point because I was trying to create something"
+    },
+    {
+      "start": 983.6,
+      "end": 985.12,
+      "text": "Speaker 2: in my backyard and I was asking you how to"
+    },
+    {
+      "start": 985.16,
+      "end": 987.12,
+      "text": "Speaker 2: do it, and it was like, then just set this"
+    },
+    {
+      "start": 987.24,
+      "end": 989.24,
+      "text": "Speaker 2: up like a following away and I was like, that's"
+    },
+    {
+      "start": 989.28,
+      "end": 992.08,
+      "text": "Speaker 2: not within the laws of physics. Whatever."
+    },
+    {
+      "start": 993.48,
+      "end": 996.0,
+      "text": "Speaker 4: No good, Well, what's interesting And this is actually a"
+    },
+    {
+      "start": 996.12,
+      "end": 999.28,
+      "text": "Speaker 4: trillion dollar question from just a very broad standpoint is,"
+    },
+    {
+      "start": 999.32,
+      "end": 1002.72,
+      "text": "Speaker 4: as you point out, even prior to AI, the field"
+    },
+    {
+      "start": 1002.76,
+      "end": 1007.12,
+      "text": "Speaker 4: of coding had a very systematized approach to the feedback"
+    },
+    {
+      "start": 1007.16,
+      "end": 1009.68,
+      "text": "Speaker 4: loops already yes, and so then it's like a I"
+    },
+    {
+      "start": 1009.72,
+      "end": 1012.0,
+      "text": "Speaker 4: could sort of replicate that anyone who's done you vibe"
+    },
+    {
+      "start": 1012.0,
+      "end": 1015.32,
+      "text": "Speaker 4: coding can see in the chain of thoughts sometimes that"
+    },
+    {
+      "start": 1015.36,
+      "end": 1017.28,
+      "text": "Speaker 4: didn't work. Let me try this, that didn't work, let"
+    },
+    {
+      "start": 1017.32,
+      "end": 1021.2,
+      "text": "Speaker 4: me try this. Most fields don't really have that. By"
+    },
+    {
+      "start": 1021.24,
+      "end": 1024.119,
+      "text": "Speaker 4: and large, journalism doesn't have that. I mean, there are things,"
+    },
+    {
+      "start": 1024.2,
+      "end": 1026.6,
+      "text": "Speaker 4: there are outputs that are better and worse, we don't"
+    },
+    {
+      "start": 1026.64,
+      "end": 1030.56,
+      "text": "Speaker 4: really have that that sort of like formalized approach to"
+    },
+    {
+      "start": 1030.72,
+      "end": 1035.92,
+      "text": "Speaker 4: the yes no. Does that just zooming out? To my mind,"
+    },
+    {
+      "start": 1035.92,
+      "end": 1038.479,
+      "text": "Speaker 4: that would apply that maybe at least to some extent,"
+    },
+    {
+      "start": 1038.8,
+      "end": 1041.72,
+      "text": "Speaker 4: coding is a little bit special from a sort of"
+    },
+    {
+      "start": 1041.72,
+      "end": 1045.52,
+      "text": "Speaker 4: white collar knowledge work that in terms of like is"
+    },
+    {
+      "start": 1045.56,
+      "end": 1049.16,
+      "text": "Speaker 4: it going to be as good as say, I don't"
+    },
+    {
+      "start": 1049.16,
+      "end": 1052.56,
+      "text": "Speaker 4: know sales or something like that, because it has a"
+    },
+    {
+      "start": 1052.88,
+      "end": 1054.72,
+      "text": "Speaker 4: coding as a long history."
+    },
+    {
+      "start": 1054.68,
+      "end": 1057.4,
+      "text": "Speaker 2: It's formulated and structure that structured pipeline."
+    },
+    {
+      "start": 1057.44,
+      "end": 1059.56,
+      "text": "Speaker 5: Yeah, this is a great point. So where progress will"
+    },
+    {
+      "start": 1059.6,
+      "end": 1063.56,
+      "text": "Speaker 5: be made most predictably is in parts of knowledge work,"
+    },
+    {
+      "start": 1063.88,
+      "end": 1068.08,
+      "text": "Speaker 5: where the task is essentially a workflow that's fairly structured. Yeah,"
+    },
+    {
+      "start": 1068.119,
+      "end": 1070.04,
+      "text": "Speaker 5: and so somebody who spends most of their day in"
+    },
+    {
+      "start": 1070.119,
+      "end": 1073.56,
+      "text": "Speaker 5: putting cells into an Excel spreadsheet, well, that part of"
+    },
+    {
+      "start": 1073.6,
+      "end": 1076.36,
+      "text": "Speaker 5: the job will get automated pretty fast because that's actually verifiable,"
+    },
+    {
+      "start": 1076.4,
+      "end": 1078.439,
+      "text": "Speaker 5: and you know what, that's frankly often the most tedious"
+    },
+    {
+      "start": 1078.44,
+      "end": 1081.8,
+      "text": "Speaker 5: part of the job anyway. So I'm quite excited to"
+    },
+    {
+      "start": 1081.88,
+      "end": 1085.52,
+      "text": "Speaker 5: see that progress because I'm terrible a spreadsheets, and I"
+    },
+    {
+      "start": 1085.56,
+      "end": 1087.56,
+      "text": "Speaker 5: think if we could free up more of my time"
+    },
+    {
+      "start": 1087.56,
+      "end": 1089.8,
+      "text": "Speaker 5: and hopefully other people's time, to focus on the art"
+    },
+    {
+      "start": 1089.96,
+      "end": 1093.4,
+      "text": "Speaker 5: of the spreadsheet, not the deediest."
+    },
+    {
+      "start": 1093.0,
+      "end": 1095.96,
+      "text": "Speaker 4: Part of the entry, the entry and retrieval."
+    },
+    {
+      "start": 1096.04,
+      "end": 1099.6,
+      "text": "Speaker 5: Yeah, yeah, exactly, you know. And in journalism, I think"
+    },
+    {
+      "start": 1099.6,
+      "end": 1102.359,
+      "text": "Speaker 5: it's the same thing. There's so much craft that gets"
+    },
+    {
+      "start": 1102.44,
+      "end": 1105.159,
+      "text": "Speaker 5: that goes into the verification of a story before it"
+    },
+    {
+      "start": 1105.2,
+      "end": 1107.92,
+      "text": "Speaker 5: goes out that's not legible to the world. You know."
+    },
+    {
+      "start": 1107.92,
+      "end": 1110.08,
+      "text": "Speaker 5: I've had a chance to spend some time with some"
+    },
+    {
+      "start": 1110.119,
+      "end": 1113.52,
+      "text": "Speaker 5: of the journalistic institutions of the barrier like Cade, Metz"
+    },
+    {
+      "start": 1113.6,
+      "end": 1115.84,
+      "text": "Speaker 5: or b Als and at the Journal, and as you"
+    },
+    {
+      "start": 1115.84,
+      "end": 1118.44,
+      "text": "Speaker 5: spend time with them you realize, I mean they're verifying"
+    },
+    {
+      "start": 1118.72,
+      "end": 1122.28,
+      "text": "Speaker 5: every sentence that goes into each fact checking, right, so"
+    },
+    {
+      "start": 1122.4,
+      "end": 1125.2,
+      "text": "Speaker 5: fact check. That's an example where I think we should"
+    },
+    {
+      "start": 1125.24,
+      "end": 1127.479,
+      "text": "Speaker 5: be leaning on these tools and you should expect more"
+    },
+    {
+      "start": 1127.52,
+      "end": 1132.199,
+      "text": "Speaker 5: progress and the parts then that will be more to"
+    },
+    {
+      "start": 1132.24,
+      "end": 1135.96,
+      "text": "Speaker 5: borrow jagget frontier framing. There, that's we will be in"
+    },
+    {
+      "start": 1135.96,
+      "end": 1139.879,
+      "text": "Speaker 5: a regime of jagged frontier progress where wherever parts of"
+    },
+    {
+      "start": 1140.08,
+      "end": 1145.6,
+      "text": "Speaker 5: workflows that are verifiable factually will essentially you'll see progress"
+    },
+    {
+      "start": 1145.64,
+      "end": 1148.6,
+      "text": "Speaker 5: they're very predictably over the next few years. And consequently,"
+    },
+    {
+      "start": 1148.6,
+      "end": 1152.56,
+      "text": "Speaker 5: wherever that progress that the workflows are not verifiable is"
+    },
+    {
+      "start": 1152.56,
+      "end": 1154.48,
+      "text": "Speaker 5: actually where humans are going to shine. And I think"
+    },
+    {
+      "start": 1154.48,
+      "end": 1156.28,
+      "text": "Speaker 5: that's where parts of the economy are. You're going to"
+    },
+    {
+      "start": 1156.28,
+      "end": 1161.16,
+      "text": "Speaker 5: see extraordinary gains in the wages of humans who have"
+    },
+    {
+      "start": 1161.24,
+      "end": 1166.359,
+      "text": "Speaker 5: creativity and craft that are not typically verifiable you know,"
+    },
+    {
+      "start": 1166.52,
+      "end": 1168.76,
+      "text": "Speaker 5: through traditional objective means. Does that make sense?"
+    },
+    {
+      "start": 1168.96,
+      "end": 1171.679,
+      "text": "Speaker 2: Yeah, it does, and it dovetails with a lot of"
+    },
+    {
+      "start": 1171.68,
+      "end": 1173.8,
+      "text": "Speaker 2: what we've been talking about on the show recently. Just"
+    },
+    {
+      "start": 1173.84,
+      "end": 1177.359,
+      "text": "Speaker 2: going back to verifiable feedback. So, Okay, the model spits"
+    },
+    {
+      "start": 1177.4,
+      "end": 1179.879,
+      "text": "Speaker 2: out something and you can check whether it's right or wrong."
+    },
+    {
+      "start": 1180.76,
+      "end": 1183.76,
+      "text": "Speaker 2: Is it important to understand how the model actually got"
+    },
+    {
+      "start": 1183.96,
+      "end": 1187.92,
+      "text": "Speaker 2: to that answer, because we have discussions with like big"
+    },
+    {
+      "start": 1187.96,
+      "end": 1191.76,
+      "text": "Speaker 2: bank CEOs who are using more AI, and their response"
+    },
+    {
+      "start": 1191.76,
+      "end": 1193.84,
+      "text": "Speaker 2: to this question is always like, well, if we can"
+    },
+    {
+      "start": 1194.2,
+      "end": 1197.08,
+      "text": "Speaker 2: put restrictions around the AI, if we make sure that"
+    },
+    {
+      "start": 1197.119,
+      "end": 1199.88,
+      "text": "Speaker 2: it's like released into a sandbox before it's released into"
+    },
+    {
+      "start": 1200.119,
+      "end": 1203.84,
+      "text": "Speaker 2: wider world, we're all set from a regulatory perspective, and"
+    },
+    {
+      "start": 1204.0,
+      "end": 1207.28,
+      "text": "Speaker 2: regulators don't actually need to know what's in the black"
+    },
+    {
+      "start": 1207.32,
+      "end": 1209.72,
+      "text": "Speaker 2: box model and how it's working. But like this seems"
+    },
+    {
+      "start": 1209.76,
+      "end": 1210.96,
+      "text": "Speaker 2: a bit concerning to me."
+    },
+    {
+      "start": 1211.24,
+      "end": 1214.6,
+      "text": "Speaker 5: Yeah, No, I'm quite strongly opinionated about this one, which"
+    },
+    {
+      "start": 1214.68,
+      "end": 1217.52,
+      "text": "Speaker 5: is that technical literacy should be non negotiable. It's the"
+    },
+    {
+      "start": 1217.56,
+      "end": 1219.88,
+      "text": "Speaker 5: reason I spend so much time teaching this class at Stanford,"
+    },
+    {
+      "start": 1219.92,
+      "end": 1221.96,
+      "text": "Speaker 5: putting it up online, and the idea of the Frontier"
+    },
+    {
+      "start": 1221.96,
+      "end": 1225.2,
+      "text": "Speaker 5: system's classes that end to end. It's a full simple"
+    },
+    {
+      "start": 1225.32,
+      "end": 1229.04,
+      "text": "Speaker 5: but first principles of breakdown of how these systems are"
+    },
+    {
+      "start": 1229.08,
+      "end": 1232.4,
+      "text": "Speaker 5: built from scratch, from land PowerShell, like the energy, where"
+    },
+    {
+      "start": 1232.4,
+      "end": 1233.96,
+      "text": "Speaker 5: do we get them the data centers? Then how do"
+    },
+    {
+      "start": 1233.96,
+      "end": 1235.679,
+      "text": "Speaker 5: we train the models? And the final project of the"
+    },
+    {
+      "start": 1235.68,
+      "end": 1238.36,
+      "text": "Speaker 5: class with the kids was actually the one person Frontier Lab,"
+    },
+    {
+      "start": 1238.4,
+      "end": 1241.08,
+      "text": "Speaker 5: which is at the end they're creating their own models"
+    },
+    {
+      "start": 1241.08,
+      "end": 1243.639,
+      "text": "Speaker 5: and so on. Because the idea is that a person"
+    },
+    {
+      "start": 1243.68,
+      "end": 1245.919,
+      "text": "Speaker 5: with the right tools today can scale themselves infinitely, but"
+    },
+    {
+      "start": 1245.96,
+      "end": 1247.84,
+      "text": "Speaker 5: they need to know how to use the tools, what"
+    },
+    {
+      "start": 1247.88,
+      "end": 1249.919,
+      "text": "Speaker 5: the limitations are, when to lean on them versus not."
+    },
+    {
+      "start": 1250.359,
+      "end": 1252.84,
+      "text": "Speaker 5: And I think this is a generalizable piece of technical"
+    },
+    {
+      "start": 1252.84,
+      "end": 1256.239,
+      "text": "Speaker 5: literacy that all leaders should have. It's like saying, you know,"
+    },
+    {
+      "start": 1257.359,
+      "end": 1261.04,
+      "text": "Speaker 5: I in the nineties, I imagine if if you knew"
+    },
+    {
+      "start": 1261.24,
+      "end": 1263.76,
+      "text": "Speaker 5: you could use the Internet without really knowing how it worked,"
+    },
+    {
+      "start": 1264.0,
+      "end": 1266.439,
+      "text": "Speaker 5: but you know, on the margins when like the page"
+    },
+    {
+      "start": 1266.48,
+      "end": 1270.64,
+      "text": "Speaker 5: doesn't like refresh or you're like this this cookie thing"
+    },
+    {
+      "start": 1270.72,
+      "end": 1273.48,
+      "text": "Speaker 5: is annoying me. Like over time, people who are more"
+    },
+    {
+      "start": 1273.48,
+      "end": 1278.08,
+      "text": "Speaker 5: technically literate just realized sometimes you've got a debug, you know,"
+    },
+    {
+      "start": 1278.16,
+      "end": 1281.4,
+      "text": "Speaker 5: the browser, and those of us who've learned over time"
+    },
+    {
+      "start": 1281.4,
+      "end": 1285.159,
+      "text": "Speaker 5: to do knowledge work are more adapt at leaning on"
+    },
+    {
+      "start": 1285.16,
+      "end": 1286.96,
+      "text": "Speaker 5: them versus not. Like just now, when I was trying"
+    },
+    {
+      "start": 1287.0,
+      "end": 1288.76,
+      "text": "Speaker 5: to get onto the Internet, I realized, okay, there's this"
+    },
+    {
+      "start": 1289.08,
+      "end": 1291.84,
+      "text": "Speaker 5: you know, Wi Fi password, whatever, And then you don't"
+    },
+    {
+      "start": 1292.04,
+      "end": 1294.84,
+      "text": "Speaker 5: end up relying on them in ways that they can't"
+    },
+    {
+      "start": 1294.84,
+      "end": 1297.56,
+      "text": "Speaker 5: fulfill your need anyway. And what's a little bit more"
+    },
+    {
+      "start": 1297.64,
+      "end": 1301.6,
+      "text": "Speaker 5: dangerous with these systems is because we tend to anthropomorphize"
+    },
+    {
+      "start": 1301.64,
+      "end": 1305.56,
+      "text": "Speaker 5: them without the technical literacy that that I wish all"
+    },
+    {
+      "start": 1305.68,
+      "end": 1308.56,
+      "text": "Speaker 5: leaders had about reasoning about how these systems were built."
+    },
+    {
+      "start": 1309.72,
+      "end": 1312.36,
+      "text": "Speaker 5: What you end up doing is projecting out in your"
+    },
+    {
+      "start": 1312.44,
+      "end": 1315.48,
+      "text": "Speaker 5: mind what the capabilities are in ways that are inaccurate."
+    },
+    {
+      "start": 1315.72,
+      "end": 1318.52,
+      "text": "Speaker 5: You project out their impact and society that are not accurate."
+    },
+    {
+      "start": 1318.72,
+      "end": 1321.0,
+      "text": "Speaker 5: You project out their business in a way that are"
+    },
+    {
+      "start": 1321.04,
+      "end": 1322.439,
+      "text": "Speaker 5: not Actually, I mean in the very fact that when"
+    },
+    {
+      "start": 1322.48,
+      "end": 1324.4,
+      "text": "Speaker 5: you started this conversation, I don't blame you for it."
+    },
+    {
+      "start": 1324.56,
+      "end": 1328.919,
+      "text": "Speaker 5: You're like, there's three models at the frontier. Yeah, I'm like, well,"
+    },
+    {
+      "start": 1329.24,
+      "end": 1332.32,
+      "text": "Speaker 5: which frontier and which three models? Because from where I'm sitting,"
+    },
+    {
+      "start": 1332.359,
+      "end": 1335.32,
+      "text": "Speaker 5: there's like seventeen different frontiers right now. There's four different"
+    },
+    {
+      "start": 1335.32,
+      "end": 1337.679,
+      "text": "Speaker 5: players in each one, and the businesses of all of"
+    },
+    {
+      "start": 1337.68,
+      "end": 1342.16,
+      "text": "Speaker 5: them are kind of breathtaking. So I think that technical"
+    },
+    {
+      "start": 1342.2,
+      "end": 1346.04,
+      "text": "Speaker 5: literacy should always for leaders be a basic requirement. And"
+    },
+    {
+      "start": 1346.08,
+      "end": 1349.399,
+      "text": "Speaker 5: then if you're deploying your these systems at Goldman Sacks,"
+    },
+    {
+      "start": 1349.72,
+      "end": 1352.639,
+      "text": "Speaker 5: you won't oversimplify and get tripped up later when you know,"
+    },
+    {
+      "start": 1352.68,
+      "end": 1355.119,
+      "text": "Speaker 5: two years later, you realize half your employee base has"
+    },
+    {
+      "start": 1355.119,
+      "end": 1358.48,
+      "text": "Speaker 5: been leaning on this like sandbox framing, when in reality,"
+    },
+    {
+      "start": 1358.84,
+      "end": 1361.6,
+      "text": "Speaker 5: inside the sandbox they were doing all kinds of They"
+    },
+    {
+      "start": 1361.6,
+      "end": 1364.28,
+      "text": "Speaker 5: were using the tools in ways that were prone to hallucination,"
+    },
+    {
+      "start": 1364.44,
+      "end": 1366.959,
+      "text": "Speaker 5: prone to risks, prompt injection, they were leaning on it"
+    },
+    {
+      "start": 1367.0,
+      "end": 1370.44,
+      "text": "Speaker 5: in ways that were not informed in the appropriate ways."
+    },
+    {
+      "start": 1370.88,
+      "end": 1371.52,
+      "text": "Speaker 5: Is this making sense?"
+    },
+    {
+      "start": 1371.6,
+      "end": 1373.52,
+      "text": "Speaker 2: Yeah, Like at a minimum they would not be using"
+    },
+    {
+      "start": 1373.52,
+      "end": 1375.08,
+      "text": "Speaker 2: it in the optimal way."
+    },
+    {
+      "start": 1375.0,
+      "end": 1380.359,
+      "text": "Speaker 5: Right or relying too much on it. It's the can't"
+    },
+    {
+      "start": 1380.4,
+      "end": 1384.48,
+      "text": "Speaker 5: outsource your understanding to a model. Can you can outsource"
+    },
+    {
+      "start": 1384.52,
+      "end": 1388.159,
+      "text": "Speaker 5: your thinking? You can outsource part of the tedious workflows,"
+    },
+    {
+      "start": 1388.4,
+      "end": 1391.08,
+      "text": "Speaker 5: but you can't outsource your understanding. Yeah. And if you"
+    },
+    {
+      "start": 1391.16,
+      "end": 1393.8,
+      "text": "Speaker 5: keep thinking, if you say, if you create these simplistic"
+    },
+    {
+      "start": 1393.84,
+      "end": 1397.12,
+      "text": "Speaker 5: frameworks of oh, here's a sandbox and this is safe,"
+    },
+    {
+      "start": 1398.16,
+      "end": 1401.44,
+      "text": "Speaker 5: you have to you have to use that sandbox in"
+    },
+    {
+      "start": 1401.48,
+      "end": 1403.92,
+      "text": "Speaker 5: the right way. Because if you say, well, now, everything"
+    },
+    {
+      "start": 1403.96,
+      "end": 1405.48,
+      "text": "Speaker 5: that happens at the sandbox is totally fine. That the"
+    },
+    {
+      "start": 1405.52,
+      "end": 1407.76,
+      "text": "Speaker 5: model says, use the spreadsheet. The spreadsheet is good, it's"
+    },
+    {
+      "start": 1407.76,
+      "end": 1410.32,
+      "text": "Speaker 5: deployed in our servers, but you didn't actually check the"
+    },
+    {
+      "start": 1410.84,
+      "end": 1413.119,
+      "text": "Speaker 5: spreadsheet and what went into the spreadsheet. And then the"
+    },
+    {
+      "start": 1413.16,
+      "end": 1416.08,
+      "text": "Speaker 5: model actually understand the particular structure of the business, the"
+    },
+    {
+      "start": 1416.119,
+      "end": 1418.2,
+      "text": "Speaker 5: physics of the business that you're trying to model out."
+    },
+    {
+      "start": 1418.52,
+      "end": 1421.6,
+      "text": "Speaker 5: Then you've outsourced your understanding to it. Does that make sense?"
+    },
+    {
+      "start": 1421.84,
+      "end": 1427.48,
+      "text": "Speaker 4: Absolutely? Let's talk about AMP Yes. And because one, you know,"
+    },
+    {
+      "start": 1427.52,
+      "end": 1429.84,
+      "text": "Speaker 4: you're never going to get the frontier in anything unless"
+    },
+    {
+      "start": 1429.84,
+      "end": 1432.68,
+      "text": "Speaker 4: you have access to compute. It seems pretty obvious, and"
+    },
+    {
+      "start": 1433.0,
+      "end": 1436.64,
+      "text": "Speaker 4: there are various arrangements for acquiring compute. You have companies"
+    },
+    {
+      "start": 1436.64,
+      "end": 1440.159,
+      "text": "Speaker 4: building their own data centers, you have smaller labs, and"
+    },
+    {
+      "start": 1440.24,
+      "end": 1443.08,
+      "text": "Speaker 4: maybe they use someone else's data centers or a neo cloud, right,"
+    },
+    {
+      "start": 1443.119,
+      "end": 1446.56,
+      "text": "Speaker 4: et cetera. What are you building at AMP such that"
+    },
+    {
+      "start": 1446.68,
+      "end": 1449.359,
+      "text": "Speaker 4: at least as part of this story, is trying to"
+    },
+    {
+      "start": 1449.44,
+      "end": 1450.92,
+      "text": "Speaker 4: solve the compute bottleneck."
+    },
+    {
+      "start": 1450.96,
+      "end": 1454.52,
+      "text": "Speaker 5: Specifically, yeah, we are. It's very simple what we're what"
+    },
+    {
+      "start": 1454.56,
+      "end": 1457.0,
+      "text": "Speaker 5: we're doing at AMP. We're doing two things. We are"
+    },
+    {
+      "start": 1457.08,
+      "end": 1460.76,
+      "text": "Speaker 5: trying to standardize the format for compute, which today is"
+    },
+    {
+      "start": 1460.8,
+      "end": 1464.0,
+      "text": "Speaker 5: super fragmented. So in the history of infrastructure, if you"
+    },
+    {
+      "start": 1464.04,
+      "end": 1469.119,
+      "text": "Speaker 5: look at whether it was the Industrial Revolution, the Internet streaming,"
+    },
+    {
+      "start": 1469.6,
+      "end": 1473.68,
+      "text": "Speaker 5: there were usually formats of inputs that were quite heterogeneous."
+    },
+    {
+      "start": 1473.8,
+      "end": 1480.04,
+      "text": "Speaker 5: They were fragmented, and then to unlock productivity you had"
+    },
+    {
+      "start": 1480.08,
+      "end": 1483.24,
+      "text": "Speaker 5: to standardize a format. So in the case of electricity,"
+    },
+    {
+      "start": 1483.76,
+      "end": 1488.36,
+      "text": "Speaker 5: until it was until ACDC was standardized, right, megawatts would"
+    },
+    {
+      "start": 1488.359,
+      "end": 1492.12,
+      "text": "Speaker 5: just sit in stranded pockets around the United States being unused."
+    },
+    {
+      "start": 1492.88,
+      "end": 1497.0,
+      "text": "Speaker 5: And then once we standardized the format to ACDC, then"
+    },
+    {
+      "start": 1497.04,
+      "end": 1499.359,
+      "text": "Speaker 5: the question was okay, great, now we've turned all these"
+    },
+    {
+      "start": 1499.48,
+      "end": 1504.12,
+      "text": "Speaker 5: stranded dockets of electricity into one sort of interoperable universal format."
+    },
+    {
+      "start": 1504.8,
+      "end": 1506.679,
+      "text": "Speaker 5: Now how do we distribute it to everybody who needs it?"
+    },
+    {
+      "start": 1506.72,
+      "end": 1508.159,
+      "text": "Speaker 5: And we came up with this distribution layer in the"
+    },
+    {
+      "start": 1508.24,
+      "end": 1511.359,
+      "text": "Speaker 5: United States called the grid. That's that's all we're doing."
+    },
+    {
+      "start": 1511.48,
+      "end": 1513.16,
+      "text": "Speaker 3: So building a grid for compute."
+    },
+    {
+      "start": 1513.2,
+      "end": 1516.44,
+      "text": "Speaker 5: Correct, we're standardizing. We're trying to standardize the compute layer today,"
+    },
+    {
+      "start": 1516.84,
+      "end": 1520.52,
+      "text": "Speaker 5: different chip types, different manufacturers, different clouds. I mean, it's"
+    },
+    {
+      "start": 1520.52,
+      "end": 1523.32,
+      "text": "Speaker 5: a complete mess. And if you're go ahead."
+    },
+    {
+      "start": 1523.28,
+      "end": 1525.919,
+      "text": "Speaker 2: Say more about how we plan to do this, because"
+    },
+    {
+      "start": 1525.92,
+      "end": 1529.24,
+      "text": "Speaker 2: we've talked before about you know, there are various people"
+    },
+    {
+      "start": 1529.24,
+      "end": 1533.28,
+      "text": "Speaker 2: out there that want to create indices of compute futures"
+    },
+    {
+      "start": 1533.359,
+      "end": 1536.24,
+      "text": "Speaker 2: potentially on compute and the issue that always comes."
+    },
+    {
+      "start": 1536.08,
+      "end": 1539.04,
+      "text": "Speaker 5: Up is fungibility, right exactly. So we've got a couple"
+    },
+    {
+      "start": 1539.08,
+      "end": 1540.68,
+      "text": "Speaker 5: of ways we solve the fung ability problem. This is"
+    },
+    {
+      "start": 1540.72,
+      "end": 1545.24,
+      "text": "Speaker 5: a pretty thorny challenge. We solve it in two or"
+    },
+    {
+      "start": 1545.24,
+      "end": 1548.16,
+      "text": "Speaker 5: three ways. The first is we have a system called"
+    },
+    {
+      "start": 1548.2,
+      "end": 1552.24,
+      "text": "Speaker 5: the grid, which actually makes the compute fungible at a"
+    },
+    {
+      "start": 1552.28,
+      "end": 1554.6,
+      "text": "Speaker 5: consumption layer. So under the hood, we have a bunch"
+    },
+    {
+      "start": 1554.64,
+      "end": 1558.12,
+      "text": "Speaker 5: of different chip types, we support various different manufacturers, and"
+    },
+    {
+      "start": 1558.28,
+      "end": 1561.32,
+      "text": "Speaker 5: there's a system that was built to do this already"
+    },
+    {
+      "start": 1561.56,
+      "end": 1564.119,
+      "text": "Speaker 5: inside a little company called Google, and one of the"
+    },
+    {
+      "start": 1564.119,
+      "end": 1566.76,
+      "text": "Speaker 5: technical leads on that on that project was called BORG"
+    },
+    {
+      "start": 1566.92,
+      "end": 1569.48,
+      "text": "Speaker 5: internally at Google is my co founder, Sebastian Lobo. He"
+    },
+    {
+      "start": 1569.52,
+      "end": 1572.2,
+      "text": "Speaker 5: was my roommate at Stanford fourteen years ago. He's engineering"
+    },
+    {
+      "start": 1572.24,
+      "end": 1574.24,
+      "text": "Speaker 5: co founder, and we're building BORG for everybody else, which"
+    },
+    {
+      "start": 1574.28,
+      "end": 1577.119,
+      "text": "Speaker 5: is essentially a translation layer that says, no matter what"
+    },
+    {
+      "start": 1577.16,
+      "end": 1580.24,
+      "text": "Speaker 5: the underlying chip type is, the machine learning researcher who's"
+    },
+    {
+      "start": 1580.32,
+      "end": 1582.76,
+      "text": "Speaker 5: using the chip just has to worry about the workload"
+    },
+    {
+      "start": 1582.8,
+      "end": 1584.56,
+      "text": "Speaker 5: and we handle everything else underneath the hood."
+    },
+    {
+      "start": 1584.68,
+      "end": 1589.32,
+      "text": "Speaker 2: When you say system, is this hardware or software that's doing."
+    },
+    {
+      "start": 1589.119,
+      "end": 1591.439,
+      "text": "Speaker 5: That, it's all software. Okay, Yeah, So we handle that"
+    },
+    {
+      "start": 1591.44,
+      "end": 1595.52,
+      "text": "Speaker 5: translation layer in software, and it's a pretty gnarly challenge."
+    },
+    {
+      "start": 1595.56,
+      "end": 1599.119,
+      "text": "Speaker 5: But today we're able to do that in ways that"
+    },
+    {
+      "start": 1599.24,
+      "end": 1602.919,
+      "text": "Speaker 5: improved utilization sometimes from fifty sixty percent at labs that"
+    },
+    {
+      "start": 1602.96,
+      "end": 1605.28,
+      "text": "Speaker 5: we have incubated or on the grid to close to"
+    },
+    {
+      "start": 1605.359,
+      "end": 1607.84,
+      "text": "Speaker 5: ninety five ninety six percent. At Google, the utilization is"
+    },
+    {
+      "start": 1607.92,
+      "end": 1611.119,
+      "text": "Speaker 5: roughly ninety nine percent. When Sebastian arrived at Google, it"
+    },
+    {
+      "start": 1611.16,
+      "end": 1613.84,
+      "text": "Speaker 5: was about sixty two percent. By the time he left,"
+    },
+    {
+      "start": 1613.84,
+      "end": 1615.76,
+      "text": "Speaker 5: it was roughly at ninety nine percent at Google. If"
+    },
+    {
+      "start": 1615.96,
+      "end": 1619.52,
+      "text": "Speaker 5: utilization is at ninety six percent, that's considered a major outage. Today,"
+    },
+    {
+      "start": 1619.56,
+      "end": 1622.679,
+      "text": "Speaker 5: the average data center in the industry, in the ecosystem,"
+    },
+    {
+      "start": 1622.68,
+      "end": 1624.64,
+      "text": "Speaker 5: in the independent ecosystem is running at less than seventy"
+    },
+    {
+      "start": 1624.64,
+      "end": 1628.76,
+      "text": "Speaker 5: percent utilization. The Colossus two, which is running in Memphis,"
+    },
+    {
+      "start": 1628.8,
+      "end": 1632.0,
+      "text": "Speaker 5: Elon's five hundred thousand, five hundred thousand GB three hundreds"
+    },
+    {
+      "start": 1632.32,
+      "end": 1634.72,
+      "text": "Speaker 5: was running at less than sixty percent note utilization and"
+    },
+    {
+      "start": 1634.8,
+      "end": 1638.64,
+      "text": "Speaker 5: less than eleven percent MFU model flop utilization is how"
+    },
+    {
+      "start": 1638.72,
+      "end": 1640.84,
+      "text": "Speaker 5: much of the chip is actually being used. So there's"
+    },
+    {
+      "start": 1640.84,
+      "end": 1643.119,
+      "text": "Speaker 5: two kinds of utilization people care about in the data center."
+    },
+    {
+      "start": 1643.28,
+      "end": 1646.6,
+      "text": "Speaker 5: First is how many chips are being used. That's the highest."
+    },
+    {
+      "start": 1646.88,
+      "end": 1649.72,
+      "text": "Speaker 5: That's just the most naive measure. If that number is"
+    },
+    {
+      "start": 1649.72,
+      "end": 1653.08,
+      "text": "Speaker 5: not a ninety plus percent, no excuses. So you have"
+    },
+    {
+      "start": 1653.119,
+      "end": 1655.24,
+      "text": "Speaker 5: the chips, they should at least at least be doing something."
+    },
+    {
+      "start": 1655.68,
+      "end": 1658.48,
+      "text": "Speaker 5: And then within the chip during how much of the"
+    },
+    {
+      "start": 1658.56,
+      "end": 1661.92,
+      "text": "Speaker 5: chip is being used within a workload. That number is"
+    },
+    {
+      "start": 1661.96,
+      "end": 1662.68,
+      "text": "Speaker 5: usually much lower."
+    },
+    {
+      "start": 1662.72,
+      "end": 1666.6,
+      "text": "Speaker 4: I'm very intrigued by this latter point about that even"
+    },
+    {
+      "start": 1666.6,
+      "end": 1669.8,
+      "text": "Speaker 4: if even like the chip itself may not be even"
+    },
+    {
+      "start": 1670.119,
+      "end": 1675.16,
+      "text": "Speaker 4: used at full pacity. Because I see these numbers and"
+    },
+    {
+      "start": 1675.2,
+      "end": 1678.439,
+      "text": "Speaker 4: you say, like a lab has like a we have"
+    },
+    {
+      "start": 1678.48,
+      "end": 1681.6,
+      "text": "Speaker 4: two hundred chips, we've acquired eight hundred GPUs, et cetera."
+    },
+    {
+      "start": 1682.04,
+      "end": 1686.119,
+      "text": "Speaker 4: And when I see these headlines, I assumed that ali"
+    },
+    {
+      "start": 1686.56,
+      "end": 1690.52,
+      "text": "Speaker 4: optimal utilization techniques must be so good. That you can"
+    },
+    {
+      "start": 1690.56,
+      "end": 1694.52,
+      "text": "Speaker 4: infer someone's capabilities simply by how many and video GPUs"
+    },
+    {
+      "start": 1694.56,
+      "end": 1698.0,
+      "text": "Speaker 4: they've acquired. But you're saying is that there is actually"
+    },
+    {
+      "start": 1698.119,
+      "end": 1701.84,
+      "text": "Speaker 4: quite a bit of heterogeneity about the techniques and approaches"
+    },
+    {
+      "start": 1702.119,
+      "end": 1703.679,
+      "text": "Speaker 4: to getting the most juice out."
+    },
+    {
+      "start": 1703.56,
+      "end": 1705.6,
+      "text": "Speaker 5: Of ad chip. Yes, you have to measure what matters,"
+    },
+    {
+      "start": 1705.6,
+      "end": 1708.84,
+      "text": "Speaker 5: and what matters is output. Okay, you're when anytime I"
+    },
+    {
+      "start": 1708.84,
+      "end": 1710.92,
+      "text": "Speaker 5: start a new lab with the in the case of"
+    },
+    {
+      "start": 1710.96,
+      "end": 1715.0,
+      "text": "Speaker 5: periodic labs, it was we started with Liam Fettis was"
+    },
+    {
+      "start": 1715.0,
+      "end": 1717.32,
+      "text": "Speaker 5: the co creative chat Epte and Dostubbuk who led the"
+    },
+    {
+      "start": 1717.32,
+      "end": 1719.48,
+      "text": "Speaker 5: physics teams a deep mind. And when we sat down"
+    },
+    {
+      "start": 1719.48,
+      "end": 1722.96,
+      "text": "Speaker 5: and we planned out the company's roadmap, the most important"
+    },
+    {
+      "start": 1723.0,
+      "end": 1724.52,
+      "text": "Speaker 5: thing to us to measure it was not the number"
+    },
+    {
+      "start": 1724.52,
+      "end": 1725.2,
+      "text": "Speaker 5: of chips we had."
+    },
+    {
+      "start": 1725.44,
+      "end": 1728.08,
+      "text": "Speaker 4: Yeah, it's the the eval what we call all this"
+    },
+    {
+      "start": 1728.28,
+      "end": 1730.56,
+      "text": "Speaker 4: chip bragging. They're like, oh, we acquired it is just"
+    },
+    {
+      "start": 1730.6,
+      "end": 1734.16,
+      "text": "Speaker 4: a sort of bravado. Yeah, all right, this is helpful."
+    },
+    {
+      "start": 1734.44,
+      "end": 1736.84,
+      "text": "Speaker 5: You don't measure the inputs you should be No, I agree,"
+    },
+    {
+      "start": 1737.0,
+      "end": 1737.44,
+      "text": "Speaker 5: But I'm."
+    },
+    {
+      "start": 1737.36,
+      "end": 1740.76,
+      "text": "Speaker 2: Actually fascinated that, like there is a saw toware solution"
+    },
+    {
+      "start": 1741.0,
+      "end": 1743.12,
+      "text": "Speaker 2: to what I perceived in my head as like a"
+    },
+    {
+      "start": 1743.24,
+      "end": 1745.24,
+      "text": "Speaker 2: very physical constraint."
+    },
+    {
+      "start": 1745.84,
+      "end": 1747.12,
+      "text": "Speaker 3: How does this actually work?"
+    },
+    {
+      "start": 1747.36,
+      "end": 1749.2,
+      "text": "Speaker 2: Like feel free to get technical here."
+    },
+    {
+      "start": 1749.32,
+      "end": 1750.719,
+      "text": "Speaker 3: Like, I want to understand the system."
+    },
+    {
+      "start": 1750.8,
+      "end": 1752.68,
+      "text": "Speaker 5: Yes, so let me give you the technological answer and"
+    },
+    {
+      "start": 1752.68,
+      "end": 1755.32,
+      "text": "Speaker 5: the economic answer. The economic answer actually is a simple"
+    },
+    {
+      "start": 1755.36,
+      "end": 1760.52,
+      "text": "Speaker 5: one reason about the way the compute business works today"
+    },
+    {
+      "start": 1760.64,
+      "end": 1764.52,
+      "text": "Speaker 5: is primarily on the construct of the atomic unit of"
+    },
+    {
+      "start": 1764.56,
+      "end": 1768.68,
+      "text": "Speaker 5: long term leases. So I'm a researcher, I need some compute."
+    },
+    {
+      "start": 1768.88,
+      "end": 1772.16,
+      "text": "Speaker 5: I show up to a compute provider and say hello,"
+    },
+    {
+      "start": 1772.32,
+      "end": 1774.88,
+      "text": "Speaker 5: I would like some compute please, And the computer provider says,"
+    },
+    {
+      "start": 1774.88,
+      "end": 1778.36,
+      "text": "Speaker 5: no problem. Here's you know, five hundred AMD chips or"
+    },
+    {
+      "start": 1778.36,
+      "end": 1780.8,
+      "text": "Speaker 5: in video chips that you can lease from me on"
+    },
+    {
+      "start": 1780.88,
+      "end": 1783.36,
+      "text": "Speaker 5: various time scales, and you've got to pay for twenty"
+    },
+    {
+      "start": 1783.4,
+      "end": 1786.2,
+      "text": "Speaker 5: four seven. It's like leasing an apartment, and whether you"
+    },
+    {
+      "start": 1786.32,
+      "end": 1788.4,
+      "text": "Speaker 5: use it or not, that's your problem. But it's two"
+    },
+    {
+      "start": 1788.44,
+      "end": 1790.88,
+      "text": "Speaker 5: dollars fifty per hour, three dollars an hour. So instead"
+    },
+    {
+      "start": 1790.92,
+      "end": 1793.8,
+      "text": "Speaker 5: you take a long term lease. And now the cloud provider,"
+    },
+    {
+      "start": 1793.84,
+      "end": 1796.88,
+      "text": "Speaker 5: the comput provider said great, I just booked revenue for"
+    },
+    {
+      "start": 1797.08,
+      "end": 1799.8,
+      "text": "Speaker 5: the next two years that this guy rented. Yeah, Now"
+    },
+    {
+      "start": 1800.24,
+      "end": 1803.08,
+      "text": "Speaker 5: what happens with that compute, whether it's used or not,"
+    },
+    {
+      "start": 1803.36,
+      "end": 1807.08,
+      "text": "Speaker 5: is the researchers problem. They've outsourced that problem as a"
+    },
+    {
+      "start": 1807.12,
+      "end": 1809.96,
+      "text": "Speaker 5: result of this wastage that we're talking about. And I'm"
+    },
+    {
+      "start": 1809.96,
+      "end": 1812.96,
+      "text": "Speaker 5: happy to go into why it's hard for individual teams"
+    },
+    {
+      "start": 1812.96,
+      "end": 1816.24,
+      "text": "Speaker 5: to utilize most of the capacity. The primary reason it's"
+    },
+    {
+      "start": 1816.52,
+      "end": 1820.4,
+      "text": "Speaker 5: because research is spiky. It's hard to forecast, so you"
+    },
+    {
+      "start": 1820.48,
+      "end": 1823.64,
+      "text": "Speaker 5: put over provision for your peak, not your baseload. Because"
+    },
+    {
+      "start": 1823.68,
+      "end": 1826.52,
+      "text": "Speaker 5: what happens you're researching on these algorithms, and the minute"
+    },
+    {
+      "start": 1826.88,
+      "end": 1829.6,
+      "text": "Speaker 5: like one is working, you go, guys, let's scale. We"
+    },
+    {
+      "start": 1829.64,
+      "end": 1831.8,
+      "text": "Speaker 5: want to ship this thing, so let's improve, throw as"
+    },
+    {
+      "start": 1831.8,
+      "end": 1834.48,
+      "text": "Speaker 5: many chips at it, and then once we ship it,"
+    },
+    {
+      "start": 1835.0,
+      "end": 1837.84,
+      "text": "Speaker 5: the needs go down. So between these spikes there's just"
+    },
+    {
+      "start": 1837.92,
+      "end": 1842.52,
+      "text": "Speaker 5: huge pockets of unused compute. As a result, the effective"
+    },
+    {
+      "start": 1842.68,
+      "end": 1845.959,
+      "text": "Speaker 5: price per hour that you're paying is closer to twenty"
+    },
+    {
+      "start": 1846.0,
+      "end": 1848.76,
+      "text": "Speaker 5: five to twenty eight dollars, whereas the marketed rate that"
+    },
+    {
+      "start": 1848.84,
+      "end": 1851.8,
+      "text": "Speaker 5: you think you're paying is two dollars fifty. Yeah, so"
+    },
+    {
+      "start": 1851.96,
+      "end": 1857.44,
+      "text": "Speaker 5: that's spread due to waste. It is just insane. So"
+    },
+    {
+      "start": 1857.44,
+      "end": 1860.4,
+      "text": "Speaker 5: from an economic perspective, that's the wastage, that's the dead loss."
+    },
+    {
+      "start": 1860.48,
+      "end": 1863.2,
+      "text": "Speaker 5: Yeah right, okay, So now how do we from a"
+    },
+    {
+      "start": 1863.24,
+      "end": 1866.8,
+      "text": "Speaker 5: technological perspective, how do we utilize that opportunity? Literally all"
+    },
+    {
+      "start": 1866.8,
+      "end": 1869.92,
+      "text": "Speaker 5: we do is from a software perspective, we take all"
+    },
+    {
+      "start": 1869.96,
+      "end": 1873.04,
+      "text": "Speaker 5: of that unutilized compute, no matter what format it is."
+    },
+    {
+      "start": 1873.24,
+      "end": 1874.84,
+      "text": "Speaker 5: It might be in video, it might be MD we"
+    },
+    {
+      "start": 1874.88,
+      "end": 1877.2,
+      "text": "Speaker 5: love AMD, it might be some other chip, and we"
+    },
+    {
+      "start": 1877.24,
+      "end": 1881.8,
+      "text": "Speaker 5: turn it into one one fungible resource and that we"
+    },
+    {
+      "start": 1882.04,
+      "end": 1884.36,
+      "text": "Speaker 5: standard as a format on something we call grid credits,"
+    },
+    {
+      "start": 1884.56,
+      "end": 1887.92,
+      "text": "Speaker 5: So researchers don't even need to think about what chip"
+    },
+    {
+      "start": 1887.96,
+      "end": 1889.6,
+      "text": "Speaker 5: type is under the hood. You know, they're just paying"
+    },
+    {
+      "start": 1889.6,
+      "end": 1892.16,
+      "text": "Speaker 5: what they need or what they use. And so from"
+    },
+    {
+      "start": 1892.2,
+      "end": 1894.84,
+      "text": "Speaker 5: a fiducial perspective, I'm on seven boards as an investor,"
+    },
+    {
+      "start": 1894.84,
+      "end": 1897.64,
+      "text": "Speaker 5: I get very excited when when teams switch from this"
+    },
+    {
+      "start": 1897.72,
+      "end": 1899.6,
+      "text": "Speaker 5: sort of long term lease model where they're paying twenty"
+    },
+    {
+      "start": 1899.64,
+      "end": 1902.2,
+      "text": "Speaker 5: five twenty six dollars per GP hour now they're actually"
+    },
+    {
+      "start": 1902.2,
+      "end": 1904.52,
+      "text": "Speaker 5: only paying the two dollars fifty that was marketed because"
+    },
+    {
+      "start": 1904.52,
+      "end": 1907.24,
+      "text": "Speaker 5: everything they're not using gets reallocated to the grid and"
+    },
+    {
+      "start": 1907.32,
+      "end": 1909.56,
+      "text": "Speaker 5: other research labs can use that resource."
+    },
+    {
+      "start": 1925.44,
+      "end": 1929.04,
+      "text": "Speaker 4: This is the problem you're mostly solving for. Is the"
+    },
+    {
+      "start": 1929.16,
+      "end": 1932.28,
+      "text": "Speaker 4: training part because they're training right training? Or is it"
+    },
+    {
+      "start": 1932.36,
+      "end": 1932.92,
+      "text": "Speaker 4: both both?"
+    },
+    {
+      "start": 1933.04,
+      "end": 1936.4,
+      "text": "Speaker 5: Yeah, that's the So the beauty about having diverse types"
+    },
+    {
+      "start": 1936.44,
+      "end": 1939.8,
+      "text": "Speaker 5: of compute on our grid is that once you make"
+    },
+    {
+      "start": 1939.88,
+      "end": 1943.28,
+      "text": "Speaker 5: the resource fungible, you can do any workload. You just"
+    },
+    {
+      "start": 1943.32,
+      "end": 1946.479,
+      "text": "Speaker 5: fill all the unutilized pockets with inference and then all"
+    },
+    {
+      "start": 1946.52,
+      "end": 1948.04,
+      "text": "Speaker 5: the reservations with training."
+    },
+    {
+      "start": 1948.08,
+      "end": 1953.16,
+      "text": "Speaker 4: Yeah, so can you explain, like why is it that"
+    },
+    {
+      "start": 1953.4,
+      "end": 1958.16,
+      "text": "Speaker 4: every lab also seems interested right now in customized silicon,"
+    },
+    {
+      "start": 1958.32,
+      "end": 1961.56,
+      "text": "Speaker 4: including Microsoft announcing a chip that says like, oh, our"
+    },
+    {
+      "start": 1961.64,
+      "end": 1964.28,
+      "text": "Speaker 4: new ma I don't know Maya, I don't know how"
+    },
+    {
+      "start": 1964.32,
+      "end": 1964.96,
+      "text": "Speaker 4: it's pronounced."
+    },
+    {
+      "start": 1965.84,
+      "end": 1968.4,
+      "text": "Speaker 5: I believe we had class yesterday at Stanford and he"
+    },
+    {
+      "start": 1968.44,
+      "end": 1969.28,
+      "text": "Speaker 5: pronounced it as Mai."
+    },
+    {
+      "start": 1969.48,
+      "end": 1972.08,
+      "text": "Speaker 4: Okay, their new MAI model. And he's like, oh, we"
+    },
+    {
+      "start": 1972.12,
+      "end": 1974.44,
+      "text": "Speaker 4: also have a new Maya two hundred chip or something"
+    },
+    {
+      "start": 1974.48,
+      "end": 1978.08,
+      "text": "Speaker 4: that's optimized with it. Why is it that so many"
+    },
+    {
+      "start": 1978.64,
+      "end": 1983.64,
+      "text": "Speaker 4: labs or lab I guess, feel impelled to like also"
+    },
+    {
+      "start": 1983.76,
+      "end": 1986.84,
+      "text": "Speaker 4: design a chip that go along, goes along with the model,"
+    },
+    {
+      "start": 1986.92,
+      "end": 1990.12,
+      "text": "Speaker 4: and long term is what you're doing saying like this"
+    },
+    {
+      "start": 1990.28,
+      "end": 1992.76,
+      "text": "Speaker 4: really is not necessary to have that sort of model"
+    },
+    {
+      "start": 1992.8,
+      "end": 1993.48,
+      "text": "Speaker 4: chip alignment."
+    },
+    {
+      "start": 1993.6,
+      "end": 1997.96,
+      "text": "Speaker 5: Yeah, there's two technological reasons and two economic reasons."
+    },
+    {
+      "start": 1998.0,
+      "end": 1998.24,
+      "text": "Speaker 1: Okay."
+    },
+    {
+      "start": 1998.44,
+      "end": 2002.28,
+      "text": "Speaker 5: The first is from an economic perspective, about eighty cents"
+    },
+    {
+      "start": 2002.32,
+      "end": 2004.72,
+      "text": "Speaker 5: of every dollar a lab spends today on their R"
+    },
+    {
+      "start": 2004.76,
+      "end": 2008.64,
+      "text": "Speaker 5: and D flows to a chip provider like Nvidia. Okay, right,"
+    },
+    {
+      "start": 2008.68,
+      "end": 2010.84,
+      "text": "Speaker 5: And so as a result, your margins are just super"
+    },
+    {
+      "start": 2010.88,
+      "end": 2013.4,
+      "text": "Speaker 5: super rough. So from a unit economic perspective, you want"
+    },
+    {
+      "start": 2013.4,
+      "end": 2015.88,
+      "text": "Speaker 5: more control over your margins. And therefore, when you look"
+    },
+    {
+      "start": 2015.92,
+      "end": 2018.8,
+      "text": "Speaker 5: at your unit economics, you're going, wait, wait a minute,"
+    },
+    {
+      "start": 2018.84,
+      "end": 2021.68,
+      "text": "Speaker 5: For every dollar we make, there's this massive chunk that's"
+    },
+    {
+      "start": 2021.72,
+      "end": 2022.56,
+      "text": "Speaker 5: going to somebody else."
+    },
+    {
+      "start": 2022.96,
+      "end": 2026.56,
+      "text": "Speaker 4: So instead of spending eighty cents to Nvidia, you spend"
+    },
+    {
+      "start": 2026.56,
+      "end": 2029.12,
+      "text": "Speaker 4: seventy eight cents to t subs and keep that two"
+    },
+    {
+      "start": 2029.24,
+      "end": 2030.0,
+      "text": "Speaker 4: cents for yourself."
+    },
+    {
+      "start": 2030.84,
+      "end": 2034.08,
+      "text": "Speaker 5: Well, I think that the better our software gets, the"
+    },
+    {
+      "start": 2034.12,
+      "end": 2037.28,
+      "text": "Speaker 5: more that margins should flow actually to the researcher. Okay,"
+    },
+    {
+      "start": 2037.32,
+      "end": 2039.56,
+      "text": "Speaker 5: because that's where the value will be captured."
+    },
+    {
+      "start": 2039.6,
+      "end": 2041.48,
+      "text": "Speaker 4: But like, but wait, sorry, you were going to say,"
+    },
+    {
+      "start": 2041.84,
+      "end": 2045.8,
+      "text": "Speaker 4: what's the technical reason why they're trying to do optimal"
+    },
+    {
+      "start": 2045.88,
+      "end": 2046.96,
+      "text": "Speaker 4: model chip alignment."
+    },
+    {
+      "start": 2047.04,
+      "end": 2049.439,
+      "text": "Speaker 5: On the technical side, the primary reason is you want"
+    },
+    {
+      "start": 2049.44,
+      "end": 2052.48,
+      "text": "Speaker 5: control over your supply chain because today in a compute"
+    },
+    {
+      "start": 2052.84,
+      "end": 2055.279,
+      "text": "Speaker 5: well we've been in a compute capacity constrained world now"
+    },
+    {
+      "start": 2055.28,
+      "end": 2057.64,
+      "text": "Speaker 5: for at least four or five years. But if you"
+    },
+    {
+      "start": 2057.68,
+      "end": 2059.92,
+      "text": "Speaker 5: can't get the chips you need, you're not in control"
+    },
+    {
+      "start": 2059.96,
+      "end": 2062.04,
+      "text": "Speaker 5: of your own supply chain. So you're dependent on computer"
+    },
+    {
+      "start": 2062.08,
+      "end": 2066.08,
+      "text": "Speaker 5: allocations that the compute manufacturer thinks is optimal. Right. By"
+    },
+    {
+      "start": 2066.12,
+      "end": 2067.959,
+      "text": "Speaker 5: the way, that's how it works at the foundry level today,"
+    },
+    {
+      "start": 2068.0,
+      "end": 2073.04,
+      "text": "Speaker 5: TSMC gets to decide which compute provider. Compute provider's business"
+    },
+    {
+      "start": 2073.04,
+      "end": 2075.239,
+      "text": "Speaker 5: grows or not, yeah, because they only have so much"
+    },
+    {
+      "start": 2075.239,
+      "end": 2078.6,
+      "text": "Speaker 5: production capacity. And so the technological reason is you want"
+    },
+    {
+      "start": 2078.68,
+      "end": 2082.04,
+      "text": "Speaker 5: supply chain independence. And so when you want economic independence,"
+    },
+    {
+      "start": 2082.12,
+      "end": 2084.88,
+      "text": "Speaker 5: unit economic independence, and you want supply chain independence. You"
+    },
+    {
+      "start": 2084.88,
+      "end": 2086.719,
+      "text": "Speaker 5: want as much control over your own chip."
+    },
+    {
+      "start": 2086.84,
+      "end": 2088.24,
+      "text": "Speaker 4: But Microsoft doesn't have a FAB."
+    },
+    {
+      "start": 2088.48,
+      "end": 2090.48,
+      "text": "Speaker 5: That's not what I'm saying. What I'm saying is an"
+    },
+    {
+      "start": 2090.52,
+      "end": 2093.68,
+      "text": "Speaker 5: inference for example, Yeah, Satcha would like more control over"
+    },
+    {
+      "start": 2093.719,
+      "end": 2096.719,
+      "text": "Speaker 5: his unit economics, so he's making an inference chip, right,"
+    },
+    {
+      "start": 2096.76,
+      "end": 2098.759,
+      "text": "Speaker 5: Because if you're dependent on a third party to give"
+    },
+    {
+      "start": 2098.8,
+      "end": 2100.92,
+      "text": "Speaker 5: you the inference chip, okay, and you need and if"
+    },
+    {
+      "start": 2100.96,
+      "end": 2103.2,
+      "text": "Speaker 5: you don't have an inferenceship, you can't sell more more"
+    },
+    {
+      "start": 2103.239,
+      "end": 2104.96,
+      "text": "Speaker 5: product you want more?"
+    },
+    {
+      "start": 2105.6,
+      "end": 2108.08,
+      "text": "Speaker 4: Is it about having a predictable supply of jest for"
+    },
+    {
+      "start": 2108.239,
+      "end": 2111.6,
+      "text": "Speaker 4: you rather than a predictable supply of okay?"
+    },
+    {
+      "start": 2111.719,
+      "end": 2112.04,
+      "text": "Speaker 5: Yes."
+    },
+    {
+      "start": 2112.52,
+      "end": 2115.0,
+      "text": "Speaker 2: So there's a lot of discussion right now about more"
+    },
+    {
+      "start": 2115.04,
+      "end": 2118.12,
+      "text": "Speaker 2: efficient model allocation. So this idea that like, you do"
+    },
+    {
+      "start": 2118.2,
+      "end": 2121.0,
+      "text": "Speaker 2: not have to be using the latest model to ask"
+    },
+    {
+      "start": 2121.16,
+      "end": 2123.36,
+      "text": "Speaker 2: like what the weather is going to be tomorrow or"
+    },
+    {
+      "start": 2123.44,
+      "end": 2125.96,
+      "text": "Speaker 2: something like that. And you also don't want to blow"
+    },
+    {
+      "start": 2126.0,
+      "end": 2128.92,
+      "text": "Speaker 2: through your entire one year token budget in the space"
+    },
+    {
+      "start": 2128.96,
+      "end": 2132.56,
+      "text": "Speaker 2: of four months, as Uber apparently did. So the spikes"
+    },
+    {
+      "start": 2132.68,
+      "end": 2136.12,
+      "text": "Speaker 2: in usage that you're seeing that allow you to do"
+    },
+    {
+      "start": 2136.28,
+      "end": 2139.68,
+      "text": "Speaker 2: the system and you have grid credits, does some of"
+    },
+    {
+      "start": 2139.719,
+      "end": 2143.44,
+      "text": "Speaker 2: that go away if people become smarter about which models"
+    },
+    {
+      "start": 2143.48,
+      "end": 2144.36,
+      "text": "Speaker 2: they're actually using."
+    },
+    {
+      "start": 2144.52,
+      "end": 2147.2,
+      "text": "Speaker 5: Okay, so there's an embedded assumption. I think I should"
+    },
+    {
+      "start": 2147.16,
+      "end": 2150.0,
+      "text": "Speaker 5: tease a part in your question. Usage is different from"
+    },
+    {
+      "start": 2150.04,
+      "end": 2153.08,
+      "text": "Speaker 5: the production of the model. So what's happening right in"
+    },
+    {
+      "start": 2153.16,
+      "end": 2155.64,
+      "text": "Speaker 5: terms of the pipeline is you use the grid to"
+    },
+    {
+      "start": 2155.76,
+      "end": 2160.0,
+      "text": "Speaker 5: produce the system, the model, and then the model produces tokens."
+    },
+    {
+      "start": 2161.6,
+      "end": 2165.68,
+      "text": "Speaker 5: If the end user is only using tokens, then as"
+    },
+    {
+      "start": 2165.68,
+      "end": 2168.319,
+      "text": "Speaker 5: long as everybody we have enough diversity in the end"
+    },
+    {
+      "start": 2168.44,
+      "end": 2171.6,
+      "text": "Speaker 5: user base using models hosted on the grid, things actually"
+    },
+    {
+      "start": 2171.64,
+      "end": 2174.68,
+      "text": "Speaker 5: even out. Okay, that's cyclicality in the same way electricity"
+    },
+    {
+      "start": 2174.719,
+      "end": 2177.719,
+      "text": "Speaker 5: in America evens out if you have enough scale at"
+    },
+    {
+      "start": 2177.8,
+      "end": 2180.839,
+      "text": "Speaker 5: scale basically as part except when like."
+    },
+    {
+      "start": 2180.88,
+      "end": 2181.6,
+      "text": "Speaker 4: There's a heat wave."
+    },
+    {
+      "start": 2181.84,
+      "end": 2184.279,
+      "text": "Speaker 5: There's a heat wave exactly, so some of that infrastructure"
+    },
+    {
+      "start": 2184.84,
+      "end": 2186.8,
+      "text": "Speaker 5: we are having to reboot. But you can think about"
+    },
+    {
+      "start": 2186.8,
+      "end": 2190.6,
+      "text": "Speaker 5: AMP in the broadest sense as a utility company where"
+    },
+    {
+      "start": 2190.6,
+      "end": 2193.08,
+      "text": "Speaker 5: what's called an independent system operator of the grid. So"
+    },
+    {
+      "start": 2193.12,
+      "end": 2195.719,
+      "text": "Speaker 5: we don't own our own data centers, we don't own"
+    },
+    {
+      "start": 2195.76,
+      "end": 2198.48,
+      "text": "Speaker 5: our own labs, but we coordinate the capacity needs across"
+    },
+    {
+      "start": 2198.52,
+      "end": 2202.8,
+      "text": "Speaker 5: different parties and a sufficient scale that those usage patterns"
+    },
+    {
+      "start": 2202.84,
+      "end": 2205.56,
+      "text": "Speaker 5: actually just gets evened out. Does that make sense?"
+    },
+    {
+      "start": 2205.719,
+      "end": 2208.52,
+      "text": "Speaker 4: Yeah, Well you are an investor, Well, you are an"
+    },
+    {
+      "start": 2208.56,
+      "end": 2210.68,
+      "text": "Speaker 4: investor in an open Router I believe, which I think"
+    },
+    {
+      "start": 2210.719,
+      "end": 2214.08,
+      "text": "Speaker 4: is an interesting company. Do you see seting aside AMP"
+    },
+    {
+      "start": 2214.12,
+      "end": 2217.04,
+      "text": "Speaker 4: for a second. Do you think that there is a"
+    },
+    {
+      "start": 2217.04,
+      "end": 2220.68,
+      "text": "Speaker 4: at this point still within say corporate a Mariera, a"
+    },
+    {
+      "start": 2220.68,
+      "end": 2225.24,
+      "text": "Speaker 4: certain lack of savviness about knowing which model to route"
+    },
+    {
+      "start": 2225.28,
+      "end": 2227.719,
+      "text": "Speaker 4: to for the query, and that there will be an"
+    },
+    {
+      "start": 2227.8,
+      "end": 2233.16,
+      "text": "Speaker 4: improvement in learning within companies, within users so that you"
+    },
+    {
+      "start": 2233.2,
+      "end": 2236.64,
+      "text": "Speaker 4: don't have these incidents for like massive token consumption, because"
+    },
+    {
+      "start": 2236.68,
+      "end": 2239.88,
+      "text": "Speaker 4: perhaps everyone was using the wrong the Cadillac model and"
+    },
+    {
+      "start": 2239.96,
+      "end": 2241.719,
+      "text": "Speaker 4: the Ford model would have been just as fine for"
+    },
+    {
+      "start": 2241.76,
+      "end": 2242.28,
+      "text": "Speaker 4: that purpose."
+    },
+    {
+      "start": 2242.32,
+      "end": 2246.56,
+      "text": "Speaker 5: Oh yeah, we're absolutely in the medieval ages of this technology."
+    },
+    {
+      "start": 2247.28,
+      "end": 2250.04,
+      "text": "Speaker 5: I think what will happen is increasingly, based on my"
+    },
+    {
+      "start": 2250.08,
+      "end": 2255.24,
+      "text": "Speaker 5: conversations with corporate American leaders and corporate leaders across the world,"
+    },
+    {
+      "start": 2255.52,
+      "end": 2258.319,
+      "text": "Speaker 5: they don't really care about the models. They don't care"
+    },
+    {
+      "start": 2258.36,
+      "end": 2260.56,
+      "text": "Speaker 5: about the underlying model the technology. They just don't care."
+    },
+    {
+      "start": 2260.56,
+      "end": 2263.64,
+      "text": "Speaker 5: It's too much complexity. We just want the work done."
+    },
+    {
+      "start": 2263.84,
+      "end": 2265.44,
+      "text": "Speaker 5: Can you guys please figure out how to get the"
+    },
+    {
+      "start": 2265.44,
+      "end": 2268.04,
+      "text": "Speaker 5: work done in the cheapest way, in the most efficient way,"
+    },
+    {
+      "start": 2268.04,
+      "end": 2270.88,
+      "text": "Speaker 5: in the most secure and trusted way. And increasingly what"
+    },
+    {
+      "start": 2270.96,
+      "end": 2274.92,
+      "text": "Speaker 5: you'll find is that which particular model is helping you"
+    },
+    {
+      "start": 2274.96,
+      "end": 2277.6,
+      "text": "Speaker 5: out in a particular task will just be abstracted you"
+    },
+    {
+      "start": 2277.6,
+      "end": 2280.0,
+      "text": "Speaker 5: won't even think about that. It'll just be a companion"
+    },
+    {
+      "start": 2280.08,
+      "end": 2281.759,
+      "text": "Speaker 5: and you're just going to talk to It will be"
+    },
+    {
+      "start": 2281.76,
+      "end": 2285.0,
+      "text": "Speaker 5: a companion provided by a brand new trust, and under"
+    },
+    {
+      "start": 2285.04,
+      "end": 2287.2,
+      "text": "Speaker 5: the hood, it might be using the two hundred different"
+    },
+    {
+      "start": 2287.2,
+      "end": 2290.56,
+      "text": "Speaker 5: models to orchestrate your ask and over time that efficiency"
+    },
+    {
+      "start": 2290.6,
+      "end": 2293.08,
+      "text": "Speaker 5: will get better and better and better and better. And"
+    },
+    {
+      "start": 2293.16,
+      "end": 2295.28,
+      "text": "Speaker 5: that's why I just don't think there's only three frontier"
+    },
+    {
+      "start": 2295.28,
+      "end": 2297.08,
+      "text": "Speaker 5: models that are going to win. Well, it's going to"
+    },
+    {
+      "start": 2297.08,
+      "end": 2298.0,
+      "text": "Speaker 5: be an ecosystem."
+    },
+    {
+      "start": 2298.04,
+      "end": 2300.239,
+      "text": "Speaker 2: This is I know you don't want my take, Joe, but."
+    },
+    {
+      "start": 2302.36,
+      "end": 2305.96,
+      "text": "Speaker 4: Coffee, I love you take."
+    },
+    {
+      "start": 2306.239,
+      "end": 2308.88,
+      "text": "Speaker 2: I'll save it for the outro. Actually, on this note,"
+    },
+    {
+      "start": 2309.16,
+      "end": 2312.24,
+      "text": "Speaker 2: we have seen some headlines recently. Obviously there's the Uber"
+    },
+    {
+      "start": 2312.28,
+      "end": 2314.68,
+      "text": "Speaker 2: one about token spending and I think it was the"
+    },
+    {
+      "start": 2314.719,
+      "end": 2317.959,
+      "text": "Speaker 2: CEO said he wasn't sure if the ROI was there"
+    },
+    {
+      "start": 2318.4,
+      "end": 2321.96,
+      "text": "Speaker 2: on Uber's AI usage. And we've seen there was a"
+    },
+    {
+      "start": 2321.96,
+      "end": 2326.24,
+      "text": "Speaker 2: good Vox article recently about a corporate reckoning with AI spend."
+    },
+    {
+      "start": 2326.4,
+      "end": 2330.0,
+      "text": "Speaker 2: Since you're going out and talking to CEOs, do you"
+    },
+    {
+      "start": 2330.04,
+      "end": 2333.52,
+      "text": "Speaker 2: see any like Has anything shifted in the past couple"
+    },
+    {
+      "start": 2333.64,
+      "end": 2336.28,
+      "text": "Speaker 2: months or so in the way people are thinking about"
+    },
+    {
+      "start": 2336.32,
+      "end": 2338.96,
+      "text": "Speaker 2: the return on this initial investment or the return on"
+    },
+    {
+      "start": 2339.08,
+      "end": 2340.68,
+      "text": "Speaker 2: spending on tokens."
+    },
+    {
+      "start": 2341.48,
+      "end": 2345.04,
+      "text": "Speaker 5: Yes, I think it's a Barbelle distribution. So there's two"
+    },
+    {
+      "start": 2345.08,
+      "end": 2348.44,
+      "text": "Speaker 5: types of CEOs broadly speaking. The first is the CEOs"
+    },
+    {
+      "start": 2348.44,
+      "end": 2352.84,
+      "text": "Speaker 5: who are using the tools themselves, and those folks are going, aha,"
+    },
+    {
+      "start": 2353.76,
+      "end": 2357.64,
+      "text": "Speaker 5: I understand the jagged frontier. When they understand the jagged frontier,"
+    },
+    {
+      "start": 2357.68,
+      "end": 2361.52,
+      "text": "Speaker 5: we talked about their strategies, their questions they ask me"
+    },
+    {
+      "start": 2362.2,
+      "end": 2365.719,
+      "text": "Speaker 5: are completely different from the CEOs who are outsourcing their understanding."
+    },
+    {
+      "start": 2366.2,
+      "end": 2370.04,
+      "text": "Speaker 5: They're not trying the tools. They're mostly asking their kids like, hey, kiddo,"
+    },
+    {
+      "start": 2370.48,
+      "end": 2374.08,
+      "text": "Speaker 5: this chat GPT thing, Like it's good, right, and your"
+    },
+    {
+      "start": 2374.16,
+      "end": 2377.12,
+      "text": "Speaker 5: kid is like, yeah, it's pretty good, dad, And then."
+    },
+    {
+      "start": 2377.4,
+      "end": 2378.919,
+      "text": "Speaker 4: Kids think it's really dumb by the way."
+    },
+    {
+      "start": 2379.0,
+      "end": 2381.479,
+      "text": "Speaker 5: Yeah, So that's the other thing, right, So the kids"
+    },
+    {
+      "start": 2381.48,
+      "end": 2384.0,
+      "text": "Speaker 5: are super smart and they're using the tools. They're like,"
+    },
+    {
+      "start": 2384.08,
+      "end": 2386.2,
+      "text": "Speaker 5: it's good at this thing, but not at that. So"
+    },
+    {
+      "start": 2386.239,
+      "end": 2387.759,
+      "text": "Speaker 5: they understand the jagged frontier part."
+    },
+    {
+      "start": 2388.04,
+      "end": 2390.44,
+      "text": "Speaker 4: You know what, they think I'm dumb for using it."
+    },
+    {
+      "start": 2390.52,
+      "end": 2393.24,
+      "text": "Speaker 4: They're like, Dad, like you're not doing anything smart."
+    },
+    {
+      "start": 2393.239,
+      "end": 2393.48,
+      "text": "Speaker 5: You know."
+    },
+    {
+      "start": 2394.04,
+      "end": 2395.439,
+      "text": "Speaker 4: They don't think the models are dumb."
+    },
+    {
+      "start": 2395.44,
+      "end": 2398.0,
+      "text": "Speaker 5: They they might be exactly, they might be going the"
+    },
+    {
+      "start": 2398.04,
+      "end": 2400.72,
+      "text": "Speaker 5: way you're using it exactly not optimal."
+    },
+    {
+      "start": 2401.6,
+      "end": 2403.96,
+      "text": "Speaker 4: So so the you know what I'm saying is my"
+    },
+    {
+      "start": 2404.04,
+      "end": 2406.08,
+      "text": "Speaker 4: kids are sick and they have no intent and they"
+    },
+    {
+      "start": 2406.12,
+      "end": 2408.24,
+      "text": "Speaker 4: have no idea about anything, and they just think I'm dumb."
+    },
+    {
+      "start": 2408.44,
+      "end": 2411.68,
+      "text": "Speaker 4: That's the that just might be a generalizable that's really"
+    },
+    {
+      "start": 2411.719,
+      "end": 2413.12,
+      "text": "Speaker 4: the I see."
+    },
+    {
+      "start": 2413.2,
+      "end": 2415.16,
+      "text": "Speaker 5: Okay, well you can send them over to me anytime."
+    },
+    {
+      "start": 2415.2,
+      "end": 2416.32,
+      "text": "Speaker 5: I'm happy to be the fun uncle."
+    },
+    {
+      "start": 2416.48,
+      "end": 2418.52,
+      "text": "Speaker 4: Yeah, that would be great. You can show them that"
+    },
+    {
+      "start": 2418.6,
+      "end": 2419.68,
+      "text": "Speaker 4: actually this is fun to."
+    },
+    {
+      "start": 2420.12,
+      "end": 2422.839,
+      "text": "Speaker 5: My wife and I am happy to host hert That's"
+    },
+    {
+      "start": 2422.84,
+      "end": 2425.879,
+      "text": "Speaker 5: really what I'm trying to get it. It's it's the summer, right."
+    },
+    {
+      "start": 2425.88,
+      "end": 2427.48,
+      "text": "Speaker 5: We have two nieces in London and we call it"
+    },
+    {
+      "start": 2427.52,
+      "end": 2430.24,
+      "text": "Speaker 5: Camp Mida Shan. My last name is Mida, my wife's"
+    },
+    {
+      "start": 2430.28,
+      "end": 2432.96,
+      "text": "Speaker 5: name is Shan, and so you're you're welcome to send"
+    },
+    {
+      "start": 2432.96,
+      "end": 2434.12,
+      "text": "Speaker 5: them to camp anytime."
+    },
+    {
+      "start": 2434.64,
+      "end": 2436.36,
+      "text": "Speaker 3: That's amazing."
+    },
+    {
+      "start": 2436.48,
+      "end": 2439.0,
+      "text": "Speaker 5: But that's that's the bifurcation. As leaders who are actually"
+    },
+    {
+      "start": 2439.0,
+      "end": 2441.68,
+      "text": "Speaker 5: trying the tools out, they realize they're extraordinary at some"
+    },
+    {
+      "start": 2441.76,
+      "end": 2444.92,
+      "text": "Speaker 5: things and not at others. And so the depending on"
+    },
+    {
+      "start": 2444.96,
+      "end": 2447.88,
+      "text": "Speaker 5: whether you get it or not, or you're actually getting"
+    },
+    {
+      "start": 2447.88,
+      "end": 2450.239,
+      "text": "Speaker 5: your hands dirty or not, I find the questions are"
+    },
+    {
+      "start": 2450.239,
+      "end": 2450.88,
+      "text": "Speaker 5: completely different."
+    },
+    {
+      "start": 2450.96,
+      "end": 2454.319,
+      "text": "Speaker 4: So this has been incredibly helpful conversation in terms of"
+    },
+    {
+      "start": 2454.36,
+      "end": 2458.759,
+      "text": "Speaker 4: like understanding basically the problem of it's actually tons of"
+    },
+    {
+      "start": 2458.76,
+      "end": 2461.68,
+      "text": "Speaker 4: money is being spent, and your thesis is that it's"
+    },
+    {
+      "start": 2461.719,
+      "end": 2466.759,
+      "text": "Speaker 4: massively suboptimally used up and down the stack. You mentioned this, Okay,"
+    },
+    {
+      "start": 2466.84,
+      "end": 2470.0,
+      "text": "Speaker 4: you get a credit et cetera. Like, do you actually"
+    },
+    {
+      "start": 2470.0,
+      "end": 2473.68,
+      "text": "Speaker 4: see that being financialized in a way? I mean, okay,"
+    },
+    {
+      "start": 2473.68,
+      "end": 2475.799,
+      "text": "Speaker 4: I'm I bought this capacity. I have a lot of"
+    },
+    {
+      "start": 2475.84,
+      "end": 2478.6,
+      "text": "Speaker 4: un new time. I mean, don't always have a research"
+    },
+    {
+      "start": 2478.64,
+      "end": 2481.68,
+      "text": "Speaker 4: idea that it's going to require a big model, run"
+    },
+    {
+      "start": 2482.08,
+      "end": 2484.64,
+      "text": "Speaker 4: test I can resell that. Is that something that you"
+    },
+    {
+      "start": 2484.68,
+      "end": 2487.72,
+      "text": "Speaker 4: see like something that genuinely resembles a financial market?"
+    },
+    {
+      "start": 2488.04,
+      "end": 2491.919,
+      "text": "Speaker 5: I hope not, because when you had when you add"
+    },
+    {
+      "start": 2491.92,
+      "end": 2497.92,
+      "text": "Speaker 5: speculation to you know, production goods, it creates scarcity of"
+    },
+    {
+      "start": 2497.92,
+      "end": 2500.76,
+      "text": "Speaker 5: a different kind, right, because then you have financial traders"
+    },
+    {
+      "start": 2500.84,
+      "end": 2504.6,
+      "text": "Speaker 5: and markets trying to trade the speculative value of the asset,"
+    },
+    {
+      "start": 2505.08,
+      "end": 2507.0,
+      "text": "Speaker 5: and that's going to hurt a lot of our research"
+    },
+    {
+      "start": 2507.0,
+      "end": 2509.92,
+      "text": "Speaker 5: teams in technology. On the other hand, I think that"
+    },
+    {
+      "start": 2510.0,
+      "end": 2513.4,
+      "text": "Speaker 5: creates a need for innovation inside of the research teams."
+    },
+    {
+      "start": 2513.48,
+      "end": 2516.08,
+      "text": "Speaker 5: And so one of the one of the cooperating functions"
+    },
+    {
+      "start": 2516.08,
+      "end": 2519.96,
+      "text": "Speaker 5: we have inside of our business is a forecasting capability"
+    },
+    {
+      "start": 2520.08,
+      "end": 2522.32,
+      "text": "Speaker 5: where we have a team that's very similar to actually"
+    },
+    {
+      "start": 2522.48,
+      "end": 2524.68,
+      "text": "Speaker 5: the kind of forecasting team you'd have inside of a"
+    },
+    {
+      "start": 2524.68,
+      "end": 2527.64,
+      "text": "Speaker 5: hedge fund. We're constantly predicting demand and supply, and then"
+    },
+    {
+      "start": 2527.68,
+      "end": 2530.799,
+      "text": "Speaker 5: we're actually procuring capacity in advance through call options. On"
+    },
+    {
+      "start": 2530.84,
+      "end": 2533.919,
+      "text": "Speaker 5: compute clusters. But our needs are similar to the kind"
+    },
+    {
+      "start": 2533.96,
+      "end": 2537.52,
+      "text": "Speaker 5: of internal trading desk you'd have inside of a large"
+    },
+    {
+      "start": 2537.88,
+      "end": 2540.48,
+      "text": "Speaker 5: steel company right where they need to lock up iron"
+    },
+    {
+      "start": 2540.52,
+      "end": 2543.8,
+      "text": "Speaker 5: ore and so on for their production needs. So I'm"
+    },
+    {
+      "start": 2543.84,
+      "end": 2547.0,
+      "text": "Speaker 5: a big fan of efficient markets, and I'm trying to"
+    },
+    {
+      "start": 2547.0,
+      "end": 2549.839,
+      "text": "Speaker 5: actively invest in and help entrepreneurs out and teams out"
+    },
+    {
+      "start": 2549.8,
+      "end": 2551.88,
+      "text": "Speaker 5: who are trying to drive more efficiency in the service"
+    },
+    {
+      "start": 2551.92,
+      "end": 2555.279,
+      "text": "Speaker 5: of more productivity in science and engineering. I'm not that"
+    },
+    {
+      "start": 2556.0,
+      "end": 2560.12,
+      "text": "Speaker 5: thrilled about the financialization of these products if it ultimately"
+    },
+    {
+      "start": 2560.2,
+      "end": 2562.52,
+      "text": "Speaker 5: results in more speculation. Does that make sense?"
+    },
+    {
+      "start": 2562.8,
+      "end": 2566.16,
+      "text": "Speaker 2: Yeah, I'm just curious since you're tracking demand in that way,"
+    },
+    {
+      "start": 2566.28,
+      "end": 2568.88,
+      "text": "Speaker 2: Like if you were going to describe the slope of"
+    },
+    {
+      "start": 2568.96,
+      "end": 2571.279,
+      "text": "Speaker 2: demand right now versus say."
+    },
+    {
+      "start": 2571.08,
+      "end": 2572.88,
+      "text": "Speaker 3: Like a year ago, is it steeper?"
+    },
+    {
+      "start": 2573.04,
+      "end": 2576.04,
+      "text": "Speaker 2: Is it starting to plateau perpendicular?"
+    },
+    {
+      "start": 2576.52,
+      "end": 2576.88,
+      "text": "Speaker 5: Wow?"
+    },
+    {
+      "start": 2576.96,
+      "end": 2577.28,
+      "text": "Speaker 2: Okay."
+    },
+    {
+      "start": 2577.56,
+      "end": 2580.399,
+      "text": "Speaker 5: If you look at the compute prices of long term"
+    },
+    {
+      "start": 2580.44,
+      "end": 2584.84,
+      "text": "Speaker 5: rentals over the last six months from between January and now,"
+    },
+    {
+      "start": 2585.28,
+      "end": 2587.96,
+      "text": "Speaker 5: they're trading up du x. So we start, for example,"
+    },
+    {
+      "start": 2587.96,
+      "end": 2592.08,
+      "text": "Speaker 5: for twenty twenty six, we started securing our capacity in"
+    },
+    {
+      "start": 2592.16,
+      "end": 2595.2,
+      "text": "Speaker 5: January at these long term rates, we could resell that"
+    },
+    {
+      "start": 2595.6,
+      "end": 2598.08,
+      "text": "Speaker 5: at a duo X markup if we wanted to."
+    },
+    {
+      "start": 2598.6,
+      "end": 2601.24,
+      "text": "Speaker 4: Part of the reason that twenty twenty six has become"
+    },
+    {
+      "start": 2601.68,
+      "end": 2605.48,
+      "text": "Speaker 4: just totally AI has consumed everyone's mind. I think is"
+    },
+    {
+      "start": 2605.52,
+      "end": 2609.92,
+      "text": "Speaker 4: because people got very excited about Claude code specifically. But"
+    },
+    {
+      "start": 2609.96,
+      "end": 2613.0,
+      "text": "Speaker 4: that was a breakthrough at the harness level, not the"
+    },
+    {
+      "start": 2613.08,
+      "end": 2616.84,
+      "text": "Speaker 4: model level, right suddenly, like the really exciting like wow,"
+    },
+    {
+      "start": 2616.88,
+      "end": 2619.08,
+      "text": "Speaker 4: this is just so fun, it's just so easy of"
+    },
+    {
+      "start": 2619.12,
+      "end": 2622.719,
+      "text": "Speaker 4: a computer inside your computer. That was a harness breakthrough."
+    },
+    {
+      "start": 2623.52,
+      "end": 2627.4,
+      "text": "Speaker 4: Do you see, like when you think about investment among"
+    },
+    {
+      "start": 2627.52,
+      "end": 2632.0,
+      "text": "Speaker 4: AI labs, do you see any shift in allocation away"
+    },
+    {
+      "start": 2632.2,
+      "end": 2636.88,
+      "text": "Speaker 4: from pure scaling and improving the model towards sort of"
+    },
+    {
+      "start": 2636.92,
+      "end": 2639.68,
+      "text": "Speaker 4: like tooling and harnesses as a way to get more"
+    },
+    {
+      "start": 2639.8,
+      "end": 2641.12,
+      "text": "Speaker 4: gu out of the models."
+    },
+    {
+      "start": 2641.28,
+      "end": 2643.2,
+      "text": "Speaker 5: No, I'm sorry, I have to correct you there. It"
+    },
+    {
+      "start": 2643.28,
+      "end": 2646.2,
+      "text": "Speaker 5: was not just a harness innovation. Those two things go"
+    },
+    {
+      "start": 2646.28,
+      "end": 2649.96,
+      "text": "Speaker 5: hand in hand. It's a symphony of improvement between It's"
+    },
+    {
+      "start": 2649.96,
+      "end": 2652.64,
+      "text": "Speaker 5: a dialectic between the model capability and the harness. That"
+    },
+    {
+      "start": 2652.64,
+      "end": 2656.239,
+      "text": "Speaker 5: harness was designed specifically for the capabilities that the new"
+    },
+    {
+      "start": 2656.239,
+      "end": 2658.56,
+      "text": "Speaker 5: model was going to have, and so when you design"
+    },
+    {
+      "start": 2658.68,
+      "end": 2662.32,
+      "text": "Speaker 5: these things in the industry, we call this code design. Okay,"
+    },
+    {
+      "start": 2662.44,
+      "end": 2666.04,
+      "text": "Speaker 5: so you have the harness designed side by side with"
+    },
+    {
+      "start": 2666.2,
+      "end": 2669.2,
+      "text": "Speaker 5: the researcher who's designed the next generation capabilities in the model,"
+    },
+    {
+      "start": 2669.48,
+      "end": 2671.12,
+      "text": "Speaker 5: and you get a little bit of visibility and where"
+    },
+    {
+      "start": 2671.16,
+      "end": 2672.8,
+      "text": "Speaker 5: the model is going to be good because as I"
+    },
+    {
+      "start": 2672.84,
+      "end": 2675.92,
+      "text": "Speaker 5: described earlier, the pipeline is actually quite predictable pre training,"
+    },
+    {
+      "start": 2676.04,
+      "end": 2679.76,
+      "text": "Speaker 5: mid training, continuous feedback loop. Once you have that visibility,"
+    },
+    {
+      "start": 2679.76,
+      "end": 2684.2,
+      "text": "Speaker 5: you go, aha, we specifically want to improve the capabilities"
+    },
+    {
+      "start": 2684.2,
+      "end": 2686.6,
+      "text": "Speaker 5: on this type of task. It's going to take us"
+    },
+    {
+      "start": 2686.6,
+      "end": 2689.56,
+      "text": "Speaker 5: about three months to get there, start designing the harness"
+    },
+    {
+      "start": 2689.719,
+      "end": 2692.759,
+      "text": "Speaker 5: for that improvement. By the time they show up, then"
+    },
+    {
+      "start": 2692.8,
+      "end": 2696.16,
+      "text": "Speaker 5: you can have the harness assume that the model will"
+    },
+    {
+      "start": 2696.16,
+      "end": 2698.0,
+      "text": "Speaker 5: be able to do X, y Z on its own,"
+    },
+    {
+      "start": 2698.32,
+      "end": 2700.84,
+      "text": "Speaker 5: whereas ABC is going to need the third party tools."
+    },
+    {
+      "start": 2701.04,
+      "end": 2703.799,
+      "text": "Speaker 5: So then the harness says, remember that three months ago,"
+    },
+    {
+      "start": 2704.12,
+      "end": 2707.719,
+      "text": "Speaker 5: you were terrible at understanding a spreadsheet. Yeah, so then"
+    },
+    {
+      "start": 2707.76,
+      "end": 2710.239,
+      "text": "Speaker 5: we had to go right, like, go use a third"
+    },
+    {
+      "start": 2710.239,
+      "end": 2714.28,
+      "text": "Speaker 5: party tool to use a spreadsheet. In the last three months,"
+    },
+    {
+      "start": 2714.32,
+      "end": 2717.16,
+      "text": "Speaker 5: what we've done is added the ability to actually reason"
+    },
+    {
+      "start": 2717.16,
+      "end": 2719.08,
+      "text": "Speaker 5: about a spreadsheet in the model and the model not."
+    },
+    {
+      "start": 2719.2,
+      "end": 2721.439,
+      "text": "Speaker 5: So now you don't need to use a third party spreadsheet, okay."
+    },
+    {
+      "start": 2721.44,
+      "end": 2724.12,
+      "text": "Speaker 5: And so then the harness gets updated to say, don't"
+    },
+    {
+      "start": 2724.2,
+      "end": 2726.2,
+      "text": "Speaker 5: go out and use a third party spreadsheet, which, by"
+    },
+    {
+      "start": 2726.2,
+      "end": 2728.319,
+      "text": "Speaker 5: the way, collapses the time required to do that task"
+    },
+    {
+      "start": 2728.4,
+      "end": 2731.24,
+      "text": "Speaker 5: by like sometimes a minute to two minutes. Now suddenly"
+    },
+    {
+      "start": 2731.28,
+      "end": 2734.359,
+      "text": "Speaker 5: I've improved the user experience, and that's when things really sing."
+    },
+    {
+      "start": 2734.8,
+      "end": 2737.04,
+      "text": "Speaker 5: It's when both of those those parts, the model and"
+    },
+    {
+      "start": 2737.08,
+      "end": 2740.44,
+      "text": "Speaker 5: the harness are co designed to create a symphony. Does"
+    },
+    {
+      "start": 2740.48,
+      "end": 2741.16,
+      "text": "Speaker 5: that make sense? Yeah?"
+    },
+    {
+      "start": 2741.16,
+      "end": 2746.12,
+      "text": "Speaker 2: Absolutely, all right, Anjinay Mitta of AMP PBC, thank you"
+    },
+    {
+      "start": 2746.16,
+      "end": 2748.319,
+      "text": "Speaker 2: so much for coming on od lots really appreciate it."
+    },
+    {
+      "start": 2748.32,
+      "end": 2749.08,
+      "text": "Speaker 5: Thanks for having me."
+    },
+    {
+      "start": 2749.0,
+      "end": 2751.52,
+      "text": "Speaker 2: And everyone go out and check out the Stanford Lecture series."
+    },
+    {
+      "start": 2751.56,
+      "end": 2752.6,
+      "text": "Speaker 2: It's on YouTube right."
+    },
+    {
+      "start": 2752.48,
+      "end": 2755.48,
+      "text": "Speaker 5: It is CS one fifty three dot Stanford dot edu. Perfect."
+    },
+    {
+      "start": 2755.6,
+      "end": 2757.56,
+      "text": "Speaker 4: I'll I have a big flight coming up, so I'll"
+    },
+    {
+      "start": 2757.6,
+      "end": 2757.88,
+      "text": "Speaker 4: watch it."
+    },
+    {
+      "start": 2757.92,
+      "end": 2759.879,
+      "text": "Speaker 5: Then you should download all the lectures. It's quite a few."
+    },
+    {
+      "start": 2760.12,
+      "end": 2762.2,
+      "text": "Speaker 4: Thank you so much. ONNJ. That was fantastic."
+    },
+    {
+      "start": 2762.239,
+      "end": 2777.68,
+      "text": "Speaker 3: That was great, all right, Joe, that was a great discussion."
+    },
+    {
+      "start": 2777.88,
+      "end": 2780.719,
+      "text": "Speaker 2: Yeah, I should emphasize just how big a deal that"
+    },
+    {
+      "start": 2780.8,
+      "end": 2784.12,
+      "text": "Speaker 2: lecture series actually is at Stanford, Like students are beating"
+    },
+    {
+      "start": 2784.12,
+      "end": 2786.719,
+      "text": "Speaker 2: down the door basically to get into that. And if"
+    },
+    {
+      "start": 2786.76,
+      "end": 2789.0,
+      "text": "Speaker 2: it's free on YouTube, you should definitely check it out."
+    },
+    {
+      "start": 2789.4,
+      "end": 2792.319,
+      "text": "Speaker 4: I just want to establish that if I had given"
+    },
+    {
+      "start": 2792.36,
+      "end": 2794.68,
+      "text": "Speaker 4: you the Avian simulation that I didn't want to hear"
+    },
+    {
+      "start": 2794.719,
+      "end": 2797.16,
+      "text": "Speaker 4: your take, or be the idea that I would have"
+    },
+    {
+      "start": 2797.2,
+      "end": 2800.24,
+      "text": "Speaker 4: wanted to hear Anna's take instead of yours, I want."
+    },
+    {
+      "start": 2800.04,
+      "end": 2802.8,
+      "text": "Speaker 2: To hear your take no, it's fine, Joe. I realized"
+    },
+    {
+      "start": 2802.84,
+      "end": 2805.319,
+      "text": "Speaker 2: that most listeners are here for the guest takes. I"
+    },
+    {
+      "start": 2805.36,
+      "end": 2808.2,
+      "text": "Speaker 2: get it, but I thought his point about the jagged"
+    },
+    {
+      "start": 2808.2,
+      "end": 2811.279,
+      "text": "Speaker 2: front frontier was an important one. And this idea that"
+    },
+    {
+      "start": 2811.36,
+      "end": 2814.04,
+      "text": "Speaker 2: like maybe the future it's not going to be a"
+    },
+    {
+      "start": 2814.08,
+      "end": 2816.84,
+      "text": "Speaker 2: winner takes all things. In terms of models, you're going"
+    },
+    {
+      "start": 2816.88,
+      "end": 2819.48,
+      "text": "Speaker 2: to have a bunch of different models doing different things"
+    },
+    {
+      "start": 2819.56,
+      "end": 2822.68,
+      "text": "Speaker 2: that might suit different companies. And also the idea that"
+    },
+    {
+      "start": 2822.719,
+      "end": 2825.2,
+      "text": "Speaker 2: like a lot of companies aren't going to care about"
+    },
+    {
+      "start": 2825.239,
+      "end": 2828.32,
+      "text": "Speaker 2: which specific model they're using, they just want the cheapest"
+    },
+    {
+      "start": 2828.32,
+      "end": 2832.68,
+      "text": "Speaker 2: one that basically gets the job done. In my mind,"
+    },
+    {
+      "start": 2833.04,
+      "end": 2837.759,
+      "text": "Speaker 2: that sounds like more of a is commodified the yeah,"
+    },
+    {
+      "start": 2837.8,
+      "end": 2841.56,
+      "text": "Speaker 2: a commodified market, right, rather than like, oh, people are"
+    },
+    {
+      "start": 2841.64,
+      "end": 2844.759,
+      "text": "Speaker 2: going to pay up for as you said, the Cadillac."
+    },
+    {
+      "start": 2844.88,
+      "end": 2848.96,
+      "text": "Speaker 4: Well, so what I would say is, by in listening"
+    },
+    {
+      "start": 2849.2,
+      "end": 2852.399,
+      "text": "Speaker 4: to Angina and amp is that people will want a"
+    },
+    {
+      "start": 2852.52,
+      "end": 2856.68,
+      "text": "Speaker 4: commodified service, but that under the hood, I mean, this"
+    },
+    {
+      "start": 2856.84,
+      "end": 2859.0,
+      "text": "Speaker 4: just sounds like what she's really trying to solve. And"
+    },
+    {
+      "start": 2859.04,
+      "end": 2862.6,
+      "text": "Speaker 4: it's very interesting I as a user or a company"
+    },
+    {
+      "start": 2862.64,
+      "end": 2867.44,
+      "text": "Speaker 4: by a commodified service. But under the hood, the commodity"
+    },
+    {
+      "start": 2867.64,
+      "end": 2870.879,
+      "text": "Speaker 4: has an incredible amount of variety of models through which"
+    },
+    {
+      "start": 2870.92,
+      "end": 2873.44,
+      "text": "Speaker 4: it can rouse sure some of which will be the Cadillac,"
+    },
+    {
+      "start": 2873.8,
+      "end": 2875.4,
+      "text": "Speaker 4: some of it will some of it will be the"
+    },
+    {
+      "start": 2875.48,
+      "end": 2876.399,
+      "text": "Speaker 4: current coffee cup."
+    },
+    {
+      "start": 2876.719,
+      "end": 2880.72,
+      "text": "Speaker 2: Yeah, absolutely, But like my point is maybe in terms"
+    },
+    {
+      "start": 2880.719,
+      "end": 2884.64,
+      "text": "Speaker 2: of valuations, sure, right, Like if everyone is assuming that"
+    },
+    {
+      "start": 2884.719,
+      "end": 2887.68,
+      "text": "Speaker 2: the Cadillac is going to be like the one that"
+    },
+    {
+      "start": 2887.84,
+      "end": 2890.48,
+      "text": "Speaker 2: everyone is going to get, and the total available market"
+    },
+    {
+      "start": 2890.52,
+      "end": 2893.88,
+      "text": "Speaker 2: the TAM infamously is like not just the world, but"
+    },
+    {
+      "start": 2893.92,
+      "end": 2897.16,
+      "text": "Speaker 2: potentially the universe. Like that seems a stretch to."
+    },
+    {
+      "start": 2897.12,
+      "end": 2900.28,
+      "text": "Speaker 4: Me totally, and just generally I thought it was super"
+    },
+    {
+      "start": 2900.32,
+      "end": 2902.68,
+      "text": "Speaker 4: interesting and the idea this is we've done a couple"
+    },
+    {
+      "start": 2902.76,
+      "end": 2907.359,
+      "text": "Speaker 4: episodes recently, specifically learning more about both chip level and"
+    },
+    {
+      "start": 2907.56,
+      "end": 2911.56,
+      "text": "Speaker 4: box level optimizations, both how many chips you're using and"
+    },
+    {
+      "start": 2911.64,
+      "end": 2914.719,
+      "text": "Speaker 4: how well you're using ad chip Definitely when more to."
+    },
+    {
+      "start": 2914.68,
+      "end": 2915.16,
+      "text": "Speaker 5: Do on that."
+    },
+    {
+      "start": 2915.36,
+      "end": 2917.32,
+      "text": "Speaker 2: It still blows my mind that this is a problem"
+    },
+    {
+      "start": 2917.32,
+      "end": 2921.8,
+      "text": "Speaker 2: that can be solved with software rather than like something physical."
+    },
+    {
+      "start": 2922.44,
+      "end": 2925.48,
+      "text": "Speaker 2: You just come up with a way to efficiently allocate"
+    },
+    {
+      "start": 2925.68,
+      "end": 2928.64,
+      "text": "Speaker 2: the compute. Yeah, because in my mind, like it's it's"
+    },
+    {
+      "start": 2928.68,
+      "end": 2931.08,
+      "text": "Speaker 2: such a physical problem. And we've talked to you know,"
+    },
+    {
+      "start": 2931.44,
+      "end": 2935.759,
+      "text": "Speaker 2: previous DEI market participants like Brandon McBee at Core. We've"
+    },
+    {
+      "start": 2936.04,
+      "end": 2938.319,
+      "text": "Speaker 2: and they talk about like, oh, it's difficult to standardize"
+    },
+    {
+      "start": 2938.36,
+      "end": 2941.2,
+      "text": "Speaker 2: because of the configurations of chip and things like that."
+    },
+    {
+      "start": 2941.32,
+      "end": 2943.759,
+      "text": "Speaker 2: But if you could solve it just through a software system."
+    },
+    {
+      "start": 2944.2,
+      "end": 2946.919,
+      "text": "Speaker 3: That's pretty crazy. I guess Google's already done it. Yeah,"
+    },
+    {
+      "start": 2947.0,
+      "end": 2947.96,
+      "text": "Speaker 3: all right, shall we leave it there?"
+    },
+    {
+      "start": 2948.04,
+      "end": 2948.759,
+      "text": "Speaker 4: Let's save it there."
+    },
+    {
+      "start": 2949.16,
+      "end": 2951.88,
+      "text": "Speaker 2: This has been another episode of the Odd Lots podcast."
+    },
+    {
+      "start": 2951.96,
+      "end": 2955.04,
+      "text": "Speaker 2: I'm Tracy Alloway. You can follow me at Tracy Alloway."
+    },
+    {
+      "start": 2954.92,
+      "end": 2958.04,
+      "text": "Speaker 4: And I'm Jill Wisenthal. You can follow me at the Stalwart."
+    },
+    {
+      "start": 2958.239,
+      "end": 2961.08,
+      "text": "Speaker 4: Follow our guest A Mida at a Jena Midda, Follow"
+    },
+    {
+      "start": 2961.08,
+      "end": 2964.32,
+      "text": "Speaker 4: our producers Carmen Rodriguez at Carmen armat Dash, Ol Bennett"
+    },
+    {
+      "start": 2964.36,
+      "end": 2968.319,
+      "text": "Speaker 4: at Dashbod, Calebrooks at Calebrooks, and Kevin Lozano at Kevin"
+    },
+    {
+      "start": 2968.4,
+      "end": 2969.12,
+      "text": "Speaker 4: Lloyd Lozano."
+    },
+    {
+      "start": 2969.44,
+      "end": 2971.44,
+      "text": "Speaker 2: And for more Odd Lots content, you should check out"
+    },
+    {
+      "start": 2971.48,
+      "end": 2973.879,
+      "text": "Speaker 2: our daily newsletter. You can find that at Bloomberg dot"
+    },
+    {
+      "start": 2973.92,
+      "end": 2975.64,
+      "text": "Speaker 2: com forward slash odd Lots."
+    },
+    {
+      "start": 2975.4,
+      "end": 2977.36,
+      "text": "Speaker 4: And you can shout about all of these topics twenty"
+    },
+    {
+      "start": 2977.36,
+      "end": 2980.88,
+      "text": "Speaker 4: four to seven in our discord Discord dot gg slash"
+    },
+    {
+      "start": 2980.88,
+      "end": 2981.359,
+      "text": "Speaker 4: od loots."
+    },
+    {
+      "start": 2981.6,
+      "end": 2984.4,
+      "text": "Speaker 2: And if you enjoyed this conversation, then please leave a"
+    },
+    {
+      "start": 2984.44,
+      "end": 2987.16,
+      "text": "Speaker 2: comment or like the video, or better yet, subscribe."
+    },
+    {
+      "start": 2987.2,
+      "end": 3004.88,
+      "text": "Speaker 4: Thanks for listening in"
+    }
+  ]
+}

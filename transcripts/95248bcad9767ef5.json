@@ -1,0 +1,1641 @@
+{
+  "id": "95248bcad9767ef5",
+  "show": "Dwarkesh Podcast",
+  "theme": "Tech & AI",
+  "title": "The data black hole at the center of AI",
+  "audio_url": "https://api.substack.com/feed/podcast/202734201/6bfb394237f089ea0355b8632dfa3537.mp3",
+  "source": "local-whisper",
+  "duration": 717.5,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "So, one definition of intelligence is sample efficiency."
+    },
+    {
+      "start": 3.12,
+      "end": 4.68,
+      "text": "That is to say, how much data do you need"
+    },
+    {
+      "start": 4.68,
+      "end": 7.48,
+      "text": "to give in domain to operate fluently and comfortably?"
+    },
+    {
+      "start": 7.48,
+      "end": 11.28,
+      "text": "And it's actually not clear that we've made that much progress in"
+    },
+    {
+      "start": 11.28,
+      "end": 13.48,
+      "text": "training sample efficiency over the last few years."
+    },
+    {
+      "start": 13.48,
+      "end": 15.68,
+      "text": "It seems like more so we've just dramatically"
+    },
+    {
+      "start": 15.68,
+      "end": 17.92,
+      "text": "widened and improved the data distribution."
+    },
+    {
+      "start": 17.92,
+      "end": 20.48,
+      "text": "The main way that AI has been getting better is"
+    },
+    {
+      "start": 20.48,
+      "end": 22.8,
+      "text": "remading more and better data and scaling"
+    },
+    {
+      "start": 22.8,
+      "end": 26.0,
+      "text": "the compute required to develop that data in the first place."
+    },
+    {
+      "start": 26.0,
+      "end": 28.400000000000002,
+      "text": "Obviously, RL is the main way that this has happened."
+    },
+    {
+      "start": 28.400000000000002,
+      "end": 31.12,
+      "text": "You can think of RL as basically a kind of synthetic data"
+    },
+    {
+      "start": 31.12,
+      "end": 34.56,
+      "text": "generation, where you dump a ton of compute against a verifier"
+    },
+    {
+      "start": 34.56,
+      "end": 37.24,
+      "text": "or a rubric if you have a nellolem as a judge."
+    },
+    {
+      "start": 37.24,
+      "end": 39.6,
+      "text": "And you do this in order to find out what the good data is"
+    },
+    {
+      "start": 39.6,
+      "end": 40.72,
+      "text": "in the first place."
+    },
+    {
+      "start": 40.72,
+      "end": 43.0,
+      "text": "And then you train your model to predict these correct"
+    },
+    {
+      "start": 43.0,
+      "end": 44.6,
+      "text": "rollouts, much in the same way that you"
+    },
+    {
+      "start": 44.6,
+      "end": 48.08,
+      "text": "might train that model to predict the next word in internet text."
+    },
+    {
+      "start": 48.08,
+      "end": 50.24,
+      "text": "For this process to work, the model must have at least"
+    },
+    {
+      "start": 50.24,
+      "end": 52.96000000000001,
+      "text": "some prior probability to anticipate the correct solution"
+    },
+    {
+      "start": 52.96000000000001,
+      "end": 54.760000000000005,
+      "text": "in the first place, which is why you need"
+    },
+    {
+      "start": 54.760000000000005,
+      "end": 57.24,
+      "text": "mind stretching amounts of human expert trajectories"
+    },
+    {
+      "start": 57.24,
+      "end": 59.28,
+      "text": "in every single field and skill that you"
+    },
+    {
+      "start": 59.28,
+      "end": 61.84,
+      "text": "want the model to eventually be competent in."
+    },
+    {
+      "start": 61.84,
+      "end": 64.0,
+      "text": "It's hard to overstate how task-specific"
+    },
+    {
+      "start": 64.0,
+      "end": 65.96000000000001,
+      "text": "and bespoke this human expert data is."
+    },
+    {
+      "start": 65.96000000000001,
+      "end": 67.28,
+      "text": "If you want some intuition, I recommend"
+    },
+    {
+      "start": 67.28,
+      "end": 70.04,
+      "text": "checking out the drop descriptions on Mercore or Surge's"
+    },
+    {
+      "start": 70.04,
+      "end": 71.16,
+      "text": "websites."
+    },
+    {
+      "start": 71.16,
+      "end": 73.28,
+      "text": "There are listings for word specialist"
+    },
+    {
+      "start": 73.28,
+      "end": 76.32000000000001,
+      "text": "who will convert legacy documents into polished word files."
+    },
+    {
+      "start": 76.32000000000001,
+      "end": 78.36,
+      "text": "And legal experts will write realistic eminent"
+    },
+    {
+      "start": 78.36,
+      "end": 81.6,
+      "text": "diligence or securities filings and management consultants"
+    },
+    {
+      "start": 81.6,
+      "end": 83.68,
+      "text": "who will write up template market research."
+    },
+    {
+      "start": 83.68,
+      "end": 86.4,
+      "text": "And there's not only that the data have to be so domain-specific,"
+    },
+    {
+      "start": 86.4,
+      "end": 88.36,
+      "text": "but there has to be so much of it."
+    },
+    {
+      "start": 88.36,
+      "end": 91.48,
+      "text": "Each skill corresponds to at least hundreds of human experts"
+    },
+    {
+      "start": 91.48,
+      "end": 94.60000000000001,
+      "text": "who are generating example completions, writing rubrics,"
+    },
+    {
+      "start": 94.60000000000001,
+      "end": 96.24000000000001,
+      "text": "and explaining their chain of thought."
+    },
+    {
+      "start": 96.24000000000001,
+      "end": 98.08000000000001,
+      "text": "There's a reason that the data industry that"
+    },
+    {
+      "start": 98.08000000000001,
+      "end": 100.96000000000001,
+      "text": "is producing these expert labels and the oral environments"
+    },
+    {
+      "start": 100.96000000000001,
+      "end": 104.08000000000001,
+      "text": "in which these meticulously catalog skills can congeal"
+    },
+    {
+      "start": 104.08000000000001,
+      "end": 105.92,
+      "text": "is earning billions a year in revenue,"
+    },
+    {
+      "start": 105.92,
+      "end": 107.84,
+      "text": "soon to be decked billions."
+    },
+    {
+      "start": 107.84,
+      "end": 109.48,
+      "text": "Now imagine if it took a couple decades"
+    },
+    {
+      "start": 109.48,
+      "end": 111.88000000000001,
+      "text": "worth of courses with hundreds of concurrent professors"
+    },
+    {
+      "start": 111.88000000000001,
+      "end": 114.0,
+      "text": "and millions of practice tasks for you"
+    },
+    {
+      "start": 114.0,
+      "end": 115.68,
+      "text": "to learn how to polish a word file."
+    },
+    {
+      "start": 115.76,
+      "end": 117.16000000000001,
+      "text": "Even the task count difference here"
+    },
+    {
+      "start": 117.16000000000001,
+      "end": 118.44000000000001,
+      "text": "understands that because the models"
+    },
+    {
+      "start": 118.44000000000001,
+      "end": 120.68,
+      "text": "have to grind their far more numerous tasks,"
+    },
+    {
+      "start": 120.68,
+      "end": 122.68,
+      "text": "each far harder, whereas a human student"
+    },
+    {
+      "start": 122.68,
+      "end": 124.84,
+      "text": "might practice a textbook problem once or twice."
+    },
+    {
+      "start": 124.84,
+      "end": 127.44000000000001,
+      "text": "With GRPO, these models are generating hundreds"
+    },
+    {
+      "start": 127.44000000000001,
+      "end": 129.44,
+      "text": "to thousands of rollouts per task,"
+    },
+    {
+      "start": 129.44,
+      "end": 131.92000000000002,
+      "text": "and they need to to solve the credit assignment problem."
+    },
+    {
+      "start": 131.92000000000002,
+      "end": 133.20000000000002,
+      "text": "The correct way to think about these models"
+    },
+    {
+      "start": 133.20000000000002,
+      "end": 135.76000000000002,
+      "text": "is not like a human who has learned all these different skills"
+    },
+    {
+      "start": 135.76000000000002,
+      "end": 137.56,
+      "text": "that you see these models displaying."
+    },
+    {
+      "start": 137.56,
+      "end": 139.72,
+      "text": "It's more like a Frankenstein's monster,"
+    },
+    {
+      "start": 139.72,
+      "end": 141.76000000000002,
+      "text": "which has been built out of a billion graphs"
+    },
+    {
+      "start": 141.76000000000002,
+      "end": 144.68,
+      "text": "of carefully constructed examples all sewn together."
+    },
+    {
+      "start": 144.68,
+      "end": 147.0,
+      "text": "Epoch recently reported that open models lag"
+    },
+    {
+      "start": 147.0,
+      "end": 149.88,
+      "text": "state-of-the-art frontier models by four months."
+    },
+    {
+      "start": 149.88,
+      "end": 152.04000000000002,
+      "text": "I think the reason it is relatively easy"
+    },
+    {
+      "start": 152.04000000000002,
+      "end": 154.32,
+      "text": "for open source and previous laggards"
+    },
+    {
+      "start": 154.32,
+      "end": 156.44,
+      "text": "to catch up to within months of the frontier"
+    },
+    {
+      "start": 156.44,
+      "end": 159.08,
+      "text": "is that data is the real driver of progress."
+    },
+    {
+      "start": 159.08,
+      "end": 162.16,
+      "text": "And data can be easily distilled from public APIs,"
+    },
+    {
+      "start": 162.16,
+      "end": 164.48000000000002,
+      "text": "whereas hyperparameters and training tricks"
+    },
+    {
+      "start": 164.48000000000002,
+      "end": 166.96,
+      "text": "and architectural optimizations cannot."
+    },
+    {
+      "start": 166.96,
+      "end": 169.28,
+      "text": "And if the latter were driving most of the progress,"
+    },
+    {
+      "start": 169.28,
+      "end": 170.96,
+      "text": "then catching up would be far harder"
+    },
+    {
+      "start": 170.96,
+      "end": 172.56,
+      "text": "than we are observing it to be."
+    },
+    {
+      "start": 172.56,
+      "end": 176.24,
+      "text": "It is easy to forget how much data these models are trained on,"
+    },
+    {
+      "start": 176.24,
+      "end": 179.92000000000002,
+      "text": "and how much more it is than what we human see in our lifetimes."
+    },
+    {
+      "start": 179.92000000000002,
+      "end": 182.2,
+      "text": "We see these AIs as the galaxy glittering"
+    },
+    {
+      "start": 182.2,
+      "end": 183.4,
+      "text": "with capabilities."
+    },
+    {
+      "start": 183.4,
+      "end": 186.36,
+      "text": "But at their center, invisible to the naked eye,"
+    },
+    {
+      "start": 186.36,
+      "end": 188.36,
+      "text": "holding all the constellations together"
+    },
+    {
+      "start": 188.36,
+      "end": 191.4,
+      "text": "is an unimaginably massive black hole of data."
+    },
+    {
+      "start": 191.4,
+      "end": 192.92000000000002,
+      "text": "Just a couple of points of comparison"
+    },
+    {
+      "start": 192.92000000000002,
+      "end": 196.04,
+      "text": "to help drive home how big this difference is."
+    },
+    {
+      "start": 196.04,
+      "end": 197.04,
+      "text": "Here's one."
+    },
+    {
+      "start": 197.04,
+      "end": 199.28,
+      "text": "If a person sees and hears on average,"
+    },
+    {
+      "start": 199.28,
+      "end": 202.04,
+      "text": "let's say generously, 2,000 worth an hour,"
+    },
+    {
+      "start": 202.04,
+      "end": 204.79999999999998,
+      "text": "then between the time they're bored and the time they're an adult,"
+    },
+    {
+      "start": 204.79999999999998,
+      "end": 207.23999999999998,
+      "text": "they'll see about 200 million tokens."
+    },
+    {
+      "start": 207.23999999999998,
+      "end": 208.76,
+      "text": "Now by contrast, these frontier models"
+    },
+    {
+      "start": 208.76,
+      "end": 211.07999999999998,
+      "text": "are trained on somewhere between tens to hundreds"
+    },
+    {
+      "start": 211.07999999999998,
+      "end": 213.07999999999998,
+      "text": "of trillions of tokens."
+    },
+    {
+      "start": 213.07999999999998,
+      "end": 215.12,
+      "text": "That is close to a million-fold difference."
+    },
+    {
+      "start": 215.12,
+      "end": 216.68,
+      "text": "Here's another point in comparison."
+    },
+    {
+      "start": 216.68,
+      "end": 217.95999999999998,
+      "text": "If you wanted to, you could learn to tell"
+    },
+    {
+      "start": 217.95999999999998,
+      "end": 221.51999999999998,
+      "text": "or operate any random humanoid or robot arm within hours."
+    },
+    {
+      "start": 221.51999999999998,
+      "end": 224.16,
+      "text": "And if you could get AI to learn just as fast,"
+    },
+    {
+      "start": 224.16,
+      "end": 226.76,
+      "text": "robotics would be a deck of trillion dollar industry,"
+    },
+    {
+      "start": 226.76,
+      "end": 229.28,
+      "text": "and you'd have an endless army of unitary G1s"
+    },
+    {
+      "start": 229.28,
+      "end": 231.39999999999998,
+      "text": "doing all kinds of useful work in the world."
+    },
+    {
+      "start": 231.4,
+      "end": 232.88,
+      "text": "But the reason we can't do this is that"
+    },
+    {
+      "start": 232.88,
+      "end": 236.04,
+      "text": "our AI's learn much less efficiently than we do."
+    },
+    {
+      "start": 236.04,
+      "end": 238.44,
+      "text": "And even with the millions of hours of demonstrations"
+    },
+    {
+      "start": 238.44,
+      "end": 241.44,
+      "text": "that we collected, this is not enough to allow them"
+    },
+    {
+      "start": 241.44,
+      "end": 243.6,
+      "text": "to perform complex open-ended tasks."
+    },
+    {
+      "start": 243.6,
+      "end": 244.96,
+      "text": "And a final point of comparison,"
+    },
+    {
+      "start": 244.96,
+      "end": 246.48000000000002,
+      "text": "a teenager can learn to drive a car"
+    },
+    {
+      "start": 246.48000000000002,
+      "end": 248.04000000000002,
+      "text": "with about 20 hours of practice."
+    },
+    {
+      "start": 248.04000000000002,
+      "end": 250.68,
+      "text": "And even if it includes their 16 years of growing up"
+    },
+    {
+      "start": 250.68,
+      "end": 252.12,
+      "text": "and understanding how the world works"
+    },
+    {
+      "start": 252.12,
+      "end": 253.76,
+      "text": "and building physical intuition,"
+    },
+    {
+      "start": 253.76,
+      "end": 255.8,
+      "text": "then it's still three to four orders of magnitude less data"
+    },
+    {
+      "start": 255.8,
+      "end": 257.64,
+      "text": "than Waymo and Tesla are using"
+    },
+    {
+      "start": 257.64,
+      "end": 259.72,
+      "text": "to train their self-driving car models."
+    },
+    {
+      "start": 259.72,
+      "end": 260.8,
+      "text": "Now I want to deal with a couple"
+    },
+    {
+      "start": 260.88,
+      "end": 262.28000000000003,
+      "text": "of common responses and objections"
+    },
+    {
+      "start": 262.28000000000003,
+      "end": 264.48,
+      "text": "that people have to these kinds of comparisons."
+    },
+    {
+      "start": 264.48,
+      "end": 265.48,
+      "text": "One thing people will say,"
+    },
+    {
+      "start": 265.48,
+      "end": 266.76,
+      "text": "and I think our party said this when it came on"
+    },
+    {
+      "start": 266.76,
+      "end": 270.16,
+      "text": "to my podcast, is that for humans,"
+    },
+    {
+      "start": 270.16,
+      "end": 272.24,
+      "text": "many billions of years of evolution"
+    },
+    {
+      "start": 272.24,
+      "end": 274.6,
+      "text": "had to go into basically pre-training us."
+    },
+    {
+      "start": 274.6,
+      "end": 276.44,
+      "text": "And so we're being unfair when we're comparing"
+    },
+    {
+      "start": 276.44,
+      "end": 278.76,
+      "text": "how little data we see within our lifetimes"
+    },
+    {
+      "start": 278.76,
+      "end": 281.08000000000004,
+      "text": "to what these coal-started LLNs"
+    },
+    {
+      "start": 281.08000000000004,
+      "end": 283.40000000000003,
+      "text": "were just starting off with a totally random initialization"
+    },
+    {
+      "start": 283.40000000000003,
+      "end": 284.76,
+      "text": "have to learn from."
+    },
+    {
+      "start": 284.76,
+      "end": 286.72,
+      "text": "I think this is not the right way to think about it."
+    },
+    {
+      "start": 286.72,
+      "end": 288.76,
+      "text": "Our genome is only three gigabytes big."
+    },
+    {
+      "start": 288.76,
+      "end": 291.28,
+      "text": "And only one to two percent of it is protein coding."
+    },
+    {
+      "start": 291.28,
+      "end": 293.24,
+      "text": "And that is simply not enough space"
+    },
+    {
+      "start": 293.24,
+      "end": 296.68,
+      "text": "to store the parameters of this network"
+    },
+    {
+      "start": 296.68,
+      "end": 299.84,
+      "text": "that supposedly evolution has pre-trained."
+    },
+    {
+      "start": 299.84,
+      "end": 301.76,
+      "text": "I think the closer analogy is more"
+    },
+    {
+      "start": 301.76,
+      "end": 303.88,
+      "text": "that evolution found the right hyperparameters"
+    },
+    {
+      "start": 303.88,
+      "end": 305.96,
+      "text": "and the right loss functions"
+    },
+    {
+      "start": 305.96,
+      "end": 308.48,
+      "text": "and that within our lifetime,"
+    },
+    {
+      "start": 308.48,
+      "end": 311.88,
+      "text": "we are still from scratch building up the connectome"
+    },
+    {
+      "start": 311.88,
+      "end": 312.71999999999997,
+      "text": "in our brain."
+    },
+    {
+      "start": 312.71999999999997,
+      "end": 315.24,
+      "text": "That is to say the analogous thing"
+    },
+    {
+      "start": 315.24,
+      "end": 318.88,
+      "text": "to the weights and parameters of the neural network itself."
+    },
+    {
+      "start": 318.88,
+      "end": 320.24,
+      "text": "And even if you granted this comparison,"
+    },
+    {
+      "start": 320.24,
+      "end": 322.40000000000003,
+      "text": "you said, yes, the hundreds of trillions of tokens"
+    },
+    {
+      "start": 322.40000000000003,
+      "end": 324.6,
+      "text": "that these models see to get pre-trained"
+    },
+    {
+      "start": 324.6,
+      "end": 327.24,
+      "text": "is similar to just catching up to evolution."
+    },
+    {
+      "start": 327.24,
+      "end": 330.2,
+      "text": "That still doesn't explain why any new marginal capability"
+    },
+    {
+      "start": 330.2,
+      "end": 332.76,
+      "text": "that you want to get these models takes so much data."
+    },
+    {
+      "start": 332.76,
+      "end": 334.52,
+      "text": "So once you have been educated,"
+    },
+    {
+      "start": 334.52,
+      "end": 336.96000000000004,
+      "text": "again, you don't need a hundred different professors"
+    },
+    {
+      "start": 336.96000000000004,
+      "end": 339.44,
+      "text": "to teach you how to learn a new programming language."
+    },
+    {
+      "start": 339.44,
+      "end": 341.96000000000004,
+      "text": "But these AIs, even once they're pre-trained,"
+    },
+    {
+      "start": 341.96000000000004,
+      "end": 344.52,
+      "text": "still require enormous amounts of data"
+    },
+    {
+      "start": 344.52,
+      "end": 346.2,
+      "text": "to learn the next marginal skill"
+    },
+    {
+      "start": 346.2,
+      "end": 348.0,
+      "text": "and the next marginal skill after that."
+    },
+    {
+      "start": 348.0,
+      "end": 349.47999999999996,
+      "text": "Another objection to this kind of comparison"
+    },
+    {
+      "start": 349.47999999999996,
+      "end": 351.03999999999996,
+      "text": "is that we're not including multimodal data"
+    },
+    {
+      "start": 351.03999999999996,
+      "end": 352.24,
+      "text": "that we're seeing in our lifetimes."
+    },
+    {
+      "start": 352.24,
+      "end": 354.08,
+      "text": "So you include all this sensor information"
+    },
+    {
+      "start": 354.08,
+      "end": 355.88,
+      "text": "that we see from birth to adulthood."
+    },
+    {
+      "start": 355.88,
+      "end": 358.08,
+      "text": "That's probably tens to hundreds of billions of tokens"
+    },
+    {
+      "start": 358.08,
+      "end": 358.84,
+      "text": "of data."
+    },
+    {
+      "start": 358.84,
+      "end": 360.47999999999996,
+      "text": "And my response to this objection is simply"
+    },
+    {
+      "start": 360.47999999999996,
+      "end": 363.44,
+      "text": "that blind and deaf people who have been cut off"
+    },
+    {
+      "start": 363.44,
+      "end": 365.08,
+      "text": "from all this sensor information"
+    },
+    {
+      "start": 365.08,
+      "end": 366.84,
+      "text": "still have general intelligence."
+    },
+    {
+      "start": 366.84,
+      "end": 368.84,
+      "text": "And that suggests to me that all these billions"
+    },
+    {
+      "start": 368.84,
+      "end": 370.84,
+      "text": "of sensory tokens are not really the thing"
+    },
+    {
+      "start": 370.84,
+      "end": 372.71999999999997,
+      "text": "that is making humans smart."
+    },
+    {
+      "start": 372.72,
+      "end": 376.08000000000004,
+      "text": "And in fact, deaf people who don't have the ability"
+    },
+    {
+      "start": 376.08000000000004,
+      "end": 378.44000000000005,
+      "text": "to hear any tokens who just have to consume them"
+    },
+    {
+      "start": 378.44000000000005,
+      "end": 380.12,
+      "text": "via sign language and reading"
+    },
+    {
+      "start": 380.12,
+      "end": 382.8,
+      "text": "are probably ingesting far less than the 200 million"
+    },
+    {
+      "start": 382.8,
+      "end": 384.96000000000004,
+      "text": "language tokens that we ballparked earlier,"
+    },
+    {
+      "start": 384.96000000000004,
+      "end": 387.20000000000005,
+      "text": "which suggests that even the million-fold difference"
+    },
+    {
+      "start": 387.20000000000005,
+      "end": 390.08000000000004,
+      "text": "that we calculated earlier might be an understatement."
+    },
+    {
+      "start": 390.08000000000004,
+      "end": 391.6,
+      "text": "Okay, the third common objection people make"
+    },
+    {
+      "start": 391.6,
+      "end": 393.12,
+      "text": "is that we just haven't scaled enough."
+    },
+    {
+      "start": 393.12,
+      "end": 394.12,
+      "text": "We have the scaling laws."
+    },
+    {
+      "start": 394.12,
+      "end": 396.68,
+      "text": "They tell us the bigger models are more sample-efficient."
+    },
+    {
+      "start": 396.68,
+      "end": 399.72,
+      "text": "The human brain, we know, is about 100 trillion synapses."
+    },
+    {
+      "start": 399.72,
+      "end": 401.44000000000005,
+      "text": "And we have frontier models that are currently"
+    },
+    {
+      "start": 401.44,
+      "end": 403.32,
+      "text": "around five trillion parameters."
+    },
+    {
+      "start": 403.32,
+      "end": 405.68,
+      "text": "And so maybe we could just achieve human level sample"
+    },
+    {
+      "start": 405.68,
+      "end": 407.84,
+      "text": "efficiency if we made these models"
+    },
+    {
+      "start": 407.84,
+      "end": 409.6,
+      "text": "one to two orders of magnitude bigger."
+    },
+    {
+      "start": 409.6,
+      "end": 411.32,
+      "text": "The reason this objection is off-mark"
+    },
+    {
+      "start": 411.32,
+      "end": 412.76,
+      "text": "is actually quite interesting."
+    },
+    {
+      "start": 412.76,
+      "end": 415.4,
+      "text": "So if you look at the way the scaling laws equations work,"
+    },
+    {
+      "start": 415.4,
+      "end": 417.96,
+      "text": "they tell you that the parameter and data terms"
+    },
+    {
+      "start": 417.96,
+      "end": 419.84,
+      "text": "are added to the loss independently."
+    },
+    {
+      "start": 419.84,
+      "end": 422.15999999999997,
+      "text": "So suppose you have a model and you've trained it"
+    },
+    {
+      "start": 422.15999999999997,
+      "end": 423.2,
+      "text": "compute optimally."
+    },
+    {
+      "start": 423.2,
+      "end": 425.24,
+      "text": "And you say, I want to be sample-efficient."
+    },
+    {
+      "start": 425.24,
+      "end": 427.44,
+      "text": "I want to use as little data as possible."
+    },
+    {
+      "start": 427.44,
+      "end": 430.8,
+      "text": "And I'll throw in as many parameters as as necessary"
+    },
+    {
+      "start": 430.84000000000003,
+      "end": 431.88,
+      "text": "to make that happen."
+    },
+    {
+      "start": 431.88,
+      "end": 434.44,
+      "text": "So take the constants from the chinchilla scaling law paper."
+    },
+    {
+      "start": 434.44,
+      "end": 436.56,
+      "text": "Even if you increase the number of parameters"
+    },
+    {
+      "start": 436.56,
+      "end": 439.88,
+      "text": "by infinity, that would only decrease by a factor of 10,"
+    },
+    {
+      "start": 439.88,
+      "end": 443.68,
+      "text": "the amount of data that you need in order to keep the same loss."
+    },
+    {
+      "start": 443.68,
+      "end": 446.28000000000003,
+      "text": "Humans are somewhere between thousands to millions"
+    },
+    {
+      "start": 446.28000000000003,
+      "end": 448.44,
+      "text": "of times more sample-efficient than these models."
+    },
+    {
+      "start": 448.44,
+      "end": 451.16,
+      "text": "So scaling the size of current models"
+    },
+    {
+      "start": 451.16,
+      "end": 453.36,
+      "text": "simply can't make up for that discrepancy."
+    },
+    {
+      "start": 453.36,
+      "end": 454.8,
+      "text": "And this really does suggest that humans"
+    },
+    {
+      "start": 454.8,
+      "end": 457.12,
+      "text": "are in a different scaling curve altogether."
+    },
+    {
+      "start": 457.12,
+      "end": 459.32,
+      "text": "As soon as I earn money, I want to put it to work."
+    },
+    {
+      "start": 459.32,
+      "end": 461.71999999999997,
+      "text": "But I also need to save for things like upcoming expenses"
+    },
+    {
+      "start": 461.71999999999997,
+      "end": 463.0,
+      "text": "and estimated taxes."
+    },
+    {
+      "start": 463.0,
+      "end": 465.44,
+      "text": "So to figure out exactly how much I need to set aside,"
+    },
+    {
+      "start": 465.44,
+      "end": 466.48,
+      "text": "I ask command."
+    },
+    {
+      "start": 466.48,
+      "end": 469.15999999999997,
+      "text": "Command is AI that is built into Mercury,"
+    },
+    {
+      "start": 469.15999999999997,
+      "end": 470.52,
+      "text": "which is my baking platform."
+    },
+    {
+      "start": 470.52,
+      "end": 473.12,
+      "text": "And since I already used Mercury to run my entire business,"
+    },
+    {
+      "start": 473.12,
+      "end": 475.15999999999997,
+      "text": "command has access to all the information it needs"
+    },
+    {
+      "start": 475.15999999999997,
+      "end": 476.08,
+      "text": "to get worked on."
+    },
+    {
+      "start": 476.08,
+      "end": 477.96,
+      "text": "I just don't command the date I'm interested in,"
+    },
+    {
+      "start": 477.96,
+      "end": 478.92,
+      "text": "and it does the rest."
+    },
+    {
+      "start": 478.92,
+      "end": 480.0,
+      "text": "It takes my current balance."
+    },
+    {
+      "start": 480.0,
+      "end": 482.71999999999997,
+      "text": "And as whatever invoices will we do by the cutoff,"
+    },
+    {
+      "start": 482.71999999999997,
+      "end": 485.2,
+      "text": "then it reviews my last six months of transaction history."
+    },
+    {
+      "start": 485.2,
+      "end": 487.71999999999997,
+      "text": "So I can subtract out my monthly average expenses"
+    },
+    {
+      "start": 487.72,
+      "end": 489.40000000000003,
+      "text": "along with any scheduled payments."
+    },
+    {
+      "start": 489.40000000000003,
+      "end": 491.20000000000005,
+      "text": "And if there's anything relevant coming up"
+    },
+    {
+      "start": 491.20000000000005,
+      "end": 493.24,
+      "text": "that's not in Mercury yet, I can just fly it."
+    },
+    {
+      "start": 493.24,
+      "end": 496.04,
+      "text": "Things like heads up, there's a $12,000 contractor payment"
+    },
+    {
+      "start": 496.04,
+      "end": 497.44000000000005,
+      "text": "that's slated for July."
+    },
+    {
+      "start": 497.44000000000005,
+      "end": 499.04,
+      "text": "And that gets included in the final output."
+    },
+    {
+      "start": 499.04,
+      "end": 500.52000000000004,
+      "text": "Because this is all happening in chat"
+    },
+    {
+      "start": 500.52000000000004,
+      "end": 502.72,
+      "text": "and every answer has links to the underlying data,"
+    },
+    {
+      "start": 502.72,
+      "end": 505.12,
+      "text": "I can easily double check commands work."
+    },
+    {
+      "start": 505.12,
+      "end": 506.96000000000004,
+      "text": "And once I'm convinced, I can just tell command,"
+    },
+    {
+      "start": 506.96000000000004,
+      "end": 507.8,
+      "text": "all right, that looks good."
+    },
+    {
+      "start": 507.8,
+      "end": 509.76000000000005,
+      "text": "Just transfer the surplus to my personal account."
+    },
+    {
+      "start": 509.76000000000005,
+      "end": 511.28000000000003,
+      "text": "And you will immediately draft the transfer"
+    },
+    {
+      "start": 511.28000000000003,
+      "end": 512.28,
+      "text": "for me to approve."
+    },
+    {
+      "start": 512.28,
+      "end": 513.64,
+      "text": "Command is live now."
+    },
+    {
+      "start": 513.64,
+      "end": 517.64,
+      "text": "Visit mercury.com slash command to learn more."
+    },
+    {
+      "start": 517.64,
+      "end": 519.92,
+      "text": "Mercury is a fintech company, not an FDIC in short bank."
+    },
+    {
+      "start": 519.92,
+      "end": 521.56,
+      "text": "Baking services provided through choice financial group"
+    },
+    {
+      "start": 521.56,
+      "end": 523.04,
+      "text": "and column NA members FDIC."
+    },
+    {
+      "start": 523.04,
+      "end": 525.12,
+      "text": "EI donated responses and suggested actions"
+    },
+    {
+      "start": 525.12,
+      "end": 526.84,
+      "text": "made very and are not guaranteed."
+    },
+    {
+      "start": 526.84,
+      "end": 528.64,
+      "text": "Okay, all these nerdy comparisons aside,"
+    },
+    {
+      "start": 528.64,
+      "end": 531.24,
+      "text": "you might ask, why do we even care about sample efficiency?"
+    },
+    {
+      "start": 531.24,
+      "end": 534.64,
+      "text": "Is this actually necessary for the labs to achieve"
+    },
+    {
+      "start": 534.64,
+      "end": 536.76,
+      "text": "the two overarching objectives they have,"
+    },
+    {
+      "start": 536.76,
+      "end": 539.52,
+      "text": "which are one, automate white color work"
+    },
+    {
+      "start": 539.52,
+      "end": 541.92,
+      "text": "and two, automate AI research itself?"
+    },
+    {
+      "start": 541.92,
+      "end": 544.24,
+      "text": "The bit that the labs are making with white color work"
+    },
+    {
+      "start": 544.24,
+      "end": 546.16,
+      "text": "is that the common tasks that are software engineer"
+    },
+    {
+      "start": 546.1999999999999,
+      "end": 549.16,
+      "text": "or analyst or accountant needs to do are common."
+    },
+    {
+      "start": 549.16,
+      "end": 550.64,
+      "text": "And as a result, you can bring them"
+    },
+    {
+      "start": 550.64,
+      "end": 553.48,
+      "text": "into the training distribution quite easily."
+    },
+    {
+      "start": 553.48,
+      "end": 555.16,
+      "text": "If you look at the revenue curves of these labs"
+    },
+    {
+      "start": 555.16,
+      "end": 557.3199999999999,
+      "text": "or the last few months, it does suggest"
+    },
+    {
+      "start": 557.3199999999999,
+      "end": 558.8399999999999,
+      "text": "that there's an enormous amount of value"
+    },
+    {
+      "start": 558.8399999999999,
+      "end": 562.76,
+      "text": "from bringing into distribution these kinds of common tasks,"
+    },
+    {
+      "start": 562.76,
+      "end": 564.64,
+      "text": "even if we can't replicate whatever"
+    },
+    {
+      "start": 564.64,
+      "end": 567.04,
+      "text": "is making human learning so special."
+    },
+    {
+      "start": 567.04,
+      "end": 569.0,
+      "text": "And it might be more inefficient to train AIs"
+    },
+    {
+      "start": 569.0,
+      "end": 571.24,
+      "text": "to do these kinds of tasks than it is to train humans."
+    },
+    {
+      "start": 571.24,
+      "end": 572.28,
+      "text": "But so what?"
+    },
+    {
+      "start": 572.28,
+      "end": 575.0799999999999,
+      "text": "Human lifespan simply does not allow for the quantity"
+    },
+    {
+      "start": 575.08,
+      "end": 577.84,
+      "text": "and the breadth of training that these models experience."
+    },
+    {
+      "start": 577.84,
+      "end": 580.84,
+      "text": "If you, as a human, had some weird learning disability"
+    },
+    {
+      "start": 580.84,
+      "end": 583.6,
+      "text": "where you needed to read through every public repository"
+    },
+    {
+      "start": 583.6,
+      "end": 586.08,
+      "text": "on GitHub before you could be a competent software engineer,"
+    },
+    {
+      "start": 586.08,
+      "end": 588.44,
+      "text": "there would simply not make sense to train you up."
+    },
+    {
+      "start": 588.44,
+      "end": 590.8000000000001,
+      "text": "You'd be on social security by the early stages"
+    },
+    {
+      "start": 590.8000000000001,
+      "end": 593.88,
+      "text": "of your education, and even once you were trained,"
+    },
+    {
+      "start": 593.88,
+      "end": 596.88,
+      "text": "you would only be able to work on one project at a time."
+    },
+    {
+      "start": 596.88,
+      "end": 599.6800000000001,
+      "text": "But AIs can learn these skills by fire or hosting"
+    },
+    {
+      "start": 599.6800000000001,
+      "end": 601.44,
+      "text": "gigawatts of training at a time."
+    },
+    {
+      "start": 601.44,
+      "end": 603.36,
+      "text": "And what they learn can be amortized"
+    },
+    {
+      "start": 603.36,
+      "end": 605.84,
+      "text": "across billions of sessions at once."
+    },
+    {
+      "start": 605.84,
+      "end": 608.88,
+      "text": "So we can be ludicrously inefficient in training them up"
+    },
+    {
+      "start": 608.88,
+      "end": 610.8000000000001,
+      "text": "and still be wildly in the green."
+    },
+    {
+      "start": 610.8000000000001,
+      "end": 612.32,
+      "text": "And then there's a question of, well,"
+    },
+    {
+      "start": 612.32,
+      "end": 613.6,
+      "text": "how much outer distribution thinking"
+    },
+    {
+      "start": 613.6,
+      "end": 615.36,
+      "text": "do white collar employees need to do"
+    },
+    {
+      "start": 615.36,
+      "end": 617.96,
+      "text": "that you simply can to train for an advance?"
+    },
+    {
+      "start": 617.96,
+      "end": 620.08,
+      "text": "This is more a question about the nature of different jobs"
+    },
+    {
+      "start": 620.08,
+      "end": 622.12,
+      "text": "than it is a question about AI research."
+    },
+    {
+      "start": 622.12,
+      "end": 625.0,
+      "text": "And it also depends on which job you're talking about."
+    },
+    {
+      "start": 625.0,
+      "end": 627.08,
+      "text": "Some jobs are so mechanical and predictable"
+    },
+    {
+      "start": 627.08,
+      "end": 628.72,
+      "text": "that we were able to automate them"
+    },
+    {
+      "start": 628.72,
+      "end": 630.76,
+      "text": "long before the modern era of AI."
+    },
+    {
+      "start": 630.76,
+      "end": 633.16,
+      "text": "For example, bank tellers or travel agents."
+    },
+    {
+      "start": 633.16,
+      "end": 634.8,
+      "text": "But there are other jobs which require"
+    },
+    {
+      "start": 634.8,
+      "end": 636.92,
+      "text": "dealing on a daily basis with problems"
+    },
+    {
+      "start": 636.92,
+      "end": 638.92,
+      "text": "that are quite distant from the data distribution."
+    },
+    {
+      "start": 638.92,
+      "end": 640.9599999999999,
+      "text": "I think software engineering is probably one such."
+    },
+    {
+      "start": 640.9599999999999,
+      "end": 644.12,
+      "text": "This is the job that AIs are supposed to take first."
+    },
+    {
+      "start": 644.12,
+      "end": 645.48,
+      "text": "But I would be willing to bet that there's"
+    },
+    {
+      "start": 645.48,
+      "end": 647.68,
+      "text": "overall more demand for human software engineers"
+    },
+    {
+      "start": 647.68,
+      "end": 650.36,
+      "text": "in 2027 than there is right now."
+    },
+    {
+      "start": 650.36,
+      "end": 653.7199999999999,
+      "text": "Largely due to the complementary input of AI."
+    },
+    {
+      "start": 653.7199999999999,
+      "end": 655.92,
+      "text": "The last plans for this latter category of jobs"
+    },
+    {
+      "start": 655.92,
+      "end": 657.4399999999999,
+      "text": "is first to automate AI research"
+    },
+    {
+      "start": 657.4399999999999,
+      "end": 659.3199999999999,
+      "text": "and then have the automated AI research"
+    },
+    {
+      "start": 659.3199999999999,
+      "end": 661.52,
+      "text": "resolve the sample efficiency problem."
+    },
+    {
+      "start": 661.52,
+      "end": 664.12,
+      "text": "So then the question is, can AIs, which do not"
+    },
+    {
+      "start": 664.12,
+      "end": 665.84,
+      "text": "have human level sample efficiency,"
+    },
+    {
+      "start": 665.84,
+      "end": 668.36,
+      "text": "nonetheless solve the remaining research problems"
+    },
+    {
+      "start": 668.36,
+      "end": 671.0,
+      "text": "that stand on the way of human-like intelligence"
+    },
+    {
+      "start": 671.0,
+      "end": 671.96,
+      "text": "and learning?"
+    },
+    {
+      "start": 671.96,
+      "end": 673.3199999999999,
+      "text": "This is a very complicated question,"
+    },
+    {
+      "start": 673.3199999999999,
+      "end": 675.48,
+      "text": "and I'll have to address it in a much longer future"
+    },
+    {
+      "start": 675.48,
+      "end": 676.3199999999999,
+      "text": "of blockbost."
+    },
+    {
+      "start": 676.3199999999999,
+      "end": 677.92,
+      "text": "But just a tease at a bit, I think"
+    },
+    {
+      "start": 677.92,
+      "end": 679.96,
+      "text": "that the way that people currently think about an intelligence"
+    },
+    {
+      "start": 679.96,
+      "end": 683.04,
+      "text": "solution is very clumsy because either people"
+    },
+    {
+      "start": 683.04,
+      "end": 686.92,
+      "text": "dismiss the possibility of AI speeding up AI progress altogether"
+    },
+    {
+      "start": 686.92,
+      "end": 688.96,
+      "text": "or they assume that some kind of god pops out"
+    },
+    {
+      "start": 688.96,
+      "end": 689.88,
+      "text": "the other end."
+    },
+    {
+      "start": 689.88,
+      "end": 691.96,
+      "text": "They don't reason carefully about what"
+    },
+    {
+      "start": 691.96,
+      "end": 696.32,
+      "text": "it looks like to have a period where AI progress is much faster"
+    },
+    {
+      "start": 696.32,
+      "end": 700.48,
+      "text": "than usual, but have that happen atop LLM's"
+    },
+    {
+      "start": 700.48,
+      "end": 703.24,
+      "text": "and the particular kinds of intelligences that LLM's are."
+    },
+    {
+      "start": 703.24,
+      "end": 704.84,
+      "text": "But I'll save that for next time."
+    },
+    {
+      "start": 704.84,
+      "end": 707.04,
+      "text": "In the meanwhile, if you want to read this blockpost"
+    },
+    {
+      "start": 707.04,
+      "end": 708.72,
+      "text": "or all the other blockbost I write,"
+    },
+    {
+      "start": 708.72,
+      "end": 711.32,
+      "text": "or be alerted when I write a future blockpost,"
+    },
+    {
+      "start": 711.32,
+      "end": 715.56,
+      "text": "go sign up for my newsletter at my website, dwarkesh.com."
+    },
+    {
+      "start": 715.56,
+      "end": 717.52,
+      "text": "All right, I'll see you later."
+    }
+  ]
+}

@@ -1,0 +1,4536 @@
+{
+  "id": "2e6a4f3c972fd408",
+  "show": "Sharp Tech with Ben Thompson",
+  "theme": "Tech & AI",
+  "title": "(Preview) The Anthropic Saga Continues, Fox and the Future of Streaming, Q&A on ChatGPT, Agentic Shopping, Autonomous Driving",
+  "audio_url": "https://sharptech.fm/assets/sharptech0281_preview.mp3?access_token=WtLvUDEHgB7rE4MbAfmDVT",
+  "source": "local-whisper",
+  "duration": 1885.4,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hello, and welcome to a free preview of Sharp Tech."
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "Hello, and welcome back to another episode of Sharp Tech."
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "I'm Andrew Sharp, and on the other line,"
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "Ben Thompson."
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "Ben, how you doing?"
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "text": "Sad Andrew."
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "text": "Why?"
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "Sad because"
+    },
+    {
+      "start": 23.0,
+      "end": 29.0,
+      "text": "you've been forced over the last week to use these really crappy AI models."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "Only 5.5 in Opus."
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "text": "Where's the old boy?"
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "text": "I told you, Fabulous."
+    },
+    {
+      "start": 35.0,
+      "end": 39.0,
+      "text": "Somebody needs to jailbreak Fabulous back to life for us, man."
+    },
+    {
+      "start": 39.0,
+      "end": 44.0,
+      "text": "We did 48 hours of truly leap forward in terms of model capabilities."
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "text": "Poor Ben."
+    },
+    {
+      "start": 45.0,
+      "end": 48.0,
+      "text": "His wings have been clipped here."
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 49.0,
+      "end": 51.0,
+      "text": "Now here we are living in the stone age."
+    },
+    {
+      "start": 51.0,
+      "end": 57.0,
+      "text": "But I mean, look, only a matter of days until the rule is reversed and Fabulous"
+    },
+    {
+      "start": 57.0,
+      "end": 60.0,
+      "text": "table is brought back to life would be my guess."
+    },
+    {
+      "start": 60.0,
+      "end": 63.0,
+      "text": "We are going to start the rules that Andrew Sharp reports are."
+    },
+    {
+      "start": 63.0,
+      "end": 68.0,
+      "text": "No, look, just as I, it occurred to me as we come on to record to talk about the"
+    },
+    {
+      "start": 68.0,
+      "end": 70.0,
+      "text": "export controls and everything else."
+    },
+    {
+      "start": 70.0,
+      "end": 75.0,
+      "text": "Like by Friday night, I'm sure there will be a twist that renders half of this"
+    },
+    {
+      "start": 75.0,
+      "end": 76.0,
+      "text": "obsolete."
+    },
+    {
+      "start": 76.0,
+      "end": 80.0,
+      "text": "We're not going to start with anthropic though, actually, because you inform me"
+    },
+    {
+      "start": 80.0,
+      "end": 84.0,
+      "text": "that you have a world cup take related to the hydration breaks."
+    },
+    {
+      "start": 84.0,
+      "end": 85.0,
+      "text": "Oh, you want a brand?"
+    },
+    {
+      "start": 85.0,
+      "end": 90.0,
+      "text": "I don't know if we could do this at the top of the show because I know I'm concerned"
+    },
+    {
+      "start": 90.0,
+      "end": 97.0,
+      "text": "I'm going to make people so mad that my concern is they will hit stop and unsubscribe."
+    },
+    {
+      "start": 97.0,
+      "end": 98.0,
+      "text": "Right."
+    },
+    {
+      "start": 98.0,
+      "end": 99.0,
+      "text": "Okay."
+    },
+    {
+      "start": 99.0,
+      "end": 102.0,
+      "text": "It was at the end of the show that they might go and unsubscribe, but then at least they've"
+    },
+    {
+      "start": 102.0,
+      "end": 103.0,
+      "text": "listened to the whole show."
+    },
+    {
+      "start": 103.0,
+      "end": 107.0,
+      "text": "But if we put it up front, they might not listen to the rest of the episode."
+    },
+    {
+      "start": 107.0,
+      "end": 110.0,
+      "text": "Although maybe if we make the rest of the episode really good, then they'll decide to continue"
+    },
+    {
+      "start": 110.0,
+      "end": 111.0,
+      "text": "to be subscribers."
+    },
+    {
+      "start": 111.0,
+      "end": 113.0,
+      "text": "A bit of grace after 90 minutes."
+    },
+    {
+      "start": 113.0,
+      "end": 114.0,
+      "text": "Fine."
+    },
+    {
+      "start": 114.0,
+      "end": 115.0,
+      "text": "We can save it."
+    },
+    {
+      "start": 115.0,
+      "end": 116.0,
+      "text": "I'll drop it."
+    },
+    {
+      "start": 116.0,
+      "end": 117.0,
+      "text": "Here you go."
+    },
+    {
+      "start": 117.0,
+      "end": 119.0,
+      "text": "Here's my world cup, world cup hydration take."
+    },
+    {
+      "start": 119.0,
+      "end": 125.0,
+      "text": "So you remember previously, and people sort of got annoyed at this, but I still stand by it."
+    },
+    {
+      "start": 125.0,
+      "end": 130.0,
+      "text": "The US implements these policies in the stupidest way possible, right?"
+    },
+    {
+      "start": 130.0,
+      "end": 134.0,
+      "text": "So like I said, like we have universal healthcare, it's everyone has to be served by an emergency"
+    },
+    {
+      "start": 134.0,
+      "end": 135.0,
+      "text": "room."
+    },
+    {
+      "start": 135.0,
+      "end": 138.0,
+      "text": "That made a lot of people mad, but like I stand by it."
+    },
+    {
+      "start": 138.0,
+      "end": 143.0,
+      "text": "Like the fact of the matter is everybody, if you're in emergency, you're going to get"
+    },
+    {
+      "start": 143.0,
+      "end": 147.0,
+      "text": "a self-care, like that is universal healthcare in the stupidest way possible."
+    },
+    {
+      "start": 147.0,
+      "end": 149.0,
+      "text": "Oh, it doesn't cover preventive."
+    },
+    {
+      "start": 149.0,
+      "end": 150.0,
+      "text": "Yes."
+    },
+    {
+      "start": 150.0,
+      "end": 151.0,
+      "text": "I know."
+    },
+    {
+      "start": 151.0,
+      "end": 153.0,
+      "text": "It's done in a very narrowly defined way."
+    },
+    {
+      "start": 153.0,
+      "end": 154.0,
+      "text": "Right."
+    },
+    {
+      "start": 154.0,
+      "end": 161.0,
+      "text": "The point of making that analogy is that it's a really stupid way to do a conference policy."
+    },
+    {
+      "start": 161.0,
+      "end": 166.0,
+      "text": "Or if that was in the context of AI data centers, they're going to end up paying people to build"
+    },
+    {
+      "start": 166.0,
+      "end": 167.0,
+      "text": "them."
+    },
+    {
+      "start": 167.0,
+      "end": 171.0,
+      "text": "And that's how we're going to backdoor into AI, like putting money in people's pocket."
+    },
+    {
+      "start": 171.0,
+      "end": 172.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 172.0,
+      "end": 173.0,
+      "text": "Right."
+    },
+    {
+      "start": 173.0,
+      "end": 174.0,
+      "text": "Yes."
+    },
+    {
+      "start": 174.0,
+      "end": 175.0,
+      "text": "So the stupidest way possible."
+    },
+    {
+      "start": 175.0,
+      "end": 184.0,
+      "text": "So this is sort of context for my hydration break take, which is soccer is, and it is called"
+    },
+    {
+      "start": 184.0,
+      "end": 185.0,
+      "text": "soccer."
+    },
+    {
+      "start": 185.0,
+      "end": 187.0,
+      "text": "By the way, do you know where the word soccer comes from?"
+    },
+    {
+      "start": 187.0,
+      "end": 191.0,
+      "text": "I have no idea where it comes from England to be clear."
+    },
+    {
+      "start": 191.0,
+      "end": 192.0,
+      "text": "Okay."
+    },
+    {
+      "start": 192.0,
+      "end": 193.0,
+      "text": "Great."
+    },
+    {
+      "start": 193.0,
+      "end": 198.44,
+      "text": "So right, the use of football was a sport played on your feet as opposed to on horses."
+    },
+    {
+      "start": 198.44,
+      "end": 201.44,
+      "text": "And then there was association football."
+    },
+    {
+      "start": 201.44,
+      "end": 202.44,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 202.44,
+      "end": 205.44,
+      "text": "So CC was soccer came from England."
+    },
+    {
+      "start": 205.44,
+      "end": 208.44,
+      "text": "They, you know, I'm sorry that we preserved English culture better than they did."
+    },
+    {
+      "start": 208.44,
+      "end": 209.44,
+      "text": "Right."
+    },
+    {
+      "start": 209.44,
+      "end": 212.44,
+      "text": "And they've been getting it wrong for 150 years."
+    },
+    {
+      "start": 212.44,
+      "end": 213.44,
+      "text": "That's right."
+    },
+    {
+      "start": 213.44,
+      "end": 214.44,
+      "text": "What the hell happened."
+    },
+    {
+      "start": 214.44,
+      "end": 215.44,
+      "text": "That's right."
+    },
+    {
+      "start": 215.44,
+      "end": 216.44,
+      "text": "Okay."
+    },
+    {
+      "start": 216.44,
+      "end": 217.44,
+      "text": "No, that's not the take."
+    },
+    {
+      "start": 217.44,
+      "end": 218.44,
+      "text": "Don't let's subscribe yet."
+    },
+    {
+      "start": 218.44,
+      "end": 219.44,
+      "text": "Give me a couple more minutes and I'll really make you mad."
+    },
+    {
+      "start": 219.44,
+      "end": 223.44,
+      "text": "So soccer is all these traditions the way it's always been played."
+    },
+    {
+      "start": 224.44,
+      "end": 227.44,
+      "text": "And you know, and one of them is you have 45 minute halves."
+    },
+    {
+      "start": 227.44,
+      "end": 229.44,
+      "text": "The clock doesn't stop."
+    },
+    {
+      "start": 229.44,
+      "end": 231.44,
+      "text": "And that's just like part of it."
+    },
+    {
+      "start": 231.44,
+      "end": 235.44,
+      "text": "And the whole thing with the hydration break is, well, the US is really hot."
+    },
+    {
+      "start": 235.44,
+      "end": 237.44,
+      "text": "Number one, come on."
+    },
+    {
+      "start": 237.44,
+      "end": 238.44,
+      "text": "It's not that hot."
+    },
+    {
+      "start": 238.44,
+      "end": 239.44,
+      "text": "Seriously."
+    },
+    {
+      "start": 239.44,
+      "end": 242.44,
+      "text": "This is tied into the like, look, go to Taiwan in this summer."
+    },
+    {
+      "start": 242.44,
+      "end": 243.44,
+      "text": "That's hot."
+    },
+    {
+      "start": 243.44,
+      "end": 244.44,
+      "text": "I would come back to Wisconsin every year."
+    },
+    {
+      "start": 244.44,
+      "end": 245.44,
+      "text": "How do you go to Wisconsin this summer?"
+    },
+    {
+      "start": 245.44,
+      "end": 246.44,
+      "text": "It's so humid."
+    },
+    {
+      "start": 246.44,
+      "end": 248.44,
+      "text": "I'm like, it's not humid at all."
+    },
+    {
+      "start": 248.44,
+      "end": 249.44,
+      "text": "But it's not that hot."
+    },
+    {
+      "start": 249.44,
+      "end": 250.44,
+      "text": "But whatever."
+    },
+    {
+      "start": 250.44,
+      "end": 251.44,
+      "text": "Everyone's like, it's so hot."
+    },
+    {
+      "start": 251.44,
+      "end": 253.44,
+      "text": "We need to have some games."
+    },
+    {
+      "start": 253.44,
+      "end": 255.44,
+      "text": "It's going to be too hot."
+    },
+    {
+      "start": 255.44,
+      "end": 258.44,
+      "text": "Players need to stop for their health and safety and get water."
+    },
+    {
+      "start": 258.44,
+      "end": 262.44,
+      "text": "Oh, if we do it in some games, it won't be a very accurate for all the games."
+    },
+    {
+      "start": 262.44,
+      "end": 267.44,
+      "text": "And actually what it's actually doing is there's an extra commercial break in the middle of the game."
+    },
+    {
+      "start": 267.44,
+      "end": 270.44,
+      "text": "And it's like a commercial break or you're not going to change the channel."
+    },
+    {
+      "start": 270.44,
+      "end": 272.44,
+      "text": "Because you're like in the middle of the game."
+    },
+    {
+      "start": 272.44,
+      "end": 274.44,
+      "text": "It's a huge money maker."
+    },
+    {
+      "start": 274.44,
+      "end": 275.44,
+      "text": "Everyone's upset about it."
+    },
+    {
+      "start": 275.44,
+      "end": 277.44,
+      "text": "You're destroying soccer just to make a few bucks."
+    },
+    {
+      "start": 277.44,
+      "end": 279.44,
+      "text": "Blah, blah, blah, blah."
+    },
+    {
+      "start": 279.44,
+      "end": 280.44,
+      "text": "Here's my take."
+    },
+    {
+      "start": 280.44,
+      "end": 282.44,
+      "text": "We're actually fixing soccer."
+    },
+    {
+      "start": 282.44,
+      "end": 283.44,
+      "text": "Okay."
+    },
+    {
+      "start": 283.44,
+      "end": 288.44,
+      "text": "Like so one of the complaints about the hydration break is the momentum changes."
+    },
+    {
+      "start": 288.44,
+      "end": 290.44,
+      "text": "Like a team's like on their heels."
+    },
+    {
+      "start": 290.44,
+      "end": 291.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 291.44,
+      "end": 292.44,
+      "text": "And they come back."
+    },
+    {
+      "start": 292.44,
+      "end": 296.44,
+      "text": "Horus hate it because it's actually changing some of the outcomes of these games."
+    },
+    {
+      "start": 296.44,
+      "end": 298.44,
+      "text": "Because guys come out of it."
+    },
+    {
+      "start": 298.44,
+      "end": 302.44,
+      "text": "Like I think Holland scored right after a hydration break."
+    },
+    {
+      "start": 302.44,
+      "end": 303.44,
+      "text": "That's early."
+    },
+    {
+      "start": 303.44,
+      "end": 304.44,
+      "text": "What happened in England?"
+    },
+    {
+      "start": 304.44,
+      "end": 306.44,
+      "text": "The England Croatian game yesterday."
+    },
+    {
+      "start": 306.44,
+      "end": 308.44,
+      "text": "The Croatian was like on their heels."
+    },
+    {
+      "start": 308.44,
+      "end": 309.44,
+      "text": "They come out reset."
+    },
+    {
+      "start": 309.44,
+      "end": 310.44,
+      "text": "Score a few goals."
+    },
+    {
+      "start": 310.44,
+      "end": 311.44,
+      "text": "And guess what?"
+    },
+    {
+      "start": 311.44,
+      "end": 314.44,
+      "text": "England was definitely the better team Croatian."
+    },
+    {
+      "start": 314.44,
+      "end": 316.44,
+      "text": "England was incredibly impressive in that game."
+    },
+    {
+      "start": 316.44,
+      "end": 320.44,
+      "text": "That game was so much more entertaining because of the hydration break."
+    },
+    {
+      "start": 320.44,
+      "end": 322.44,
+      "text": "A allowing Croatian to reset."
+    },
+    {
+      "start": 322.44,
+      "end": 323.44,
+      "text": "Score a couple of goals."
+    },
+    {
+      "start": 323.44,
+      "end": 325.44,
+      "text": "Made it very gripping."
+    },
+    {
+      "start": 325.44,
+      "end": 326.44,
+      "text": "England I'm winning four to two."
+    },
+    {
+      "start": 326.44,
+      "end": 328.44,
+      "text": "It made the game better."
+    },
+    {
+      "start": 328.44,
+      "end": 329.44,
+      "text": "Guess what?"
+    },
+    {
+      "start": 329.44,
+      "end": 331.44,
+      "text": "Corners are a good idea."
+    },
+    {
+      "start": 331.44,
+      "end": 332.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 332.44,
+      "end": 333.44,
+      "text": "Hydration breaks."
+    },
+    {
+      "start": 334.44,
+      "end": 336.44,
+      "text": "A blatant sort of like grow up."
+    },
+    {
+      "start": 336.44,
+      "end": 337.44,
+      "text": "It's not that hot out."
+    },
+    {
+      "start": 337.44,
+      "end": 340.44,
+      "text": "Combined with a pure money grab."
+    },
+    {
+      "start": 340.44,
+      "end": 343.44,
+      "text": "We're backing into making soccer better."
+    },
+    {
+      "start": 343.44,
+      "end": 344.44,
+      "text": "And everyone should thank us for it."
+    },
+    {
+      "start": 344.44,
+      "end": 347.44,
+      "text": "Fewer exhausted players is a good thing."
+    },
+    {
+      "start": 347.44,
+      "end": 348.44,
+      "text": "Exactly."
+    },
+    {
+      "start": 348.44,
+      "end": 352.44,
+      "text": "I like to see people performing at their best."
+    },
+    {
+      "start": 352.44,
+      "end": 353.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 353.44,
+      "end": 354.44,
+      "text": "So."
+    },
+    {
+      "start": 354.44,
+      "end": 355.44,
+      "text": "Idiot."
+    },
+    {
+      "start": 355.44,
+      "end": 356.44,
+      "text": "Don't subscribe."
+    },
+    {
+      "start": 356.44,
+      "end": 358.44,
+      "text": "And don't sue Ben."
+    },
+    {
+      "start": 359.44,
+      "end": 360.44,
+      "text": "But look, that's right."
+    },
+    {
+      "start": 360.44,
+      "end": 363.44,
+      "text": "My take on hydration breaks is that they should just be called commercial breaks."
+    },
+    {
+      "start": 363.44,
+      "end": 368.44,
+      "text": "So maybe we'll get there by the time we get to the next World Cup because I do understand"
+    },
+    {
+      "start": 368.44,
+      "end": 375.44,
+      "text": "the instinctive rage at branding this profit optimization strategy as a player safety"
+    },
+    {
+      "start": 375.44,
+      "end": 376.44,
+      "text": "initiative."
+    },
+    {
+      "start": 376.44,
+      "end": 377.44,
+      "text": "That's right."
+    },
+    {
+      "start": 377.44,
+      "end": 379.44,
+      "text": "There's a lot to be said for just being honest."
+    },
+    {
+      "start": 379.44,
+      "end": 380.44,
+      "text": "Okay."
+    },
+    {
+      "start": 380.44,
+      "end": 381.44,
+      "text": "Right."
+    },
+    {
+      "start": 381.44,
+      "end": 382.44,
+      "text": "And guess what?"
+    },
+    {
+      "start": 382.44,
+      "end": 383.44,
+      "text": "You know what's good for the game?"
+    },
+    {
+      "start": 383.44,
+      "end": 387.44,
+      "text": "If everyone's making more money, like like you get more like you think about soccer."
+    },
+    {
+      "start": 387.44,
+      "end": 388.44,
+      "text": "Don't cheer."
+    },
+    {
+      "start": 388.44,
+      "end": 389.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 389.44,
+      "end": 390.44,
+      "text": "Everybody else says commercial breaks."
+    },
+    {
+      "start": 390.44,
+      "end": 391.44,
+      "text": "It's fine."
+    },
+    {
+      "start": 391.44,
+      "end": 396.44,
+      "text": "And I hadn't considered the idea that actually it's going to make the second halves more entertaining"
+    },
+    {
+      "start": 396.44,
+      "end": 398.44,
+      "text": "than they would be otherwise."
+    },
+    {
+      "start": 398.44,
+      "end": 401.44,
+      "text": "So as far as I'm concerned, not a bad hydration break."
+    },
+    {
+      "start": 401.44,
+      "end": 402.44,
+      "text": "Take soccer fans."
+    },
+    {
+      "start": 402.44,
+      "end": 407.44,
+      "text": "You know what the world or if you're like super excited for the game."
+    },
+    {
+      "start": 407.44,
+      "end": 409.44,
+      "text": "Imagine you had the US is playing tomorrow."
+    },
+    {
+      "start": 409.44,
+      "end": 410.44,
+      "text": "Australia."
+    },
+    {
+      "start": 410.44,
+      "end": 412.44,
+      "text": "Maybe you've already watched it by the time you listen to this."
+    },
+    {
+      "start": 412.44,
+      "end": 413.44,
+      "text": "Maybe you're pre-partying."
+    },
+    {
+      "start": 413.44,
+      "end": 414.44,
+      "text": "You're getting ready."
+    },
+    {
+      "start": 414.44,
+      "end": 416.44,
+      "text": "You know what you might need?"
+    },
+    {
+      "start": 416.44,
+      "end": 418.44,
+      "text": "A dehydration break."
+    },
+    {
+      "start": 418.44,
+      "end": 421.44,
+      "text": "It's not so bad in the middle of the half."
+    },
+    {
+      "start": 421.44,
+      "end": 422.44,
+      "text": "Run to the bathroom."
+    },
+    {
+      "start": 422.44,
+      "end": 423.44,
+      "text": "There we go."
+    },
+    {
+      "start": 423.44,
+      "end": 424.44,
+      "text": "My perspective."
+    },
+    {
+      "start": 424.44,
+      "end": 427.44,
+      "text": "Well, my number one world cup take."
+    },
+    {
+      "start": 427.44,
+      "end": 430.44,
+      "text": "You created a giant world cup group chat."
+    },
+    {
+      "start": 430.44,
+      "end": 433.44,
+      "text": "And there's like 15 different people in there."
+    },
+    {
+      "start": 433.44,
+      "end": 435.44,
+      "text": "You added me without asking me."
+    },
+    {
+      "start": 435.44,
+      "end": 437.44,
+      "text": "Because you were dropping world cup."
+    },
+    {
+      "start": 437.44,
+      "end": 439.44,
+      "text": "You're dropping world cup takes."
+    },
+    {
+      "start": 439.44,
+      "end": 444.44,
+      "text": "I was dropping Champions League final takes a couple weeks ago."
+    },
+    {
+      "start": 445.44,
+      "end": 449.44,
+      "text": "But being in the group chat, I'm fairly busy."
+    },
+    {
+      "start": 449.44,
+      "end": 452.44,
+      "text": "I've got two toddlers, a bunch of podcasts."
+    },
+    {
+      "start": 452.44,
+      "end": 454.44,
+      "text": "You are busier than I am, though."
+    },
+    {
+      "start": 454.44,
+      "end": 457.44,
+      "text": "And I am flabbergasted by how many world cup games"
+    },
+    {
+      "start": 457.44,
+      "end": 460.44,
+      "text": "you have consumed over the past week or so."
+    },
+    {
+      "start": 460.44,
+      "end": 463.44,
+      "text": "You continue to be the biggest sports fan I've ever met."
+    },
+    {
+      "start": 463.44,
+      "end": 465.44,
+      "text": "So congratulations."
+    },
+    {
+      "start": 465.44,
+      "end": 466.44,
+      "text": "Well, thank you."
+    },
+    {
+      "start": 466.44,
+      "end": 467.44,
+      "text": "I love the world cup."
+    },
+    {
+      "start": 467.44,
+      "end": 468.44,
+      "text": "It's great."
+    },
+    {
+      "start": 468.44,
+      "end": 469.44,
+      "text": "Games are on all day."
+    },
+    {
+      "start": 469.44,
+      "end": 472.44,
+      "text": "But you see who she jean the Chinese propaganda."
+    },
+    {
+      "start": 472.44,
+      "end": 473.44,
+      "text": "No."
+    },
+    {
+      "start": 473.44,
+      "end": 474.44,
+      "text": "Oh, yeah."
+    },
+    {
+      "start": 474.44,
+      "end": 476.44,
+      "text": "He put out a tweet complaining about the game times"
+    },
+    {
+      "start": 476.44,
+      "end": 480.44,
+      "text": "that they should be catering to China as far as when the games were played."
+    },
+    {
+      "start": 480.44,
+      "end": 483.44,
+      "text": "The games are being played from like 11 in the morning"
+    },
+    {
+      "start": 483.44,
+      "end": 484.44,
+      "text": "to like one in the morning."
+    },
+    {
+      "start": 484.44,
+      "end": 485.44,
+      "text": "Right."
+    },
+    {
+      "start": 485.44,
+      "end": 486.44,
+      "text": "We're a lot."
+    },
+    {
+      "start": 486.44,
+      "end": 487.44,
+      "text": "Okay."
+    },
+    {
+      "start": 487.44,
+      "end": 488.44,
+      "text": "Pacific."
+    },
+    {
+      "start": 488.44,
+      "end": 490.44,
+      "text": "Some of the games are clearly being catered to China."
+    },
+    {
+      "start": 490.44,
+      "end": 492.44,
+      "text": "So China's been taking care of here."
+    },
+    {
+      "start": 492.44,
+      "end": 495.44,
+      "text": "And you're watching almost every single one."
+    },
+    {
+      "start": 495.44,
+      "end": 498.44,
+      "text": "I'm getting texts from you throughout the day about different world cup games."
+    },
+    {
+      "start": 498.44,
+      "end": 500.44,
+      "text": "I didn't even know we're happening."
+    },
+    {
+      "start": 500.44,
+      "end": 502.44,
+      "text": "So I look forward to joining you."
+    },
+    {
+      "start": 502.44,
+      "end": 503.44,
+      "text": "Probably just in general."
+    },
+    {
+      "start": 503.44,
+      "end": 505.44,
+      "text": "What's great about the world cup?"
+    },
+    {
+      "start": 505.44,
+      "end": 506.44,
+      "text": "I'm not actually a soccer watcher."
+    },
+    {
+      "start": 506.44,
+      "end": 507.44,
+      "text": "I like every world cup."
+    },
+    {
+      "start": 507.44,
+      "end": 509.44,
+      "text": "Like, oh, I should watch more soccer."
+    },
+    {
+      "start": 509.44,
+      "end": 510.44,
+      "text": "No, it doesn't happen."
+    },
+    {
+      "start": 510.44,
+      "end": 511.44,
+      "text": "Like the whole week."
+    },
+    {
+      "start": 511.44,
+      "end": 512.44,
+      "text": "I'm sure it's great."
+    },
+    {
+      "start": 512.44,
+      "end": 516.44,
+      "text": "I appreciate the quality of play with teams that play together all year."
+    },
+    {
+      "start": 516.44,
+      "end": 517.44,
+      "text": "Whatever."
+    },
+    {
+      "start": 517.44,
+      "end": 518.44,
+      "text": "I get it in theory."
+    },
+    {
+      "start": 518.44,
+      "end": 519.44,
+      "text": "Where you're at."
+    },
+    {
+      "start": 519.44,
+      "end": 520.44,
+      "text": "Okay."
+    },
+    {
+      "start": 520.44,
+      "end": 524.44,
+      "text": "No, I am all in on the eventization of sports."
+    },
+    {
+      "start": 524.44,
+      "end": 525.44,
+      "text": "I love it."
+    },
+    {
+      "start": 525.44,
+      "end": 526.44,
+      "text": "It's like tennis."
+    },
+    {
+      "start": 526.44,
+      "end": 527.44,
+      "text": "I watch the big four."
+    },
+    {
+      "start": 527.44,
+      "end": 529.44,
+      "text": "I don't watch your regular tennis match."
+    },
+    {
+      "start": 529.44,
+      "end": 532.44,
+      "text": "You know, I will watch like the big golf tournaments."
+    },
+    {
+      "start": 532.44,
+      "end": 533.44,
+      "text": "I'm not watching it every week."
+    },
+    {
+      "start": 533.44,
+      "end": 536.44,
+      "text": "I am all in on I want events."
+    },
+    {
+      "start": 536.44,
+      "end": 537.44,
+      "text": "I'm in on the events."
+    },
+    {
+      "start": 537.44,
+      "end": 541.44,
+      "text": "I enjoy the atmosphere around the events, the social media events."
+    },
+    {
+      "start": 541.44,
+      "end": 543.44,
+      "text": "And I don't want to deal with it the rest of the year."
+    },
+    {
+      "start": 543.44,
+      "end": 544.44,
+      "text": "So it's perfect."
+    },
+    {
+      "start": 544.44,
+      "end": 545.44,
+      "text": "There you go."
+    },
+    {
+      "start": 545.44,
+      "end": 547.44,
+      "text": "Well, I would say I'm halfway in on the world cup,"
+    },
+    {
+      "start": 547.44,
+      "end": 549.44,
+      "text": "but all the way in on America."
+    },
+    {
+      "start": 549.44,
+      "end": 552.44,
+      "text": "And I had a great time watching USA's opening match."
+    },
+    {
+      "start": 552.44,
+      "end": 555.44,
+      "text": "And we'll be watching on Friday night in Seattle."
+    },
+    {
+      "start": 555.44,
+      "end": 559.44,
+      "text": "But for now, Ben, we have news to get to."
+    },
+    {
+      "start": 559.44,
+      "end": 562.44,
+      "text": "We did talk anthropic and fable last week."
+    },
+    {
+      "start": 562.44,
+      "end": 566.44,
+      "text": "But as I'm sure 98% of the audience knows by now,"
+    },
+    {
+      "start": 566.44,
+      "end": 570.44,
+      "text": "late Friday afternoon, the commerce department issued an export control directive"
+    },
+    {
+      "start": 570.44,
+      "end": 573.44,
+      "text": "to suspend all access to fable five."
+    },
+    {
+      "start": 573.44,
+      "end": 577.44,
+      "text": "And mythos or mythos by any foreign national,"
+    },
+    {
+      "start": 577.44,
+      "end": 580.44,
+      "text": "whether inside or outside of the United States."
+    },
+    {
+      "start": 580.44,
+      "end": 583.44,
+      "text": "So fable was outside of anthropic indeed."
+    },
+    {
+      "start": 584.44,
+      "end": 586.44,
+      "text": "That was part of the problem as well."
+    },
+    {
+      "start": 586.44,
+      "end": 588.44,
+      "text": "Fable was pulled from the market altogether."
+    },
+    {
+      "start": 588.44,
+      "end": 591.44,
+      "text": "Remains off the market as you noted at the top."
+    },
+    {
+      "start": 591.44,
+      "end": 593.44,
+      "text": "And as we record this Thursday afternoon,"
+    },
+    {
+      "start": 593.44,
+      "end": 595.44,
+      "text": "that directive is in place."
+    },
+    {
+      "start": 595.44,
+      "end": 597.44,
+      "text": "We'll see how much longer it lasts."
+    },
+    {
+      "start": 597.44,
+      "end": 600.44,
+      "text": "What do you think of where we are right now?"
+    },
+    {
+      "start": 600.44,
+      "end": 603.44,
+      "text": "It's kind of a frustrating story to talk and write about"
+    },
+    {
+      "start": 603.44,
+      "end": 607.44,
+      "text": "because on one hand, it's the biggest story in technology."
+    },
+    {
+      "start": 607.44,
+      "end": 612.44,
+      "text": "It also seems like there's a good bit of non-public information"
+    },
+    {
+      "start": 612.44,
+      "end": 614.44,
+      "text": "that's informing behavior here."
+    },
+    {
+      "start": 614.44,
+      "end": 617.44,
+      "text": "So how do you wrap your arms around where we are?"
+    },
+    {
+      "start": 617.44,
+      "end": 620.44,
+      "text": "It's hard to wrap your arms around it in part because what you said."
+    },
+    {
+      "start": 620.44,
+      "end": 622.44,
+      "text": "Like what do we not know?"
+    },
+    {
+      "start": 622.44,
+      "end": 626.44,
+      "text": "It's also hard because everyone in this situation"
+    },
+    {
+      "start": 626.44,
+      "end": 630.44,
+      "text": "is incredibly frustrating to me on a personal level."
+    },
+    {
+      "start": 630.44,
+      "end": 632.44,
+      "text": "Great."
+    },
+    {
+      "start": 632.44,
+      "end": 635.44,
+      "text": "So I actually feel like I almost feel this week."
+    },
+    {
+      "start": 635.44,
+      "end": 639.44,
+      "text": "I took the opportunity to just write about anthropic in general."
+    },
+    {
+      "start": 640.44,
+      "end": 643.44,
+      "text": "We don't need to rehash it because we talked about"
+    },
+    {
+      "start": 643.44,
+      "end": 644.44,
+      "text": "on Sharp Tech last week."
+    },
+    {
+      "start": 644.44,
+      "end": 645.44,
+      "text": "And that was one of those ones."
+    },
+    {
+      "start": 645.44,
+      "end": 646.44,
+      "text": "I actually got a fair number of requests."
+    },
+    {
+      "start": 646.44,
+      "end": 650.44,
+      "text": "Like you need to write this out, this idea of the sort of fusion"
+    },
+    {
+      "start": 650.44,
+      "end": 654.44,
+      "text": "of the safety culture with lots of choices that they make"
+    },
+    {
+      "start": 654.44,
+      "end": 656.44,
+      "text": "that are great for their business."
+    },
+    {
+      "start": 656.44,
+      "end": 658.44,
+      "text": "And like, yeah, what a magical alchemy that is."
+    },
+    {
+      "start": 658.44,
+      "end": 661.44,
+      "text": "And so I wrote that on Monday."
+    },
+    {
+      "start": 661.44,
+      "end": 662.44,
+      "text": "We already covered it last week."
+    },
+    {
+      "start": 662.44,
+      "end": 663.44,
+      "text": "No list of that."
+    },
+    {
+      "start": 663.44,
+      "end": 666.44,
+      "text": "But it was, you know, Fable was a way into that."
+    },
+    {
+      "start": 666.44,
+      "end": 667.44,
+      "text": "And I said it there."
+    },
+    {
+      "start": 667.44,
+      "end": 669.44,
+      "text": "I'm like, I'm not actually going to really talk about this"
+    },
+    {
+      "start": 669.44,
+      "end": 671.44,
+      "text": "because who knows what the heck is going on."
+    },
+    {
+      "start": 671.44,
+      "end": 674.44,
+      "text": "So you, but implicit in that."
+    },
+    {
+      "start": 674.44,
+      "end": 678.44,
+      "text": "And anyone who's been listening to these podcast for miles knows"
+    },
+    {
+      "start": 678.44,
+      "end": 681.44,
+      "text": "is an overall frustration with anthropic"
+    },
+    {
+      "start": 681.44,
+      "end": 686.44,
+      "text": "and a general concern about this company,"
+    },
+    {
+      "start": 686.44,
+      "end": 691.44,
+      "text": "not because they're purposely being bad actors."
+    },
+    {
+      "start": 691.44,
+      "end": 695.44,
+      "text": "But my overarching concern of people who think"
+    },
+    {
+      "start": 695.44,
+      "end": 698.44,
+      "text": "they are the only ones who are trustworthy"
+    },
+    {
+      "start": 698.44,
+      "end": 702.44,
+      "text": "and ought to make decisions for the rest of humanity."
+    },
+    {
+      "start": 702.44,
+      "end": 703.44,
+      "text": "It's just the track record."
+    },
+    {
+      "start": 703.44,
+      "end": 704.44,
+      "text": "It's not."
+    },
+    {
+      "start": 704.44,
+      "end": 705.44,
+      "text": "Yeah, I don't think that word."
+    },
+    {
+      "start": 705.44,
+      "end": 706.44,
+      "text": "I don't think that word."
+    },
+    {
+      "start": 706.44,
+      "end": 711.44,
+      "text": "And that's underlies so much about their sort of posture in general."
+    },
+    {
+      "start": 711.44,
+      "end": 713.44,
+      "text": "I mean, there was like, you're right up on this AI summit"
+    },
+    {
+      "start": 713.44,
+      "end": 715.44,
+      "text": "or whatever that are there to go."
+    },
+    {
+      "start": 715.44,
+      "end": 716.44,
+      "text": "And you could just see that."
+    },
+    {
+      "start": 716.44,
+      "end": 717.44,
+      "text": "And I'm a comment."
+    },
+    {
+      "start": 717.44,
+      "end": 720.44,
+      "text": "It's like, clearly he doesn't trust open AI."
+    },
+    {
+      "start": 720.44,
+      "end": 721.44,
+      "text": "He's like, kind of trust Google."
+    },
+    {
+      "start": 721.44,
+      "end": 723.44,
+      "text": "But it's like, we should decide."
+    },
+    {
+      "start": 723.44,
+      "end": 727.44,
+      "text": "And I think Altman took a much better sort of approach,"
+    },
+    {
+      "start": 727.44,
+      "end": 730.44,
+      "text": "which is, actually, we shouldn't be deciding."
+    },
+    {
+      "start": 730.44,
+      "end": 731.44,
+      "text": "Someone else needs to be deciding."
+    },
+    {
+      "start": 731.44,
+      "end": 735.44,
+      "text": "And I think that, you know, that's closer to my sensibilities."
+    },
+    {
+      "start": 735.44,
+      "end": 736.44,
+      "text": "I would say, say for sure."
+    },
+    {
+      "start": 736.44,
+      "end": 739.44,
+      "text": "So in general, frustrated with anthropic."
+    },
+    {
+      "start": 739.44,
+      "end": 740.44,
+      "text": "Like not just in this case."
+    },
+    {
+      "start": 740.44,
+      "end": 741.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 741.44,
+      "end": 746.44,
+      "text": "At the same time, from what we've been able to garner,"
+    },
+    {
+      "start": 746.44,
+      "end": 749.44,
+      "text": "there's a good chance that actually the administration"
+    },
+    {
+      "start": 749.44,
+      "end": 751.44,
+      "text": "is just being incredibly stupid."
+    },
+    {
+      "start": 752.44,
+      "end": 756.44,
+      "text": "And so I almost feel like I've been a little too hard on anthropic this week"
+    },
+    {
+      "start": 756.44,
+      "end": 759.44,
+      "text": "because from what I can gather,"
+    },
+    {
+      "start": 759.44,
+      "end": 761.44,
+      "text": "and again, who knows, you know,"
+    },
+    {
+      "start": 761.44,
+      "end": 764.44,
+      "text": "we don't have enough details of what's happening about what's not happening."
+    },
+    {
+      "start": 764.44,
+      "end": 768.44,
+      "text": "But there's sort of an Occam's razor explanation here,"
+    },
+    {
+      "start": 768.44,
+      "end": 772.44,
+      "text": "which is the US administration is like,"
+    },
+    {
+      "start": 772.44,
+      "end": 775.44,
+      "text": "stop it from doing this thing."
+    },
+    {
+      "start": 775.44,
+      "end": 776.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 776.44,
+      "end": 779.44,
+      "text": "And anthropics is like, you can't stop it from doing this thing."
+    },
+    {
+      "start": 779.44,
+      "end": 781.44,
+      "text": "That's not how it works."
+    },
+    {
+      "start": 781.44,
+      "end": 782.44,
+      "text": "That's not how it works."
+    },
+    {
+      "start": 782.44,
+      "end": 785.44,
+      "text": "And the example here is,"
+    },
+    {
+      "start": 785.44,
+      "end": 788.44,
+      "text": "what's the difference between"
+    },
+    {
+      "start": 788.44,
+      "end": 790.44,
+      "text": "find the vulnerability in the software"
+    },
+    {
+      "start": 790.44,
+      "end": 794.44,
+      "text": "versus help me patch vulnerabilities in the software?"
+    },
+    {
+      "start": 794.44,
+      "end": 797.44,
+      "text": "It's the exact same request."
+    },
+    {
+      "start": 797.44,
+      "end": 800.44,
+      "text": "And the reality is,"
+    },
+    {
+      "start": 800.44,
+      "end": 802.44,
+      "text": "mythos is clearly, if you get it,"
+    },
+    {
+      "start": 802.44,
+      "end": 804.44,
+      "text": "if you use Fable, you could just feel."
+    },
+    {
+      "start": 804.44,
+      "end": 805.44,
+      "text": "It's clearly ahead."
+    },
+    {
+      "start": 805.44,
+      "end": 806.44,
+      "text": "It's something new."
+    },
+    {
+      "start": 806.44,
+      "end": 807.44,
+      "text": "No one does that."
+    },
+    {
+      "start": 807.44,
+      "end": 809.44,
+      "text": "No one has anything to match it."
+    },
+    {
+      "start": 809.44,
+      "end": 813.44,
+      "text": "But if the sort of history of the last few months,"
+    },
+    {
+      "start": 813.44,
+      "end": 815.44,
+      "text": "slash years continues,"
+    },
+    {
+      "start": 815.44,
+      "end": 820.44,
+      "text": "we're going to have mythos level models in the near future."
+    },
+    {
+      "start": 820.44,
+      "end": 821.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 821.44,
+      "end": 825.44,
+      "text": "And so what is the best possible thing we can do,"
+    },
+    {
+      "start": 825.44,
+      "end": 827.44,
+      "text": "knowing that's coming?"
+    },
+    {
+      "start": 827.44,
+      "end": 831.44,
+      "text": "Everyone needs to be working overtime to patch their vulnerabilities."
+    },
+    {
+      "start": 831.44,
+      "end": 833.44,
+      "text": "And we've been talking about this for several months in sharp tech."
+    },
+    {
+      "start": 833.44,
+      "end": 836.44,
+      "text": "It's going to be a messy few years."
+    },
+    {
+      "start": 836.44,
+      "end": 839.44,
+      "text": "And it feels like there's this sense in the White House"
+    },
+    {
+      "start": 839.44,
+      "end": 842.44,
+      "text": "of trying to patch,"
+    },
+    {
+      "start": 842.44,
+      "end": 844.44,
+      "text": "you know, put your thumb in the dike"
+    },
+    {
+      "start": 844.44,
+      "end": 846.44,
+      "text": "as far as this wave that's coming."
+    },
+    {
+      "start": 846.44,
+      "end": 848.44,
+      "text": "And the reality is,"
+    },
+    {
+      "start": 848.44,
+      "end": 850.44,
+      "text": "is the wave is going to go over the whole wall."
+    },
+    {
+      "start": 850.44,
+      "end": 851.44,
+      "text": "Like it's going,"
+    },
+    {
+      "start": 851.44,
+      "end": 852.44,
+      "text": "it's going to be a mess."
+    },
+    {
+      "start": 852.44,
+      "end": 855.44,
+      "text": "And the best thing we can do is offense is the best defense."
+    },
+    {
+      "start": 855.44,
+      "end": 857.44,
+      "text": "Or I don't know if that's the right analogy here."
+    },
+    {
+      "start": 857.44,
+      "end": 859.44,
+      "text": "But go out there, find stuff,"
+    },
+    {
+      "start": 859.44,
+      "end": 861.44,
+      "text": "work feverishly for the next little bit"
+    },
+    {
+      "start": 861.44,
+      "end": 864.44,
+      "text": "to fix as many vulnerabilities as we can"
+    },
+    {
+      "start": 864.44,
+      "end": 867.44,
+      "text": "before this is truly broadly available."
+    },
+    {
+      "start": 867.44,
+      "end": 870.44,
+      "text": "And every day that this conflict is going on"
+    },
+    {
+      "start": 870.44,
+      "end": 873.44,
+      "text": "are days when people aren't able to do this."
+    },
+    {
+      "start": 873.44,
+      "end": 875.44,
+      "text": "And I think it comes back to,"
+    },
+    {
+      "start": 875.44,
+      "end": 878.44,
+      "text": "and this is where I do bring anthropic back in the conversation,"
+    },
+    {
+      "start": 878.44,
+      "end": 880.44,
+      "text": "how many people in,"
+    },
+    {
+      "start": 880.44,
+      "end": 882.44,
+      "text": "there's some people in the White House for sure,"
+    },
+    {
+      "start": 882.44,
+      "end": 884.44,
+      "text": "that understand how AI works."
+    },
+    {
+      "start": 884.44,
+      "end": 886.44,
+      "text": "But at the highest levels,"
+    },
+    {
+      "start": 886.44,
+      "end": 890.44,
+      "text": "this distinction between a probabilistic piece of software"
+    },
+    {
+      "start": 890.44,
+      "end": 891.44,
+      "text": "versus a deterministic one."
+    },
+    {
+      "start": 891.44,
+      "end": 893.44,
+      "text": "A deterministic one you put in hard rules."
+    },
+    {
+      "start": 893.44,
+      "end": 894.44,
+      "text": "It's like, yeah, deterministic."
+    },
+    {
+      "start": 894.44,
+      "end": 897.44,
+      "text": "You can say you can't make this available"
+    },
+    {
+      "start": 897.44,
+      "end": 899.44,
+      "text": "and this isn't possible."
+    },
+    {
+      "start": 899.44,
+      "end": 901.44,
+      "text": "And you can just like hit some buttons"
+    },
+    {
+      "start": 901.44,
+      "end": 903.44,
+      "text": "to turn off different features"
+    },
+    {
+      "start": 903.44,
+      "end": 905.44,
+      "text": "that create unreasonable risks."
+    },
+    {
+      "start": 905.44,
+      "end": 907.44,
+      "text": "You can't really do that with AI."
+    },
+    {
+      "start": 907.44,
+      "end": 909.44,
+      "text": "Right, that's like the magic of AI, right?"
+    },
+    {
+      "start": 909.44,
+      "end": 911.44,
+      "text": "So the strengths or weaknesses"
+    },
+    {
+      "start": 911.44,
+      "end": 912.44,
+      "text": "that applies to sort of everything."
+    },
+    {
+      "start": 912.44,
+      "end": 914.44,
+      "text": "The reason why AI can,"
+    },
+    {
+      "start": 914.44,
+      "end": 915.44,
+      "text": "is, you know,"
+    },
+    {
+      "start": 915.44,
+      "end": 917.44,
+      "text": "is it truly fully generalizable?"
+    },
+    {
+      "start": 917.44,
+      "end": 920.44,
+      "text": "I think it not as much as sort of the advocates claim,"
+    },
+    {
+      "start": 920.44,
+      "end": 922.44,
+      "text": "but it's pretty darn generalizable."
+    },
+    {
+      "start": 922.44,
+      "end": 924.44,
+      "text": "And the reason it is,"
+    },
+    {
+      "start": 924.44,
+      "end": 927.44,
+      "text": "is precisely because it's not deterministically designed"
+    },
+    {
+      "start": 927.44,
+      "end": 929.44,
+      "text": "to handle every sort of thing."
+    },
+    {
+      "start": 929.44,
+      "end": 931.44,
+      "text": "And we see this in like self-driving cars, right?"
+    },
+    {
+      "start": 931.44,
+      "end": 934.44,
+      "text": "The reason why self-driving cars took forever"
+    },
+    {
+      "start": 934.44,
+      "end": 937.44,
+      "text": "to actually be viable,"
+    },
+    {
+      "start": 937.44,
+      "end": 940.44,
+      "text": "is because people spent years trying to hard code"
+    },
+    {
+      "start": 940.44,
+      "end": 943.44,
+      "text": "every single scenario that a car might encounter."
+    },
+    {
+      "start": 943.44,
+      "end": 946.44,
+      "text": "And yeah, there's so many variables in a car"
+    },
+    {
+      "start": 946.44,
+      "end": 947.44,
+      "text": "that like you can't do that."
+    },
+    {
+      "start": 947.44,
+      "end": 950.44,
+      "text": "What you need to do is you need to have an end-to-end model"
+    },
+    {
+      "start": 950.44,
+      "end": 952.44,
+      "text": "that is basically,"
+    },
+    {
+      "start": 952.44,
+      "end": 954.44,
+      "text": "it's not exactly the same as NLM,"
+    },
+    {
+      "start": 954.44,
+      "end": 957.44,
+      "text": "but it's the same concept of sort of a neural net"
+    },
+    {
+      "start": 957.44,
+      "end": 960.44,
+      "text": "that generalizes from being exposed to tons and tons"
+    },
+    {
+      "start": 960.44,
+      "end": 962.44,
+      "text": "and tons and tons and tons of scenarios"
+    },
+    {
+      "start": 962.44,
+      "end": 964.44,
+      "text": "and develops its own sort of internal heuristics"
+    },
+    {
+      "start": 964.44,
+      "end": 966.44,
+      "text": "and probability distributions"
+    },
+    {
+      "start": 966.44,
+      "end": 968.44,
+      "text": "such that when something new happens,"
+    },
+    {
+      "start": 968.44,
+      "end": 970.44,
+      "text": "it kind of knows how to react"
+    },
+    {
+      "start": 970.44,
+      "end": 972.44,
+      "text": "without being told what to do."
+    },
+    {
+      "start": 972.44,
+      "end": 974.44,
+      "text": "And you think about this,"
+    },
+    {
+      "start": 974.44,
+      "end": 976.44,
+      "text": "it's not just that it's not deterministic,"
+    },
+    {
+      "start": 976.44,
+      "end": 979.44,
+      "text": "it's that putting in deterministic rules"
+    },
+    {
+      "start": 979.44,
+      "end": 983.44,
+      "text": "into that functionality makes it worse in many respects"
+    },
+    {
+      "start": 983.44,
+      "end": 986.44,
+      "text": "because you're actually limiting it artificially"
+    },
+    {
+      "start": 986.44,
+      "end": 989.44,
+      "text": "in its capability to understand different situations"
+    },
+    {
+      "start": 989.44,
+      "end": 993.44,
+      "text": "and we're just moving into this fundamentally new paradigm."
+    },
+    {
+      "start": 993.44,
+      "end": 995.44,
+      "text": "That's totally different"
+    },
+    {
+      "start": 995.44,
+      "end": 997.44,
+      "text": "and it's really easy for people to look at AI"
+    },
+    {
+      "start": 997.44,
+      "end": 999.44,
+      "text": "as a fancy search engine."
+    },
+    {
+      "start": 999.44,
+      "end": 1000.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 1000.44,
+      "end": 1002.44,
+      "text": "We had this conversation a few years ago."
+    },
+    {
+      "start": 1002.44,
+      "end": 1004.44,
+      "text": "We used AI for the greatest of all talk."
+    },
+    {
+      "start": 1004.44,
+      "end": 1005.44,
+      "text": "Looked up some stats."
+    },
+    {
+      "start": 1005.44,
+      "end": 1006.44,
+      "text": "Oh, yeah."
+    },
+    {
+      "start": 1006.44,
+      "end": 1008.44,
+      "text": "Which by the way,"
+    },
+    {
+      "start": 1008.44,
+      "end": 1011.44,
+      "text": "it's gotten a lot better at pulling recent stats"
+    },
+    {
+      "start": 1011.44,
+      "end": 1012.44,
+      "text": "and everything else."
+    },
+    {
+      "start": 1012.44,
+      "end": 1015.44,
+      "text": "It's a lot more accurate than it was two and a half years ago,"
+    },
+    {
+      "start": 1015.44,
+      "end": 1018.44,
+      "text": "but indeed it's a different sort of tool"
+    },
+    {
+      "start": 1018.44,
+      "end": 1020.44,
+      "text": "than traditional Google."
+    },
+    {
+      "start": 1020.44,
+      "end": 1021.44,
+      "text": "Right."
+    },
+    {
+      "start": 1021.44,
+      "end": 1022.44,
+      "text": "And what I told you at the time was like,"
+    },
+    {
+      "start": 1022.44,
+      "end": 1024.44,
+      "text": "no, that's the exact wrong function"
+    },
+    {
+      "start": 1024.44,
+      "end": 1025.44,
+      "text": "that you're trying to do."
+    },
+    {
+      "start": 1025.44,
+      "end": 1026.44,
+      "text": "Right?"
+    },
+    {
+      "start": 1026.44,
+      "end": 1029.44,
+      "text": "And so it's the worst thing you could use Chatchy PT for."
+    },
+    {
+      "start": 1029.44,
+      "end": 1031.44,
+      "text": "Well, this gets into also like"
+    },
+    {
+      "start": 1031.44,
+      "end": 1034.44,
+      "text": "there's so many issues that or so many concepts"
+    },
+    {
+      "start": 1034.44,
+      "end": 1035.44,
+      "text": "that flow out of this."
+    },
+    {
+      "start": 1035.44,
+      "end": 1037.44,
+      "text": "Like what's a point that I've made again and again"
+    },
+    {
+      "start": 1037.44,
+      "end": 1040.44,
+      "text": "is actually a lot of the, you know,"
+    },
+    {
+      "start": 1040.44,
+      "end": 1043.44,
+      "text": "what is the shape of the crash going to look like"
+    },
+    {
+      "start": 1043.44,
+      "end": 1044.44,
+      "text": "or the bubble popping?"
+    },
+    {
+      "start": 1044.44,
+      "end": 1047.44,
+      "text": "What it's going to look like is people attempting"
+    },
+    {
+      "start": 1047.44,
+      "end": 1050.44,
+      "text": "to plaster on AI to existing workflows"
+    },
+    {
+      "start": 1050.44,
+      "end": 1053.44,
+      "text": "that were built around a certain way of computing"
+    },
+    {
+      "start": 1053.44,
+      "end": 1056.44,
+      "text": "being frustrated and it continually doesn't work."
+    },
+    {
+      "start": 1056.44,
+      "end": 1059.44,
+      "text": "And then what's going to actually happen"
+    },
+    {
+      "start": 1059.44,
+      "end": 1062.44,
+      "text": "is people are going to completely rethink approaches."
+    },
+    {
+      "start": 1062.44,
+      "end": 1065.44,
+      "text": "This idea of moving from putting advertising"
+    },
+    {
+      "start": 1065.44,
+      "end": 1067.44,
+      "text": "next to an article to a feed."
+    },
+    {
+      "start": 1067.44,
+      "end": 1070.44,
+      "text": "Like the AI companies built a top"
+    },
+    {
+      "start": 1070.44,
+      "end": 1072.44,
+      "text": "this technology to take advantage of it."
+    },
+    {
+      "start": 1072.44,
+      "end": 1073.44,
+      "text": "That's right."
+    },
+    {
+      "start": 1073.44,
+      "end": 1077.44,
+      "text": "And so the challenge is this takes years."
+    },
+    {
+      "start": 1077.44,
+      "end": 1079.44,
+      "text": "It takes a long time for people"
+    },
+    {
+      "start": 1079.44,
+      "end": 1082.44,
+      "text": "to even reset their expectations of what's possible"
+    },
+    {
+      "start": 1082.44,
+      "end": 1084.44,
+      "text": "and what this means."
+    },
+    {
+      "start": 1084.44,
+      "end": 1086.44,
+      "text": "And in the meantime, what we do have"
+    },
+    {
+      "start": 1086.44,
+      "end": 1089.44,
+      "text": "is this ability to look at code bases,"
+    },
+    {
+      "start": 1089.44,
+      "end": 1092.44,
+      "text": "find vulnerabilities and exploit them"
+    },
+    {
+      "start": 1092.44,
+      "end": 1095.44,
+      "text": "basically autonomous hack the planet,"
+    },
+    {
+      "start": 1095.44,
+      "end": 1097.44,
+      "text": "just like hackers, great movie."
+    },
+    {
+      "start": 1097.44,
+      "end": 1100.44,
+      "text": "So to anchor people in this take,"
+    },
+    {
+      "start": 1100.44,
+      "end": 1103.44,
+      "text": "I think a lot of this springs from the report"
+    },
+    {
+      "start": 1103.44,
+      "end": 1106.44,
+      "text": "that Amazon was able to jailbreak"
+    },
+    {
+      "start": 1106.44,
+      "end": 1108.44,
+      "text": "fable and race."
+    },
+    {
+      "start": 1108.44,
+      "end": 1111.44,
+      "text": "But no one knows for sure what this jailbreak is, right?"
+    },
+    {
+      "start": 1111.44,
+      "end": 1113.44,
+      "text": "There's this analyst researcher"
+    },
+    {
+      "start": 1113.44,
+      "end": 1115.44,
+      "text": "that saw a report from Anthropics."
+    },
+    {
+      "start": 1115.44,
+      "end": 1117.44,
+      "text": "So this is all Anthropics spin to be queer."
+    },
+    {
+      "start": 1117.44,
+      "end": 1119.44,
+      "text": "Who characterized it as a very basic"
+    },
+    {
+      "start": 1119.44,
+      "end": 1122.44,
+      "text": "like just slightly changed your wording"
+    },
+    {
+      "start": 1122.44,
+      "end": 1124.44,
+      "text": "and now it's looking for vulnerabilities,"
+    },
+    {
+      "start": 1124.44,
+      "end": 1126.44,
+      "text": "which I think, again,"
+    },
+    {
+      "start": 1126.44,
+      "end": 1128.44,
+      "text": "it's an Occam's razor explanation."
+    },
+    {
+      "start": 1128.44,
+      "end": 1130.44,
+      "text": "It's actually very,"
+    },
+    {
+      "start": 1130.44,
+      "end": 1132.44,
+      "text": "you could believe that would happen."
+    },
+    {
+      "start": 1132.44,
+      "end": 1133.44,
+      "text": "And then Anthropics saying,"
+    },
+    {
+      "start": 1133.44,
+      "end": 1135.44,
+      "text": "well, look, that's very minor."
+    },
+    {
+      "start": 1135.44,
+      "end": 1136.44,
+      "text": "You can't stop that."
+    },
+    {
+      "start": 1136.44,
+      "end": 1138.44,
+      "text": "And then what else being?"
+    },
+    {
+      "start": 1138.44,
+      "end": 1140.44,
+      "text": "You guys doing it again."
+    },
+    {
+      "start": 1140.44,
+      "end": 1141.44,
+      "text": "We're just asking you to stop it."
+    },
+    {
+      "start": 1141.44,
+      "end": 1142.44,
+      "text": "And you won't stop it."
+    },
+    {
+      "start": 1142.44,
+      "end": 1144.44,
+      "text": "And that's where Anthropics at fault."
+    },
+    {
+      "start": 1145.44,
+      "end": 1149.44,
+      "text": "They've created the conditions of mistrust"
+    },
+    {
+      "start": 1149.44,
+      "end": 1150.44,
+      "text": "with the administration."
+    },
+    {
+      "start": 1150.44,
+      "end": 1152.44,
+      "text": "And also though, like,"
+    },
+    {
+      "start": 1152.44,
+      "end": 1155.44,
+      "text": "is the core issue for Anthropic"
+    },
+    {
+      "start": 1155.44,
+      "end": 1158.44,
+      "text": "that the way they discuss AI risk"
+    },
+    {
+      "start": 1158.44,
+      "end": 1161.44,
+      "text": "then creates unreasonable expectations."
+    },
+    {
+      "start": 1161.44,
+      "end": 1162.44,
+      "text": "Of course, the whole myth"
+    },
+    {
+      "start": 1162.44,
+      "end": 1164.44,
+      "text": "those roll out about this is like,"
+    },
+    {
+      "start": 1164.44,
+      "end": 1166.44,
+      "text": "like they go fond for years"
+    },
+    {
+      "start": 1166.44,
+      "end": 1169.44,
+      "text": "talking about AI is like nuclear weapons."
+    },
+    {
+      "start": 1169.44,
+      "end": 1172.44,
+      "text": "Then they have this huge project glass wing."
+    },
+    {
+      "start": 1172.44,
+      "end": 1173.44,
+      "text": "We're going to be like,"
+    },
+    {
+      "start": 1173.44,
+      "end": 1175.44,
+      "text": "this is way too dangerous to release."
+    },
+    {
+      "start": 1175.44,
+      "end": 1177.44,
+      "text": "We're going to secure the banks."
+    },
+    {
+      "start": 1177.44,
+      "end": 1178.44,
+      "text": "It's a clear that they tech companies."
+    },
+    {
+      "start": 1178.44,
+      "end": 1180.44,
+      "text": "And then like two months later,"
+    },
+    {
+      "start": 1180.44,
+      "end": 1182.44,
+      "text": "okay, everyone can use it now."
+    },
+    {
+      "start": 1182.44,
+      "end": 1183.44,
+      "text": "And then you turn around."
+    },
+    {
+      "start": 1183.44,
+      "end": 1186.44,
+      "text": "And like you're creating the conditions"
+    },
+    {
+      "start": 1186.44,
+      "end": 1189.44,
+      "text": "for this expectation of perfect security,"
+    },
+    {
+      "start": 1189.44,
+      "end": 1193.44,
+      "text": "given how dangerous this weapon is for the whole world."
+    },
+    {
+      "start": 1193.44,
+      "end": 1195.44,
+      "text": "And we're going to be very careful."
+    },
+    {
+      "start": 1195.44,
+      "end": 1197.44,
+      "text": "And then when it's revealed that actually"
+    },
+    {
+      "start": 1197.44,
+      "end": 1201.44,
+      "text": "you can't possibly paper over every possible risk"
+    },
+    {
+      "start": 1201.44,
+      "end": 1203.44,
+      "text": "that arises from this technology,"
+    },
+    {
+      "start": 1203.44,
+      "end": 1205.44,
+      "text": "other people have been paying attention,"
+    },
+    {
+      "start": 1205.44,
+      "end": 1208.44,
+      "text": "freak out and start to try to take back control."
+    },
+    {
+      "start": 1208.44,
+      "end": 1210.44,
+      "text": "It seems like that's some of what's happened here."
+    },
+    {
+      "start": 1210.44,
+      "end": 1212.44,
+      "text": "Yeah, the problem is that this is very,"
+    },
+    {
+      "start": 1212.44,
+      "end": 1214.44,
+      "text": "like I'm not minimizing the risk."
+    },
+    {
+      "start": 1214.44,
+      "end": 1215.44,
+      "text": "It's actually quite scary."
+    },
+    {
+      "start": 1215.44,
+      "end": 1217.44,
+      "text": "Like almost all software on the web"
+    },
+    {
+      "start": 1217.44,
+      "end": 1219.44,
+      "text": "is like we insecure."
+    },
+    {
+      "start": 1219.44,
+      "end": 1220.44,
+      "text": "Like just,"
+    },
+    {
+      "start": 1220.44,
+      "end": 1222.44,
+      "text": "and if,"
+    },
+    {
+      "start": 1222.44,
+      "end": 1224.44,
+      "text": "but the problem is that you're not going to"
+    },
+    {
+      "start": 1224.44,
+      "end": 1227.44,
+      "text": "foreclose that forever."
+    },
+    {
+      "start": 1227.44,
+      "end": 1228.44,
+      "text": "Entirely, no."
+    },
+    {
+      "start": 1229.44,
+      "end": 1232.44,
+      "text": "What is the administration buying with this?"
+    },
+    {
+      "start": 1232.44,
+      "end": 1235.44,
+      "text": "Weeks or months, maybe a year."
+    },
+    {
+      "start": 1235.44,
+      "end": 1236.44,
+      "text": "Okay."
+    },
+    {
+      "start": 1236.44,
+      "end": 1238.44,
+      "text": "And the best way to solve the,"
+    },
+    {
+      "start": 1238.44,
+      "end": 1240.44,
+      "text": "the only way to solve the security problem"
+    },
+    {
+      "start": 1240.44,
+      "end": 1242.44,
+      "text": "is to go through it,"
+    },
+    {
+      "start": 1242.44,
+      "end": 1245.44,
+      "text": "is to actually work and patch stuff like crazy."
+    },
+    {
+      "start": 1245.44,
+      "end": 1246.44,
+      "text": "And by the way,"
+    },
+    {
+      "start": 1246.44,
+      "end": 1248.44,
+      "text": "the defenders have an advantage."
+    },
+    {
+      "start": 1248.44,
+      "end": 1250.44,
+      "text": "They have the code."
+    },
+    {
+      "start": 1250.44,
+      "end": 1251.44,
+      "text": "They can,"
+    },
+    {
+      "start": 1251.44,
+      "end": 1253.44,
+      "text": "they can examine their code bases."
+    },
+    {
+      "start": 1253.44,
+      "end": 1255.44,
+      "text": "They can fix the problems."
+    },
+    {
+      "start": 1255.44,
+      "end": 1257.44,
+      "text": "Even if you're attacking something from the outside,"
+    },
+    {
+      "start": 1257.44,
+      "end": 1259.44,
+      "text": "it's a little bit more of a challenge."
+    },
+    {
+      "start": 1259.44,
+      "end": 1260.44,
+      "text": "It's more obfuscated."
+    },
+    {
+      "start": 1260.44,
+      "end": 1263.44,
+      "text": "You have to sort of figure it out."
+    },
+    {
+      "start": 1263.44,
+      "end": 1268.44,
+      "text": "And the goal here needs to be to map,"
+    },
+    {
+      "start": 1268.44,
+      "end": 1271.44,
+      "text": "like the Manhattan project we need"
+    },
+    {
+      "start": 1271.44,
+      "end": 1273.44,
+      "text": "is a whole scale."
+    },
+    {
+      "start": 1273.44,
+      "end": 1276.44,
+      "text": "Let's go through all this code on the web,"
+    },
+    {
+      "start": 1276.44,
+      "end": 1278.44,
+      "text": "all these open source projects."
+    },
+    {
+      "start": 1278.44,
+      "end": 1279.44,
+      "text": "Wishtwenthropics credit,"
+    },
+    {
+      "start": 1279.44,
+      "end": 1280.44,
+      "text": "they did do that,"
+    },
+    {
+      "start": 1280.44,
+      "end": 1283.44,
+      "text": "that's project-glasswing sort of aspect."
+    },
+    {
+      "start": 1283.44,
+      "end": 1285.44,
+      "text": "But,"
+    },
+    {
+      "start": 1286.44,
+      "end": 1288.44,
+      "text": "we're just not there."
+    },
+    {
+      "start": 1288.44,
+      "end": 1289.44,
+      "text": "There's, there's,"
+    },
+    {
+      "start": 1289.44,
+      "end": 1292.44,
+      "text": "there's just not an acceptance of this reality."
+    },
+    {
+      "start": 1292.44,
+      "end": 1293.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 1293.44,
+      "end": 1294.44,
+      "text": "Well, Michael says,"
+    },
+    {
+      "start": 1294.44,
+      "end": 1297.44,
+      "text": "if Ben's going to get so outraged about Anthropics actions,"
+    },
+    {
+      "start": 1297.44,
+      "end": 1300.44,
+      "text": "even when he believes the safety threat is real,"
+    },
+    {
+      "start": 1300.44,
+      "end": 1302.44,
+      "text": "I'd love to hear a positive vision"
+    },
+    {
+      "start": 1302.44,
+      "end": 1303.44,
+      "text": "for what they should be doing"
+    },
+    {
+      "start": 1303.44,
+      "end": 1305.44,
+      "text": "to address safety concerns"
+    },
+    {
+      "start": 1305.44,
+      "end": 1307.44,
+      "text": "that wouldn't be self-serving."
+    },
+    {
+      "start": 1307.44,
+      "end": 1309.44,
+      "text": "I agree with Ben's analysis"
+    },
+    {
+      "start": 1309.44,
+      "end": 1312.44,
+      "text": "about this being a convenient source of cultural alignment"
+    },
+    {
+      "start": 1312.44,
+      "end": 1314.44,
+      "text": "with the business incentives."
+    },
+    {
+      "start": 1314.44,
+      "end": 1316.44,
+      "text": "I just don't have a problem with it."
+    },
+    {
+      "start": 1316.44,
+      "end": 1317.44,
+      "text": "What am I missing?"
+    },
+    {
+      "start": 1317.44,
+      "end": 1321.44,
+      "text": "So if you were running policy at Anthropic,"
+    },
+    {
+      "start": 1321.44,
+      "end": 1323.44,
+      "text": "what would you advise them to do"
+    },
+    {
+      "start": 1323.44,
+      "end": 1325.44,
+      "text": "to handle some of the safety risks?"
+    },
+    {
+      "start": 1325.44,
+      "end": 1328.44,
+      "text": "The problem I have with Anthropic"
+    },
+    {
+      "start": 1328.44,
+      "end": 1331.44,
+      "text": "is the implicit and sometimes explicit,"
+    },
+    {
+      "start": 1331.44,
+      "end": 1334.44,
+      "text": "only we can handle this."
+    },
+    {
+      "start": 1334.44,
+      "end": 1336.44,
+      "text": "Only we are responsible."
+    },
+    {
+      "start": 1336.44,
+      "end": 1339.44,
+      "text": "Only we are properly concerned about the dangers."
+    },
+    {
+      "start": 1339.44,
+      "end": 1341.44,
+      "text": "It's that exclusivity"
+    },
+    {
+      "start": 1341.44,
+      "end": 1344.44,
+      "text": "that is in what's implicit in that"
+    },
+    {
+      "start": 1344.44,
+      "end": 1347.44,
+      "text": "is only we should control AI."
+    },
+    {
+      "start": 1347.44,
+      "end": 1349.44,
+      "text": "Combined with the rhetoric of AI"
+    },
+    {
+      "start": 1349.44,
+      "end": 1351.44,
+      "text": "is going to run the world."
+    },
+    {
+      "start": 1351.44,
+      "end": 1354.44,
+      "text": "People got mad at the sentence in my article,"
+    },
+    {
+      "start": 1354.44,
+      "end": 1356.44,
+      "text": "but it's just a logical construction."
+    },
+    {
+      "start": 1356.44,
+      "end": 1358.44,
+      "text": "If A equals B and B equals C,"
+    },
+    {
+      "start": 1358.44,
+      "end": 1359.44,
+      "text": "then A equals C."
+    },
+    {
+      "start": 1359.44,
+      "end": 1361.44,
+      "text": "I'm like, they want to run the world."
+    },
+    {
+      "start": 1361.44,
+      "end": 1364.44,
+      "text": "Like, that's the implication"
+    },
+    {
+      "start": 1364.44,
+      "end": 1366.44,
+      "text": "of saying we should run AI"
+    },
+    {
+      "start": 1366.44,
+      "end": 1369.44,
+      "text": "and AI is going to run the world."
+    },
+    {
+      "start": 1369.44,
+      "end": 1372.44,
+      "text": "I mean, how explicitly have they ever said"
+    },
+    {
+      "start": 1372.44,
+      "end": 1373.44,
+      "text": "we should run AI?"
+    },
+    {
+      "start": 1373.44,
+      "end": 1375.44,
+      "text": "Is it more inferring from their behavior?"
+    },
+    {
+      "start": 1375.44,
+      "end": 1376.44,
+      "text": "I mean, yeah."
+    },
+    {
+      "start": 1376.44,
+      "end": 1377.44,
+      "text": "What behavior?"
+    },
+    {
+      "start": 1377.44,
+      "end": 1378.44,
+      "text": "And I think they're rhetoric."
+    },
+    {
+      "start": 1378.44,
+      "end": 1379.44,
+      "text": "They clearly don't think"
+    },
+    {
+      "start": 1379.44,
+      "end": 1380.44,
+      "text": "about much of running AI."
+    },
+    {
+      "start": 1380.44,
+      "end": 1381.44,
+      "text": "That's for sure."
+    },
+    {
+      "start": 1381.44,
+      "end": 1382.44,
+      "text": "That's true."
+    },
+    {
+      "start": 1382.44,
+      "end": 1384.44,
+      "text": "Which by the way, I completely agree."
+    },
+    {
+      "start": 1384.44,
+      "end": 1386.44,
+      "text": "And it sounds like,"
+    },
+    {
+      "start": 1386.44,
+      "end": 1387.44,
+      "text": "to Sam's credit,"
+    },
+    {
+      "start": 1387.44,
+      "end": 1390.44,
+      "text": "it sounds like even Sam agrees on that point."
+    },
+    {
+      "start": 1390.44,
+      "end": 1393.44,
+      "text": "Well, he's cleaned up his rhetoric a lot."
+    },
+    {
+      "start": 1393.44,
+      "end": 1394.44,
+      "text": "I think there's a,"
+    },
+    {
+      "start": 1394.44,
+      "end": 1395.44,
+      "text": "there was a real,"
+    },
+    {
+      "start": 1395.44,
+      "end": 1398.44,
+      "text": "a lot of bad rhetoric that came,"
+    },
+    {
+      "start": 1398.44,
+      "end": 1399.44,
+      "text": "and this is the challenge,"
+    },
+    {
+      "start": 1399.44,
+      "end": 1400.44,
+      "text": "because people are like,"
+    },
+    {
+      "start": 1400.44,
+      "end": 1403.44,
+      "text": "look, why should they not talk about like jobs upheaval?"
+    },
+    {
+      "start": 1403.44,
+      "end": 1406.44,
+      "text": "And no, there's the opposite mistake,"
+    },
+    {
+      "start": 1406.44,
+      "end": 1409.44,
+      "text": "which is to say nothing is going to happen,"
+    },
+    {
+      "start": 1409.44,
+      "end": 1411.44,
+      "text": "and where you're basically lying through your teeth."
+    },
+    {
+      "start": 1411.44,
+      "end": 1413.44,
+      "text": "Like, and I think there's an aspect"
+    },
+    {
+      "start": 1413.44,
+      "end": 1415.44,
+      "text": "of that in Silicon Valley"
+    },
+    {
+      "start": 1415.44,
+      "end": 1417.44,
+      "text": "that is like nothing that is not going to,"
+    },
+    {
+      "start": 1417.44,
+      "end": 1419.44,
+      "text": "no, it is going to be disruptive."
+    },
+    {
+      "start": 1419.44,
+      "end": 1421.44,
+      "text": "Now, we might not know exactly"
+    },
+    {
+      "start": 1421.44,
+      "end": 1422.44,
+      "text": "how it's going to be disruptive."
+    },
+    {
+      "start": 1422.44,
+      "end": 1424.44,
+      "text": "There's no, you go back to the internet."
+    },
+    {
+      "start": 1424.44,
+      "end": 1426.44,
+      "text": "The internet was incredibly disruptive."
+    },
+    {
+      "start": 1426.44,
+      "end": 1427.44,
+      "text": "Right."
+    },
+    {
+      "start": 1427.44,
+      "end": 1429.44,
+      "text": "Like the entire structure of society,"
+    },
+    {
+      "start": 1429.44,
+      "end": 1430.44,
+      "text": "25 years,"
+    },
+    {
+      "start": 1430.44,
+      "end": 1433.44,
+      "text": "we were the frogs in the boiling water for a while there."
+    },
+    {
+      "start": 1433.44,
+      "end": 1436.44,
+      "text": "The administration is the Trump administration,"
+    },
+    {
+      "start": 1436.44,
+      "end": 1438.44,
+      "text": "which is directly downstream"
+    },
+    {
+      "start": 1438.44,
+      "end": 1439.44,
+      "text": "from the structural changes"
+    },
+    {
+      "start": 1439.44,
+      "end": 1441.44,
+      "text": "wrought by the internet."
+    },
+    {
+      "start": 1441.44,
+      "end": 1442.44,
+      "text": "And what it did to media."
+    },
+    {
+      "start": 1442.44,
+      "end": 1443.44,
+      "text": "And like, so,"
+    },
+    {
+      "start": 1443.44,
+      "end": 1444.44,
+      "text": "the, you know,"
+    },
+    {
+      "start": 1444.44,
+      "end": 1447.44,
+      "text": "imagine going back to 1993 or whatever"
+    },
+    {
+      "start": 1447.44,
+      "end": 1448.44,
+      "text": "when the world,"
+    },
+    {
+      "start": 1448.44,
+      "end": 1449.44,
+      "text": "web comes out and say,"
+    },
+    {
+      "start": 1449.44,
+      "end": 1451.44,
+      "text": "this is going to lead to Donald Trump being president, right?"
+    },
+    {
+      "start": 1451.44,
+      "end": 1452.44,
+      "text": "Like,"
+    },
+    {
+      "start": 1452.44,
+      "end": 1453.44,
+      "text": "it's,"
+    },
+    {
+      "start": 1453.44,
+      "end": 1454.44,
+      "text": "it would have blown people's minds."
+    },
+    {
+      "start": 1454.44,
+      "end": 1455.44,
+      "text": "AI is going to be,"
+    },
+    {
+      "start": 1455.44,
+      "end": 1456.44,
+      "text": "are you believe even bigger?"
+    },
+    {
+      "start": 1457.44,
+      "end": 1459.44,
+      "text": "But part of the problem is the,"
+    },
+    {
+      "start": 1459.44,
+      "end": 1461.44,
+      "text": "the certainty and prescriptiveness"
+    },
+    {
+      "start": 1461.44,
+      "end": 1462.44,
+      "text": "of what's going to happen."
+    },
+    {
+      "start": 1462.44,
+      "end": 1463.44,
+      "text": "There's,"
+    },
+    {
+      "start": 1463.44,
+      "end": 1465.44,
+      "text": "there's an aspect of things are going to change."
+    },
+    {
+      "start": 1465.44,
+      "end": 1470.44,
+      "text": "And I think everyone could do with a little more doubt."
+    },
+    {
+      "start": 1470.44,
+      "end": 1471.44,
+      "text": "What's the word I'm looking for?"
+    },
+    {
+      "start": 1471.44,
+      "end": 1472.44,
+      "text": "Epistemic doubt?"
+    },
+    {
+      "start": 1472.44,
+      "end": 1473.44,
+      "text": "Humility about like,"
+    },
+    {
+      "start": 1473.44,
+      "end": 1474.44,
+      "text": "you know,"
+    },
+    {
+      "start": 1474.44,
+      "end": 1476.44,
+      "text": "we don't know what's going to happen."
+    },
+    {
+      "start": 1476.44,
+      "end": 1480.44,
+      "text": "This idea of just explaining"
+    },
+    {
+      "start": 1480.44,
+      "end": 1482.44,
+      "text": "why this is different,"
+    },
+    {
+      "start": 1482.44,
+      "end": 1484.44,
+      "text": "appreciating that,"
+    },
+    {
+      "start": 1484.44,
+      "end": 1487.44,
+      "text": "just because you understand AI"
+    },
+    {
+      "start": 1487.44,
+      "end": 1488.44,
+      "text": "and other people don't,"
+    },
+    {
+      "start": 1488.44,
+      "end": 1490.44,
+      "text": "doesn't necessarily one"
+    },
+    {
+      "start": 1490.44,
+      "end": 1491.44,
+      "text": "mean you're smarter than them,"
+    },
+    {
+      "start": 1491.44,
+      "end": 1493.44,
+      "text": "although often you are to be fair."
+    },
+    {
+      "start": 1493.44,
+      "end": 1494.44,
+      "text": "Or two,"
+    },
+    {
+      "start": 1494.44,
+      "end": 1497.44,
+      "text": "that you know everything about everything"
+    },
+    {
+      "start": 1497.44,
+      "end": 1498.44,
+      "text": "because of this,"
+    },
+    {
+      "start": 1498.44,
+      "end": 1499.44,
+      "text": "this factor, right?"
+    },
+    {
+      "start": 1499.44,
+      "end": 1500.44,
+      "text": "Like,"
+    },
+    {
+      "start": 1500.44,
+      "end": 1501.44,
+      "text": "it's hard to imagine."
+    },
+    {
+      "start": 1501.44,
+      "end": 1502.44,
+      "text": "This is,"
+    },
+    {
+      "start": 1502.44,
+      "end": 1503.44,
+      "text": "you know,"
+    },
+    {
+      "start": 1503.44,
+      "end": 1504.44,
+      "text": "this is in my head."
+    },
+    {
+      "start": 1504.44,
+      "end": 1505.44,
+      "text": "So this isn't like,"
+    },
+    {
+      "start": 1505.44,
+      "end": 1506.44,
+      "text": "anything."
+    },
+    {
+      "start": 1506.44,
+      "end": 1507.44,
+      "text": "It's hard to imagine"
+    },
+    {
+      "start": 1507.44,
+      "end": 1508.44,
+      "text": "and thropic."
+    },
+    {
+      "start": 1508.44,
+      "end": 1511.44,
+      "text": "You've been in conversations with people"
+    },
+    {
+      "start": 1511.44,
+      "end": 1514.44,
+      "text": "where they're explaining something to you."
+    },
+    {
+      "start": 1514.44,
+      "end": 1518.44,
+      "text": "And their tone and approach"
+    },
+    {
+      "start": 1518.44,
+      "end": 1521.44,
+      "text": "is so patronizing."
+    },
+    {
+      "start": 1521.44,
+      "end": 1522.44,
+      "text": "And like,"
+    },
+    {
+      "start": 1522.44,
+      "end": 1523.44,
+      "text": "it's just like,"
+    },
+    {
+      "start": 1523.44,
+      "end": 1524.44,
+      "text": "it's just infuriating"
+    },
+    {
+      "start": 1524.44,
+      "end": 1525.44,
+      "text": "and you're like,"
+    },
+    {
+      "start": 1525.44,
+      "end": 1526.44,
+      "text": "screw this guy."
+    },
+    {
+      "start": 1526.44,
+      "end": 1528.44,
+      "text": "Are you describing conversations"
+    },
+    {
+      "start": 1528.44,
+      "end": 1529.44,
+      "text": "that you and I have had"
+    },
+    {
+      "start": 1529.44,
+      "end": 1531.44,
+      "text": "about various consumer technology"
+    },
+    {
+      "start": 1531.44,
+      "end": 1533.44,
+      "text": "that you demand that I adopt?"
+    },
+    {
+      "start": 1533.44,
+      "end": 1535.44,
+      "text": "And then I stubbornly refuse to."
+    },
+    {
+      "start": 1535.44,
+      "end": 1536.44,
+      "text": "Right."
+    },
+    {
+      "start": 1536.44,
+      "end": 1537.44,
+      "text": "And you want to punch me in the face?"
+    },
+    {
+      "start": 1537.44,
+      "end": 1538.44,
+      "text": "So I guess,"
+    },
+    {
+      "start": 1538.44,
+      "end": 1540.44,
+      "text": "so maybe I can identify this attitude"
+    },
+    {
+      "start": 1540.44,
+      "end": 1542.44,
+      "text": "because I could personify it at times."
+    },
+    {
+      "start": 1542.44,
+      "end": 1543.44,
+      "text": "That's a fair pushback."
+    },
+    {
+      "start": 1543.44,
+      "end": 1546.44,
+      "text": "And I think the e-mailer"
+    },
+    {
+      "start": 1546.44,
+      "end": 1548.44,
+      "text": "does have his finger on something."
+    },
+    {
+      "start": 1548.44,
+      "end": 1549.44,
+      "text": "It's,"
+    },
+    {
+      "start": 1549.44,
+      "end": 1551.44,
+      "text": "when I was at Microsoft,"
+    },
+    {
+      "start": 1551.44,
+      "end": 1554.44,
+      "text": "I remember I never got promoted"
+    },
+    {
+      "start": 1554.44,
+      "end": 1558.44,
+      "text": "and I was very frustrated about it."
+    },
+    {
+      "start": 1558.44,
+      "end": 1559.44,
+      "text": "And like,"
+    },
+    {
+      "start": 1559.44,
+      "end": 1560.44,
+      "text": "I was doing,"
+    },
+    {
+      "start": 1560.44,
+      "end": 1562.44,
+      "text": "I ended up on this team where I was actually,"
+    },
+    {
+      "start": 1562.44,
+      "end": 1563.44,
+      "text": "I was level 61"
+    },
+    {
+      "start": 1563.44,
+      "end": 1565.44,
+      "text": "and everyone else in team was level 63."
+    },
+    {
+      "start": 1565.44,
+      "end": 1566.44,
+      "text": "And I was doing all the work"
+    },
+    {
+      "start": 1566.44,
+      "end": 1567.44,
+      "text": "and I'm like,"
+    },
+    {
+      "start": 1567.44,
+      "end": 1568.44,
+      "text": "well,"
+    },
+    {
+      "start": 1569.44,
+      "end": 1571.44,
+      "text": "but my feedback was the one piece of feedback"
+    },
+    {
+      "start": 1571.44,
+      "end": 1573.44,
+      "text": "I remember getting at my year review"
+    },
+    {
+      "start": 1573.44,
+      "end": 1575.44,
+      "text": "or something like that was"
+    },
+    {
+      "start": 1575.44,
+      "end": 1577.44,
+      "text": "you're what is excellent?"
+    },
+    {
+      "start": 1577.44,
+      "end": 1580.44,
+      "text": "You're how needs a lot of work."
+    },
+    {
+      "start": 1580.44,
+      "end": 1584.44,
+      "text": "And there was this like this idea of like,"
+    },
+    {
+      "start": 1584.44,
+      "end": 1586.44,
+      "text": "it's not just my manager"
+    },
+    {
+      "start": 1586.44,
+      "end": 1588.44,
+      "text": "that has to be like the other managers"
+    },
+    {
+      "start": 1588.44,
+      "end": 1589.44,
+      "text": "on the promotion committee"
+    },
+    {
+      "start": 1589.44,
+      "end": 1591.44,
+      "text": "and the manager above the manager"
+    },
+    {
+      "start": 1591.44,
+      "end": 1593.44,
+      "text": "and like all those,"
+    },
+    {
+      "start": 1593.44,
+      "end": 1594.44,
+      "text": "you know,"
+    },
+    {
+      "start": 1594.44,
+      "end": 1596.44,
+      "text": "there's an aspect of corporate politics"
+    },
+    {
+      "start": 1596.44,
+      "end": 1599.44,
+      "text": "that is just putting on a happy face"
+    },
+    {
+      "start": 1599.44,
+      "end": 1600.44,
+      "text": "and talking to people"
+    },
+    {
+      "start": 1600.44,
+      "end": 1602.44,
+      "text": "and selling yourself"
+    },
+    {
+      "start": 1602.44,
+      "end": 1603.44,
+      "text": "and your ideas"
+    },
+    {
+      "start": 1603.44,
+      "end": 1605.44,
+      "text": "that this is why I didn't last long"
+    },
+    {
+      "start": 1605.44,
+      "end": 1606.44,
+      "text": "at corporate America."
+    },
+    {
+      "start": 1606.44,
+      "end": 1608.44,
+      "text": "I'm much better off I think"
+    },
+    {
+      "start": 1608.44,
+      "end": 1610.44,
+      "text": "on my own to say the least."
+    },
+    {
+      "start": 1610.44,
+      "end": 1611.44,
+      "text": "And yeah,"
+    },
+    {
+      "start": 1611.44,
+      "end": 1614.44,
+      "text": "there's an aspect here too."
+    },
+    {
+      "start": 1614.44,
+      "end": 1617.44,
+      "text": "My feedback to athropic is,"
+    },
+    {
+      "start": 1617.44,
+      "end": 1619.44,
+      "text": "you're what is fine."
+    },
+    {
+      "start": 1619.44,
+      "end": 1621.44,
+      "text": "It's the how that needs work."
+    },
+    {
+      "start": 1621.44,
+      "end": 1623.44,
+      "text": "You have to figure out like"
+    },
+    {
+      "start": 1623.44,
+      "end": 1625.44,
+      "text": "how to communicate,"
+    },
+    {
+      "start": 1625.44,
+      "end": 1628.44,
+      "text": "how to communicate these things"
+    },
+    {
+      "start": 1628.44,
+      "end": 1630.44,
+      "text": "and describe like"
+    },
+    {
+      "start": 1630.44,
+      "end": 1631.44,
+      "text": "there needs to be a capacity"
+    },
+    {
+      "start": 1631.44,
+      "end": 1633.44,
+      "text": "for risk tolerance"
+    },
+    {
+      "start": 1633.44,
+      "end": 1635.44,
+      "text": "over the next four or five years"
+    },
+    {
+      "start": 1635.44,
+      "end": 1637.44,
+      "text": "and there's not much of that"
+    },
+    {
+      "start": 1637.44,
+      "end": 1638.44,
+      "text": "coming from anthropic"
+    },
+    {
+      "start": 1638.44,
+      "end": 1640.44,
+      "text": "in the course of these conversations."
+    },
+    {
+      "start": 1640.44,
+      "end": 1642.44,
+      "text": "They create the illusion"
+    },
+    {
+      "start": 1642.44,
+      "end": 1643.44,
+      "text": "of perfect security"
+    },
+    {
+      "start": 1643.44,
+      "end": 1644.44,
+      "text": "as long as they're the ones"
+    },
+    {
+      "start": 1644.44,
+      "end": 1646.44,
+      "text": "in charge of that security"
+    },
+    {
+      "start": 1646.44,
+      "end": 1648.44,
+      "text": "and that's going to be a problem long term."
+    },
+    {
+      "start": 1648.44,
+      "end": 1650.44,
+      "text": "I'm open to the possibility"
+    },
+    {
+      "start": 1650.44,
+      "end": 1652.44,
+      "text": "that members of the Trump administration"
+    },
+    {
+      "start": 1652.44,
+      "end": 1654.44,
+      "text": "just simply don't understand"
+    },
+    {
+      "start": 1654.44,
+      "end": 1656.44,
+      "text": "that you can't keep these models"
+    },
+    {
+      "start": 1656.44,
+      "end": 1657.44,
+      "text": "from being jailbroken"
+    },
+    {
+      "start": 1657.44,
+      "end": 1659.44,
+      "text": "and you can't reduce the risks"
+    },
+    {
+      "start": 1659.44,
+      "end": 1660.44,
+      "text": "on that front."
+    },
+    {
+      "start": 1660.44,
+      "end": 1662.44,
+      "text": "I will also note though"
+    },
+    {
+      "start": 1662.44,
+      "end": 1664.44,
+      "text": "like there was that report"
+    },
+    {
+      "start": 1664.44,
+      "end": 1665.44,
+      "text": "in the Washington Post"
+    },
+    {
+      "start": 1665.44,
+      "end": 1667.44,
+      "text": "about anthropic giving"
+    },
+    {
+      "start": 1667.44,
+      "end": 1668.44,
+      "text": "the government a list"
+    },
+    {
+      "start": 1668.44,
+      "end": 1670.44,
+      "text": "of 111 organizations"
+    },
+    {
+      "start": 1670.44,
+      "end": 1672.44,
+      "text": "that had advanced access to mythos"
+    },
+    {
+      "start": 1672.44,
+      "end": 1674.44,
+      "text": "and then there was an additional"
+    },
+    {
+      "start": 1674.44,
+      "end": 1676.44,
+      "text": "50 or so entities"
+    },
+    {
+      "start": 1676.44,
+      "end": 1677.44,
+      "text": "that were added"
+    },
+    {
+      "start": 1677.44,
+      "end": 1679.44,
+      "text": "and had already received access"
+    },
+    {
+      "start": 1679.44,
+      "end": 1681.44,
+      "text": "and anthropic was slow"
+    },
+    {
+      "start": 1681.44,
+      "end": 1683.44,
+      "text": "to get that list of companies"
+    },
+    {
+      "start": 1683.44,
+      "end": 1684.44,
+      "text": "and the government"
+    },
+    {
+      "start": 1684.44,
+      "end": 1685.44,
+      "text": "as the government was like"
+    },
+    {
+      "start": 1685.44,
+      "end": 1687.44,
+      "text": "who actually has access"
+    },
+    {
+      "start": 1687.44,
+      "end": 1688.44,
+      "text": "to mythos"
+    },
+    {
+      "start": 1688.44,
+      "end": 1689.44,
+      "text": "and one of the entities"
+    },
+    {
+      "start": 1689.44,
+      "end": 1691.44,
+      "text": "was a South Korean company"
+    },
+    {
+      "start": 1691.44,
+      "end": 1693.44,
+      "text": "and it just what's interesting"
+    },
+    {
+      "start": 1693.44,
+      "end": 1694.44,
+      "text": "in that report"
+    },
+    {
+      "start": 1694.44,
+      "end": 1695.44,
+      "text": "is it seems like anthropics"
+    },
+    {
+      "start": 1695.44,
+      "end": 1696.44,
+      "text": "still doesn't understand"
+    },
+    {
+      "start": 1696.44,
+      "end": 1697.44,
+      "text": "that the government is"
+    },
+    {
+      "start": 1697.44,
+      "end": 1698.44,
+      "text": "ultimately in charge"
+    },
+    {
+      "start": 1698.44,
+      "end": 1700.44,
+      "text": "and it's really not that complicated"
+    },
+    {
+      "start": 1700.44,
+      "end": 1701.44,
+      "text": "dealing with the government"
+    },
+    {
+      "start": 1701.44,
+      "end": 1703.44,
+      "text": "shouldn't be as impossible"
+    },
+    {
+      "start": 1703.44,
+      "end": 1705.44,
+      "text": "as anthropics making it look."
+    },
+    {
+      "start": 1705.44,
+      "end": 1706.44,
+      "text": "So again,"
+    },
+    {
+      "start": 1706.44,
+      "end": 1708.44,
+      "text": "blame belongs on both sides"
+    },
+    {
+      "start": 1708.44,
+      "end": 1709.44,
+      "text": "goes back to the Department"
+    },
+    {
+      "start": 1709.44,
+      "end": 1711.44,
+      "text": "of War debate,"
+    },
+    {
+      "start": 1711.44,
+      "end": 1712.44,
+      "text": "which ultimately"
+    },
+    {
+      "start": 1712.44,
+      "end": 1713.44,
+      "text": "is like a philosophical"
+    },
+    {
+      "start": 1713.44,
+      "end": 1715.44,
+      "text": "the question of who's in charge"
+    },
+    {
+      "start": 1715.44,
+      "end": 1717.44,
+      "text": "and the fundamental problem"
+    },
+    {
+      "start": 1717.44,
+      "end": 1718.44,
+      "text": "with anthropics,"
+    },
+    {
+      "start": 1718.44,
+      "end": 1720.44,
+      "text": "how is actually not just"
+    },
+    {
+      "start": 1720.44,
+      "end": 1721.44,
+      "text": "the how it's the substance."
+    },
+    {
+      "start": 1721.44,
+      "end": 1723.44,
+      "text": "In that debate,"
+    },
+    {
+      "start": 1723.44,
+      "end": 1725.44,
+      "text": "their red line was"
+    },
+    {
+      "start": 1725.44,
+      "end": 1727.44,
+      "text": "we get to decide"
+    },
+    {
+      "start": 1727.44,
+      "end": 1729.44,
+      "text": "how this is used."
+    },
+    {
+      "start": 1729.44,
+      "end": 1730.44,
+      "text": "So you asked earlier"
+    },
+    {
+      "start": 1730.44,
+      "end": 1731.44,
+      "text": "for evidence"
+    },
+    {
+      "start": 1731.44,
+      "end": 1732.44,
+      "text": "of them saying they should"
+    },
+    {
+      "start": 1732.44,
+      "end": 1733.44,
+      "text": "be in charge of AI"
+    },
+    {
+      "start": 1733.44,
+      "end": 1734.44,
+      "text": "there's your examples."
+    },
+    {
+      "start": 1734.44,
+      "end": 1735.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 1735.44,
+      "end": 1737.44,
+      "text": "Like they already demonstrated it."
+    },
+    {
+      "start": 1737.44,
+      "end": 1739.44,
+      "text": "And by the way,"
+    },
+    {
+      "start": 1739.44,
+      "end": 1740.44,
+      "text": "you know,"
+    },
+    {
+      "start": 1740.44,
+      "end": 1741.44,
+      "text": "when we talked about this last week,"
+    },
+    {
+      "start": 1741.44,
+      "end": 1742.44,
+      "text": "they've also demonstrated"
+    },
+    {
+      "start": 1742.44,
+      "end": 1744.44,
+      "text": "the capability in willingness"
+    },
+    {
+      "start": 1744.44,
+      "end": 1746.44,
+      "text": "to silently nerf their models"
+    },
+    {
+      "start": 1746.44,
+      "end": 1747.44,
+      "text": "to stop behavior"
+    },
+    {
+      "start": 1747.44,
+      "end": 1748.44,
+      "text": "that they don't think"
+    },
+    {
+      "start": 1748.44,
+      "end": 1749.44,
+      "text": "is acceptable."
+    },
+    {
+      "start": 1749.44,
+      "end": 1750.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 1750.44,
+      "end": 1752.44,
+      "text": "And so this is the core issue."
+    },
+    {
+      "start": 1752.44,
+      "end": 1755.44,
+      "text": "There is an assertion"
+    },
+    {
+      "start": 1755.44,
+      "end": 1758.44,
+      "text": "of authority that is reserved"
+    },
+    {
+      "start": 1758.44,
+      "end": 1760.44,
+      "text": "solely for them."
+    },
+    {
+      "start": 1760.44,
+      "end": 1761.44,
+      "text": "And it's not just"
+    },
+    {
+      "start": 1761.44,
+      "end": 1762.44,
+      "text": "with their customers."
+    },
+    {
+      "start": 1762.44,
+      "end": 1764.44,
+      "text": "It's not just with other companies."
+    },
+    {
+      "start": 1764.44,
+      "end": 1765.44,
+      "text": "It's with the federal government."
+    },
+    {
+      "start": 1765.44,
+      "end": 1767.44,
+      "text": "That is the fundamental issue."
+    },
+    {
+      "start": 1767.44,
+      "end": 1768.44,
+      "text": "So we actually"
+    },
+    {
+      "start": 1768.44,
+      "end": 1770.44,
+      "text": "actually does go back"
+    },
+    {
+      "start": 1770.44,
+      "end": 1771.44,
+      "text": "to that episode."
+    },
+    {
+      "start": 1771.44,
+      "end": 1773.44,
+      "text": "And that's the issue here."
+    },
+    {
+      "start": 1773.44,
+      "end": 1776.44,
+      "text": "Is they're trying to dictate"
+    },
+    {
+      "start": 1776.44,
+      "end": 1777.44,
+      "text": "terms."
+    },
+    {
+      "start": 1777.44,
+      "end": 1779.44,
+      "text": "And the government is"
+    },
+    {
+      "start": 1779.44,
+      "end": 1781.44,
+      "text": "probably being dumb."
+    },
+    {
+      "start": 1781.44,
+      "end": 1784.44,
+      "text": "The like export control thing."
+    },
+    {
+      "start": 1784.44,
+      "end": 1786.44,
+      "text": "Who knows if it's even legal"
+    },
+    {
+      "start": 1786.44,
+      "end": 1788.44,
+      "text": "or whatever it might be."
+    },
+    {
+      "start": 1788.44,
+      "end": 1789.44,
+      "text": "That will that's for like"
+    },
+    {
+      "start": 1789.44,
+      "end": 1790.44,
+      "text": "the courts to decide."
+    },
+    {
+      "start": 1790.44,
+      "end": 1793.44,
+      "text": "I my guess is probably not."
+    },
+    {
+      "start": 1793.44,
+      "end": 1794.44,
+      "text": "Right."
+    },
+    {
+      "start": 1794.44,
+      "end": 1796.44,
+      "text": "But what's actually happening"
+    },
+    {
+      "start": 1796.44,
+      "end": 1798.44,
+      "text": "is the exact same battle"
+    },
+    {
+      "start": 1798.44,
+      "end": 1799.44,
+      "text": "that was happening before."
+    },
+    {
+      "start": 1799.44,
+      "end": 1801.44,
+      "text": "Who gets final say."
+    },
+    {
+      "start": 1801.44,
+      "end": 1803.44,
+      "text": "And when the government says jump,"
+    },
+    {
+      "start": 1803.44,
+      "end": 1805.44,
+      "text": "anthropic should say,"
+    },
+    {
+      "start": 1805.44,
+      "end": 1806.44,
+      "text": "how high you want the"
+    },
+    {
+      "start": 1806.44,
+      "end": 1807.44,
+      "text": "additional 50 entities."
+    },
+    {
+      "start": 1807.44,
+      "end": 1808.44,
+      "text": "Here are the additional"
+    },
+    {
+      "start": 1808.44,
+      "end": 1809.44,
+      "text": "50 entities."
+    },
+    {
+      "start": 1809.44,
+      "end": 1810.44,
+      "text": "You have a problem with"
+    },
+    {
+      "start": 1810.44,
+      "end": 1812.44,
+      "text": "how does that boot taste"
+    },
+    {
+      "start": 1812.44,
+      "end": 1813.44,
+      "text": "Andrew?"
+    },
+    {
+      "start": 1813.44,
+      "end": 1815.44,
+      "text": "No, and that's just the way"
+    },
+    {
+      "start": 1815.44,
+      "end": 1816.44,
+      "text": "it's going to work."
+    },
+    {
+      "start": 1816.44,
+      "end": 1817.44,
+      "text": "No, that's the thing."
+    },
+    {
+      "start": 1817.44,
+      "end": 1818.44,
+      "text": "It's inevitable."
+    },
+    {
+      "start": 1818.44,
+      "end": 1819.44,
+      "text": "If you're talking about a"
+    },
+    {
+      "start": 1819.44,
+      "end": 1820.44,
+      "text": "super weapon that poses"
+    },
+    {
+      "start": 1820.44,
+      "end": 1822.44,
+      "text": "dangerous to the entire world,"
+    },
+    {
+      "start": 1822.44,
+      "end": 1824.44,
+      "text": "like this is the inevitable"
+    },
+    {
+      "start": 1824.44,
+      "end": 1825.44,
+      "text": "conclusion of that conversation."
+    },
+    {
+      "start": 1825.44,
+      "end": 1826.44,
+      "text": "And they still have not"
+    },
+    {
+      "start": 1826.44,
+      "end": 1827.44,
+      "text": "fully grabbed that."
+    },
+    {
+      "start": 1827.44,
+      "end": 1828.44,
+      "text": "And that's what's so"
+    },
+    {
+      "start": 1828.44,
+      "end": 1830.44,
+      "text": "frustrating is the people"
+    },
+    {
+      "start": 1830.44,
+      "end": 1833.44,
+      "text": "who are implicitly saying"
+    },
+    {
+      "start": 1833.44,
+      "end": 1835.44,
+      "text": "they should decide everything"
+    },
+    {
+      "start": 1835.44,
+      "end": 1837.44,
+      "text": "seem incapable of"
+    },
+    {
+      "start": 1837.44,
+      "end": 1838.44,
+      "text": "understanding the reality"
+    },
+    {
+      "start": 1838.44,
+      "end": 1840.44,
+      "text": "of the world as it actually"
+    },
+    {
+      "start": 1840.44,
+      "end": 1841.44,
+      "text": "is."
+    },
+    {
+      "start": 1841.44,
+      "end": 1842.44,
+      "text": "And if you can't understand"
+    },
+    {
+      "start": 1842.44,
+      "end": 1843.44,
+      "text": "the reality of the world"
+    },
+    {
+      "start": 1843.44,
+      "end": 1844.44,
+      "text": "as it actually is,"
+    },
+    {
+      "start": 1844.44,
+      "end": 1845.44,
+      "text": "on what basis should I"
+    },
+    {
+      "start": 1845.44,
+      "end": 1847.44,
+      "text": "faith that you get to decide"
+    },
+    {
+      "start": 1847.44,
+      "end": 1849.44,
+      "text": "how the world's going to be?"
+    },
+    {
+      "start": 1849.44,
+      "end": 1850.44,
+      "text": "All right."
+    },
+    {
+      "start": 1850.44,
+      "end": 1851.44,
+      "text": "And that is the end of the"
+    },
+    {
+      "start": 1851.44,
+      "end": 1852.44,
+      "text": "free preview."
+    },
+    {
+      "start": 1852.44,
+      "end": 1853.44,
+      "text": "If you'd like to hear more"
+    },
+    {
+      "start": 1853.44,
+      "end": 1854.44,
+      "text": "from Ben and I,"
+    },
+    {
+      "start": 1854.44,
+      "end": 1855.44,
+      "text": "there are links to subscribe"
+    },
+    {
+      "start": 1855.44,
+      "end": 1856.44,
+      "text": "in the show notes,"
+    },
+    {
+      "start": 1856.44,
+      "end": 1857.44,
+      "text": "where you can also"
+    },
+    {
+      "start": 1857.44,
+      "end": 1858.44,
+      "text": "go to sharptech.fm."
+    },
+    {
+      "start": 1858.44,
+      "end": 1860.44,
+      "text": "Either option will get you"
+    },
+    {
+      "start": 1860.44,
+      "end": 1862.44,
+      "text": "access to a personalized feed"
+    },
+    {
+      "start": 1862.44,
+      "end": 1864.44,
+      "text": "that has all the shows we do"
+    },
+    {
+      "start": 1864.44,
+      "end": 1865.44,
+      "text": "every week."
+    },
+    {
+      "start": 1865.44,
+      "end": 1867.44,
+      "text": "Plus lots more great content"
+    },
+    {
+      "start": 1867.44,
+      "end": 1868.44,
+      "text": "from Stratekery"
+    },
+    {
+      "start": 1868.44,
+      "end": 1869.44,
+      "text": "and the Stratekery's"
+    },
+    {
+      "start": 1869.44,
+      "end": 1870.44,
+      "text": "plus bundle."
+    },
+    {
+      "start": 1870.44,
+      "end": 1871.44,
+      "text": "Check it out."
+    },
+    {
+      "start": 1871.44,
+      "end": 1872.44,
+      "text": "And if you've got feedback,"
+    },
+    {
+      "start": 1872.44,
+      "end": 1873.44,
+      "text": "please email us at"
+    },
+    {
+      "start": 1873.44,
+      "end": 1875.44,
+      "text": "email at sharptech.fm."
+    },
+    {
+      "start": 1883.44,
+      "end": 1885.44,
+      "text": "www.stratekery.fm."
+    }
+  ]
+}

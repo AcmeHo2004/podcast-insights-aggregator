@@ -1,0 +1,2396 @@
+{
+  "id": "92d534be5adaa9e7",
+  "show": "Masters in Business",
+  "theme": "Investor Talks",
+  "title": "At The Money: Blurring the Lines Between Public and Private Investments",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/fa9971b2-3593-4ebb-ab9d-b452000c135f/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+  "source": "feed",
+  "duration": 1512.4,
+  "segments": [
+    {
+      "start": 2.48,
+      "end": 28.36,
+      "text": "Speaker 1: Bloomberg Audio Studios, podcasts, radio news."
+    },
+    {
+      "start": 28.4,
+      "end": 32.04,
+      "text": "Speaker 2: There used to be a clear distinction between public and"
+    },
+    {
+      "start": 32.159,
+      "end": 36.92,
+      "text": "Speaker 2: private companies. Firm would take years or even decades to grow,"
+    },
+    {
+      "start": 37.44,
+      "end": 41.8,
+      "text": "Speaker 2: build their revenues and profits, and eventually tap the public"
+    },
+    {
+      "start": 41.88,
+      "end": 45.88,
+      "text": "Speaker 2: markets to go national or even global. That doesn't seem"
+    },
+    {
+      "start": 45.92,
+      "end": 50.32,
+      "text": "Speaker 2: to happen anymore. As endless amounts of capital sloshes through"
+    },
+    {
+      "start": 50.36,
+      "end": 54.28,
+      "text": "Speaker 2: the system, More and more companies are staying private, but"
+    },
+    {
+      "start": 54.4,
+      "end": 58.72,
+      "text": "Speaker 2: there's a group of private investors that are accessing public"
+    },
+    {
+      "start": 58.84,
+      "end": 64.52,
+      "text": "Speaker 2: capital through various rappers, including ETFs. To help us unpack"
+    },
+    {
+      "start": 64.6,
+      "end": 67.0,
+      "text": "Speaker 2: all of this and what it means for your portfolio,"
+    },
+    {
+      "start": 67.16,
+      "end": 69.84,
+      "text": "Speaker 2: let's bring in Dave Nadig. He's president and director of"
+    },
+    {
+      "start": 69.88,
+      "end": 72.96000000000001,
+      "text": "Speaker 2: research at ETF dot Com, and he shares with us"
+    },
+    {
+      "start": 73.0,
+      "end": 78.88,
+      "text": "Speaker 2: how investors should navigate these public private hybrids. Dave is"
+    },
+    {
+      "start": 78.92,
+      "end": 82.12,
+      "text": "Speaker 2: also the author of the book A Comprehensive Guide to"
+    },
+    {
+      "start": 82.24,
+      "end": 86.639,
+      "text": "Speaker 2: Exchange Traded Funds. So, Dave, there was once a very"
+    },
+    {
+      "start": 86.68,
+      "end": 92.24000000000001,
+      "text": "Speaker 2: bright line between public and private markets. Has that line"
+    },
+    {
+      "start": 92.24000000000001,
+      "end": 95.75999999999999,
+      "text": "Speaker 2: disappeared or has it simply just moved into rappers that"
+    },
+    {
+      "start": 95.88,
+      "end": 97.36,
+      "text": "Speaker 2: investors don't fully grock."
+    },
+    {
+      "start": 97.959,
+      "end": 101.24000000000001,
+      "text": "Speaker 3: I think it's more the latter. I think the rules"
+    },
+    {
+      "start": 101.28,
+      "end": 104.24000000000001,
+      "text": "Speaker 3: haven't really changed. I think that's important to point out here."
+    },
+    {
+      "start": 104.24000000000001,
+      "end": 106.47999999999999,
+      "text": "Speaker 3: It's not like we passed a law that' said everybody"
+    },
+    {
+      "start": 106.52000000000001,
+      "end": 109.72,
+      "text": "Speaker 3: can get in. What's changed is that there's a willingness"
+    },
+    {
+      "start": 109.75999999999999,
+      "end": 113.47999999999999,
+      "text": "Speaker 3: by the issuers of product to get a lot more"
+    },
+    {
+      "start": 113.52000000000001,
+      "end": 118.03999999999999,
+      "text": "Speaker 3: aggressive in what they're positioning as retail appropriate vehicles. So"
+    },
+    {
+      "start": 118.52000000000001,
+      "end": 120.8,
+      "text": "Speaker 3: there's not a new rapper here. What there are are"
+    },
+    {
+      "start": 120.88,
+      "end": 124.08,
+      "text": "Speaker 3: new ways of stretching the edges of rappers that have"
+    },
+    {
+      "start": 124.16,
+      "end": 126.48,
+      "text": "Speaker 3: been around for you know, almost one hundred years at"
+    },
+    {
+      "start": 126.48,
+      "end": 127.32,
+      "text": "Speaker 3: this point."
+    },
+    {
+      "start": 127.56,
+      "end": 131.12,
+      "text": "Speaker 2: So let's put some numbers on that. Since twenty ten,"
+    },
+    {
+      "start": 131.96,
+      "end": 135.92,
+      "text": "Speaker 2: Private Credit raised something like one point eight trillion dollars."
+    },
+    {
+      "start": 136.56,
+      "end": 142.679,
+      "text": "Speaker 2: Every major firm, Blackstone, Apollo, KKR, Ares, Blue Oul, they're"
+    },
+    {
+      "start": 142.68,
+      "end": 148.36,
+      "text": "Speaker 2: building retail channels. There were three hundred and fourteen interval"
+    },
+    {
+      "start": 148.44,
+      "end": 151.6,
+      "text": "Speaker 2: funds tend or off for funds with two hundred and"
+    },
+    {
+      "start": 151.6,
+      "end": 155.64,
+      "text": "Speaker 2: seventy seven billion dollars in assets as of January of"
+    },
+    {
+      "start": 155.68,
+      "end": 159.28,
+      "text": "Speaker 2: this year, of twenty twenty six. A lot of chatter"
+    },
+    {
+      "start": 159.44,
+      "end": 162.76,
+      "text": "Speaker 2: that private is going after the four to one K market. Next,"
+    },
+    {
+      "start": 163.4,
+      "end": 166.279,
+      "text": "Speaker 2: what does all this capital mean to investors?"
+    },
+    {
+      "start": 166.8,
+      "end": 169.36,
+      "text": "Speaker 3: Well, you know, I think the thing investors need to"
+    },
+    {
+      "start": 169.4,
+      "end": 172.68,
+      "text": "Speaker 3: realize is that if you're the one being offered a product,"
+    },
+    {
+      "start": 172.72,
+      "end": 176.56,
+      "text": "Speaker 3: you need to ask yourself why right, if somebody's coming"
+    },
+    {
+      "start": 176.56,
+      "end": 178.24,
+      "text": "Speaker 3: to you and saying I want to give you access"
+    },
+    {
+      "start": 178.24,
+      "end": 182.2,
+      "text": "Speaker 3: to private credit or private equity. It's very smart to say,"
+    },
+    {
+      "start": 182.24,
+      "end": 183.96,
+      "text": "Speaker 3: who is selling this to me and why are they"
+    },
+    {
+      "start": 184.0,
+      "end": 187.4,
+      "text": "Speaker 3: selling it to me now? And unfortunately the real answer"
+    },
+    {
+      "start": 187.44,
+      "end": 189.92,
+      "text": "Speaker 3: here is at the you know, look, we're in this"
+    },
+    {
+      "start": 190.0,
+      "end": 193.28,
+      "text": "Speaker 3: incredible bull market. Let's just be really honest. Things have"
+    },
+    {
+      "start": 193.36,
+      "end": 196.64,
+      "text": "Speaker 3: been going up for a very very long time. And"
+    },
+    {
+      "start": 196.72,
+      "end": 198.72,
+      "text": "Speaker 3: because of that, there is a lot of money that"
+    },
+    {
+      "start": 198.84,
+      "end": 201.76,
+      "text": "Speaker 3: is looking for exits. And at the end of every"
+    },
+    {
+      "start": 201.76,
+      "end": 205.16,
+      "text": "Speaker 3: cycle in my career, it is retail that is looked"
+    },
+    {
+      "start": 205.2,
+      "end": 209.44,
+      "text": "Speaker 3: at to be the exit. Whether that's buying beanie babies,"
+    },
+    {
+      "start": 209.6,
+      "end": 212.359,
+      "text": "Speaker 3: use cars, or stocks, it doesn't really matter. At the"
+    },
+    {
+      "start": 212.44,
+      "end": 214.64,
+      "text": "Speaker 3: end of the day, the retail investor is the one"
+    },
+    {
+      "start": 215.0,
+      "end": 218.07999999999998,
+      "text": "Speaker 3: that the quote unquote smart money, the big institutional money"
+    },
+    {
+      "start": 218.4,
+      "end": 222.24,
+      "text": "Speaker 3: is looking to unload their positions onto And so it's"
+    },
+    {
+      "start": 222.36,
+      "end": 224.8,
+      "text": "Speaker 3: not surprising to me that we're seeing a lot of"
+    },
+    {
+      "start": 224.8,
+      "end": 230.0,
+      "text": "Speaker 3: discussion around quote unquote democratizing private investing. Whether it's venture"
+    },
+    {
+      "start": 230.04,
+      "end": 232.96,
+      "text": "Speaker 3: capital or private credit, doesn't really matter, it's all the"
+    },
+    {
+      "start": 233.0,
+      "end": 237.0,
+      "text": "Speaker 3: same thing. And so now that we just have to"
+    },
+    {
+      "start": 237.07999999999998,
+      "end": 239.8,
+      "text": "Speaker 3: accept that we're going to be marketed these products and"
+    },
+    {
+      "start": 240.12,
+      "end": 243.44,
+      "text": "Speaker 3: are the most part I think investors are not well"
+    },
+    {
+      "start": 243.6,
+      "end": 247.0,
+      "text": "Speaker 3: served by them, but I think that that's worth poking."
+    },
+    {
+      "start": 246.64,
+      "end": 249.72,
+      "text": "Speaker 2: At So we should all take some advice from that"
+    },
+    {
+      "start": 249.8,
+      "end": 254.08,
+      "text": "Speaker 2: great alternatives investor Groutcho Marx. I don't want to be"
+    },
+    {
+      "start": 254.12,
+      "end": 257.0,
+      "text": "Speaker 2: a member of any club that would have me exactly."
+    },
+    {
+      "start": 257.839,
+      "end": 259.88,
+      "text": "Speaker 2: So let's talk a little bit about how this used"
+    },
+    {
+      "start": 259.88,
+      "end": 263.52,
+      "text": "Speaker 2: to look in the old days. Historically, companies would go"
+    },
+    {
+      "start": 263.6,
+      "end": 267.599,
+      "text": "Speaker 2: public to raise growth capital. Today it seems like a"
+    },
+    {
+      "start": 267.64,
+      "end": 272.4,
+      "text": "Speaker 2: lot of the best known private firms can stay private indefinitely,"
+    },
+    {
+      "start": 272.96,
+      "end": 275.919,
+      "text": "Speaker 2: and those that go public seem just to be reaching"
+    },
+    {
+      "start": 275.96,
+      "end": 280.64,
+      "text": "Speaker 2: for liquidly for insiders. Is that what's happening with these"
+    },
+    {
+      "start": 280.72,
+      "end": 285.12,
+      "text": "Speaker 2: various forty Act funds in all sorts of new rappers."
+    },
+    {
+      "start": 285.56,
+      "end": 287.56,
+      "text": "Speaker 3: Yeah, there's two things going on here. So on the"
+    },
+    {
+      "start": 287.6,
+      "end": 291.2,
+      "text": "Speaker 3: one hand, eventually these private companies go public, and there's"
+    },
+    {
+      "start": 291.2,
+      "end": 294.15999999999997,
+      "text": "Speaker 3: a lot of effort to get investors involved in those IPOs."
+    },
+    {
+      "start": 294.44,
+      "end": 297.479,
+      "text": "Speaker 3: That's the end state of what we're talking about. I"
+    },
+    {
+      "start": 297.48,
+      "end": 299.68,
+      "text": "Speaker 3: want to focus a little bit more on the beginning state."
+    },
+    {
+      "start": 300.12,
+      "end": 303.96,
+      "text": "Speaker 3: How the actual money in private equity gets there, and"
+    },
+    {
+      "start": 304.48,
+      "end": 306.719,
+      "text": "Speaker 3: historically how that money ends up in a private company"
+    },
+    {
+      "start": 306.8,
+      "end": 309.16,
+      "text": "Speaker 3: is pretty simple. There's some pool of assets, generally it's"
+    },
+    {
+      "start": 309.16,
+      "end": 312.0,
+      "text": "Speaker 3: an LLC or a limited partnership, and it collects a"
+    },
+    {
+      "start": 312.0,
+      "end": 314.279,
+      "text": "Speaker 3: billion dollars of money from a bunch of rich people"
+    },
+    {
+      "start": 314.279,
+      "end": 318.08,
+      "text": "Speaker 3: and endowments and institutions and financial advisors, and that money"
+    },
+    {
+      "start": 318.08,
+      "end": 320.0,
+      "text": "Speaker 3: goes into a pool which then makes a bunch of"
+    },
+    {
+      "start": 320.04,
+      "end": 324.44,
+      "text": "Speaker 3: small investments in say fifteen different startups in Silicon Valley,"
+    },
+    {
+      "start": 324.72,
+      "end": 326.96,
+      "text": "Speaker 3: and the idea is that one of those hits big,"
+    },
+    {
+      "start": 327.24,
+      "end": 330.16,
+      "text": "Speaker 3: and then the payout from that is either that company"
+    },
+    {
+      "start": 330.2,
+      "end": 333.32,
+      "text": "Speaker 3: gets bought or it goes IPO, and all the investors"
+    },
+    {
+      "start": 333.32,
+      "end": 336.44,
+      "text": "Speaker 3: in that limited partnership then get a big check. That's"
+    },
+    {
+      "start": 336.48,
+      "end": 339.96,
+      "text": "Speaker 3: sort of the structure. How that little pool of private"
+    },
+    {
+      "start": 340.0,
+      "end": 343.68,
+      "text": "Speaker 3: money gets managed can really vary. It's very common for"
+    },
+    {
+      "start": 343.72,
+      "end": 346.64,
+      "text": "Speaker 3: it to be in just literally a limited partnership, but"
+    },
+    {
+      "start": 346.72,
+      "end": 348.359,
+      "text": "Speaker 3: the problem with that is you can only get so"
+    },
+    {
+      "start": 348.44,
+      "end": 350.68,
+      "text": "Speaker 3: many investors into it. When you want to get a"
+    },
+    {
+      "start": 350.76,
+      "end": 352.88,
+      "text": "Speaker 3: lot of investors, you have to go to some sort"
+    },
+    {
+      "start": 352.92,
+      "end": 356.88,
+      "text": "Speaker 3: of regulated vehicle, and then you end up in usually"
+    },
+    {
+      "start": 356.92,
+      "end": 359.76,
+      "text": "Speaker 3: a closed end fund of some kind, whether it's a"
+    },
+    {
+      "start": 360.08,
+      "end": 362.84,
+      "text": "Speaker 3: raided closed end fund, a non traded closed end fund,"
+    },
+    {
+      "start": 363.16,
+      "end": 366.159,
+      "text": "Speaker 3: an interval fund, a tender offer fund. There are all"
+    },
+    {
+      "start": 366.2,
+      "end": 368.88,
+      "text": "Speaker 3: sort of versions of the same things. They're funds that"
+    },
+    {
+      "start": 368.88,
+      "end": 372.24,
+      "text": "Speaker 3: are roach motels. Money goes in, money never comes out."
+    },
+    {
+      "start": 372.8,
+      "end": 376.08,
+      "text": "Speaker 2: So define those various things. What's the difference between a"
+    },
+    {
+      "start": 376.16,
+      "end": 383.279,
+      "text": "Speaker 2: tender off of fund, a limited fund, a closed end fund?"
+    },
+    {
+      "start": 383.44,
+      "end": 387.28,
+      "text": "Speaker 2: For people who may not be hipped all these different acronyms."
+    },
+    {
+      "start": 387.72,
+      "end": 390.719,
+      "text": "Speaker 2: What is going on in these and interval funds go"
+    },
+    {
+      "start": 390.8,
+      "end": 391.559,
+      "text": "Speaker 2: through the whole list."
+    },
+    {
+      "start": 391.76,
+      "end": 395.44,
+      "text": "Speaker 3: Yeah, So really the main structure is the closed end"
+    },
+    {
+      "start": 395.44,
+      "end": 398.0,
+      "text": "Speaker 3: fund or the CEF, which is part of the forty Act,"
+    },
+    {
+      "start": 398.15999999999997,
+      "end": 400.599,
+      "text": "Speaker 3: just like an open ended fund, which is an ETF"
+    },
+    {
+      "start": 400.68,
+      "end": 404.44,
+      "text": "Speaker 3: or a mutual fund, same rules, same laws that have board"
+    },
+    {
+      "start": 405.15999999999997,
+      "end": 408.4,
+      "text": "Speaker 3: very similar structures. At the very very high level. The"
+    },
+    {
+      "start": 408.44,
+      "end": 412.36,
+      "text": "Speaker 3: biggest difference is a closed end fund is basically subscribed"
+    },
+    {
+      "start": 412.44,
+      "end": 415.28,
+      "text": "Speaker 3: to once. Like an IPO, you go out, you say,"
+    },
+    {
+      "start": 415.32,
+      "end": 417.36,
+      "text": "Speaker 3: I want to raise a billion dollars. You see if"
+    },
+    {
+      "start": 417.36,
+      "end": 418.56,
+      "text": "Speaker 3: you can get a bunch of people to give you"
+    },
+    {
+      "start": 418.56,
+      "end": 421.88,
+      "text": "Speaker 3: that billion dollars. Now, that is a closed pool of money,"
+    },
+    {
+      "start": 422.4,
+      "end": 425.24,
+      "text": "Speaker 3: and whether or not money ever comes out of that pool,"
+    },
+    {
+      "start": 425.279,
+      "end": 429.08,
+      "text": "Speaker 3: again depends on how the rules are written for that fund."
+    },
+    {
+      "start": 429.64,
+      "end": 433.16,
+      "text": "Speaker 3: In the most open, in the most investor friendly version,"
+    },
+    {
+      "start": 433.56,
+      "end": 436.68,
+      "text": "Speaker 3: it tends to be a traded closed end fund, meaning"
+    },
+    {
+      "start": 436.72,
+      "end": 438.12,
+      "text": "Speaker 3: you can go to anise and you can get a"
+    },
+    {
+      "start": 438.16,
+      "end": 440.08,
+      "text": "Speaker 3: bid for it, and it maybe trading at a discount"
+    },
+    {
+      "start": 440.16,
+      "end": 443.16,
+      "text": "Speaker 3: or not. That's the version that For instance, Pershing Square"
+    },
+    {
+      "start": 443.2,
+      "end": 447.36,
+      "text": "Speaker 3: just launched. Pershing Square just filed PSUs, which is a"
+    },
+    {
+      "start": 447.52,
+      "end": 450.4,
+      "text": "Speaker 3: fairly traditional closed end fund. They raised a bunch of money."
+    },
+    {
+      "start": 450.52,
+      "end": 453.52,
+      "text": "Speaker 3: Now it trades in the open market, and much to"
+    },
+    {
+      "start": 454.24,
+      "end": 456.96,
+      "text": "Speaker 3: the dismay of Bill Ackman, it's trading at a twenty"
+    },
+    {
+      "start": 456.96,
+      "end": 460.15999999999997,
+      "text": "Speaker 3: percent discount to what it's actually worth. That's pretty common"
+    },
+    {
+      "start": 460.15999999999997,
+      "end": 462.6,
+      "text": "Speaker 3: and closed end funds, because there's no liquidity. You can"
+    },
+    {
+      "start": 462.68,
+      "end": 465.24,
+      "text": "Speaker 3: only buy it or sell it from other people who"
+    },
+    {
+      "start": 465.28,
+      "end": 466.56,
+      "text": "Speaker 3: happen to want it or own it."
+    },
+    {
+      "start": 466.96,
+      "end": 471.64,
+      "text": "Speaker 2: And to clarify PSUs, are the holdings private or public"
+    },
+    {
+      "start": 471.76,
+      "end": 472.15999999999997,
+      "text": "Speaker 2: or both?"
+    },
+    {
+      "start": 472.96,
+      "end": 476.56,
+      "text": "Speaker 3: At the moment, that's really going to be public equities."
+    },
+    {
+      "start": 476.6,
+      "end": 478.2,
+      "text": "Speaker 3: I think what people are trying to buy there is"
+    },
+    {
+      "start": 478.2,
+      "end": 482.84,
+      "text": "Speaker 3: Bill Ackman's high concentration, use some leverage, you know, to"
+    },
+    {
+      "start": 482.92,
+      "end": 486.96,
+      "text": "Speaker 3: get better exposures, special situations kind of investing. That was"
+    },
+    {
+      "start": 486.96,
+      "end": 489.24,
+      "text": "Speaker 3: a specific offering that he's tried. I think this is"
+    },
+    {
+      "start": 489.24,
+      "end": 492.04,
+      "text": "Speaker 3: his third tilt at this windmill and finally got this"
+    },
+    {
+      "start": 492.08,
+      "end": 494.36,
+      "text": "Speaker 3: one to close, albeit not with the pricing that he"
+    },
+    {
+      "start": 494.4,
+      "end": 497.0,
+      "text": "Speaker 3: probably would have hoped for. But that's actually a pretty"
+    },
+    {
+      "start": 497.0,
+      "end": 499.32,
+      "text": "Speaker 3: traditional closed end fund. You raise a bunch of money,"
+    },
+    {
+      "start": 499.56,
+      "end": 502.24,
+      "text": "Speaker 3: you trade it back and forth with your friends. Maybe"
+    },
+    {
+      "start": 502.28,
+      "end": 504.88,
+      "text": "Speaker 3: it throws off dividends, maybe it throws off a capital"
+    },
+    {
+      "start": 504.92,
+      "end": 507.72,
+      "text": "Speaker 3: gain someday if they have a big win. But you're"
+    },
+    {
+      "start": 508.08,
+      "end": 510.6,
+      "text": "Speaker 3: you're never expecting to get your money out. You can"
+    },
+    {
+      "start": 510.64,
+      "end": 513.0,
+      "text": "Speaker 3: do the exact same thing and not have it ever"
+    },
+    {
+      "start": 513.08,
+      "end": 516.44,
+      "text": "Speaker 3: be traded. And that's a that's a non traded private"
+    },
+    {
+      "start": 516.679,
+      "end": 518.16,
+      "text": "Speaker 3: equity fund, and."
+    },
+    {
+      "start": 518.64,
+      "end": 520.68,
+      "text": "Speaker 4: That that's a pretty common thing. B reached."
+    },
+    {
+      "start": 520.8,
+      "end": 522.88,
+      "text": "Speaker 3: A really well known ref fund is one of those"
+    },
+    {
+      "start": 522.88,
+      "end": 526.28,
+      "text": "Speaker 3: sort of non traded closed end funds, and we've had"
+    },
+    {
+      "start": 526.28,
+      "end": 530.76,
+      "text": "Speaker 3: a bunch of those launched recently, also really targeting private equity."
+    },
+    {
+      "start": 530.8,
+      "end": 532.64,
+      "text": "Speaker 4: So that's another very common version of."
+    },
+    {
+      "start": 532.6,
+      "end": 536.88,
+      "text": "Speaker 2: It, and a full disclosure. What I'm about to talk"
+    },
+    {
+      "start": 536.88,
+      "end": 541.12,
+      "text": "Speaker 2: about is something I own. Boas Weinstein has an ETF"
+    },
+    {
+      "start": 541.4,
+      "end": 548.199,
+      "text": "Speaker 2: CEFS closed end funds that he looks for these closed"
+    },
+    {
+      "start": 548.28,
+      "end": 550.92,
+      "text": "Speaker 2: end funds that are trading at a discount to NAV."
+    },
+    {
+      "start": 551.2,
+      "end": 555.559,
+      "text": "Speaker 2: He buys them and then either agitates for the manager"
+    },
+    {
+      "start": 556.08,
+      "end": 559.16,
+      "text": "Speaker 2: to either buy back enough stock so it's trading at NAV,"
+    },
+    {
+      "start": 559.4,
+      "end": 561.8,
+      "text": "Speaker 2: or to break it up and just sell all the"
+    },
+    {
+      "start": 561.8,
+      "end": 564.04,
+      "text": "Speaker 2: pieces and return the money, or give the stock back"
+    },
+    {
+      "start": 564.76,
+      "end": 567.88,
+      "text": "Speaker 2: to the investors. Why do so many of these closed"
+    },
+    {
+      "start": 567.96,
+      "end": 572.76,
+      "text": "Speaker 2: end funds trade? It's such a discount that activists are"
+    },
+    {
+      "start": 572.96,
+      "end": 578.16,
+      "text": "Speaker 2: haranguing management for what essentially is a dollar trading at"
+    },
+    {
+      "start": 578.2,
+      "end": 579.08,
+      "text": "Speaker 2: seventy five cents."
+    },
+    {
+      "start": 579.24,
+      "end": 581.9590000000001,
+      "text": "Speaker 3: Well, the discount comes because of what you just said."
+    },
+    {
+      "start": 582.84,
+      "end": 584.92,
+      "text": "Speaker 3: There's no liquidity in there. There's no way to ever"
+    },
+    {
+      "start": 585.04,
+      "end": 590.0,
+      "text": "Speaker 3: extract real value from the fund. It's permanent capital largely"
+    },
+    {
+      "start": 590.08,
+      "end": 592.76,
+      "text": "Speaker 3: from the perspective of the issuer. That's why the issuer"
+    },
+    {
+      "start": 592.88,
+      "end": 594.9590000000001,
+      "text": "Speaker 3: loves it because they're just like, I have a two"
+    },
+    {
+      "start": 594.96,
+      "end": 598.12,
+      "text": "Speaker 3: billion dollar portfolio. I never have to worry about providing liquidity."
+    },
+    {
+      "start": 598.24,
+      "end": 601.56,
+      "text": "Speaker 3: I'm fine. So if it trades the discount, that manager"
+    },
+    {
+      "start": 601.72,
+      "end": 604.92,
+      "text": "Speaker 3: really doesn't care. They're still getting paid based on NAV."
+    },
+    {
+      "start": 606.52,
+      "end": 606.68,
+      "text": "Speaker 4: You know."
+    },
+    {
+      "start": 606.76,
+      "end": 609.24,
+      "text": "Speaker 3: Often they're getting paid on NAV that's been goosed by"
+    },
+    {
+      "start": 609.24,
+      "end": 612.08,
+      "text": "Speaker 3: a bunch of leverage, so they still get paid. The"
+    },
+    {
+      "start": 612.2,
+      "end": 614.36,
+      "text": "Speaker 3: end investor is the one sitting here going why did"
+    },
+    {
+      "start": 614.4,
+      "end": 614.72,
+      "text": "Speaker 3: I pay?"
+    },
+    {
+      "start": 614.84,
+      "end": 614.92,
+      "text": "Speaker 2: Like?"
+    },
+    {
+      "start": 614.96,
+      "end": 617.48,
+      "text": "Speaker 3: Why am I sitting here at a discount? So that"
+    },
+    {
+      "start": 617.72,
+      "end": 621.56,
+      "text": "Speaker 3: R being out of the discount is as a classic tale."
+    },
+    {
+      "start": 621.6,
+      "end": 623.76,
+      "text": "Speaker 3: People have been doing that since the sixties, and that"
+    },
+    {
+      "start": 624.32,
+      "end": 626.2,
+      "text": "Speaker 3: story for closed end funds."
+    },
+    {
+      "start": 625.88,
+      "end": 630.64,
+      "text": "Speaker 2: Right ETFs, the R means that there's no discount because"
+    },
+    {
+      "start": 630.64,
+      "end": 633.48,
+      "text": "Speaker 2: you could always buy it and open the wrapper and"
+    },
+    {
+      "start": 633.6,
+      "end": 636.76,
+      "text": "Speaker 2: sell the stock. So it just seems weird that closed"
+    },
+    {
+      "start": 636.84,
+      "end": 641.16,
+      "text": "Speaker 2: end funds don't have the same. Yeah, it responds to R."
+    },
+    {
+      "start": 641.52,
+      "end": 644.24,
+      "text": "Speaker 2: It's like an appendix on regulatory structure."
+    },
+    {
+      "start": 644.4,
+      "end": 644.6,
+      "text": "Speaker 4: Right."
+    },
+    {
+      "start": 644.64,
+      "end": 648.84,
+      "text": "Speaker 3: It's this like vestigial piece of flesh that's attached to"
+    },
+    {
+      "start": 648.88,
+      "end": 651.28,
+      "text": "Speaker 3: the forty Act. And that's why you mentioned at the"
+    },
+    {
+      "start": 651.28,
+      "end": 653.32,
+      "text": "Speaker 3: top of the show they're only a couple hundred of"
+    },
+    {
+      "start": 653.32,
+      "end": 657.04,
+      "text": "Speaker 3: these things right, And generally people only use the closed"
+    },
+    {
+      "start": 657.12,
+      "end": 659.76,
+      "text": "Speaker 3: end fund structure when they have one of a couple"
+    },
+    {
+      "start": 659.8,
+      "end": 662.8,
+      "text": "Speaker 3: problems to solve. One is they're buying stuff they literally"
+    },
+    {
+      "start": 662.88,
+      "end": 665.92,
+      "text": "Speaker 3: can't sell. So in the case of us VC, which"
+    },
+    {
+      "start": 666.0,
+      "end": 668.32,
+      "text": "Speaker 3: is the one that Angel lists and of all just launched,"
+    },
+    {
+      "start": 668.88,
+      "end": 670.8,
+      "text": "Speaker 3: I'm still trying to get my money into."
+    },
+    {
+      "start": 671.2,
+      "end": 671.8,
+      "text": "Speaker 4: The whole idea."
+    },
+    {
+      "start": 671.88,
+      "end": 675.28,
+      "text": "Speaker 3: There is that buying stakes and SpaceX and private companies"
+    },
+    {
+      "start": 675.32,
+      "end": 678.48,
+      "text": "Speaker 3: like that, they can't just liquidate that they need to"
+    },
+    {
+      "start": 678.48,
+      "end": 681.88,
+      "text": "Speaker 3: be able to close the liquidity gate. That's usually reason"
+    },
+    {
+      "start": 681.96,
+      "end": 685.16,
+      "text": "Speaker 3: number two, and reason number Reason number two is usually leverage."
+    },
+    {
+      "start": 685.36,
+      "end": 687.76,
+      "text": "Speaker 3: So if you're trying to do some sort of sort"
+    },
+    {
+      "start": 687.8,
+      "end": 690.959,
+      "text": "Speaker 3: of you know, like levering up bonds to try to"
+    },
+    {
+      "start": 691.0,
+      "end": 693.16,
+      "text": "Speaker 3: get fifteen percent returns out of them, you know, those"
+    },
+    {
+      "start": 693.24,
+      "end": 697.44,
+      "text": "Speaker 3: kinds of portable alpha strategies or risk parody strategies where"
+    },
+    {
+      "start": 697.44,
+      "end": 698.92,
+      "text": "Speaker 3: you really need to be able to go along and"
+    },
+    {
+      "start": 698.96,
+      "end": 701.12,
+      "text": "Speaker 3: short and get lots of leverage. You can do that"
+    },
+    {
+      "start": 701.32,
+      "end": 703.44,
+      "text": "Speaker 3: in the closed end fund structure, where you can't do"
+    },
+    {
+      "start": 703.52,
+      "end": 706.44,
+      "text": "Speaker 3: that in a traditional mutual funder ETF. So it does"
+    },
+    {
+      "start": 706.6,
+      "end": 710.0,
+      "text": "Speaker 3: solve a problem. The issue is it's very rarely a"
+    },
+    {
+      "start": 710.04,
+      "end": 712.4,
+      "text": "Speaker 3: problem the normal investor has."
+    },
+    {
+      "start": 712.96,
+      "end": 716.72,
+      "text": "Speaker 2: So so you mentioned ps US, and I remember that"
+    },
+    {
+      "start": 716.8,
+      "end": 719.24,
+      "text": "Speaker 2: fee was not five BIPs. What was the fee on"
+    },
+    {
+      "start": 719.32,
+      "end": 720.0,
+      "text": "Speaker 2: ps US?"
+    },
+    {
+      "start": 721.04,
+      "end": 722.36,
+      "text": "Speaker 4: I think it's two percent."
+    },
+    {
+      "start": 722.76,
+      "end": 725.64,
+      "text": "Speaker 2: Well that's a chunk of cash, but no, twenty, it's"
+    },
+    {
+      "start": 725.64,
+      "end": 726.88,
+      "text": "Speaker 2: not a two and twenty hedge fund."
+    },
+    {
+      "start": 726.92,
+      "end": 729.4,
+      "text": "Speaker 4: It's just a two exactly."
+    },
+    {
+      "start": 729.52,
+      "end": 732.32,
+      "text": "Speaker 2: And what about products like USVC. By the way, I"
+    },
+    {
+      "start": 732.36,
+      "end": 735.76,
+      "text": "Speaker 2: love that these all have the name US in it."
+    },
+    {
+      "start": 735.8,
+      "end": 738.8,
+      "text": "Speaker 2: I guess the plan is they'll do an overseas version"
+    },
+    {
+      "start": 738.84,
+      "end": 739.88,
+      "text": "Speaker 2: one day as well."
+    },
+    {
+      "start": 739.88,
+      "end": 741.56,
+      "text": "Speaker 4: I guess. I guess."
+    },
+    {
+      "start": 741.72,
+      "end": 744.88,
+      "text": "Speaker 3: Look, they're all all of these funds are generally pretty expensive,"
+    },
+    {
+      "start": 745.96,
+      "end": 748.72,
+      "text": "Speaker 3: you know, something like the USPE, which is the one"
+    },
+    {
+      "start": 748.72,
+      "end": 751.36,
+      "text": "Speaker 3: that's come from TAP, which is basically just going to"
+    },
+    {
+      "start": 751.4,
+      "end": 753.48,
+      "text": "Speaker 3: buy a bunch of private stuff that they get access"
+    },
+    {
+      "start": 753.52,
+      "end": 756.4,
+      "text": "Speaker 3: to that's charging two percent. But then they're what they're"
+    },
+    {
+      "start": 756.44,
+      "end": 758.679,
+      "text": "Speaker 3: buying is other funds, and so you get a lot"
+    },
+    {
+      "start": 758.679,
+      "end": 761.56,
+      "text": "Speaker 3: of acquired fund expenses. So it's not uncommon to see"
+    },
+    {
+      "start": 761.6,
+      "end": 765.24,
+      "text": "Speaker 3: these expenses creep up towards three or four percent when"
+    },
+    {
+      "start": 765.24,
+      "end": 766.36,
+      "text": "Speaker 3: you start rolling all this stuff."
+    },
+    {
+      "start": 766.92,
+      "end": 769.76,
+      "text": "Speaker 4: It's fees on fees. Because it's fees on fees."
+    },
+    {
+      "start": 770.08,
+      "end": 773.08,
+      "text": "Speaker 3: Now, I should point out, though, the us VC is"
+    },
+    {
+      "start": 773.12,
+      "end": 775.36,
+      "text": "Speaker 3: the one that made a bunch of big splash lately"
+    },
+    {
+      "start": 775.36,
+      "end": 777.88,
+      "text": "Speaker 3: because they're basically saying the limits five hundred dollars, get"
+    },
+    {
+      "start": 777.88,
+      "end": 780.64,
+      "text": "Speaker 3: your money in now, and their structure that is a"
+    },
+    {
+      "start": 780.64,
+      "end": 783.24,
+      "text": "Speaker 3: bit more of an interval fund where once a quarter"
+    },
+    {
+      "start": 783.32,
+      "end": 786.319,
+      "text": "Speaker 3: they're saying we'll give five percent liquidity to people who"
+    },
+    {
+      "start": 786.36,
+      "end": 789.52,
+      "text": "Speaker 3: want to get out. That's again a fairly common structure,"
+    },
+    {
+      "start": 790.04,
+      "end": 792.48,
+      "text": "Speaker 3: although none of those things are written in stone. They"
+    },
+    {
+      "start": 792.52,
+      "end": 794.08,
+      "text": "Speaker 3: can say they're going to do that and then not"
+    },
+    {
+      "start": 794.12,
+      "end": 795.52,
+      "text": "Speaker 3: do it, and there's no recourse."
+    },
+    {
+      "start": 795.559,
+      "end": 798.959,
+      "text": "Speaker 2: But the USCC does not trade on any."
+    },
+    {
+      "start": 799.16,
+      "end": 801.12,
+      "text": "Speaker 4: It won't trade anywhere. It's non traded."
+    },
+    {
+      "start": 801.2,
+      "end": 803.12,
+      "text": "Speaker 3: So the only way you'll ever get your money out"
+    },
+    {
+      "start": 803.12,
+      "end": 805.6,
+      "text": "Speaker 3: of it is either they make a distribution because something"
+    },
+    {
+      "start": 805.96,
+      "end": 808.76,
+      "text": "Speaker 3: big happened in the fund, or you sign up for"
+    },
+    {
+      "start": 808.8,
+      "end": 810.959,
+      "text": "Speaker 3: one of these quarterly windows where you can get five"
+    },
+    {
+      "start": 810.96,
+      "end": 811.959,
+      "text": "Speaker 3: percent of your money out."
+    },
+    {
+      "start": 812.12,
+      "end": 817.96,
+      "text": "Speaker 2: So some of these are private and hold non liquid assets."
+    },
+    {
+      "start": 818.52,
+      "end": 822.679,
+      "text": "Speaker 2: Some of these are public and hold public assets. Are"
+    },
+    {
+      "start": 822.72,
+      "end": 826.9590000000001,
+      "text": "Speaker 2: there public versions of these that hold private assets."
+    },
+    {
+      "start": 826.96,
+      "end": 830.92,
+      "text": "Speaker 3: Well, the equivalent to that would be something like USPE,"
+    },
+    {
+      "start": 831.2,
+      "end": 833.64,
+      "text": "Speaker 3: which is the one that's coming from TAP. The idea"
+    },
+    {
+      "start": 833.72,
+      "end": 835.4,
+      "text": "Speaker 3: there is that they're going to have it'll be trading"
+    },
+    {
+      "start": 835.44,
+      "end": 838.16,
+      "text": "Speaker 3: on etchange. No, it's not an ETF. It's still a"
+    },
+    {
+      "start": 838.16,
+      "end": 840.32,
+      "text": "Speaker 3: closed und find but it'll be a trade to close fund."
+    },
+    {
+      "start": 840.32,
+      "end": 843.16,
+      "text": "Speaker 3: So we'll have these big discounts. The other version of"
+    },
+    {
+      "start": 843.16,
+      "end": 845.0,
+      "text": "Speaker 3: this is you can take an ETF and use the"
+    },
+    {
+      "start": 845.08,
+      "end": 849.04,
+      "text": "Speaker 3: fifteen percent liquid bucket that all mutual funds are technically"
+    },
+    {
+      "start": 849.04,
+      "end": 852.16,
+      "text": "Speaker 3: allowed to have, and you can try to use that aggressively."
+    },
+    {
+      "start": 852.28,
+      "end": 855.68,
+      "text": "Speaker 3: There are ETFs doing that. XOVR is the big one"
+    },
+    {
+      "start": 855.679,
+      "end": 858.92,
+      "text": "Speaker 3: that has a fifteen percent SpaceX chunk in it. Ron"
+    },
+    {
+      "start": 858.96,
+      "end": 862.6,
+      "text": "Speaker 3: Baron's funds RONB has a big chunk of SpaceX in"
+    },
+    {
+      "start": 862.64,
+      "end": 865.88,
+      "text": "Speaker 3: there right now. So there are more ETFs and mutual"
+    },
+    {
+      "start": 865.88,
+      "end": 869.2,
+      "text": "Speaker 3: funds that are trying to do that, but it's obviously"
+    },
+    {
+      "start": 869.24,
+      "end": 871.52,
+      "text": "Speaker 3: fraught with peril. You don't want to go too down,"
+    },
+    {
+      "start": 871.6,
+      "end": 873.36,
+      "text": "Speaker 3: too far down that road, and then have a giant"
+    },
+    {
+      "start": 873.36,
+      "end": 874.76,
+      "text": "Speaker 3: pile of redemptions you can't meet."
+    },
+    {
+      "start": 875.48,
+      "end": 881.28,
+      "text": "Speaker 2: So here's the obvious question USPE or even better pershing"
+    },
+    {
+      "start": 881.36,
+      "end": 888.12,
+      "text": "Speaker 2: square PSUs with Bill Ackman. These funds convinced savvy institutional"
+    },
+    {
+      "start": 888.16,
+      "end": 892.04,
+      "text": "Speaker 2: investors and others to put a bunch of money in."
+    },
+    {
+      "start": 892.12,
+      "end": 895.24,
+      "text": "Speaker 2: They launch at a couple of billion dollars. Wait, I"
+    },
+    {
+      "start": 895.28,
+      "end": 899.76,
+      "text": "Speaker 2: could buy me some Bill Ackman at a twenty percent discount."
+    },
+    {
+      "start": 900.6,
+      "end": 904.36,
+      "text": "Speaker 2: How come more people don't see this and say, oh,"
+    },
+    {
+      "start": 904.48,
+      "end": 908.28,
+      "text": "Speaker 2: I get I get to buy a premiere hedge fund"
+    },
+    {
+      "start": 908.36,
+      "end": 913.52,
+      "text": "Speaker 2: manager at a discount. Nav what's the disconnect. Why haven't"
+    },
+    {
+      "start": 913.56,
+      "end": 917.68,
+      "text": "Speaker 2: people themselves just said I want some of this is"
+    },
+    {
+      "start": 918.0,
+      "end": 920.56,
+      "text": "Speaker 2: the expectation that, hey, if you want to be in"
+    },
+    {
+      "start": 920.6,
+      "end": 923.84,
+      "text": "Speaker 2: Persian Square, that's where all the good stuff has taking place."
+    },
+    {
+      "start": 923.88,
+      "end": 928.36,
+      "text": "Speaker 2: But the PSUs just isn't going to have the closed"
+    },
+    {
+      "start": 928.44,
+      "end": 930.12,
+      "text": "Speaker 2: in fund isn't going to have the same juice."
+    },
+    {
+      "start": 930.28,
+      "end": 933.32,
+      "text": "Speaker 3: Interestingly, part of the reason Actman had such a hard"
+    },
+    {
+      "start": 933.36,
+      "end": 936.64,
+      "text": "Speaker 3: time getting this capital raised done over the years was"
+    },
+    {
+      "start": 936.68,
+      "end": 938.52,
+      "text": "Speaker 3: exactly that argument. People were like, I want to be"
+    },
+    {
+      "start": 938.6,
+      "end": 940.6,
+      "text": "Speaker 3: part of the management company. I don't want to own"
+    },
+    {
+      "start": 940.6,
+      "end": 943.48,
+      "text": "Speaker 3: this garbage fund. And so what they actually floated was"
+    },
+    {
+      "start": 943.56,
+      "end": 946.6,
+      "text": "Speaker 3: the combo platter where for every I think it's every"
+    },
+    {
+      "start": 946.64,
+      "end": 949.04,
+      "text": "Speaker 3: four or five shares of you get one fund, you"
+    },
+    {
+      "start": 949.08,
+      "end": 952.28,
+      "text": "Speaker 3: get one share of the of the big y of"
+    },
+    {
+      "start": 952.32,
+      "end": 952.76,
+      "text": "Speaker 3: the main."
+    },
+    {
+      "start": 952.72,
+      "end": 953.76,
+      "text": "Speaker 4: So you're both an LP."
+    },
+    {
+      "start": 954.28,
+      "end": 957.28,
+      "text": "Speaker 2: So if this was a hedge fund, an LP and"
+    },
+    {
+      "start": 957.32,
+      "end": 960.12,
+      "text": "Speaker 2: a GP at the same time, which is a very"
+    },
+    {
+      "start": 960.16,
+      "end": 963.24,
+      "text": "Speaker 2: clever way to do it. How much of the overall"
+    },
+    {
+      "start": 963.44,
+      "end": 968.12,
+      "text": "Speaker 2: GP did Ackman allow outsiders to buy or is it"
+    },
+    {
+      "start": 968.2,
+      "end": 969.56,
+      "text": "Speaker 2: just built into the fund?"
+    },
+    {
+      "start": 969.8,
+      "end": 973.2,
+      "text": "Speaker 3: It's built into the structure of the fund. I don't"
+    },
+    {
+      "start": 973.24,
+      "end": 973.72,
+      "text": "Speaker 3: know exactly."
+    },
+    {
+      "start": 973.72,
+      "end": 977.48,
+      "text": "Speaker 2: If you're not getting twenty percent of the gply."
+    },
+    {
+      "start": 976.8,
+      "end": 978.8,
+      "text": "Speaker 4: Not getting one hundred percent of it you're getting."
+    },
+    {
+      "start": 978.48,
+      "end": 980.68,
+      "text": "Speaker 2: One out of well, if you're buying it, you're only"
+    },
+    {
+      "start": 980.68,
+      "end": 982.88,
+      "text": "Speaker 2: getting one out of five shares or whatever there is."
+    },
+    {
+      "start": 983.32,
+      "end": 986.04,
+      "text": "Speaker 2: But he could say, oh, we're gonna have one hundred"
+    },
+    {
+      "start": 986.08,
+      "end": 988.04,
+      "text": "Speaker 2: million shares and I'm gonna put a million into this"
+    },
+    {
+      "start": 988.16,
+      "end": 989.24,
+      "text": "Speaker 2: or whatever the float is."
+    },
+    {
+      "start": 989.52,
+      "end": 991.76,
+      "text": "Speaker 3: Right, I mean, this is part of the problem with"
+    },
+    {
+      "start": 991.84,
+      "end": 995.04,
+      "text": "Speaker 3: these kinds of funds is that you ask why people aren't,"
+    },
+    {
+      "start": 995.2,
+      "end": 997.28,
+      "text": "Speaker 3: you know, storming the gates to try to get into"
+    },
+    {
+      "start": 997.32,
+      "end": 999.8,
+      "text": "Speaker 3: this thing. Well, you don't know that much about it, right,"
+    },
+    {
+      "start": 999.84,
+      "end": 1003.24,
+      "text": "Speaker 3: You're not getting regular reporting, it's not super transparent. You"
+    },
+    {
+      "start": 1003.28,
+      "end": 1005.84,
+      "text": "Speaker 3: don't really know what the marks are. Obviously, if they're"
+    },
+    {
+      "start": 1005.88,
+      "end": 1008.8,
+      "text": "Speaker 3: only holding public securities, you can impute the marks yourself,"
+    },
+    {
+      "start": 1008.8,
+      "end": 1011.72,
+      "text": "Speaker 3: that's fine. But on anything that's private, you're just kind"
+    },
+    {
+      "start": 1011.72,
+      "end": 1014.92,
+      "text": "Speaker 3: of guessing and taking their word for it for it. So, yeah,"
+    },
+    {
+      "start": 1014.96,
+      "end": 1016.96,
+      "text": "Speaker 3: it's trading at a twenty percent discount to what you"
+    },
+    {
+      "start": 1017.0,
+      "end": 1019.52,
+      "text": "Speaker 3: think it's worth, But is that really even what it's worth?"
+    },
+    {
+      "start": 1019.56,
+      "end": 1021.96,
+      "text": "Speaker 3: And how do you value the GP component of this"
+    },
+    {
+      "start": 1022.44,
+      "end": 1025.88,
+      "text": "Speaker 3: in that twenty percent discount, et cetera. So I think"
+    },
+    {
+      "start": 1025.92,
+      "end": 1029.0,
+      "text": "Speaker 3: the combo platter of lack of transparency and lack of"
+    },
+    {
+      "start": 1029.08,
+      "end": 1032.6,
+      "text": "Speaker 3: liquidity is enough to scare most rational investors out of"
+    },
+    {
+      "start": 1032.6,
+      "end": 1033.119,
+      "text": "Speaker 3: something like this."
+    },
+    {
+      "start": 1033.6,
+      "end": 1037.159,
+      "text": "Speaker 2: So those are the downsides. There obviously has to be"
+    },
+    {
+      "start": 1037.359,
+      "end": 1040.919,
+      "text": "Speaker 2: an upside. If someone like Bill Ackman is saying I"
+    },
+    {
+      "start": 1040.96,
+      "end": 1044.28,
+      "text": "Speaker 2: have an idea and two billion dollars worth of smart"
+    },
+    {
+      "start": 1044.32,
+      "end": 1049.96,
+      "text": "Speaker 2: money theoretically through some cash into that, what's the upside, Well."
+    },
+    {
+      "start": 1049.76,
+      "end": 1052.359,
+      "text": "Speaker 3: The upside is Bill Ackman could be right, right, Like,"
+    },
+    {
+      "start": 1052.44,
+      "end": 1055.8,
+      "text": "Speaker 3: I mean, he runs high concentration, somewhat levered portfolios of"
+    },
+    {
+      "start": 1056.08,
+      "end": 1057.36,
+      "text": "Speaker 3: I know, a dozen stocks."
+    },
+    {
+      "start": 1058.28,
+      "end": 1059.48,
+      "text": "Speaker 4: That's a high conviction bed."
+    },
+    {
+      "start": 1059.52,
+      "end": 1062.76,
+      "text": "Speaker 3: If he gets those dozen stocks right, he could absolutely"
+    },
+    {
+      "start": 1063.28,
+      "end": 1067.24,
+      "text": "Speaker 3: blow away the market. I've fully acknowledged that their investors."
+    },
+    {
+      "start": 1066.88,
+      "end": 1069.28,
+      "text": "Speaker 2: And his track record has shown years it's not bad"
+    },
+    {
+      "start": 1069.32,
+      "end": 1073.399,
+      "text": "Speaker 2: the lights out right, it's exactly not necessarily consistent, but"
+    },
+    {
+      "start": 1074.04,
+      "end": 1077.8,
+      "text": "Speaker 2: mostly pretty good years and a handful of spectacular."
+    },
+    {
+      "start": 1077.28,
+      "end": 1078.64,
+      "text": "Speaker 4: Some flashes of genius. Right."
+    },
+    {
+      "start": 1078.72,
+      "end": 1081.639,
+      "text": "Speaker 3: So, like, that's why people are buying into these things"
+    },
+    {
+      "start": 1081.72,
+      "end": 1085.32,
+      "text": "Speaker 3: is because they believe in this case, for you, Purring Square,"
+    },
+    {
+      "start": 1085.4,
+      "end": 1088.4,
+      "text": "Speaker 3: they believe in Actman and his prowess and his access"
+    },
+    {
+      "start": 1088.44,
+      "end": 1091.84,
+      "text": "Speaker 3: to insight information quote unquote or his access to insight"
+    },
+    {
+      "start": 1091.92,
+      "end": 1094.359,
+      "text": "Speaker 3: that other people aren't getting in the case of something"
+    },
+    {
+      "start": 1094.44,
+      "end": 1097.32,
+      "text": "Speaker 3: like USVC, I think what they're counting on is, oh,"
+    },
+    {
+      "start": 1097.44,
+      "end": 1100.12,
+      "text": "Speaker 3: those are the Angel List guys. They're getting to see"
+    },
+    {
+      "start": 1100.16,
+      "end": 1102.84,
+      "text": "Speaker 3: all of this deal flow from Silicon Valley way before"
+    },
+    {
+      "start": 1102.88,
+      "end": 1106.08,
+      "text": "Speaker 3: everybody else. USVC is going to get these nice little"
+    },
+    {
+      "start": 1106.119,
+      "end": 1109.12,
+      "text": "Speaker 3: slugs of whatever the next SpaceX or the next big"
+    },
+    {
+      "start": 1109.2,
+      "end": 1112.52,
+      "text": "Speaker 3: IPO is going to be way before anybody else. That's"
+    },
+    {
+      "start": 1112.56,
+      "end": 1115.92,
+      "text": "Speaker 3: not insane, right, I mean, I have some private investments"
+    },
+    {
+      "start": 1116.0,
+      "end": 1118.44,
+      "text": "Speaker 3: of my own. I've choosen to be much more careful"
+    },
+    {
+      "start": 1118.44,
+      "end": 1120.72,
+      "text": "Speaker 3: and pick exactly what I want to do. But I'm"
+    },
+    {
+      "start": 1120.76,
+      "end": 1122.72,
+      "text": "Speaker 3: not going to sit here and tell people private investing"
+    },
+    {
+      "start": 1122.8,
+      "end": 1125.52,
+      "text": "Speaker 3: is a terrible idea. Lots of people who made lots"
+    },
+    {
+      "start": 1125.52,
+      "end": 1129.52,
+      "text": "Speaker 3: of money doing it. So that's the allure is, Hey, USVC,"
+    },
+    {
+      "start": 1129.8,
+      "end": 1132.28,
+      "text": "Speaker 3: once they finally let people's money and then start investing,"
+    },
+    {
+      "start": 1132.96,
+      "end": 1136.359,
+      "text": "Speaker 3: maybe they will in fact carry the whole tailwind of"
+    },
+    {
+      "start": 1136.4,
+      "end": 1139.84,
+      "text": "Speaker 3: everything going on in Silicon Valley venture and you're five"
+    },
+    {
+      "start": 1140.119,
+      "end": 1142.72,
+      "text": "Speaker 3: dollar becomes five thousand dollars."
+    },
+    {
+      "start": 1142.76,
+      "end": 1143.76,
+      "text": "Speaker 4: It's not impossible."
+    },
+    {
+      "start": 1144.44,
+      "end": 1147.84,
+      "text": "Speaker 2: Here's the math on private investing that I think a"
+    },
+    {
+      "start": 1147.84,
+      "end": 1153.8,
+      "text": "Speaker 2: lot of people overlook. The median fund it does okay,"
+    },
+    {
+      "start": 1155.119,
+      "end": 1157.159,
+      "text": "Speaker 2: doesn't do great. You're better off in the S and P."
+    },
+    {
+      "start": 1157.92,
+      "end": 1162.52,
+      "text": "Speaker 2: It's expensive, and it's a liquid versus the SMP. But"
+    },
+    {
+      "start": 1162.6,
+      "end": 1167.72,
+      "text": "Speaker 2: a top decile fund does really well, diversified, non correlated"
+    },
+    {
+      "start": 1167.76,
+      "end": 1172.2,
+      "text": "Speaker 2: and very often outperforms the index. The problem is unless"
+    },
+    {
+      "start": 1172.24,
+      "end": 1174.8,
+      "text": "Speaker 2: you get into that I'll be generous and say top"
+    },
+    {
+      "start": 1174.92,
+      "end": 1179.92,
+      "text": "Speaker 2: quartile fund the performance the juice isn't worth the squeeze."
+    },
+    {
+      "start": 1180.16,
+      "end": 1184.16,
+      "text": "Speaker 2: I love that expression. So given all of that, how"
+    },
+    {
+      "start": 1184.2,
+      "end": 1188.359,
+      "text": "Speaker 2: do you think regulators should be treating this private exposure"
+    },
+    {
+      "start": 1188.4,
+      "end": 1190.28,
+      "text": "Speaker 2: in these various public rappers."
+    },
+    {
+      "start": 1191.2,
+      "end": 1194.24,
+      "text": "Speaker 3: Well, so, my two big issues are liquidity and transparency."
+    },
+    {
+      "start": 1195.119,
+      "end": 1198.64,
+      "text": "Speaker 3: I think we should enforce the liquidity rules, right, which"
+    },
+    {
+      "start": 1198.68,
+      "end": 1200.84,
+      "text": "Speaker 3: means that if you're sticking something in like an ETF,"
+    },
+    {
+      "start": 1201.48,
+      "end": 1203.679,
+      "text": "Speaker 3: you should not be able to violate the fifteen percent."
+    },
+    {
+      "start": 1203.76,
+      "end": 1205.359,
+      "text": "Speaker 3: If you cannot trade it and get a price on"
+    },
+    {
+      "start": 1205.44,
+      "end": 1208.159,
+      "text": "Speaker 3: it intraday, it is not liquid and you should not"
+    },
+    {
+      "start": 1208.24,
+      "end": 1211.32,
+      "text": "Speaker 3: count it as liquid. So step one, we should actually"
+    },
+    {
+      "start": 1211.44,
+      "end": 1213.48,
+      "text": "Speaker 3: enforce those liquidity rules."
+    },
+    {
+      "start": 1213.16,
+      "end": 1216.199,
+      "text": "Speaker 2: Intra day, meaning once a day or any time throughout"
+    },
+    {
+      "start": 1216.24,
+      "end": 1216.64,
+      "text": "Speaker 2: the day."
+    },
+    {
+      "start": 1216.72,
+      "end": 1218.0,
+      "text": "Speaker 4: Well, you've got to at least be able to do"
+    },
+    {
+      "start": 1218.0,
+      "end": 1219.44,
+      "text": "Speaker 4: it once a day, okay."
+    },
+    {
+      "start": 1219.2,
+      "end": 1223.16,
+      "text": "Speaker 3: And I would argue holding an intra day priced vehicle,"
+    },
+    {
+      "start": 1224.4,
+      "end": 1226.68,
+      "text": "Speaker 3: you should probably be holding most of your assets in"
+    },
+    {
+      "start": 1226.72,
+      "end": 1230.8,
+      "text": "Speaker 3: intra day price securities. Eighty yeah, eighty five percent, right,"
+    },
+    {
+      "start": 1230.88,
+      "end": 1233.919,
+      "text": "Speaker 3: So like that seems pretty rational, and then you know"
+    },
+    {
+      "start": 1234.0,
+      "end": 1236.4,
+      "text": "Speaker 3: the other you know, so that's the that's the liquidity"
+    },
+    {
+      "start": 1236.44,
+      "end": 1238.84,
+      "text": "Speaker 3: side of it, and then the transparency side of it. Look,"
+    },
+    {
+      "start": 1238.92,
+      "end": 1242.04,
+      "text": "Speaker 3: the problem in private equity and private credit. As everybody"
+    },
+    {
+      "start": 1242.2,
+      "end": 1243.879,
+      "text": "Speaker 3: knows who's played in any of this, is that the"
+    },
+    {
+      "start": 1243.96,
+      "end": 1247.2,
+      "text": "Speaker 3: marks don't matter, right. I mean, we've all seen those,"
+    },
+    {
+      "start": 1248.119,
+      "end": 1251.08,
+      "text": "Speaker 3: those those pitch books that say, look, you should invest"
+    },
+    {
+      "start": 1251.119,
+      "end": 1254.24,
+      "text": "Speaker 3: in privates. They're so stable they hardly ever go up"
+    },
+    {
+      "start": 1254.359,
+      "end": 1254.76,
+      "text": "Speaker 3: or down."
+    },
+    {
+      "start": 1255.04,
+      "end": 1259.28,
+      "text": "Speaker 2: I love I Love Cliff Astness calls that volatility laundry,"
+    },
+    {
+      "start": 1259.4,
+      "end": 1261.28,
+      "text": "Speaker 2: and it's exactly to perfect phrase."
+    },
+    {
+      "start": 1261.44,
+      "end": 1261.64,
+      "text": "Speaker 4: Right."
+    },
+    {
+      "start": 1261.68,
+      "end": 1266.12,
+      "text": "Speaker 3: So you're taking what would obviously be wildly volaile assets"
+    },
+    {
+      "start": 1266.119,
+      "end": 1268.44,
+      "text": "Speaker 3: and you're marking them once a quarter, and you're marking them,"
+    },
+    {
+      "start": 1268.52,
+      "end": 1270.72,
+      "text": "Speaker 3: you know, based on a lower vall metric on what"
+    },
+    {
+      "start": 1270.84,
+      "end": 1274.119,
+      "text": "Speaker 3: it's comps did. So of course those are ridiculous and"
+    },
+    {
+      "start": 1274.32,
+      "end": 1277.48,
+      "text": "Speaker 3: stupid marks. So that would be the next thing I"
+    },
+    {
+      "start": 1277.52,
+      "end": 1281.52,
+      "text": "Speaker 3: would focus on is independent valuation agents for anything that"
+    },
+    {
+      "start": 1281.6,
+      "end": 1284.12,
+      "text": "Speaker 3: is going to touch the public hand, right, if it's"
+    },
+    {
+      "start": 1284.119,
+      "end": 1285.6,
+      "text": "Speaker 3: not in a prime, if it's not in a limited"
+    },
+    {
+      "start": 1285.64,
+      "end": 1288.12,
+      "text": "Speaker 3: partnership where you've got your own governing documents, if you're"
+    },
+    {
+      "start": 1288.119,
+      "end": 1291.84,
+      "text": "Speaker 3: going to touch the nineteen forty Act, we said independent verification,"
+    },
+    {
+      "start": 1291.96,
+      "end": 1295.04,
+      "text": "Speaker 3: and we should at least publish valuation rules. That's the"
+    },
+    {
+      "start": 1295.119,
+      "end": 1298.08,
+      "text": "Speaker 3: other big one is that they don't tell you how"
+    },
+    {
+      "start": 1298.119,
+      "end": 1300.679,
+      "text": "Speaker 3: they value any of these things. That's the board. The"
+    },
+    {
+      "start": 1300.72,
+      "end": 1303.8,
+      "text": "Speaker 3: board values whether or not your private thing is worth"
+    },
+    {
+      "start": 1303.96,
+      "end": 1304.439,
+      "text": "Speaker 3: X or Y."
+    },
+    {
+      "start": 1305.24,
+      "end": 1306.08,
+      "text": "Speaker 4: I don't like that."
+    },
+    {
+      "start": 1306.2,
+      "end": 1308.359,
+      "text": "Speaker 3: I would like to know the rules. Why do you"
+    },
+    {
+      "start": 1308.4,
+      "end": 1310.76,
+      "text": "Speaker 3: think SpaceX is worth one hundred and eighty five dollars"
+    },
+    {
+      "start": 1310.84,
+      "end": 1311.8,
+      "text": "Speaker 3: instead of five hundred?"
+    },
+    {
+      "start": 1312.32,
+      "end": 1317.439,
+      "text": "Speaker 2: Huh really really, really fascinating. Last question, five years from now?"
+    },
+    {
+      "start": 1318.08,
+      "end": 1324.08,
+      "text": "Speaker 2: How do you think this public private distinction, these public"
+    },
+    {
+      "start": 1324.08,
+      "end": 1330.199,
+      "text": "Speaker 2: wrappers around private investments? I love the phrase liquid alts"
+    },
+    {
+      "start": 1330.76,
+      "end": 1335.36,
+      "text": "Speaker 2: kind of reminds me of the George Carlin word routine jumbo."
+    },
+    {
+      "start": 1334.88,
+      "end": 1336.52,
+      "text": "Speaker 4: Shrimp military intelligence."
+    },
+    {
+      "start": 1336.64,
+      "end": 1340.84,
+      "text": "Speaker 2: Right exactly, that's the exact routine. Listen, either it's private"
+    },
+    {
+      "start": 1340.88,
+      "end": 1343.879,
+      "text": "Speaker 2: and ill liquid or public in liquid, but private and"
+    },
+    {
+      "start": 1343.96,
+      "end": 1346.84,
+      "text": "Speaker 2: liquid doesn't really at that point, it might as well"
+    },
+    {
+      "start": 1346.88,
+      "end": 1349.52,
+      "text": "Speaker 2: be public. Doesn't make any sense. How do you think"
+    },
+    {
+      "start": 1349.6,
+      "end": 1352.159,
+      "text": "Speaker 2: this distinction is going to show up in the minds"
+    },
+    {
+      "start": 1352.16,
+      "end": 1355.44,
+      "text": "Speaker 2: of investors and or regulators?"
+    },
+    {
+      "start": 1356.119,
+      "end": 1359.84,
+      "text": "Speaker 3: I feel I don't want to be doomberg about this,"
+    },
+    {
+      "start": 1360.56,
+      "end": 1363.08,
+      "text": "Speaker 3: but I feel fairly confident suggesting we're going to have"
+    },
+    {
+      "start": 1363.4,
+      "end": 1367.199,
+      "text": "Speaker 3: some event in the next couple of years which is"
+    },
+    {
+      "start": 1367.28,
+      "end": 1370.2,
+      "text": "Speaker 3: going to like pull the scales off our eyes around."
+    },
+    {
+      "start": 1370.56,
+      "end": 1373.52,
+      "text": "Speaker 2: Haven't we kind of had those sort of events already"
+    },
+    {
+      "start": 1373.6,
+      "end": 1378.76,
+      "text": "Speaker 2: this year, We've had a bunch of privates."
+    },
+    {
+      "start": 1377.32,
+      "end": 1380.679,
+      "text": "Speaker 3: Very very thin like blue owls like in your BBC"
+    },
+    {
+      "start": 1380.88,
+      "end": 1381.68,
+      "text": "Speaker 3: for redemptions."
+    },
+    {
+      "start": 1381.72,
+      "end": 1384.28,
+      "text": "Speaker 4: That's pretty that's that's right, that's course of business."
+    },
+    {
+      "start": 1384.359,
+      "end": 1388.08,
+      "text": "Speaker 2: You're talking not quite GFC, but in the same neighborhood."
+    },
+    {
+      "start": 1388.6,
+      "end": 1390.84,
+      "text": "Speaker 3: Yeah, I think we're going to have a few funds"
+    },
+    {
+      "start": 1391.44,
+      "end": 1395.52,
+      "text": "Speaker 3: really have to to, you know, either close, whether it's"
+    },
+    {
+      "start": 1395.52,
+      "end": 1399.72,
+      "text": "Speaker 3: a high profile private equity fund unwinding, whether it's some"
+    },
+    {
+      "start": 1399.8,
+      "end": 1402.72,
+      "text": "Speaker 3: of the private credit stuff really coming home to roost. Now,"
+    },
+    {
+      "start": 1402.88,
+      "end": 1405.399,
+      "text": "Speaker 3: initially it looks like we may have dodged some of that,"
+    },
+    {
+      "start": 1405.6,
+      "end": 1407.56,
+      "text": "Speaker 3: Like the private credit stuff. I think there was a"
+    },
+    {
+      "start": 1407.56,
+      "end": 1409.24,
+      "text": "Speaker 3: lot of concern that that was going to blow up"
+    },
+    {
+      "start": 1409.28,
+      "end": 1411.879,
+      "text": "Speaker 3: the world. We seem to be being a little more"
+    },
+    {
+      "start": 1412.0,
+      "end": 1415.439,
+      "text": "Speaker 3: rational about that. On the private equity side. You know,"
+    },
+    {
+      "start": 1415.52,
+      "end": 1417.719,
+      "text": "Speaker 3: I think most of the money going into private equity"
+    },
+    {
+      "start": 1417.76,
+      "end": 1421.08,
+      "text": "Speaker 3: is pretty high risk tolerance money anyway. So until we"
+    },
+    {
+      "start": 1421.28,
+      "end": 1423.919,
+      "text": "Speaker 3: actually cross that rubicon of shoving this stuff in four"
+    },
+    {
+      "start": 1424.0,
+      "end": 1426.08,
+      "text": "Speaker 3: o one k's, which I think is still going to"
+    },
+    {
+      "start": 1426.08,
+      "end": 1428.2,
+      "text": "Speaker 3: be a while out, I don't think that's happening tomorrow."
+    },
+    {
+      "start": 1428.4,
+      "end": 1431.28,
+      "text": "Speaker 2: I hope that's a very far out."
+    },
+    {
+      "start": 1431.52,
+      "end": 1431.76,
+      "text": "Speaker 4: Yeah."
+    },
+    {
+      "start": 1431.8,
+      "end": 1435.04,
+      "text": "Speaker 3: So I think we'll have some high profile blow ups,"
+    },
+    {
+      "start": 1435.08,
+      "end": 1437.68,
+      "text": "Speaker 3: but I think that they will be they'll be good"
+    },
+    {
+      "start": 1437.76,
+      "end": 1440.0,
+      "text": "Speaker 3: for investors in the sense that they will wake us"
+    },
+    {
+      "start": 1440.119,
+      "end": 1442.52,
+      "text": "Speaker 3: up and will be more skeptical, which I think is"
+    },
+    {
+      "start": 1442.52,
+      "end": 1444.919,
+      "text": "Speaker 3: what's happened with private credit? There is not billions and"
+    },
+    {
+      "start": 1444.92,
+      "end": 1447.679,
+      "text": "Speaker 3: billions and billions of dollars chasing private credit from retail"
+    },
+    {
+      "start": 1447.72,
+      "end": 1449.0,
+      "text": "Speaker 3: right now, that's a good thing."
+    },
+    {
+      "start": 1449.6,
+      "end": 1450.719,
+      "text": "Speaker 4: I think we dodged a bullet."
+    },
+    {
+      "start": 1450.8,
+      "end": 1453.96,
+      "text": "Speaker 2: Well, well, there certainly was billions of dollars chasing."
+    },
+    {
+      "start": 1454.32,
+      "end": 1457.2,
+      "text": "Speaker 4: Twenty four and five millions. That's right."
+    },
+    {
+      "start": 1457.28,
+      "end": 1461.12,
+      "text": "Speaker 2: So to wrap up, for those of you interested in"
+    },
+    {
+      "start": 1461.24,
+      "end": 1464.92,
+      "text": "Speaker 2: everything from liquid alts to interval funds, to M and"
+    },
+    {
+      "start": 1465.0,
+      "end": 1468.6,
+      "text": "Speaker 2: A funds to what have you, you have to be"
+    },
+    {
+      "start": 1468.68,
+      "end": 1473.36,
+      "text": "Speaker 2: aware of the downside risks. These things tend to be expensive."
+    },
+    {
+      "start": 1473.84,
+      "end": 1478.04,
+      "text": "Speaker 2: They often trade at a discount, assuming they trade at all."
+    },
+    {
+      "start": 1478.16,
+      "end": 1482.16,
+      "text": "Speaker 2: They are not especially transparent. There is a lot of"
+    },
+    {
+      "start": 1482.359,
+      "end": 1485.32,
+      "text": "Speaker 2: good faith in relying on management to tell you what"
+    },
+    {
+      "start": 1485.48,
+      "end": 1490.679,
+      "text": "Speaker 2: these things are worth. No conflicts there, and generally speaking,"
+    },
+    {
+      "start": 1491.56,
+      "end": 1495.32,
+      "text": "Speaker 2: they seem to operate at a on a very different"
+    },
+    {
+      "start": 1495.4,
+      "end": 1501.08,
+      "text": "Speaker 2: plane than publicly traded stocks and bonds. I'm Barry Ridolts."
+    },
+    {
+      "start": 1501.24,
+      "end": 1512.399,
+      "text": "Speaker 2: You're listening to Bloomberg's at the Money m"
+    }
+  ]
+}

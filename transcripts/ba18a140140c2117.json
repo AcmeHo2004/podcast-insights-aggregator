@@ -1,0 +1,3466 @@
+{
+  "id": "ba18a140140c2117",
+  "show": "Monetary Matters (Forward Guidance)",
+  "theme": "Macro & Rates",
+  "title": "Regulatory Risk is Coming For AI | David Woo on AI Data Center CapEx and Iran War",
+  "audio_url": "https://traffic.megaphone.fm/EWWMN9031626385.mp3",
+  "source": "local-whisper",
+  "duration": 3933.2,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Today's episode is brought to you by the Tukurium Corn Fund ticker C O R N. Let's get into it."
+    },
+    {
+      "start": 6.0,
+      "end": 11.28,
+      "text": "Very pleased today to be joined by David Wu, independent economist, known for his game theory"
+    },
+    {
+      "start": 11.28,
+      "end": 16.0,
+      "text": "based forecasts on global markets and geopolitics. David, welcome to monetary matters."
+    },
+    {
+      "start": 16.0,
+      "end": 20.96,
+      "text": "Thanks for having me. David, what do you think about AI, the huge"
+    },
+    {
+      "start": 20.96,
+      "end": 25.84,
+      "text": "capex in data centers that's now global and just the AI data center trade?"
+    },
+    {
+      "start": 25.84,
+      "end": 29.68,
+      "text": "For me, the big takeaway from the first quarter was the fact, by the way,"
+    },
+    {
+      "start": 29.68,
+      "end": 37.2,
+      "text": "the combined capex of the five hybrid scalers that is Microsoft, Google, Amazon,"
+    },
+    {
+      "start": 37.2,
+      "end": 43.92,
+      "text": "whatever, Oracle and Facebook were actually down for the first time in three years,"
+    },
+    {
+      "start": 43.92,
+      "end": 50.24,
+      "text": "actually on a quarter on quarter comparison. In fact, even on your comparison, the growth rate dropped"
+    },
+    {
+      "start": 50.24,
+      "end": 57.36,
+      "text": "relative to the fourth quarter last year. And then not to mention the fact that,"
+    },
+    {
+      "start": 57.36,
+      "end": 62.0,
+      "text": "obviously, in the first quarter, these hyper-skillers were paying more for whatever they were"
+    },
+    {
+      "start": 62.0,
+      "end": 68.32000000000001,
+      "text": "buying from Micron, Samsung and practically everything else. Okay, so as a result,"
+    },
+    {
+      "start": 68.32000000000001,
+      "end": 73.44,
+      "text": "if they were paying more for the same stuff that they were buying and they're spending"
+    },
+    {
+      "start": 73.44,
+      "end": 79.68,
+      "text": "actually less than they did in Q4, what this means is that actually capex in real terms"
+    },
+    {
+      "start": 79.68,
+      "end": 85.12,
+      "text": "was probably down quite a bit. Okay, now it's interesting that why people got so excited because"
+    },
+    {
+      "start": 85.12,
+      "end": 90.72000000000001,
+      "text": "well, say the earnings growth is going through the root of up 25%. But let me tell you why. Imagine"
+    },
+    {
+      "start": 90.72000000000001,
+      "end": 99.52000000000001,
+      "text": "Microsoft, all Microsoft did was to pay $100 more per basically membership to Micron. Now Microsoft"
+    },
+    {
+      "start": 99.52000000000001,
+      "end": 104.72,
+      "text": "only expense, let's just say 10% of that because they only expense the capex, you know, essentially"
+    },
+    {
+      "start": 104.72,
+      "end": 111.52,
+      "text": "based on depreciation. So I just say they have to expense $10 of the $100 increase in Micron chip."
+    },
+    {
+      "start": 111.52,
+      "end": 117.12,
+      "text": "Okay, Micron, because this is just literally like free money because they just literally,"
+    },
+    {
+      "start": 117.12,
+      "end": 122.88,
+      "text": "they don't even have to produce more, they're just charging more. That is 100% basically margin"
+    },
+    {
+      "start": 122.88,
+      "end": 129.92,
+      "text": "business. Okay, so they get basically booked an increase in profit by $100. So 100 minus 10,"
+    },
+    {
+      "start": 130.00000000000003,
+      "end": 136.24,
+      "text": "that is combined earnings go up by $90 just because Microsoft is paying $100 more to Micron."
+    },
+    {
+      "start": 136.24,
+      "end": 144.16000000000003,
+      "text": "Okay, for the same chip, what I'm saying to you is that ironically, the inflation of the components"
+    },
+    {
+      "start": 144.16000000000003,
+      "end": 152.08,
+      "text": "that go into data centers have actually given ironically a boost to basically nominal earnings"
+    },
+    {
+      "start": 152.08,
+      "end": 157.12,
+      "text": "growth because equity investors are dumb. They only look at nominal and rather than real for them."
+    },
+    {
+      "start": 157.12,
+      "end": 162.08,
+      "text": "Wow, nominal looks great. But I think so from now on, this is actually very important because so"
+    },
+    {
+      "start": 162.08,
+      "end": 168.4,
+      "text": "I'm telling you, ironically, I don't disagree the notion that more capex to the extent that"
+    },
+    {
+      "start": 168.4,
+      "end": 174.0,
+      "text": "hyper-skillers think that there is more upside for them in terms of productivity growth in terms of"
+    },
+    {
+      "start": 174.0,
+      "end": 180.4,
+      "text": "whatever it is, that's bullish for AI. But I would argue by the way, not only there was a slowdown,"
+    },
+    {
+      "start": 180.4,
+      "end": 185.76,
+      "text": "but actually the slowdown in real terms, poverty was quite considerable. On top of that in the first"
+    },
+    {
+      "start": 185.76,
+      "end": 192.07999999999998,
+      "text": "quarter, I think the numbers were in general, okay, since should the window address by token maxing,"
+    },
+    {
+      "start": 192.07999999999998,
+      "end": 197.76,
+      "text": "as you know, right? We know all these software engineers were racking up massive consumption"
+    },
+    {
+      "start": 197.76,
+      "end": 204.32,
+      "text": "of AI because like, for example, Amazon, Amazon at a certain point were ranking their AI, whatever,"
+    },
+    {
+      "start": 204.32,
+      "end": 211.44,
+      "text": "their software engineers based on who's using more AI, okay? So everybody was trying to max out,"
+    },
+    {
+      "start": 211.44,
+      "end": 218.24,
+      "text": "you know, saying should the AI usage? As we saw, you saw the search in AI usage. This is why,"
+    },
+    {
+      "start": 218.24,
+      "end": 223.28,
+      "text": "you know, what you probably heard this, you know, the CEO of Uber coming out a few weeks ago saying that"
+    },
+    {
+      "start": 223.28,
+      "end": 228.8,
+      "text": "they ran through their entire token budget for the year in just four months and have very little"
+    },
+    {
+      "start": 228.8,
+      "end": 235.6,
+      "text": "to show for and now they're rating back. So what I'm telling you is that very likely, we're probably"
+    },
+    {
+      "start": 235.6,
+      "end": 241.2,
+      "text": "going to see a slowdown in Q2. So Q1 numbers were very impressive, no doubt about that, okay? And I"
+    },
+    {
+      "start": 241.20000000000002,
+      "end": 245.92000000000002,
+      "text": "think it's for the wrong reason. I think Q2, you're probably going to see a slowdown. So you said"
+    },
+    {
+      "start": 245.92000000000002,
+      "end": 250.56,
+      "text": "that there was a slowdown in actual cap X and Q1? Yes. Quarter over quarter. Wow. No one's"
+    },
+    {
+      "start": 250.56,
+      "end": 256.56,
+      "text": "talking about that. In US dollar terms, there was a quarter and quarter drop. In a year and year,"
+    },
+    {
+      "start": 256.56,
+      "end": 263.36,
+      "text": "basically growth rate decline in Q1. Wow. This is even before we take into account of the inflation,"
+    },
+    {
+      "start": 264.0,
+      "end": 269.6,
+      "text": "probably we saw in Q1, which it would driven down, essentially, the real increase, the value"
+    },
+    {
+      "start": 269.6,
+      "end": 274.72,
+      "text": "increase in the actual cap X. So what explains that quarter over quarter decrease in"
+    },
+    {
+      "start": 274.72,
+      "end": 279.04,
+      "text": "CapEx from the fourth quarter of last year to the first quarter of this year and how come no one"
+    },
+    {
+      "start": 279.04,
+      "end": 283.28000000000003,
+      "text": "else is talking about this? I think people just don't want to get a number. I mean, the main reason"
+    },
+    {
+      "start": 283.28000000000003,
+      "end": 288.96000000000004,
+      "text": "is Microsoft actually Google actually increased their their their CapEx a little bit. Microsoft and"
+    },
+    {
+      "start": 288.96000000000004,
+      "end": 292.72,
+      "text": "Facebook basically pull back a bit, which actually makes a lot of sense to me, actually because"
+    },
+    {
+      "start": 292.72,
+      "end": 297.84000000000003,
+      "text": "Microsoft, we know that they have some issues, you know, because in the past, they thought that"
+    },
+    {
+      "start": 297.84000000000003,
+      "end": 304.96000000000004,
+      "text": "they had this exclusive deal with Charlie PT with open AI, right? And then they lost that. And then"
+    },
+    {
+      "start": 304.96000000000004,
+      "end": 310.88000000000005,
+      "text": "they've been trying to they are trying to and then they saw also the adoption, corporate adoption"
+    },
+    {
+      "start": 310.88000000000005,
+      "end": 318.88000000000005,
+      "text": "of essentially Microsoft Copilot offering has been much basically worse than expected. This is"
+    },
+    {
+      "start": 318.88000000000005,
+      "end": 323.84000000000003,
+      "text": "the reason. So I think from that point of view, I mean, I think Microsoft, probably's always been"
+    },
+    {
+      "start": 323.84000000000003,
+      "end": 330.00000000000006,
+      "text": "a bit more conservative. I think to the extent that they're not like for Google, I think for Facebook,"
+    },
+    {
+      "start": 330.00000000000006,
+      "end": 334.72,
+      "text": "they've always felt that God, if I don't invest, I'm going to be left behind. Therefore, I'm just going"
+    },
+    {
+      "start": 334.72,
+      "end": 339.44000000000005,
+      "text": "to keep chasing this whatever it takes and so on and so forth. I don't think Microsoft basically,"
+    },
+    {
+      "start": 339.44000000000005,
+      "end": 343.04,
+      "text": "Microsoft historic has always been more conservative, but I think this is the reason why we saw a bit"
+    },
+    {
+      "start": 343.04,
+      "end": 349.28000000000003,
+      "text": "of pullback. And I think from that point of view, like again, in the case of Google and Amazon,"
+    },
+    {
+      "start": 349.28000000000003,
+      "end": 355.92,
+      "text": "the funny thing was that yeah, so Amazon and Google, they're like the CapEx basically picked up"
+    },
+    {
+      "start": 355.92,
+      "end": 362.40000000000003,
+      "text": "again in Q1. But then again, both companies and basically book a massive evaluation of their"
+    },
+    {
+      "start": 362.40000000000003,
+      "end": 370.88000000000005,
+      "text": "holdings of Enthropy to offset that. And that of course, we know it's quarterly like artificial"
+    },
+    {
+      "start": 370.88000000000005,
+      "end": 375.76000000000005,
+      "text": "kind of stuff, right? I mean, so I think from that point of view, I mean, the bottom line here is that"
+    },
+    {
+      "start": 376.71999999999997,
+      "end": 382.71999999999997,
+      "text": "if you actually look at CapEx relative to operating earnings, for example, income, I mean,"
+    },
+    {
+      "start": 382.71999999999997,
+      "end": 387.52,
+      "text": "there's no doubt. I mean, if you actually leave for the top for the five hyperskillers,"
+    },
+    {
+      "start": 387.52,
+      "end": 395.28,
+      "text": "the CapEx to operating income is now 135%. So and I think this is the reason why suddenly Google"
+    },
+    {
+      "start": 395.28,
+      "end": 400.8,
+      "text": "is talking about like, you know, wants to raise $80 billion, $85 billion, equity go to the"
+    },
+    {
+      "start": 400.8,
+      "end": 405.92,
+      "text": "finance of the CapEx, Facebook is not far behind and so on so forth. I think, you know, we're now"
+    },
+    {
+      "start": 405.92,
+      "end": 411.68,
+      "text": "getting to that point that these companies, you know, I think, you know, in the past, when we say"
+    },
+    {
+      "start": 411.68,
+      "end": 416.56,
+      "text": "all of these companies have the pockets was because they were sitting on a lot of, they were"
+    },
+    {
+      "start": 416.56,
+      "end": 420.56,
+      "text": "very, very cash rich companies that were earning a lot of money, which they could basically"
+    },
+    {
+      "start": 420.56,
+      "end": 426.32,
+      "text": "immediately put to use by increasing their CapEx. Now they're practically using all of the operating"
+    },
+    {
+      "start": 426.32,
+      "end": 432.24,
+      "text": "earnings towards CapEx, having to now raise money, okay, from additional share issuance or"
+    },
+    {
+      "start": 432.24,
+      "end": 437.28,
+      "text": "debt issuance in order to finance the CapEx, that I think it's going to get that is starting to"
+    },
+    {
+      "start": 437.28,
+      "end": 442.15999999999997,
+      "text": "obviously worry the market. My focus is on the intersections between economics, politics,"
+    },
+    {
+      "start": 442.15999999999997,
+      "end": 447.52,
+      "text": "geopolitics, and technology. And I would say right now, I think, you know, the last six months,"
+    },
+    {
+      "start": 447.52,
+      "end": 454.08,
+      "text": "my biggest focus has been the war that is oil and AI, of course. So like, you know, just so that,"
+    },
+    {
+      "start": 454.08,
+      "end": 461.84,
+      "text": "you know, I'm bearish, you know, I've been bullish oil and bearish equities and bearish gold. So"
+    },
+    {
+      "start": 461.84,
+      "end": 467.44,
+      "text": "that's been sort of how I've been rowing for the last few months. And bearish gold as well."
+    },
+    {
+      "start": 468.24,
+      "end": 471.76,
+      "text": "Bearish going so far this short term. There's no doubt."
+    },
+    {
+      "start": 471.76,
+      "end": 476.64,
+      "text": "What do you think CapEx is going to be for this entire year? And what did you think of the CapEx"
+    },
+    {
+      "start": 476.64,
+      "end": 482.47999999999996,
+      "text": "guidance that the companies gave in terms of how much money they expect to be spending over the course"
+    },
+    {
+      "start": 482.48,
+      "end": 487.20000000000005,
+      "text": "of this fiscal year? I think many companies did increase their their CapEx guidance."
+    },
+    {
+      "start": 487.20000000000005,
+      "end": 492.32,
+      "text": "Again, there's a very big difference between increasing CapEx because you think that you're going"
+    },
+    {
+      "start": 492.32,
+      "end": 499.28000000000003,
+      "text": "to spend more to get more and having to spend more because everything you are looking to buy now"
+    },
+    {
+      "start": 499.28000000000003,
+      "end": 504.08000000000004,
+      "text": "costs more because most of these companies have actually in fact, if anything delay,"
+    },
+    {
+      "start": 504.08000000000004,
+      "end": 508.64000000000004,
+      "text": "the timetable in terms of when the completion of these data center construction is going to be"
+    },
+    {
+      "start": 508.64,
+      "end": 512.96,
+      "text": "actually done. So I think that makes a very big difference. And I think from that point of"
+    },
+    {
+      "start": 512.96,
+      "end": 518.88,
+      "text": "you, I think, you know, we, we, otherwise, it's just basically income transfer. It's an income"
+    },
+    {
+      "start": 518.88,
+      "end": 524.0,
+      "text": "transfer for Microsoft to basically Micron. I see we say, if we're a home builder and we say,"
+    },
+    {
+      "start": 524.0,
+      "end": 528.64,
+      "text": "we're going to build 10 million homes and we're guiding that the CapEx to build those. Sorry,"
+    },
+    {
+      "start": 528.64,
+      "end": 532.56,
+      "text": "we're going to build 10 million 10 homes and the cap we're guiding that that's going to cost us"
+    },
+    {
+      "start": 532.56,
+      "end": 537.52,
+      "text": "five million dollars in CapEx to build those 10 homes. And then the next quarter we say, we're"
+    },
+    {
+      "start": 537.52,
+      "end": 541.4399999999999,
+      "text": "raising our CapEx from five million dollars to seven million dollars, but we're still building"
+    },
+    {
+      "start": 541.4399999999999,
+      "end": 545.68,
+      "text": "10 homes. Your point is, we're not building more homes. It's just, it's become more expensive to"
+    },
+    {
+      "start": 545.68,
+      "end": 551.76,
+      "text": "build homes. Exactly. Essentially, it becomes an income transfer from the hyperskillers to let"
+    },
+    {
+      "start": 551.76,
+      "end": 558.4,
+      "text": "us say, I don't know, like, you know, the memory producers, except in this case, accounting wise,"
+    },
+    {
+      "start": 558.4,
+      "end": 563.92,
+      "text": "for the hyperskillers, they only have to book a very small percentage of what they spend,"
+    },
+    {
+      "start": 564.0,
+      "end": 570.64,
+      "text": "okay, as actually cost, okay, in terms of their bottom line, whereas for the memory makers,"
+    },
+    {
+      "start": 570.64,
+      "end": 578.4799999999999,
+      "text": "they get to basically book 100%. Okay. So from that point of view, again, it creates this optical"
+    },
+    {
+      "start": 578.4799999999999,
+      "end": 586.0,
+      "text": "illusion about earnings acceleration when essentially all that's happening. It's an income transfer,"
+    },
+    {
+      "start": 586.0,
+      "end": 591.8399999999999,
+      "text": "in fact, of the worst kind. Tell us, is this thing that you're describing where a company spends"
+    },
+    {
+      "start": 591.9200000000001,
+      "end": 598.0,
+      "text": "money to build out infrastructure on CapEx? And then it realizes that cost, not when it spends"
+    },
+    {
+      "start": 598.0,
+      "end": 603.0400000000001,
+      "text": "the money, but over the lifetime of the asset, it takes a depreciation expense, you know, every year,"
+    },
+    {
+      "start": 603.0400000000001,
+      "end": 608.72,
+      "text": "the same is true for a railroad building out a new track on the railroad, a building out a new"
+    },
+    {
+      "start": 608.72,
+      "end": 617.0400000000001,
+      "text": "factory, for example, for another firm. What about this dynamic in the AI data center CapEx right now"
+    },
+    {
+      "start": 617.04,
+      "end": 622.4,
+      "text": "is such that it is perhaps obscuring the true economic value, I don't want to put words in your"
+    },
+    {
+      "start": 622.4,
+      "end": 627.12,
+      "text": "mouth, or making it look better than it seem, or is this just, I mean, the same accounting,"
+    },
+    {
+      "start": 627.12,
+      "end": 632.24,
+      "text": "the same accounting rules apply, you know, with with El CapEx. No, because in sure it applies to"
+    },
+    {
+      "start": 632.24,
+      "end": 637.1999999999999,
+      "text": "everything, except in this case, the recipient companies have, I just told you, like if it just"
+    },
+    {
+      "start": 637.1999999999999,
+      "end": 645.4399999999999,
+      "text": "basically a pure inflation story, okay, then essentially the recipient of this increase in price,"
+    },
+    {
+      "start": 646.0,
+      "end": 650.6400000000001,
+      "text": "essentially, you know, has a 100% profit margin. That's what we're talking about here. It's"
+    },
+    {
+      "start": 650.6400000000001,
+      "end": 656.24,
+      "text": "all questions of degree here. And I'm just saying in this particular case, the degree is such"
+    },
+    {
+      "start": 656.24,
+      "end": 663.36,
+      "text": "that it's pretty, you know, like it just exaggerates the actually earnings growth momentum,"
+    },
+    {
+      "start": 663.36,
+      "end": 669.6,
+      "text": "you understand? At an aggregate level for the entire index, that's what I'm saying to you."
+    },
+    {
+      "start": 670.1600000000001,
+      "end": 674.5600000000001,
+      "text": "Yes, yeah, I think you're absolutely right that the companies whose earnings are going up the most"
+    },
+    {
+      "start": 674.5600000000001,
+      "end": 679.5200000000001,
+      "text": "are not the companies spending on AI, they are the companies who are selling to the companies that"
+    },
+    {
+      "start": 679.5200000000001,
+      "end": 684.5600000000001,
+      "text": "are spending on AI. Yeah, and by the way, I just want to say for my, I mean, what we also need to"
+    },
+    {
+      "start": 684.5600000000001,
+      "end": 690.5600000000001,
+      "text": "understand is it's for Samsung, Samsung, the high news, and in my crowd, these are three companies"
+    },
+    {
+      "start": 690.5600000000001,
+      "end": 696.96,
+      "text": "that make high bandwidth memory chips. I mean, let's let's be honest here, I mean, high bandwidth"
+    },
+    {
+      "start": 696.96,
+      "end": 703.2,
+      "text": "memory chips are not nearly as sophisticated as, let's just say, I don't know, an Nvidia Black"
+    },
+    {
+      "start": 703.2800000000001,
+      "end": 708.5600000000001,
+      "text": "well rubin chip, right? So from that point of view, technically, it's less complex."
+    },
+    {
+      "start": 709.2800000000001,
+      "end": 713.6800000000001,
+      "text": "And two, there's a lot more competition. You know, like there's only one company's basically"
+    },
+    {
+      "start": 713.6800000000001,
+      "end": 719.6800000000001,
+      "text": "making a rubin chip, so you can argue that Nvidia commands, you know, whatever massive margin,"
+    },
+    {
+      "start": 719.6800000000001,
+      "end": 723.84,
+      "text": "because like they're the only ones who can actually design these chips and so on and so forth."
+    },
+    {
+      "start": 723.84,
+      "end": 728.88,
+      "text": "You have three companies, Micron, Samsung, and based kinetics, all competing with each other,"
+    },
+    {
+      "start": 728.88,
+      "end": 734.56,
+      "text": "and they're massively ramping up their catbacks, okay? So you're talking about, you're not talking"
+    },
+    {
+      "start": 734.56,
+      "end": 739.92,
+      "text": "about, you're talking, I don't want to say it's homogenous, a total commodity market, but let me just"
+    },
+    {
+      "start": 739.92,
+      "end": 745.4399999999999,
+      "text": "tell you this, memory markets have always been more commoditized than any other market. I can tell you,"
+    },
+    {
+      "start": 745.4399999999999,
+      "end": 750.96,
+      "text": "even the Chinese are going to be ramping up, the Chinese are not moving into DRAM, you know, NAN Flash,"
+    },
+    {
+      "start": 750.96,
+      "end": 754.72,
+      "text": "they're very good at it, even though they cannot, the Chinese are not at any point that they're"
+    },
+    {
+      "start": 754.72,
+      "end": 758.72,
+      "text": "going to start to be able to compete with Nvidia on rubin chips and blackwall chips."
+    },
+    {
+      "start": 758.72,
+      "end": 763.28,
+      "text": "I guarantee you within two or three years they're going to be right there, I think in terms of the"
+    },
+    {
+      "start": 763.28,
+      "end": 770.0,
+      "text": "Samsung. So therefore, I can't even, I struggle to see how far you can see the kind of the pricing"
+    },
+    {
+      "start": 770.0,
+      "end": 775.2,
+      "text": "power that these companies have right now, it's going to be very short-lived. I mean, not to be honest,"
+    },
+    {
+      "start": 775.2,
+      "end": 781.12,
+      "text": "the only reason why prices are going through the roof is because doing the pandemic, there was a"
+    },
+    {
+      "start": 781.12,
+      "end": 787.76,
+      "text": "surge in PC demand, buying phones, buying whatever to work from home, and then afterwards, after the"
+    },
+    {
+      "start": 787.76,
+      "end": 793.4399999999999,
+      "text": "pandemic sent you the demand for these things collapse. And this is the reason why these companies,"
+    },
+    {
+      "start": 793.4399999999999,
+      "end": 798.0,
+      "text": "and in the prices of memory chips collapse, this is why these companies stop basically investing"
+    },
+    {
+      "start": 798.0,
+      "end": 803.92,
+      "text": "capacity because they were literally down on the hill. And this is the reason why when this AI"
+    },
+    {
+      "start": 803.92,
+      "end": 808.88,
+      "text": "boom suddenly came along, you know, like we're now moving from learning chips to basically inference"
+    },
+    {
+      "start": 808.88,
+      "end": 813.4399999999999,
+      "text": "chips, all of a sudden demand for essentially memory has been driven through the roof. Again,"
+    },
+    {
+      "start": 813.9200000000001,
+      "end": 819.9200000000001,
+      "text": "memory makers are subject to this kind of boom bus cycles for a reason. And this has been"
+    },
+    {
+      "start": 819.9200000000001,
+      "end": 824.96,
+      "text": "the most typical. In fact, if you want to talk about boom bus, I mean, it is probably more"
+    },
+    {
+      "start": 824.96,
+      "end": 831.9200000000001,
+      "text": "true about memory makers than any other industry I can think of in the whole entire world. And that"
+    },
+    {
+      "start": 831.9200000000001,
+      "end": 838.0,
+      "text": "says a lot. So what I'm saying to you, this is why we need to understand what is really going on"
+    },
+    {
+      "start": 838.16,
+      "end": 844.32,
+      "text": "here because I mean, that's what it is. You're absolutely right that chips have been a commodity"
+    },
+    {
+      "start": 844.32,
+      "end": 849.52,
+      "text": "business and memory chips have been the absolutely most commodity ties to most cyclical business of"
+    },
+    {
+      "start": 849.52,
+      "end": 856.8,
+      "text": "all time. What do you say to the bulls on memory who say that this is a shortage and"
+    },
+    {
+      "start": 857.52,
+      "end": 863.84,
+      "text": "all the chips that micron are making right now as we speak are sold out into 28 into 28 for"
+    },
+    {
+      "start": 863.84,
+      "end": 869.84,
+      "text": "forward sales. And that the experts say that the new capacity isn't going to come online until"
+    },
+    {
+      "start": 869.84,
+      "end": 875.84,
+      "text": "the second half of 2027 or 2028. Yeah, I think 2027, that's what it is. I mean, Mark is supposed to"
+    },
+    {
+      "start": 875.84,
+      "end": 880.4,
+      "text": "be forward looking, but once the capacity comes online, prices are going to go down a lot very"
+    },
+    {
+      "start": 880.4,
+      "end": 884.24,
+      "text": "quickly. So you got to basically like the stock market in the day, you're not just thinking about"
+    },
+    {
+      "start": 884.24,
+      "end": 889.2800000000001,
+      "text": "next month or next quarter or whatever, you're paying, you're trading multiples of basically"
+    },
+    {
+      "start": 889.2800000000001,
+      "end": 893.12,
+      "text": "the earnings of these companies. So you got to basically think about how much these companies are"
+    },
+    {
+      "start": 893.12,
+      "end": 896.96,
+      "text": "going to be earning two or three years down the road. And not just what it's basically doing right"
+    },
+    {
+      "start": 896.96,
+      "end": 901.04,
+      "text": "now. And not just basically what the growth rate is right now. And I think that's what it is. So"
+    },
+    {
+      "start": 901.04,
+      "end": 906.08,
+      "text": "from that point of view, like this is, no, I think that I think that that's what this is about."
+    },
+    {
+      "start": 906.08,
+      "end": 911.68,
+      "text": "Okay. So like, but, but, but, but, but I think it goes way beyond that because I mean, there's,"
+    },
+    {
+      "start": 911.68,
+      "end": 916.4,
+      "text": "I mean, obviously the issue with the memory, I don't even have a major issue with that. Okay."
+    },
+    {
+      "start": 917.2,
+      "end": 921.76,
+      "text": "Let's just say that this is part of the boom bus to market over reacts and so on and so forth."
+    },
+    {
+      "start": 921.76,
+      "end": 926.3199999999999,
+      "text": "My basically bigger issue. So I'm just telling you short term, I think you're going to see,"
+    },
+    {
+      "start": 926.3199999999999,
+      "end": 931.76,
+      "text": "I think you're going to see earnings deceleration. Okay. In the second quarter compared to the first"
+    },
+    {
+      "start": 931.76,
+      "end": 939.6,
+      "text": "quarter, because number one, CapEx is actually slowing. Okay. And two, that essentially that token"
+    },
+    {
+      "start": 939.6,
+      "end": 946.56,
+      "text": "maxing, I think probably would have led to a decline. I think in terms of the growth rate of revenue,"
+    },
+    {
+      "start": 946.5600000000001,
+      "end": 952.48,
+      "text": "especially for the likes of anthropic or even open AI, the big LL amps. Okay. And therefore,"
+    },
+    {
+      "start": 952.48,
+      "end": 958.5600000000001,
+      "text": "the people with which they they sell, they share revenue with the, but longer term, my big issue"
+    },
+    {
+      "start": 958.5600000000001,
+      "end": 966.08,
+      "text": "with the whole entire AI thing is that AI has gotten too good for his own good. Now, what do I mean by"
+    },
+    {
+      "start": 966.08,
+      "end": 971.84,
+      "text": "that? Until three months ago, I think the big problem for the whole AI trade was the fact that the"
+    },
+    {
+      "start": 971.84,
+      "end": 979.9200000000001,
+      "text": "capabilities of the frontier models seem to have plateau. Okay. Then came Clark Mythos, right?"
+    },
+    {
+      "start": 979.9200000000001,
+      "end": 984.64,
+      "text": "I mean, which was a breakthrough model. Okay. It's very good at doing lots of different things."
+    },
+    {
+      "start": 985.6,
+      "end": 990.88,
+      "text": "Now, it is so good at doing so many different things that it also happens to be extremely good"
+    },
+    {
+      "start": 990.88,
+      "end": 995.36,
+      "text": "at identifying vulnerabilities in network. In other words, anybody getting cold of"
+    },
+    {
+      "start": 995.44,
+      "end": 1000.72,
+      "text": "Clark Mythos can literally like to break into a system at will. And then let's just understand"
+    },
+    {
+      "start": 1000.72,
+      "end": 1006.96,
+      "text": "the cyber attacks went through the roof starting last December, actually. This is even before"
+    },
+    {
+      "start": 1006.96,
+      "end": 1012.08,
+      "text": "Clark Mythos, anybody been basically knew the name of Clark Mythos. This is the reason why it's"
+    },
+    {
+      "start": 1012.08,
+      "end": 1017.12,
+      "text": "so far only been distributed to 150 users. This is why all of a sudden it's inviting regulatory"
+    },
+    {
+      "start": 1017.12,
+      "end": 1021.9200000000001,
+      "text": "distributory and so on and so forth. Mike, and it was actually interesting because political.com"
+    },
+    {
+      "start": 1021.9200000000001,
+      "end": 1027.52,
+      "text": "right at article last week suggesting that within the White House, the one person really wants to"
+    },
+    {
+      "start": 1027.52,
+      "end": 1034.4,
+      "text": "rain back AI, especially Clark Mythos, those smallest with Clark Mythos like qualities. It's"
+    },
+    {
+      "start": 1034.4,
+      "end": 1041.1200000000001,
+      "text": "actually Picasso because Picasso is worried that if this thing basically falls into China's hand,"
+    },
+    {
+      "start": 1041.1200000000001,
+      "end": 1047.1200000000001,
+      "text": "China is going to use it in the media with the US. So my point is this, you're telling me so"
+    },
+    {
+      "start": 1047.2,
+      "end": 1054.88,
+      "text": "Clark Mythos was released on what April 7th. Since then, Nasdaq has added $5 trillion to this"
+    },
+    {
+      "start": 1054.88,
+      "end": 1060.64,
+      "text": "market capitalization because people say Clark Mythos is amazing. It's a halfway there to AGR."
+    },
+    {
+      "start": 1061.3600000000001,
+      "end": 1068.3200000000002,
+      "text": "But if only 150 users have access to Clark Mythos, how can anthropic even monetize Clark Mythos?"
+    },
+    {
+      "start": 1068.96,
+      "end": 1074.16,
+      "text": "You ask me, right? You mean how are you going to basically make money? Because the point here is"
+    },
+    {
+      "start": 1074.16,
+      "end": 1078.96,
+      "text": "this is what I'm saying. The right now, the issue is no longer about the capabilities of the"
+    },
+    {
+      "start": 1078.96,
+      "end": 1086.4,
+      "text": "frontier models having plateau. It is now about the accessible capabilities of the frontier models"
+    },
+    {
+      "start": 1086.4,
+      "end": 1093.3600000000001,
+      "text": "having plateau because at this point government, I have no doubt heading into the midterm election,"
+    },
+    {
+      "start": 1093.3600000000001,
+      "end": 1099.68,
+      "text": "AI is going to become a huge political issue. Okay. I think Trump's decision, reluctant decision"
+    },
+    {
+      "start": 1099.76,
+      "end": 1106.3200000000002,
+      "text": "last week to sign off on this new regulatory approval requirement for AI. It's just basically a very"
+    },
+    {
+      "start": 1106.3200000000002,
+      "end": 1112.0800000000002,
+      "text": "tiny baby step in the direction that we're going to go towards. Okay. So I think in general,"
+    },
+    {
+      "start": 1112.0800000000002,
+      "end": 1116.64,
+      "text": "that's my issue. And then you probably heard about this even from anthropic last week, which is"
+    },
+    {
+      "start": 1116.64,
+      "end": 1124.48,
+      "text": "that the fact that it has recursive learning ability, that's probably going to make it even more"
+    },
+    {
+      "start": 1124.48,
+      "end": 1132.72,
+      "text": "difficult for proponents of AI to argue for why dissemination of the technology. So this is a big"
+    },
+    {
+      "start": 1132.72,
+      "end": 1141.6,
+      "text": "problem. What did you make of the release of Mythos? No, they're talking about many Mythos,"
+    },
+    {
+      "start": 1141.6,
+      "end": 1145.52,
+      "text": "whatever it is with some capabilities, but not quite Mythos and so on and so forth. That's just"
+    },
+    {
+      "start": 1145.52,
+      "end": 1151.68,
+      "text": "basically get you a little bit. I have no idea if it's a 10% better, 15% better, then then opus,"
+    },
+    {
+      "start": 1151.68,
+      "end": 1158.24,
+      "text": "but whatever 90% what I'm saying to you is that anthropic obviously going IPO, they're going to"
+    },
+    {
+      "start": 1158.24,
+      "end": 1162.24,
+      "text": "want to basically get everybody to oversubscribe and that kind of thing. They're going to tell one of"
+    },
+    {
+      "start": 1162.24,
+      "end": 1168.3200000000002,
+      "text": "a story they want right now. And if I were in that, they're sure they'll probably do the same thing,"
+    },
+    {
+      "start": 1168.3200000000002,
+      "end": 1173.1200000000001,
+      "text": "but what I'm telling you, there is no doubt. What I'm telling you right now, I made me the first one"
+    },
+    {
+      "start": 1173.1200000000001,
+      "end": 1179.68,
+      "text": "talking about the downside risk to AI now is regulatory risk, but there is no doubt in my mind that this,"
+    },
+    {
+      "start": 1179.68,
+      "end": 1184.72,
+      "text": "I think more people are going to talk like me and think like me in the coming months because it's"
+    },
+    {
+      "start": 1184.72,
+      "end": 1190.8,
+      "text": "inevitable. So the bear case for AI is not that it's not powerful, but that it's too powerful,"
+    },
+    {
+      "start": 1190.8,
+      "end": 1195.68,
+      "text": "and it's going to be reigned in by governments worldwide, including the US government. Absolutely."
+    },
+    {
+      "start": 1195.68,
+      "end": 1198.96,
+      "text": "Hope you're enjoying today's interview. This episode of monetary matters is brought to you by"
+    },
+    {
+      "start": 1198.96,
+      "end": 1204.8,
+      "text": "the Tuchrium Corn Fund ticker C-O-R-N. If you follow the show, you know we spend a lot of time on macro"
+    },
+    {
+      "start": 1204.8,
+      "end": 1210.0,
+      "text": "themes like energy transitions, geopolitical risk, and global food security. Corn sits at the"
+    },
+    {
+      "start": 1210.0,
+      "end": 1214.96,
+      "text": "intersection of all three. Most people watching the straight of her moves are focused on oil."
+    },
+    {
+      "start": 1214.96,
+      "end": 1219.44,
+      "text": "They should be looking at nitrogen. A third of the world's fertilizer trade passes through that"
+    },
+    {
+      "start": 1219.44,
+      "end": 1225.9199999999998,
+      "text": "choke point. When that cord or titans, fertilizer prices react and corn farmers feel it first."
+    },
+    {
+      "start": 1225.9199999999998,
+      "end": 1231.9199999999998,
+      "text": "Corn is the heaviest nitrogen user in US agriculture, so rising input costs hit their margins quickly."
+    },
+    {
+      "start": 1231.92,
+      "end": 1237.28,
+      "text": "The longer term story could cut the other way too. If farmers pull back on fertilizer application,"
+    },
+    {
+      "start": 1237.28,
+      "end": 1242.5600000000002,
+      "text": "yields may come down. If the economics get difficult enough, some may choose to abandon corn"
+    },
+    {
+      "start": 1242.5600000000002,
+      "end": 1246.88,
+      "text": "and plant something else entirely. Either scenario potentially titans corn supply,"
+    },
+    {
+      "start": 1246.88,
+      "end": 1251.76,
+      "text": "which could be price supportive. Bottom line, the pinch on the producer side could become the"
+    },
+    {
+      "start": 1251.76,
+      "end": 1256.88,
+      "text": "price story on the commodity side. Tuchrium's corn ETF gives you exposure to corn prices."
+    },
+    {
+      "start": 1256.88,
+      "end": 1261.7600000000002,
+      "text": "Ticker C-O-R-N, traded on NYC ARCA. Access it through your brokerage account,"
+    },
+    {
+      "start": 1261.7600000000002,
+      "end": 1266.16,
+      "text": "no futures account required. Tuchrium also has a family of agricultural ETFs,"
+    },
+    {
+      "start": 1266.16,
+      "end": 1272.0800000000002,
+      "text": "including the Tuchrium Wheat Fund, Ticker W-E-A-T, the Tuchrium Soybean Fund, Ticker S-O-Y-B,"
+    },
+    {
+      "start": 1272.0800000000002,
+      "end": 1277.2800000000002,
+      "text": "and the Tuchrium Sugar Fund, Ticker C-A-N-E. Head to Tuchrium.com to learn more"
+    },
+    {
+      "start": 1277.2800000000002,
+      "end": 1282.5600000000002,
+      "text": "that's T-E-U-C-R-I-U-M.com. This material must be preceded or accompanied by a"
+    },
+    {
+      "start": 1282.56,
+      "end": 1286.48,
+      "text": "perspective. The perspective is available at Tuchrium.com slash corn. Investors should carefully"
+    },
+    {
+      "start": 1286.48,
+      "end": 1290.0,
+      "text": "consider the investment objectives, risks, charges, and expenses of the fund before investing."
+    },
+    {
+      "start": 1290.0,
+      "end": 1293.28,
+      "text": "The perspective contains this and other important information. Investing involves risk,"
+    },
+    {
+      "start": 1293.28,
+      "end": 1296.48,
+      "text": "including the possible loss of principle. Commodities and futures generally are volatile,"
+    },
+    {
+      "start": 1296.48,
+      "end": 1299.6,
+      "text": "and instruments whose underlying investments include commodities and futures are not suitable"
+    },
+    {
+      "start": 1299.6,
+      "end": 1303.04,
+      "text": "for all investors. Past performance is not guarantee future results. Thanks for listening,"
+    },
+    {
+      "start": 1303.04,
+      "end": 1306.6399999999999,
+      "text": "let's get back to today's interview. Tell me about what the Trump administration"
+    },
+    {
+      "start": 1306.6399999999999,
+      "end": 1310.72,
+      "text": "signed, and you said that this is only kind of a harbinger to come that what's coming is way"
+    },
+    {
+      "start": 1310.72,
+      "end": 1318.0,
+      "text": "bitter. Tell us what you mean. The previous version that Trump decided not to sign"
+    },
+    {
+      "start": 1318.0,
+      "end": 1325.3600000000001,
+      "text": "will require a 90-day cool off period. The sense that new large language models had to"
+    },
+    {
+      "start": 1325.3600000000001,
+      "end": 1331.44,
+      "text": "essentially go through government approval. For 90 days, now they brought it down to 30 days."
+    },
+    {
+      "start": 1333.76,
+      "end": 1340.48,
+      "text": "So, honestly, I don't know, it's going to be a big difference. I think if there's a problem,"
+    },
+    {
+      "start": 1341.04,
+      "end": 1345.84,
+      "text": "I don't think it's going to matter if there's going to be 30 days and 90 days. I'm just"
+    },
+    {
+      "start": 1345.84,
+      "end": 1352.8,
+      "text": "thinking about for a second. Last year, Germany alone said that cyber attacks cost the German"
+    },
+    {
+      "start": 1352.8,
+      "end": 1359.76,
+      "text": "economy 300 billion euros. Now, imagine what we're talking about here. What we're talking about,"
+    },
+    {
+      "start": 1359.76,
+      "end": 1369.52,
+      "text": "basically, mythos. Mythos is very good at performing multi-stage tasks on an autonomous basis,"
+    },
+    {
+      "start": 1369.6,
+      "end": 1376.32,
+      "text": "which makes it a perfect cyber hacker machine, basically. And so, from now point of view,"
+    },
+    {
+      "start": 1376.32,
+      "end": 1379.84,
+      "text": "this is what it is. Now, imagine, imagine if you're a Trump. You said, okay, fine,"
+    },
+    {
+      "start": 1379.84,
+      "end": 1384.72,
+      "text": "bye, who cares. Let's just give it to everybody. Let's just give it to the S&P 500 companies,"
+    },
+    {
+      "start": 1384.72,
+      "end": 1391.52,
+      "text": "but nobody else. Think about this. Trump's rise is all about, well, Trump's for the little guys,"
+    },
+    {
+      "start": 1391.52,
+      "end": 1396.6399999999999,
+      "text": "for the small, medium-sized businesses. So, what, you're going to give the best models, the most"
+    },
+    {
+      "start": 1396.64,
+      "end": 1401.6000000000001,
+      "text": "productive model, to only the big guys, but not the low guys. You're going to screw everybody"
+    },
+    {
+      "start": 1401.6000000000001,
+      "end": 1406.96,
+      "text": "else so that you can basically do favor for your friends. You think that is politically"
+    },
+    {
+      "start": 1406.96,
+      "end": 1411.8400000000001,
+      "text": "basically soluble to his base, obviously not. That's what I'm saying to you that this is"
+    },
+    {
+      "start": 1411.8400000000001,
+      "end": 1416.16,
+      "text": "a problem because the first 50 users they gave out to, you can make a case for it, right? I mean,"
+    },
+    {
+      "start": 1416.16,
+      "end": 1421.5200000000002,
+      "text": "they're like the big banks and the big hyper-skillers because they control the digital network,"
+    },
+    {
+      "start": 1421.5200000000002,
+      "end": 1425.5200000000002,
+      "text": "right? So, you got to basically make sure that they're safe because if something happens to them,"
+    },
+    {
+      "start": 1425.52,
+      "end": 1430.32,
+      "text": "everybody else is going to be in trouble. But now imagine the next tier there, who are you going"
+    },
+    {
+      "start": 1430.32,
+      "end": 1435.12,
+      "text": "to give it to? Whoever you're going to give it to, you're going to basically smack off favoritism."
+    },
+    {
+      "start": 1435.12,
+      "end": 1439.68,
+      "text": "This will be a political problem, right? Already, like the big guys are getting bigger, the small"
+    },
+    {
+      "start": 1439.68,
+      "end": 1444.32,
+      "text": "is getting smaller and nothing exists that you want to celebrate. Whatever saying that there is no"
+    },
+    {
+      "start": 1444.32,
+      "end": 1451.84,
+      "text": "down my mind that this AI thing is quickly becoming a political hot potato. And I think politically,"
+    },
+    {
+      "start": 1451.84,
+      "end": 1456.24,
+      "text": "this is going to be a big problem. This is what I'm saying to you that this whole issue might come"
+    },
+    {
+      "start": 1456.24,
+      "end": 1462.6399999999999,
+      "text": "up as a major political issue ahead of the midterm election. I totally believe that it is. I mean,"
+    },
+    {
+      "start": 1462.6399999999999,
+      "end": 1469.9199999999998,
+      "text": "AI is already a political hot button issue and I yield to you that it certainly would be probably a"
+    },
+    {
+      "start": 1469.9199999999998,
+      "end": 1476.56,
+      "text": "politically good thing to do in terms of popularity for President Trump to regulate AI. But"
+    },
+    {
+      "start": 1477.12,
+      "end": 1481.04,
+      "text": "does that make you think that that is what the administration is going to do? Because I might say,"
+    },
+    {
+      "start": 1481.04,
+      "end": 1484.8799999999999,
+      "text": "I don't think the Iran war is terribly popular here in the US. I think actually looking at the polling"
+    },
+    {
+      "start": 1484.8799999999999,
+      "end": 1489.84,
+      "text": "data, it's one of the least popular wars just looking at how many days we are into the conflict."
+    },
+    {
+      "start": 1489.84,
+      "end": 1494.08,
+      "text": "But obviously, that's what President Trump did. So President Trump isn't afraid to kind of buck"
+    },
+    {
+      "start": 1494.08,
+      "end": 1497.76,
+      "text": "the trend and he's not willing, he's not going to do something just because it's popular."
+    },
+    {
+      "start": 1498.96,
+      "end": 1503.76,
+      "text": "Listen, there is nothing to do with that. It has to do with the farm. Again, as I said before,"
+    },
+    {
+      "start": 1503.76,
+      "end": 1510.24,
+      "text": "there are two issues here. One issue is that if you release, let's put it this way,"
+    },
+    {
+      "start": 1511.44,
+      "end": 1516.56,
+      "text": "if you release clogged methods to 50 users, 100 users, you can still more or less"
+    },
+    {
+      "start": 1517.2,
+      "end": 1522.0,
+      "text": "sort of essentially control how it's used, who's using it and so on and so forth. If you give"
+    },
+    {
+      "start": 1522.0,
+      "end": 1528.8,
+      "text": "about the 500 or 1000 people, you can no longer be sure who actually has it and who's going to have"
+    },
+    {
+      "start": 1528.8,
+      "end": 1534.3999999999999,
+      "text": "access to it and so on and so forth. So if you do this and there is a major hacking event,"
+    },
+    {
+      "start": 1535.36,
+      "end": 1540.1599999999999,
+      "text": "you know, what people are going to say that you lost it, like you basically allowed the genial"
+    },
+    {
+      "start": 1540.16,
+      "end": 1545.44,
+      "text": "of bottom. If you basically give out to 500 users and ends up basically the Chinese now have it."
+    },
+    {
+      "start": 1546.24,
+      "end": 1550.72,
+      "text": "Yeah, okay. Then what are you going to do? So what I'm saying is that there is no, I mean,"
+    },
+    {
+      "start": 1550.72,
+      "end": 1555.0400000000002,
+      "text": "especially you just think about this for a second, right? They're talking about now that"
+    },
+    {
+      "start": 1555.0400000000002,
+      "end": 1563.68,
+      "text": "mythus, right, has recursive learning capability. In other words, mythus version one is going to be"
+    },
+    {
+      "start": 1563.68,
+      "end": 1569.1200000000001,
+      "text": "able to create mythus version two without any human intervention. It's just going to keep"
+    },
+    {
+      "start": 1569.1200000000001,
+      "end": 1576.64,
+      "text": "me improving. So imagine anybody having access to it. What that can do, my friend. I think it's pretty"
+    },
+    {
+      "start": 1576.64,
+      "end": 1581.2800000000002,
+      "text": "obvious. So this is not about from being popular in that part. Listen, obviously he's only interested"
+    },
+    {
+      "start": 1581.2800000000002,
+      "end": 1586.88,
+      "text": "in money and there's all money, like the amount of money that his family, him, have already made"
+    },
+    {
+      "start": 1586.88,
+      "end": 1592.64,
+      "text": "over the last whatever year and it's something of his presidency. Just amazing, actually. Okay,"
+    },
+    {
+      "start": 1592.64,
+      "end": 1598.0800000000002,
+      "text": "I've no doubt that he and his family, his friends, their cronies all have vested interest in"
+    },
+    {
+      "start": 1598.08,
+      "end": 1603.84,
+      "text": "essentially all these space acts and throw up big chat GBD and so on and so forth. So obviously,"
+    },
+    {
+      "start": 1603.84,
+      "end": 1608.08,
+      "text": "from Trump's standpoint, he wants to see his company. In fact, this is the reason why I think he"
+    },
+    {
+      "start": 1608.08,
+      "end": 1614.1599999999999,
+      "text": "hasn't pulled a trigger on Iran because he wants these companies to go public first. Why not get all"
+    },
+    {
+      "start": 1614.1599999999999,
+      "end": 1618.8,
+      "text": "these companies to do IPO when the market is in the main yet and basically bubble and so on and so"
+    },
+    {
+      "start": 1618.8,
+      "end": 1625.04,
+      "text": "forth, right? But I do think again, but if you are a medium term guy, you understand that there are"
+    },
+    {
+      "start": 1625.04,
+      "end": 1631.44,
+      "text": "some things that Trump cannot basically, he cannot stop. And I think this is one of these issues."
+    },
+    {
+      "start": 1631.44,
+      "end": 1636.96,
+      "text": "I think that he's going to, it's going to be a problem, especially given the people who have"
+    },
+    {
+      "start": 1636.96,
+      "end": 1644.72,
+      "text": "me who have major issues with AI right now happen to be from his base. Okay. And I think that's,"
+    },
+    {
+      "start": 1644.72,
+      "end": 1650.1599999999999,
+      "text": "I think that's very important. So it's a matter of national security. There's going to be a crackdown"
+    },
+    {
+      "start": 1650.16,
+      "end": 1655.68,
+      "text": "on AI and the frontier models. What do you think that that looks like? It's already happening."
+    },
+    {
+      "start": 1655.68,
+      "end": 1662.88,
+      "text": "What I'm saying is this is the reason why it's called mythos only has only been given to 150"
+    },
+    {
+      "start": 1662.88,
+      "end": 1668.8000000000002,
+      "text": "users. And this thing has been out since what a program. So two months later, you know, listen,"
+    },
+    {
+      "start": 1668.8000000000002,
+      "end": 1672.88,
+      "text": "you don't just think about that. How ridiculous that sounds, right? I mean, like, like,"
+    },
+    {
+      "start": 1672.88,
+      "end": 1679.28,
+      "text": "chat GBD 4.0, like three months later, there was Gemini 3.0, whatever. These models, every three"
+    },
+    {
+      "start": 1679.28,
+      "end": 1685.52,
+      "text": "months, there's like a new model coming up. Just imagine for two months, basically, and mythos"
+    },
+    {
+      "start": 1685.52,
+      "end": 1692.32,
+      "text": "has gone nowhere. He said, basically, now being used by 150 people. Just think about that for a"
+    },
+    {
+      "start": 1692.32,
+      "end": 1698.56,
+      "text": "second. So that's already, you know, the factor in effect, basically government control, that"
+    },
+    {
+      "start": 1698.56,
+      "end": 1705.52,
+      "text": "essentially the, that the market has not recognized. So what did you make of the supposed rise in"
+    },
+    {
+      "start": 1705.6,
+      "end": 1712.4,
+      "text": "annual recurring revenue of, of anthropic from, you know, something like $9 billion in December to"
+    },
+    {
+      "start": 1712.4,
+      "end": 1717.84,
+      "text": "stated like 42 or $44 billion. Listen, as I said before, I think, obviously, you would expect"
+    },
+    {
+      "start": 1717.84,
+      "end": 1723.28,
+      "text": "you to grow. No doubt about that. But there are two things going on. First, I just told you about"
+    },
+    {
+      "start": 1723.28,
+      "end": 1729.6,
+      "text": "token maxing. Yeah. Right? token maxing would have definitely, okay, boosted these numbers. And"
+    },
+    {
+      "start": 1729.6,
+      "end": 1733.36,
+      "text": "then you would have seen a slowdown in a second quarter. I mean, again, I'm not talking about"
+    },
+    {
+      "start": 1733.3600000000001,
+      "end": 1736.8000000000002,
+      "text": "absolutely decline. I would think that the growth rate would have slowed in the first quarter,"
+    },
+    {
+      "start": 1736.8000000000002,
+      "end": 1742.0800000000002,
+      "text": "because companies clearly were spending too much on these tokens, which is what they were paying"
+    },
+    {
+      "start": 1742.0800000000002,
+      "end": 1746.96,
+      "text": "to anthropic. Okay? That's the first thing. Secondly, the reason why anthropic did"
+    },
+    {
+      "start": 1746.96,
+      "end": 1753.3600000000001,
+      "text": "especially well was because cloud code, okay? Cloud code was released and everybody decided, wow,"
+    },
+    {
+      "start": 1753.3600000000001,
+      "end": 1758.4,
+      "text": "it's the best thing since whatever slide spread. I guess what? Three, four months later. Now,"
+    },
+    {
+      "start": 1758.4,
+      "end": 1763.2,
+      "text": "cloud cloud code has got serious competition. Microsoft just canceled practically most of their"
+    },
+    {
+      "start": 1763.2,
+      "end": 1769.52,
+      "text": "cloud code licenses. Okay? Because they're trying to get their people to use co-pilot on GitHub."
+    },
+    {
+      "start": 1769.52,
+      "end": 1774.96,
+      "text": "Okay? Now, you've got codex, which is very good. You've got the Chinese, basically,"
+    },
+    {
+      "start": 1774.96,
+      "end": 1780.96,
+      "text": "coins. It's pretty good. There's a lot of other ones. So there are at least five competitors"
+    },
+    {
+      "start": 1780.96,
+      "end": 1787.52,
+      "text": "to cloud code now. They're as good, maybe not good in the same thing, but they're good in different"
+    },
+    {
+      "start": 1787.52,
+      "end": 1791.28,
+      "text": "things and that kind of thing. So I think from now point of view, that's very important because"
+    },
+    {
+      "start": 1791.28,
+      "end": 1795.44,
+      "text": "this is about the fact that, again, we've seen this movie again and again, which is like,"
+    },
+    {
+      "start": 1795.44,
+      "end": 1799.68,
+      "text": "oh, wow, like a one company. It's like, wow, Chad GPD first came out, they was off the game,"
+    },
+    {
+      "start": 1799.68,
+      "end": 1803.68,
+      "text": "people say, wow, this is going to be a winner, it takes all. Because again, think about this,"
+    },
+    {
+      "start": 1803.68,
+      "end": 1807.84,
+      "text": "the stock market is thinking, well, who's going to be the next Google? Who's going to be the next"
+    },
+    {
+      "start": 1807.84,
+      "end": 1812.08,
+      "text": "Microsoft? Because these are the natural monopolies. These companies made a lot of money because they"
+    },
+    {
+      "start": 1812.1599999999999,
+      "end": 1817.36,
+      "text": "do the only one. They account for 90% of the market, Microsoft 90% of the, I mean, essentially,"
+    },
+    {
+      "start": 1817.36,
+      "end": 1823.52,
+      "text": "desktop, essentially operating system and Google basically the search thing, right? So people are"
+    },
+    {
+      "start": 1823.52,
+      "end": 1828.56,
+      "text": "pricing these companies as though they're going to be all the next Microsoft and the next Google,"
+    },
+    {
+      "start": 1828.56,
+      "end": 1834.6399999999999,
+      "text": "assuming that there is a winner take all outcome. And I'm just telling you so far, what I've seen is"
+    },
+    {
+      "start": 1834.6399999999999,
+      "end": 1839.36,
+      "text": "that, oh, wow. So Chad GPD was good for a while and then deep seat call up. And after that,"
+    },
+    {
+      "start": 1839.3600000000001,
+      "end": 1844.0800000000002,
+      "text": "basically, Jeremy and I basically made a search and then now basically called, basically called up,"
+    },
+    {
+      "start": 1844.0800000000002,
+      "end": 1850.0000000000002,
+      "text": "they actually Larry Ellison put it very well, whatever a week ago when he said that large language"
+    },
+    {
+      "start": 1850.0000000000002,
+      "end": 1855.44,
+      "text": "models, they're all going to get commoditized simply because they're all learning from the same"
+    },
+    {
+      "start": 1855.44,
+      "end": 1862.96,
+      "text": "public data. And that's it. So from that point, people get excited about one model. And we've seen"
+    },
+    {
+      "start": 1862.96,
+      "end": 1867.6000000000001,
+      "text": "this movie again a few times now, actually, just in the last three years, which is a model,"
+    },
+    {
+      "start": 1867.6000000000001,
+      "end": 1872.2400000000002,
+      "text": "a model moves ahead. And next thing you know, the next three months, all the others basically play"
+    },
+    {
+      "start": 1872.2400000000002,
+      "end": 1877.92,
+      "text": "catch up. So that's what it is. But while that one models out, this is a basic breakthrough,"
+    },
+    {
+      "start": 1877.92,
+      "end": 1882.0000000000002,
+      "text": "it gets, you know, obviously, the revenue acceleration, everything else that goes with it."
+    },
+    {
+      "start": 1882.0000000000002,
+      "end": 1886.16,
+      "text": "But the question now is, and I think from now point of view, I just told you already,"
+    },
+    {
+      "start": 1886.16,
+      "end": 1893.5200000000002,
+      "text": "cloud code, which is the main driver of the growth rate of the anthropic. I think that already,"
+    },
+    {
+      "start": 1893.5200000000002,
+      "end": 1897.2,
+      "text": "I don't want to say it's been commoditized, but there's come some serious competition."
+    },
+    {
+      "start": 1897.2,
+      "end": 1902.96,
+      "text": "And cloud methods, let's just say, cloud methods is still very good. Right now, only 150 people"
+    },
+    {
+      "start": 1902.96,
+      "end": 1910.48,
+      "text": "can use it. So that's the bottom line. David, you've laid out at least three arguments for"
+    },
+    {
+      "start": 1910.48,
+      "end": 1916.16,
+      "text": "an bare case on AI and AI stocks that are very, all three are very, very interesting. Let's see,"
+    },
+    {
+      "start": 1916.16,
+      "end": 1920.88,
+      "text": "first, that there could be a regulatory crackdown that, as you say, it's already here for mythos"
+    },
+    {
+      "start": 1920.88,
+      "end": 1926.0,
+      "text": "because it hasn't been distributed. Second, as you just said, that AI is going to be a commodity"
+    },
+    {
+      "start": 1926.0,
+      "end": 1931.28,
+      "text": "and the third, what you began with by saying that the inputs are being inflated in terms of price,"
+    },
+    {
+      "start": 1931.28,
+      "end": 1936.8,
+      "text": "and that is where the real earnings growth is. What's interesting to me, David, is that you so far"
+    },
+    {
+      "start": 1936.8,
+      "end": 1944.24,
+      "text": "haven't said a core AI bare argument that so many AI bears said, at least in the beginning,"
+    },
+    {
+      "start": 1944.24,
+      "end": 1950.72,
+      "text": "which is that AI is not going to transform society and the economy. It seems actually like you might"
+    },
+    {
+      "start": 1951.44,
+      "end": 1956.88,
+      "text": "be more of a believer in the power of AI than some people who are long-stemming conductor stocks"
+    },
+    {
+      "start": 1956.88,
+      "end": 1964.32,
+      "text": "or stuff. Could you just comment your view on just how powerful AI is to be used in the workforce"
+    },
+    {
+      "start": 1964.32,
+      "end": 1971.04,
+      "text": "and in terms of increasing productivity and the like? I think AI is very productive. I mean,"
+    },
+    {
+      "start": 1971.04,
+      "end": 1977.44,
+      "text": "listen, I use AI as bearish as I know about AI, I cannot live without AI. I mean, I've been"
+    },
+    {
+      "start": 1977.44,
+      "end": 1982.4,
+      "text": "probably at least two hours a day. Basically, I'm various AI platforms and so on and so forth."
+    },
+    {
+      "start": 1982.4,
+      "end": 1990.16,
+      "text": "I think let's put it this way. I think AI is going to struggle to replace, I would say, the top 10"
+    },
+    {
+      "start": 1990.16,
+      "end": 1998.4,
+      "text": "percent of the people. Because if you look at, you know, listen, you take me as an example."
+    },
+    {
+      "start": 1998.4,
+      "end": 2004.88,
+      "text": "So I became, before I retire, from Wall Street, I was the global head of great currencies,"
+    },
+    {
+      "start": 2004.88,
+      "end": 2008.64,
+      "text": "Merchant Market Fixing and Economic Research. I managed a team of 50 analysts. We were the"
+    },
+    {
+      "start": 2008.64,
+      "end": 2013.0400000000002,
+      "text": "number one ranked team on Wall Street for macro strategy, right? Bank America, yep."
+    },
+    {
+      "start": 2013.0400000000002,
+      "end": 2021.44,
+      "text": "A bank America. And I can tell you, like, I think it would be difficult for AI to do that, okay?"
+    },
+    {
+      "start": 2021.44,
+      "end": 2026.64,
+      "text": "I mean, to the extent that if you want to be very, very good, there's no, I don't think AI can be"
+    },
+    {
+      "start": 2026.64,
+      "end": 2034.3200000000002,
+      "text": "ever as good as I am. Because by definition, it's because by definition, because AI for what I do,"
+    },
+    {
+      "start": 2034.32,
+      "end": 2039.6,
+      "text": "what it does for the most part, it's simply just distilled consensus. Now, it goes out there."
+    },
+    {
+      "start": 2039.6,
+      "end": 2043.4399999999998,
+      "text": "So you say, well, AI do this for me. It just basically goes out there in the look for information."
+    },
+    {
+      "start": 2043.4399999999998,
+      "end": 2048.56,
+      "text": "I mean, the information out there is going to be written by somebody, whether it's Reuters,"
+    },
+    {
+      "start": 2048.56,
+      "end": 2052.08,
+      "text": "Bloomberg, whatever it is and comes back to you. It doesn't, it's not going to come up with an"
+    },
+    {
+      "start": 2052.08,
+      "end": 2057.92,
+      "text": "original solution. It's going to come back with you. It would come back with a suggestion that"
+    },
+    {
+      "start": 2057.92,
+      "end": 2061.92,
+      "text": "somebody else has already done. So from that point of view, if you're talking about because"
+    },
+    {
+      "start": 2061.92,
+      "end": 2066.7200000000003,
+      "text": "every profession, I don't care what profession you're in, right? The most successful people,"
+    },
+    {
+      "start": 2066.7200000000003,
+      "end": 2072.32,
+      "text": "okay, in any profession, tend to be also the most creative. I mean, creative, in a sense,"
+    },
+    {
+      "start": 2072.32,
+      "end": 2077.6,
+      "text": "that being able to think originally come up with something that hasn't been done before, okay?"
+    },
+    {
+      "start": 2077.6,
+      "end": 2082.48,
+      "text": "Whether it's a thought or a product and so on and so forth, AI is not very good at doing that."
+    },
+    {
+      "start": 2082.48,
+      "end": 2088.0,
+      "text": "But AI can probably outperform 90% of the workers, because the 90% of the workers,"
+    },
+    {
+      "start": 2088.0,
+      "end": 2093.76,
+      "text": "they're just basically copy and paste type of guys, okay? There is not that much creative"
+    },
+    {
+      "start": 2093.76,
+      "end": 2100.0,
+      "text": "dimension in what they do. So I think AI, essentially, of course, can potentially take these people"
+    },
+    {
+      "start": 2100.0,
+      "end": 2106.48,
+      "text": "as job. Now, of course, we also know that like blue collar workers would be more difficult,"
+    },
+    {
+      "start": 2106.48,
+      "end": 2112.48,
+      "text": "right? I mean, you saw like Starbucks just canceled their AI program for inventory management,"
+    },
+    {
+      "start": 2112.48,
+      "end": 2116.96,
+      "text": "because apparently AI was making them mistakes. In the past, not even so much AI, the problem is"
+    },
+    {
+      "start": 2116.96,
+      "end": 2121.44,
+      "text": "the machines, the camera, and so on and so forth. I mean, one of the things that, you know,"
+    },
+    {
+      "start": 2121.44,
+      "end": 2127.36,
+      "text": "but I wanted to basically save this. I mean, this is actually very important. As good as AI is,"
+    },
+    {
+      "start": 2127.36,
+      "end": 2132.16,
+      "text": "it is also true if you look at Waymo. I still remember, you look like you don't got, I remember,"
+    },
+    {
+      "start": 2132.16,
+      "end": 2139.44,
+      "text": "like this was like already in 2012, they were like predicting Elon Musk was predicting that within"
+    },
+    {
+      "start": 2139.44,
+      "end": 2146.56,
+      "text": "three years, like we're going to have like robo taxis autonomous driving all that went in 2026"
+    },
+    {
+      "start": 2146.56,
+      "end": 2154.64,
+      "text": "already. OIC is that when Tesla's latest robo taxi went into whatever trial in Texas,"
+    },
+    {
+      "start": 2155.2000000000003,
+      "end": 2162.0,
+      "text": "you know, it was it was literally like creating traffic incidents, almost running to people,"
+    },
+    {
+      "start": 2162.0,
+      "end": 2168.0,
+      "text": "like even Waymo. I mean, you probably saw some of the footage lately. I mean, it's crazy. After all"
+    },
+    {
+      "start": 2168.0,
+      "end": 2173.36,
+      "text": "these years, you're still making this very basic mistake. So what I'm saying is, for software"
+    },
+    {
+      "start": 2173.36,
+      "end": 2182.8,
+      "text": "engineers, AI is amazing, because any job that's by definition digital that has that can be very,"
+    },
+    {
+      "start": 2182.8,
+      "end": 2188.88,
+      "text": "very well defined in terms of the objective, AI can do extremely well, because they can copy and"
+    },
+    {
+      "start": 2188.88,
+      "end": 2195.2,
+      "text": "paste codes and then basically do this and that's it. Okay, that, so there are certain things AI can"
+    },
+    {
+      "start": 2195.2000000000003,
+      "end": 2202.8,
+      "text": "do very well. So for software engineering, it's basically now, for what I do already, like"
+    },
+    {
+      "start": 2202.8,
+      "end": 2209.0400000000004,
+      "text": "macronalysis, whatever, I think is good in terms of like assembling information. Yeah. It's very good"
+    },
+    {
+      "start": 2209.0400000000004,
+      "end": 2215.1200000000003,
+      "text": "at simply collecting information, but it's not very good at coming up with new ideas. It's certainly"
+    },
+    {
+      "start": 2215.1200000000003,
+      "end": 2219.6800000000003,
+      "text": "not very good at coming up with new investment ideas. It can only chase after whatever one of the"
+    },
+    {
+      "start": 2219.68,
+      "end": 2225.3599999999997,
+      "text": "people are doing. It's also for and then for things that's complex as driving, it's actually"
+    },
+    {
+      "start": 2225.3599999999997,
+      "end": 2231.8399999999997,
+      "text": "shit at it, at least and this is after already 15 years of trying. Okay, so I mean, and this is"
+    },
+    {
+      "start": 2231.8399999999997,
+      "end": 2236.96,
+      "text": "basically Google, which is the greatest search engine company and they still cannot master basically"
+    },
+    {
+      "start": 2236.96,
+      "end": 2241.44,
+      "text": "based autonomous driving. So what I'm saying to use, everything has to be taken with the grain of"
+    },
+    {
+      "start": 2241.92,
+      "end": 2249.92,
+      "text": "soil. I do think however, that for many white collar jobs, the pencil pushers in an office. Okay,"
+    },
+    {
+      "start": 2251.2000000000003,
+      "end": 2257.52,
+      "text": "especially younger people who don't know anything anyway. Okay, they're, they're probably going"
+    },
+    {
+      "start": 2257.52,
+      "end": 2265.6,
+      "text": "to be at risk. Okay, but, but there's no doubt that I think people tend to exaggerate the devastation"
+    },
+    {
+      "start": 2265.6,
+      "end": 2271.12,
+      "text": "that AI is going to bring about in terms of jobs, except for software engineers. I think software,"
+    },
+    {
+      "start": 2271.12,
+      "end": 2275.3599999999997,
+      "text": "I think 50% of software engineers going to be gone within probably three or four years. That's"
+    },
+    {
+      "start": 2275.3599999999997,
+      "end": 2281.12,
+      "text": "probably probably not even exaggeration. But to what extent this is going to be true for every"
+    },
+    {
+      "start": 2281.12,
+      "end": 2288.96,
+      "text": "other industry, it's not clear to me. Roughly, how many jobs do you think are at risk from AI?"
+    },
+    {
+      "start": 2288.96,
+      "end": 2293.68,
+      "text": "And I guess the way, because I know your comments is like by how many basis points or percentage points,"
+    },
+    {
+      "start": 2293.68,
+      "end": 2299.44,
+      "text": "do you think the unemployment rate is going to go up because of AI? I think listen, first of all,"
+    },
+    {
+      "start": 2299.44,
+      "end": 2304.0,
+      "text": "we have to realize, I mean, I think it's going to depend country by country. The US right now,"
+    },
+    {
+      "start": 2305.44,
+      "end": 2311.6,
+      "text": "labor force is no longer right. You no longer have, you have no more net immigration,"
+    },
+    {
+      "start": 2312.64,
+      "end": 2319.6,
+      "text": "birth rates collapsing. So it's literally like this is a situation. So again, this is the reason why"
+    },
+    {
+      "start": 2319.6,
+      "end": 2324.32,
+      "text": "there is right now, it's in the foreseeable future, there's probably going to be a deficit"
+    },
+    {
+      "start": 2324.96,
+      "end": 2330.32,
+      "text": "in terms of labor force. And so for that point of view of AI just takes some jobs from software"
+    },
+    {
+      "start": 2330.32,
+      "end": 2335.92,
+      "text": "engineers, well, it's been equal. I think that's going to be manageable. But I do think that"
+    },
+    {
+      "start": 2335.92,
+      "end": 2342.32,
+      "text": "what is interesting to me though, is that I think AI, what it really does, what I'm hoping,"
+    },
+    {
+      "start": 2342.32,
+      "end": 2346.4,
+      "text": "what it does is this, right? It's like one of my clients was telling me this, right? I mean,"
+    },
+    {
+      "start": 2346.4,
+      "end": 2352.0800000000004,
+      "text": "this is like, so I run a global macro advisory business work, advise some of the biggest"
+    },
+    {
+      "start": 2352.08,
+      "end": 2359.2,
+      "text": "investors in the world on macro investing. Now, obviously there are some very big guys,"
+    },
+    {
+      "start": 2359.2,
+      "end": 2364.24,
+      "text": "right? In the industry, like the city, the world, like the Renaissance technology of the world,"
+    },
+    {
+      "start": 2364.24,
+      "end": 2370.48,
+      "text": "and so on so forth. If you look at these places, they have invested very aggressively over the last"
+    },
+    {
+      "start": 2370.48,
+      "end": 2378.3199999999997,
+      "text": "whatever, 20, 30, 40 years on infrastructure, software infrastructure, okay? Renaissance technology,"
+    },
+    {
+      "start": 2378.32,
+      "end": 2384.1600000000003,
+      "text": "for example, they supposedly have thousands of software engineers working with PhDs and"
+    },
+    {
+      "start": 2384.1600000000003,
+      "end": 2387.92,
+      "text": "building models of that kind of thing. And so the advantage, the fact that they were able to"
+    },
+    {
+      "start": 2387.92,
+      "end": 2391.92,
+      "text": "make a lot of money has lots of to do with the fact that they have a lot of software engineers,"
+    },
+    {
+      "start": 2391.92,
+      "end": 2396.1600000000003,
+      "text": "they've got a lot of computers, they will crack essentially the cranking numbers and able to"
+    },
+    {
+      "start": 2396.1600000000003,
+      "end": 2403.92,
+      "text": "trick right quickly. Now, as one of my clients basically said today, okay? And this guy is also right,"
+    },
+    {
+      "start": 2403.92,
+      "end": 2409.2000000000003,
+      "text": "he's also very successful. He's not a city. Where Renaissance, he said, now, you know what?"
+    },
+    {
+      "start": 2409.84,
+      "end": 2416.0,
+      "text": "I just have to hire three people. I'm going to be able to actually recreate everything in the"
+    },
+    {
+      "start": 2416.0,
+      "end": 2424.16,
+      "text": "size and the city they'll have. Okay? So, which is as long as we can now use AI to do this? So,"
+    },
+    {
+      "start": 2424.16,
+      "end": 2430.48,
+      "text": "essentially, building infrastructure is actually going to be very interesting because AI, in that sense,"
+    },
+    {
+      "start": 2430.48,
+      "end": 2437.52,
+      "text": "I would argue that it actually makes it actually empowers small teams. And this is where it's"
+    },
+    {
+      "start": 2437.52,
+      "end": 2442.96,
+      "text": "going to get very, very interesting because actually, this is where I'm not even that negative"
+    },
+    {
+      "start": 2442.96,
+      "end": 2449.2,
+      "text": "in that respect because like my son-in-law is a software engineer. He was until recently working"
+    },
+    {
+      "start": 2449.84,
+      "end": 2456.72,
+      "text": "in AI for one of the biggest whatever tech companies in the world, okay? Here in Israel. And he just"
+    },
+    {
+      "start": 2456.7200000000003,
+      "end": 2463.1200000000003,
+      "text": "decided to leave, okay? Resign to basically set up his own shop because he said that no time"
+    },
+    {
+      "start": 2463.1200000000003,
+      "end": 2470.0000000000005,
+      "text": "in his career, he can remember another time that if you just have an idea, you can literally create"
+    },
+    {
+      "start": 2470.0000000000005,
+      "end": 2475.44,
+      "text": "it yourself with the help of AI, with claw code. You just have to have an idea. You don't need to,"
+    },
+    {
+      "start": 2475.44,
+      "end": 2479.0400000000004,
+      "text": "like used to be a case if you want to have a start, if you want to set up a startup, you need a"
+    },
+    {
+      "start": 2479.0400000000004,
+      "end": 2484.0800000000004,
+      "text": "lot of money because you need initial, you need at least 10 people to basically start writing"
+    },
+    {
+      "start": 2484.08,
+      "end": 2489.7599999999998,
+      "text": "codes and this and this and that. Now, you can literally just give the command to a few agents"
+    },
+    {
+      "start": 2489.7599999999998,
+      "end": 2494.24,
+      "text": "and they'll just basically crank it up for you. And that is actually very, very interesting."
+    },
+    {
+      "start": 2495.12,
+      "end": 2501.84,
+      "text": "So I would say in that sense, like even for me, I would say like right now, like I've got a couple"
+    },
+    {
+      "start": 2501.84,
+      "end": 2506.88,
+      "text": "of guys working with me, but now I feel like, you know what, with AI, we could possibly take on some"
+    },
+    {
+      "start": 2506.88,
+      "end": 2513.44,
+      "text": "of the very big banks in terms of the quality of our research because I don't need that many people"
+    },
+    {
+      "start": 2513.44,
+      "end": 2519.68,
+      "text": "if you do it efficiently. So that's the beauty of this, which is that it empowers people know how"
+    },
+    {
+      "start": 2519.68,
+      "end": 2525.36,
+      "text": "to use it. And actually, you know, how to use it, that just basically means that so does that mean"
+    },
+    {
+      "start": 2525.36,
+      "end": 2531.12,
+      "text": "that it's going to cost job losses? Not necessarily. Actually, it just means that there's going to be"
+    },
+    {
+      "start": 2531.12,
+      "end": 2536.08,
+      "text": "power, it's going to be injection into the, in the entrepreneurial, entrepreneurial spirit."
+    },
+    {
+      "start": 2536.08,
+      "end": 2543.12,
+      "text": "Naturally. So who are the winners and who are the losers in this new world empowered by AI?"
+    },
+    {
+      "start": 2543.12,
+      "end": 2548.24,
+      "text": "Sounds like some entrepreneurs who can manage small teams, they are really empowered. But where is"
+    },
+    {
+      "start": 2548.24,
+      "end": 2552.48,
+      "text": "all this surplus that it sounds like you believe that AI is going to create? Where does it go? And to"
+    },
+    {
+      "start": 2552.48,
+      "end": 2558.48,
+      "text": "whom is the surplus negative or is hurt by it? Listen, at the end of the day, we all know. I mean, I think,"
+    },
+    {
+      "start": 2558.48,
+      "end": 2562.24,
+      "text": "you know, Elon Musk has made this point. I've made this point. A lot of people have made this point"
+    },
+    {
+      "start": 2562.24,
+      "end": 2566.7999999999997,
+      "text": "which is, I just think about Star Trek, right? If you think about, you know, if you think about"
+    },
+    {
+      "start": 2566.8,
+      "end": 2574.32,
+      "text": "Star Trek, what do people do is Star Trek? They're like exploring the universe. Like with what money?"
+    },
+    {
+      "start": 2575.52,
+      "end": 2579.76,
+      "text": "Right? Because like, you know, if they want food, you say, wow, I want some food and then"
+    },
+    {
+      "start": 2579.76,
+      "end": 2588.5600000000004,
+      "text": "you basically create what I'm saying is that what what I, you know, in the ultimate sense, like AI,"
+    },
+    {
+      "start": 2588.5600000000004,
+      "end": 2594.88,
+      "text": "if it's as good as it can be, it should create a world of surplus. So that we all be"
+    },
+    {
+      "start": 2594.96,
+      "end": 2599.76,
+      "text": "putting our thumb watching that flex TV every single day and doing something that we enjoy,"
+    },
+    {
+      "start": 2599.76,
+      "end": 2604.0,
+      "text": "actually, and I happen to enjoy working, but it's a different story. But the point here is that"
+    },
+    {
+      "start": 2604.0,
+      "end": 2609.6,
+      "text": "that's what it is. So I think from that point of view, like, yeah, if you have a lot of robots,"
+    },
+    {
+      "start": 2609.6,
+      "end": 2614.6400000000003,
+      "text": "okay, you know, I could easily investigate the world and what should they're going to be robots"
+    },
+    {
+      "start": 2614.6400000000003,
+      "end": 2620.0,
+      "text": "working and human beings just basically exploring the world, you know, we'll think about big thoughts."
+    },
+    {
+      "start": 2620.0,
+      "end": 2624.16,
+      "text": "That would be the, I mean, I think you know, human beings, I mean, I don't know that that's"
+    },
+    {
+      "start": 2624.16,
+      "end": 2629.6,
+      "text": "that's the world in which I want to live. But I can see that as just sort of the ultimate endgame."
+    },
+    {
+      "start": 2629.6,
+      "end": 2636.0,
+      "text": "But, you know, but however, however, this is where it gets interesting because I get at the same time,"
+    },
+    {
+      "start": 2636.0,
+      "end": 2643.2,
+      "text": "there's another scenario, which is that, and actually the, what's his name? The Jack Clark,"
+    },
+    {
+      "start": 2643.2,
+      "end": 2647.76,
+      "text": "the co-founder of Anthropic, gave his speech at Oxford University last week, and he was talking"
+    },
+    {
+      "start": 2647.76,
+      "end": 2655.1200000000003,
+      "text": "about the fact that there is definitely scenarios out there in which the AI can bring about human"
+    },
+    {
+      "start": 2655.1200000000003,
+      "end": 2659.6800000000003,
+      "text": "extinction. And not, we're not even talking about 30 years down the road. And I can tell you"
+    },
+    {
+      "start": 2659.6800000000003,
+      "end": 2664.0,
+      "text": "more and more people are talking about, I mean, this is the reason why a bunch of AI companies"
+    },
+    {
+      "start": 2664.0,
+      "end": 2668.0800000000004,
+      "text": "last week, you know, essentially wrote a joint letter to, I don't know, the government saying that we"
+    },
+    {
+      "start": 2668.0800000000004,
+      "end": 2674.32,
+      "text": "need to control the supply of some kind of by which by weapon, whatever, you know, essentially"
+    },
+    {
+      "start": 2674.32,
+      "end": 2682.0,
+      "text": "the ingredients because with AI, somebody could literally unleash a maximum external extinction"
+    },
+    {
+      "start": 2682.0,
+      "end": 2688.7200000000003,
+      "text": "event with human beings. So, I mean, and then these models, you probably heard, even Anthropic,"
+    },
+    {
+      "start": 2688.7200000000003,
+      "end": 2695.76,
+      "text": "they admitted that that mythos is less predictable than some of their less sophisticated models."
+    },
+    {
+      "start": 2695.76,
+      "end": 2701.36,
+      "text": "So, who knows? You know, so I don't know which, you know, so if AI is just going to be listening to"
+    },
+    {
+      "start": 2701.36,
+      "end": 2705.44,
+      "text": "these human commands, I can even imagine one day none of us will be working and that would not"
+    },
+    {
+      "start": 2705.44,
+      "end": 2709.6,
+      "text": "be so bad. But there's also a scenario in which we're all going to be working for AI."
+    },
+    {
+      "start": 2709.6,
+      "end": 2714.08,
+      "text": "Do you think that the CAPEX being spent on AI and data centers right now is a bubble?"
+    },
+    {
+      "start": 2714.96,
+      "end": 2720.1600000000003,
+      "text": "I don't want to say it's a bubble or not because, you know, again, you know, you get to have to base,"
+    },
+    {
+      "start": 2720.1600000000003,
+      "end": 2727.2000000000003,
+      "text": "you have to, you have to imagine that for these companies, right? I mean, like I can understand"
+    },
+    {
+      "start": 2727.28,
+      "end": 2732.8,
+      "text": "the technology at the rate at which is been progressing, you know, you sort of don't want to be left"
+    },
+    {
+      "start": 2732.8,
+      "end": 2737.92,
+      "text": "behind if you're one of these hyperscalers, right? I mean, because, I mean, it's one of these things"
+    },
+    {
+      "start": 2737.92,
+      "end": 2745.1200000000003,
+      "text": "that if you make a wrong move, you could become totally irrelevant. Okay. Now, like Microsoft is"
+    },
+    {
+      "start": 2745.1200000000003,
+      "end": 2749.5200000000004,
+      "text": "finding out, right? I mean, so for example, like Gemini already, I mean, it's a Google having invested"
+    },
+    {
+      "start": 2749.5200000000004,
+      "end": 2754.2400000000002,
+      "text": "Gemini was Microsoft now have to start from scratch to create their own LLN because they can no"
+    },
+    {
+      "start": 2754.2400000000002,
+      "end": 2761.1200000000003,
+      "text": "longer rely on charging PD and so on and so forth. But my point here until now, but this CAPEX"
+    },
+    {
+      "start": 2761.1200000000003,
+      "end": 2767.92,
+      "text": "spending is predicated on the assumption that the capabilities of these frontier models will"
+    },
+    {
+      "start": 2767.92,
+      "end": 2775.0400000000004,
+      "text": "continue to improve at a very rapid rate. And my point to you is until three months ago,"
+    },
+    {
+      "start": 2775.0400000000004,
+      "end": 2780.0800000000004,
+      "text": "that capabilities, okay, the improvement, the incremental improvement in capabilities of frontier"
+    },
+    {
+      "start": 2780.56,
+      "end": 2785.7599999999998,
+      "text": "models, we're getting smaller and smaller. And then with most mythos, obviously that change,"
+    },
+    {
+      "start": 2785.7599999999998,
+      "end": 2790.4,
+      "text": "but now the accessible capabilities are getting smaller and smaller. And that's the problem."
+    },
+    {
+      "start": 2791.2799999999997,
+      "end": 2797.84,
+      "text": "Okay. I think so from that point of view, given my view, that actually that the accessible"
+    },
+    {
+      "start": 2797.84,
+      "end": 2803.92,
+      "text": "capabilities will get smaller and smaller, I would argue that we will quickly get to a point"
+    },
+    {
+      "start": 2803.92,
+      "end": 2809.44,
+      "text": "that suddenly that the CAPEX growth rate is going to be slowing and slowing quite a bit."
+    },
+    {
+      "start": 2809.44,
+      "end": 2814.96,
+      "text": "And do you think that the not just the growth rate of CAPEX is going to go down, but the actual"
+    },
+    {
+      "start": 2814.96,
+      "end": 2819.92,
+      "text": "level of CAPEX is going to go down as it did, talk about the dot-com boom and then the dot-com"
+    },
+    {
+      "start": 2819.92,
+      "end": 2826.16,
+      "text": "telecom bust in 2000 and 2001, 2002, like spending actually went down and it went precipitously."
+    },
+    {
+      "start": 2826.16,
+      "end": 2830.88,
+      "text": "So when we talk about a bubble popping, that's what it looks like. Do you see that or just the"
+    },
+    {
+      "start": 2830.88,
+      "end": 2835.2000000000003,
+      "text": "growth rate slowing? I absolutely see that. I mean, that obviously will require something. I just"
+    },
+    {
+      "start": 2835.2000000000003,
+      "end": 2840.2400000000002,
+      "text": "want to say, imagine what happens in the recession, because we know like Google, for example,"
+    },
+    {
+      "start": 2840.2400000000002,
+      "end": 2847.44,
+      "text": "60% of Google's earnings come from advertising and avenue, right? Google and Facebook, most of"
+    },
+    {
+      "start": 2847.44,
+      "end": 2852.88,
+      "text": "their actually earnings come from advertising, which is highly cyclical. And by the way, at this"
+    },
+    {
+      "start": 2852.88,
+      "end": 2856.88,
+      "text": "point, did you know what avenue is a revenue? I mean, ad revenue is like 80% of the whole thing,"
+    },
+    {
+      "start": 2856.88,
+      "end": 2863.2000000000003,
+      "text": "85% of the whole thing. So these companies have done very well by taking market share from TV,"
+    },
+    {
+      "start": 2863.2000000000003,
+      "end": 2868.2400000000002,
+      "text": "magazines, and print media and so on and so forth. But now they've got 85% now. So I mean,"
+    },
+    {
+      "start": 2868.2400000000002,
+      "end": 2874.4,
+      "text": "there's going to be a limited, a limited room in terms of market expansion. And at the same time,"
+    },
+    {
+      "start": 2874.4,
+      "end": 2879.28,
+      "text": "so if you go into suddenly a recession, and all of a sudden companies are not going to be"
+    },
+    {
+      "start": 2879.28,
+      "end": 2884.1600000000003,
+      "text": "advertising as much, this is going to be a big problem. I mean, Amazon, it's in a similar situation"
+    },
+    {
+      "start": 2884.1600000000003,
+      "end": 2890.8,
+      "text": "these days. So essentially, like, that's what this is about, actually, which is the fact that"
+    },
+    {
+      "start": 2890.88,
+      "end": 2898.32,
+      "text": "right now, we all know it's like, oh, right now, it's like everybody that, you know, that because"
+    },
+    {
+      "start": 2898.32,
+      "end": 2904.1600000000003,
+      "text": "it comes down to just two companies, right? Open AI and Anthropic. They are the ones who are making"
+    },
+    {
+      "start": 2904.1600000000003,
+      "end": 2909.04,
+      "text": "the money so to speak, right? Because I mean, when you're using AI, you're paying them. And they're"
+    },
+    {
+      "start": 2909.04,
+      "end": 2914.2400000000002,
+      "text": "paying the hyperskillers, as a share of their revenue for the tokens or whatever and whatnot,"
+    },
+    {
+      "start": 2914.2400000000002,
+      "end": 2918.88,
+      "text": "right? And the hyperskillers then buy chips from NVIDIA and so on and so forth. So right now,"
+    },
+    {
+      "start": 2918.88,
+      "end": 2925.52,
+      "text": "what it's going on is that everybody's giving money to the Anthropic and the charge the Open"
+    },
+    {
+      "start": 2925.52,
+      "end": 2932.2400000000002,
+      "text": "AI of the world to keep these companies afloat, okay? So that they will keep this whole thing going."
+    },
+    {
+      "start": 2932.2400000000002,
+      "end": 2937.84,
+      "text": "I mean, this is why NVIDIA was only too happy to invest in Anthropic. And what I'm saying to you"
+    },
+    {
+      "start": 2937.84,
+      "end": 2944.96,
+      "text": "is that that's why this whole thing is sort of like, you know, it comes down to Anthropic"
+    },
+    {
+      "start": 2944.96,
+      "end": 2951.76,
+      "text": "and in Open AI, what kind of valuation they're going to be trading at? And I think this is where it"
+    },
+    {
+      "start": 2951.76,
+      "end": 2957.36,
+      "text": "gets very interesting because at a certain point, I understand in a way, Silicon Valley, I think"
+    },
+    {
+      "start": 2957.36,
+      "end": 2961.68,
+      "text": "these people are pretty smart, right? So it's the Washington, I mean, they all want to, they realize,"
+    },
+    {
+      "start": 2961.68,
+      "end": 2967.2,
+      "text": "I mean, Trump understand AI is like the only game the US has now relative to China, right? And"
+    },
+    {
+      "start": 2967.2,
+      "end": 2972.2400000000002,
+      "text": "therefore, he's trying to basically pump this up. He's trying to get all these companies to help"
+    },
+    {
+      "start": 2972.2400000000002,
+      "end": 2978.0800000000004,
+      "text": "each other, right? And so on so forth, trying to basically build this momentum so that the US has"
+    },
+    {
+      "start": 2978.0800000000004,
+      "end": 2983.36,
+      "text": "a total edge when it comes to this whole thing. But I think this is where it gets very interesting"
+    },
+    {
+      "start": 2983.36,
+      "end": 2990.0800000000004,
+      "text": "because again, that's what I've telling you before, this, I disnude now that because of the sanctions,"
+    },
+    {
+      "start": 2990.7200000000003,
+      "end": 2996.8,
+      "text": "okay, that has been plevy against China in terms of like the ability of China to secure the most"
+    },
+    {
+      "start": 2996.8,
+      "end": 3001.84,
+      "text": "advanced AI chips that China is now being led behind. There's no doubt about that. I mean,"
+    },
+    {
+      "start": 3001.84,
+      "end": 3006.1600000000003,
+      "text": "they only have the equivalent of the H200 chip. Now, you got black, well, you got rule buttons,"
+    },
+    {
+      "start": 3006.1600000000003,
+      "end": 3012.8,
+      "text": "so China's two generations behind. This is going to be a problem. But if, as I said before,"
+    },
+    {
+      "start": 3012.8,
+      "end": 3018.0800000000004,
+      "text": "calm myth is, turns out to be too good. And therefore, there is a regulatory basically blowback,"
+    },
+    {
+      "start": 3018.8,
+      "end": 3024.6400000000003,
+      "text": "then this whole thing. That's why I'm telling you, this, to me, the biggest risk on the horizon"
+    },
+    {
+      "start": 3024.64,
+      "end": 3031.2,
+      "text": "for AI. I'm not saying it's going to be tomorrow, but let's just say on a six to 12 month"
+    },
+    {
+      "start": 3031.2,
+      "end": 3038.24,
+      "text": "basis, there's no doubt my mind is regulatory risk. And that, that you think is what stops this"
+    },
+    {
+      "start": 3038.24,
+      "end": 3042.72,
+      "text": "AI cycle. All right, it could be very well, I mean, I think it could be, it could very well be."
+    },
+    {
+      "start": 3043.6,
+      "end": 3051.44,
+      "text": "But again, it also has a lot to do with the fact that again, the industry lends itself to"
+    },
+    {
+      "start": 3051.52,
+      "end": 3058.16,
+      "text": "commoditization. And it's not just the large language models. I mean, look at, even look at Nvidia,"
+    },
+    {
+      "start": 3058.16,
+      "end": 3066.16,
+      "text": "right? Nvidia is very good at learning chips, right? But inference chips, okay, are much less"
+    },
+    {
+      "start": 3066.16,
+      "end": 3072.8,
+      "text": "complex. This is why, like, even Intel can compete in inference chips, AMD and Broadcom. This is"
+    },
+    {
+      "start": 3072.8,
+      "end": 3079.04,
+      "text": "why Broadcom it has not yet revised up their guidance. Because again, it has to do with competition."
+    },
+    {
+      "start": 3079.04,
+      "end": 3083.92,
+      "text": "I mean, this is a wonderful thing about this, which is again, if you look at what happened,"
+    },
+    {
+      "start": 3083.92,
+      "end": 3090.64,
+      "text": "if you look at Microsoft, Google and Facebook, these are not the norm. I mean, technology has a"
+    },
+    {
+      "start": 3090.64,
+      "end": 3097.2,
+      "text": "tendency to actually promote competition and therefore, commoditization. And the market right now"
+    },
+    {
+      "start": 3097.2,
+      "end": 3102.24,
+      "text": "is pricing as though every company is going to be a winner take off. It's going to be a winner"
+    },
+    {
+      "start": 3102.24,
+      "end": 3107.84,
+      "text": "in this AI race. And that's just by definition, impossible. And so you think there will be a time"
+    },
+    {
+      "start": 3107.84,
+      "end": 3115.6000000000004,
+      "text": "when compute prices and compute supply drastically outstrips demand. So the compute shortage will"
+    },
+    {
+      "start": 3115.6000000000004,
+      "end": 3121.36,
+      "text": "turn into a compute glut. I think it's very, it's suddenly is very, very likely. Absolutely."
+    },
+    {
+      "start": 3121.36,
+      "end": 3125.84,
+      "text": "Because especially given the way the technology is changing, right? As we said before,"
+    },
+    {
+      "start": 3125.84,
+      "end": 3131.84,
+      "text": "because inference is much easier to do. I mean, again, you have to understand this whole monopoly"
+    },
+    {
+      "start": 3131.84,
+      "end": 3138.8,
+      "text": "business, right? That yeah, if Nvidia is the only designer, then Nvidia is going to be the winner"
+    },
+    {
+      "start": 3138.8,
+      "end": 3144.7200000000003,
+      "text": "takes all. But already, this is what's going on is that like once models have learned everything,"
+    },
+    {
+      "start": 3145.76,
+      "end": 3150.7200000000003,
+      "text": "you don't need more learning chips. You need instead inference chips, like all these"
+    },
+    {
+      "start": 3151.36,
+      "end": 3155.92,
+      "text": "agent models basically run on inference chips. And as a result, this is why you need more Intel"
+    },
+    {
+      "start": 3155.92,
+      "end": 3161.84,
+      "text": "CPUs, rather than GPUs, okay? And then you need more memory chips, right? Because it's my"
+    },
+    {
+      "start": 3161.84,
+      "end": 3166.64,
+      "text": "RAM chips. So everything's changing as a result. But what I'm saying to you is that once you move"
+    },
+    {
+      "start": 3166.64,
+      "end": 3172.4,
+      "text": "away from GPUs, the other stuff, there's a lot of producers, nanships, I mean, like the Chinese"
+    },
+    {
+      "start": 3172.4,
+      "end": 3177.76,
+      "text": "already are like, I mean, the Chinese is going to be very big in in in in in n flesh memories for"
+    },
+    {
+      "start": 3177.76,
+      "end": 3184.08,
+      "text": "for example. So you got to take all that into account. And that's and that's what it is."
+    },
+    {
+      "start": 3184.08,
+      "end": 3190.16,
+      "text": "What do you think about the NASDAQ index or the semiconductor index in it? I'm short. I mean,"
+    },
+    {
+      "start": 3190.16,
+      "end": 3194.7999999999997,
+      "text": "I've been short for a while. So it's been very painful. But thank God, I made some money,"
+    },
+    {
+      "start": 3194.7999999999997,
+      "end": 3200.72,
+      "text": "basically from from being a little oil. So I haven't done so badly this year. But the, but"
+    },
+    {
+      "start": 3200.72,
+      "end": 3206.7999999999997,
+      "text": "but that's what it is. I mean, listen, we had, you got to respect momentum. And there's no doubt"
+    },
+    {
+      "start": 3206.7999999999997,
+      "end": 3213.12,
+      "text": "like momentum was what carried a day for Nasdaq. I think, you know, but we had a bearish key"
+    },
+    {
+      "start": 3213.12,
+      "end": 3219.92,
+      "text": "reversal week last week. And I think, you know, I think most people who are who've been buying"
+    },
+    {
+      "start": 3219.92,
+      "end": 3224.88,
+      "text": "into this whole AI mainly return investors, you know, who are mainly technical traders. That's"
+    },
+    {
+      "start": 3224.88,
+      "end": 3230.56,
+      "text": "what they look at these days. And I think that's going to be a very difficult. I think that that"
+    },
+    {
+      "start": 3230.56,
+      "end": 3236.48,
+      "text": "that very strong and compelling reversal sign will make it very difficult for people to really"
+    },
+    {
+      "start": 3236.48,
+      "end": 3243.36,
+      "text": "trying to take it back to all time high. So we'll see how it goes. So I, but I do think that right"
+    },
+    {
+      "start": 3243.36,
+      "end": 3248.96,
+      "text": "now, like I think especially given, I think given the way the war's going. My view, I mean, I feel"
+    },
+    {
+      "start": 3248.96,
+      "end": 3253.36,
+      "text": "even more strongly about the way the world worth going, which is that Iran is going to make it very"
+    },
+    {
+      "start": 3253.36,
+      "end": 3257.44,
+      "text": "difficult for Trump to tackle. I mean, Trump wants to tackle, obviously, but Iran is going to make"
+    },
+    {
+      "start": 3257.44,
+      "end": 3262.4,
+      "text": "it very difficult for Trump to tackle, which means that Trump, the situation that, I mean,"
+    },
+    {
+      "start": 3262.56,
+      "end": 3268.88,
+      "text": "that's that's the reason why I'm a long oil. Okay. And I think if this war is not resolved soon,"
+    },
+    {
+      "start": 3268.88,
+      "end": 3274.56,
+      "text": "which I do not believe will be the case, and this could all end very badly. So it sounds like you"
+    },
+    {
+      "start": 3274.56,
+      "end": 3279.28,
+      "text": "made money being long oil, early in the war, you know, price of oil shot up. Congratulations,"
+    },
+    {
+      "start": 3279.28,
+      "end": 3285.6800000000003,
+      "text": "on that. I happen to be long oil. I'm actually down like the price of oil has gone down. Why do you"
+    },
+    {
+      "start": 3285.6800000000003,
+      "end": 3290.4,
+      "text": "think the price of oil is going down? As the war has continued and the straight up removes"
+    },
+    {
+      "start": 3290.4,
+      "end": 3294.96,
+      "text": "officially, at least, optically remains closed. I count some of the biggest hedge funds in the"
+    },
+    {
+      "start": 3294.96,
+      "end": 3298.48,
+      "text": "world as my clients. And I can tell you, I cannot find one person with one oil right now."
+    },
+    {
+      "start": 3299.44,
+      "end": 3305.76,
+      "text": "Because because I think the day is hard, psychological. Think about this for a second, right?"
+    },
+    {
+      "start": 3305.76,
+      "end": 3311.6800000000003,
+      "text": "You know, it's going to come down to Trump, right? I mean, and you think, I think the day"
+    },
+    {
+      "start": 3311.6800000000003,
+      "end": 3317.6,
+      "text": "it's about information and symmetry. Because Trump obviously knows much better about what he's"
+    },
+    {
+      "start": 3317.6,
+      "end": 3324.08,
+      "text": "going to do than you, than you, right? So if he tells you, oh, there's going to be a deal in two,"
+    },
+    {
+      "start": 3324.08,
+      "end": 3329.36,
+      "text": "three days, who are you to basically say that he's wrong, right? You have to catch him out."
+    },
+    {
+      "start": 3329.36,
+      "end": 3333.12,
+      "text": "It's a very dangerous thing because he knows more than you do about what he's going to do."
+    },
+    {
+      "start": 3333.92,
+      "end": 3339.52,
+      "text": "And this is the reason why people find it difficult to actually question Trump."
+    },
+    {
+      "start": 3340.3199999999997,
+      "end": 3347.12,
+      "text": "And that's what it is. And therefore, especially more recently, right? I mean, like it's like,"
+    },
+    {
+      "start": 3347.2,
+      "end": 3354.3199999999997,
+      "text": "well, everybody knows that in the trees, oil in the trees are crashing, right? And that unless"
+    },
+    {
+      "start": 3354.3199999999997,
+      "end": 3359.3599999999997,
+      "text": "there's going to be a deal soon, like oil prices will go through the roof. But presumably Trump"
+    },
+    {
+      "start": 3359.3599999999997,
+      "end": 3367.68,
+      "text": "knows that too. So therefore, Trump has a very strong incentive to actually get a deal before"
+    },
+    {
+      "start": 3367.68,
+      "end": 3372.16,
+      "text": "oil price should up to 150. I mean, because I mean, I'm sure all the oil executives are calling him"
+    },
+    {
+      "start": 3372.16,
+      "end": 3376.56,
+      "text": "tongue like, well, President, like, if the state of who moves is still closed by the end of July,"
+    },
+    {
+      "start": 3376.56,
+      "end": 3381.6,
+      "text": "like oil price can be $150. So from the point of view, you didn't have to assume that Trump is"
+    },
+    {
+      "start": 3381.6,
+      "end": 3387.04,
+      "text": "under pressure. So, and this is the reason why it's a sort of like, it's one of these things that"
+    },
+    {
+      "start": 3387.04,
+      "end": 3391.6,
+      "text": "you've got a president who's pretty market savvy, he has tried your secretary's brief market savvy."
+    },
+    {
+      "start": 3392.24,
+      "end": 3400.24,
+      "text": "And Trump is very good at, he understands the market very well. He knows the market struggles"
+    },
+    {
+      "start": 3400.24,
+      "end": 3405.84,
+      "text": "to fight him. And then despite the fact that he's been telling us for two months every"
+    },
+    {
+      "start": 3405.84,
+      "end": 3411.84,
+      "text": "week that that deals within reach in days and next week and so on and so forth, the market"
+    },
+    {
+      "start": 3413.28,
+      "end": 3419.84,
+      "text": "still has not been a position to catch him to basically call him bluff basically. And I think"
+    },
+    {
+      "start": 3419.84,
+      "end": 3425.76,
+      "text": "that's what it is. But I do think however, it's because market doesn't understand because my view"
+    },
+    {
+      "start": 3425.76,
+      "end": 3432.56,
+      "text": "ultimately has to do with the fact that in fact, Trump by trying to talk up how close a deal"
+    },
+    {
+      "start": 3432.56,
+      "end": 3438.24,
+      "text": "and this and that. Yeah, it might have pleased the market, but it also convinced the Iranians"
+    },
+    {
+      "start": 3438.88,
+      "end": 3447.04,
+      "text": "that Trump is desperate, the Trump needs a deal, which means that the Iranians, this is all his"
+    },
+    {
+      "start": 3447.04,
+      "end": 3453.6,
+      "text": "old Trump's big talk about the deal is close, would only enter the harden the resolve Iranians,"
+    },
+    {
+      "start": 3453.6,
+      "end": 3459.84,
+      "text": "which will probably, you know, basically get them to demand even tougher terms. And then I think"
+    },
+    {
+      "start": 3460.48,
+      "end": 3464.56,
+      "text": "there's a there's a price at which it'll be even too high for Trump. And that's when it gets"
+    },
+    {
+      "start": 3465.04,
+      "end": 3471.92,
+      "text": "very interesting. Okay, tell me what the Iranians are saying and tell me what other than observing"
+    },
+    {
+      "start": 3471.92,
+      "end": 3477.04,
+      "text": "that President Trump might be desperate as you say that, that what what they are thinking,"
+    },
+    {
+      "start": 3477.04,
+      "end": 3483.6800000000003,
+      "text": "what what their calculus is like. Why and what do you how do you assess the odds that a deal"
+    },
+    {
+      "start": 3483.6800000000003,
+      "end": 3488.88,
+      "text": "that everyone accepts is going to be signed in the near term. Let's say the next month."
+    },
+    {
+      "start": 3489.6,
+      "end": 3496.8,
+      "text": "No, I'm saying that just imagine what it is, right? So we don't know, you and I don't know how close"
+    },
+    {
+      "start": 3496.8,
+      "end": 3502.96,
+      "text": "or how far the two sides are, but presumably the Iranians know. They should know, right? Now,"
+    },
+    {
+      "start": 3502.96,
+      "end": 3508.0,
+      "text": "imagine. So at the start of like we've been in the ceasefire mode for the last two months."
+    },
+    {
+      "start": 3508.0,
+      "end": 3512.56,
+      "text": "And Trump has been telling us for two months now that the deal is next week, next day, whatever it is."
+    },
+    {
+      "start": 3513.2000000000003,
+      "end": 3518.4,
+      "text": "Now, you could argue initially, I thought that this was a negotiating tactic, right? The Trump"
+    },
+    {
+      "start": 3518.4,
+      "end": 3524.8,
+      "text": "was trying to essentially use this strategy to put pressure on the Iranians. Okay. Now,"
+    },
+    {
+      "start": 3524.8,
+      "end": 3531.28,
+      "text": "obviously, it hasn't been working. So the Iranians now, let's just imagine they're very far apart."
+    },
+    {
+      "start": 3531.28,
+      "end": 3535.44,
+      "text": "The Iranians are looking at this every day, say, well, listen, like we're still very far apart."
+    },
+    {
+      "start": 3535.44,
+      "end": 3540.4,
+      "text": "Why is Trump going to keep saying that there's a deal going to be next week or tomorrow and three days"
+    },
+    {
+      "start": 3540.48,
+      "end": 3547.52,
+      "text": "economy, one thing that Trump really means a deal. In fact, Trump is signaling to us that he'll"
+    },
+    {
+      "start": 3547.52,
+      "end": 3551.6,
+      "text": "willing to make more concessions in order just so that we don't walk away from the negotiation."
+    },
+    {
+      "start": 3551.6,
+      "end": 3555.36,
+      "text": "That's what if you are Iranian, that's exactly what you think. Okay. Number one."
+    },
+    {
+      "start": 3556.56,
+      "end": 3561.6,
+      "text": "Number two, let's look at the action speaks louder than words. What happened on Sunday? I said"
+    },
+    {
+      "start": 3561.68,
+      "end": 3569.8399999999997,
+      "text": "in Israel. On Sunday morning. Okay. Hinspolar, fire, essentially a barrage of rockets into Israel"
+    },
+    {
+      "start": 3570.48,
+      "end": 3576.56,
+      "text": "in clear violation of the ceasefire deal that had been a real last week. Israel dense fire back"
+    },
+    {
+      "start": 3576.56,
+      "end": 3581.44,
+      "text": "as it should. Okay. And then the next day, as you probably know, a Monday, Iran, basically,"
+    },
+    {
+      "start": 3581.44,
+      "end": 3587.52,
+      "text": "fire missiles at Israel. Let me tell you this. This has never, ever happened. It's never,"
+    },
+    {
+      "start": 3587.52,
+      "end": 3592.64,
+      "text": "Hinspolar and Israel have been fighting over the years for a long time. It's never happened"
+    },
+    {
+      "start": 3592.64,
+      "end": 3598.0,
+      "text": "that Israel should be Israel and, you know, Facebook are fighting it out. Any Iran basically fires"
+    },
+    {
+      "start": 3598.0,
+      "end": 3604.4,
+      "text": "missiles at Israel. What does that tell you? That would suggest a certain boldness on the part of"
+    },
+    {
+      "start": 3604.4,
+      "end": 3608.88,
+      "text": "Iran that has never been there before. And they've only gotten this bold because guess what?"
+    },
+    {
+      "start": 3608.88,
+      "end": 3615.36,
+      "text": "They think Trump is weak. They think that they're trying to actually exploit this situation to actually"
+    },
+    {
+      "start": 3615.44,
+      "end": 3621.28,
+      "text": "drive a wedge between the U.S. and Israel. So what I'm telling you is that you think that Iran,"
+    },
+    {
+      "start": 3621.28,
+      "end": 3627.52,
+      "text": "you know, some Trump say, oh, well, they took down our helicopter and our, however, our pilots are safe."
+    },
+    {
+      "start": 3628.6400000000003,
+      "end": 3633.28,
+      "text": "Just think about this. When Iran shut down the helicopter, do you think the Iranians knew"
+    },
+    {
+      "start": 3633.84,
+      "end": 3640.56,
+      "text": "that the pilots are going to die or not? What do you think? They couldn't know. Yeah, yeah. Of course,"
+    },
+    {
+      "start": 3640.56,
+      "end": 3645.6,
+      "text": "when they fired at the helicopter, they couldn't know that they were not going to kill them."
+    },
+    {
+      "start": 3645.6,
+      "end": 3651.36,
+      "text": "Absolutely. You're telling the right answer. As a result, it tells you that when they fired"
+    },
+    {
+      "start": 3651.36,
+      "end": 3657.52,
+      "text": "these helicopters, they were prepared, okay, that they were going to die and that this was going"
+    },
+    {
+      "start": 3657.52,
+      "end": 3662.32,
+      "text": "to actually terminate the negotiation between the U.S. and Iran because had these pilots die,"
+    },
+    {
+      "start": 3662.32,
+      "end": 3666.24,
+      "text": "Trump would have had to basically walk away from the negotiation. So what I'm just telling you again,"
+    },
+    {
+      "start": 3666.2400000000002,
+      "end": 3671.2000000000003,
+      "text": "you got to basically look at talk is cheap. Trump is talking. Iranians, like if you look at what"
+    },
+    {
+      "start": 3671.2000000000003,
+      "end": 3675.36,
+      "text": "they're doing, as opposed to what they're saying, it wasn't just that actually they're pretty dug"
+    },
+    {
+      "start": 3675.36,
+      "end": 3679.44,
+      "text": "in. They're pretty confident that they're in a strong position and that's what they're doing."
+    },
+    {
+      "start": 3680.5600000000004,
+      "end": 3686.4,
+      "text": "So from that point of view, I think this is the reason why I think they have no incentive"
+    },
+    {
+      "start": 3686.4,
+      "end": 3692.1600000000003,
+      "text": "to give Trump an easy way out. In fact, they're going to make him pay through the nose,"
+    },
+    {
+      "start": 3692.24,
+      "end": 3697.04,
+      "text": "actually, if from a game theory's perspective, that would make all the sense in order."
+    },
+    {
+      "start": 3697.04,
+      "end": 3699.44,
+      "text": "And in the Iranians invented chess, let's not forget."
+    },
+    {
+      "start": 3701.7599999999998,
+      "end": 3707.04,
+      "text": "So yes, that's a great point. What do you think the end game to all of this is?"
+    },
+    {
+      "start": 3709.6,
+      "end": 3717.6,
+      "text": "All right, listen, the great thing about the great thing about markets is that, and I call myself"
+    },
+    {
+      "start": 3717.6,
+      "end": 3724.24,
+      "text": "a strategist, as opposed to an economist, whatever, because these days I don't make GDP point"
+    },
+    {
+      "start": 3724.24,
+      "end": 3728.88,
+      "text": "forecasts. I can't care less. Okay, like it's about whether you're long or you're short."
+    },
+    {
+      "start": 3729.44,
+      "end": 3734.3199999999997,
+      "text": "I think to me, whatever the end game is, I mean, there could be different end games,"
+    },
+    {
+      "start": 3734.3199999999997,
+      "end": 3739.52,
+      "text": "there could be basically different paths. But all I care is that most of these scenarios we're"
+    },
+    {
+      "start": 3739.52,
+      "end": 3743.92,
+      "text": "going to end up, probably you're going to see high oil price. And that's good enough for me."
+    },
+    {
+      "start": 3744.48,
+      "end": 3749.2000000000003,
+      "text": "Okay, so I don't really need to basically get into this. Oh, well, what's going to be that"
+    },
+    {
+      "start": 3749.6800000000003,
+      "end": 3752.8,
+      "text": "the exact outcome? Because that's not how investing works."
+    },
+    {
+      "start": 3753.6800000000003,
+      "end": 3758.88,
+      "text": "It's that's completely right. And I'm glad you said that. So you're the end game you see is"
+    },
+    {
+      "start": 3759.84,
+      "end": 3765.12,
+      "text": "scenario where it's likely that the price of oil is going to be higher. Tell me"
+    },
+    {
+      "start": 3767.04,
+      "end": 3771.12,
+      "text": "what is the percentage roughly that you think of the oil that's getting through the"
+    },
+    {
+      "start": 3771.12,
+      "end": 3775.52,
+      "text": "straight of hormones? Because it's officially blocked, not just by Iran, but by the U.S."
+    },
+    {
+      "start": 3775.52,
+      "end": 3780.72,
+      "text": "we have a blockade. So it's officially double blocked. And yet there are these claims that the"
+    },
+    {
+      "start": 3780.72,
+      "end": 3785.52,
+      "text": "ships are turning off their signals. So it's not being picked up. And so the official numbers of"
+    },
+    {
+      "start": 3785.52,
+      "end": 3789.7599999999998,
+      "text": "ships of tankers that are bringing oil through the straight of hormones is a very, very low number,"
+    },
+    {
+      "start": 3789.7599999999998,
+      "end": 3796.48,
+      "text": "a tiny percentage. And yet, yet some percent like, how much oil do you think is getting through?"
+    },
+    {
+      "start": 3797.28,
+      "end": 3802.2400000000002,
+      "text": "I think it depends on week by week. I think two weeks ago, quite a few got through."
+    },
+    {
+      "start": 3802.2400000000002,
+      "end": 3807.76,
+      "text": "I think last week, very few. Okay. And I think, you know, like in the last few days in general,"
+    },
+    {
+      "start": 3807.76,
+      "end": 3812.8,
+      "text": "very, very few. I mean, you know, there are people who do this for a living. They don't care about"
+    },
+    {
+      "start": 3812.8,
+      "end": 3817.36,
+      "text": "the GPS and it's not. They're sitting there in a Gulf of hormones and just basically counting every"
+    },
+    {
+      "start": 3817.36,
+      "end": 3821.6,
+      "text": "ship that's going through. I mean, there are people who make a living just doing that. So from that"
+    },
+    {
+      "start": 3821.6,
+      "end": 3827.04,
+      "text": "point of view, like Kepler, for example, if there are a lot of ships going through, believe me,"
+    },
+    {
+      "start": 3827.04,
+      "end": 3830.3199999999997,
+      "text": "this will be the front page of the Wall Street Journal, right? And then hearing it from the"
+    },
+    {
+      "start": 3830.3199999999997,
+      "end": 3835.2799999999997,
+      "text": "Secretary of Energy, whatever it is, so bullshit. I mean, like, so from that point of view, like, you"
+    },
+    {
+      "start": 3835.2799999999997,
+      "end": 3841.2799999999997,
+      "text": "know, I track the Bloomberg actually has a very good tracker. And I'm a Bloomberg subscriber,"
+    },
+    {
+      "start": 3841.2799999999997,
+      "end": 3847.12,
+      "text": "and I get the data. And I think it's pretty decent. And so far, I know is that I think, you know,"
+    },
+    {
+      "start": 3847.2,
+      "end": 3855.68,
+      "text": "there was the week before last when the US managed to get a few tanker owners to turn off their GPS"
+    },
+    {
+      "start": 3855.68,
+      "end": 3860.88,
+      "text": "and trying to basically get through by selling through, you know, the, the sudden part of the"
+    },
+    {
+      "start": 3860.88,
+      "end": 3867.12,
+      "text": "straight, which is closer to Oman, under US, whatever. I think that probably was the reason why"
+    },
+    {
+      "start": 3867.12,
+      "end": 3872.48,
+      "text": "we saw an increase in a number of tankers. But then Iran put its foot down. They started to"
+    },
+    {
+      "start": 3872.48,
+      "end": 3877.44,
+      "text": "deploy mines in that part of the sea. I mean, I think in general, like, I think at this point,"
+    },
+    {
+      "start": 3877.44,
+      "end": 3881.52,
+      "text": "I think that number is pretty low. David will leave it there. Thank you so much for coming on"
+    },
+    {
+      "start": 3881.52,
+      "end": 3886.0,
+      "text": "monetary matters. Tell us about your research service, David Wu Unbound, and where people can find"
+    },
+    {
+      "start": 3886.0,
+      "end": 3891.2,
+      "text": "you. Yeah, so if you don't want to pay, you just basically visit my YouTube channel, David Wu Unbound."
+    },
+    {
+      "start": 3891.2,
+      "end": 3895.92,
+      "text": "If you're interested, I, we offer a retail subscription service for people who want to know more about"
+    },
+    {
+      "start": 3895.92,
+      "end": 3900.96,
+      "text": "my investment strategy for, especially when it comes to picking stocks. If you're an institutional"
+    },
+    {
+      "start": 3900.96,
+      "end": 3906.64,
+      "text": "investor, just contact me directly because we have it. That's, that's the bulk of what we do,"
+    },
+    {
+      "start": 3906.64,
+      "end": 3910.4,
+      "text": "which is providing some of the most sophisticated institutions in the world,"
+    },
+    {
+      "start": 3910.4,
+      "end": 3913.92,
+      "text": "on navigating geopolitics, politics, economics and technology."
+    },
+    {
+      "start": 3914.88,
+      "end": 3918.4,
+      "text": "Thank you, David. Thank you, everyone, for watching. Please leave a rating and review for monetary"
+    },
+    {
+      "start": 3918.4,
+      "end": 3922.64,
+      "text": "matters on Apple Podcasts and Spotify and subscribe to the Monetary Matters YouTube channel."
+    },
+    {
+      "start": 3922.64,
+      "end": 3927.12,
+      "text": "Hope you enjoyed today's episode. Those interested in learning more about the Tukulum corn fund"
+    },
+    {
+      "start": 3927.12,
+      "end": 3933.2,
+      "text": "ticker-c-o-r-n can find more information in the link in the description. Until next time."
+    }
+  ]
+}

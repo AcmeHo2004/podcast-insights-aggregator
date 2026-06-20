@@ -1,0 +1,3241 @@
+{
+  "id": "62011cf953031a72",
+  "show": "The Acquirers Podcast",
+  "theme": "Strategy & Markets",
+  "title": "Oil Isn't Dead — John Love on Why Energy Markets Are Defying the Headlines",
+  "audio_url": "https://traffic.megaphone.fm/APO6386511669.mp3",
+  "source": "local-whisper",
+  "duration": 3867.4,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "Growing a successful business has never been easy,"
+    },
+    {
+      "start": 3.2,
+      "end": 7.44,
+      "text": "but whether you're navigating a complex industry or trying to reinvent one,"
+    },
+    {
+      "start": 7.44,
+      "end": 12.56,
+      "text": "our breadth of banking experts are here to collaborate on market-proven solutions."
+    },
+    {
+      "start": 12.56,
+      "end": 15.92,
+      "text": "At KeyBank, we're built to grow with your changing needs,"
+    },
+    {
+      "start": 15.92,
+      "end": 18.56,
+      "text": "because we're not just here for the business you are now."
+    },
+    {
+      "start": 18.56,
+      "end": 20.8,
+      "text": "We're here for the business you'll become."
+    },
+    {
+      "start": 20.8,
+      "end": 22.96,
+      "text": "Re-imagine business as usual."
+    },
+    {
+      "start": 22.96,
+      "end": 24.8,
+      "text": "KeyBank opens doors."
+    },
+    {
+      "start": 24.8,
+      "end": 27.44,
+      "text": "Learn more at key.com slash b2b."
+    },
+    {
+      "start": 27.44,
+      "end": 32.56,
+      "text": "LinkedIn is pretty amazing at helping you grow your small business."
+    },
+    {
+      "start": 32.56,
+      "end": 36.0,
+      "text": "We cannot stop your new clients from emailing you at 3AM."
+    },
+    {
+      "start": 38.24,
+      "end": 41.68,
+      "text": "We can help you sell, market, and hire in one place."
+    },
+    {
+      "start": 41.68,
+      "end": 44.480000000000004,
+      "text": "We cannot help you be in three places at once."
+    },
+    {
+      "start": 45.6,
+      "end": 48.24,
+      "text": "And while we can't help you organize your calendar,"
+    },
+    {
+      "start": 48.88,
+      "end": 53.6,
+      "text": "LinkedIn can help you land more clients so you have a calendar to organize."
+    },
+    {
+      "start": 53.6,
+      "end": 55.760000000000005,
+      "text": "Grow your small business on LinkedIn."
+    },
+    {
+      "start": 55.76,
+      "end": 58.4,
+      "text": "Learn more at linkedin.com slash small business."
+    },
+    {
+      "start": 59.519999999999996,
+      "end": 63.76,
+      "text": "Well, live. This is value after hours. I'm Tobias Carlyle."
+    },
+    {
+      "start": 63.76,
+      "end": 66.08,
+      "text": "I'll join as always by my co-host Jake Taylor."
+    },
+    {
+      "start": 66.08,
+      "end": 67.75999999999999,
+      "text": "Our special guest today is John Love."
+    },
+    {
+      "start": 67.75999999999999,
+      "end": 70.88,
+      "text": "He's the president and CEO of UCF Investments."
+    },
+    {
+      "start": 70.88,
+      "end": 74.47999999999999,
+      "text": "There are commodity energy ETF firm."
+    },
+    {
+      "start": 74.47999999999999,
+      "end": 78.56,
+      "text": "John's going to give us some views on where copper and oil are going."
+    },
+    {
+      "start": 78.56,
+      "end": 79.84,
+      "text": "How are you, John? Welcome to the show."
+    },
+    {
+      "start": 80.4,
+      "end": 82.16,
+      "text": "Thanks for having me. I'm doing good. Thank you."
+    },
+    {
+      "start": 83.11999999999999,
+      "end": 86.39999999999999,
+      "text": "Tell us a little bit about the phone."
+    },
+    {
+      "start": 87.03999999999999,
+      "end": 92.72,
+      "text": "Sure. Well, UCF Investments, the acronym is short for United States commodity funds."
+    },
+    {
+      "start": 92.72,
+      "end": 97.67999999999999,
+      "text": "We've been around for 20 years. We launched our first ETF in 2006,"
+    },
+    {
+      "start": 98.47999999999999,
+      "end": 102.08,
+      "text": "April 2006, so just celebrated a 20th anniversary."
+    },
+    {
+      "start": 103.03999999999999,
+      "end": 109.12,
+      "text": "We were the first oil ETF, the third commodity ETF to exist,"
+    },
+    {
+      "start": 109.12,
+      "end": 112.64,
+      "text": "and had a lot of success with that. A lot of people are familiar with the ticker,"
+    },
+    {
+      "start": 112.64,
+      "end": 119.76,
+      "text": "USO. That's us more so than the firm, but we shortened United States commodity funds to"
+    },
+    {
+      "start": 119.76,
+      "end": 123.92,
+      "text": "USCF Investments because we branched out a little bit in the ensuing years."
+    },
+    {
+      "start": 123.92,
+      "end": 128.32,
+      "text": "But our product lineup is primarily commodity ETFs."
+    },
+    {
+      "start": 128.32,
+      "end": 134.56,
+      "text": "So after oil, we did natural gas. We did kind of a contango mitigating fund."
+    },
+    {
+      "start": 135.52,
+      "end": 140.32,
+      "text": "We've done copper, and we've also branched into broad commodities,"
+    },
+    {
+      "start": 140.32,
+      "end": 146.48,
+      "text": "where we think we have a pretty good strategy that's done really good this decade so far."
+    },
+    {
+      "start": 146.48,
+      "end": 151.84,
+      "text": "It's actually beaten the S&P and NASDAQ 100 over the last five years."
+    },
+    {
+      "start": 151.84,
+      "end": 157.2,
+      "text": "So pretty proud of that. So yeah, we just keep trying to innovate in the space,"
+    },
+    {
+      "start": 157.2,
+      "end": 158.64000000000001,
+      "text": "and that's us in a nutshell."
+    },
+    {
+      "start": 159.44,
+      "end": 162.32,
+      "text": "Congrats. I think copper is particularly interesting,"
+    },
+    {
+      "start": 162.32,
+      "end": 170.23999999999998,
+      "text": "potentially because it's used in AI. I've been telling a story that the world needs six more"
+    },
+    {
+      "start": 170.23999999999998,
+      "end": 176.48,
+      "text": "S&D and we don't have eight more S&D and we don't have eight more S&D."
+    },
+    {
+      "start": 176.48,
+      "end": 178.95999999999998,
+      "text": "Tell us a little bit about what's happening in copper."
+    },
+    {
+      "start": 179.76,
+      "end": 185.2,
+      "text": "Yeah, I think you nailed it. The challenge right now is the short term versus the long term."
+    },
+    {
+      "start": 185.2,
+      "end": 189.2,
+      "text": "Like everybody knows, I don't know if everybody knows. But over the next five years,"
+    },
+    {
+      "start": 189.20000000000002,
+      "end": 193.44000000000003,
+      "text": "I think it's a pretty established fact that unless there's an interruption to this AI"
+    },
+    {
+      "start": 193.44000000000003,
+      "end": 198.64000000000001,
+      "text": "story, there is not enough, in fact, even before AI, there's not enough copper for all of the things"
+    },
+    {
+      "start": 198.64000000000001,
+      "end": 204.8,
+      "text": "that we're trying to do. Just standard manufacturing and growth, but then you add EVs,"
+    },
+    {
+      "start": 204.8,
+      "end": 210.96,
+      "text": "you let electrification across the board, and then the AI story data centers coming into it."
+    },
+    {
+      "start": 210.96,
+      "end": 218.56,
+      "text": "There's just not enough copper. It takes a long time to bring a new supply online that's starting"
+    },
+    {
+      "start": 218.56,
+      "end": 224.8,
+      "text": "to happen, but it's a very long process. People are saying 10 years. It's probably more 15,"
+    },
+    {
+      "start": 225.52,
+      "end": 230.08,
+      "text": "depending on your jurisdiction. It's probably the rest of your life. I mean, it's just"
+    },
+    {
+      "start": 230.08,
+      "end": 235.36,
+      "text": "it's a challenging thing to do. In the short term, it's a little harder to say. If you look like it"
+    },
+    {
+      "start": 236.16,
+      "end": 240.96,
+      "text": "analysts right now from Goldman to JP Morgan, I think that's the people on both ends of the"
+    },
+    {
+      "start": 240.96,
+      "end": 246.48000000000002,
+      "text": "spectrum. Goldman is saying there's a surplus of copper. JP Morgan is saying there's a deficit"
+    },
+    {
+      "start": 246.48000000000002,
+      "end": 253.04000000000002,
+      "text": "right now. It's pretty hard to nail down, where are we at the moment? What's going to happen?"
+    },
+    {
+      "start": 254.24,
+      "end": 259.84000000000003,
+      "text": "One thing that has been ahead when has been the Iran War, just because if that slows the global"
+    },
+    {
+      "start": 259.84000000000003,
+      "end": 267.6,
+      "text": "economy, copper still is tied to that. On the short term, what's going on could affect things."
+    },
+    {
+      "start": 267.6,
+      "end": 274.72,
+      "text": "It's affected China's manufacturing. PMI, the reading is slightly bearish."
+    },
+    {
+      "start": 275.68,
+      "end": 282.88000000000005,
+      "text": "They've slowed down here and there, but they also have committed to a tremendous amount of"
+    },
+    {
+      "start": 282.88000000000005,
+      "end": 291.28000000000003,
+      "text": "new grid capacity, which requires a vast amount of copper. Just across the board, I think the"
+    },
+    {
+      "start": 291.28000000000003,
+      "end": 298.96000000000004,
+      "text": "copper story is bullish. In the short term, we always have to be careful. It's hard to say,"
+    },
+    {
+      "start": 299.68,
+      "end": 307.28,
+      "text": "when might UCA downturn in the global economy, how might that affect things and will the long-term"
+    },
+    {
+      "start": 307.28,
+      "end": 312.0,
+      "text": "term supply deficit override that anyway? That's definite possibility."
+    },
+    {
+      "start": 313.35999999999996,
+      "end": 318.64,
+      "text": "For all the things you do in places you go, let Uber take you there, because you had just one more"
+    },
+    {
+      "start": 318.64,
+      "end": 324.71999999999997,
+      "text": "three rounds ago, because the 5am flight seemed smart at the time, because check engine lights"
+    },
+    {
+      "start": 324.8,
+      "end": 330.8,
+      "text": "appear at the worst times. Because parking downtown is a nightmare. Whatever your reason,"
+    },
+    {
+      "start": 330.8,
+      "end": 336.24,
+      "text": "there are drivers in your area. Uber, request a ride today and get your first ride free with promo"
+    },
+    {
+      "start": 336.24,
+      "end": 341.28000000000003,
+      "text": "code first free Uber 2026. Wait time varies, terms and conditions apply, see after details."
+    },
+    {
+      "start": 355.28000000000003,
+      "end": 360.16,
+      "text": "Not totally. What do you like about it? You love the high-quality ingredients"
+    },
+    {
+      "start": 361.12,
+      "end": 365.92,
+      "text": "and the delicious flavors, of course. Yeah, that makes a ton of sense. Listen to Percy,"
+    },
+    {
+      "start": 365.92,
+      "end": 370.08000000000004,
+      "text": "guys. Visit PerfectBeastro.com to try it for your cat."
+    },
+    {
+      "start": 372.56,
+      "end": 380.32000000000005,
+      "text": "When you think about copper's role as Dr. Copper, is it still the doctor or is it less so, I think?"
+    },
+    {
+      "start": 380.32,
+      "end": 388.4,
+      "text": "Yeah, I think, yes, it used to be very predictive. Now, because of the deficit,"
+    },
+    {
+      "start": 390.4,
+      "end": 396.4,
+      "text": "there's more of its own fundamental story that it could actually, we could be in a situation"
+    },
+    {
+      "start": 396.4,
+      "end": 400.15999999999997,
+      "text": "that kind of think we are where there's some real headwinds in the global economy."
+    },
+    {
+      "start": 401.52,
+      "end": 406.8,
+      "text": "And yet, Copper over the last couple of years has done quite well, and it sort of keeps"
+    },
+    {
+      "start": 407.76,
+      "end": 412.64,
+      "text": "buff, I mean, obviously stocks have done quite well as well, but I think if you look at some"
+    },
+    {
+      "start": 412.64,
+      "end": 422.32,
+      "text": "of the things that tend to lead to downturns, Copper isn't in that same place. So, I think there's"
+    },
+    {
+      "start": 422.32,
+      "end": 431.12,
+      "text": "certainly Dr. Copper still has his white coat in the closet somewhere, but I don't know if it's"
+    },
+    {
+      "start": 431.28000000000003,
+      "end": 438.72,
+      "text": "as much as it used to be. I just want to give one of the metrics that I like to track is Copper"
+    },
+    {
+      "start": 438.72,
+      "end": 444.4,
+      "text": "and Gold together just to take out the US dollar influence, and obviously Gold had a very good run"
+    },
+    {
+      "start": 444.4,
+      "end": 451.84000000000003,
+      "text": "until the last few months, and Copper's had a good run alongside it, which to me might be a"
+    },
+    {
+      "start": 451.84000000000003,
+      "end": 457.76,
+      "text": "little bit counterintuitive because Gold tends to be more of a asset that runs into stress, whereas"
+    },
+    {
+      "start": 457.76,
+      "end": 461.04,
+      "text": "Copper seems to be more predictive of a stronger economy, and they're both running together"
+    },
+    {
+      "start": 461.52000000000004,
+      "end": 467.92,
+      "text": "and if you look at that Copper Gold ratio, it's actually troughed recently, and it's sort of"
+    },
+    {
+      "start": 467.92,
+      "end": 475.68,
+      "text": "in a place where you would see it at the bottom of pretty substantial processions and stock market"
+    },
+    {
+      "start": 475.68,
+      "end": 486.32000000000005,
+      "text": "drawdowns. So, to me, it looks like in it's like a 2016, 2009, 2000 kind of bottom versus Gold,"
+    },
+    {
+      "start": 486.32000000000005,
+      "end": 490.24,
+      "text": "but if you look at the stock market, you wouldn't have known that that was happening,"
+    },
+    {
+      "start": 490.24,
+      "end": 494.64,
+      "text": "which I find kind of an interesting thing. Do you have any view on what might be causing that,"
+    },
+    {
+      "start": 494.64,
+      "end": 499.6,
+      "text": "or have you observed anything like that? Yeah, I think, well, you know, just like Copper,"
+    },
+    {
+      "start": 499.6,
+      "end": 505.04,
+      "text": "maybe not having that, you know, as much of a role in prediction. I think Gold is at least this"
+    },
+    {
+      "start": 505.04,
+      "end": 510.24,
+      "text": "year is, you know, somewhat confounding as well, because everybody thinks Risk asset,"
+    },
+    {
+      "start": 510.24,
+      "end": 514.64,
+      "text": "and then, you know, it hits an all-time high in January, and then you have the Ironmore breakout"
+    },
+    {
+      "start": 514.64,
+      "end": 518.72,
+      "text": "and you'd expect, well, that's going to drive it up even more, and you still have all the"
+    },
+    {
+      "start": 519.28,
+      "end": 525.84,
+      "text": "tailwinds for Gold that we had before the Ironmore broke out. And yet, it did quite poorly over the"
+    },
+    {
+      "start": 525.84,
+      "end": 531.36,
+      "text": "last, I mean, I guess not terrible, but not as we would expect over the last three months,"
+    },
+    {
+      "start": 531.36,
+      "end": 536.72,
+      "text": "and then, you know, with the announcement of the, the Iran deal, you know, it's back up,"
+    },
+    {
+      "start": 536.72,
+      "end": 541.84,
+      "text": "everything it's moving back up. So, I think both of them have been, you know, a little confounding,"
+    },
+    {
+      "start": 541.84,
+      "end": 547.0400000000001,
+      "text": "and so, you know, you know, as far as that metric, I tend to look at the Gold Silver Ratio, that's"
+    },
+    {
+      "start": 547.04,
+      "end": 552.48,
+      "text": "when we get asked about more, but that is a really good one to look at is the Gold Copper,"
+    },
+    {
+      "start": 553.04,
+      "end": 556.88,
+      "text": "and I'll have to take a look at that more, but I did, to be honest, I haven't,"
+    },
+    {
+      "start": 556.88,
+      "end": 561.12,
+      "text": "I haven't looked at it, but yeah, they've both been performing, which is definitely counterintuitive,"
+    },
+    {
+      "start": 561.12,
+      "end": 567.52,
+      "text": "because usually Gold's the risk, Risk Off asset, and Copper's the Risk On asset, and now they seem"
+    },
+    {
+      "start": 567.52,
+      "end": 574.7199999999999,
+      "text": "to have, you know, they seem to be playing, you know, both Risk On and Risk Off in somewhat"
+    },
+    {
+      "start": 574.72,
+      "end": 580.1600000000001,
+      "text": "unpredictable ways. Gold, obviously, there is a, you know, there is some, you know, reason for"
+    },
+    {
+      "start": 580.1600000000001,
+      "end": 584.72,
+      "text": "for what's happened, but it still has all those tailwinds. I mean, Central Bank buying has not dropped"
+    },
+    {
+      "start": 584.72,
+      "end": 589.6800000000001,
+      "text": "off at all. In fact, it was a record, I think, in, or the highest level, it had been Q1 versus the"
+    },
+    {
+      "start": 589.6800000000001,
+      "end": 597.12,
+      "text": "previous five years, and none of the G20 economies have stopped buying gold, so that's still going on."
+    },
+    {
+      "start": 598.1600000000001,
+      "end": 602.5600000000001,
+      "text": "I think you still have, with the, you know, potential for, I don't know if we're going to have"
+    },
+    {
+      "start": 602.5600000000001,
+      "end": 607.2800000000001,
+      "text": "interest rate, be able to do interest rate cuts or not. I'm kind of a inflation, worried about"
+    },
+    {
+      "start": 607.2800000000001,
+      "end": 614.08,
+      "text": "inflation myself, but it certainly changes the probability and the odds, if we don't have the"
+    },
+    {
+      "start": 614.08,
+      "end": 620.4000000000001,
+      "text": "war going on. So, so we'll see, but yeah, it's interesting for, for both those metals that they're,"
+    },
+    {
+      "start": 621.5200000000001,
+      "end": 626.48,
+      "text": "you know, they're behaving in different ways relative to the past, and it's not just just"
+    },
+    {
+      "start": 626.48,
+      "end": 632.08,
+      "text": "black and white cut and dry as it has been. You raised it, and I find it, it's another interesting"
+    },
+    {
+      "start": 632.08,
+      "end": 638.24,
+      "text": "ratio that I tracked to silver gold when, when gold was very, very strong, it sort of took silver"
+    },
+    {
+      "start": 638.24,
+      "end": 643.84,
+      "text": "a little while to catch fire, but when silver catches fire, it really does run hard against gold,"
+    },
+    {
+      "start": 643.84,
+      "end": 648.48,
+      "text": "and it went parabolic, and when it, I posted a chart on Twitter when it went parabolic, saying this"
+    },
+    {
+      "start": 648.48,
+      "end": 654.5600000000001,
+      "text": "is typically closer to the end of the, of the run of these monetary metals, when they do that,"
+    },
+    {
+      "start": 654.5600000000001,
+      "end": 659.0400000000001,
+      "text": "and it's seem to be close to the breakdown, but what is the, what does the gold silver ratio"
+    },
+    {
+      "start": 659.0400000000001,
+      "end": 666.4000000000001,
+      "text": "tell you? Yeah, I mean, I mean, I think kind of the textbook thing is, you know, when it gets low,"
+    },
+    {
+      "start": 666.4000000000001,
+      "end": 672.08,
+      "text": "that means silver's doing well relative to gold, and where it is right now, is gold's back"
+    },
+    {
+      "start": 672.96,
+      "end": 679.2,
+      "text": "on top. So, you know, when I first discovered it a long time ago, I thought, oh, this is brilliant,"
+    },
+    {
+      "start": 679.2,
+      "end": 684.08,
+      "text": "you know, if it's, you know, if gold's running at a huge premium to silver, then just invest in silver,"
+    },
+    {
+      "start": 684.08,
+      "end": 688.5600000000001,
+      "text": "but of course you can sit there for years, and you know, but when it happens, just like you said,"
+    },
+    {
+      "start": 688.5600000000001,
+      "end": 694.5600000000001,
+      "text": "it's high-bated to gold, so when it does move, it tends to move a lot and be a very rewarding trade,"
+    },
+    {
+      "start": 694.5600000000001,
+      "end": 699.2,
+      "text": "but you know, then you, you annualize that over how many years you were waiting for it to pop,"
+    },
+    {
+      "start": 699.2,
+      "end": 705.6800000000001,
+      "text": "and it might not quite be as, as exciting. So, I do think it's worth looking at, you know,"
+    },
+    {
+      "start": 705.6800000000001,
+      "end": 711.76,
+      "text": "if you, you know, run-moving averages on it, or you have a system that can kind of, you know,"
+    },
+    {
+      "start": 711.76,
+      "end": 715.92,
+      "text": "tell you when it's time, time to get in, and like you said, when it goes parabolic,"
+    },
+    {
+      "start": 716.88,
+      "end": 721.76,
+      "text": "this definitely an interesting trade, but it works both ways. You've got that high beta to work with."
+    },
+    {
+      "start": 723.12,
+      "end": 730.0,
+      "text": "I saw that, one of the interesting charts that I like to track is the 10-year,"
+    },
+    {
+      "start": 730.96,
+      "end": 737.84,
+      "text": "or sorry, the two-year treasury as a proxy for what the Fed might do with rates, so I think that"
+    },
+    {
+      "start": 737.84,
+      "end": 743.44,
+      "text": "that's not an uncommon thing to do, but since the Iran War, that the two-year has run up very"
+    },
+    {
+      "start": 743.44,
+      "end": 748.64,
+      "text": "substantially over the Fed funds rate, where it's been a bit of a discount for a while, which to your"
+    },
+    {
+      "start": 748.64,
+      "end": 755.9200000000001,
+      "text": "point seems to make the likelihood of rate cuts low. If anything, it looks like we might be seeing"
+    },
+    {
+      "start": 755.9200000000001,
+      "end": 761.0400000000001,
+      "text": "interest rate rises. Do you have any view there? Yeah, I mean, I think interest rate"
+    },
+    {
+      "start": 762.0,
+      "end": 767.68,
+      "text": "steadiness or rises are the logical, rational thing right now."
+    },
+    {
+      "start": 768.48,
+      "end": 774.9599999999999,
+      "text": "Politics being what they are, you know, there is possibility that we get rate cuts anyway,"
+    },
+    {
+      "start": 774.9599999999999,
+      "end": 781.5999999999999,
+      "text": "which would obviously, you know, be beneficial for not just gold, but many assets, but yeah,"
+    },
+    {
+      "start": 781.5999999999999,
+      "end": 787.52,
+      "text": "I do think the market is telling the government, and you certainly have seen the chatter calm down"
+    },
+    {
+      "start": 787.52,
+      "end": 794.96,
+      "text": "about, you know, we have a new Fed share who's supposed to be, you know, more dovish. Yeah,"
+    },
+    {
+      "start": 794.96,
+      "end": 800.24,
+      "text": "yeah, then Powell, and yet there hasn't been any chatter about cutting rates, and I think a lot of"
+    },
+    {
+      "start": 800.24,
+      "end": 806.48,
+      "text": "that is, you know, everybody knows when the bond market is signaling, okay, this is getting out of"
+    },
+    {
+      "start": 806.48,
+      "end": 811.52,
+      "text": "control rates are going up. People are demanding that higher premium for not the two-year,"
+    },
+    {
+      "start": 811.52,
+      "end": 817.36,
+      "text": "but just longer as well. You know, I think you have to take that into account. I mean,"
+    },
+    {
+      "start": 817.36,
+      "end": 822.32,
+      "text": "that can be absolutely disastrous if we don't, and we have, you look at the deficit, and that"
+    },
+    {
+      "start": 822.32,
+      "end": 828.08,
+      "text": "is just the most frustrating thing to me in the world is that you have 30 years, almost,"
+    },
+    {
+      "start": 828.08,
+      "end": 834.32,
+      "text": "in 25 years of, you know, running up, running up deficits when we actually had a surplus,"
+    },
+    {
+      "start": 834.32,
+      "end": 839.92,
+      "text": "and now the debt is what it is, and I think I saw a headline yesterday, we went from a trillion-dollar"
+    },
+    {
+      "start": 839.92,
+      "end": 846.4,
+      "text": "debt to a trillion-dollar deficit. It's just, I'm sorry, trillion dollars in interest payments. I mean,"
+    },
+    {
+      "start": 846.4,
+      "end": 852.0799999999999,
+      "text": "it's just unbelievable. So I think the bond market is reacting to that. You need some kind of"
+    },
+    {
+      "start": 852.0799999999999,
+      "end": 859.36,
+      "text": "catalyst, explosive growth, AI saving us from ourselves, but we've got to have something. Otherwise,"
+    },
+    {
+      "start": 860.56,
+      "end": 865.68,
+      "text": "I am worried about where interest rates go. Well, I can't believe it's taken us this long to get"
+    },
+    {
+      "start": 865.68,
+      "end": 869.92,
+      "text": "there, but let's talk oil. Is it the most interesting market in the world of the world? What's happening"
+    },
+    {
+      "start": 869.9200000000001,
+      "end": 878.8000000000001,
+      "text": "in oil? Oh, not much. It's been quite. Yeah, it's been, I would say, the most exciting three months,"
+    },
+    {
+      "start": 878.8000000000001,
+      "end": 886.32,
+      "text": "you know, for bad reasons. Obviously, wars is never, you know, something you want to see, but it's"
+    },
+    {
+      "start": 886.32,
+      "end": 894.72,
+      "text": "been such a, such a back and forth, and, you know, just bizarre. You know, when it first broke out,"
+    },
+    {
+      "start": 894.72,
+      "end": 899.76,
+      "text": "obviously, that was the, you know, the most exciting point now, you know, since April, we've"
+    },
+    {
+      "start": 899.76,
+      "end": 905.9200000000001,
+      "text": "been in a different place. I think there's some skepticism about what happens now, but, you know,"
+    },
+    {
+      "start": 905.9200000000001,
+      "end": 913.2,
+      "text": "where we are versus where we were. I'd say, you know, entering the war period, I think the"
+    },
+    {
+      "start": 913.2,
+      "end": 918.32,
+      "text": "White House and some people in the market are a little skeptical now of higher prices."
+    },
+    {
+      "start": 919.36,
+      "end": 923.28,
+      "text": "You know, there's still risk out there, that's what I'm trying to say. And I think there's a lot"
+    },
+    {
+      "start": 923.28,
+      "end": 929.28,
+      "text": "of skepticism about that risk because some of the, the most bearish calls, in fact, bearish calls"
+    },
+    {
+      "start": 929.28,
+      "end": 933.6,
+      "text": "that were pretty common, you know, we're going to have $150 oil, we're going to have $200 oil."
+    },
+    {
+      "start": 933.6,
+      "end": 938.64,
+      "text": "At first, it was the end of March. And then it's like, okay, we did the coordinated SPR release"
+    },
+    {
+      "start": 938.64,
+      "end": 943.92,
+      "text": "in the G7. And so now we have totally in April. And, you know, that got pushed out. And I think"
+    },
+    {
+      "start": 943.92,
+      "end": 948.24,
+      "text": "everybody's kind of like, well, did the industry cry wolf? It might have been this materialized."
+    },
+    {
+      "start": 948.24,
+      "end": 952.64,
+      "text": "And it's really because you know, not just the SPR release, but there are a number of things"
+    },
+    {
+      "start": 953.2,
+      "end": 959.36,
+      "text": "that I think people just, you know, at the time couldn't foresee, you know, we, I think one thing"
+    },
+    {
+      "start": 959.36,
+      "end": 965.6800000000001,
+      "text": "that we always discount is how creative industry can be in the face of crisis. And one of the things"
+    },
+    {
+      "start": 966.88,
+      "end": 973.92,
+      "text": "we've seen is China had built up their reserves substantially over the last the previous three"
+    },
+    {
+      "start": 973.9200000000001,
+      "end": 980.2400000000001,
+      "text": "years. And they were able to rely on those, draw those down. That's not going to last forever."
+    },
+    {
+      "start": 980.2400000000001,
+      "end": 984.96,
+      "text": "If this doesn't get resolved, I mean, this doesn't truly get resolved as everybody's expecting"
+    },
+    {
+      "start": 984.96,
+      "end": 991.2800000000001,
+      "text": "right now. But that had a big effect on the price of oil and kept it, kept it down."
+    },
+    {
+      "start": 992.8800000000001,
+      "end": 998.0000000000001,
+      "text": "Just before you move on, for that, do you have any view on what caused that? Was that China accommodating"
+    },
+    {
+      "start": 998.0,
+      "end": 1007.36,
+      "text": "the U.S. by throwing down on its own reserves or is it a slowdown in China or what was the,"
+    },
+    {
+      "start": 1007.36,
+      "end": 1013.36,
+      "text": "what was the reason for that? I don't think so. I think if you look at, I mean, it certainly helped"
+    },
+    {
+      "start": 1013.36,
+      "end": 1020.32,
+      "text": "us, but I think it was more, it was self-interest. I mean, you look at the other Asian economies"
+    },
+    {
+      "start": 1020.32,
+      "end": 1026.0,
+      "text": "that were, you know, Paris, Japan where they didn't have those kind of reserves. They had to have"
+    },
+    {
+      "start": 1026.0,
+      "end": 1032.72,
+      "text": "massive demand destruction, which is going to impact your economy, trying to have the head,"
+    },
+    {
+      "start": 1032.72,
+      "end": 1038.56,
+      "text": "you know, the headroom to do that as well. So I think it was, hey, we've been, you know,"
+    },
+    {
+      "start": 1038.56,
+      "end": 1043.52,
+      "text": "this is what we have this for. Let's use it. I think I just think it was self-interest. Yeah,"
+    },
+    {
+      "start": 1043.52,
+      "end": 1048.4,
+      "text": "that, you know, things are a little soft over there. The last thing they want is, you know,"
+    },
+    {
+      "start": 1049.12,
+      "end": 1054.56,
+      "text": "significant impact from actions, external, you know, events outside their control."
+    },
+    {
+      "start": 1055.28,
+      "end": 1060.1599999999999,
+      "text": "And they know that, or they, at least the gamble is, you know, we use the reserves,"
+    },
+    {
+      "start": 1060.1599999999999,
+      "end": 1065.04,
+      "text": "and then when the price goes back down, we refill them. The danger, of course, has been,"
+    },
+    {
+      "start": 1065.04,
+      "end": 1070.72,
+      "text": "and remains, if this is not resolved, they get to the, and I think they're getting fairly close,"
+    },
+    {
+      "start": 1071.84,
+      "end": 1077.12,
+      "text": "they're going to have to say, well, we have to start importing again. They also cancelled exports,"
+    },
+    {
+      "start": 1077.12,
+      "end": 1083.9199999999998,
+      "text": "most of their exports too. So they were basically, you know, somewhat self-sufficient. And in a"
+    },
+    {
+      "start": 1083.92,
+      "end": 1089.04,
+      "text": "tremendous amount of the Middle East oil goes to China. So they, they really said, all right,"
+    },
+    {
+      "start": 1089.04,
+      "end": 1094.0,
+      "text": "you know, this is, this is what we have to do. So my opinion, yeah, I think it was self-interest."
+    },
+    {
+      "start": 1094.0,
+      "end": 1100.5600000000002,
+      "text": "I think it just happened to accommodate the U.S., but I could be wrong. There could have been"
+    },
+    {
+      "start": 1100.5600000000002,
+      "end": 1106.88,
+      "text": "some coordination, but I kind of think it was more, what, what worked for China. I mean, Trump did"
+    },
+    {
+      "start": 1106.88,
+      "end": 1112.4,
+      "text": "go visit Xi Jinping and Beijing, but it was a little bit, kind of like halfway through the,"
+    },
+    {
+      "start": 1112.4,
+      "end": 1118.16,
+      "text": "halfway through the process. I just also wonder about the U.S. strategic petroleum reserve."
+    },
+    {
+      "start": 1118.16,
+      "end": 1123.1200000000001,
+      "text": "There's been this sort of increasing chatter that we're getting closer to the bottom. I don't"
+    },
+    {
+      "start": 1123.1200000000001,
+      "end": 1127.3600000000001,
+      "text": "really know exactly what that means, whether that's like literally the, the, they drain it or whether"
+    },
+    {
+      "start": 1127.3600000000001,
+      "end": 1131.68,
+      "text": "it sort of gets to a point where it's like not structurally sound if you pull too much, get oil out,"
+    },
+    {
+      "start": 1131.68,
+      "end": 1139.2,
+      "text": "but it seemed to suggest that we're like weeks away from the bottom of the SPR. And I don't know"
+    },
+    {
+      "start": 1139.28,
+      "end": 1144.24,
+      "text": "what the consequences of that, but do you, you can fill us in. What happens there?"
+    },
+    {
+      "start": 1144.88,
+      "end": 1150.56,
+      "text": "Well, I think there's, well, first of all, I think, yes, you know, that, that is, that's out,"
+    },
+    {
+      "start": 1150.56,
+      "end": 1153.92,
+      "text": "there are a number of other things where weeks away from this and that. I think this deal kind"
+    },
+    {
+      "start": 1153.92,
+      "end": 1162.56,
+      "text": "of had to happen right now. And so, but yeah, with the SPR, it's at about 350 million barrels right"
+    },
+    {
+      "start": 1162.56,
+      "end": 1166.64,
+      "text": "now. It is, is they've shown on the headlines. I mean, the last time it was that low was when they"
+    },
+    {
+      "start": 1166.64,
+      "end": 1172.48,
+      "text": "were filling it back in 1983 and it first got to that level. It never, it got down to that level"
+    },
+    {
+      "start": 1172.48,
+      "end": 1178.64,
+      "text": "in 22 when we had, you know, the, you know, we drained it for the Ukraine war really to keep prices"
+    },
+    {
+      "start": 1178.64,
+      "end": 1184.64,
+      "text": "down, which they proved to be probably unnecessary. We didn't refill it for years. It started going back"
+    },
+    {
+      "start": 1184.64,
+      "end": 1189.8400000000001,
+      "text": "up a little bit and we got over a camera with the exact number, but maybe four to 50 million barrels."
+    },
+    {
+      "start": 1189.8400000000001,
+      "end": 1194.48,
+      "text": "And then, you know, we've, we've dropped it again. So if you get down to about 300 million barrels,"
+    },
+    {
+      "start": 1194.48,
+      "end": 1202.8,
+      "text": "that's the level where yes, it's functionally harder if not impossible to pump out. You do need"
+    },
+    {
+      "start": 1202.8,
+      "end": 1207.92,
+      "text": "a certain level in the tank. So I mean, obviously, you can get it out, you know, if you absolutely"
+    },
+    {
+      "start": 1207.92,
+      "end": 1212.32,
+      "text": "have to, but that might not be something where you can pump it as quickly as you could. So that"
+    },
+    {
+      "start": 1212.32,
+      "end": 1218.4,
+      "text": "functional floor, we were getting close to despite the fact that 300 million barrels is, is a lot of"
+    },
+    {
+      "start": 1218.4,
+      "end": 1225.76,
+      "text": "oil, but we really need to restock it. One thing about the, the oil that is getting restocked"
+    },
+    {
+      "start": 1225.76,
+      "end": 1231.0400000000002,
+      "text": "right now or that will be restocked is the US government did something I think was fairly smart,"
+    },
+    {
+      "start": 1231.0400000000002,
+      "end": 1235.68,
+      "text": "which is, you know, they sold swap contracts. So you can take a, you know, for every barrel,"
+    },
+    {
+      "start": 1235.68,
+      "end": 1242.96,
+      "text": "you take, you have to give 1.25 barrels back. And so, you know, we'll be getting some additional,"
+    },
+    {
+      "start": 1243.92,
+      "end": 1248.64,
+      "text": "you know, build back in, in the SPR, not just the barrels coming back, but even more beyond that."
+    },
+    {
+      "start": 1248.64,
+      "end": 1253.52,
+      "text": "So assuming we can get those barrels at a reasonable price, so that'll be the challenge."
+    },
+    {
+      "start": 1253.52,
+      "end": 1260.96,
+      "text": "Well, we saw, sorry, JC, I was going to say assuming that we do rebuild. I've been wondering if"
+    },
+    {
+      "start": 1260.96,
+      "end": 1265.76,
+      "text": "everyone is not going to think like, well, I don't want to have this to happen again. Maybe I need"
+    },
+    {
+      "start": 1265.76,
+      "end": 1270.96,
+      "text": "to be like 150% of what I was running out before it is to give myself more cushion. And maybe"
+    },
+    {
+      "start": 1271.04,
+      "end": 1277.3600000000001,
+      "text": "like structurally, we just have higher oil prices for longer, don't study and play come together on"
+    },
+    {
+      "start": 1277.3600000000001,
+      "end": 1284.08,
+      "text": "Windows 11 PC. And for a limited time, college students get the best of both worlds."
+    },
+    {
+      "start": 1284.08,
+      "end": 1289.04,
+      "text": "Get the unreal college deal, everything you need to study and play with select Windows 11 PCs."
+    },
+    {
+      "start": 1289.04,
+      "end": 1294.32,
+      "text": "Eligible students get a year of Microsoft 365 premium and a year of Xbox Game Pass Ultimate"
+    },
+    {
+      "start": 1294.32,
+      "end": 1299.3600000000001,
+      "text": "with a custom color Xbox wireless controller. Learn more at windows.com slash student offer."
+    },
+    {
+      "start": 1299.3600000000001,
+      "end": 1303.6000000000001,
+      "text": "While supplies last and June 30, turns at aka.ms slash college PC."
+    },
+    {
+      "start": 1329.6000000000001,
+      "end": 1334.0000000000002,
+      "text": "Disney and Pixar's hoppers now available on Disney plus rated PG."
+    },
+    {
+      "start": 1335.3600000000001,
+      "end": 1340.88,
+      "text": "Yeah, I think that's very much a possibility. I don't know what happens in the US because"
+    },
+    {
+      "start": 1342.4,
+      "end": 1346.5600000000002,
+      "text": "there's some dysfunction, but around the world, governments are talking about that. They're"
+    },
+    {
+      "start": 1346.5600000000002,
+      "end": 1353.1200000000001,
+      "text": "talking about refilling and they are talking about that exact like 1.5 or more because yeah,"
+    },
+    {
+      "start": 1353.1200000000001,
+      "end": 1358.3200000000002,
+      "text": "we can't handle this. It was a big wake up call in the US. You know, we're more cushioned from it,"
+    },
+    {
+      "start": 1358.32,
+      "end": 1363.84,
+      "text": "so we can handle an SPR where it is right now, as long as we don't go much lower. But the rest"
+    },
+    {
+      "start": 1363.84,
+      "end": 1368.3999999999999,
+      "text": "of the world, you know, can't and it's not just, not just oil, but it's, you know, distilled."
+    },
+    {
+      "start": 1368.3999999999999,
+      "end": 1374.1599999999999,
+      "text": "It's gasoline, it's jet fuel, so people are talking about top, you know, making reserves for those"
+    },
+    {
+      "start": 1374.1599999999999,
+      "end": 1379.4399999999998,
+      "text": "where they might not have had them before as well. So, well, one thing I think the market may be missing"
+    },
+    {
+      "start": 1379.4399999999998,
+      "end": 1384.56,
+      "text": "is that people are going to be, or countries are going to be building back up their reserves and"
+    },
+    {
+      "start": 1385.28,
+      "end": 1392.6399999999999,
+      "text": "to, you know, higher levels and levels of reserves. And that will be probably put a floor on the"
+    },
+    {
+      "start": 1392.6399999999999,
+      "end": 1402.72,
+      "text": "price for a while. Before we came into this year, oil was WTI was sub $60 and all of the valuations"
+    },
+    {
+      "start": 1402.72,
+      "end": 1409.36,
+      "text": "that I had done, I'd pencil in like $80 oil was sort of a bullish outcome before it sort of"
+    },
+    {
+      "start": 1409.44,
+      "end": 1415.5200000000002,
+      "text": "before the Iran conflict came around. Where do you see the oil prices now given that we may"
+    },
+    {
+      "start": 1415.5200000000002,
+      "end": 1420.88,
+      "text": "need to do these refills across the board? There seems to have been some infrastructure destroyed"
+    },
+    {
+      "start": 1420.88,
+      "end": 1427.1200000000001,
+      "text": "around the world. What do you think is a base case, bear case, bull case for oil over the next five"
+    },
+    {
+      "start": 1427.1200000000001,
+      "end": 1434.16,
+      "text": "or 10 years? I think bear a five or 10 years, whatever time frame you film as comfortable with."
+    },
+    {
+      "start": 1434.88,
+      "end": 1442.64,
+      "text": "Yeah, I'll say for the next year, I mean, a lot of infrastructures damaged a lot. You know,"
+    },
+    {
+      "start": 1442.64,
+      "end": 1447.1200000000001,
+      "text": "we have to clean up the straight-of-war moves. We have to get things flowing again. A lot of"
+    },
+    {
+      "start": 1447.1200000000001,
+      "end": 1453.68,
+      "text": "barrels have drawn down, not just SPRs, but inventories around the globe. Commercial inventories have"
+    },
+    {
+      "start": 1453.68,
+      "end": 1459.28,
+      "text": "been drawn down. So that all gets replenished. I think that over the next year, at least as that's"
+    },
+    {
+      "start": 1459.28,
+      "end": 1468.0,
+      "text": "happening, you probably do have a floor. I'm always hesitant to, it's very difficult to put"
+    },
+    {
+      "start": 1468.0,
+      "end": 1473.04,
+      "text": "those things. I mean, there's four millions of forecasts out there, but I think probably around 70,"
+    },
+    {
+      "start": 1473.04,
+      "end": 1478.8,
+      "text": "I wouldn't be surprised by dips lower, something pessimistic happens, but I think I would probably"
+    },
+    {
+      "start": 1478.8,
+      "end": 1484.0,
+      "text": "put an average, at least on Brentoyle, probably around 80, close to where it is now,"
+    },
+    {
+      "start": 1484.08,
+      "end": 1493.92,
+      "text": "with spikes up into 90. It all depends again on global economy and all these external"
+    },
+    {
+      "start": 1493.92,
+      "end": 1502.32,
+      "text": "factors that it's hard to foresee, but I'd kind of center it around 80. There's no guarantee"
+    },
+    {
+      "start": 1502.32,
+      "end": 1510.08,
+      "text": "that's where it's going to be, but I definitely see it's a volatile commodity. So a dip down to 70,"
+    },
+    {
+      "start": 1510.1599999999999,
+      "end": 1517.84,
+      "text": "at some point is possible. The one thing that could eventually push it down is OPEC is,"
+    },
+    {
+      "start": 1517.84,
+      "end": 1525.84,
+      "text": "the one thing that supported the price for years was the OPEC put. Every time it got down to a"
+    },
+    {
+      "start": 1525.84,
+      "end": 1531.76,
+      "text": "certain level, they were putting quotas in place and voluntarily restricting production, very much"
+    },
+    {
+      "start": 1531.76,
+      "end": 1537.28,
+      "text": "a reverse of what they did in 2020. Now, even though they don't have the capability, they have"
+    },
+    {
+      "start": 1537.28,
+      "end": 1544.48,
+      "text": "symbolically raised their output targets, and as they are able to fill those over the next year,"
+    },
+    {
+      "start": 1544.48,
+      "end": 1550.24,
+      "text": "maybe not as high as they've published, but that's more oil going into the market. So"
+    },
+    {
+      "start": 1550.24,
+      "end": 1554.8799999999999,
+      "text": "that'll be a little bit of a headwind of the price, but at the same time, a lot of structural"
+    },
+    {
+      "start": 1556.24,
+      "end": 1565.04,
+      "text": "infrastructural damage and logistics that have to be prepared."
+    },
+    {
+      "start": 1565.6,
+      "end": 1569.2,
+      "text": "When you say that OPEC doesn't have the capability, what do you mean by that?"
+    },
+    {
+      "start": 1569.76,
+      "end": 1575.12,
+      "text": "So they have, I think they're most recent, just last week, they are over the weekend, 188,"
+    },
+    {
+      "start": 1575.12,
+      "end": 1579.76,
+      "text": "that were all the quotas and voluntary cuts they'd announced over the years,"
+    },
+    {
+      "start": 1580.96,
+      "end": 1586.0,
+      "text": "several million barrels. They've been slowly, they started unwinding those in 2024"
+    },
+    {
+      "start": 1587.12,
+      "end": 1592.48,
+      "text": "and putting a little oil back in the market very cautiously, and when the Iran were broke out,"
+    },
+    {
+      "start": 1592.48,
+      "end": 1598.48,
+      "text": "they suddenly said, okay, we're going to throw 200, 400,000 barrels back into the market,"
+    },
+    {
+      "start": 1598.48,
+      "end": 1604.0,
+      "text": "but they couldn't actually do that because straight-of-hormose was closed, a lot of oil was trapped,"
+    },
+    {
+      "start": 1604.0,
+      "end": 1607.28,
+      "text": "and their production was shut in, because they can't get it out, they had to shut in production."
+    },
+    {
+      "start": 1607.28,
+      "end": 1613.1200000000001,
+      "text": "So they actually aren't producing that much. They have to restart facilities, they have to,"
+    },
+    {
+      "start": 1614.72,
+      "end": 1620.4,
+      "text": "they have to get, they're well out through the street, there's this backlog, so even though they say,"
+    },
+    {
+      "start": 1620.4,
+      "end": 1627.1200000000001,
+      "text": "all right, this is how much we'll produce. For example, Saudi Arabia, I think they're able to produce"
+    },
+    {
+      "start": 1627.1200000000001,
+      "end": 1635.68,
+      "text": "about 7.5 million barrels a day right now, their quota, or they're in a level where they're"
+    },
+    {
+      "start": 1635.68,
+      "end": 1643.92,
+      "text": "willing to go to, is at 10.25 million barrels a day. So they're basically, they're target,"
+    },
+    {
+      "start": 1643.92,
+      "end": 1648.0800000000002,
+      "text": "they're 25% below their target, and every country in the Middle East is kind of in the same"
+    },
+    {
+      "start": 1648.24,
+      "end": 1655.9199999999998,
+      "text": "border now. Let's talk natural gas. The, I understand that the U.S. is the Saudi Arabia"
+    },
+    {
+      "start": 1655.9199999999998,
+      "end": 1660.56,
+      "text": "of natural gas. We got giant natural gas deposits, it's a strategic asset for the U.S."
+    },
+    {
+      "start": 1660.56,
+      "end": 1663.04,
+      "text": "Talk to us about the natural gas market, what do we need to know?"
+    },
+    {
+      "start": 1664.48,
+      "end": 1670.56,
+      "text": "Yeah, I said, I mean, from 10 years ago when we exported no natural gas to now when we're"
+    },
+    {
+      "start": 1670.56,
+      "end": 1680.8799999999999,
+      "text": "exporting 18, well, we're able, we're exporting about 16 billion cubic feet a day capacity right"
+    },
+    {
+      "start": 1680.8799999999999,
+      "end": 1687.04,
+      "text": "now is 18.3. So that's a huge increase compared to where we were. There's a lot of terminals and"
+    },
+    {
+      "start": 1687.04,
+      "end": 1693.2,
+      "text": "facilities that have come online that didn't exist 10 years ago, and there's another, I'm gonna say"
+    },
+    {
+      "start": 1693.2,
+      "end": 1698.96,
+      "text": "four and a half billion cubic feet capacity coming online the next two, three years."
+    },
+    {
+      "start": 1700.16,
+      "end": 1705.44,
+      "text": "And it's really come online at a time when it's desperately needed. Europe needs our natural gas."
+    },
+    {
+      "start": 1706.96,
+      "end": 1713.8400000000001,
+      "text": "Yeah, we're shipping some days, but I think 68% of it goes to Europe with the outbreak of the"
+    },
+    {
+      "start": 1713.8400000000001,
+      "end": 1719.3600000000001,
+      "text": "Ukraine war, and then the around war that's been desperately needed. But it's interesting because"
+    },
+    {
+      "start": 1719.3600000000001,
+      "end": 1724.96,
+      "text": "U.S. natural gas, we have absolutely tons of it. It's a byproduct of crude oil production, which"
+    },
+    {
+      "start": 1724.96,
+      "end": 1732.8000000000002,
+      "text": "of course is exploded with the shale revolution. We really don't have a problem with natural gas,"
+    },
+    {
+      "start": 1732.8000000000002,
+      "end": 1737.5200000000002,
+      "text": "and that's kept prices low. It's always been a domestic market. It still is. It's going to be much"
+    },
+    {
+      "start": 1737.5200000000002,
+      "end": 1744.16,
+      "text": "more affected by weather than exports. But that export story is becoming part of the story,"
+    },
+    {
+      "start": 1744.24,
+      "end": 1752.5600000000002,
+      "text": "and over time, as we export more, and as it starts getting used in data centers, I think that'll"
+    },
+    {
+      "start": 1752.5600000000002,
+      "end": 1757.52,
+      "text": "start, I mean, as the data centers are built out, as the AI story continues, which a lot of that"
+    },
+    {
+      "start": 1757.52,
+      "end": 1764.4,
+      "text": "is powered by natural gas, there's a lot of demand there that is increasing. So where it's been,"
+    },
+    {
+      "start": 1764.4,
+      "end": 1772.5600000000002,
+      "text": "I would say, almost a weather story for forever, it's becoming a demand story, both internally,"
+    },
+    {
+      "start": 1772.56,
+      "end": 1777.9199999999998,
+      "text": "domestically and internationally with the exports. Australia actually is another big producer,"
+    },
+    {
+      "start": 1778.72,
+      "end": 1787.04,
+      "text": "Qatar is a big producer, and that's the big thing going on is their big LNG facility was"
+    },
+    {
+      "start": 1787.04,
+      "end": 1795.28,
+      "text": "severely damaged. They're trying to get back to about 50% capacity in a few months, 80% capacity"
+    },
+    {
+      "start": 1795.28,
+      "end": 1800.6399999999999,
+      "text": "by the end of the year, which is pretty quick, but they're still going to be 20% of their capacity"
+    },
+    {
+      "start": 1800.8000000000002,
+      "end": 1806.5600000000002,
+      "text": "that's going to be offline for years. And so that's probably about 4% of global LNG"
+    },
+    {
+      "start": 1807.44,
+      "end": 1812.64,
+      "text": "supply. So that's going to be, that's something that's been taken out completely, and that is a"
+    },
+    {
+      "start": 1812.64,
+      "end": 1819.5200000000002,
+      "text": "year's long story that's probably adding a bit of a premium to natural gas for the US, for Australia,"
+    },
+    {
+      "start": 1819.5200000000002,
+      "end": 1825.5200000000002,
+      "text": "and everybody. It's long been sort of known as the, we don't make it trade, the gas trade,"
+    },
+    {
+      "start": 1825.5200000000002,
+      "end": 1829.2800000000002,
+      "text": "because for whatever reason, it's extremely volatile. There seems like there's a lot of downward"
+    },
+    {
+      "start": 1829.28,
+      "end": 1833.04,
+      "text": "pressure on prices most of the time, but every now and again, there's a massive spike, and that"
+    },
+    {
+      "start": 1833.04,
+      "end": 1836.72,
+      "text": "takes people out. Is that how the market trades? How do you see the market?"
+    },
+    {
+      "start": 1836.72,
+      "end": 1842.0,
+      "text": "Yeah, it's definitely a very volatile market for people that enjoy volatility, and we have some"
+    },
+    {
+      "start": 1842.0,
+      "end": 1848.16,
+      "text": "of those fans of our funds. Natural gas certainly does that. The whole time that we've had our"
+    },
+    {
+      "start": 1848.16,
+      "end": 1855.44,
+      "text": "natural gas fund out 19 years, UNG, not the whole time, but the majority of the time it has been"
+    },
+    {
+      "start": 1855.44,
+      "end": 1862.4,
+      "text": "under pressure, and that is, again, is primarily this abundance, and then you get a cold weather"
+    },
+    {
+      "start": 1862.4,
+      "end": 1869.3600000000001,
+      "text": "snap, or you get something that takes out production, and it does spike up. But I think that now"
+    },
+    {
+      "start": 1869.3600000000001,
+      "end": 1874.24,
+      "text": "one thing that's, I don't know that the volatility goes away, but I do think that the price"
+    },
+    {
+      "start": 1875.1200000000001,
+      "end": 1882.48,
+      "text": "is probably a bit inflationary. The channel is going to go up just because of that increased"
+    },
+    {
+      "start": 1882.48,
+      "end": 1891.04,
+      "text": "demand, but it's definitely an exciting market, and I think we'll remain so long as we have"
+    },
+    {
+      "start": 1892.4,
+      "end": 1900.48,
+      "text": "heat-cold and global disruption, so. Well, folks, we're coming up on the top of the hour. Let"
+    },
+    {
+      "start": 1900.48,
+      "end": 1904.4,
+      "text": "me just give a shout out around the horn, and then JT's got some veggies for us."
+    },
+    {
+      "start": 1904.4,
+      "end": 1910.3200000000002,
+      "text": "Tombaltex is what's up, Tyler Valpareso. Toronto, London, UK."
+    },
+    {
+      "start": 1911.6000000000001,
+      "end": 1917.0400000000002,
+      "text": "Thanks for specifying, not Ontario, or London, Orlando, Florida, have a town."
+    },
+    {
+      "start": 1918.0,
+      "end": 1921.68,
+      "text": "Tyler Hasse, Snahomish, Pettitigfe, Israel, Golden Grove, Guyana."
+    },
+    {
+      "start": 1922.24,
+      "end": 1926.72,
+      "text": "Nice, Boise, Philly, Toronto, Lissan, Switzerland. Welcome, Cincinnati."
+    },
+    {
+      "start": 1927.6000000000001,
+      "end": 1933.68,
+      "text": "San Diego, Madeira, Ireland, Portugal, Bellevue, Turku, Finland. How do I go with that palm of"
+    },
+    {
+      "start": 1933.68,
+      "end": 1940.64,
+      "text": "Spain? Gernie, Illinois, Lanter Roots, Spain, and Scotland, the Brave. Thanks for joining us. We"
+    },
+    {
+      "start": 1940.64,
+      "end": 1950.24,
+      "text": "appreciate it. JT, what do you got for us? You're on mute. Yeah, I come in at she live from"
+    },
+    {
+      "start": 1950.96,
+      "end": 1954.64,
+      "text": "an airport, so hopefully it's not too much background noise as I try to find somewhere quiet,"
+    },
+    {
+      "start": 1954.64,
+      "end": 1962.0800000000002,
+      "text": "but they've got noisy on me, so the veggies, you know, we've all heard this bamboo story before,"
+    },
+    {
+      "start": 1962.08,
+      "end": 1967.9199999999998,
+      "text": "right? It's on every LinkedIn post and half the sales conferences in America, usually right after"
+    },
+    {
+      "start": 1967.9199999999998,
+      "end": 1972.96,
+      "text": "some slide about like an eagle that reinvents itself after it's 40 or, you know, a bad Michael"
+    },
+    {
+      "start": 1972.96,
+      "end": 1979.52,
+      "text": "Scott office quote, but you know, with the bamboo, you plan a seed, you water it, year one, nothing's"
+    },
+    {
+      "start": 1979.52,
+      "end": 1985.76,
+      "text": "happening. Year two, nothing. Year three, four, still nothing. Then in year five, it grows 90"
+    },
+    {
+      "start": 1985.76,
+      "end": 1991.6,
+      "text": "feet in six weeks, and the lesson is supposed to be about patients. So you keep watering and,"
+    },
+    {
+      "start": 1991.6000000000001,
+      "end": 1995.5200000000002,
+      "text": "you know, your breakthrough is coming and overnight success, 10 years in the making, right?"
+    },
+    {
+      "start": 1996.3200000000002,
+      "end": 2001.44,
+      "text": "It's a nice story. It's also kind of wrong. And the real version tells us something about the"
+    },
+    {
+      "start": 2001.44,
+      "end": 2007.0400000000002,
+      "text": "biggest current bet on the planet right now, which will impact. So as you know, that bamboo is not"
+    },
+    {
+      "start": 2007.0400000000002,
+      "end": 2011.8400000000001,
+      "text": "doing nothing for those five years. It's working the whole time. It's working underground,"
+    },
+    {
+      "start": 2011.8400000000001,
+      "end": 2016.88,
+      "text": "building a rhizome, which is this web of roots and stems where the plant banks its energy"
+    },
+    {
+      "start": 2016.88,
+      "end": 2023.3600000000001,
+      "text": "underground. It builds the engine first basically. In the roots, you know, it's stored carbon"
+    },
+    {
+      "start": 2023.3600000000001,
+      "end": 2029.1200000000001,
+      "text": "and the machinery then is built that eventually allows it to raise the shoots. So here's"
+    },
+    {
+      "start": 2029.1200000000001,
+      "end": 2035.1200000000001,
+      "text": "the part that's not on the motivational poster. When the shoot appears, its dynamic diameter is"
+    },
+    {
+      "start": 2035.1200000000001,
+      "end": 2040.5600000000002,
+      "text": "already set. The whole architecture is compressed inside of it already. And then it turns that bank"
+    },
+    {
+      "start": 2040.56,
+      "end": 2047.44,
+      "text": "energy into height at the end of an absurd speed. And a botanist in Japan, one shoot growing nearly"
+    },
+    {
+      "start": 2047.44,
+      "end": 2054.7999999999997,
+      "text": "four feet in one day in the 1956, which is incredible. And the stock, which about this will call"
+    },
+    {
+      "start": 2054.7999999999997,
+      "end": 2062.24,
+      "text": "us home, CULM, comes out as it's final width and it never thickens. So sorry, Toby, but the bad news"
+    },
+    {
+      "start": 2062.24,
+      "end": 2066.88,
+      "text": "is no matter how much you wish, you know, you can't your will your way to a thicker stock. So"
+    },
+    {
+      "start": 2066.88,
+      "end": 2077.28,
+      "text": "I digress. But how big a stock is is thrown is capped by a developed the engine underneath it is"
+    },
+    {
+      "start": 2077.28,
+      "end": 2081.6,
+      "text": "in that rhizome. So if the rhizome is weak, it's not going to throw a giant cone and it in"
+    },
+    {
+      "start": 2081.6,
+      "end": 2086.6400000000003,
+      "text": "said it'll throw a small one or maybe no one at all. So it's time for us to now start torturing"
+    },
+    {
+      "start": 2086.6400000000003,
+      "end": 2093.04,
+      "text": "our analogy. In business, like you likely need to get the underground unit economics right first"
+    },
+    {
+      "start": 2093.04,
+      "end": 2099.36,
+      "text": "before you scale, you know, before you open that second store, you need the first one to be earning"
+    },
+    {
+      "start": 2099.36,
+      "end": 2104.0,
+      "text": "more than it costs. And that's the unit economics of the rhizome and an engine that throws off more"
+    },
+    {
+      "start": 2104.0,
+      "end": 2107.44,
+      "text": "than you feed it. And of course, you know, Michael Robinson wrote a white paper called The Math of"
+    },
+    {
+      "start": 2107.44,
+      "end": 2112.16,
+      "text": "Value and Growth, which gives you all the details of the math behind this. But growth really only"
+    },
+    {
+      "start": 2112.16,
+      "end": 2118.64,
+      "text": "creates value when the next dollar you put in earns more than what it cost. If you're at your"
+    },
+    {
+      "start": 2118.64,
+      "end": 2124.72,
+      "text": "cost of capital exactly, that growth is worth exactly zero. Below it, the growth destroys value."
+    },
+    {
+      "start": 2124.72,
+      "end": 2130.72,
+      "text": "So the faster you grow, the more that you're destroying. So we worked, you know, was a 90-foot stock"
+    },
+    {
+      "start": 2130.72,
+      "end": 2135.92,
+      "text": "built on a baby rhizome that it couldn't feed it. No underlying engine really. And so of course,"
+    },
+    {
+      "start": 2135.92,
+      "end": 2141.8399999999997,
+      "text": "the IPO cracked for, you know, obvious reasons despite, you know, a community adjustity. But however,"
+    },
+    {
+      "start": 2141.8399999999997,
+      "end": 2147.6,
+      "text": "you wanted to dress it up. So let's make this all a little bit more timely. To end up the show,"
+    },
+    {
+      "start": 2147.6,
+      "end": 2152.08,
+      "text": "Chris Blumstrand gave a talk at manuals of ideas earlier this month. It was called the Value"
+    },
+    {
+      "start": 2152.08,
+      "end": 2159.2,
+      "text": "and a Secular P. Latto. And his warning was around really kind of the bamboo story. You know,"
+    },
+    {
+      "start": 2159.2,
+      "end": 2165.36,
+      "text": "we're right now, today, we're forcing up the biggest stock in history with the AI build out."
+    },
+    {
+      "start": 2165.36,
+      "end": 2171.2799999999997,
+      "text": "And Chris puts some numbers around it. So the hyperscaler CapEx was over 400 billion last year"
+    },
+    {
+      "start": 2171.2799999999997,
+      "end": 2175.2799999999997,
+      "text": "and it's headed for something like $4 trillion over the next decade. That's the projection."
+    },
+    {
+      "start": 2176.2400000000002,
+      "end": 2181.0400000000004,
+      "text": "Here's the part that starts to rhyme. Blumstrand lined this up with every capital cycle boom before"
+    },
+    {
+      "start": 2181.0400000000004,
+      "end": 2187.92,
+      "text": "it canals, railroads, fiber, etc. Never ones of frenzy of building. Of course, most of those builders"
+    },
+    {
+      "start": 2187.92,
+      "end": 2194.88,
+      "text": "went corrupt. Only 4% of the fiber was actually lit during the .com boom. We just had crazy over"
+    },
+    {
+      "start": 2194.88,
+      "end": 2200.32,
+      "text": "capacity. But the internet still got built. We'll use the fiber later 20 years after, you know,"
+    },
+    {
+      "start": 2200.4,
+      "end": 2205.36,
+      "text": "the wreckage for all the people who paid that original tab, you know, that unfortunately,"
+    },
+    {
+      "start": 2205.36,
+      "end": 2211.84,
+      "text": "they didn't survive that. So let's run this bamboo question on the AI stock. Can the engine feed it?"
+    },
+    {
+      "start": 2211.84,
+      "end": 2217.1200000000003,
+      "text": "So we're spending 4 trillion on chips and data centers. If you depreciate that over 10 years,"
+    },
+    {
+      "start": 2217.1200000000003,
+      "end": 2222.96,
+      "text": "as 400 billion a year baked into the cake every year, whether revenue shows up or not, by the way."
+    },
+    {
+      "start": 2224.1600000000003,
+      "end": 2228.32,
+      "text": "And 10 years is quite a generous assumption. It's probably more like three to five years"
+    },
+    {
+      "start": 2228.32,
+      "end": 2233.04,
+      "text": "depreciation schedule for these chips. But if we cut that 10 years in half to five,"
+    },
+    {
+      "start": 2233.04,
+      "end": 2236.56,
+      "text": "the build doubles to 800 billion a year in these depreciation."
+    },
+    {
+      "start": 2237.6800000000003,
+      "end": 2242.2400000000002,
+      "text": "Okay, then you have to put a return on that. Just to break even at the cost of capital,"
+    },
+    {
+      "start": 2242.2400000000002,
+      "end": 2246.8,
+      "text": "you need maybe 400 billion a year in profit to earn what these companies are actually used to"
+    },
+    {
+      "start": 2246.8,
+      "end": 2251.84,
+      "text": "earning at like 20% returns on the best of capital. It's more like 800 billion that you need."
+    },
+    {
+      "start": 2251.84,
+      "end": 2257.76,
+      "text": "And right now the entire SAP earns about 2.5 trillion. So in this one build out, to throw off something"
+    },
+    {
+      "start": 2257.76,
+      "end": 2263.2000000000003,
+      "text": "like a third of all the profit in corporate America today, we need to fresh on top of all of that"
+    },
+    {
+      "start": 2263.2000000000003,
+      "end": 2268.96,
+      "text": "existing that they're making in order to justify the spend. So, and of course today's revenue"
+    },
+    {
+      "start": 2268.96,
+      "end": 2275.2000000000003,
+      "text": "numbers, if we look at, if we look at, the anthropic is running it, I don't know, 47 billion or"
+    },
+    {
+      "start": 2275.2000000000003,
+      "end": 2280.32,
+      "text": "something, chat you can get 25 billion. Real money, big numbers, but like nothing compared to 4 trillion."
+    },
+    {
+      "start": 2281.1200000000003,
+      "end": 2285.0400000000004,
+      "text": "So, and then here's kind of the concerns when you get to financials of big tech."
+    },
+    {
+      "start": 2285.36,
+      "end": 2293.7599999999998,
+      "text": "Right now, they're in two years ago, CAPEX 8, about 40% of the cash that these companies generated."
+    },
+    {
+      "start": 2294.72,
+      "end": 2298.8,
+      "text": "Today it's effectively all of it. And these cash machines are spinning, everything that they"
+    },
+    {
+      "start": 2298.8,
+      "end": 2303.52,
+      "text": "make basically, buybacks are shrinking. And the rest is coming now as debt. And a lot of that is"
+    },
+    {
+      "start": 2303.52,
+      "end": 2307.2,
+      "text": "parked off balance sheet when you see some of these like structured finance things. And then of"
+    },
+    {
+      "start": 2307.2,
+      "end": 2312.08,
+      "text": "course, fresh equity raises now, which you saw with Google and Berkshire recently."
+    },
+    {
+      "start": 2312.24,
+      "end": 2318.24,
+      "text": "So, plus today, a lot of that revenue that's showing up is a lot of these kind of same dollars that"
+    },
+    {
+      "start": 2318.24,
+      "end": 2323.36,
+      "text": "are circulating around between the handfuls and these, whether, you know, how much profit you"
+    },
+    {
+      "start": 2323.36,
+      "end": 2328.48,
+      "text": "can make out of that, who knows. So, it's we're in all in this poker game where everyone is basically"
+    },
+    {
+      "start": 2328.48,
+      "end": 2333.44,
+      "text": "keeps buying chips from the house, which the house is a video today. And the pun was intended there."
+    },
+    {
+      "start": 2334.3199999999997,
+      "end": 2338.3199999999997,
+      "text": "So, anyway, no doubt. The tech is real. I think we're all using it, we're all experimenting,"
+    },
+    {
+      "start": 2338.32,
+      "end": 2343.04,
+      "text": "we're all benefiting from it. It's awesome. But the internet was real too. It's pretty awesome."
+    },
+    {
+      "start": 2343.04,
+      "end": 2346.88,
+      "text": "Still did not create high returns for the companies that built it. In fact, it killed many of them."
+    },
+    {
+      "start": 2347.52,
+      "end": 2351.84,
+      "text": "So, you know, whether you're in a bamboo garden in a startup or in a data center that's the"
+    },
+    {
+      "start": 2351.84,
+      "end": 2357.52,
+      "text": "size of a city, there has to be a real engine down there in the rhizome that's throwing off more"
+    },
+    {
+      "start": 2357.52,
+      "end": 2362.0,
+      "text": "than you feed it. Or you're kind of just looking at maybe a ravenous hole in the ground eventually."
+    },
+    {
+      "start": 2362.0,
+      "end": 2368.24,
+      "text": "So, I honestly don't know how this all ends or over what timing. But it's going to be exciting"
+    },
+    {
+      "start": 2368.24,
+      "end": 2371.6,
+      "text": "to watch it play out. So, where do you guys see this thing going?"
+    },
+    {
+      "start": 2374.0,
+      "end": 2378.72,
+      "text": "I wonder, there's a good comment here where supply can strand on compute."
+    },
+    {
+      "start": 2380.48,
+      "end": 2382.24,
+      "text": "How real do you think that is?"
+    },
+    {
+      "start": 2382.24,
+      "end": 2387.2,
+      "text": "Tomorrow morning is knocking. Stock your fridge now. How about a creamy mocha frappuccino drink,"
+    },
+    {
+      "start": 2387.2000000000003,
+      "end": 2392.4800000000005,
+      "text": "or a sweet vanilla, smooth caramel maybe, or white chocolate mocha. Whichever you choose,"
+    },
+    {
+      "start": 2392.4800000000005,
+      "end": 2396.88,
+      "text": "delicious coffee awaits. Find Starbucks Frappuccino drinks wherever you buy your groceries."
+    },
+    {
+      "start": 2398.1600000000003,
+      "end": 2402.2400000000002,
+      "text": "Relax and let Kroger Delivery handle your grocery shopping this week."
+    },
+    {
+      "start": 2402.8,
+      "end": 2408.9600000000005,
+      "text": "We start with only the freshest items. Then, we carefully pack your order in our refrigerated"
+    },
+    {
+      "start": 2408.9600000000005,
+      "end": 2414.8,
+      "text": "trucks. So, your food stays cool and fresh on its way to your door. And right now,"
+    },
+    {
+      "start": 2414.8,
+      "end": 2421.52,
+      "text": "you can save $30 on your first pickup or delivery order and get unlimited free delivery."
+    },
+    {
+      "start": 2421.52,
+      "end": 2426.1600000000003,
+      "text": "Restrictions apply. See site for details. Kroger, fresh for everyone."
+    },
+    {
+      "start": 2431.76,
+      "end": 2434.48,
+      "text": "Well, I mean, I can go up to my own personal usage where,"
+    },
+    {
+      "start": 2436.32,
+      "end": 2440.32,
+      "text": "because it's kind of a pain in the ass to decide which model do you want to use for"
+    },
+    {
+      "start": 2440.4,
+      "end": 2446.0,
+      "text": "which task. And you don't ever really want to underpower the model. So, you're basically going,"
+    },
+    {
+      "start": 2446.0,
+      "end": 2452.1600000000003,
+      "text": "I need max deepest, most expensive for changing this file name or something like that thing."
+    },
+    {
+      "start": 2453.44,
+      "end": 2458.0,
+      "text": "So, I think there's actually probably a lot of room for improvement on model optimization,"
+    },
+    {
+      "start": 2458.0,
+      "end": 2462.0800000000004,
+      "text": "where you're sitting below, you sit in the query to the right model. You get kind of a minimum"
+    },
+    {
+      "start": 2462.0800000000004,
+      "end": 2469.44,
+      "text": "of effective dosage. I don't know. I'm not smart enough to know all the permutations of all the variables"
+    },
+    {
+      "start": 2469.52,
+      "end": 2474.4,
+      "text": "there. But I feel like we will figure out how to do less with more eventually, which case,"
+    },
+    {
+      "start": 2474.96,
+      "end": 2480.16,
+      "text": "maybe it's not so constrained. The other thing is that it has been this, those, those,"
+    },
+    {
+      "start": 2480.8,
+      "end": 2488.08,
+      "text": "max seven, they do seem to have their earnings have exploded over the last five years."
+    },
+    {
+      "start": 2488.7200000000003,
+      "end": 2492.8,
+      "text": "And they've certainly grown much faster than small and micro and mid cap. So,"
+    },
+    {
+      "start": 2492.8,
+      "end": 2496.88,
+      "text": "there does seem to be a huge revenue growth there. It's like it looks to me like it's going"
+    },
+    {
+      "start": 2496.88,
+      "end": 2500.7200000000003,
+      "text": "parabolic. And I don't know what the driver of that is, whether it's just that there's huge amounts"
+    },
+    {
+      "start": 2500.7200000000003,
+      "end": 2506.08,
+      "text": "of investment. And then that investment inevitably creates some profitability, or whether it's"
+    },
+    {
+      "start": 2507.76,
+      "end": 2516.0,
+      "text": "like real demand and real uptake. And it's going to outstrip the cap ex, but it's a very"
+    },
+    {
+      "start": 2516.0,
+      "end": 2522.1600000000003,
+      "text": "difficult thing to model out and pick. So, I had software anybody who's done that. But it must be"
+    },
+    {
+      "start": 2522.16,
+      "end": 2529.6,
+      "text": "John, it must be a good thing for the commodity complex. Where's the cap ex spend going?"
+    },
+    {
+      "start": 2529.6,
+      "end": 2534.56,
+      "text": "It must, at some point, it's falling through to the metals and the energy producers."
+    },
+    {
+      "start": 2534.56,
+      "end": 2542.0,
+      "text": "Oh, yeah. Well, first of all, to JT's question, I lived through the.com crisis. I was"
+    },
+    {
+      "start": 2542.0,
+      "end": 2549.6,
+      "text": "at multiple firms that went under. And I remember that really well. It leaves them in"
+    },
+    {
+      "start": 2549.6,
+      "end": 2555.2,
+      "text": "pressure. But as you just said, to buy us the one difference is these companies that are spending"
+    },
+    {
+      "start": 2555.2,
+      "end": 2560.3199999999997,
+      "text": "are spending from profits that are coming from somewhere else. Whereas the.com error was"
+    },
+    {
+      "start": 2560.3199999999997,
+      "end": 2567.04,
+      "text": "there were no. You know, these were companies with no pets.com. I mean, just no real business model,"
+    },
+    {
+      "start": 2567.04,
+      "end": 2573.36,
+      "text": "just an expectation of future growth, which as JT mentioned, eventually came. But it came to,"
+    },
+    {
+      "start": 2573.36,
+      "end": 2578.4,
+      "text": "not necessarily the people that were business in the late 90s. So, I think it's very hard to say,"
+    },
+    {
+      "start": 2579.36,
+      "end": 2585.36,
+      "text": "I kind of have this view that at some point, there's some interruption to this. At some point,"
+    },
+    {
+      "start": 2586.32,
+      "end": 2592.32,
+      "text": "you know, the market has to say, okay, the dollars are not materializing as fast or maybe they do."
+    },
+    {
+      "start": 2592.32,
+      "end": 2597.36,
+      "text": "I mean, if if revenues catch up, if there's business models that develop and all of a sudden,"
+    },
+    {
+      "start": 2597.36,
+      "end": 2602.8,
+      "text": "there's all these products and certainly there's use cases, there's products. It's beneficial."
+    },
+    {
+      "start": 2602.8,
+      "end": 2608.08,
+      "text": "But where's the revenue coming from? And I think that'll be the challenge. Now, whether that's"
+    },
+    {
+      "start": 2608.08,
+      "end": 2613.36,
+      "text": "this year, three years, five years, that's impossible to say. But yeah, but more parabolic, it goes"
+    },
+    {
+      "start": 2614.08,
+      "end": 2619.44,
+      "text": "maybe maybe the sooner we get to that point. As for commodities, yeah, I mean, it, you know,"
+    },
+    {
+      "start": 2620.56,
+      "end": 2625.68,
+      "text": "I've got basically a copper behind me. You know, it's a fuel for copper, but also so many other"
+    },
+    {
+      "start": 2625.68,
+      "end": 2632.24,
+      "text": "things. You know, silver is more an industrial metal than a precious metal. It's critical. But"
+    },
+    {
+      "start": 2632.32,
+      "end": 2638.48,
+      "text": "everything, you know, aluminum, nickel, you know, a whole bunch of different commodities."
+    },
+    {
+      "start": 2638.48,
+      "end": 2643.0400000000004,
+      "text": "Like I said, natural gas. Maybe that doesn't go through the roof, but there's probably, you know,"
+    },
+    {
+      "start": 2643.0400000000004,
+      "end": 2648.6400000000003,
+      "text": "support for it as we build out data centers and the hyperscalers are saying, we want to pair our"
+    },
+    {
+      "start": 2648.6400000000003,
+      "end": 2655.0400000000004,
+      "text": "own way. We'll build power facilities. I'm not sure how genuine that is, but that's what they're"
+    },
+    {
+      "start": 2655.0400000000004,
+      "end": 2660.4,
+      "text": "saying. So, but we think even without the AI story, there's a lot of support for commodities."
+    },
+    {
+      "start": 2660.4,
+      "end": 2664.48,
+      "text": "When you look at broad commodities, you know, every individual commodity, you know, it's,"
+    },
+    {
+      "start": 2664.48,
+      "end": 2668.96,
+      "text": "it's a, you know, rise and fall supply demand, you know, individual supply demand story. You put"
+    },
+    {
+      "start": 2668.96,
+      "end": 2674.4,
+      "text": "them together, though, and if you allocate in a smart way and rotate in a smart way, I think"
+    },
+    {
+      "start": 2674.4,
+      "end": 2680.7200000000003,
+      "text": "that can be a real beneficial thing to your portfolio. So we think unlike the 2010s, which was"
+    },
+    {
+      "start": 2680.7200000000003,
+      "end": 2685.92,
+      "text": "challenging for commodities, you know, next five to 10 years, look, look quite positive."
+    },
+    {
+      "start": 2686.7200000000003,
+      "end": 2691.6,
+      "text": "Good for small and micro businesses, good for mid cap businesses, all of that spend just"
+    },
+    {
+      "start": 2691.6,
+      "end": 2697.6,
+      "text": "flowing through the, flowing through the good guys for once. Toby, I'll give you a little stat"
+    },
+    {
+      "start": 2697.6,
+      "end": 2704.16,
+      "text": "to push back on that whole like earnings growth story. And I went, when I read this, it about"
+    },
+    {
+      "start": 2704.16,
+      "end": 2713.92,
+      "text": "made my job drop to you on 2026, three companies, Alphabet, Amazon and Nvidia reported 69 billion"
+    },
+    {
+      "start": 2713.92,
+      "end": 2723.04,
+      "text": "dollars in non-operating other income that counts towards earnings for the S&P 500, which was"
+    },
+    {
+      "start": 2723.04,
+      "end": 2728.32,
+      "text": "a 12% increase for the S&P 500 from these three companies. And what did that come from?"
+    },
+    {
+      "start": 2729.12,
+      "end": 2737.6800000000003,
+      "text": "Marking up their investments in, in profit. So these are non cash. It's just a market"
+    },
+    {
+      "start": 2738.56,
+      "end": 2744.64,
+      "text": "gain, circularity gain. Just to imagine paper profits."
+    },
+    {
+      "start": 2745.9199999999996,
+      "end": 2750.3999999999996,
+      "text": "Excuse me, just to play devil's advocate a little bit there. We've seen, I mean, SpaceX hit the"
+    },
+    {
+      "start": 2750.3999999999996,
+      "end": 2756.8799999999997,
+      "text": "market and SpaceX has gone into all but from the moment that it's hit the market there. So it certainly"
+    },
+    {
+      "start": 2756.8799999999997,
+      "end": 2760.96,
+      "text": "seems like there's, and it was four times over subscribed to something like that. So it certainly"
+    },
+    {
+      "start": 2760.96,
+      "end": 2767.04,
+      "text": "seems like there's, I mean, SpaceX is one of one. It's not anthropic and it's not open AI. But"
+    },
+    {
+      "start": 2767.04,
+      "end": 2770.88,
+      "text": "there certainly seems to be demand for IPOs at the moment, at least."
+    },
+    {
+      "start": 2772.64,
+      "end": 2776.32,
+      "text": "The poll budget, baby, let's go. Get in on the phone."
+    },
+    {
+      "start": 2776.32,
+      "end": 2782.88,
+      "text": "Well, SpaceX is going to create data centers in space that do all of the AI processing and space"
+    },
+    {
+      "start": 2782.88,
+      "end": 2791.36,
+      "text": "and just send information back to Earth. It's going to send AI computation back to Earth."
+    },
+    {
+      "start": 2791.76,
+      "end": 2799.52,
+      "text": "What do you guys think of that? That's that's that's that. Well, I mean, although Elon Musk has"
+    },
+    {
+      "start": 2799.52,
+      "end": 2806.88,
+      "text": "done some remarkable stuff. On the other hand, you know, these are pretty audacious. Go cities on"
+    },
+    {
+      "start": 2806.88,
+      "end": 2815.36,
+      "text": "Mars. I mean, Starlink is, you know, sound sounded crazy and it's a very viable thing and"
+    },
+    {
+      "start": 2816.32,
+      "end": 2823.28,
+      "text": "never on his schedule. So I don't know. I'm not in the tech space enough to know"
+    },
+    {
+      "start": 2823.28,
+      "end": 2831.2000000000003,
+      "text": "of how viable that is. But, you know, I think, you know, eventually at least some of it comes to fruition."
+    },
+    {
+      "start": 2832.88,
+      "end": 2841.04,
+      "text": "I mean, I don't know how real these numbers are, but I've heard it's 20% of the cost"
+    },
+    {
+      "start": 2841.04,
+      "end": 2846.0,
+      "text": "is energy and effectively if you're up in space and you're kind of always pointed at the sun."
+    },
+    {
+      "start": 2846.0,
+      "end": 2851.12,
+      "text": "And there's lots of room for solar panels like you're effectively like zero margin of cost on"
+    },
+    {
+      "start": 2851.12,
+      "end": 2858.16,
+      "text": "energy then. That sounds cool. I mean, I don't know. It's getting it up there. As long as it"
+    },
+    {
+      "start": 2858.16,
+      "end": 2861.6,
+      "text": "keeps getting cheaper, maybe that does make sense. I think it's a cool idea."
+    },
+    {
+      "start": 2863.7599999999998,
+      "end": 2867.84,
+      "text": "Johnny, do you look at the equities for any of the commodities that you or you just sort of"
+    },
+    {
+      "start": 2867.84,
+      "end": 2871.92,
+      "text": "directly focused on the commodities? Yeah, the commodities keep me busy enough."
+    },
+    {
+      "start": 2872.7200000000003,
+      "end": 2877.28,
+      "text": "You know, we, the equities, we get asked that a lot, you know, though how to"
+    },
+    {
+      "start": 2877.28,
+      "end": 2882.0,
+      "text": "commodity equities differ from commodities. And it's probably fairly obvious, but, you know,"
+    },
+    {
+      "start": 2882.0,
+      "end": 2887.2000000000003,
+      "text": "commodity equities do have a beta to the overall stock market. And, you know, they're going to"
+    },
+    {
+      "start": 2887.2000000000003,
+      "end": 2892.96,
+      "text": "certainly have a beta to the commodities. They traffic again, but it might be like, you know,"
+    },
+    {
+      "start": 2892.96,
+      "end": 2899.52,
+      "text": "0.6 or something like that, which is kind of where, maybe the broad market, different times,"
+    },
+    {
+      "start": 2899.52,
+      "end": 2904.48,
+      "text": "you know, it can range and depend on the commodity. But we tend to, you know, the reason to buy"
+    },
+    {
+      "start": 2904.48,
+      "end": 2909.92,
+      "text": "commodities is that diversification, the ZIG, when everything else zags. And we saw that in 2022."
+    },
+    {
+      "start": 2911.2,
+      "end": 2920.8,
+      "text": "We saw this last year, there's a copper equity ETF. And it, you know, when copper itself,"
+    },
+    {
+      "start": 2920.8,
+      "end": 2927.36,
+      "text": "you know, they open up this giant premium, the copper equity ETF was only up like 1% our copper"
+    },
+    {
+      "start": 2927.36,
+      "end": 2935.36,
+      "text": "fund CPER was up substantially. Then we had Trump reverse. So I'm not going to tax copper,"
+    },
+    {
+      "start": 2936.5600000000004,
+      "end": 2941.1200000000003,
+      "text": "you know, copper itself crashed back down, but then over the rest of the year, they climbed up and"
+    },
+    {
+      "start": 2941.1200000000003,
+      "end": 2947.1200000000003,
+      "text": "went over, you know, where the premium had been. And that differed from the commodity equity ETF."
+    },
+    {
+      "start": 2947.12,
+      "end": 2952.72,
+      "text": "So that's just one example of certainly the commodity equities, copper equities benefited from"
+    },
+    {
+      "start": 2952.72,
+      "end": 2957.7599999999998,
+      "text": "the rise in copper. But there are other things going on, including idiosyncratic risk with the"
+    },
+    {
+      "start": 2957.7599999999998,
+      "end": 2962.72,
+      "text": "individual companies. So if they're managed well, if they're managed poorly, you know, that's going"
+    },
+    {
+      "start": 2962.72,
+      "end": 2969.2,
+      "text": "to have an unaffect as well. So I think they both, you get exposure, you know, if you're broadly"
+    },
+    {
+      "start": 2969.2,
+      "end": 2975.92,
+      "text": "invested, you get exposure to commodity equities. Anyway, we kind of say, if you want what commodities"
+    },
+    {
+      "start": 2975.92,
+      "end": 2982.64,
+      "text": "really offer you, which is diversification, opportunities for performance at times and possibly"
+    },
+    {
+      "start": 2982.64,
+      "end": 2987.6800000000003,
+      "text": "inflation protection, back historically, some very substantial inflation protection, then you want"
+    },
+    {
+      "start": 2987.6800000000003,
+      "end": 2994.88,
+      "text": "to be in the commodities themselves. Do you have a, there's this narrative in the early 2000s,"
+    },
+    {
+      "start": 2994.88,
+      "end": 3002.56,
+      "text": "there was the commodity super cycle driven by China's build out and China slowed, or that all"
+    },
+    {
+      "start": 3002.56,
+      "end": 3007.2,
+      "text": "cool, and it's sort of gone away a little bit. But where are we in terms of the commodity? I mean,"
+    },
+    {
+      "start": 3007.2,
+      "end": 3012.0,
+      "text": "I don't want to call it a super cycle, but where are we in the commodity super cycle? What a commodity"
+    },
+    {
+      "start": 3012.0,
+      "end": 3019.7599999999998,
+      "text": "pros call that? Well, the super cycle definitely ended in, you know, maybe around 20, 2010. You"
+    },
+    {
+      "start": 3019.7599999999998,
+      "end": 3026.16,
+      "text": "know, it went past the financial crisis a little bit, but definitely ended in commodities turned over"
+    },
+    {
+      "start": 3026.56,
+      "end": 3033.12,
+      "text": "in the, in the 2010s. We're in a new cycle. I don't know, you know, if we want to, it's the China,"
+    },
+    {
+      "start": 3033.12,
+      "end": 3038.96,
+      "text": "you know, the China build out is not at that same level, but with certain commodities, you know, China"
+    },
+    {
+      "start": 3038.96,
+      "end": 3044.72,
+      "text": "is a, is a huge portion, a copper being one aluminum, you know, there's certain things where,"
+    },
+    {
+      "start": 3044.72,
+      "end": 3049.6,
+      "text": "where China is, is the driver. So you want to pay attention to, to China, but there are other"
+    },
+    {
+      "start": 3049.6,
+      "end": 3057.2799999999997,
+      "text": "things, other things too. So we're bullish over the next, you know, five, 10 years. We think we are in"
+    },
+    {
+      "start": 3059.12,
+      "end": 3064.64,
+      "text": "some people say a new super cycle. I'm always hesitant to use that word, but you don't want to jinx"
+    },
+    {
+      "start": 3064.64,
+      "end": 3071.8399999999997,
+      "text": "it. Maybe that's it. Maybe that's it. Some people reject it on academic terms, and some people embrace"
+    },
+    {
+      "start": 3071.8399999999997,
+      "end": 3078.96,
+      "text": "it. And so, but I think there are new new drivers. It's, it's not quite on the scale of the China"
+    },
+    {
+      "start": 3078.96,
+      "end": 3085.12,
+      "text": "build out, but, you know, China is going to continue growing their economy. U.S. is going to continue"
+    },
+    {
+      "start": 3085.12,
+      "end": 3090.56,
+      "text": "to innovate. So, and, and there's just a lot of tailwinds to a lot of commodities at the moment."
+    },
+    {
+      "start": 3091.76,
+      "end": 3097.04,
+      "text": "John, do you have any, like, what, is there any chance that the world kind of breaks up into two"
+    },
+    {
+      "start": 3097.04,
+      "end": 3102.32,
+      "text": "industries of influence, and we did kind of almost two separate entire supply chains of,"
+    },
+    {
+      "start": 3102.32,
+      "end": 3107.52,
+      "text": "of these commodities, and maybe the world looks quite different from globalization,"
+    },
+    {
+      "start": 3107.68,
+      "end": 3115.44,
+      "text": "but not too many 80s. So, I think that's happening. I think, you know, it's unfortunate,"
+    },
+    {
+      "start": 3115.44,
+      "end": 3120.24,
+      "text": "because I think it does, it makes everything less efficient, but I think that's one of the reason"
+    },
+    {
+      "start": 3120.24,
+      "end": 3125.12,
+      "text": "commodities have gone up in the last couple of years is supply change have been, supply chains"
+    },
+    {
+      "start": 3125.12,
+      "end": 3130.96,
+      "text": "have been disrupted. You know, the Ukraine wars is one thing. It's just, you know, suddenly something"
+    },
+    {
+      "start": 3130.96,
+      "end": 3136.08,
+      "text": "that we could get fairly cheaper, you know, Europe could get cheaper gas from Russia. You know,"
+    },
+    {
+      "start": 3136.08,
+      "end": 3139.68,
+      "text": "okay, now they've got to buy it from us. It costs, you know, I can't just run it through the pipe"
+    },
+    {
+      "start": 3139.68,
+      "end": 3145.2799999999997,
+      "text": "lines. And that story we've seen play out across the board. Straighter hormones is sort of a"
+    },
+    {
+      "start": 3145.2799999999997,
+      "end": 3152.96,
+      "text": "microcosm of that story, but yes, I think, you know, between, you know, and China is, you know,"
+    },
+    {
+      "start": 3152.96,
+      "end": 3157.68,
+      "text": "going into Brazil and doing business with all these other other countries. So, you're kind of"
+    },
+    {
+      "start": 3157.68,
+      "end": 3162.48,
+      "text": "rerouting things across the board. So, I think that is happening. It has happened to some degree,"
+    },
+    {
+      "start": 3163.28,
+      "end": 3168.56,
+      "text": "unfortunately, probably will continue to happen when it would probably be better for all of us,"
+    },
+    {
+      "start": 3168.56,
+      "end": 3175.84,
+      "text": "if we, you know, we can continue to have a, you know, at least some smart globalization where we're"
+    },
+    {
+      "start": 3175.84,
+      "end": 3181.92,
+      "text": "not, you know, hurting our own workers. John, are there any interesting commodities that aren't"
+    },
+    {
+      "start": 3181.92,
+      "end": 3189.76,
+      "text": "getting discussed enough that you think are sort of going to become interesting maybe the next five or"
+    },
+    {
+      "start": 3189.76,
+      "end": 3196.2400000000002,
+      "text": "10 years? Five, 10 years. Oh, short of time, friends. I get five or 10 as they sort of beyond"
+    },
+    {
+      "start": 3196.2400000000002,
+      "end": 3200.48,
+      "text": "anything like you about in the short term. Yeah, first I was going to throw out, you know,"
+    },
+    {
+      "start": 3200.48,
+      "end": 3206.4,
+      "text": "cattle. That was a big story. Last year, cattle herds are at their lowest level in 70 years, not"
+    },
+    {
+      "start": 3206.4,
+      "end": 3211.92,
+      "text": "adjusted for the population just on absolute level. They are as low as they were 70 years ago,"
+    },
+    {
+      "start": 3211.92,
+      "end": 3219.52,
+      "text": "if not lower. And so, that's kind of astonishing. And now we have this screwworm"
+    },
+    {
+      "start": 3219.52,
+      "end": 3225.12,
+      "text": "infestation coming into Texas, maybe New Mexico. That's a really frightening story. I mean,"
+    },
+    {
+      "start": 3225.12,
+      "end": 3232.56,
+      "text": "that could affect, you know, the global food supply, the US food supply. So, we'll see what happens"
+    },
+    {
+      "start": 3232.56,
+      "end": 3238.64,
+      "text": "there, but that's been one. You kind of never know, I shouldn't say never know, but you know,"
+    },
+    {
+      "start": 3239.44,
+      "end": 3244.7999999999997,
+      "text": "there's always some commodity that gets the supply squeeze. And people talk about oil and gold"
+    },
+    {
+      "start": 3244.7999999999997,
+      "end": 3250.64,
+      "text": "and the big headline commodities, but it can come from anywhere. It can be cattle in 2024. Coco"
+    },
+    {
+      "start": 3250.64,
+      "end": 3256.24,
+      "text": "was up 300%. I don't remember. Yeah, it's now brought a lot of that down, but I mean, just who's"
+    },
+    {
+      "start": 3256.24,
+      "end": 3262.48,
+      "text": "talking about Coco aside from Coco Puffs and chocolate that you eat and all of a sudden 300%."
+    },
+    {
+      "start": 3262.48,
+      "end": 3268.08,
+      "text": "I mean, that was one of the best investments that you could have had in 24. So, you know,"
+    },
+    {
+      "start": 3268.08,
+      "end": 3275.84,
+      "text": "next five years, I think I kind of think gold still has some legs that it's been interrupted,"
+    },
+    {
+      "start": 3275.84,
+      "end": 3282.0,
+      "text": "but there's so many dislocations going on, weakness in the dollar, the, you know,"
+    },
+    {
+      "start": 3284.08,
+      "end": 3287.7599999999998,
+      "text": "we'll see what happens. Now, if it just rates keep going up, that would be a headwind."
+    },
+    {
+      "start": 3287.7599999999998,
+      "end": 3295.92,
+      "text": "And then industrial metals. So, that's not one that's not getting talked about, but I would say,"
+    },
+    {
+      "start": 3295.92,
+      "end": 3300.0,
+      "text": "and that's kind of why we advocate broad commodities is if you can find a way to"
+    },
+    {
+      "start": 3301.12,
+      "end": 3308.4,
+      "text": "sort of gauge what is in low, you know, what's relatively scarce on the supply to man's spectrum,"
+    },
+    {
+      "start": 3309.76,
+      "end": 3314.56,
+      "text": "then you can benefit from those things like cocoa and cattle when they do arise. And"
+    },
+    {
+      "start": 3314.56,
+      "end": 3319.52,
+      "text": "that's kind of what we do in our, or that is what we do in our broad commodity strategy SDCI."
+    },
+    {
+      "start": 3319.52,
+      "end": 3324.0,
+      "text": "So, is, you know, I don't know what it's going to be two years, three years from now, but I know"
+    },
+    {
+      "start": 3324.64,
+      "end": 3328.32,
+      "text": "and we're happy to go into this more at some point, but we think there's a market signal when"
+    },
+    {
+      "start": 3328.32,
+      "end": 3332.64,
+      "text": "things go into short supply. And that's kind of what we rely on to, uh, to allocate."
+    },
+    {
+      "start": 3334.48,
+      "end": 3338.32,
+      "text": "This summer's soccer is here. And so are the watch parties."
+    },
+    {
+      "start": 3339.44,
+      "end": 3344.48,
+      "text": "An Uber Eats has your game day essentials covered with 30% off orders from Aldi,"
+    },
+    {
+      "start": 3344.48,
+      "end": 3349.92,
+      "text": "Frogler, and Dollar General. Everything you need to keep your crowd happy, delivered straight"
+    },
+    {
+      "start": 3349.92,
+      "end": 3356.56,
+      "text": "to your door, tips, tips, fresh ingredients, and more. Order in so you can lock in for the game."
+    },
+    {
+      "start": 3356.56,
+      "end": 3360.32,
+      "text": "30% off your grocery order, only on Uber Eats for a limited time."
+    },
+    {
+      "start": 3363.2000000000003,
+      "end": 3368.64,
+      "text": "Trading Eshwab is now powered by Ameritrade, bringing you an expanding library of education with"
+    },
+    {
+      "start": 3368.64,
+      "end": 3374.56,
+      "text": "even more ways to sharpen your trading skills, access new online courses, insightful webcasts,"
+    },
+    {
+      "start": 3374.56,
+      "end": 3381.2,
+      "text": "articles, engaging videos, and more all curated just for traders. Plus guided learning paths with"
+    },
+    {
+      "start": 3381.2,
+      "end": 3386.96,
+      "text": "content designed to fit your unique interests. No sifting to find exactly what you need so you can"
+    },
+    {
+      "start": 3386.96,
+      "end": 3392.72,
+      "text": "spend your time learning to trade brilliantly. Learn more at Schwab.com slash trading."
+    },
+    {
+      "start": 3393.92,
+      "end": 3399.12,
+      "text": "John, what would you, what do you say against the common pushback that friends being long"
+    },
+    {
+      "start": 3399.12,
+      "end": 3407.7599999999998,
+      "text": "commodities is being short human ingenuity? Interesting. Just that commodities are the input to"
+    },
+    {
+      "start": 3408.72,
+      "end": 3419.68,
+      "text": "the first input to the global economy. I'm not going to discount human ingenuity, but that's one"
+    },
+    {
+      "start": 3419.68,
+      "end": 3428.7999999999997,
+      "text": "driver, that's one thing in your portfolio. It's not a constant. The last since the financial"
+    },
+    {
+      "start": 3428.8,
+      "end": 3437.2000000000003,
+      "text": "crisis, if you just sat in QQQ, you'd be, you know, but it's not always a straight-up story. It"
+    },
+    {
+      "start": 3437.2000000000003,
+      "end": 3443.44,
+      "text": "won't always be up. There will be interruptions. I think commodities, what you want is it's just a"
+    },
+    {
+      "start": 3443.44,
+      "end": 3450.2400000000002,
+      "text": "ballast for your portfolio, if not at different times a huge driver. So again, the 2000s where"
+    },
+    {
+      "start": 3450.2400000000002,
+      "end": 3455.92,
+      "text": "equities were flat. It's not like there wasn't human ingenuity going on, but circumstances,"
+    },
+    {
+      "start": 3456.8,
+      "end": 3462.64,
+      "text": "you know, all these different things, stocks were flat and commodities were up. So anybody with"
+    },
+    {
+      "start": 3462.64,
+      "end": 3470.0,
+      "text": "a commodity allocation generally did a lot better than a portfolio without it. So I don't think it's"
+    },
+    {
+      "start": 3470.0,
+      "end": 3476.32,
+      "text": "a knock against human ingenuity. I think it's just a, you know, a smart way to keep some"
+    },
+    {
+      "start": 3476.32,
+      "end": 3481.6800000000003,
+      "text": "diversification in your portfolio. What about something off the run like Uranium? It seems to me like"
+    },
+    {
+      "start": 3481.6800000000003,
+      "end": 3486.4800000000005,
+      "text": "if we're going to build out all of these data centers, we're going to be in space. We're becoming"
+    },
+    {
+      "start": 3486.4800000000005,
+      "end": 3491.0400000000004,
+      "text": "much more energy intensive. We're already very energy intensive, but, you know, as they often"
+    },
+    {
+      "start": 3491.0400000000004,
+      "end": 3495.36,
+      "text": "point out, there are no advanced civilised, that no advanced societies, no advanced civilisations"
+    },
+    {
+      "start": 3495.36,
+      "end": 3501.2000000000003,
+      "text": "that aren't very, very energy intensive. And it seems to me at some point, new clear is just the"
+    },
+    {
+      "start": 3501.2000000000003,
+      "end": 3508.32,
+      "text": "obvious answer there. So how about Uranium? Where are we with Uranium? Uranium is, yeah, that's an"
+    },
+    {
+      "start": 3508.32,
+      "end": 3513.44,
+      "text": "interesting one because we have, I mean, there was a lot of resistance to nuclear power for a long"
+    },
+    {
+      "start": 3513.44,
+      "end": 3520.6400000000003,
+      "text": "time when, obviously, the safety issues are critical. You have three mile island, you have Chernobyl,"
+    },
+    {
+      "start": 3520.6400000000003,
+      "end": 3526.6400000000003,
+      "text": "that lives in the public's imagination for a long time. But I think things have turned significantly,"
+    },
+    {
+      "start": 3526.6400000000003,
+      "end": 3530.8,
+      "text": "and I think I just read that we were finally creeping to the point where the majority of the"
+    },
+    {
+      "start": 3530.8,
+      "end": 3537.28,
+      "text": "public would favor nuclear power industry certainly is behind it because it lowers costs across"
+    },
+    {
+      "start": 3537.28,
+      "end": 3545.2000000000003,
+      "text": "the board. But if that starts becoming a bigger component of our whole energy menu than, yeah,"
+    },
+    {
+      "start": 3545.2000000000003,
+      "end": 3552.1600000000003,
+      "text": "Uranium, Uranium benefits from that. And it's always again, you know, where's the supply coming"
+    },
+    {
+      "start": 3552.1600000000003,
+      "end": 3558.8,
+      "text": "from? How constrained is it? How, you know, if we pour tons into Uranium mining, is it suddenly"
+    },
+    {
+      "start": 3558.8,
+      "end": 3565.28,
+      "text": "not as scarce as it was before? So, but there will be times, and I think certainly over the next"
+    },
+    {
+      "start": 3565.28,
+      "end": 3572.0800000000004,
+      "text": "five, 10 years Uranium, we'll see some, we'll see some upside to Uranium as nuclear becomes a more,"
+    },
+    {
+      "start": 3573.1200000000003,
+      "end": 3580.4,
+      "text": "a larger component again of the total energy infrastructure around the world. John, I don't think about,"
+    },
+    {
+      "start": 3582.0,
+      "end": 3587.76,
+      "text": "how much do we really actually know of like what we have in the ground on planet Earth?"
+    },
+    {
+      "start": 3588.7200000000003,
+      "end": 3592.96,
+      "text": "Like, we've poked a lot of holes to try to find stuff, but like, what as a percentage,"
+    },
+    {
+      "start": 3593.04,
+      "end": 3596.96,
+      "text": "like, could there be crazy amounts of things we don't even know, or we actually like have that"
+    },
+    {
+      "start": 3596.96,
+      "end": 3602.96,
+      "text": "pretty well mapped? You know, I'm probably not the most qualified person. I mean, you probably need"
+    },
+    {
+      "start": 3602.96,
+      "end": 3607.04,
+      "text": "a scientist to truly answer a geologist. Well, you know more than we do, so we'll go with your answer."
+    },
+    {
+      "start": 3607.68,
+      "end": 3615.76,
+      "text": "But yeah, I mean, I think you can have surprises. I don't think there's much as you, I mean,"
+    },
+    {
+      "start": 3615.76,
+      "end": 3620.88,
+      "text": "we know there's things in areas where, you know, they're harder to reach, or it just, you know,"
+    },
+    {
+      "start": 3621.28,
+      "end": 3626.8,
+      "text": "we don't want to take down mountains or, you know, whatever. So there is more out there than"
+    },
+    {
+      "start": 3626.8,
+      "end": 3632.0,
+      "text": "is technically available, and it'd be sad if we start stripping that. But could you have a surprise?"
+    },
+    {
+      "start": 3633.6,
+      "end": 3637.92,
+      "text": "Yeah, you could have some surprises. I mean, we've seen that over the last 20 years where we didn't"
+    },
+    {
+      "start": 3637.92,
+      "end": 3643.12,
+      "text": "think there was accessible oil, and suddenly there was not just technology, but yes, new,"
+    },
+    {
+      "start": 3643.12,
+      "end": 3648.08,
+      "text": "you know, we find new ways to discover things and all of that. So you can also go deeper and"
+    },
+    {
+      "start": 3648.08,
+      "end": 3654.3199999999997,
+      "text": "and this kind of thing. But I don't think that it's in terms of ease of getting stuff that, you"
+    },
+    {
+      "start": 3654.3199999999997,
+      "end": 3658.24,
+      "text": "know, I would be surprised by all of a sudden, we discover a mountain of gold somewhere that,"
+    },
+    {
+      "start": 3658.24,
+      "end": 3661.52,
+      "text": "you know, we never found before. We've been looking for it for 5,000 years. So"
+    },
+    {
+      "start": 3662.3199999999997,
+      "end": 3669.6,
+      "text": "harness that astro. Yeah, and we kind of know where the oil is, you know, more or less. I mean,"
+    },
+    {
+      "start": 3669.6,
+      "end": 3674.0,
+      "text": "you go into regions where you, you know, we drill a lot of holes, and now it's time to move on"
+    },
+    {
+      "start": 3674.08,
+      "end": 3678.0,
+      "text": "to a new region. And, you know, you can go, oh, there's a little more here than we thought. But,"
+    },
+    {
+      "start": 3678.0,
+      "end": 3682.96,
+      "text": "but, you know, the oil industry knows like, okay, if we, you know, here's where we need to go. I"
+    },
+    {
+      "start": 3682.96,
+      "end": 3688.8,
+      "text": "think they've kind of tapped, you know, tapped what's there. So I think generally that's going to"
+    },
+    {
+      "start": 3688.8,
+      "end": 3697.28,
+      "text": "be few and far between, but never say never. I did read that we've only, I think it was like 150th"
+    },
+    {
+      "start": 3697.28,
+      "end": 3702.0800000000004,
+      "text": "the amount of like holes drilled into Africa and then kind of the rest of the geography."
+    },
+    {
+      "start": 3704.0,
+      "end": 3708.96,
+      "text": "Yeah, well, that's, yeah, that's one area you could have surprised harder to get in there."
+    },
+    {
+      "start": 3708.96,
+      "end": 3715.92,
+      "text": "And, but a lot of, yeah, a lot of commodities coming out of Africa too. And Guiana is one of the big,"
+    },
+    {
+      "start": 3717.0400000000004,
+      "end": 3722.2400000000002,
+      "text": "you know, oil success stories of late and nobody would have thought that, that 10 years ago. So"
+    },
+    {
+      "start": 3722.32,
+      "end": 3729.28,
+      "text": "I think a lot of it is not just unnecessarily undiscovered, but the will to, to go in and the,"
+    },
+    {
+      "start": 3730.0800000000004,
+      "end": 3735.6800000000003,
+      "text": "the ease versus complexity of getting in somewhere. It gets important enough. I think we go get it."
+    },
+    {
+      "start": 3735.6800000000003,
+      "end": 3741.76,
+      "text": "Yeah, that's true. Well, yes. What about rare earth minerals are there? It seems like anything"
+    },
+    {
+      "start": 3741.76,
+      "end": 3747.6800000000003,
+      "text": "we want to do technologically requires some like rare earth minerals. And the US has been quite good"
+    },
+    {
+      "start": 3747.6800000000003,
+      "end": 3751.92,
+      "text": "at finding them off to the fact that I sort of wonder, what's the story there?"
+    },
+    {
+      "start": 3752.6400000000003,
+      "end": 3755.5200000000004,
+      "text": "Well, I think they must be all in Greenland because that's the only thing."
+    },
+    {
+      "start": 3757.36,
+      "end": 3763.6000000000004,
+      "text": "Yeah, I know that's, that's a critical security challenge. I mean, I think there's more here"
+    },
+    {
+      "start": 3765.2000000000003,
+      "end": 3769.6800000000003,
+      "text": "that, you know, I think we're starting to realize we do have the ability, not well, not just"
+    },
+    {
+      "start": 3769.6800000000003,
+      "end": 3774.6400000000003,
+      "text": "in the United States, but in US interests around the world to get it. Then maybe some of the worst"
+    },
+    {
+      "start": 3774.64,
+      "end": 3779.6,
+      "text": "fears, but, you know, China does have a substantial amount of the rare earths. And so I've said,"
+    },
+    {
+      "start": 3779.6,
+      "end": 3784.4,
+      "text": "I was saying, you know, cooperation probably goes a lot longer. There are a lot, it would work a lot"
+    },
+    {
+      "start": 3784.4,
+      "end": 3790.48,
+      "text": "better for us than being adversarial. But, no, that's, that's critical. And you look at things like,"
+    },
+    {
+      "start": 3791.3599999999997,
+      "end": 3796.48,
+      "text": "you know, just lithium and cobalt. Lithium is one of the best performing commodities this year."
+    },
+    {
+      "start": 3796.48,
+      "end": 3802.24,
+      "text": "Everybody's talking about fossil fuels, but I think lithium's up about 45 to 55% depending on the day."
+    },
+    {
+      "start": 3802.2400000000002,
+      "end": 3807.92,
+      "text": "And yeah, we'll, we'll continue to see that and we'll continue to see that with other minerals"
+    },
+    {
+      "start": 3807.92,
+      "end": 3815.44,
+      "text": "that are hard to pronounce. And most of us have never heard of. Hey, John, we're coming up on time."
+    },
+    {
+      "start": 3815.44,
+      "end": 3819.92,
+      "text": "If folks want to follow along with what you're doing or get in touch, what's the best way of doing that?"
+    },
+    {
+      "start": 3820.5600000000004,
+      "end": 3829.6800000000003,
+      "text": "Please go to uscfinvestments.com. USCF, short for United States commodity funds. USCFinvestments.com."
+    },
+    {
+      "start": 3830.6400000000003,
+      "end": 3837.6000000000004,
+      "text": "That's John Love. He's the president and CEO of USCF Investments. JT, any final words?"
+    },
+    {
+      "start": 3839.84,
+      "end": 3848.7200000000003,
+      "text": "Loser. Be good to everybody. Folks, it's some of occasion here in Los Angeles. We're going to be taking"
+    },
+    {
+      "start": 3848.7200000000003,
+      "end": 3853.84,
+      "text": "a break for the next four weeks. We may be sending some letters from the"
+    },
+    {
+      "start": 3853.84,
+      "end": 3867.44,
+      "text": "USCF Investments. We'll see everybody on the other side. Until then, have a good break."
+    }
+  ]
+}

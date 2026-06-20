@@ -1,0 +1,804 @@
+{
+  "generated_at": "2026-06-19T22:14:32.251599+00:00",
+  "sample": false,
+  "nodes": [
+    {
+      "id": "Anjney Midha",
+      "type": "person",
+      "val": 1,
+      "color": "#3FB8C4"
+    },
+    {
+      "id": "AMP PBC",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "Anthropic",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "OpenAI",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "Google DeepMind",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "Nvidia",
+      "type": "company",
+      "val": 2,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "AMD",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "TSMC",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "Microsoft",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "ByteDance",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "Periodic Labs",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "OpenRouter",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "Discord",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "Uber",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "Colossus 2 (xAI)",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "compute/GPU infrastructure",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "AI model commodification",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "data center utilization",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "GPU compute",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "~10x effective cost vs marketed rate due to utilization waste",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "Frontier AI models",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "the 'only three frontier models' narrative—there are ~17 frontiers",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "~80% of lab R&D dollars flowing to it; labs building custom silicon for independence",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "Long-term compute rental prices",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "up ~2x in six months, resellable at 2x markup",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "AI models for enterprises",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "will be commodified/abstracted; companies don't care which model",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "Coding/verifiable workflows",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "fastest AI progress due to verifiable feedback loops",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "Financialization of compute",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "speculation would create harmful scarcity for research teams",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "AI model market",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "likely commodified rather than winner-take-all",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "EQT Group",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "Jean Eric Salata",
+      "type": "person",
+      "val": 1,
+      "color": "#3FB8C4"
+    },
+    {
+      "id": "BPEA (Baring Private Equity Asia)",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "Wallenberg family",
+      "type": "person",
+      "val": 1,
+      "color": "#3FB8C4"
+    },
+    {
+      "id": "EdgeConnex",
+      "type": "company",
+      "val": 2,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "Adani Group",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "Galderma",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "Color Capital",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "Japan",
+      "type": "macro",
+      "val": 2,
+      "color": "#B0894F"
+    },
+    {
+      "id": "India",
+      "type": "macro",
+      "val": 2,
+      "color": "#B0894F"
+    },
+    {
+      "id": "China",
+      "type": "macro",
+      "val": 2,
+      "color": "#B0894F"
+    },
+    {
+      "id": "AI infrastructure",
+      "type": "theme",
+      "val": 2,
+      "color": "#D8584E"
+    },
+    {
+      "id": "energy transition",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "private equity secondaries",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "data centers",
+      "type": "sector",
+      "val": 1,
+      "color": "#B8733A"
+    },
+    {
+      "id": "healthcare",
+      "type": "sector",
+      "val": 1,
+      "color": "#B8733A"
+    },
+    {
+      "id": "Japanese buyout market",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "deal flow up 60% YTD, activist campaigns doubled",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "single biggest global investment opportunity for EQT",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "US asset concentration",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "investors over-concentrated at 85-90% US",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "consumer, housing finance and healthcare growth",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "energy transition in Asia/Europe",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "reaching cost-competitive tipping point",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "EQT exits",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "record $40B distributions, #1 ECM PE firm",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "evergreen/secondary structures",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "highest-growth part of business and industry",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "US-China cost of compute differential",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "emerging ROI focus to watch",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "20x capacity growth, 90+ data centers globally",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "Tracy Alloway",
+      "type": "person",
+      "val": 1,
+      "color": "#3FB8C4"
+    },
+    {
+      "id": "Joe Weisenthal",
+      "type": "person",
+      "val": 1,
+      "color": "#3FB8C4"
+    },
+    {
+      "id": "Strait of Hormuz",
+      "type": "macro",
+      "val": 1,
+      "color": "#B0894F"
+    },
+    {
+      "id": "Iran",
+      "type": "macro",
+      "val": 1,
+      "color": "#B0894F"
+    },
+    {
+      "id": "Crude oil",
+      "type": "asset",
+      "val": 1,
+      "color": "#1e8e5a"
+    },
+    {
+      "id": "US Strategic Petroleum Reserve",
+      "type": "asset",
+      "val": 1,
+      "color": "#1e8e5a"
+    },
+    {
+      "id": "Gold",
+      "type": "asset",
+      "val": 2,
+      "color": "#1e8e5a"
+    },
+    {
+      "id": "Helium",
+      "type": "asset",
+      "val": 1,
+      "color": "#1e8e5a"
+    },
+    {
+      "id": "Korea",
+      "type": "macro",
+      "val": 1,
+      "color": "#B0894F"
+    },
+    {
+      "id": "Taiwan",
+      "type": "macro",
+      "val": 1,
+      "color": "#B0894F"
+    },
+    {
+      "id": "Hong Kong",
+      "type": "macro",
+      "val": 1,
+      "color": "#B0894F"
+    },
+    {
+      "id": "Southeast Asia",
+      "type": "macro",
+      "val": 1,
+      "color": "#B0894F"
+    },
+    {
+      "id": "Semiconductors",
+      "type": "sector",
+      "val": 1,
+      "color": "#B8733A"
+    },
+    {
+      "id": "Agriculture/food",
+      "type": "sector",
+      "val": 1,
+      "color": "#B8733A"
+    },
+    {
+      "id": "AI capex",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "Chokepoint economy",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "JP Morgan",
+      "type": "company",
+      "val": 1,
+      "color": "#6E59D9"
+    },
+    {
+      "id": "US SPR",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "approaching operational minimum, limited buffer left",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "China oil demand",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "fell ~9% (1.5M bbl/day) via demand destruction",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "Korea/Taiwan chip demand",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "resilient regardless of dollar strength due to AI buildout",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "Helium supply",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "inelastic chokepoint risk for chip manufacturing",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "Southeast Asia food supply",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "delayed crisis as farmers skip planting over diesel costs",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "weakness possibly from EM central banks selling to fund oil",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "US inflation",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "building from oil plus data center spending",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "Sanctions effectiveness",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "called into question by resilient North Korea economy",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "Stockpiling/redundancy",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    },
+    {
+      "id": "structurally inflationary as everyone builds capacity at once",
+      "type": "theme",
+      "val": 1,
+      "color": "#D8584E"
+    }
+  ],
+  "links": [
+    {
+      "source": "GPU compute",
+      "target": "~10x effective cost vs marketed rate due to utilization waste",
+      "stance": "exposed-to",
+      "color": "#6E59D9",
+      "by": "Anjney Midha",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "Frontier AI models",
+      "target": "the 'only three frontier models' narrative—there are ~17 frontiers",
+      "stance": "disagrees",
+      "color": "#b0894f",
+      "by": "Anjney Midha",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "Nvidia",
+      "target": "~80% of lab R&D dollars flowing to it; labs building custom silicon for independence",
+      "stance": "bearish",
+      "color": "#d8584e",
+      "by": "Anjney Midha",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "Long-term compute rental prices",
+      "target": "up ~2x in six months, resellable at 2x markup",
+      "stance": "bullish",
+      "color": "#1e8e5a",
+      "by": "Anjney Midha",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "AI models for enterprises",
+      "target": "will be commodified/abstracted; companies don't care which model",
+      "stance": "bearish",
+      "color": "#d8584e",
+      "by": "Anjney Midha",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "Coding/verifiable workflows",
+      "target": "fastest AI progress due to verifiable feedback loops",
+      "stance": "bullish",
+      "color": "#1e8e5a",
+      "by": "Anjney Midha",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "Financialization of compute",
+      "target": "speculation would create harmful scarcity for research teams",
+      "stance": "bearish",
+      "color": "#d8584e",
+      "by": "Anjney Midha",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "AI model market",
+      "target": "likely commodified rather than winner-take-all",
+      "stance": "neutral",
+      "color": "#8A93A6",
+      "by": "Tracy Alloway",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "Japanese buyout market",
+      "target": "deal flow up 60% YTD, activist campaigns doubled",
+      "stance": "bullish",
+      "color": "#1e8e5a",
+      "by": "Jean Eric Salata",
+      "show": "Masters in Business"
+    },
+    {
+      "source": "AI infrastructure",
+      "target": "single biggest global investment opportunity for EQT",
+      "stance": "bullish",
+      "color": "#1e8e5a",
+      "by": "Jean Eric Salata",
+      "show": "Masters in Business"
+    },
+    {
+      "source": "US asset concentration",
+      "target": "investors over-concentrated at 85-90% US",
+      "stance": "bearish",
+      "color": "#d8584e",
+      "by": "Jean Eric Salata",
+      "show": "Masters in Business"
+    },
+    {
+      "source": "India",
+      "target": "consumer, housing finance and healthcare growth",
+      "stance": "bullish",
+      "color": "#1e8e5a",
+      "by": "Jean Eric Salata",
+      "show": "Masters in Business"
+    },
+    {
+      "source": "energy transition in Asia/Europe",
+      "target": "reaching cost-competitive tipping point",
+      "stance": "bullish",
+      "color": "#1e8e5a",
+      "by": "Jean Eric Salata",
+      "show": "Masters in Business"
+    },
+    {
+      "source": "EQT exits",
+      "target": "record $40B distributions, #1 ECM PE firm",
+      "stance": "bullish",
+      "color": "#1e8e5a",
+      "by": "Jean Eric Salata",
+      "show": "Masters in Business"
+    },
+    {
+      "source": "evergreen/secondary structures",
+      "target": "highest-growth part of business and industry",
+      "stance": "bullish",
+      "color": "#1e8e5a",
+      "by": "Jean Eric Salata",
+      "show": "Masters in Business"
+    },
+    {
+      "source": "US-China cost of compute differential",
+      "target": "emerging ROI focus to watch",
+      "stance": "neutral",
+      "color": "#8A93A6",
+      "by": "Jean Eric Salata",
+      "show": "Masters in Business"
+    },
+    {
+      "source": "EdgeConnex",
+      "target": "20x capacity growth, 90+ data centers globally",
+      "stance": "exposed-to",
+      "color": "#6E59D9",
+      "by": "Jean Eric Salata",
+      "show": "Masters in Business"
+    },
+    {
+      "source": "US SPR",
+      "target": "approaching operational minimum, limited buffer left",
+      "stance": "exposed-to",
+      "color": "#6E59D9",
+      "by": "Tracy Alloway / Joe Weisenthal",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "China oil demand",
+      "target": "fell ~9% (1.5M bbl/day) via demand destruction",
+      "stance": "bearish",
+      "color": "#d8584e",
+      "by": "Tracy Alloway",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "Korea/Taiwan chip demand",
+      "target": "resilient regardless of dollar strength due to AI buildout",
+      "stance": "bullish",
+      "color": "#1e8e5a",
+      "by": "Joe Weisenthal",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "Helium supply",
+      "target": "inelastic chokepoint risk for chip manufacturing",
+      "stance": "exposed-to",
+      "color": "#6E59D9",
+      "by": "Joe Weisenthal",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "Southeast Asia food supply",
+      "target": "delayed crisis as farmers skip planting over diesel costs",
+      "stance": "bearish",
+      "color": "#d8584e",
+      "by": "Joe Weisenthal / Wanha",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "Gold",
+      "target": "weakness possibly from EM central banks selling to fund oil",
+      "stance": "bearish",
+      "color": "#d8584e",
+      "by": "Tracy Alloway",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "US inflation",
+      "target": "building from oil plus data center spending",
+      "stance": "bullish",
+      "color": "#1e8e5a",
+      "by": "Joe Weisenthal",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "Sanctions effectiveness",
+      "target": "called into question by resilient North Korea economy",
+      "stance": "bearish",
+      "color": "#d8584e",
+      "by": "Joe Weisenthal",
+      "show": "Odd Lots"
+    },
+    {
+      "source": "Stockpiling/redundancy",
+      "target": "structurally inflationary as everyone builds capacity at once",
+      "stance": "bullish",
+      "color": "#1e8e5a",
+      "by": "Tracy Alloway",
+      "show": "Odd Lots"
+    }
+  ]
+}

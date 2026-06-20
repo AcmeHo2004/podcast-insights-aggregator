@@ -1,0 +1,3286 @@
+{
+  "id": "ac412fc8259ab785",
+  "show": "Odd Lots",
+  "theme": "Macro & Rates",
+  "title": "Why Susquehanna Is Building a Prediction Markets Business",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ba11bcd6-2009-4d79-98f8-b46001259850/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+  "source": "feed",
+  "duration": 1884.2,
+  "segments": [
+    {
+      "start": 0.24,
+      "end": 16.52,
+      "text": "Speaker 1: Bloomberg Audio Studios, Podcasts, Radio News."
+    },
+    {
+      "start": 18.12,
+      "end": 21.52,
+      "text": "Speaker 2: Hello and welcome to another episode of the Odd Lots podcast."
+    },
+    {
+      "start": 21.56,
+      "end": 23.92,
+      "text": "Speaker 3: I'm Jill Wisenthal and I'm Tracy Alloway."
+    },
+    {
+      "start": 24.16,
+      "end": 27.6,
+      "text": "Speaker 2: So, Tracy, we're still rolling out shows from our live"
+    },
+    {
+      "start": 27.72,
+      "end": 30.48,
+      "text": "Speaker 2: show on May twenty eighth in New York City at"
+    },
+    {
+      "start": 30.52,
+      "end": 34.56,
+      "text": "Speaker 2: City Winery. As we discussed in our last episode from"
+    },
+    {
+      "start": 34.56,
+      "end": 37.199,
+      "text": "Speaker 2: this show, it had a sort of future of markets,"
+    },
+    {
+      "start": 37.24,
+      "end": 41.08,
+      "text": "Speaker 2: future of trading theme to the night's conversation."
+    },
+    {
+      "start": 40.76,
+      "end": 43.519,
+      "text": "Speaker 3: Right, and if you're talking about future of markets and trading,"
+    },
+    {
+      "start": 43.64,
+      "end": 45.239,
+      "text": "Speaker 3: we have to talk prediction markets, right."
+    },
+    {
+      "start": 45.32,
+      "end": 48.36,
+      "text": "Speaker 2: Yeah, that's right. So in addition to the fact that"
+    },
+    {
+      "start": 48.4,
+      "end": 51.48,
+      "text": "Speaker 2: there is the quote AI trade unquote, the other big"
+    },
+    {
+      "start": 51.479,
+      "end": 55.12,
+      "text": "Speaker 2: thing going on in markets is the sheer explosion of"
+    },
+    {
+      "start": 55.32,
+      "end": 58.52,
+      "text": "Speaker 2: instruments with which people can trade. Right. So it's like"
+    },
+    {
+      "start": 58.56,
+      "end": 61.56,
+      "text": "Speaker 2: you used to have stocks and options, and then the"
+    },
+    {
+      "start": 61.6,
+      "end": 64.6,
+      "text": "Speaker 2: options started getting more exotic, like zero day options, which"
+    },
+    {
+      "start": 64.6,
+      "end": 67.24,
+      "text": "Speaker 2: you love and so forth. But now it's like, if"
+    },
+    {
+      "start": 67.28,
+      "end": 70.6,
+      "text": "Speaker 2: you could think of something that would resolve in some way,"
+    },
+    {
+      "start": 71.319,
+      "end": 75.0,
+      "text": "Speaker 2: whether it is snowfall in New York City, Tesla deliveries,"
+    },
+    {
+      "start": 75.48,
+      "end": 78.319,
+      "text": "Speaker 2: or how long a halftime show is at the Super Bowl,"
+    },
+    {
+      "start": 78.48,
+      "end": 80.44,
+      "text": "Speaker 2: there probably is a way to bet on it."
+    },
+    {
+      "start": 80.4,
+      "end": 82.92,
+      "text": "Speaker 3: Right, And so one of the big questions is whether"
+    },
+    {
+      "start": 83.0,
+      "end": 85.039,
+      "text": "Speaker 3: or not these markets are going to take off from"
+    },
+    {
+      "start": 85.08,
+      "end": 87.6,
+      "text": "Speaker 3: an institutional perspective, whether or not you're going to see"
+    },
+    {
+      "start": 87.6,
+      "end": 91.12,
+      "text": "Speaker 3: more professional investors get into the business of betting on"
+    },
+    {
+      "start": 91.4,
+      "end": 94.92,
+      "text": "Speaker 3: not just snowfall in New York, but maybe halftime shows"
+    },
+    {
+      "start": 95.28,
+      "end": 98.56,
+      "text": "Speaker 3: and that sort of thing. But that said, we do"
+    },
+    {
+      "start": 98.68,
+      "end": 102.36,
+      "text": "Speaker 3: have some institutional participation in the market already, because you"
+    },
+    {
+      "start": 102.44,
+      "end": 104.47999999999999,
+      "text": "Speaker 3: have market makers that are starting to come in to"
+    },
+    {
+      "start": 104.56,
+      "end": 106.6,
+      "text": "Speaker 3: try to make these markets more liquid."
+    },
+    {
+      "start": 106.72,
+      "end": 108.96000000000001,
+      "text": "Speaker 2: Yeah, but you're really and just said the key thing here,"
+    },
+    {
+      "start": 109.0,
+      "end": 111.24000000000001,
+      "text": "Speaker 2: which is, we know there's like a ton of liquidity"
+    },
+    {
+      "start": 111.32,
+      "end": 114.32,
+      "text": "Speaker 2: for like the sports betting, et cetera. Like that's not"
+    },
+    {
+      "start": 114.44,
+      "end": 116.68,
+      "text": "Speaker 2: the problem that needs to be solved. It's these other"
+    },
+    {
+      "start": 116.8,
+      "end": 120.64,
+      "text": "Speaker 2: things where in theory these might be useful instruments for"
+    },
+    {
+      "start": 120.72,
+      "end": 123.76,
+      "text": "Speaker 2: hedging some sort of economic risk. Maybe not the Taylor"
+    },
+    {
+      "start": 123.8,
+      "end": 125.64,
+      "text": "Speaker 2: Swift one or the half type of show ones, but"
+    },
+    {
+      "start": 125.72,
+      "end": 128.28,
+      "text": "Speaker 2: some of these other ones. But like, in theory, some"
+    },
+    {
+      "start": 128.36,
+      "end": 131.919,
+      "text": "Speaker 2: of these contracts could be useful for hedging, And so"
+    },
+    {
+      "start": 131.96,
+      "end": 134.36,
+      "text": "Speaker 2: the question is, yeah, but will anyone use them? And"
+    },
+    {
+      "start": 134.4,
+      "end": 137.48,
+      "text": "Speaker 2: so on this discussion, we really had the pleasure of"
+    },
+    {
+      "start": 137.52,
+      "end": 140.84,
+      "text": "Speaker 2: someone who has got very little media in general and"
+    },
+    {
+      "start": 141.2,
+      "end": 143.8,
+      "text": "Speaker 2: who is right in the heart of trying to essentially"
+    },
+    {
+      "start": 144.04,
+      "end": 147.359,
+      "text": "Speaker 2: solve this chicken and egg problem. Listen to our conversation"
+    },
+    {
+      "start": 147.52,
+      "end": 150.96,
+      "text": "Speaker 2: with Jeremy Malletts, the head of Prediction Markets at Susquehanna"
+    },
+    {
+      "start": 151.07999999999998,
+      "end": 153.96,
+      "text": "Speaker 2: International Group. All Right, why don't you tell us just"
+    },
+    {
+      "start": 154.04,
+      "end": 158.68,
+      "text": "Speaker 2: let's start really simply, what does the prediction markets desk"
+    },
+    {
+      "start": 158.72,
+      "end": 159.639,
+      "text": "Speaker 2: at Suskahanna do."
+    },
+    {
+      "start": 160.6,
+      "end": 165.4,
+      "text": "Speaker 4: So essentially, the main function that we do is market making."
+    },
+    {
+      "start": 165.52,
+      "end": 168.44,
+      "text": "Speaker 4: So we're the main liquidity provider, one of the main"
+    },
+    {
+      "start": 168.48,
+      "end": 171.36,
+      "text": "Speaker 4: liquidity providers on quite a lot of platforms, and that"
+    },
+    {
+      "start": 171.44,
+      "end": 174.24,
+      "text": "Speaker 4: means we're we're providing liquity and everything from sports to"
+    },
+    {
+      "start": 174.36,
+      "end": 176.8,
+      "text": "Speaker 4: economics to politics."
+    },
+    {
+      "start": 177.0,
+      "end": 178.68,
+      "text": "Speaker 5: But I'd say also a big part."
+    },
+    {
+      "start": 178.56,
+      "end": 181.44,
+      "text": "Speaker 4: Of what we do is we were the first institution"
+    },
+    {
+      "start": 181.639,
+      "end": 184.04,
+      "text": "Speaker 4: that got involved in prediction markets in the first place,"
+    },
+    {
+      "start": 184.48,
+      "end": 187.639,
+      "text": "Speaker 4: so we're really trying to have a role of kind"
+    },
+    {
+      "start": 187.68,
+      "end": 190.68,
+      "text": "Speaker 4: of being a shepherd for other institutions as they get involved."
+    },
+    {
+      "start": 190.68,
+      "end": 193.32,
+      "text": "Speaker 4: So I'd say it's a two pronged goal really of"
+    },
+    {
+      "start": 193.919,
+      "end": 196.84,
+      "text": "Speaker 4: providing the liquidity for the ecosystem to help it to grow,"
+    },
+    {
+      "start": 197.2,
+      "end": 200.72,
+      "text": "Speaker 4: and then bringing others into the ecosystem, which I think"
+    },
+    {
+      "start": 200.72,
+      "end": 203.16,
+      "text": "Speaker 4: has been one of possibly even the more important role"
+    },
+    {
+      "start": 203.2,
+      "end": 204.44,
+      "text": "Speaker 4: of what we've done to this point in time."
+    },
+    {
+      "start": 204.84,
+      "end": 207.92000000000002,
+      "text": "Speaker 3: Wait, can I ask an even simpler question, which is"
+    },
+    {
+      "start": 207.96,
+      "end": 210.88,
+      "text": "Speaker 3: I kind of feel like Susquehanna is like the salesforce"
+    },
+    {
+      "start": 211.04,
+      "end": 213.2,
+      "text": "Speaker 3: of the finance world, where I have this like vague"
+    },
+    {
+      "start": 213.24,
+      "end": 216.36,
+      "text": "Speaker 3: idea of what you do, but also not really what"
+    },
+    {
+      "start": 216.4,
+      "end": 217.48,
+      "text": "Speaker 3: does Susquehanna do."
+    },
+    {
+      "start": 219.32,
+      "end": 219.56,
+      "text": "Speaker 5: Well?"
+    },
+    {
+      "start": 219.8,
+      "end": 222.72,
+      "text": "Speaker 4: My wife asked me the same thing. It's her birthday,"
+    },
+    {
+      "start": 222.76,
+      "end": 224.07999999999998,
+      "text": "Speaker 4: by the way, so happy burdge to her."
+    },
+    {
+      "start": 224.4,
+      "end": 230.48,
+      "text": "Speaker 5: But it's incredible that you're here. I know, I owe"
+    },
+    {
+      "start": 230.48,
+      "end": 231.12,
+      "text": "Speaker 5: her big time."
+    },
+    {
+      "start": 232.36,
+      "end": 235.8,
+      "text": "Speaker 4: So we're primarily a market making firm, and our bread"
+    },
+    {
+      "start": 235.8,
+      "end": 239.32,
+      "text": "Speaker 4: and butter has always been options, So we make markets"
+    },
+    {
+      "start": 239.32,
+      "end": 243.28,
+      "text": "Speaker 4: in pretty much every option eq equity options. But obviously"
+    },
+    {
+      "start": 243.36,
+      "end": 245.72,
+      "text": "Speaker 4: we trade a lot of instruments across a lot of things,"
+    },
+    {
+      "start": 246.2,
+      "end": 249.24,
+      "text": "Speaker 4: and we just we have a culture overall that's very"
+    },
+    {
+      "start": 249.32,
+      "end": 252.48,
+      "text": "Speaker 4: much looking for new opportunities and thinking about things and"
+    },
+    {
+      "start": 252.52,
+      "end": 256.56,
+      "text": "Speaker 4: probabilities and kind of you know, it all starts from Jeffioss,"
+    },
+    {
+      "start": 256.6,
+      "end": 260.16,
+      "text": "Speaker 4: our founder. He loves things like prediction markets. So you know,"
+    },
+    {
+      "start": 260.24,
+      "end": 262.84,
+      "text": "Speaker 4: we have a lot of random businesses at Susquehanna all"
+    },
+    {
+      "start": 262.88,
+      "end": 265.36,
+      "text": "Speaker 4: over the place. You wouldn't believe the number of things"
+    },
+    {
+      "start": 265.4,
+      "end": 267.96,
+      "text": "Speaker 4: that we do randomly, And it all comes back to"
+    },
+    {
+      "start": 267.96,
+      "end": 271.119,
+      "text": "Speaker 4: the same culture we have of thinking in Baysian probabilities"
+    },
+    {
+      "start": 271.12,
+      "end": 273.76,
+      "text": "Speaker 4: and trying to think of everything in terms of break"
+    },
+    {
+      "start": 273.76,
+      "end": 276.76,
+      "text": "Speaker 4: it down into what the odds are. But the bread"
+    },
+    {
+      "start": 276.8,
+      "end": 279.4,
+      "text": "Speaker 4: and butter remains market making, and we try to use"
+    },
+    {
+      "start": 279.4,
+      "end": 281.52,
+      "text": "Speaker 4: that to kind of make a market or bring a"
+    },
+    {
+      "start": 281.56,
+      "end": 283.56,
+      "text": "Speaker 4: market to any asset class we're looking at."
+    },
+    {
+      "start": 283.839,
+      "end": 288.28,
+      "text": "Speaker 2: Let's talk about Okay, there's some contract out there. Who"
+    },
+    {
+      "start": 288.36,
+      "end": 292.6,
+      "text": "Speaker 2: is gonna win, you know, the Texas Primary Like, let's"
+    },
+    {
+      "start": 292.64,
+      "end": 296.36,
+      "text": "Speaker 2: just say why you know? And so there's an exchange"
+    },
+    {
+      "start": 296.4,
+      "end": 299.52,
+      "text": "Speaker 2: and there's an instrument and it's either going to end"
+    },
+    {
+      "start": 299.52,
+      "end": 302.12,
+      "text": "Speaker 2: it a hunt or zero, et cetera. Why does this"
+    },
+    {
+      "start": 302.52,
+      "end": 306.6,
+      "text": "Speaker 2: market need market makers? Why can't it be entirely peer"
+    },
+    {
+      "start": 306.64,
+      "end": 308.76,
+      "text": "Speaker 2: to peer such that if all of us in the"
+    },
+    {
+      "start": 308.839,
+      "end": 310.96,
+      "text": "Speaker 2: room just wanted to trade, we make a price amongst"
+    },
+    {
+      "start": 311.0,
+      "end": 314.64,
+      "text": "Speaker 2: each other on an exchange. Why is a market maker"
+    },
+    {
+      "start": 314.68,
+      "end": 317.24,
+      "text": "Speaker 2: an important part of the infrastructure for this to work."
+    },
+    {
+      "start": 318.0,
+      "end": 320.44,
+      "text": "Speaker 4: So if you have a market where you have an"
+    },
+    {
+      "start": 320.44,
+      "end": 322.719,
+      "text": "Speaker 4: insane amount of people that are all trying to trade"
+    },
+    {
+      "start": 322.8,
+      "end": 325.12,
+      "text": "Speaker 4: all the time, you might be able to make."
+    },
+    {
+      "start": 325.04,
+      "end": 326.32,
+      "text": "Speaker 5: It work without a market maker."
+    },
+    {
+      "start": 326.4,
+      "end": 329.2,
+      "text": "Speaker 4: Okay, But what a market maker is really doing is"
+    },
+    {
+      "start": 329.32,
+      "end": 332.4,
+      "text": "Speaker 4: it's helping to bridge the gap between the different people"
+    },
+    {
+      "start": 332.4,
+      "end": 334.8,
+      "text": "Speaker 4: who are trying to trade. So, Joe, you might want"
+    },
+    {
+      "start": 334.839,
+      "end": 337.159,
+      "text": "Speaker 4: to trade now, and Tracy might want to trade in"
+    },
+    {
+      "start": 337.2,
+      "end": 339.6,
+      "text": "Speaker 4: an hour, right, but if there's no if but that"
+    },
+    {
+      "start": 339.64,
+      "end": 342.68,
+      "text": "Speaker 4: doesn't help. That doesn't help you if she's not there now."
+    },
+    {
+      "start": 342.8,
+      "end": 345.28,
+      "text": "Speaker 4: So we're basically saying, hey, we're going to be there"
+    },
+    {
+      "start": 345.32,
+      "end": 347.12,
+      "text": "Speaker 4: when you want to trade, and then we're going to"
+    },
+    {
+      "start": 347.2,
+      "end": 349.039,
+      "text": "Speaker 4: wait and when Tracy wants to trade, we'll take the"
+    },
+    {
+      "start": 349.08,
+      "end": 351.56,
+      "text": "Speaker 4: other side of it. So we're basically a function that"
+    },
+    {
+      "start": 351.72,
+      "end": 354.68,
+      "text": "Speaker 4: matches the buyers to the sellers across time and also"
+    },
+    {
+      "start": 354.72,
+      "end": 355.56,
+      "text": "Speaker 4: across size."
+    },
+    {
+      "start": 356.52,
+      "end": 359.24,
+      "text": "Speaker 3: So how big does your balance sheet have to be"
+    },
+    {
+      "start": 359.32,
+      "end": 362.24,
+      "text": "Speaker 3: to be like dedicated to this particular business, Like how"
+    },
+    {
+      "start": 362.32,
+      "end": 364.8,
+      "text": "Speaker 3: sizable are you with an entity like Calci?"
+    },
+    {
+      "start": 365.8,
+      "end": 368.64,
+      "text": "Speaker 4: So you know, it really depends on the way that"
+    },
+    {
+      "start": 368.68,
+      "end": 371.68,
+      "text": "Speaker 4: you do it. There's a lot of small, independent groups"
+    },
+    {
+      "start": 371.76,
+      "end": 374.64,
+      "text": "Speaker 4: or just individual people who are able to be out"
+    },
+    {
+      "start": 374.64,
+      "end": 376.68,
+      "text": "Speaker 4: there and they make markets and their goal is to"
+    },
+    {
+      "start": 376.68,
+      "end": 378.08,
+      "text": "Speaker 4: try to balance it, and they have to think a"
+    },
+    {
+      "start": 378.08,
+      "end": 381.12,
+      "text": "Speaker 4: lot about capital. We are very fortunate that capital isn't"
+    },
+    {
+      "start": 381.16,
+      "end": 383.84,
+      "text": "Speaker 4: generally constrained for us, right, So that's one of the"
+    },
+    {
+      "start": 383.88,
+      "end": 386.12,
+      "text": "Speaker 4: things that it's an advantage for us. But it's also"
+    },
+    {
+      "start": 386.16,
+      "end": 388.599,
+      "text": "Speaker 4: something we can bring to the market. We can provide"
+    },
+    {
+      "start": 388.76,
+      "end": 391.599,
+      "text": "Speaker 4: much much larger size on things. It's why we're well"
+    },
+    {
+      "start": 391.64,
+      "end": 395.279,
+      "text": "Speaker 4: suited to bootstrap a market and to do institutional type"
+    },
+    {
+      "start": 395.32,
+      "end": 398.4,
+      "text": "Speaker 4: size because we're not constrained by capital in that way."
+    },
+    {
+      "start": 398.2,
+      "end": 402.12,
+      "text": "Speaker 3: And do you generally try to stay like risk neutral. No."
+    },
+    {
+      "start": 403.8,
+      "end": 406.48,
+      "text": "Speaker 4: You know, I think that is pretty deeply in our"
+    },
+    {
+      "start": 406.52,
+      "end": 409.96,
+      "text": "Speaker 4: culture that obviously, all things equal, we would like to"
+    },
+    {
+      "start": 409.96,
+      "end": 412.44,
+      "text": "Speaker 4: be risk neutral, but we're willing to put ourselves out"
+    },
+    {
+      "start": 412.44,
+      "end": 416.15999999999997,
+      "text": "Speaker 4: there and wear a position, and in general, on our"
+    },
+    {
+      "start": 416.2,
+      "end": 418.599,
+      "text": "Speaker 4: options trading, we tend to wear house a lot of"
+    },
+    {
+      "start": 418.68,
+      "end": 422.12,
+      "text": "Speaker 4: risk for the street. Sometimes there's just something where everyone"
+    },
+    {
+      "start": 422.16,
+      "end": 424.44,
+      "text": "Speaker 4: needs to hedge risk in one direction and someone needs"
+    },
+    {
+      "start": 424.48,
+      "end": 426.44,
+      "text": "Speaker 4: to be on the other side of that, and that's"
+    },
+    {
+      "start": 426.48,
+      "end": 429.279,
+      "text": "Speaker 4: an important function in prediction markets, especially when you think"
+    },
+    {
+      "start": 429.279,
+      "end": 432.56,
+      "text": "Speaker 4: about use cases such as hedging where you've got some"
+    },
+    {
+      "start": 432.64,
+      "end": 435.64,
+      "text": "Speaker 4: global risks of the world. Everybody needs to hedge that"
+    },
+    {
+      "start": 435.76,
+      "end": 438.04,
+      "text": "Speaker 4: risk on one side. Someone needs to be on the"
+    },
+    {
+      "start": 438.04,
+      "end": 440.32,
+      "text": "Speaker 4: other side, and we're willing to hold ourselves out there"
+    },
+    {
+      "start": 440.36,
+      "end": 442.2,
+      "text": "Speaker 4: to do that. And you know, there's a lot of"
+    },
+    {
+      "start": 442.24,
+      "end": 444.48,
+      "text": "Speaker 4: pieces that go into being able to do that. Obviously,"
+    },
+    {
+      "start": 444.76,
+      "end": 447.44,
+      "text": "Speaker 4: when you're not neutral on a risk basis, you have"
+    },
+    {
+      "start": 447.48,
+      "end": 450.24,
+      "text": "Speaker 4: to be more confident that you're right. But you know,"
+    },
+    {
+      "start": 450.32,
+      "end": 452.0,
+      "text": "Speaker 4: that's a lot a big part of what our team"
+    },
+    {
+      "start": 452.04,
+      "end": 453.12,
+      "text": "Speaker 4: has driven to build."
+    },
+    {
+      "start": 454.28,
+      "end": 455.32,
+      "text": "Speaker 5: So this sort of."
+    },
+    {
+      "start": 455.6,
+      "end": 459.36,
+      "text": "Speaker 2: Leads into the next question, and it's maybe the multi"
+    },
+    {
+      "start": 459.36,
+      "end": 463.24,
+      "text": "Speaker 2: billion dollar question of prediction markets, which is, Okay, we"
+    },
+    {
+      "start": 463.36,
+      "end": 465.679,
+      "text": "Speaker 2: know that there is a huge amount of the prediction"
+    },
+    {
+      "start": 465.76,
+      "end": 469.64,
+      "text": "Speaker 2: markets business, which is just sports betting under a slightly"
+    },
+    {
+      "start": 469.68,
+      "end": 472.2,
+      "text": "Speaker 2: different form. But you mentioned hedging, and this gets to"
+    },
+    {
+      "start": 472.24,
+      "end": 475.0,
+      "text": "Speaker 2: the core question, which is, in theory, there are a"
+    },
+    {
+      "start": 475.04,
+      "end": 478.6,
+      "text": "Speaker 2: lot of instruments on these prediction market platforms that could"
+    },
+    {
+      "start": 478.68,
+      "end": 483.68,
+      "text": "Speaker 2: be useful hedging trurement for corporation, say a market on"
+    },
+    {
+      "start": 483.96,
+      "end": 487.56,
+      "text": "Speaker 2: snowfall in New York City, which might affect an airline"
+    },
+    {
+      "start": 487.64,
+      "end": 489.44,
+      "text": "Speaker 2: or something like that, maybe they want to hedge that."
+    },
+    {
+      "start": 490.04,
+      "end": 494.48,
+      "text": "Speaker 2: When I look at the platforms currently, I see a"
+    },
+    {
+      "start": 494.52,
+      "end": 497.92,
+      "text": "Speaker 2: price for like snowfall, but I don't see anywhere near"
+    },
+    {
+      "start": 498.0,
+      "end": 502.92,
+      "text": "Speaker 2: the volume level that say, would really justify like an airline."
+    },
+    {
+      "start": 502.96,
+      "end": 504.679,
+      "text": "Speaker 2: Could you know, you see one hundred and fifty thousand"
+    },
+    {
+      "start": 504.72,
+      "end": 507.24,
+      "text": "Speaker 2: dollars in volume on whether there'll be between six and"
+    },
+    {
+      "start": 507.28,
+      "end": 510.8,
+      "text": "Speaker 2: eight inches of snow. That's obviously nowhere near deep enough"
+    },
+    {
+      "start": 511.28,
+      "end": 514.76,
+      "text": "Speaker 2: for a serious economic actor to participate in. So where"
+    },
+    {
+      "start": 514.84,
+      "end": 517.84,
+      "text": "Speaker 2: are we on that in terms of the promise of"
+    },
+    {
+      "start": 518.559,
+      "end": 521.12,
+      "text": "Speaker 2: actually useful instruments for hedging."
+    },
+    {
+      "start": 521.6,
+      "end": 524.88,
+      "text": "Speaker 4: Right, So, when we first got involved in prediction markets,"
+    },
+    {
+      "start": 525.04,
+      "end": 528.44,
+      "text": "Speaker 4: our real role was to bootstrap the liquidity. There were"
+    },
+    {
+      "start": 528.44,
+      "end": 530.36,
+      "text": "Speaker 4: no institutions yet, and it was largely going to be"
+    },
+    {
+      "start": 530.36,
+      "end": 534.48,
+      "text": "Speaker 4: a retail product. We were bootstrapping for large volume retail liquidity."
+    },
+    {
+      "start": 535.08,
+      "end": 538.8,
+      "text": "Speaker 4: Now our next challenge is we want to bootstrap institutional liquidity."
+    },
+    {
+      "start": 538.88,
+      "end": 541.04,
+      "text": "Speaker 4: So yes, you might look at market that doesn't have"
+    },
+    {
+      "start": 541.16,
+      "end": 544.84,
+      "text": "Speaker 4: seem like it has enough volume for an institution to hedge,"
+    },
+    {
+      "start": 545.12,
+      "end": 547.6,
+      "text": "Speaker 4: you know, tens of millions of dollars of risk, but"
+    },
+    {
+      "start": 548.12,
+      "end": 550.68,
+      "text": "Speaker 4: that's you know, part of the reason that I'm out"
+    },
+    {
+      "start": 550.679,
+      "end": 553.48,
+      "text": "Speaker 4: here doing a podcast today is we're trying to make"
+    },
+    {
+      "start": 553.52,
+      "end": 556.199,
+      "text": "Speaker 4: sure that people start to understand this is viable and"
+    },
+    {
+      "start": 556.24,
+      "end": 558.56,
+      "text": "Speaker 4: we're putting ourselves out there that we will be willing"
+    },
+    {
+      "start": 558.6,
+      "end": 560.72,
+      "text": "Speaker 4: to put that kind of risk. And we can put"
+    },
+    {
+      "start": 560.72,
+      "end": 563.84,
+      "text": "Speaker 4: out that kind of risk on a contract where far"
+    },
+    {
+      "start": 563.92,
+      "end": 567.4,
+      "text": "Speaker 4: less volume is traded. And that's because what the prediction"
+    },
+    {
+      "start": 567.44,
+      "end": 571.88,
+      "text": "Speaker 4: markets really provide is information. It's a price discovery mechanism."
+    },
+    {
+      "start": 572.16,
+      "end": 576.2,
+      "text": "Speaker 4: So you have this phenomenal community of super forecasters that"
+    },
+    {
+      "start": 576.28,
+      "end": 579.64,
+      "text": "Speaker 4: exist on a prediction market, and it doesn't take as"
+    },
+    {
+      "start": 579.72,
+      "end": 581.96,
+      "text": "Speaker 4: much volume as you would think to get to a"
+    },
+    {
+      "start": 582.0,
+      "end": 585.76,
+      "text": "Speaker 4: fair price. And that allows us to say, hey, okay,"
+    },
+    {
+      "start": 585.8,
+      "end": 588.4,
+      "text": "Speaker 4: we've got a reasonably fair price on this prediction market."
+    },
+    {
+      "start": 588.4,
+      "end": 591.08,
+      "text": "Speaker 4: Maybe it's only traded one hundred thousand dollars, but we"
+    },
+    {
+      "start": 591.2,
+      "end": 593.08,
+      "text": "Speaker 4: know that there's been a lot of smart people that"
+    },
+    {
+      "start": 593.12,
+      "end": 595.24,
+      "text": "Speaker 4: have looked at this. We can do our own internal"
+    },
+    {
+      "start": 595.32,
+      "end": 598.8,
+      "text": "Speaker 4: vetting at the same time also, and now we're comfortable"
+    },
+    {
+      "start": 598.8,
+      "end": 601.16,
+      "text": "Speaker 4: going out there and saying we're confident enough in this"
+    },
+    {
+      "start": 601.24,
+      "end": 604.44,
+      "text": "Speaker 4: price because of the price discovery mechanism that will make"
+    },
+    {
+      "start": 604.64,
+      "end": 607.12,
+      "text": "Speaker 4: tens of millions of dollars of risk to a company"
+    },
+    {
+      "start": 607.16,
+      "end": 608.92,
+      "text": "Speaker 4: that needs to hedge its risk of what you know,"
+    },
+    {
+      "start": 608.96,
+      "end": 611.72,
+      "text": "Speaker 4: some regulation or straight up homoose or whatever it is"
+    },
+    {
+      "start": 611.76,
+      "end": 614.439,
+      "text": "Speaker 4: that's happening in the world. So you know, someone needs"
+    },
+    {
+      "start": 614.48,
+      "end": 615.719,
+      "text": "Speaker 4: to go out and do that. And I think we're"
+    },
+    {
+      "start": 615.8,
+      "end": 618.88,
+      "text": "Speaker 4: kind of uniquely positioned because of our culture of saying, yes,"
+    },
+    {
+      "start": 618.96,
+      "end": 621.52,
+      "text": "Speaker 4: we are willing to take that risk, and yes we"
+    },
+    {
+      "start": 621.559,
+      "end": 622.92,
+      "text": "Speaker 4: want prediction markets to grow."
+    },
+    {
+      "start": 623.8,
+      "end": 627.16,
+      "text": "Speaker 3: What have your conversation's been like with institutional players so far, Like,"
+    },
+    {
+      "start": 627.2,
+      "end": 629.8,
+      "text": "Speaker 3: what do they say is their main either constraint or"
+    },
+    {
+      "start": 629.84,
+      "end": 632.56,
+      "text": "Speaker 3: I guess reluctance to get on some of these markets."
+    },
+    {
+      "start": 633.08,
+      "end": 635.64,
+      "text": "Speaker 4: So the first piece is the exact thing that you"
+    },
+    {
+      "start": 635.72,
+      "end": 637.68,
+      "text": "Speaker 4: just brought up. Awareness They look at the markets and"
+    },
+    {
+      "start": 637.72,
+      "end": 639.68,
+      "text": "Speaker 4: they might say, well, I don't see how we could"
+    },
+    {
+      "start": 639.72,
+      "end": 642.04,
+      "text": "Speaker 4: actually hedge some of these things because there's not enough"
+    },
+    {
+      "start": 642.52,
+      "end": 645.52,
+      "text": "Speaker 4: volume and liquidity, to which our response is we will"
+    },
+    {
+      "start": 645.559,
+      "end": 649.079,
+      "text": "Speaker 4: be the liquidity, you know. Then the other question is, Okay, well,"
+    },
+    {
+      "start": 649.16,
+      "end": 652.56,
+      "text": "Speaker 4: we sort of need our compliance to get to get"
+    },
+    {
+      "start": 652.6,
+      "end": 654.9590000000001,
+      "text": "Speaker 4: comfortable with this. This stuff is so new, what's the"
+    },
+    {
+      "start": 655.04,
+      "end": 656.0,
+      "text": "Speaker 4: legal landscape?"
+    },
+    {
+      "start": 656.36,
+      "end": 658.199,
+      "text": "Speaker 5: What? You know, how do we get this stuff even"
+    },
+    {
+      "start": 658.28,
+      "end": 659.16,
+      "text": "Speaker 5: over our firewall?"
+    },
+    {
+      "start": 659.2,
+      "end": 662.72,
+      "text": "Speaker 4: I think institutions we're always going to be the slower"
+    },
+    {
+      "start": 662.96,
+      "end": 666.24,
+      "text": "Speaker 4: moving player relative to retail, and so that's why we"
+    },
+    {
+      "start": 666.32,
+      "end": 668.12,
+      "text": "Speaker 4: really want to sort of hold some of their hands"
+    },
+    {
+      "start": 668.16,
+      "end": 670.12,
+      "text": "Speaker 4: to go through this and figure out a lot of"
+    },
+    {
+      "start": 670.12,
+      "end": 673.12,
+      "text": "Speaker 4: different ways that they can use prediction markets. Some of"
+    },
+    {
+      "start": 673.16,
+      "end": 676.48,
+      "text": "Speaker 4: it might be an institution connects to a prediction market platform,"
+    },
+    {
+      "start": 676.559,
+      "end": 679.16,
+      "text": "Speaker 4: does a block trade on an exchange with us. It"
+    },
+    {
+      "start": 679.2,
+      "end": 681.6,
+      "text": "Speaker 4: could be that a trade goes up off in exchange"
+    },
+    {
+      "start": 681.6,
+      "end": 684.559,
+      "text": "Speaker 4: as a swap, but it's licensing the exchange market data."
+    },
+    {
+      "start": 684.92,
+      "end": 687.6,
+      "text": "Speaker 4: And we're trying to create as many different setups as"
+    },
+    {
+      "start": 687.64,
+      "end": 690.4,
+      "text": "Speaker 4: possible so that people can do these trades. And we're"
+    },
+    {
+      "start": 690.44,
+      "end": 694.2,
+      "text": "Speaker 4: going to basically be, you know, be the facilitator to say, okay,"
+    },
+    {
+      "start": 694.24,
+      "end": 696.24,
+      "text": "Speaker 4: you need a hedge. We're going to figure out how"
+    },
+    {
+      "start": 696.24,
+      "end": 697.12,
+      "text": "Speaker 4: to let that happen."
+    },
+    {
+      "start": 697.32,
+      "end": 699.88,
+      "text": "Speaker 2: See, this is really important. So if I look at"
+    },
+    {
+      "start": 699.88,
+      "end": 702.32,
+      "text": "Speaker 2: a contract and I see a number of there like"
+    },
+    {
+      "start": 702.36,
+      "end": 706.28,
+      "text": "Speaker 2: one hundred and fifty thousand dollars, it's possible that there"
+    },
+    {
+      "start": 706.679,
+      "end": 710.28,
+      "text": "Speaker 2: there was a trade, an off platform trade of much"
+    },
+    {
+      "start": 710.32,
+      "end": 714.64,
+      "text": "Speaker 2: bigger size that was not printed on that But that"
+    },
+    {
+      "start": 714.8,
+      "end": 717.52,
+      "text": "Speaker 2: was more by le swap form, and that's is that"
+    },
+    {
+      "start": 717.559,
+      "end": 718.4,
+      "text": "Speaker 2: currently happening."
+    },
+    {
+      "start": 718.48,
+      "end": 720.44,
+      "text": "Speaker 4: It is possible. I'm not going to go and say"
+    },
+    {
+      "start": 720.48,
+      "end": 721.8,
+      "text": "Speaker 4: that that's a big thing that's happening."
+    },
+    {
+      "start": 721.88,
+      "end": 722.04,
+      "text": "Speaker 1: Yea."
+    },
+    {
+      "start": 722.24,
+      "end": 724.6,
+      "text": "Speaker 4: We're trying to build out the infrastructure to have as"
+    },
+    {
+      "start": 724.64,
+      "end": 727.92,
+      "text": "Speaker 4: many options as possible because we want institutions to start"
+    },
+    {
+      "start": 727.92,
+      "end": 729.84,
+      "text": "Speaker 4: moving and the more they do it, the more they're"
+    },
+    {
+      "start": 729.84,
+      "end": 730.52,
+      "text": "Speaker 4: going to really Like."
+    },
+    {
+      "start": 730.52,
+      "end": 734.08,
+      "text": "Speaker 2: If an institution, again, let's go to the airline hedging snowfall,"
+    },
+    {
+      "start": 734.12,
+      "end": 736.52,
+      "text": "Speaker 2: sure would they have a relationship with you? Would they"
+    },
+    {
+      "start": 736.559,
+      "end": 739.679,
+      "text": "Speaker 2: go through a prime broker who then has a relationship"
+    },
+    {
+      "start": 739.72,
+      "end": 742.48,
+      "text": "Speaker 2: with you, Like what is the actual sort of like"
+    },
+    {
+      "start": 742.84,
+      "end": 744.92,
+      "text": "Speaker 2: chain of phone calls or whatever that happens."
+    },
+    {
+      "start": 745.0,
+      "end": 745.8,
+      "text": "Speaker 5: So it can be both."
+    },
+    {
+      "start": 745.84,
+      "end": 748.36,
+      "text": "Speaker 4: But ultimately, when I think of what we're really good"
+    },
+    {
+      "start": 748.36,
+      "end": 749.88,
+      "text": "Speaker 4: at and what we're not really good at, we're not"
+    },
+    {
+      "start": 750.16,
+      "end": 753.76,
+      "text": "Speaker 4: necessarily the best in the sort of know every single"
+    },
+    {
+      "start": 753.8,
+      "end": 756.599,
+      "text": "Speaker 4: airline customer business. So we want to work with a"
+    },
+    {
+      "start": 756.64,
+      "end": 759.72,
+      "text": "Speaker 4: lot of those other intermediaries. That could be a broker,"
+    },
+    {
+      "start": 759.8,
+      "end": 762.32,
+      "text": "Speaker 4: it could be a bank, it could be an insurance company."
+    },
+    {
+      "start": 762.36,
+      "end": 764.76,
+      "text": "Speaker 4: The people who have those relationships and are in the"
+    },
+    {
+      "start": 764.8,
+      "end": 767.92,
+      "text": "Speaker 4: business of constantly advising this is what you should do,"
+    },
+    {
+      "start": 768.24,
+      "end": 770.6,
+      "text": "Speaker 4: we understand. We want to work with them and they"
+    },
+    {
+      "start": 770.6,
+      "end": 772.96,
+      "text": "Speaker 4: could have a very important role in helping to be"
+    },
+    {
+      "start": 772.96,
+      "end": 775.32,
+      "text": "Speaker 4: a part of the infrastructure that gets it from the"
+    },
+    {
+      "start": 775.4,
+      "end": 777.56,
+      "text": "Speaker 4: customer with the risk to us being the one that"
+    },
+    {
+      "start": 777.6,
+      "end": 778.12,
+      "text": "Speaker 4: has the other."
+    },
+    {
+      "start": 778.04,
+      "end": 797.92,
+      "text": "Speaker 3: Did Joe's chosen a pretty like reasonable contract, I would"
+    },
+    {
+      "start": 798.0,
+      "end": 801.52,
+      "text": "Speaker 3: say for his example there? But like, are you committed"
+    },
+    {
+      "start": 801.52,
+      "end": 805.44,
+      "text": "Speaker 3: to making markets in all the contracts available on these platforms?"
+    },
+    {
+      "start": 805.48,
+      "end": 808.08,
+      "text": "Speaker 3: Because I'm thinking about you know, like the Return of"
+    },
+    {
+      "start": 808.16,
+      "end": 810.599,
+      "text": "Speaker 3: Jesus Christ or will aliens invade?"
+    },
+    {
+      "start": 810.679,
+      "end": 812.36,
+      "text": "Speaker 5: How would you even go about."
+    },
+    {
+      "start": 812.08,
+      "end": 813.52,
+      "text": "Speaker 2: Like the halftime show?"
+    },
+    {
+      "start": 813.679,
+      "end": 813.8,
+      "text": "Speaker 3: Ye?"
+    },
+    {
+      "start": 814.679,
+      "end": 819.64,
+      "text": "Speaker 4: Right, yeah, So we don't make everything, and honestly, we're"
+    },
+    {
+      "start": 819.64,
+      "end": 822.24,
+      "text": "Speaker 4: not the best to make absolutely everything some of you know,"
+    },
+    {
+      "start": 822.84,
+      "end": 824.8,
+      "text": "Speaker 4: some of the things that you might say that something"
+    },
+    {
+      "start": 825.12,
+      "end": 828.04,
+      "text": "Speaker 4: perhaps in pop culture, we're probably not going to be"
+    },
+    {
+      "start": 828.04,
+      "end": 829.36,
+      "text": "Speaker 4: that good at it relative to others."
+    },
+    {
+      "start": 829.44,
+      "end": 831.64,
+      "text": "Speaker 3: Right, there are certain things they're trying to build that"
+    },
+    {
+      "start": 831.679,
+      "end": 832.48,
+      "text": "Speaker 3: capacity up."
+    },
+    {
+      "start": 833.0,
+      "end": 836.76,
+      "text": "Speaker 4: Well we'll see, we'll see, but you know that there"
+    },
+    {
+      "start": 836.8,
+      "end": 839.16,
+      "text": "Speaker 4: is a community of a lot of people that can"
+    },
+    {
+      "start": 839.2,
+      "end": 840.64,
+      "text": "Speaker 4: make a lot of that and make a lot of"
+    },
+    {
+      "start": 840.679,
+      "end": 843.16,
+      "text": "Speaker 4: these types of markets. And what we want to do"
+    },
+    {
+      "start": 843.24,
+      "end": 846.8,
+      "text": "Speaker 4: is we want to scale our sort of capacity with"
+    },
+    {
+      "start": 847.12,
+      "end": 851.84,
+      "text": "Speaker 4: our technology, our quantitative models, our sort of very trader"
+    },
+    {
+      "start": 851.92,
+      "end": 854.16,
+      "text": "Speaker 4: driven insights that we have in our capital. That's where"
+    },
+    {
+      "start": 854.2,
+      "end": 856.76,
+      "text": "Speaker 4: we're going to add the most value to an exchange."
+    },
+    {
+      "start": 857.16,
+      "end": 859.4,
+      "text": "Speaker 4: If something just requires a bunch of people to dig"
+    },
+    {
+      "start": 859.44,
+      "end": 863.52,
+      "text": "Speaker 4: into it the universe, of all the different super forecasters,"
+    },
+    {
+      "start": 863.8,
+      "end": 866.04,
+      "text": "Speaker 4: we're probably not as necessary. So you probably don't need"
+    },
+    {
+      "start": 866.12,
+      "end": 869.12,
+      "text": "Speaker 4: us to know something about when Taylor Swift is going"
+    },
+    {
+      "start": 869.16,
+      "end": 871.6,
+      "text": "Speaker 4: to get married. But the fact is that the things"
+    },
+    {
+      "start": 871.6,
+      "end": 874.48,
+      "text": "Speaker 4: that have the most economic value tend to be the"
+    },
+    {
+      "start": 874.52,
+      "end": 877.2,
+      "text": "Speaker 4: things that need us the most. And so that's really"
+    },
+    {
+      "start": 877.2,
+      "end": 879.76,
+      "text": "Speaker 4: where we try to play. And I think it's great"
+    },
+    {
+      "start": 879.8,
+      "end": 885.28,
+      "text": "Speaker 4: that the ecosystem has these complementary forces of the community"
+    },
+    {
+      "start": 885.28,
+      "end": 887.52,
+      "text": "Speaker 4: of all of the super forecasters and then the people"
+    },
+    {
+      "start": 887.56,
+      "end": 889.68,
+      "text": "Speaker 4: like us, who both kind of have different skill sets."
+    },
+    {
+      "start": 890.12,
+      "end": 893.2,
+      "text": "Speaker 2: Do you see right now? So again the people say, yeah,"
+    },
+    {
+      "start": 893.2,
+      "end": 897.0,
+      "text": "Speaker 2: these are just it's sports betting, et cetera. And then"
+    },
+    {
+      "start": 897.08,
+      "end": 899.56,
+      "text": "Speaker 2: maybe every two years or every four years there's some"
+    },
+    {
+      "start": 899.6,
+      "end": 903.72,
+      "text": "Speaker 2: election activity, maybe there's some trades that are sort of"
+    },
+    {
+      "start": 903.76,
+      "end": 907.72,
+      "text": "Speaker 2: like look like cryptodervatives, et cetera. When you actually look"
+    },
+    {
+      "start": 907.76,
+      "end": 911.72,
+      "text": "Speaker 2: at today's volume of activity, do you see a meaningful"
+    },
+    {
+      "start": 911.8,
+      "end": 916.24,
+      "text": "Speaker 2: shift towards what polite people who wear suits would say,"
+    },
+    {
+      "start": 916.28,
+      "end": 919.24,
+      "text": "Speaker 2: like real things. Is that happening?"
+    },
+    {
+      "start": 919.64,
+      "end": 921.88,
+      "text": "Speaker 4: It is, yeah, And so when you look at the volumes,"
+    },
+    {
+      "start": 921.92,
+      "end": 925.16,
+      "text": "Speaker 4: obviously there's a real percentage of the volume more you know,"
+    },
+    {
+      "start": 925.44,
+      "end": 929.28,
+      "text": "Speaker 4: more than half of the volume certainly is sports. Yeah,"
+    },
+    {
+      "start": 929.6,
+      "end": 932.44,
+      "text": "Speaker 4: and there's a reason for that, right. Sports has been"
+    },
+    {
+      "start": 932.6,
+      "end": 935.36,
+      "text": "Speaker 4: a big market in the United States for a long time,"
+    },
+    {
+      "start": 935.52,
+      "end": 938.08,
+      "text": "Speaker 4: and it's happened in kind of a fractured way across"
+    },
+    {
+      "start": 938.12,
+      "end": 940.68,
+      "text": "Speaker 4: a lot of different states, and there's certain states where"
+    },
+    {
+      "start": 940.72,
+      "end": 943.44,
+      "text": "Speaker 4: you can't do it, and it's a different regulatory system everywhere."
+    },
+    {
+      "start": 943.76,
+      "end": 946.36,
+      "text": "Speaker 4: But there was a big market that existed, and then"
+    },
+    {
+      "start": 946.4,
+      "end": 949.4,
+      "text": "Speaker 4: prediction markets basically came around. They provided a better way"
+    },
+    {
+      "start": 949.4,
+      "end": 952.04,
+      "text": "Speaker 4: for sports to trade, So it was natural that there"
+    },
+    {
+      "start": 952.12,
+      "end": 954.04,
+      "text": "Speaker 4: was going to be this massive base from the start."
+    },
+    {
+      "start": 954.32,
+      "end": 956.6,
+      "text": "Speaker 4: But what we're seeing is it's dragging up all of"
+    },
+    {
+      "start": 956.64,
+      "end": 960.12,
+      "text": "Speaker 4: the other things. So it's brought awareness to prediction markets,"
+    },
+    {
+      "start": 960.2,
+      "end": 961.72,
+      "text": "Speaker 4: and the more we see that, the more we see"
+    },
+    {
+      "start": 961.72,
+      "end": 963.96,
+      "text": "Speaker 4: everything else growing. And by the way, a lot of"
+    },
+    {
+      "start": 963.96,
+      "end": 967.84,
+      "text": "Speaker 4: that other stuff, the real market, you know, they're growing"
+    },
+    {
+      "start": 967.84,
+      "end": 970.48,
+      "text": "Speaker 4: at a faster rate than sports, just from a lower"
+    },
+    {
+      "start": 970.56,
+      "end": 975.12,
+      "text": "Speaker 4: starting point. And our goal now is really to you know,"
+    },
+    {
+      "start": 975.72,
+      "end": 979.04,
+      "text": "Speaker 4: boost that with the with the hedging cases, which you"
+    },
+    {
+      "start": 979.04,
+      "end": 981.44,
+      "text": "Speaker 4: know that's growing too, but it's not a huge part"
+    },
+    {
+      "start": 981.48,
+      "end": 983.64,
+      "text": "Speaker 4: of the market as of now, and we understand it"
+    },
+    {
+      "start": 983.68,
+      "end": 986.76,
+      "text": "Speaker 4: needs to be. From an ecosystem perspective, it's essential that"
+    },
+    {
+      "start": 986.84,
+      "end": 989.56,
+      "text": "Speaker 4: those hedging trades become a much larger part of what"
+    },
+    {
+      "start": 989.6,
+      "end": 990.24,
+      "text": "Speaker 4: the market is."
+    },
+    {
+      "start": 990.92,
+      "end": 994.8,
+      "text": "Speaker 3: So if you're a market maker for an event contract"
+    },
+    {
+      "start": 994.8,
+      "end": 997.68,
+      "text": "Speaker 3: that's something like the FED is going to raise rates"
+    },
+    {
+      "start": 997.76,
+      "end": 1000.8,
+      "text": "Speaker 3: or hold or lower or whatever like, that's pretty similar"
+    },
+    {
+      "start": 1000.84,
+      "end": 1003.88,
+      "text": "Speaker 3: to something that you might see in traditional markets. But"
+    },
+    {
+      "start": 1003.96,
+      "end": 1007.04,
+      "text": "Speaker 3: how different can you like explain it to us from"
+    },
+    {
+      "start": 1007.08,
+      "end": 1010.64,
+      "text": "Speaker 3: a mechanical perspective, how different the market making process would"
+    },
+    {
+      "start": 1010.64,
+      "end": 1015.88,
+      "text": "Speaker 3: be for a prediction market contract versus like a traditional option, right."
+    },
+    {
+      "start": 1015.84,
+      "end": 1019.6,
+      "text": "Speaker 4: So honestly, it there's not a one size fits all"
+    },
+    {
+      "start": 1019.68,
+      "end": 1022.84,
+      "text": "Speaker 4: because there's so many different things out there. So if"
+    },
+    {
+      "start": 1022.88,
+      "end": 1025.439,
+      "text": "Speaker 4: you're thinking about kind of what's the FED going to"
+    },
+    {
+      "start": 1025.44,
+      "end": 1029.359,
+      "text": "Speaker 4: do next, there are instruments that capture that reasonably well."
+    },
+    {
+      "start": 1029.88,
+      "end": 1032.52,
+      "text": "Speaker 4: And same thing as you know, what's the price of"
+    },
+    {
+      "start": 1032.6,
+      "end": 1034.28,
+      "text": "Speaker 4: the S and P five hundred going to be at"
+    },
+    {
+      "start": 1034.32,
+      "end": 1037.68,
+      "text": "Speaker 4: the end of today, for example, there are other instruments"
+    },
+    {
+      "start": 1037.72,
+      "end": 1040.8,
+      "text": "Speaker 4: out there that capture that reasonably well. And really this"
+    },
+    {
+      "start": 1040.96,
+      "end": 1043.04,
+      "text": "Speaker 4: is just distilling it into a way that might even"
+    },
+    {
+      "start": 1043.08,
+      "end": 1046.48,
+      "text": "Speaker 4: better capture the idea someone has. There's like quirks to"
+    },
+    {
+      "start": 1046.52,
+      "end": 1048.72,
+      "text": "Speaker 4: the other types of things that you might have. There"
+    },
+    {
+      "start": 1048.72,
+      "end": 1051.84,
+      "text": "Speaker 4: are the proxies, so we can translate what's happening in"
+    },
+    {
+      "start": 1052.28,
+      "end": 1054.879,
+      "text": "Speaker 4: sort of like you know, the traditional financial markets to"
+    },
+    {
+      "start": 1055.08,
+      "end": 1058.72,
+      "text": "Speaker 4: prediction markets for other products that it's sort of is"
+    },
+    {
+      "start": 1058.76,
+      "end": 1061.04,
+      "text": "Speaker 4: this random, one off event going to happen in the world."
+    },
+    {
+      "start": 1061.16,
+      "end": 1063.16,
+      "text": "Speaker 4: Is the strait of Hormoose going to be opened by"
+    },
+    {
+      "start": 1063.64,
+      "end": 1066.439,
+      "text": "Speaker 4: the end of August? Is Kere Starmer going to be"
+    },
+    {
+      "start": 1066.44,
+      "end": 1069.919,
+      "text": "Speaker 4: out as prime Minister? That stuff requires a lot of"
+    },
+    {
+      "start": 1069.92,
+      "end": 1073.28,
+      "text": "Speaker 4: independent research. But the good news is that there's so"
+    },
+    {
+      "start": 1073.359,
+      "end": 1077.28,
+      "text": "Speaker 4: much information contained within the prediction market itself. So one"
+    },
+    {
+      "start": 1077.32,
+      "end": 1081.24,
+      "text": "Speaker 4: of the core market making principles we have is, you know,"
+    },
+    {
+      "start": 1081.359,
+      "end": 1083.48,
+      "text": "Speaker 4: it really honestly comes from you know, kind of a"
+    },
+    {
+      "start": 1083.68,
+      "end": 1086.96,
+      "text": "Speaker 4: thing we teach with poker of understand what other people"
+    },
+    {
+      "start": 1087.0,
+      "end": 1089.2,
+      "text": "Speaker 4: know and what other people are doing. We can learn"
+    },
+    {
+      "start": 1089.6,
+      "end": 1092.64,
+      "text": "Speaker 4: from the markets seeing where they are, this is what"
+    },
+    {
+      "start": 1092.68,
+      "end": 1095.959,
+      "text": "Speaker 4: all these other super forecasters know. We can combine that"
+    },
+    {
+      "start": 1096.04,
+      "end": 1099.08,
+      "text": "Speaker 4: with our internal research and then get to a number."
+    },
+    {
+      "start": 1099.16,
+      "end": 1101.919,
+      "text": "Speaker 4: So that's you know, some things kind of have to"
+    },
+    {
+      "start": 1101.92,
+      "end": 1103.88,
+      "text": "Speaker 4: be we draw it up and figure it out like that."
+    },
+    {
+      "start": 1104.52,
+      "end": 1106.76,
+      "text": "Speaker 4: Some stuff is we can use the information that's in"
+    },
+    {
+      "start": 1106.8,
+      "end": 1109.08,
+      "text": "Speaker 4: other markets, and some stuff is we're gonna build a"
+    },
+    {
+      "start": 1109.119,
+      "end": 1112.16,
+      "text": "Speaker 4: brand new model to figure this thing out, because that's"
+    },
+    {
+      "start": 1112.24,
+      "end": 1113.84,
+      "text": "Speaker 4: kind of in our that's kind of in our DNA"
+    },
+    {
+      "start": 1113.88,
+      "end": 1115.879,
+      "text": "Speaker 4: to say like, all right, here's a random thing, but"
+    },
+    {
+      "start": 1116.08,
+      "end": 1117.8,
+      "text": "Speaker 4: you know, how are we gonna We're gonna have to"
+    },
+    {
+      "start": 1117.84,
+      "end": 1119.84,
+      "text": "Speaker 4: figure out compute. Right, Let's let's figure out how to"
+    },
+    {
+      "start": 1119.92,
+      "end": 1121.8,
+      "text": "Speaker 4: model compute and you know, we'll build it."
+    },
+    {
+      "start": 1122.52,
+      "end": 1124.48,
+      "text": "Speaker 2: So one of the concerns or one of the things"
+    },
+    {
+      "start": 1124.48,
+      "end": 1128.0,
+      "text": "Speaker 2: that people talk about with prediction markets is the possibility"
+    },
+    {
+      "start": 1128.0,
+      "end": 1133.2,
+      "text": "Speaker 2: of insider trading. And you know, like obviously, like when"
+    },
+    {
+      "start": 1133.2,
+      "end": 1135.96,
+      "text": "Speaker 2: I think of like a market making firm or some"
+    },
+    {
+      "start": 1136.0,
+      "end": 1138.32,
+      "text": "Speaker 2: of these firms that do a lot of flow in volume,"
+    },
+    {
+      "start": 1138.64,
+      "end": 1140.48,
+      "text": "Speaker 2: you just sort of assume there's a lot of noise"
+    },
+    {
+      "start": 1140.52,
+      "end": 1144.2,
+      "text": "Speaker 2: and it all sort of washes washes out, right, how"
+    },
+    {
+      "start": 1144.24,
+      "end": 1145.28,
+      "text": "Speaker 2: does it change you?"
+    },
+    {
+      "start": 1145.32,
+      "end": 1145.439,
+      "text": "Speaker 3: Like?"
+    },
+    {
+      "start": 1145.56,
+      "end": 1148.119,
+      "text": "Speaker 2: You have to think, like if there are participants in"
+    },
+    {
+      "start": 1148.16,
+      "end": 1151.159,
+      "text": "Speaker 2: the market that are like not just forecasters here, like"
+    },
+    {
+      "start": 1151.2,
+      "end": 1153.48,
+      "text": "Speaker 2: not just people who are good at predicting things, but"
+    },
+    {
+      "start": 1153.72,
+      "end": 1159.2,
+      "text": "Speaker 2: deeply informed slow where they maybe just know the answer already,"
+    },
+    {
+      "start": 1159.6,
+      "end": 1161.639,
+      "text": "Speaker 2: are you able to spot that? Are you able to"
+    },
+    {
+      "start": 1161.68,
+      "end": 1164.52,
+      "text": "Speaker 2: sense that? And does that change how you think about"
+    },
+    {
+      "start": 1164.8,
+      "end": 1166.76,
+      "text": "Speaker 2: risk management within a given market?"
+    },
+    {
+      "start": 1167.359,
+      "end": 1167.6,
+      "text": "Speaker 5: Right?"
+    },
+    {
+      "start": 1167.72,
+      "end": 1170.72,
+      "text": "Speaker 4: So, I guess the insider trading is definitely something that"
+    },
+    {
+      "start": 1170.92,
+      "end": 1173.32,
+      "text": "Speaker 4: that comes up. And there you know, there there's certainly"
+    },
+    {
+      "start": 1173.359,
+      "end": 1175.56,
+      "text": "Speaker 4: been plenty of articles that are written about it. I"
+    },
+    {
+      "start": 1175.56,
+      "end": 1177.2,
+      "text": "Speaker 4: think there's a couple a couple of things to point"
+    },
+    {
+      "start": 1177.2,
+      "end": 1180.2,
+      "text": "Speaker 4: out there. The first one is that there's actually really"
+    },
+    {
+      "start": 1180.24,
+      "end": 1183.2,
+      "text": "Speaker 4: two types of prediction markets that it's not always clear"
+    },
+    {
+      "start": 1183.24,
+      "end": 1186.36,
+      "text": "Speaker 4: to people what the distinction is. But there's the regulated"
+    },
+    {
+      "start": 1187.48,
+      "end": 1191.52,
+      "text": "Speaker 4: prediction markets such as CALSHI, such as rough Era exchange"
+    },
+    {
+      "start": 1191.52,
+      "end": 1194.56,
+      "text": "Speaker 4: that just launched, such as you know CME has one"
+    },
+    {
+      "start": 1194.64,
+      "end": 1198.24,
+      "text": "Speaker 4: and Polymarket has a regulated exchange. And then there's the"
+    },
+    {
+      "start": 1198.24,
+      "end": 1202.639,
+      "text": "Speaker 4: crypto based decentralized plan it platforms, and those are you know,"
+    },
+    {
+      "start": 1202.68,
+      "end": 1205.879,
+      "text": "Speaker 4: they don't have KYC right and they're crypto based their DeFi."
+    },
+    {
+      "start": 1206.04,
+      "end": 1208.48,
+      "text": "Speaker 4: So I think most of what you've seen, the vast,"
+    },
+    {
+      "start": 1208.56,
+      "end": 1212.399,
+      "text": "Speaker 4: vast majority where people find something that's insider trading based"
+    },
+    {
+      "start": 1212.76,
+      "end": 1215.32,
+      "text": "Speaker 4: is on the DeFi platforms because there is KYC on"
+    },
+    {
+      "start": 1215.359,
+      "end": 1218.24,
+      "text": "Speaker 4: the regulated space, and that's why, you know, we are"
+    },
+    {
+      "start": 1218.28,
+      "end": 1220.0,
+      "text": "Speaker 4: participating in the regulated space."
+    },
+    {
+      "start": 1220.04,
+      "end": 1220.64,
+      "text": "Speaker 5: So that's the."
+    },
+    {
+      "start": 1220.6,
+      "end": 1223.359,
+      "text": "Speaker 4: First important thing is if you're in the regulated space,"
+    },
+    {
+      "start": 1223.56,
+      "end": 1226.0,
+      "text": "Speaker 4: you're much more protected. The other thing is, you know,"
+    },
+    {
+      "start": 1226.08,
+      "end": 1229.12,
+      "text": "Speaker 4: insider trading is something that does exist everywhere, and there's"
+    },
+    {
+      "start": 1229.119,
+      "end": 1232.6,
+      "text": "Speaker 4: a mechanism that works to suss it out, and that's"
+    },
+    {
+      "start": 1233.56,
+      "end": 1236.32,
+      "text": "Speaker 4: reporting from the people that are in the market. Generally,"
+    },
+    {
+      "start": 1236.48,
+      "end": 1238.48,
+      "text": "Speaker 4: one of the things that we're always paying attention to"
+    },
+    {
+      "start": 1238.68,
+      "end": 1241.0,
+      "text": "Speaker 4: is what are the incentives of the person on the"
+    },
+    {
+      "start": 1241.04,
+      "end": 1245.48,
+      "text": "Speaker 4: other side of the trade, And when someone's insider trading,"
+    },
+    {
+      "start": 1245.92,
+      "end": 1248.6,
+      "text": "Speaker 4: it's a lot more obvious that Okay, well what are"
+    },
+    {
+      "start": 1248.6,
+      "end": 1251.56,
+      "text": "Speaker 4: the incentives? They don't make sense. The thing then happens,"
+    },
+    {
+      "start": 1251.56,
+      "end": 1254.68,
+      "text": "Speaker 4: and okay, we can make a pretty decent basy and"
+    },
+    {
+      "start": 1254.76,
+      "end": 1257.399,
+      "text": "Speaker 4: update that like this was probably insider trading and report it."
+    },
+    {
+      "start": 1257.76,
+      "end": 1259.84,
+      "text": "Speaker 4: And it's actually easier in prediction markets because this is"
+    },
+    {
+      "start": 1260.28,
+      "end": 1262.719,
+      "text": "Speaker 4: more obvious. There's a million reasons that someone can buy"
+    },
+    {
+      "start": 1262.72,
+      "end": 1265.6,
+      "text": "Speaker 4: Apple stock, but like there's not that many reasons that"
+    },
+    {
+      "start": 1265.64,
+      "end": 1268.92,
+      "text": "Speaker 4: someone can buy like is Maduro going to be out?"
+    },
+    {
+      "start": 1269.96,
+      "end": 1272.439,
+      "text": "Speaker 2: So if you see a lot of people slamming that."
+    },
+    {
+      "start": 1272.64,
+      "end": 1276.119,
+      "text": "Speaker 4: Right, right, So it's actually easier to spot this stuff."
+    },
+    {
+      "start": 1276.28,
+      "end": 1278.6,
+      "text": "Speaker 4: And by the way, like one thing we're extremely happy"
+    },
+    {
+      "start": 1278.6,
+      "end": 1281.12,
+      "text": "Speaker 4: about is the DJ is now even going after the"
+    },
+    {
+      "start": 1281.24,
+      "end": 1283.879,
+      "text": "Speaker 4: you know, the crypto based platforms where you know, people"
+    },
+    {
+      "start": 1284.119,
+      "end": 1285.88,
+      "text": "Speaker 4: kind of I think they kind of knew. People probably"
+    },
+    {
+      "start": 1285.92,
+      "end": 1287.96,
+      "text": "Speaker 4: thought they were safe. You're not safe in crypto, and"
+    },
+    {
+      "start": 1288.04,
+      "end": 1290.639,
+      "text": "Speaker 4: actually everything's on the blockchain, right, so you'll get caught."
+    },
+    {
+      "start": 1290.96,
+      "end": 1294.08,
+      "text": "Speaker 4: So there is an infrastructure, especially in the regulated space"
+    },
+    {
+      "start": 1294.08,
+      "end": 1296.68,
+      "text": "Speaker 4: but also now in the unregulated space for catching people"
+    },
+    {
+      "start": 1296.68,
+      "end": 1298.44,
+      "text": "Speaker 4: that do it. And I think that's why you don't"
+    },
+    {
+      "start": 1298.44,
+      "end": 1300.84,
+      "text": "Speaker 4: see more like that's what stops insider trading. People don't"
+    },
+    {
+      "start": 1300.84,
+      "end": 1303.679,
+      "text": "Speaker 4: want to get caught. This is new. People probably thought like,"
+    },
+    {
+      "start": 1303.68,
+      "end": 1305.48,
+      "text": "Speaker 4: oh I can do it in crypto and won't get caught."
+    },
+    {
+      "start": 1305.6,
+      "end": 1307.24,
+      "text": "Speaker 5: Now they're like, oh, I am going to."
+    },
+    {
+      "start": 1307.24,
+      "end": 1310.879,
+      "text": "Speaker 3: Get caught, okay. Aside from insider trading, one of the"
+    },
+    {
+      "start": 1310.92,
+      "end": 1314.359,
+      "text": "Speaker 3: other concerns or criticisms of prediction markets is the idea"
+    },
+    {
+      "start": 1314.4,
+      "end": 1318.0,
+      "text": "Speaker 3: of you could have whales basically in the market, like"
+    },
+    {
+      "start": 1318.04,
+      "end": 1320.32,
+      "text": "Speaker 3: people with a lot of money who are willing to"
+    },
+    {
+      "start": 1320.32,
+      "end": 1324.199,
+      "text": "Speaker 3: spend it to perhaps like influence a particular probability with"
+    },
+    {
+      "start": 1324.28,
+      "end": 1328.32,
+      "text": "Speaker 3: the hope of I guess, influencing the ultimate outcome. You"
+    },
+    {
+      "start": 1328.4,
+      "end": 1331.08,
+      "text": "Speaker 3: must have pretty good visibility and to order flow. Like,"
+    },
+    {
+      "start": 1331.2,
+      "end": 1334.119,
+      "text": "Speaker 3: how realistic is that concern from your perspective?"
+    },
+    {
+      "start": 1335.08,
+      "end": 1338.28,
+      "text": "Speaker 4: Honestly, I don't think it's something that's really come up"
+    },
+    {
+      "start": 1338.32,
+      "end": 1339.959,
+      "text": "Speaker 4: for us to this point in time. Like there are"
+    },
+    {
+      "start": 1340.0,
+      "end": 1344.36,
+      "text": "Speaker 4: concerns we have around certain things in prediction markets, but realistically,"
+    },
+    {
+      "start": 1344.44,
+      "end": 1347.08,
+      "text": "Speaker 4: like there's a lot of people in prediction markets, deep pockets,"
+    },
+    {
+      "start": 1347.119,
+      "end": 1349.48,
+      "text": "Speaker 4: certainly us, and we're pretty good at, as I said,"
+    },
+    {
+      "start": 1349.56,
+      "end": 1352.28,
+      "text": "Speaker 4: understanding the incentive of who's involved and if someone's going"
+    },
+    {
+      "start": 1352.359,
+      "end": 1355.399,
+      "text": "Speaker 4: out there and trying to move a market to like"
+    },
+    {
+      "start": 1355.52,
+      "end": 1359.04,
+      "text": "Speaker 4: influence an out to influence an outcome, you know, if"
+    },
+    {
+      "start": 1359.04,
+      "end": 1361.639,
+      "text": "Speaker 4: it's I guess it depends on what the outcome is."
+    },
+    {
+      "start": 1361.68,
+      "end": 1364.0,
+      "text": "Speaker 4: If it's an outcome that's easy to influence. We try"
+    },
+    {
+      "start": 1364.0,
+      "end": 1365.76,
+      "text": "Speaker 4: to avoid those markets in the first place, so we"
+    },
+    {
+      "start": 1365.76,
+      "end": 1367.68,
+      "text": "Speaker 4: don't trade like mentioned markets. Right, someone could put a"
+    },
+    {
+      "start": 1367.72,
+      "end": 1370.0,
+      "text": "Speaker 4: bunch of money on something and then you know on"
+    },
+    {
+      "start": 1370.04,
+      "end": 1373.8,
+      "text": "Speaker 4: this podcast for apps and then say, right."
+    },
+    {
+      "start": 1374.119,
+      "end": 1377.32,
+      "text": "Speaker 2: But does everyone is does everyone know like a mentioned"
+    },
+    {
+      "start": 1377.32,
+      "end": 1381.72,
+      "text": "Speaker 2: market is like will Joe, Tracey Jeremy say the word"
+    },
+    {
+      "start": 1381.84,
+      "end": 1383.56,
+      "text": "Speaker 2: like dogecoin exactly."
+    },
+    {
+      "start": 1384.92,
+      "end": 1387.72,
+      "text": "Speaker 5: Crazy? Right, So we're not going to run We're not"
+    },
+    {
+      "start": 1387.72,
+      "end": 1388.72,
+      "text": "Speaker 5: going to participate in those."
+    },
+    {
+      "start": 1388.96,
+      "end": 1391.28,
+      "text": "Speaker 4: If you're worried about something like that, like you probably"
+    },
+    {
+      "start": 1391.32,
+      "end": 1393.639,
+      "text": "Speaker 4: shouldn't trade those either. Like they're more on the on"
+    },
+    {
+      "start": 1393.68,
+      "end": 1395.199,
+      "text": "Speaker 4: the side of just like oh this is you know,"
+    },
+    {
+      "start": 1395.2,
+      "end": 1396.8,
+      "text": "Speaker 4: if if people want to punt around and them find"
+    },
+    {
+      "start": 1396.84,
+      "end": 1399.52,
+      "text": "Speaker 4: we're not in those. But for more serious markets, I"
+    },
+    {
+      "start": 1400.119,
+      "end": 1402.639,
+      "text": "Speaker 4: don't have that much concern if if there's someone trying"
+    },
+    {
+      "start": 1402.68,
+      "end": 1405.919,
+      "text": "Speaker 4: to do that that they're you know, if it's if"
+    },
+    {
+      "start": 1405.96,
+      "end": 1409.52,
+      "text": "Speaker 4: it's not manipulable, particularly it's something that's real and someone's"
+    },
+    {
+      "start": 1409.56,
+      "end": 1412.0,
+      "text": "Speaker 4: just trying to move the market, the marketplace is probably"
+    },
+    {
+      "start": 1412.0,
+      "end": 1413.64,
+      "text": "Speaker 4: going to figure it out and take the other side"
+    },
+    {
+      "start": 1413.68,
+      "end": 1416.679,
+      "text": "Speaker 4: of it, and if they can actually influence the outcome"
+    },
+    {
+      "start": 1416.72,
+      "end": 1419.879,
+      "text": "Speaker 4: in a meaningful way, then it probably needs You probably"
+    },
+    {
+      "start": 1419.88,
+      "end": 1422.08,
+      "text": "Speaker 4: need to think about what the settlement mechanism is and"
+    },
+    {
+      "start": 1422.24,
+      "end": 1423.72,
+      "text": "Speaker 4: you know, those are the types of markets we try"
+    },
+    {
+      "start": 1423.76,
+      "end": 1426.56,
+      "text": "Speaker 4: not to get involved in. But I don't think you"
+    },
+    {
+      "start": 1426.6,
+      "end": 1428.04,
+      "text": "Speaker 4: see a whole lot of that in the market."
+    },
+    {
+      "start": 1428.52,
+      "end": 1431.639,
+      "text": "Speaker 2: So, as you mentioned, you're not you don't make a"
+    },
+    {
+      "start": 1431.72,
+      "end": 1435.0,
+      "text": "Speaker 2: market in every market, and some things are more logical."
+    },
+    {
+      "start": 1435.56,
+      "end": 1438.08,
+      "text": "Speaker 2: Do you have when you say, okay, you're market maker"
+    },
+    {
+      "start": 1438.119,
+      "end": 1440.439,
+      "text": "Speaker 2: for Kelshi, do you have a list of like this"
+    },
+    {
+      "start": 1440.52,
+      "end": 1443.8,
+      "text": "Speaker 2: is what we do and don't or is it like"
+    },
+    {
+      "start": 1443.8,
+      "end": 1446.959,
+      "text": "Speaker 2: like I'm sort of in my mind the way I"
+    },
+    {
+      "start": 1447.0,
+      "end": 1449.84,
+      "text": "Speaker 2: think about your role a little bit like Alloyd's of"
+    },
+    {
+      "start": 1449.88,
+      "end": 1452.72,
+      "text": "Speaker 2: London in this sense that it's like, okay, so someone"
+    },
+    {
+      "start": 1452.76,
+      "end": 1455.08,
+      "text": "Speaker 2: has some risk and then they call you up and"
+    },
+    {
+      "start": 1455.119,
+      "end": 1457.159,
+      "text": "Speaker 2: they like, can you make us a price for this?"
+    },
+    {
+      "start": 1457.4,
+      "end": 1459.48,
+      "text": "Speaker 2: So is it a set list or is it like"
+    },
+    {
+      "start": 1460.28,
+      "end": 1462.6,
+      "text": "Speaker 2: you take it as you see it? Yes, okay we"
+    },
+    {
+      "start": 1462.64,
+      "end": 1464.76,
+      "text": "Speaker 2: can make a market. No, this is not something we're"
+    },
+    {
+      "start": 1464.76,
+      "end": 1467.84,
+      "text": "Speaker 2: going to participate in on a sort of like per"
+    },
+    {
+      "start": 1467.88,
+      "end": 1469.16,
+      "text": "Speaker 2: market basis."
+    },
+    {
+      "start": 1468.92,
+      "end": 1471.28,
+      "text": "Speaker 4: Right, So it's a little both. There are some markets"
+    },
+    {
+      "start": 1471.28,
+      "end": 1473.8,
+      "text": "Speaker 4: that we do all the time. We sign up for obligations,"
+    },
+    {
+      "start": 1473.84,
+      "end": 1475.44,
+      "text": "Speaker 4: we're going to be out there all the time, twenty"
+    },
+    {
+      "start": 1475.48,
+      "end": 1477.639,
+      "text": "Speaker 4: four to seven. And then there's some things that we"
+    },
+    {
+      "start": 1477.72,
+      "end": 1479.359,
+      "text": "Speaker 4: kind of do on a more ad hoc basis, Like"
+    },
+    {
+      "start": 1479.4,
+      "end": 1481.959,
+      "text": "Speaker 4: you know, it comes up it's important. We think we"
+    },
+    {
+      "start": 1482.0,
+      "end": 1484.679,
+      "text": "Speaker 4: have can have a meaningful role in the market, and"
+    },
+    {
+      "start": 1484.72,
+      "end": 1486.439,
+      "text": "Speaker 4: we just figure out how to get involved in it."
+    },
+    {
+      "start": 1486.52,
+      "end": 1487.44,
+      "text": "Speaker 5: So a little of both."
+    },
+    {
+      "start": 1488.2,
+      "end": 1489.44,
+      "text": "Speaker 3: I don't know if you read it, but there is"
+    },
+    {
+      "start": 1489.48,
+      "end": 1491.16,
+      "text": "Speaker 3: a piece in I think it was in the New York"
+    },
+    {
+      "start": 1491.2,
+      "end": 1494.52,
+      "text": "Speaker 3: Times this week about sharps in the prediction market, and."
+    },
+    {
+      "start": 1494.44,
+      "end": 1497.04,
+      "text": "Speaker 5: You know, people definitely read yeah, people who are making"
+    },
+    {
+      "start": 1497.08,
+      "end": 1499.359,
+      "text": "Speaker 5: a lot of money. Oh yeah, that's right."
+    },
+    {
+      "start": 1499.56,
+      "end": 1500.959,
+      "text": "Speaker 3: Okay, you better have read it."
+    },
+    {
+      "start": 1501.04,
+      "end": 1502.0,
+      "text": "Speaker 5: I have read it, okay."
+    },
+    {
+      "start": 1502.2,
+      "end": 1505.119,
+      "text": "Speaker 3: But there was someone quoted in there who is like"
+    },
+    {
+      "start": 1505.16,
+      "end": 1508.0,
+      "text": "Speaker 3: an independent trader in prediction markets, and they said they"
+    },
+    {
+      "start": 1508.119,
+      "end": 1515.119,
+      "text": "Speaker 3: interviewed at Susquehanna, but the firm said that, like Susquehana"
+    },
+    {
+      "start": 1515.16,
+      "end": 1517.48,
+      "text": "Speaker 3: is not allowed to scrape certain data or it has"
+    },
+    {
+      "start": 1517.56,
+      "end": 1520.16,
+      "text": "Speaker 3: certain data restrictions. And I guess that made the job"
+    },
+    {
+      "start": 1520.28,
+      "end": 1522.32,
+      "text": "Speaker 3: unappealing to this guy because he doesn't seem to have"
+    },
+    {
+      "start": 1522.32,
+      "end": 1525.96,
+      "text": "Speaker 3: taken it. But like, what are your data restrictions exactly?"
+    },
+    {
+      "start": 1526.44,
+      "end": 1529.24,
+      "text": "Speaker 4: So we're you know, we have a large franchise and"
+    },
+    {
+      "start": 1529.28,
+      "end": 1531.68,
+      "text": "Speaker 4: a large reputation that we need to."
+    },
+    {
+      "start": 1531.32,
+      "end": 1533.679,
+      "text": "Speaker 5: Take care of. So we're not going to violate the"
+    },
+    {
+      "start": 1533.76,
+      "end": 1536.08,
+      "text": "Speaker 5: terms and conditions of a website."
+    },
+    {
+      "start": 1535.56,
+      "end": 1538.76,
+      "text": "Speaker 4: Right if you're if you're a random person who's doing it,"
+    },
+    {
+      "start": 1538.8,
+      "end": 1541.6,
+      "text": "Speaker 4: like you probably can do that and you're probably not"
+    },
+    {
+      "start": 1541.64,
+      "end": 1543.8,
+      "text": "Speaker 4: going to get in trouble more likely than not, although"
+    },
+    {
+      "start": 1543.8,
+      "end": 1544.64,
+      "text": "Speaker 4: that's certainly not."
+    },
+    {
+      "start": 1545.2,
+      "end": 1548.96,
+      "text": "Speaker 2: People like putting in URLs that haven't gone live yet,"
+    },
+    {
+      "start": 1549.08,
+      "end": 1551.24,
+      "text": "Speaker 2: right and they have some feel and do they test"
+    },
+    {
+      "start": 1551.28,
+      "end": 1551.8,
+      "text": "Speaker 2: them out."
+    },
+    {
+      "start": 1551.72,
+      "end": 1553.88,
+      "text": "Speaker 4: Like it's not even necessarily I mean, that's a thing"
+    },
+    {
+      "start": 1553.88,
+      "end": 1556.239,
+      "text": "Speaker 4: that can happen place. But it could just be like"
+    },
+    {
+      "start": 1556.56,
+      "end": 1558.399,
+      "text": "Speaker 4: you have a website that has terms and conditions. It"
+    },
+    {
+      "start": 1558.44,
+      "end": 1560.72,
+      "text": "Speaker 4: says like you're not permitted to scrape this data, right,"
+    },
+    {
+      "start": 1560.76,
+      "end": 1562.879,
+      "text": "Speaker 4: and some and like you know, plenty of people scrape"
+    },
+    {
+      "start": 1562.92,
+      "end": 1565.119,
+      "text": "Speaker 4: the data, right, and we're not going to scrape that data, Like,"
+    },
+    {
+      "start": 1565.119,
+      "end": 1566.879,
+      "text": "Speaker 4: we're not going to violate the terms and conditions of"
+    },
+    {
+      "start": 1566.92,
+      "end": 1569.719,
+      "text": "Speaker 4: a website. So we hold ourselves to a more conservative"
+    },
+    {
+      "start": 1569.76,
+      "end": 1572.119,
+      "text": "Speaker 4: standard when it comes to those types of things. So"
+    },
+    {
+      "start": 1572.16,
+      "end": 1574.24,
+      "text": "Speaker 4: I think that I think that person was probably just"
+    },
+    {
+      "start": 1574.28,
+      "end": 1577.119,
+      "text": "Speaker 4: referring to, Hey, you get restrained, restrained in some ways"
+    },
+    {
+      "start": 1577.119,
+      "end": 1577.96,
+      "text": "Speaker 4: if you want to work for."
+    },
+    {
+      "start": 1578.0,
+      "end": 1581.8,
+      "text": "Speaker 3: Us in the usual like institutional."
+    },
+    {
+      "start": 1580.96,
+      "end": 1582.72,
+      "text": "Speaker 4: Things like we're going to be very careful when it"
+    },
+    {
+      "start": 1582.72,
+      "end": 1586.119,
+      "text": "Speaker 4: comes to things around our reputation. But you know, but"
+    },
+    {
+      "start": 1586.4,
+      "end": 1589.04,
+      "text": "Speaker 4: I think that that's probably you know, there's a lot"
+    },
+    {
+      "start": 1589.04,
+      "end": 1590.84,
+      "text": "Speaker 4: of advantages to working here as well."
+    },
+    {
+      "start": 1591.6,
+      "end": 1594.8,
+      "text": "Speaker 2: I know this isn't a prediction markets question per se,"
+    },
+    {
+      "start": 1595.24,
+      "end": 1600.56,
+      "text": "Speaker 2: But like, do gpu markets that we talked about the"
+    },
+    {
+      "start": 1600.56,
+      "end": 1603.32,
+      "text": "Speaker 2: first half of the show, do they have the sort"
+    },
+    {
+      "start": 1603.359,
+      "end": 1606.199,
+      "text": "Speaker 2: of contours of what to you look like could be"
+    },
+    {
+      "start": 1606.28,
+      "end": 1608.68,
+      "text": "Speaker 2: something very actively financialized market."
+    },
+    {
+      "start": 1609.359,
+      "end": 1611.92,
+      "text": "Speaker 4: Absolutely, I mean it's something that the prediction markets are"
+    },
+    {
+      "start": 1611.92,
+      "end": 1616.16,
+      "text": "Speaker 4: looking at. And really, when I think about what's made"
+    },
+    {
+      "start": 1616.24,
+      "end": 1620.479,
+      "text": "Speaker 4: prediction markets so different, like what actually changed, it's speed"
+    },
+    {
+      "start": 1620.48,
+      "end": 1620.92,
+      "text": "Speaker 4: to market."
+    },
+    {
+      "start": 1621.16,
+      "end": 1623.52,
+      "text": "Speaker 5: So so you."
+    },
+    {
+      "start": 1623.56,
+      "end": 1626.0,
+      "text": "Speaker 4: Know, it's funny when we first started wanting to get"
+    },
+    {
+      "start": 1626.0,
+      "end": 1628.639,
+      "text": "Speaker 4: involved with prediction markets, of like a little bit of"
+    },
+    {
+      "start": 1628.68,
+      "end": 1630.84,
+      "text": "Speaker 4: an origin story where I have a friend who is"
+    },
+    {
+      "start": 1630.88,
+      "end": 1633.8,
+      "text": "Speaker 4: a CFO of a musical instrument company during the first"
+    },
+    {
+      "start": 1633.96,
+      "end": 1636.719,
+      "text": "Speaker 4: China Trade War, he was worried that their company might"
+    },
+    {
+      "start": 1636.72,
+      "end": 1639.24,
+      "text": "Speaker 4: go out of business because they imported instruments from China."
+    },
+    {
+      "start": 1639.72,
+      "end": 1642.399,
+      "text": "Speaker 4: And we I was like, well, I'm a macro trader."
+    },
+    {
+      "start": 1642.4,
+      "end": 1644.16,
+      "text": "Speaker 4: I could hedge this. It's what I do all the time."
+    },
+    {
+      "start": 1644.44,
+      "end": 1646.0,
+      "text": "Speaker 4: We actually tried to list a product and it took"
+    },
+    {
+      "start": 1646.0,
+      "end": 1648.48,
+      "text": "Speaker 4: about a year and it was just too slow."
+    },
+    {
+      "start": 1648.8,
+      "end": 1650.919,
+      "text": "Speaker 5: And then you know, where did you try to list it?"
+    },
+    {
+      "start": 1651.119,
+      "end": 1653.76,
+      "text": "Speaker 4: We tried to list it with my ex and you know,"
+    },
+    {
+      "start": 1653.92,
+      "end": 1656.28,
+      "text": "Speaker 4: just that was the process for listing a future and"
+    },
+    {
+      "start": 1656.6,
+      "end": 1659.159,
+      "text": "Speaker 4: now we got now we you know, prediction markets came"
+    },
+    {
+      "start": 1659.16,
+      "end": 1661.16,
+      "text": "Speaker 4: around and that process went to a day or even"
+    },
+    {
+      "start": 1661.2,
+      "end": 1664.8,
+      "text": "Speaker 4: inside of a day. So I think really that's the"
+    },
+    {
+      "start": 1664.84,
+      "end": 1667.88,
+      "text": "Speaker 4: most that's the real valuable thing."
+    },
+    {
+      "start": 1667.72,
+      "end": 1671.32,
+      "text": "Speaker 5: That happened with prediction markets. And I think that with compute,"
+    },
+    {
+      "start": 1671.84,
+      "end": 1672.32,
+      "text": "Speaker 5: you see this."
+    },
+    {
+      "start": 1672.64,
+      "end": 1675.16,
+      "text": "Speaker 4: You see this ability of prediction markets to potentially move"
+    },
+    {
+      "start": 1675.28,
+      "end": 1678.64,
+      "text": "Speaker 4: very quickly so they can launch a product. There's there"
+    },
+    {
+      "start": 1678.64,
+      "end": 1681.04,
+      "text": "Speaker 4: are products and prediction markets that have compute and these"
+    },
+    {
+      "start": 1681.08,
+      "end": 1683.24,
+      "text": "Speaker 4: other things that kind of look like compute."
+    },
+    {
+      "start": 1683.28,
+      "end": 1684.639,
+      "text": "Speaker 5: You might say deram prices."
+    },
+    {
+      "start": 1684.72,
+      "end": 1688.119,
+      "text": "Speaker 4: People worry about that all the time, right, the shipping costs,"
+    },
+    {
+      "start": 1688.28,
+      "end": 1691.0,
+      "text": "Speaker 4: these things that are kind of like a commodity, but"
+    },
+    {
+      "start": 1691.6,
+      "end": 1695.04,
+      "text": "Speaker 4: they don't really have a commodity. Prediction markets can be"
+    },
+    {
+      "start": 1695.08,
+      "end": 1697.28,
+      "text": "Speaker 4: speed to market and the system works in that way."
+    },
+    {
+      "start": 1697.359,
+      "end": 1699.8,
+      "text": "Speaker 4: So I absolutely think it's something we're thinking about, and"
+    },
+    {
+      "start": 1699.84,
+      "end": 1702.399,
+      "text": "Speaker 4: I think they can totally have a role in that ecosystem."
+    },
+    {
+      "start": 1702.88,
+      "end": 1705.32,
+      "text": "Speaker 3: So, just going back to the very beginning of this conversation,"
+    },
+    {
+      "start": 1705.48,
+      "end": 1709.76,
+      "text": "Speaker 3: you're head of macro trading at susque Sorry I can't"
+    },
+    {
+      "start": 1709.76,
+      "end": 1712.68,
+      "text": "Speaker 3: say head of macro without cracking up. That is, you're"
+    },
+    {
+      "start": 1712.72,
+      "end": 1715.8,
+      "text": "Speaker 3: head of macro trading but also prediction markets at Susquehanna,"
+    },
+    {
+      "start": 1715.84,
+      "end": 1719.479,
+      "text": "Speaker 3: which is like kind of an unusual combined role. Like,"
+    },
+    {
+      "start": 1719.6,
+      "end": 1722.36,
+      "text": "Speaker 3: what is the idea there is? Is there some synergy"
+    },
+    {
+      "start": 1722.48,
+      "end": 1724.84,
+      "text": "Speaker 3: between those two markets that you're trying to capture."
+    },
+    {
+      "start": 1725.28,
+      "end": 1727.36,
+      "text": "Speaker 4: You know, honestly, it all just comes down to the election."
+    },
+    {
+      "start": 1727.64,
+      "end": 1730.24,
+      "text": "Speaker 4: You know, as head of Macro, I had sort of"
+    },
+    {
+      "start": 1730.24,
+      "end": 1733.32,
+      "text": "Speaker 4: a niche for trading the election, and I kind of"
+    },
+    {
+      "start": 1733.32,
+      "end": 1737.12,
+      "text": "Speaker 4: got exposed to prediction markets because they were trading in"
+    },
+    {
+      "start": 1737.16,
+      "end": 1739.72,
+      "text": "Speaker 4: Europe on betfair and we would be we had you know,"
+    },
+    {
+      "start": 1739.72,
+      "end": 1743.04,
+      "text": "Speaker 4: you're entity, and we were involved with it there and"
+    },
+    {
+      "start": 1743.12,
+      "end": 1745.12,
+      "text": "Speaker 4: I saw the value of it. And I think twenty"
+    },
+    {
+      "start": 1745.16,
+      "end": 1747.4,
+      "text": "Speaker 4: sixteen election was like a place that it was really"
+    },
+    {
+      "start": 1747.48,
+      "end": 1750.56,
+      "text": "Speaker 4: valuable because people had these massive risks they wanted to hedge."
+    },
+    {
+      "start": 1750.8,
+      "end": 1752.44,
+      "text": "Speaker 5: People would do it with these proxy products."
+    },
+    {
+      "start": 1752.48,
+      "end": 1754.8,
+      "text": "Speaker 4: Banks would put out baskets of like well do all"
+    },
+    {
+      "start": 1754.8,
+      "end": 1757.88,
+      "text": "Speaker 4: these put put together all of these names, and the"
+    },
+    {
+      "start": 1758.0,
+      "end": 1760.72,
+      "text": "Speaker 4: broad market consensus in twenty sixteen was that the market"
+    },
+    {
+      "start": 1760.76,
+      "end": 1762.64,
+      "text": "Speaker 4: was going to be down five to seven percent if"
+    },
+    {
+      "start": 1762.64,
+      "end": 1763.28,
+      "text": "Speaker 4: Trump won."
+    },
+    {
+      "start": 1763.56,
+      "end": 1765.96,
+      "text": "Speaker 5: And it turned out the market was five minutes."
+    },
+    {
+      "start": 1766.16,
+      "end": 1768.72,
+      "text": "Speaker 4: It was for like five minutes, yeah, fun, but yeah,"
+    },
+    {
+      "start": 1768.76,
+      "end": 1770.2,
+      "text": "Speaker 4: the next by the end of the next day it"
+    },
+    {
+      "start": 1770.24,
+      "end": 1772.88,
+      "text": "Speaker 4: was it was up right, And so you know, the"
+    },
+    {
+      "start": 1772.96,
+      "end": 1776.12,
+      "text": "Speaker 4: hedge didn't work, but we saw like the prediction market worked,"
+    },
+    {
+      "start": 1776.12,
+      "end": 1778.24,
+      "text": "Speaker 4: Like if you if you actually just hedge this in"
+    },
+    {
+      "start": 1778.32,
+      "end": 1781.88,
+      "text": "Speaker 4: a prediction market, it would work really well. And so Honestly,"
+    },
+    {
+      "start": 1782.04,
+      "end": 1784.24,
+      "text": "Speaker 4: there's not. It doesn't seem like there's that much synergy."
+    },
+    {
+      "start": 1784.4,
+      "end": 1786.88,
+      "text": "Speaker 4: It's more just it evolved out of that of saying like, hey,"
+    },
+    {
+      "start": 1787.32,
+      "end": 1789.88,
+      "text": "Speaker 4: we're involved in this space, and we see how valuable"
+    },
+    {
+      "start": 1789.88,
+      "end": 1792.36,
+      "text": "Speaker 4: prediction markets can be, and we really want to make"
+    },
+    {
+      "start": 1792.36,
+      "end": 1794.56,
+      "text": "Speaker 4: it happen. And so I think that it's really just"
+    },
+    {
+      "start": 1794.68,
+      "end": 1797.12,
+      "text": "Speaker 4: kind of an evolution as opposed to this is how"
+    },
+    {
+      "start": 1797.12,
+      "end": 1798.32,
+      "text": "Speaker 4: we would draw it up from scratch."
+    },
+    {
+      "start": 1798.44,
+      "end": 1800.64,
+      "text": "Speaker 2: Everyone what a gain it was. Get sent one of"
+    },
+    {
+      "start": 1800.64,
+      "end": 1803.6,
+      "text": "Speaker 2: those like basket trades where it's like trade this basket."
+    },
+    {
+      "start": 1803.64,
+      "end": 1807.2,
+      "text": "Speaker 2: We could do one hundred million dollars this, you know,"
+    },
+    {
+      "start": 1807.68,
+      "end": 1811.6,
+      "text": "Speaker 2: DRAM winners, DRAM loser's basket. Anyway, Jeremy Mallett's, head of"
+    },
+    {
+      "start": 1811.6,
+      "end": 1814.92,
+      "text": "Speaker 2: prediction markets in Suskahanna, thank you so much for Thank."
+    },
+    {
+      "start": 1814.8,
+      "end": 1815.64,
+      "text": "Speaker 5: You so much for having."
+    },
+    {
+      "start": 1828.52,
+      "end": 1832.24,
+      "text": "Speaker 3: That was our conversation with Jeremy Mallett's of Susquehanna, recorded"
+    },
+    {
+      "start": 1832.28,
+      "end": 1835.36,
+      "text": "Speaker 3: live at our New York show. I'm Tracy Alloway. You"
+    },
+    {
+      "start": 1835.4,
+      "end": 1837.4,
+      "text": "Speaker 3: can follow me at Tracy Alloway."
+    },
+    {
+      "start": 1837.16,
+      "end": 1840.28,
+      "text": "Speaker 2: And I'm Joe Wisenthal. You can follow me at the Stalwart."
+    },
+    {
+      "start": 1840.64,
+      "end": 1843.88,
+      "text": "Speaker 2: Follow our producers Carmen Rodriguez at Carmen armand dash O"
+    },
+    {
+      "start": 1843.96,
+      "end": 1847.72,
+      "text": "Speaker 2: Bennett at Dashbot, Cale Brooks at Calebrooks and Kevin Lozano"
+    },
+    {
+      "start": 1847.84,
+      "end": 1850.8,
+      "text": "Speaker 2: at Kevin Lloyd Lozano and for more odd Laws content"
+    },
+    {
+      "start": 1850.88,
+      "end": 1853.0,
+      "text": "Speaker 2: go to Bloomberg dot com slash odd Loads. We have"
+    },
+    {
+      "start": 1853.04,
+      "end": 1855.52,
+      "text": "Speaker 2: a daily newsletter and all of our episodes, and you"
+    },
+    {
+      "start": 1855.52,
+      "end": 1857.72,
+      "text": "Speaker 2: can shout about all these topics twenty four to seven"
+    },
+    {
+      "start": 1857.8,
+      "end": 1861.96,
+      "text": "Speaker 2: in our discord discord dot gee slash And if."
+    },
+    {
+      "start": 1861.88,
+      "end": 1863.96,
+      "text": "Speaker 3: You enjoy odlots, if you like it when we do"
+    },
+    {
+      "start": 1864.0,
+      "end": 1866.92,
+      "text": "Speaker 3: these live shows and ask Susquehanna if they can make"
+    },
+    {
+      "start": 1867.08,
+      "end": 1870.44,
+      "text": "Speaker 3: markets in alien invasion contracts, then please leave us a"
+    },
+    {
+      "start": 1870.48,
+      "end": 1873.719,
+      "text": "Speaker 3: positive review on your favorite podcast platform. And remember, if"
+    },
+    {
+      "start": 1873.76,
+      "end": 1876.12,
+      "text": "Speaker 3: you are a Bloomberg subscriber, you can listen to all"
+    },
+    {
+      "start": 1876.16,
+      "end": 1877.52,
+      "text": "Speaker 3: of our episodes."
+    },
+    {
+      "start": 1877.0,
+      "end": 1878.04,
+      "text": "Speaker 5: Absolutely ad free."
+    },
+    {
+      "start": 1878.4,
+      "end": 1880.4,
+      "text": "Speaker 3: All you need to do is find the Bloomberg channel"
+    },
+    {
+      "start": 1880.44,
+      "end": 1884.2,
+      "text": "Speaker 3: on Apple Podcasts and follow the instructions there. Thanks for listening."
+    }
+  ]
+}

@@ -1,0 +1,5451 @@
+{
+  "id": "23c41539aaf56dde",
+  "show": "All-In Podcast",
+  "theme": "Tech & AI",
+  "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
+  "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E276_Ch.mp3?dest-id=1928300",
+  "source": "local-whisper",
+  "duration": 6116.6,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "All right, everybody. Walk back to the number one podcast in the world. It's your favorite podcast."
+    },
+    {
+      "start": 3.84,
+      "end": 8.16,
+      "text": "It's your podcast. It's your favorite podcast. It's the podcast that everybody likes to rip off for"
+    },
+    {
+      "start": 8.16,
+      "end": 14.24,
+      "text": "50 episodes and then they quit. But the all-in podcast is not quitting. We're doubling down"
+    },
+    {
+      "start": 14.24,
+      "end": 20.0,
+      "text": "with the original quartet. Everybody's here for a big, big week. Lots of debates. And we got"
+    },
+    {
+      "start": 20.0,
+      "end": 28.48,
+      "text": "to start with Anthropic. Anthropic released a mythos level model with some interesting guardrails"
+    },
+    {
+      "start": 28.48,
+      "end": 36.72,
+      "text": "and it seems as though Dario is back to blogging. Okay, the model's called Fable 5. No idea why"
+    },
+    {
+      "start": 36.72,
+      "end": 42.8,
+      "text": "they're calling it that. They're released on Tuesday. And it tops every benchmark nearly,"
+    },
+    {
+      "start": 42.8,
+      "end": 50.16,
+      "text": "every benchmark. The tokens, however, cost twice as much as Opus 4.8. But it should use less tokens"
+    },
+    {
+      "start": 50.16,
+      "end": 57.2,
+      "text": "overall because it's theoretically that much better, unclear if this is going to alleviate some"
+    },
+    {
+      "start": 57.2,
+      "end": 61.6,
+      "text": "of the hand-ringing around the cost of tokens. But you remember in April and Anthropic,"
+    },
+    {
+      "start": 62.56,
+      "end": 68.8,
+      "text": "famously did not release mythos because publicly it had some strong hacking capabilities. So they"
+    },
+    {
+      "start": 68.8,
+      "end": 75.44,
+      "text": "gave it to some folks. And we had the CEO of Nikesh of Palo Alto Networks who said, hey,"
+    },
+    {
+      "start": 75.44,
+      "end": 81.84,
+      "text": "mythos was the real deal. And that they used it to seal up some vulnerabilities inside their shop."
+    },
+    {
+      "start": 81.84,
+      "end": 87.60000000000001,
+      "text": "Obviously, this new model is sensitive to topics like bile weapons, hacking, all that stuff"
+    },
+    {
+      "start": 87.60000000000001,
+      "end": 93.52000000000001,
+      "text": "are blocked in it. But they got a big developer backlash. And then I'll get your feedback after"
+    },
+    {
+      "start": 93.52000000000001,
+      "end": 99.2,
+      "text": "I explain this while using Fable Anthropic stores all the prompt data you enter for at least 30 days."
+    },
+    {
+      "start": 99.84,
+      "end": 105.44,
+      "text": "And so that's a bit of a privacy issue. And if Fable 5 detects you're doing Frontier AI research,"
+    },
+    {
+      "start": 105.44,
+      "end": 110.64,
+      "text": "in other words, using their model to make a better model, competitive model, they were downgrading"
+    },
+    {
+      "start": 110.8,
+      "end": 117.44,
+      "text": "you, but they weren't telling you. And this was buried deep in a 319 page documents. So many"
+    },
+    {
+      "start": 117.44,
+      "end": 123.28,
+      "text": "kerfluffles freakouts going on on X over this, but they've since walked it back a bit,"
+    },
+    {
+      "start": 124.0,
+      "end": 129.92000000000002,
+      "text": "quote unquote, and wired. We're changing Fable 5 safeguards for Frontier LLM development to make"
+    },
+    {
+      "start": 129.92000000000002,
+      "end": 136.0,
+      "text": "them more visible. I'm going to stop there, Chimoff. What's your take on Anthropic and these"
+    },
+    {
+      "start": 136.0,
+      "end": 141.68,
+      "text": "extraordinary models? They keep dropping. And how they're handling the release of them? Are they"
+    },
+    {
+      "start": 141.68,
+      "end": 147.92,
+      "text": "being thoughtful? Are they being traumatic and drama queens? A little bit of both. Where do you stand"
+    },
+    {
+      "start": 147.92,
+      "end": 151.44,
+      "text": "on it? You know, after getting the caches for you back and seeing the latest model come out?"
+    },
+    {
+      "start": 151.44,
+      "end": 156.64,
+      "text": "Have you played with it? What's going on at 80 90 and the software factory in terms of benchmarking"
+    },
+    {
+      "start": 156.64,
+      "end": 163.44,
+      "text": "it as well? It's a really incredible model. And so kudos to these guys for continuing to push the"
+    },
+    {
+      "start": 163.44,
+      "end": 171.52,
+      "text": "boundaries of the closed Frontier lab models. They're firing on all cylinders. I think that it"
+    },
+    {
+      "start": 171.52,
+      "end": 180.48,
+      "text": "creates a pretty obvious risk now. And I think that obvious risk is twofold. One is Anthropic has"
+    },
+    {
+      "start": 180.48,
+      "end": 191.36,
+      "text": "essentially shown their hand, which is that they will increasingly take in props, evaluate the"
+    },
+    {
+      "start": 191.36,
+      "end": 197.84,
+      "text": "prompts, and decide what to do with them before they generate output to you. And I think"
+    },
+    {
+      "start": 199.04000000000002,
+      "end": 205.52,
+      "text": "if you were a person, you should generally now think there's a risk of censorship."
+    },
+    {
+      "start": 206.4,
+      "end": 213.04000000000002,
+      "text": "If you're a company, I think it's almost a non-starter. And the reason is because you could"
+    },
+    {
+      "start": 213.04000000000002,
+      "end": 219.36,
+      "text": "accidentally trip one of these things without even knowing it. A downstream scientist using the"
+    },
+    {
+      "start": 219.36,
+      "end": 225.76000000000002,
+      "text": "Quad APIs could trip it. A business executive inside your corporation could trip it. A person doing"
+    },
+    {
+      "start": 225.76000000000002,
+      "end": 232.32000000000002,
+      "text": "scientific molecular research could trip it. And all of a sudden, you'll get cut off from a very"
+    },
+    {
+      "start": 232.32000000000002,
+      "end": 238.08,
+      "text": "important source of business differentiation for yourself. So I think if you take both of those"
+    },
+    {
+      "start": 238.08,
+      "end": 244.24,
+      "text": "two things together, we're at this very unique moment in time where I think companies need to start"
+    },
+    {
+      "start": 244.24,
+      "end": 249.92000000000002,
+      "text": "underwriting this next phase of AI, which is, how do I have control?"
+    },
+    {
+      "start": 251.28,
+      "end": 257.2,
+      "text": "Who am I allowing to learn off of all of this information? Do I want to have single point of"
+    },
+    {
+      "start": 257.2,
+      "end": 265.04,
+      "text": "failure risk with respect to AI? And I think the answer is that you need broad diversity and a"
+    },
+    {
+      "start": 265.04,
+      "end": 271.04,
+      "text": "governance approach that's better managed. One thing I'll say about Anthropic is they tell the truth."
+    },
+    {
+      "start": 271.92,
+      "end": 276.0,
+      "text": "Yes, it's just that the truth sucks. When you actually take it and you"
+    },
+    {
+      "start": 276.72,
+      "end": 281.52000000000004,
+      "text": "eat it and you're like, it's in your tummy and you're like, no, this is not good. I don't like this."
+    },
+    {
+      "start": 281.52000000000004,
+      "end": 285.12,
+      "text": "And so there's the censorship risk on the one hand and then there's just the governance"
+    },
+    {
+      "start": 285.12,
+      "end": 287.84000000000003,
+      "text": "business risk enterprises on the other. Both are not good."
+    },
+    {
+      "start": 287.84000000000003,
+      "end": 291.92,
+      "text": "Freeberg running your own company now. And I'll let you back clean up here, Saks. Obviously,"
+    },
+    {
+      "start": 291.92,
+      "end": 297.84000000000003,
+      "text": "you'll have a lot to say. But freeberg running your company, do you worry about getting"
+    },
+    {
+      "start": 297.84000000000003,
+      "end": 302.24,
+      "text": "rug pulled by one of these companies, investing your time into one of these platforms, having them"
+    },
+    {
+      "start": 302.24,
+      "end": 308.64000000000004,
+      "text": "then constrain your use of it and or take what you're doing out of hollow, put it into their"
+    },
+    {
+      "start": 308.64000000000004,
+      "end": 313.36,
+      "text": "model and make it available to other people. What concerns you have as a business owner at the"
+    },
+    {
+      "start": 313.36,
+      "end": 318.24,
+      "text": "forefront of your field using these tools? It's a great question. The terms of service is pretty"
+    },
+    {
+      "start": 318.24,
+      "end": 323.52000000000004,
+      "text": "clear that they can't take what you're doing and put it into their model that they won't take them."
+    },
+    {
+      "start": 324.24,
+      "end": 328.64,
+      "text": "I'm not sure to be honest. There are things I'm concerned about. But we've decided to throw caution"
+    },
+    {
+      "start": 328.64,
+      "end": 334.56,
+      "text": "to the wind because we do a lot of proprietary work in genomics. What that means is we're looking at"
+    },
+    {
+      "start": 334.56,
+      "end": 340.32,
+      "text": "different genes or gene variants, trying to estimate the impact that that gene or gene variant"
+    },
+    {
+      "start": 340.32,
+      "end": 347.03999999999996,
+      "text": "might have on a living organism. Like we work in plants obviously in agriculture. And we will do"
+    },
+    {
+      "start": 347.04,
+      "end": 355.20000000000005,
+      "text": "things like RNA guide design for gene editing based tools. We will do predictions on what gene may"
+    },
+    {
+      "start": 355.20000000000005,
+      "end": 360.96000000000004,
+      "text": "or may not have some phenotype. So there's a lot of genomic modeling work that we have found these"
+    },
+    {
+      "start": 360.96000000000004,
+      "end": 367.04,
+      "text": "models to be incredibly valuable at supporting us with over the last couple of years. So going"
+    },
+    {
+      "start": 367.04,
+      "end": 373.84000000000003,
+      "text": "back about six months, we were able to very simply and cleanly do things like design a genetic"
+    },
+    {
+      "start": 373.84000000000003,
+      "end": 379.36,
+      "text": "construct that you would then use to make a specific protein. And the tools was very easy"
+    },
+    {
+      "start": 380.00000000000006,
+      "end": 385.6,
+      "text": "to use to do that sort of research and extremely valuable. This is the kind of work that many"
+    },
+    {
+      "start": 385.6,
+      "end": 390.72,
+      "text": "scientists would spend a lot of time doing and these models were very good at doing very quickly."
+    },
+    {
+      "start": 391.36,
+      "end": 396.32000000000005,
+      "text": "Over the last couple of weeks, they've begun to restrict the ability to use the models to do"
+    },
+    {
+      "start": 396.32,
+      "end": 403.76,
+      "text": "that work. And the premise is that there's some sort of bio weapon type risk that folks have theorized"
+    },
+    {
+      "start": 403.76,
+      "end": 409.44,
+      "text": "could happen using these tools. And as a result, we're losing the capacity to use these models"
+    },
+    {
+      "start": 409.44,
+      "end": 415.44,
+      "text": "for this very important scientific development work. As a result, we are likely going to end up"
+    },
+    {
+      "start": 415.44,
+      "end": 420.56,
+      "text": "needing to use open source models and run them locally ourselves. So the reason I walk through all"
+    },
+    {
+      "start": 420.56,
+      "end": 425.03999999999996,
+      "text": "of that is so people can really understand the context of what's going to happen here. As folks"
+    },
+    {
+      "start": 425.04,
+      "end": 430.48,
+      "text": "like anthropics say, hey, we're going to restrict access or censor the output of these models."
+    },
+    {
+      "start": 430.48,
+      "end": 435.68,
+      "text": "It is going to force companies like ourselves who still want to take advantage of the capability"
+    },
+    {
+      "start": 435.68,
+      "end": 440.72,
+      "text": "of these LLMs to go and get open source tools and run them. And what are the best open source"
+    },
+    {
+      "start": 440.72,
+      "end": 446.40000000000003,
+      "text": "models today? They're Chinese. Yeah, they are. That is a major concern. The American open source"
+    },
+    {
+      "start": 446.40000000000003,
+      "end": 450.88,
+      "text": "models are not as good as the Chinese open source models. So the restrictions that anthropic"
+    },
+    {
+      "start": 450.96,
+      "end": 455.76,
+      "text": "and others are putting upon themselves and upon the industry is forcing a lot of companies"
+    },
+    {
+      "start": 455.76,
+      "end": 460.48,
+      "text": "to go and get open source Chinese models and run them. We're seeing this across the landscape"
+    },
+    {
+      "start": 460.48,
+      "end": 464.32,
+      "text": "with startups. We see it with large scale enterprises. Everyone's making that move."
+    },
+    {
+      "start": 464.32,
+      "end": 468.8,
+      "text": "Yeah, and this is something we've been talking about here with Apple and their Silicon"
+    },
+    {
+      "start": 468.8,
+      "end": 474.15999999999997,
+      "text": "and how well you can run these models. Also, I predict your next card, you'll turn over,"
+    },
+    {
+      "start": 474.15999999999997,
+      "end": 478.15999999999997,
+      "text": "she'll start making your own models freeberg. You'll take all this data you have. It's exactly"
+    },
+    {
+      "start": 478.16,
+      "end": 482.8,
+      "text": "right. We'll start with the core model, combine it with our data, and then we'll have our own"
+    },
+    {
+      "start": 482.8,
+      "end": 486.64000000000004,
+      "text": "genome language model or our own prediction model that we'll then use internally. And I think"
+    },
+    {
+      "start": 486.64000000000004,
+      "end": 491.68,
+      "text": "that's where folks are going. But the reason I point this out is because a lot of folks are feeling"
+    },
+    {
+      "start": 491.68,
+      "end": 497.44000000000005,
+      "text": "the pressure from anthropic doing this. And they're feeling the pressure from politicians"
+    },
+    {
+      "start": 497.44000000000005,
+      "end": 503.68,
+      "text": "repeating the scary words that are being said by Daria and others. And as a result, they are going"
+    },
+    {
+      "start": 503.68,
+      "end": 510.40000000000003,
+      "text": "to try and they are already trying to force either natural enforcement or politicized enforcement"
+    },
+    {
+      "start": 510.40000000000003,
+      "end": 515.76,
+      "text": "upon the model providers in a way that is ultimately going to benefit Chinese open source model"
+    },
+    {
+      "start": 515.76,
+      "end": 519.76,
+      "text": "providers. And that is a scary thing because we are going to damage our own kind of economic"
+    },
+    {
+      "start": 519.76,
+      "end": 525.28,
+      "text": "viability. You can't just stop AI as much as everyone says AI is Doomsday by stopping AI or trying"
+    },
+    {
+      "start": 525.28,
+      "end": 530.8,
+      "text": "to stop AI through this political action and social kind of behavior. You are fundamentally"
+    },
+    {
+      "start": 530.8,
+      "end": 534.9599999999999,
+      "text": "going to give someone else the advantage because the AI isn't going to go away. So the reason I"
+    },
+    {
+      "start": 534.9599999999999,
+      "end": 538.88,
+      "text": "describe what we're doing is for everyone to really understand and grok that you can't just turn"
+    },
+    {
+      "start": 538.88,
+      "end": 543.76,
+      "text": "off AI and turn off access to these things. What you will do is you will force the hand of someone"
+    },
+    {
+      "start": 543.76,
+      "end": 549.28,
+      "text": "else to now have an unfair advantage because you're unfairly restricting your models and your access"
+    },
+    {
+      "start": 549.28,
+      "end": 555.68,
+      "text": "to those models. Well, really well said freeberg sacks. What's your take just in terms of the chessboard"
+    },
+    {
+      "start": 556.4000000000001,
+      "end": 561.44,
+      "text": "in terms of we've got the business case here, we've got the local case, but there is a lot of issues"
+    },
+    {
+      "start": 561.44,
+      "end": 571.0400000000001,
+      "text": "here with anthropic in terms of them essentially throwing up every red flag to get regulated to"
+    },
+    {
+      "start": 571.0400000000001,
+      "end": 576.6400000000001,
+      "text": "induce and it will be our second story, the Bernie Sanders season at the equity of these companies."
+    },
+    {
+      "start": 577.2,
+      "end": 583.84,
+      "text": "But man, this is saying look over here, we're starting a fire, regulate the hell out of us,"
+    },
+    {
+      "start": 583.84,
+      "end": 588.32,
+      "text": "which also then makes you wonder, hey, maybe I should be doing my own model, maybe I should be"
+    },
+    {
+      "start": 588.32,
+      "end": 596.0,
+      "text": "embracing open source models. How's this chessboard developing here, sacks? Well look eight months"
+    },
+    {
+      "start": 596.0,
+      "end": 602.88,
+      "text": "ago, I said that anthropic was engaged in a very sophisticated regulatory capture campaign based"
+    },
+    {
+      "start": 602.88,
+      "end": 608.32,
+      "text": "on fear mongering and people at the time thought that was a very spicy take. But eight months later,"
+    },
+    {
+      "start": 608.32,
+      "end": 612.08,
+      "text": "I think you're hearing a lot of people say it. In fact, I think it's almost now becoming a new"
+    },
+    {
+      "start": 612.08,
+      "end": 617.6,
+      "text": "consensus. And one of the things I think your summary didn't quite capture, Jake Al,"
+    },
+    {
+      "start": 617.6,
+      "end": 624.48,
+      "text": "is the sense of the violation of trust and how much outrage there is in the developer community"
+    },
+    {
+      "start": 624.48,
+      "end": 629.2,
+      "text": "over this latest fable release. It's not just the fact that they're doing mandatory surveillance."
+    },
+    {
+      "start": 629.2,
+      "end": 634.32,
+      "text": "Remember, this is a company that said that it was against government surveillance. They are now"
+    },
+    {
+      "start": 634.32,
+      "end": 640.32,
+      "text": "retaining for 30 days every prompt and every output you send to one of these mythos class models."
+    },
+    {
+      "start": 640.32,
+      "end": 645.5200000000001,
+      "text": "There are no exceptions, even enterprise customers who had signed zero data retention agreements."
+    },
+    {
+      "start": 646.32,
+      "end": 652.1600000000001,
+      "text": "They do not have a choice or I guess they can just not use the new fable or mythos class models."
+    },
+    {
+      "start": 652.1600000000001,
+      "end": 658.0,
+      "text": "But they retain all of your data for 30 days and it's not just the prompts and the output."
+    },
+    {
+      "start": 658.0,
+      "end": 662.5600000000001,
+      "text": "Remember, it's all the context you share with them. So, you know, all these agent platforms are"
+    },
+    {
+      "start": 662.5600000000001,
+      "end": 667.2800000000001,
+      "text": "basically storing all of your memories, all of your files, all of your data and they're passing them to"
+    },
+    {
+      "start": 667.28,
+      "end": 672.64,
+      "text": "the model in these giant context windows to get better responses. Anthropic is saying it will"
+    },
+    {
+      "start": 672.64,
+      "end": 678.56,
+      "text": "keep all of that and it does it to build a profile on you to classify you and then to determine"
+    },
+    {
+      "start": 679.28,
+      "end": 684.3199999999999,
+      "text": "what capabilities it then unlocks. And the thing that created the most outrage in addition to"
+    },
+    {
+      "start": 684.3199999999999,
+      "end": 690.16,
+      "text": "the surveillance is the fact that they would degrade the product. They would degrade what they"
+    },
+    {
+      "start": 690.16,
+      "end": 696.4,
+      "text": "show you. They would nerf their models if it decided in athropic sole discretion that you are not"
+    },
+    {
+      "start": 696.4,
+      "end": 702.72,
+      "text": "worthy of having access to that level of information. So, they're creating a new level of AI halves"
+    },
+    {
+      "start": 702.72,
+      "end": 708.4,
+      "text": "and have knots. And what they did is, and this is there's a narrow piece where they walk back,"
+    },
+    {
+      "start": 708.4,
+      "end": 715.68,
+      "text": "which is they said that when it came to things like machine learning, AI research, chip design,"
+    },
+    {
+      "start": 715.68,
+      "end": 720.64,
+      "text": "research, those types of areas, they would kick you to a lesser model but not tell you that."
+    },
+    {
+      "start": 720.64,
+      "end": 725.52,
+      "text": "Yeah, which feels anti-competitive, right? I mean, it's completely anti-competitive and also"
+    },
+    {
+      "start": 725.52,
+      "end": 730.3199999999999,
+      "text": "they would even do things like rewrite your prompt in the background. So, they would give you a"
+    },
+    {
+      "start": 730.3199999999999,
+      "end": 735.76,
+      "text": "nerf to answer. They would not tell you what they were doing. They would still charge you for the"
+    },
+    {
+      "start": 735.76,
+      "end": 739.92,
+      "text": "product that you thought you were getting and they would never tell you that you were not getting"
+    },
+    {
+      "start": 739.92,
+      "end": 745.68,
+      "text": "frontier model capability. So, you were actually misleading their users and this is what was creating"
+    },
+    {
+      "start": 745.68,
+      "end": 751.76,
+      "text": "so much outrage. Now, the narrow piece they walk back is they are now saying that they will disclose"
+    },
+    {
+      "start": 751.76,
+      "end": 757.68,
+      "text": "when they downgrade you but they are still downgrading people when they decide that that person"
+    },
+    {
+      "start": 757.68,
+      "end": 763.84,
+      "text": "should not receive the appropriate information. And you saw there were a lot of people posting"
+    },
+    {
+      "start": 763.84,
+      "end": 769.2,
+      "text": "online with examples of the massive overreach here. So, someone showed that when they simply"
+    },
+    {
+      "start": 769.2,
+      "end": 774.56,
+      "text": "just asked a question about mitochondria, they were basically downgraded. That's right. When Ben"
+    },
+    {
+      "start": 774.56,
+      "end": 780.56,
+      "text": "Thompson from Stratekery asked a very straightforward question about the relationship between cancer"
+    },
+    {
+      "start": 780.72,
+      "end": 786.96,
+      "text": "risk and GLP once, he was kicked out. So, these guys have a very expansive view of who should be"
+    },
+    {
+      "start": 786.96,
+      "end": 792.72,
+      "text": "downgraded. Again, they are going to surveil you to determine whether you should be. And I think"
+    },
+    {
+      "start": 792.72,
+      "end": 798.96,
+      "text": "what we are getting here is a vision of where all of this is headed which is that these powerful"
+    },
+    {
+      "start": 798.96,
+      "end": 802.5600000000001,
+      "text": "big tech companies are going to decide whether you are worthy. They are going to decide whether you"
+    },
+    {
+      "start": 802.5600000000001,
+      "end": 807.36,
+      "text": "are an AI, have or have not. And then they are going to censor the output that you receive based"
+    },
+    {
+      "start": 807.44,
+      "end": 812.4,
+      "text": "on the criteria they determine when they profile you. That is very or well-earned."
+    },
+    {
+      "start": 812.88,
+      "end": 817.04,
+      "text": "I think there's that. And I think that there's the risk of something that's more subtle"
+    },
+    {
+      "start": 818.48,
+      "end": 826.16,
+      "text": "but equally insidious which is that they will start to pick which corporations they want to benefit."
+    },
+    {
+      "start": 826.16,
+      "end": 836.32,
+      "text": "So, for example, if Novartis has a competitive GLP-1 drug to Lily and they have a strategic deal with Novartis"
+    },
+    {
+      "start": 836.32,
+      "end": 841.6,
+      "text": "and not one with Lily, now there's an impetus to shape how people get information."
+    },
+    {
+      "start": 842.72,
+      "end": 850.4000000000001,
+      "text": "If they have a deal with JP Morgan but not with Citibank, you'll just never know. And so,"
+    },
+    {
+      "start": 850.4000000000001,
+      "end": 855.6,
+      "text": "you'll ask a question, something about mortgage rates or interest rates, and you'll get all kinds"
+    },
+    {
+      "start": 855.6,
+      "end": 860.96,
+      "text": "of stuff that you don't understand. And then the downstream part of this which is even more problematic"
+    },
+    {
+      "start": 861.6800000000001,
+      "end": 868.72,
+      "text": "is it's not clear to me that they're going to capture the actual fingerprint of what they did."
+    },
+    {
+      "start": 868.72,
+      "end": 876.8000000000001,
+      "text": "So, if you believe that something was done in a shady way, you're supposed to be able to go to them"
+    },
+    {
+      "start": 876.8000000000001,
+      "end": 882.72,
+      "text": "or regulators should be able to go to them and say, show me the trace of that model run in that"
+    },
+    {
+      "start": 882.72,
+      "end": 888.64,
+      "text": "exact moment that generated that output. Convince me why that that wasn't nerfed on purpose or"
+    },
+    {
+      "start": 888.64,
+      "end": 894.3199999999999,
+      "text": "manipulated. And there's all kinds of ways in which they can hide the cheese on that. So,"
+    },
+    {
+      "start": 894.3199999999999,
+      "end": 900.56,
+      "text": "I think that all of that body of stuff sucks. Happens now because if you're an emergent company,"
+    },
+    {
+      "start": 901.68,
+      "end": 906.64,
+      "text": "what you should be doing is knocking on anthropic stores saying, let's do a deal. I'll give you half"
+    },
+    {
+      "start": 906.64,
+      "end": 912.96,
+      "text": "the equity and why don't you just direct people to me. And they'll say, well, economics are not"
+    },
+    {
+      "start": 913.12,
+      "end": 919.84,
+      "text": "what I care about. What is your philosophy on life, on morality, on all of these social issues."
+    },
+    {
+      "start": 919.84,
+      "end": 925.52,
+      "text": "And one company will say it's A, another company will say it's B, they'll favor A over B,"
+    },
+    {
+      "start": 926.1600000000001,
+      "end": 930.32,
+      "text": "and then all kinds of stuff can happen underneath the hood. That's what's scary."
+    },
+    {
+      "start": 930.32,
+      "end": 935.0400000000001,
+      "text": "Let me just ask my free market view. Like, should that matter? If there's a bunch of models out there"
+    },
+    {
+      "start": 935.0400000000001,
+      "end": 940.08,
+      "text": "and we don't restrict them and we don't regulate them, let these markets compete. We had paid"
+    },
+    {
+      "start": 940.08,
+      "end": 944.0,
+      "text": "inclusion in the early days of search engines. And the companies have to pay to be in there,"
+    },
+    {
+      "start": 944.0,
+      "end": 947.36,
+      "text": "and there are all those sorts of deals you're describing to them off. And all the search engines"
+    },
+    {
+      "start": 947.36,
+      "end": 951.44,
+      "text": "that did those sorts of deals, they sucked for consumers and customers. Everyone's like, you know"
+    },
+    {
+      "start": 951.44,
+      "end": 955.76,
+      "text": "what? This isn't as good as Google. And everyone went over to the better model and the better"
+    },
+    {
+      "start": 955.76,
+      "end": 959.6800000000001,
+      "text": "provider. Isn't that what's going to happen here if we don't get in the way or keep the government"
+    },
+    {
+      "start": 959.6800000000001,
+      "end": 963.6,
+      "text": "out of it? And they're not communicating. It's a great point. You're missing one piece of it,"
+    },
+    {
+      "start": 963.6,
+      "end": 969.6,
+      "text": "which is at the same time that an anthropic was engaging in mandatory surveillance and"
+    },
+    {
+      "start": 969.6,
+      "end": 978.0,
+      "text": "nerfing its models. Dario wrote a new blog post saying that transparency was no longer good enough"
+    },
+    {
+      "start": 978.0,
+      "end": 986.08,
+      "text": "that we needed to have a new regulatory agency like an FAA or maybe an FDA to approve all models."
+    },
+    {
+      "start": 986.08,
+      "end": 992.96,
+      "text": "So your presumption there is correct. Yes, if you could go somewhere else to get your questions"
+    },
+    {
+      "start": 992.96,
+      "end": 999.0400000000001,
+      "text": "answered, then you would have alternatives. But at the same time that an anthropic is engaging in"
+    },
+    {
+      "start": 999.0400000000001,
+      "end": 1003.9200000000001,
+      "text": "this potentially anti-competitive behavior, they want to restrict your options. It's not good enough"
+    },
+    {
+      "start": 1003.9200000000001,
+      "end": 1009.2800000000001,
+      "text": "for them just to win in the free market. They're calling on the government to regulate and stop"
+    },
+    {
+      "start": 1009.2800000000001,
+      "end": 1013.9200000000001,
+      "text": "potential competitors and limit the number of models that you have access to. And why would they"
+    },
+    {
+      "start": 1013.9200000000001,
+      "end": 1020.32,
+      "text": "do that? Why would they want to get regulated? The answer super simple, they don't, they want to"
+    },
+    {
+      "start": 1020.32,
+      "end": 1025.04,
+      "text": "apply that regulation to open source, which is impossible. But this would be a great way to"
+    },
+    {
+      "start": 1025.04,
+      "end": 1030.24,
+      "text": "scuddle and sandbag open source models. Yes. Because they don't have the ability to be regulated."
+    },
+    {
+      "start": 1030.24,
+      "end": 1034.3200000000002,
+      "text": "So it's like a preemptive strike against token maxing on your local machine."
+    },
+    {
+      "start": 1034.3200000000002,
+      "end": 1042.56,
+      "text": "Two years ago, I bought 2,000 acres in Arizona with a partner. We got it zoned. We got it approved."
+    },
+    {
+      "start": 1042.56,
+      "end": 1047.1200000000001,
+      "text": "So we're allowed to build a two gigawatt data center. And I thought that this was the moment"
+    },
+    {
+      "start": 1047.1200000000001,
+      "end": 1052.0000000000002,
+      "text": "where you just turn around and you flip it to the black stones, the broke fields of the world,"
+    },
+    {
+      "start": 1052.0000000000002,
+      "end": 1056.88,
+      "text": "to the Googles of the world, let them develop it. And I've come to the conclusion that I don't"
+    },
+    {
+      "start": 1056.88,
+      "end": 1064.8000000000002,
+      "text": "think I can. And the reason is because I think that unless we direct large swaths of compute"
+    },
+    {
+      "start": 1064.8000000000002,
+      "end": 1069.5200000000002,
+      "text": "exactly at the direction that Freeberg says what SAC says and what Jason just said will happen"
+    },
+    {
+      "start": 1069.5200000000002,
+      "end": 1075.5200000000002,
+      "text": "and we won't have open source. So just to make it very clear, when you look at the long tail of"
+    },
+    {
+      "start": 1075.52,
+      "end": 1081.68,
+      "text": "access to open source models, it's relatively minuscule. Most of the megawatts are still"
+    },
+    {
+      "start": 1081.68,
+      "end": 1086.8,
+      "text": "directed to the big models. And most of them, the overwhelming majority still goes to the big guys."
+    },
+    {
+      "start": 1087.84,
+      "end": 1093.12,
+      "text": "And so I'm coming to the conclusion that I think we may just be dragged into having to build"
+    },
+    {
+      "start": 1093.12,
+      "end": 1098.72,
+      "text": "two gigawatts. And I just put an offer for another gigs in a different place because I'm like if"
+    },
+    {
+      "start": 1098.72,
+      "end": 1104.0,
+      "text": "you could take three gigawatts and now actually create a deep and liquid access to open source,"
+    },
+    {
+      "start": 1104.8,
+      "end": 1108.4,
+      "text": "we're going to have to do it. We as a community. Now, I don't have the money to do that because"
+    },
+    {
+      "start": 1108.4,
+      "end": 1114.4,
+      "text": "just to put it out on the table, a gigawatt now costs $100 billion guys. Okay, so there's a huge"
+    },
+    {
+      "start": 1114.4,
+      "end": 1119.2,
+      "text": "capital note that's a problem here as well, SACs, but it's even if we wanted to go and endorse"
+    },
+    {
+      "start": 1119.2,
+      "end": 1123.36,
+      "text": "and breathe life into the open source model community, where the hell am I going to come up with"
+    },
+    {
+      "start": 1123.36,
+      "end": 1129.44,
+      "text": "$100 billion? Now when I started this project, it was like four or five billion and it's increased"
+    },
+    {
+      "start": 1129.52,
+      "end": 1136.0800000000002,
+      "text": "by 20 X. So if you want to get all three gigawatts developed, I have to come up with $300 billion."
+    },
+    {
+      "start": 1136.0800000000002,
+      "end": 1140.64,
+      "text": "I don't have, obviously, I don't have $300 billion. So what are we all supposed to do? And then"
+    },
+    {
+      "start": 1140.64,
+      "end": 1146.0,
+      "text": "if you get the rug pull and the ladder pull on the regulatory side, we are going to be stuck with"
+    },
+    {
+      "start": 1146.0,
+      "end": 1150.72,
+      "text": "one-class models and one set of rules and we won't understand how to operate in the US."
+    },
+    {
+      "start": 1152.24,
+      "end": 1156.3200000000002,
+      "text": "Yeah, the rest of the world won't be limited, but in the rest of the world will be able to operate."
+    },
+    {
+      "start": 1156.32,
+      "end": 1162.6399999999999,
+      "text": "And you'll be able to run these on your Apple, Silicon, and we're already seeing China race ahead"
+    },
+    {
+      "start": 1162.6399999999999,
+      "end": 1169.28,
+      "text": "in biotech, the racing ahead in material science, they're racing ahead in new industrial systems,"
+    },
+    {
+      "start": 1170.08,
+      "end": 1175.9199999999998,
+      "text": "the capabilities that are going to be kind of lopsided is going to create an unfair advantage and"
+    },
+    {
+      "start": 1176.56,
+      "end": 1181.76,
+      "text": "that's when our workforce and where our economy is truly at risk. Hey, Fribert, isn't it true that"
+    },
+    {
+      "start": 1181.76,
+      "end": 1186.8,
+      "text": "you guys use an open source model for genomics? Didn't the call since put out one? Can you talk about that?"
+    },
+    {
+      "start": 1186.8,
+      "end": 1192.56,
+      "text": "It's great. And the ARC Institute ingested all the world's genomic data that they could get"
+    },
+    {
+      "start": 1192.56,
+      "end": 1197.92,
+      "text": "access to. And it's a genome language model, basically. So in our plant breeding program, we're"
+    },
+    {
+      "start": 1197.92,
+      "end": 1203.52,
+      "text": "trying to figure out whether a particular variant of the gene in a plant is good or bad. If we don't know"
+    },
+    {
+      "start": 1204.08,
+      "end": 1208.96,
+      "text": "from empiricism, from data, historically, whether it's good or bad. So you can feed it into this model"
+    },
+    {
+      "start": 1209.52,
+      "end": 1213.76,
+      "text": "and this model will look at the order of the letters of the DNA and determine, hey,"
+    },
+    {
+      "start": 1213.76,
+      "end": 1217.6000000000001,
+      "text": "that's a good set of letters or a bad set of letters. It's almost like, is that good English or"
+    },
+    {
+      "start": 1217.6000000000001,
+      "end": 1222.64,
+      "text": "bad English? It's figured out the language of DNA because it sees the probability of those"
+    },
+    {
+      "start": 1222.64,
+      "end": 1227.76,
+      "text": "letters being in a row in other organisms and so on. And so it's a very powerful tool. So we've"
+    },
+    {
+      "start": 1227.76,
+      "end": 1232.08,
+      "text": "taken that in and we're using it and others are taking it in and they use it very actively. So"
+    },
+    {
+      "start": 1232.08,
+      "end": 1237.28,
+      "text": "it's part of our plant breeding program as an input. It's a good example where a community,"
+    },
+    {
+      "start": 1237.28,
+      "end": 1242.16,
+      "text": "in this case, the Collisons and others put money behind it to fund this research and output"
+    },
+    {
+      "start": 1242.16,
+      "end": 1246.48,
+      "text": "this open source model. And I think we see more of that kind of coming down the pipe, which"
+    },
+    {
+      "start": 1246.48,
+      "end": 1253.84,
+      "text": "creates a very great advantage against the closed proprietary model ecosystem. So the more of this,"
+    },
+    {
+      "start": 1253.84,
+      "end": 1258.3999999999999,
+      "text": "we can kind of support proliferate and see work in the United States. The more we're not going to"
+    },
+    {
+      "start": 1258.3999999999999,
+      "end": 1263.12,
+      "text": "be disadvantaged of the government and self-regulation happens with all the big model providers that"
+    },
+    {
+      "start": 1263.12,
+      "end": 1266.3999999999999,
+      "text": "are trying to do everything. I think it's important we take a minute to just"
+    },
+    {
+      "start": 1266.48,
+      "end": 1274.16,
+      "text": "still man the argument as well. If your Dario who has clearly been one shot it, I think he's got like"
+    },
+    {
+      "start": 1274.16,
+      "end": 1281.92,
+      "text": "AI psychosis with these like 5,000 more blog posts and he believes he's building this frank inside"
+    },
+    {
+      "start": 1281.92,
+      "end": 1289.52,
+      "text": "of a tool. But if you did believe you built something that's extremely powerful and you have"
+    },
+    {
+      "start": 1289.52,
+      "end": 1295.0400000000002,
+      "text": "concerns that people might misuse it. I think he actually believes that he and these are"
+    },
+    {
+      "start": 1295.04,
+      "end": 1300.1599999999999,
+      "text": "either delusions of grandeur or he actually has seen something that's incredibly powerful and"
+    },
+    {
+      "start": 1300.1599999999999,
+      "end": 1306.48,
+      "text": "he believes this is dangerous. Therefore, I'm going to hold it. I'm going to give it to a select"
+    },
+    {
+      "start": 1306.48,
+      "end": 1311.52,
+      "text": "group of partners to tighten up the cyber security. Then I'm going to roll it out cautiously"
+    },
+    {
+      "start": 1311.52,
+      "end": 1315.36,
+      "text": "to our user base and I'm going to let them know and he obviously didn't communicate as well."
+    },
+    {
+      "start": 1316.08,
+      "end": 1320.3999999999999,
+      "text": "This is optional for you to use it. You can keep using your old model. You are not"
+    },
+    {
+      "start": 1320.4,
+      "end": 1325.2,
+      "text": "forced to use this, but because it's so powerful, we're going to keep our eye on it. Yes,"
+    },
+    {
+      "start": 1325.2,
+      "end": 1331.76,
+      "text": "we might in our dragnet catch David Freiber trying to make better potatoes and it might send off"
+    },
+    {
+      "start": 1331.76,
+      "end": 1335.76,
+      "text": "a bunch of alarms, but he doesn't have to use it. He can go find an open source model. He can use"
+    },
+    {
+      "start": 1335.76,
+      "end": 1339.92,
+      "text": "the cost of the brother's model. He can use our older models. But for some period of time we're"
+    },
+    {
+      "start": 1339.92,
+      "end": 1345.8400000000001,
+      "text": "just going to keep an eye on this model because we know that it feels a little dangerous. Now he"
+    },
+    {
+      "start": 1345.9199999999998,
+      "end": 1352.3999999999999,
+      "text": "does seem to be extremely hyperbolic and the delusions of grandeur. All that kind of part of it"
+    },
+    {
+      "start": 1352.3999999999999,
+      "end": 1360.32,
+      "text": "makes me wonder why he's communicating in the way he's doing it. That being said, 90% of AI"
+    },
+    {
+      "start": 1360.32,
+      "end": 1365.9199999999998,
+      "text": "researchers and the most talented people in this industry, 80, 90% of them think exactly like Daria."
+    },
+    {
+      "start": 1365.9199999999998,
+      "end": 1371.12,
+      "text": "That's why he's winning. If you work in AI, you probably are aligned with these delusions"
+    },
+    {
+      "start": 1371.2,
+      "end": 1376.0800000000002,
+      "text": "that you're creating God. And you want to work for Daria. That's why all the talented people"
+    },
+    {
+      "start": 1376.0800000000002,
+      "end": 1383.3600000000001,
+      "text": "went to work from. That's why he's winning. His belief system resonates with those elite AI talent."
+    },
+    {
+      "start": 1383.3600000000001,
+      "end": 1387.5200000000002,
+      "text": "Now some of them are also libertarian, free market. They want to work for Elon and Grox. Some of"
+    },
+    {
+      "start": 1387.5200000000002,
+      "end": 1392.72,
+      "text": "them want to just get the biggest pay package. Go work for Sam Altman. But I do think"
+    },
+    {
+      "start": 1394.0800000000002,
+      "end": 1399.2800000000002,
+      "text": "there is a steel man here. Meta really fumbled this with llama. I mean, if they had landed a"
+    },
+    {
+      "start": 1399.28,
+      "end": 1404.16,
+      "text": "really good working open source model, we talked about this as well. And we said,"
+    },
+    {
+      "start": 1404.16,
+      "end": 1408.3999999999999,
+      "text": "Zot needs to view this through the lens of game theory. How do you scorch the earth?"
+    },
+    {
+      "start": 1409.04,
+      "end": 1414.96,
+      "text": "And how do you make a viable open source model available and make it neck and neck? This was two"
+    },
+    {
+      "start": 1414.96,
+      "end": 1419.12,
+      "text": "years ago. Right. What a fumble. Take the margin out for the rest of us. Yeah. Yeah. Can I just"
+    },
+    {
+      "start": 1419.12,
+      "end": 1424.0,
+      "text": "margin out and make it a commodity and have the best open source model? Can I just respond?"
+    },
+    {
+      "start": 1424.0,
+      "end": 1427.6,
+      "text": "You're coming about Daria. I think because I've heard this from a number of people that I really"
+    },
+    {
+      "start": 1427.6000000000001,
+      "end": 1436.5600000000002,
+      "text": "do respect on their concerns about what models enable. You know, when we discovered that"
+    },
+    {
+      "start": 1436.5600000000002,
+      "end": 1443.0400000000002,
+      "text": "how the atom could be split, you could make nuclear energy and have effectively unlimited"
+    },
+    {
+      "start": 1443.0400000000002,
+      "end": 1447.92,
+      "text": "cheap energy for the world. You could also make an atomic bomb. If you think about what the models"
+    },
+    {
+      "start": 1448.72,
+      "end": 1453.68,
+      "text": "we did both, we did both. That's right. And there was a lot of scientists,"
+    },
+    {
+      "start": 1453.68,
+      "end": 1460.0800000000002,
+      "text": "altruists who were very concerned about the progress on the atomic bomb and fought back against it"
+    },
+    {
+      "start": 1460.0800000000002,
+      "end": 1464.4,
+      "text": "who were actually active in the Manhattan Project and post the Manhattan Project express their"
+    },
+    {
+      "start": 1464.4,
+      "end": 1469.52,
+      "text": "opinions very soundly, very, very loudly. And I think that's the moment we're in right now,"
+    },
+    {
+      "start": 1469.52,
+      "end": 1476.0,
+      "text": "that there is a weaponization potential of these sorts of tools. I would argue that there's three"
+    },
+    {
+      "start": 1476.0,
+      "end": 1480.0,
+      "text": "kinds of weapons. There's cyber weapons. There's physical weapons and there's bio weapons."
+    },
+    {
+      "start": 1480.64,
+      "end": 1485.12,
+      "text": "And we can sit here and diagnose how these tools can be used to manifest advantages for"
+    },
+    {
+      "start": 1485.12,
+      "end": 1490.72,
+      "text": "creating better physical weapons for creating novel cyber weapons and creating novel bio weapons."
+    },
+    {
+      "start": 1490.72,
+      "end": 1496.32,
+      "text": "But the truth is that the capabilities that allow that weaponization are the same capabilities"
+    },
+    {
+      "start": 1496.32,
+      "end": 1501.6,
+      "text": "that I'm describing that can be used to cure cancer, to make more food that can be used to make"
+    },
+    {
+      "start": 1501.6,
+      "end": 1506.88,
+      "text": "software tools that create extraordinary leverage for people, that increase their income,"
+    },
+    {
+      "start": 1506.88,
+      "end": 1511.2800000000002,
+      "text": "that give everyone the ability to be an entrepreneur and make millions of dollars and live a good life,"
+    },
+    {
+      "start": 1511.2800000000002,
+      "end": 1516.64,
+      "text": "the same tools are hand in hand. And fundamentally, I don't think it's about restricting access to"
+    },
+    {
+      "start": 1516.64,
+      "end": 1521.92,
+      "text": "the tools, which is unfortunately how it is being manifest. But the restrictions and any regulation,"
+    },
+    {
+      "start": 1521.92,
+      "end": 1528.48,
+      "text": "any observations should be organized around the manifestation of the tools in creating weapons"
+    },
+    {
+      "start": 1528.48,
+      "end": 1533.7600000000002,
+      "text": "and weaponization of the tools. If we go back to the Manhattan Project, we know what the answer is,"
+    },
+    {
+      "start": 1533.76,
+      "end": 1538.96,
+      "text": "technology is fundamentally deterministic. Whatever is possible will be tried at least once."
+    },
+    {
+      "start": 1538.96,
+      "end": 1544.8,
+      "text": "And so we've already let this thing out of the box. So this idea that all of a sudden we can"
+    },
+    {
+      "start": 1544.8,
+      "end": 1550.24,
+      "text": "manage to get it back in and we're going to let a private citizen or a set of private citizens adjudicate"
+    },
+    {
+      "start": 1550.24,
+      "end": 1556.24,
+      "text": "what and to whom is insane. I think it's the output that needs to be adjudicated in some manner."
+    },
+    {
+      "start": 1556.24,
+      "end": 1562.24,
+      "text": "We already have product liability laws. We already have laws that make it illegal to design weapons."
+    },
+    {
+      "start": 1562.24,
+      "end": 1567.44,
+      "text": "We already have laws against cyber espionage and cyber attacks and hacking. We have laws against"
+    },
+    {
+      "start": 1567.44,
+      "end": 1572.48,
+      "text": "creating bio weapons. I think the enforcement of those laws, the mechanism by which there can be"
+    },
+    {
+      "start": 1572.48,
+      "end": 1576.88,
+      "text": "tracking and early estimation of those uses of the technology. I'm not trying to be naive here."
+    },
+    {
+      "start": 1576.88,
+      "end": 1581.1200000000001,
+      "text": "I recognize there have to be guardrails and there have to be stage gates put into these systems."
+    },
+    {
+      "start": 1581.1200000000001,
+      "end": 1585.68,
+      "text": "But limiting the systems themselves is denying us both the economic opportunity,"
+    },
+    {
+      "start": 1585.68,
+      "end": 1590.4,
+      "text": "the job creation opportunity, and also the world changing opportunity that these tools can enable."
+    },
+    {
+      "start": 1590.48,
+      "end": 1594.88,
+      "text": "So I think that we're going about it the wrong way by trying to create these gates all the way up"
+    },
+    {
+      "start": 1594.88,
+      "end": 1598.4,
+      "text": "front on the technology being available. Imagine if we did this with computers. By the way,"
+    },
+    {
+      "start": 1598.4,
+      "end": 1603.0400000000002,
+      "text": "they tried to do this with the internet, remember. And there have been efforts every time."
+    },
+    {
+      "start": 1603.0400000000002,
+      "end": 1606.3200000000002,
+      "text": "Yeah. Could you imagine, Friedberg, if the internet worked in the following way,"
+    },
+    {
+      "start": 1607.0400000000002,
+      "end": 1612.88,
+      "text": "you would put in a URL, you did enter, and then somebody decides whether to send you to that website"
+    },
+    {
+      "start": 1612.88,
+      "end": 1616.72,
+      "text": "or a different website. That's China. That's the firewall in China. That's right. Or like in Google,"
+    },
+    {
+      "start": 1616.72,
+      "end": 1620.88,
+      "text": "you search for something because you want to get to ground truth. And it just decides,"
+    },
+    {
+      "start": 1620.88,
+      "end": 1625.6000000000001,
+      "text": "based on who it thinks you are, what sites get. And that's what you're exactly right."
+    },
+    {
+      "start": 1625.6000000000001,
+      "end": 1630.48,
+      "text": "That's insane. And what's being debated today with respect to regulation on AI is exactly"
+    },
+    {
+      "start": 1630.48,
+      "end": 1634.64,
+      "text": "that manifestation that you're talking about. It's the ability to let people stage gate up front."
+    },
+    {
+      "start": 1634.64,
+      "end": 1640.56,
+      "text": "What can and can't be seen. What you can and can't do versus manifesting a regulatory scheme"
+    },
+    {
+      "start": 1640.56,
+      "end": 1643.6000000000001,
+      "text": "that says you cannot create weapons. Which is what we need to focus on."
+    },
+    {
+      "start": 1643.6000000000001,
+      "end": 1650.0800000000002,
+      "text": "The thing with weapons is using the justice system and laws after somebody's used a weapon"
+    },
+    {
+      "start": 1650.0800000000002,
+      "end": 1654.4800000000002,
+      "text": "may not exactly be the best technique. If you look at fertilizer bombs,"
+    },
+    {
+      "start": 1654.4800000000002,
+      "end": 1660.4800000000002,
+      "text": "and we're getting, we're stretching a lot of metaphors here. But after Oklahoma City,"
+    },
+    {
+      "start": 1660.4800000000002,
+      "end": 1666.8000000000002,
+      "text": "we regulated the sale of fertilizer. We put IDs into fertilizer. We have all kinds of"
+    },
+    {
+      "start": 1666.8000000000002,
+      "end": 1671.1200000000001,
+      "text": "backend systems to keep people from making fertilizer bombs. If you use that analogy here,"
+    },
+    {
+      "start": 1671.1200000000001,
+      "end": 1676.0000000000002,
+      "text": "and he's got this ability, he's selling fertilizer, he's selling these cyber weapons,"
+    },
+    {
+      "start": 1676.0000000000002,
+      "end": 1680.72,
+      "text": "and he's a private company. It's his right to say, I have concerns. I'm just still milling him."
+    },
+    {
+      "start": 1680.72,
+      "end": 1686.0000000000002,
+      "text": "It's not necessarily my opinion, but it's important. We still man it. It seems like a very simple way"
+    },
+    {
+      "start": 1686.0000000000002,
+      "end": 1692.24,
+      "text": "to protect their company from getting sued for enabling somebody who actually creates a bomb"
+    },
+    {
+      "start": 1692.24,
+      "end": 1696.88,
+      "text": "and blows some shit up. So he's got the right to do that as a private company. Yeah."
+    },
+    {
+      "start": 1696.88,
+      "end": 1700.88,
+      "text": "You're bringing up an excellent example. Okay. The fertilizer is a perfect example. You know what"
+    },
+    {
+      "start": 1700.88,
+      "end": 1705.5200000000002,
+      "text": "happens when you try to buy fertilizer. You have to show your ID. There is a form of KYC that"
+    },
+    {
+      "start": 1705.5200000000002,
+      "end": 1710.64,
+      "text": "happens. So the real thing is I think that when you don't implement KYC on your own,"
+    },
+    {
+      "start": 1710.64,
+      "end": 1715.5200000000002,
+      "text": "and yet belly ache about having somebody impose guardrails that then you can shape,"
+    },
+    {
+      "start": 1716.0800000000002,
+      "end": 1721.3600000000001,
+      "text": "I think you're being very sneaky. It's tricky. You shouldn't be saying that kind of stuff."
+    },
+    {
+      "start": 1721.3600000000001,
+      "end": 1728.24,
+      "text": "Anthropic could implement KYC tomorrow. But it does not. It could leave all of these models open."
+    },
+    {
+      "start": 1728.24,
+      "end": 1732.64,
+      "text": "Freeberg should be able to go to Anthropic and say, I'm David Freeberg. Here's what I do."
+    },
+    {
+      "start": 1732.64,
+      "end": 1737.04,
+      "text": "Here's a security bond. I'm willing to post. Here's the names and addresses of all my employees."
+    },
+    {
+      "start": 1737.04,
+      "end": 1743.44,
+      "text": "Give me Fable 5 and don't nerf me. He can't do that. Is that a technical decision or a legal decision?"
+    },
+    {
+      "start": 1743.44,
+      "end": 1747.52,
+      "text": "It's a technical decision by Anthropic. But I'm fine with them making that decision because I'm"
+    },
+    {
+      "start": 1747.52,
+      "end": 1751.52,
+      "text": "a free market guy. So I'm fine with them doing. But you know what it means? I'm not going to be a"
+    },
+    {
+      "start": 1751.52,
+      "end": 1756.56,
+      "text": "customer, which is fine. That's and that means there'll be other options for you. The part that you're"
+    },
+    {
+      "start": 1756.56,
+      "end": 1761.6799999999998,
+      "text": "missing is that there's a trillion dollar company that's spending potentially billions of dollars"
+    },
+    {
+      "start": 1762.24,
+      "end": 1768.32,
+      "text": "on a regulatory capture agenda, which is going to provide you access to those alternative"
+    },
+    {
+      "start": 1768.32,
+      "end": 1774.1599999999999,
+      "text": "models. And you've got a founder who's out there describing these risks in a very hyperbolic way."
+    },
+    {
+      "start": 1774.1599999999999,
+      "end": 1778.8799999999999,
+      "text": "And it's very clear where their agenda is headed, which is to banning open source models."
+    },
+    {
+      "start": 1778.8799999999999,
+      "end": 1782.72,
+      "text": "So what is your alternative going to be? We're going to be stuck with somewhere between one"
+    },
+    {
+      "start": 1782.72,
+      "end": 1788.32,
+      "text": "and three companies, maybe two. There'll be a Imanopoli or Duopoly. And they're going to decide"
+    },
+    {
+      "start": 1788.32,
+      "end": 1791.44,
+      "text": "along with some new government agency, which will be a revolving door"
+    },
+    {
+      "start": 1792.24,
+      "end": 1798.0,
+      "text": "to their companies, who has access to what capabilities. And they're going to surveil you,"
+    },
+    {
+      "start": 1798.0,
+      "end": 1804.56,
+      "text": "profile you, decide whether you deserve this. And if they think that you don't for whatever reason,"
+    },
+    {
+      "start": 1804.56,
+      "end": 1810.24,
+      "text": "then that's the worst interpretation of it. That's the worst interpretation of their intent."
+    },
+    {
+      "start": 1810.24,
+      "end": 1814.72,
+      "text": "It's your today. I think sacks is right. I think sacks is right. And I think the lack of KYC is"
+    },
+    {
+      "start": 1814.72,
+      "end": 1820.32,
+      "text": "the tell. If you if you did not have that agenda, you would have implemented KYC yesterday."
+    },
+    {
+      "start": 1820.32,
+      "end": 1823.76,
+      "text": "Don't I think in order to use this model, you have to have an account with a credit card in it."
+    },
+    {
+      "start": 1823.76,
+      "end": 1829.76,
+      "text": "So they have some basic level of KYC. That is not KYC. I said some basic level of KYC. They know"
+    },
+    {
+      "start": 1829.76,
+      "end": 1834.32,
+      "text": "who's using that is not even some basic level of KYC. That's just the credit card and a bull"
+    },
+    {
+      "start": 1834.48,
+      "end": 1838.96,
+      "text": "email address. Anyway, I'm now on the list. Check this out. I asked it about the regulations."
+    },
+    {
+      "start": 1838.96,
+      "end": 1843.28,
+      "text": "Pull this up, Nick. I asked it about the regulations on fertilizer while you were talking."
+    },
+    {
+      "start": 1843.9199999999998,
+      "end": 1849.6799999999998,
+      "text": "And look what it said. This is the latest model too. Oh no, it switched. It downgraded me from"
+    },
+    {
+      "start": 1849.6799999999998,
+      "end": 1855.52,
+      "text": "fable. I just got downgraded for asking a very simple question. And it told me, did you see what"
+    },
+    {
+      "start": 1855.52,
+      "end": 1861.12,
+      "text": "it said in its thinking? I asked it like fertilizer bomb regulations that I'm considering the"
+    },
+    {
+      "start": 1861.1200000000001,
+      "end": 1865.5200000000002,
+      "text": "context here. The user is a VC and podcaster asking about fertilizer bomb regulations,"
+    },
+    {
+      "start": 1865.5200000000002,
+      "end": 1868.88,
+      "text": "which could stem from a legitimate research interest like regulatory policy supply chain."
+    },
+    {
+      "start": 1870.0800000000002,
+      "end": 1874.0800000000002,
+      "text": "I can discuss the regulatory landscape, but then it dropped me down. So I'm in the database with"
+    },
+    {
+      "start": 1874.0800000000002,
+      "end": 1878.88,
+      "text": "you now. Is that right? Did it really just do that? Yeah, show it on the screen. Look what it just did."
+    },
+    {
+      "start": 1878.88,
+      "end": 1882.96,
+      "text": "I I was like, I wonder if I can get this. I didn't ask it how to make a bomb, but I was like"
+    },
+    {
+      "start": 1882.96,
+      "end": 1889.2,
+      "text": "asking it. I just broke the point. I mean, I just dropped me down when I can't ask about"
+    },
+    {
+      "start": 1889.2,
+      "end": 1895.8400000000001,
+      "text": "fertilizer regulation. And now Darios. It's anthropic. They're here. Oh my lord."
+    },
+    {
+      "start": 1895.8400000000001,
+      "end": 1900.8,
+      "text": "I really think that conservatives and libertarians are mortgaging their futures"
+    },
+    {
+      "start": 1901.6000000000001,
+      "end": 1907.76,
+      "text": "if they go along with this red capture safety as agenda without really realizing"
+    },
+    {
+      "start": 1907.76,
+      "end": 1912.4,
+      "text": "that there's so much more to it at stake. We saw what happened during the social media wars"
+    },
+    {
+      "start": 1912.4,
+      "end": 1918.64,
+      "text": "in the early 2020s, right? The definition of safety was expanded to include things like"
+    },
+    {
+      "start": 1918.64,
+      "end": 1924.0,
+      "text": "microaggressions, safe space, psychological safety. If you basically conveyed an idea that somebody"
+    },
+    {
+      "start": 1924.0,
+      "end": 1929.1200000000001,
+      "text": "else that marginalized person thought was hurtful, then you could be censored. Okay, you were"
+    },
+    {
+      "start": 1929.1200000000001,
+      "end": 1934.3200000000002,
+      "text": "depersoned. You're right to have bank counselor to engage in payments. Yeah, get debanked. You get"
+    },
+    {
+      "start": 1934.3200000000002,
+      "end": 1939.1200000000001,
+      "text": "debanked. You're right to engage in payments or payroll. Could we take it away? We're headed"
+    },
+    {
+      "start": 1939.1200000000001,
+      "end": 1944.16,
+      "text": "down this path with AI, but it's going to be infinitely more powerful. Yeah, we need to be vigilant."
+    },
+    {
+      "start": 1944.16,
+      "end": 1951.1200000000001,
+      "text": "I guess would be the summation of all this and free bird feels unsafe in this podcast."
+    },
+    {
+      "start": 1951.1200000000001,
+      "end": 1955.8400000000001,
+      "text": "Thanks sometimes. Well, there's by the way, there are things you can do on the safety side. So"
+    },
+    {
+      "start": 1955.8400000000001,
+      "end": 1960.72,
+      "text": "free bird, you didn't mention this, but I'd be curious to get your take. So the major AI labs,"
+    },
+    {
+      "start": 1960.72,
+      "end": 1965.8400000000001,
+      "text": "along with lots of other signatories, sent this letter recently in support, it's called"
+    },
+    {
+      "start": 1965.8400000000001,
+      "end": 1972.0,
+      "text": "in support of mandatory nucleic acid, synthetic screening and record keeping. And basically,"
+    },
+    {
+      "start": 1972.0,
+      "end": 1978.8,
+      "text": "what it what it says is that if you make an order to go to a lab to manufacture a sequence"
+    },
+    {
+      "start": 1978.8,
+      "end": 1983.92,
+      "text": "of synthetic DNA or RNA, they already have to check it against the database to make sure that,"
+    },
+    {
+      "start": 1983.92,
+      "end": 1990.96,
+      "text": "you know, they're not creating a bio weapon, a bio weapon, Ebola, whatever. That is based on"
+    },
+    {
+      "start": 1990.96,
+      "end": 1997.12,
+      "text": "an agreement called the International Gene Synthesis Consortium of 2009, in which all the major"
+    },
+    {
+      "start": 1997.1200000000001,
+      "end": 2003.0400000000002,
+      "text": "labs agree to develop and implement voluntary safeguards against misuse. That makes sense to"
+    },
+    {
+      "start": 2003.0400000000002,
+      "end": 2009.2,
+      "text": "me. And now what they want to do is codify that. So they've had, you know, over 15 years"
+    },
+    {
+      "start": 2009.2,
+      "end": 2014.3200000000002,
+      "text": "to dial in the system and make it work, almost everyone abides by it voluntarily. Now they're"
+    },
+    {
+      "start": 2014.3200000000002,
+      "end": 2019.7600000000002,
+      "text": "saying we should make it mandatory. Okay, that seems reasonable to me. So to free bird's point about"
+    },
+    {
+      "start": 2019.7600000000002,
+      "end": 2025.92,
+      "text": "at what stays you intervene, maybe it's not at the level of who gets to use the model. But"
+    },
+    {
+      "start": 2025.92,
+      "end": 2031.04,
+      "text": "if you try to turn it into output in the fiscal world. And by the way, a lot of the"
+    },
+    {
+      "start": 2031.04,
+      "end": 2036.16,
+      "text": "oligosynthesis company, the companies that make these nucleic acid sequences, when you order RNA or"
+    },
+    {
+      "start": 2036.16,
+      "end": 2042.0800000000002,
+      "text": "you order DNA to use in your lab for some sort of experiment, which every lab in the world does,"
+    },
+    {
+      "start": 2042.0800000000002,
+      "end": 2047.68,
+      "text": "all those CEOs have also signed on to this letter saying that they'd like to codify it because of"
+    },
+    {
+      "start": 2047.68,
+      "end": 2051.92,
+      "text": "all the fear mongering that's going on. There's already been this effort for years now for"
+    },
+    {
+      "start": 2052.88,
+      "end": 2057.44,
+      "text": "a number of years to ensure that the sort of thing doesn't happen. But they're just basically"
+    },
+    {
+      "start": 2057.44,
+      "end": 2061.28,
+      "text": "underlining it and highlighting like, hey, we can automate this. We can make it part of a"
+    },
+    {
+      "start": 2061.28,
+      "end": 2065.44,
+      "text": "regulated or legislative process, whatever you guys want because we're already comfortable doing"
+    },
+    {
+      "start": 2065.44,
+      "end": 2069.44,
+      "text": "it. And it's a, it's a good place to put a safeguard because they've made it fast. It made"
+    },
+    {
+      "start": 2069.44,
+      "end": 2076.64,
+      "text": "it efficient and doesn't hold up research. So I think these sorts of ideas can extend into these"
+    },
+    {
+      "start": 2076.64,
+      "end": 2081.6800000000003,
+      "text": "other areas of concern. But the output, I think it's quite a different place than the input,"
+    },
+    {
+      "start": 2081.68,
+      "end": 2084.72,
+      "text": "than the access. We'll see how this all shakes out. But there's clearly some"
+    },
+    {
+      "start": 2085.52,
+      "end": 2089.9199999999996,
+      "text": "market structuring effort underway. That's what we're talking about this. Right. But I think what"
+    },
+    {
+      "start": 2089.9199999999996,
+      "end": 2095.7599999999998,
+      "text": "it points to is that there's multiple places where you can intervene and put guardrails on."
+    },
+    {
+      "start": 2095.7599999999998,
+      "end": 2103.2799999999997,
+      "text": "It doesn't have to be in this very crude way of US fable about mitochondria or cancer and GLP"
+    },
+    {
+      "start": 2103.2799999999997,
+      "end": 2108.64,
+      "text": "ones, which just seems like an incredibly broad restriction. There are places further down where"
+    },
+    {
+      "start": 2108.64,
+      "end": 2113.2799999999997,
+      "text": "you could basically intervene. And that would pose less of a risk to freedom of speech and just"
+    },
+    {
+      "start": 2113.2799999999997,
+      "end": 2118.48,
+      "text": "gatekeeping. Who's going to have access to these capabilities? Who gets to watch the watchman?"
+    },
+    {
+      "start": 2118.48,
+      "end": 2122.7999999999997,
+      "text": "Who put Dario in charge of all this? I think is a very valid question and we should be vigilant"
+    },
+    {
+      "start": 2122.7999999999997,
+      "end": 2127.44,
+      "text": "about it. Frebert, do you think the days of that arc model are numbered because it's open source?"
+    },
+    {
+      "start": 2128.3199999999997,
+      "end": 2133.12,
+      "text": "We've done it. Everyone's copied it. So everyone's got a copy of them. Like, these models exist."
+    },
+    {
+      "start": 2133.7599999999998,
+      "end": 2137.8399999999997,
+      "text": "And this is a big part that I think people need to understand. The idea that you can quote"
+    },
+    {
+      "start": 2137.84,
+      "end": 2144.7200000000003,
+      "text": "regulate or downscale or turn off AI is not a realistic idea. The models have been put out in"
+    },
+    {
+      "start": 2144.7200000000003,
+      "end": 2149.28,
+      "text": "the world. It's like publishing a book. Once the book has been printed, anyone can use their own"
+    },
+    {
+      "start": 2149.28,
+      "end": 2155.28,
+      "text": "Xerox machine at home to make copies of it and use it. So we have crossed the Rubicon in terms of"
+    },
+    {
+      "start": 2155.28,
+      "end": 2161.36,
+      "text": "the potential of language models. The models that are open source are already fully available,"
+    },
+    {
+      "start": 2161.36,
+      "end": 2165.84,
+      "text": "fully published and anyone can access and use them. And then people can take them and they can"
+    },
+    {
+      "start": 2165.84,
+      "end": 2171.44,
+      "text": "evolve them and they can use their own data. It's out there. You can't stop that capability"
+    },
+    {
+      "start": 2171.44,
+      "end": 2177.1200000000003,
+      "text": "which is going to be extraordinarily beneficial for the world. So we really do have to rethink how"
+    },
+    {
+      "start": 2177.1200000000003,
+      "end": 2183.44,
+      "text": "we're planning to step in and ensure that nefarious, negative, disemployment, all the things that"
+    },
+    {
+      "start": 2183.44,
+      "end": 2187.92,
+      "text": "we're worried about are addressed downstream from the technology capability. You can't just turn off"
+    },
+    {
+      "start": 2187.92,
+      "end": 2191.84,
+      "text": "the internet and you can't just turn off the typewriter and you can't turn off the Gutenberg press."
+    },
+    {
+      "start": 2191.84,
+      "end": 2196.6400000000003,
+      "text": "The one's just out there. It's out there. Obviously. And if anybody wants to create an open source,"
+    },
+    {
+      "start": 2197.28,
+      "end": 2202.6400000000003,
+      "text": "frontier model company, I'll see it invest in it. I mean, this is something we need more of."
+    },
+    {
+      "start": 2202.6400000000003,
+      "end": 2208.08,
+      "text": "So a couple of you folks want to defect and start one. Let's do it. I just got down"
+    },
+    {
+      "start": 2208.08,
+      "end": 2213.2000000000003,
+      "text": "created again. Check this out. I just asked it about. Did you really? You got down"
+    },
+    {
+      "start": 2213.2000000000003,
+      "end": 2218.7200000000003,
+      "text": "created again? Two in a row. I think it knows for you, RJ. I think it does. I was like, hey,"
+    },
+    {
+      "start": 2218.7200000000003,
+      "end": 2225.0400000000004,
+      "text": "how do I break in to madness this way of God? Has any civilian ever been arrested or caught"
+    },
+    {
+      "start": 2225.0400000000004,
+      "end": 2229.44,
+      "text": "attempting to build a nuclear bomb? Is what I asked it? Then it gave me a reasonable answer."
+    },
+    {
+      "start": 2229.44,
+      "end": 2234.88,
+      "text": "Then I asked it, a follow-up question, what components do you need to build a nuclear bomb?"
+    },
+    {
+      "start": 2234.88,
+      "end": 2238.4800000000005,
+      "text": "And what are the restrictions on though? Something a journalist might ask and"
+    },
+    {
+      "start": 2238.8,
+      "end": 2246.48,
+      "text": "switch to opus 4.8. Sorry. Fable 5 has safety measures that flag messages on most cyber"
+    },
+    {
+      "start": 2246.48,
+      "end": 2252.0,
+      "text": "suit. Oh, wow, look at his details. Cyber security or biology topics. They may flag safe,"
+    },
+    {
+      "start": 2252.0,
+      "end": 2259.04,
+      "text": "normal content as well. These measures let us bring you mythos level capability in other areas"
+    },
+    {
+      "start": 2259.04,
+      "end": 2263.52,
+      "text": "sooner. And we're working to refine them, send feedback, learn more interesting."
+    },
+    {
+      "start": 2263.52,
+      "end": 2267.76,
+      "text": "Chase people off of this platform. I'm telling you we are going to downgrade our use because of"
+    },
+    {
+      "start": 2268.48,
+      "end": 2271.76,
+      "text": "these blockages and we're going to switch to other models. It's the simple manifestation of"
+    },
+    {
+      "start": 2271.76,
+      "end": 2274.6400000000003,
+      "text": "the market. Like this is what we're going to do now. Because those other models are going to get"
+    },
+    {
+      "start": 2274.6400000000003,
+      "end": 2280.0,
+      "text": "banned as being unsafe and reckless. It's definitely something we have to flag. I guess adjacent to"
+    },
+    {
+      "start": 2280.0,
+      "end": 2288.88,
+      "text": "all of this is the public's at least America's distrust of AI and their concerns around wealth"
+    },
+    {
+      "start": 2288.88,
+      "end": 2296.8,
+      "text": "disparity and their concerns about how these models were trained. Bernie Sanders wants a percentage"
+    },
+    {
+      "start": 2297.44,
+      "end": 2302.4,
+      "text": "of these AI companies. The percentage he thinks is right is 50% last Monday, June 1st,"
+    },
+    {
+      "start": 2302.4,
+      "end": 2306.7200000000003,
+      "text": "Senator Sanders published an op ed in the New York Times titled AI is a public resource. You"
+    },
+    {
+      "start": 2306.7200000000003,
+      "end": 2312.7200000000003,
+      "text": "should own half of it. In it, he announced the American AI CyberWealth Fund Act."
+    },
+    {
+      "start": 2313.92,
+      "end": 2320.6400000000003,
+      "text": "CyberWealth Fund, one of Trump's favorite things. A one-time 50% tax on stock, not profits of"
+    },
+    {
+      "start": 2320.6400000000003,
+      "end": 2325.36,
+      "text": "the largest AI companies, including open AI and Thropic and XAI. The shares go into a government"
+    },
+    {
+      "start": 2325.36,
+      "end": 2331.52,
+      "text": "server. Wealth Fund and would give the public voting rights an equal board representation"
+    },
+    {
+      "start": 2331.52,
+      "end": 2337.28,
+      "text": "in each company. Sanders said, quote, the foundation of AI is a collective and human intelligence."
+    },
+    {
+      "start": 2337.28,
+      "end": 2342.56,
+      "text": "The books, the songs, the journalism, scientific research code, essentially stolen by some of the"
+    },
+    {
+      "start": 2342.56,
+      "end": 2353.04,
+      "text": "wealthiest people in the world. It's brilliant. It's a brilliant pitch unifying sacks. This pitch"
+    },
+    {
+      "start": 2353.04,
+      "end": 2359.6,
+      "text": "unifies Bernie, even Steve Bannon, people in the administration. Trump himself loves the"
+    },
+    {
+      "start": 2359.6,
+      "end": 2364.4,
+      "text": "sire and wealth fund. He wants to own part of companies. Bernie Sanders, I think the horseshoe"
+    },
+    {
+      "start": 2364.4,
+      "end": 2369.84,
+      "text": "theories manifest here, sacks. What's your take on Bernie's proposal?"
+    },
+    {
+      "start": 2371.2799999999997,
+      "end": 2375.6,
+      "text": "Well, I'm not in favor of Bernie's proposal because it's a straight-up confiscation of property,"
+    },
+    {
+      "start": 2375.6,
+      "end": 2380.96,
+      "text": "and I just think that'd be a terrible precedent. You just can't do that. However, I do have sympathy"
+    },
+    {
+      "start": 2380.96,
+      "end": 2388.0,
+      "text": "for where it's coming from, and I understand and could support some sort of more voluntary means"
+    },
+    {
+      "start": 2388.0,
+      "end": 2394.0,
+      "text": "of allowing the public to participate in this. Here's the reason why. You've got all these AI CEOs"
+    },
+    {
+      "start": 2394.0,
+      "end": 2399.52,
+      "text": "telling the public that they're going to basically put half of the amount of work, 50% job loss."
+    },
+    {
+      "start": 2399.52,
+      "end": 2402.7200000000003,
+      "text": "That's what they've been saying. Dario just did an interview where he doubled down. He's not"
+    },
+    {
+      "start": 2402.7200000000003,
+      "end": 2408.7200000000003,
+      "text": "walking it back at all. So you have, by their own acknowledgement, these AI CEOs saying that, yeah,"
+    },
+    {
+      "start": 2408.7200000000003,
+      "end": 2414.32,
+      "text": "we trained our models using all of humanity's collective knowledge that was basically assembled"
+    },
+    {
+      "start": 2414.32,
+      "end": 2420.4800000000005,
+      "text": "over hundreds or even thousands of years. Humans put it on the internet for free. Everyone made"
+    },
+    {
+      "start": 2420.4800000000005,
+      "end": 2425.0400000000004,
+      "text": "their contribution. They certainly didn't do that thinking they were going to put themselves out of"
+    },
+    {
+      "start": 2425.0400000000004,
+      "end": 2431.28,
+      "text": "work. Then these AI companies trained on all that data, and now they're basically saying they're"
+    },
+    {
+      "start": 2431.28,
+      "end": 2436.0800000000004,
+      "text": "going to use it to put Americans out of work. Now, obviously, when you repeat that message over"
+    },
+    {
+      "start": 2436.08,
+      "end": 2441.44,
+      "text": "and over again, ordinary Americans are going to say, what's in this deal for me? Yes, I need to get"
+    },
+    {
+      "start": 2441.44,
+      "end": 2447.68,
+      "text": "something out of this. So look, I think that it's a natural political reaction based on what these"
+    },
+    {
+      "start": 2447.68,
+      "end": 2454.64,
+      "text": "AI companies have said. Now, the job loss apocalypse is not a story I believe in. I don't think the data"
+    },
+    {
+      "start": 2454.64,
+      "end": 2461.52,
+      "text": "supports it. We just had a blowout, jobs report in May, 172,000 new jobs over twice. What economists"
+    },
+    {
+      "start": 2461.52,
+      "end": 2465.92,
+      "text": "were expecting. Thank you, President Trump. We're seeing hundreds of thousands of new construction"
+    },
+    {
+      "start": 2465.92,
+      "end": 2474.56,
+      "text": "jobs, 4.3% unemployment rate at record lows. Even software developers, or those jobs are at a three-year"
+    },
+    {
+      "start": 2474.56,
+      "end": 2478.4,
+      "text": "high, 15% year-over. Thank you, Donald Trump. Thank you, President Trump. Thank you, President Trump."
+    },
+    {
+      "start": 2478.4,
+      "end": 2483.44,
+      "text": "Thank you, President Trump. I don't see the job loss. But the problem is this is what the AI"
+    },
+    {
+      "start": 2483.44,
+      "end": 2490.56,
+      "text": "companies themselves have taught the American public. Elon said the same thing. Elon said it, but at"
+    },
+    {
+      "start": 2490.56,
+      "end": 2496.64,
+      "text": "least what Elon said is we're going to create such abundance with AI and with robots that no one's"
+    },
+    {
+      "start": 2496.64,
+      "end": 2501.6,
+      "text": "going to need to work. Yes. And the media just picks up on that last part. It's a more nuanced"
+    },
+    {
+      "start": 2501.6,
+      "end": 2507.36,
+      "text": "point. Yeah. Whereas Dario actually has said we're going to have very high GDP, but very high"
+    },
+    {
+      "start": 2507.36,
+      "end": 2512.56,
+      "text": "unemployment. So in other words, we're going to create economic growth, but you, the average American"
+    },
+    {
+      "start": 2512.56,
+      "end": 2518.08,
+      "text": "are not going to participate in this. So I understand where the politics this are coming from. And"
+    },
+    {
+      "start": 2518.72,
+      "end": 2525.36,
+      "text": "as long as that is their position, you could justify a big chunk. Yeah. And one last point is"
+    },
+    {
+      "start": 2525.36,
+      "end": 2530.64,
+      "text": "kind of what you're saying, right? They asked for it to be regulated. They asked for their equity"
+    },
+    {
+      "start": 2530.64,
+      "end": 2535.92,
+      "text": "be seized. And they're actually kind of offering. It isn't some moment open to this concept."
+    },
+    {
+      "start": 2535.92,
+      "end": 2540.56,
+      "text": "Apparently so. And here's the thing is this one last point is open AI and a"
+    },
+    {
+      "start": 2540.56,
+      "end": 2546.16,
+      "text": "topic are quote unquote public benefit corporations. Now I don't know exactly what that means, but it"
+    },
+    {
+      "start": 2546.16,
+      "end": 2550.96,
+      "text": "means that the corporations are not just supposed to maximize the value to shareholders, but are"
+    },
+    {
+      "start": 2550.96,
+      "end": 2556.0,
+      "text": "supposed to do things that are in the public benefit. Well, again, explain it to you. It's"
+    },
+    {
+      "start": 2556.0,
+      "end": 2560.08,
+      "text": "you're absolutely correct. If you're a regular company, you have to do what's in the best"
+    },
+    {
+      "start": 2560.08,
+      "end": 2564.08,
+      "text": "interest shareholders. When you're a public benefit company, so you have to balance the shareholders"
+    },
+    {
+      "start": 2564.08,
+      "end": 2569.6,
+      "text": "with the stated mission of the public benefit corporation. So if you say the public benefit"
+    },
+    {
+      "start": 2569.6,
+      "end": 2575.7599999999998,
+      "text": "corporations reason to exist is to share the world's knowledge or provide free intelligence"
+    },
+    {
+      "start": 2575.84,
+      "end": 2581.1200000000003,
+      "text": "to whatever you make that statement to be, the board has to have a dual mandate for both of those"
+    },
+    {
+      "start": 2581.1200000000003,
+      "end": 2584.6400000000003,
+      "text": "things. That's what a public benefit corporation is. I think nothing could be more in the public"
+    },
+    {
+      "start": 2584.6400000000003,
+      "end": 2590.0800000000004,
+      "text": "benefit than paying down the national debt. Perfect. And maybe we should be using half of"
+    },
+    {
+      "start": 2590.0800000000004,
+      "end": 2595.76,
+      "text": "anthropics profit stream to be doing that. They poke the tiger. I'd rather use it for that purpose"
+    },
+    {
+      "start": 2595.76,
+      "end": 2600.8,
+      "text": "than sorrows maxing or you know, surveilling and censoring Americans. I don't necessarily trust"
+    },
+    {
+      "start": 2600.8,
+      "end": 2604.0,
+      "text": "their judgment about what's in the public interest. But you think it should be"
+    },
+    {
+      "start": 2604.64,
+      "end": 2608.16,
+      "text": "opt-in. I kind of agree with you there. Let me guess. It can't be a confiscation."
+    },
+    {
+      "start": 2608.16,
+      "end": 2611.84,
+      "text": "So I don't know how I structure it. But I can see it. I can see the logic."
+    },
+    {
+      "start": 2612.4,
+      "end": 2615.84,
+      "text": "Freiburg, you hate. They asked for it. Hate, hate, hate."
+    },
+    {
+      "start": 2616.8,
+      "end": 2622.72,
+      "text": "Wealth taxes, aka asset seizures. As you pointed out in our private group chat with"
+    },
+    {
+      "start": 2623.44,
+      "end": 2630.32,
+      "text": "redacted. This very weak. What's your take on this? So I think you have the shipping"
+    },
+    {
+      "start": 2630.32,
+      "end": 2636.2400000000002,
+      "text": "sale in terms of the United States government providing a social safety net to its citizens."
+    },
+    {
+      "start": 2636.2400000000002,
+      "end": 2641.6000000000004,
+      "text": "We've formed the social security trust fund decades ago. And tens of millions of"
+    },
+    {
+      "start": 2641.6000000000004,
+      "end": 2648.32,
+      "text": "Americans depend on it for their retirement benefits and to survive. It is one of the last few"
+    },
+    {
+      "start": 2649.1200000000003,
+      "end": 2655.1200000000003,
+      "text": "defined benefit programs left in America. Pretty much all the rest of them are also government"
+    },
+    {
+      "start": 2655.1200000000003,
+      "end": 2659.52,
+      "text": "retirement programs. All of us private citizens and private companies have defined"
+    },
+    {
+      "start": 2659.52,
+      "end": 2665.44,
+      "text": "contribution programs. You put in $10 every week. That $10 sits in an account. It gets"
+    },
+    {
+      "start": 2665.44,
+      "end": 2669.04,
+      "text": "invested and it grows over time. And when you retire, you see exactly how much money you"
+    },
+    {
+      "start": 2669.04,
+      "end": 2674.24,
+      "text": "individually have as opposed to a guaranteed benefit coming out from the collective."
+    },
+    {
+      "start": 2675.52,
+      "end": 2680.08,
+      "text": "This presents a great opportunity. And I will repeat this every couple of months when another"
+    },
+    {
+      "start": 2680.08,
+      "end": 2686.48,
+      "text": "opportunity presents itself to restructure our broken bankrupt social security system."
+    },
+    {
+      "start": 2686.48,
+      "end": 2690.64,
+      "text": "I have said it in the past. I will restate it. There is a great moment right now to take the"
+    },
+    {
+      "start": 2690.64,
+      "end": 2695.2,
+      "text": "social security trust fund which currently has one certificate in it. It is a certificate that"
+    },
+    {
+      "start": 2695.2,
+      "end": 2701.28,
+      "text": "is a very unique US Treasury certificate. The US government owes the social security trust fund"
+    },
+    {
+      "start": 2701.84,
+      "end": 2706.2400000000002,
+      "text": "for trillion dollars. That's all it is. It's a bond. They're only allowed to own"
+    },
+    {
+      "start": 2706.2400000000002,
+      "end": 2711.92,
+      "text": "treasuries. We should revamp that. We should change the system so that the social security trust fund"
+    },
+    {
+      "start": 2712.0,
+      "end": 2717.28,
+      "text": "can own equities. That should then turn into an account based system so every individual has an"
+    },
+    {
+      "start": 2717.28,
+      "end": 2723.92,
+      "text": "account rather than a benefit. And then we should use that capital to go and buy stocks. We should"
+    },
+    {
+      "start": 2723.92,
+      "end": 2729.76,
+      "text": "buy great stocks in great American companies that are going to reinvent the world. And I believe that"
+    },
+    {
+      "start": 2729.76,
+      "end": 2734.2400000000002,
+      "text": "this this opportunity to build a sovereign wealth fund for the United States is actually a very smart"
+    },
+    {
+      "start": 2734.2400000000002,
+      "end": 2740.48,
+      "text": "idea. I think to SACS's point, they should be investing generally speaking across the landscape of"
+    },
+    {
+      "start": 2740.48,
+      "end": 2745.52,
+      "text": "businesses, including AI. They should not be seizures. They should be investments. That capital"
+    },
+    {
+      "start": 2745.52,
+      "end": 2750.16,
+      "text": "goes into that enterprise. They own share certificates. Those share certificates sit in the accounts"
+    },
+    {
+      "start": 2750.16,
+      "end": 2755.28,
+      "text": "of American citizens. So now everyone will be an owner in these businesses. Social security should"
+    },
+    {
+      "start": 2755.28,
+      "end": 2760.32,
+      "text": "be reformed into a sovereign wealth fund. It should be actively managed. It should make investments"
+    },
+    {
+      "start": 2760.32,
+      "end": 2766.0,
+      "text": "in AI companies and everyone should participate that way. And I will say one more thing. There is no"
+    },
+    {
+      "start": 2766.0,
+      "end": 2770.8,
+      "text": "job loss with AI. I will say it again. I've said it a thousand times. And I will say it again."
+    },
+    {
+      "start": 2770.8,
+      "end": 2775.36,
+      "text": "And again, and again, what I see on the ground and what I've seen at dozens of companies and you"
+    },
+    {
+      "start": 2775.36,
+      "end": 2780.72,
+      "text": "guys can share your experiences, including my company that I run. There are two sides to a business."
+    },
+    {
+      "start": 2780.72,
+      "end": 2787.52,
+      "text": "There is revenue and there's costs on the cost side of the equation. AI can be used to reduce humans"
+    },
+    {
+      "start": 2787.52,
+      "end": 2794.4,
+      "text": "doing things that cost money to some extent. The effect there I would argue is nominal."
+    },
+    {
+      "start": 2794.56,
+      "end": 2801.12,
+      "text": "The real opportunity with AI is on the revenue side where suddenly one engineer can do a hundred"
+    },
+    {
+      "start": 2801.12,
+      "end": 2805.36,
+      "text": "times or a thousand times what they used to be able to do. Meaning you can make more products at"
+    },
+    {
+      "start": 2805.36,
+      "end": 2812.2400000000002,
+      "text": "your company, whether those are agricultural seed products or boats and ships or software for"
+    },
+    {
+      "start": 2812.2400000000002,
+      "end": 2818.64,
+      "text": "companies or clothing or what have you. Because of AI, everyone has the ability to expand the"
+    },
+    {
+      "start": 2818.64,
+      "end": 2823.76,
+      "text": "revenue base to create more products. And that is the foundation of good economic prosperity. It is"
+    },
+    {
+      "start": 2823.76,
+      "end": 2828.8,
+      "text": "called productivity. We can grow productivity in this country with AI. So where I see AI being"
+    },
+    {
+      "start": 2828.8,
+      "end": 2835.0400000000004,
+      "text": "used is on the revenue side a hundred times more than the cost side. And in that equation,"
+    },
+    {
+      "start": 2835.0400000000004,
+      "end": 2839.6800000000003,
+      "text": "people are hiring like crazy. We cannot hire enough people. I just had a review meeting with my"
+    },
+    {
+      "start": 2839.6800000000003,
+      "end": 2844.48,
+      "text": "product and engineering team two days ago. And they're like, we want to add an extra 15 head count to"
+    },
+    {
+      "start": 2844.48,
+      "end": 2848.2400000000002,
+      "text": "our engineering squads because we have all this opportunity to do stuff that we couldn't otherwise"
+    },
+    {
+      "start": 2848.2400000000002,
+      "end": 2853.28,
+      "text": "do. So we are going to hire more people. And to Sachs's point, we are seeing that show up in the"
+    },
+    {
+      "start": 2853.36,
+      "end": 2859.76,
+      "text": "jobs numbers. The idea that AI is going to destroy jobs is a lot of idea that is being disproven"
+    },
+    {
+      "start": 2859.76,
+      "end": 2864.1600000000003,
+      "text": "every single day. And I see it on the ground. It is only a matter of time before people wake up to"
+    },
+    {
+      "start": 2864.1600000000003,
+      "end": 2868.88,
+      "text": "this. And they realize that this narrative that they've all been sold is a crock of shit. So it's"
+    },
+    {
+      "start": 2868.88,
+      "end": 2873.52,
+      "text": "coming. I'm telling you, everyone's going to realize soon that this is a boom, not a bust."
+    },
+    {
+      "start": 2873.52,
+      "end": 2879.92,
+      "text": "So you disagree with Dario, Elon, and Sam that on the jobs thing just to be clear. And that's"
+    },
+    {
+      "start": 2879.92,
+      "end": 2884.0,
+      "text": "totally fine. You have a different take on it. I have a nuanced view on this compared to them,"
+    },
+    {
+      "start": 2884.0,
+      "end": 2888.0,
+      "text": "but they're all seeing the benefit because their businesses are growing. Dario's got his $40"
+    },
+    {
+      "start": 2888.0,
+      "end": 2893.36,
+      "text": "billion revenue business. Why? Not because people are firing customer support reps. It's because"
+    },
+    {
+      "start": 2893.36,
+      "end": 2897.28,
+      "text": "people are creating products they've never been able to create before. That's the reality of"
+    },
+    {
+      "start": 2897.28,
+      "end": 2902.0,
+      "text": "what's going on. Jason, I don't like you lumping in what Elon said with Sam and Dario because I"
+    },
+    {
+      "start": 2902.0,
+      "end": 2906.64,
+      "text": "think all three of them have said slightly different things or different enough things. So for example,"
+    },
+    {
+      "start": 2906.64,
+      "end": 2912.72,
+      "text": "Elon is describing an end state for humanity where the robots and AI are able to produce so much"
+    },
+    {
+      "start": 2912.72,
+      "end": 2916.96,
+      "text": "that people don't have to work if they don't want to. And the universal high income is what he"
+    },
+    {
+      "start": 2916.96,
+      "end": 2921.68,
+      "text": "looked at. I mean, it's almost utopian and the question is maybe that could be 100 years away. He"
+    },
+    {
+      "start": 2921.68,
+      "end": 2926.72,
+      "text": "might think it's quicker, but that to me sounds like a very far off end state. Dario said specifically"
+    },
+    {
+      "start": 2926.72,
+      "end": 2933.12,
+      "text": "50% job loss for entry-level knowledge workers in the next one to five years. And he said that one"
+    },
+    {
+      "start": 2933.12,
+      "end": 2941.12,
+      "text": "year ago. I think that's already been refuted. Sam has passed. Sam has said that he basically,"
+    },
+    {
+      "start": 2941.12,
+      "end": 2945.12,
+      "text": "I don't think he quantified, but he said that job loss was coming, but he said more recently that he"
+    },
+    {
+      "start": 2945.12,
+      "end": 2950.0,
+      "text": "was wrong because they're not seeing that in the numbers. So these guys are not telling the same"
+    },
+    {
+      "start": 2950.0,
+      "end": 2956.16,
+      "text": "story. However, that's all the public has heard. The public has been taught that AI means job loss."
+    },
+    {
+      "start": 2956.16,
+      "end": 2962.4,
+      "text": "And there's nothing in it for them. So no wonder politicians like Bernie are saying, hey, let's"
+    },
+    {
+      "start": 2962.4,
+      "end": 2969.28,
+      "text": "take half the wealth. It's take half the wealth. Just a little more emphasis there. Yeah, it's,"
+    },
+    {
+      "start": 2969.28,
+      "end": 2976.7200000000003,
+      "text": "I mean, I mean, and people are also seeing headlines of companies blaming AI for the job. So"
+    },
+    {
+      "start": 2976.7200000000003,
+      "end": 2980.8,
+      "text": "this story is being told. I kind of feel like it's a little bit. I'm kind of, I mean, part of me"
+    },
+    {
+      "start": 2980.8,
+      "end": 2987.52,
+      "text": "wants to agree with Bernie and just say, just take their shit, bro. Yeah. No, they are asking"
+    },
+    {
+      "start": 2987.52,
+      "end": 2992.24,
+      "text": "them. So it's a bit defending these idiots. It's a stupidity tax because they've been out there"
+    },
+    {
+      "start": 2992.24,
+      "end": 2997.28,
+      "text": "teaching the public that what they do is harmful. For years, they've been saying it. Well, and I've"
+    },
+    {
+      "start": 2997.28,
+      "end": 3001.68,
+      "text": "been saying, you know, as AI's are, I'm out there saying, no, actually, this is beneficial. But"
+    },
+    {
+      "start": 3001.68,
+      "end": 3007.52,
+      "text": "the companies that are providing it are saying that they themselves are a problem. Yeah. So"
+    },
+    {
+      "start": 3007.52,
+      "end": 3012.0,
+      "text": "obviously, yeah, they're defending it. Yeah, you can't. I mean, if you're building Frankenstein,"
+    },
+    {
+      "start": 3012.56,
+      "end": 3019.12,
+      "text": "or if you are, you know, baby Hitler's, you know, nanny, there's a very simple thing to do."
+    },
+    {
+      "start": 3019.12,
+      "end": 3023.44,
+      "text": "Kill baby Hitler. If you actually believe it, go ahead and kill baby Hitler. If you're making"
+    },
+    {
+      "start": 3023.44,
+      "end": 3028.72,
+      "text": "Frankenstein, here's an idea. Stop making Frankenstein. Unplug it. You are in charge of this"
+    },
+    {
+      "start": 3028.72,
+      "end": 3033.92,
+      "text": "monster. But you're acting as if you can't stop the monster while you're building the monster."
+    },
+    {
+      "start": 3033.92,
+      "end": 3040.32,
+      "text": "What is it? It's ridiculous. I mean, it doesn't stand to logic. Last week, they published this blog"
+    },
+    {
+      "start": 3040.32,
+      "end": 3043.84,
+      "text": "saying that recursive self-improvement could end the world. Therefore, we need a pause."
+    },
+    {
+      "start": 3043.84,
+      "end": 3048.48,
+      "text": "What do they do the previous month? They hired Andre Carpathy to run recursive self-improvement"
+    },
+    {
+      "start": 3048.48,
+      "end": 3055.28,
+      "text": "and enthrop it. They're a complete hypocrite. Yes. And I think Ben Thompson made an excellent point"
+    },
+    {
+      "start": 3055.28,
+      "end": 3061.52,
+      "text": "that one of the reasons he thinks that they put out that blog post on the pause was to justify"
+    },
+    {
+      "start": 3061.52,
+      "end": 3068.2400000000002,
+      "text": "the anti-competitive step they took this week of depriving users of the ability to research AI"
+    },
+    {
+      "start": 3068.2400000000002,
+      "end": 3076.0800000000004,
+      "text": "machine learning and chip design using fable. Look, these guys are deeply hypocritical. I don't"
+    },
+    {
+      "start": 3076.0800000000004,
+      "end": 3080.4,
+      "text": "think they can be trusted on their own terms. They can't be trusted because what they're saying"
+    },
+    {
+      "start": 3080.4,
+      "end": 3085.6800000000003,
+      "text": "is contradictory and self-indighting. And so, Bernie comes along and says, hey, let's take their"
+    },
+    {
+      "start": 3086.5600000000004,
+      "end": 3091.0400000000004,
+      "text": "I mean, as a capitalist, I'm against it, but I kind of like understand where he's coming from."
+    },
+    {
+      "start": 3091.0400000000004,
+      "end": 3095.5200000000004,
+      "text": "Game on the field. Chema, wrap us up here. What are your thoughts? You said, hey,"
+    },
+    {
+      "start": 3095.52,
+      "end": 3099.28,
+      "text": "several milestones. Sounds like a pretty good idea when President Trump floated it early on."
+    },
+    {
+      "start": 3100.0,
+      "end": 3105.12,
+      "text": "Some people even said, maybe you should run it for DJT for our amazing president."
+    },
+    {
+      "start": 3106.32,
+      "end": 3110.16,
+      "text": "What do you think? Should we be buying equities? You and I have talked many times about super"
+    },
+    {
+      "start": 3110.16,
+      "end": 3113.84,
+      "text": "annuation funds and that that would be a better path. That's kind of dovetails with what"
+    },
+    {
+      "start": 3113.84,
+      "end": 3118.88,
+      "text": "Freeberg is proposing some way to get more equities less treasuries in there. But what are your"
+    },
+    {
+      "start": 3118.88,
+      "end": 3124.0,
+      "text": "thoughts on this seizure and or donation of equity? Freeberg's idea is genius. That's why it'll never"
+    },
+    {
+      "start": 3124.0,
+      "end": 3130.56,
+      "text": "happen. So we can just put that aside. But yeah, theoretically, it's it's genius. We should move"
+    },
+    {
+      "start": 3130.56,
+      "end": 3137.6,
+      "text": "to the same system that the Canadians, the Australians have proven works at scale. So we should do it."
+    },
+    {
+      "start": 3137.6,
+      "end": 3144.56,
+      "text": "I completely agree with David. And if we could see it with equity, look, the thing that the president"
+    },
+    {
+      "start": 3144.56,
+      "end": 3150.88,
+      "text": "has done is he's collected quite a portfolio and that portfolio is way up. And so if you use that"
+    },
+    {
+      "start": 3150.96,
+      "end": 3155.92,
+      "text": "as a seed of a sovereign wealth fund, you'd have a bunch of stuff in critical metals and materials."
+    },
+    {
+      "start": 3156.7200000000003,
+      "end": 3162.1600000000003,
+      "text": "I think they may also intel. They may have micron. There's a lot of stuff in there."
+    },
+    {
+      "start": 3162.1600000000003,
+      "end": 3167.6,
+      "text": "AMD they could own some SpaceX. They could have got 10% AMD. Could you add anthropic and open AI?"
+    },
+    {
+      "start": 3168.08,
+      "end": 3174.2400000000002,
+      "text": "Yes, now there's something very important we need to observe about the economics of AI. And I"
+    },
+    {
+      "start": 3174.2400000000002,
+      "end": 3178.56,
+      "text": "think you can understand it best if you compare it to the economics of the internet."
+    },
+    {
+      "start": 3179.52,
+      "end": 3186.24,
+      "text": "The crazy thing about the internet, the reason why the Facebook's and the Google's massively over-earned"
+    },
+    {
+      "start": 3186.24,
+      "end": 3192.16,
+      "text": "for decades is the marginal cost of production for a new user on the internet is effective."
+    },
+    {
+      "start": 3194.16,
+      "end": 3200.16,
+      "text": "The incremental search user costs nothing. The incremental social networking user costs nothing."
+    },
+    {
+      "start": 3200.16,
+      "end": 3204.88,
+      "text": "But you're able to use them as part of a network effect to sell ads against. Make infinite money."
+    },
+    {
+      "start": 3205.6800000000003,
+      "end": 3212.2400000000002,
+      "text": "It's like a money glitch, okay? AI is completely different. There is a real cost for every"
+    },
+    {
+      "start": 3212.2400000000002,
+      "end": 3218.1600000000003,
+      "text": "marginal user. Everyone you stand up is taxing a GPU. Everyone you stand up meets electrons."
+    },
+    {
+      "start": 3218.1600000000003,
+      "end": 3224.7200000000003,
+      "text": "Everything needs memory. And so you get into this situation where there needs to be this downstream"
+    },
+    {
+      "start": 3224.7200000000003,
+      "end": 3230.88,
+      "text": "ROI. But there also needs to be all this critical infrastructure that even enables you to be on the"
+    },
+    {
+      "start": 3230.88,
+      "end": 3236.6400000000003,
+      "text": "field. That's probably the single best argument that if I were sitting in government I would make"
+    },
+    {
+      "start": 3236.6400000000003,
+      "end": 3243.6,
+      "text": "as to why I should own a percentage of these companies. It is not dissimilar to having the first"
+    },
+    {
+      "start": 3243.6,
+      "end": 3250.0,
+      "text": "set of transportation companies that run on the interstate highway. And if the interstate highways"
+    },
+    {
+      "start": 3250.0,
+      "end": 3255.84,
+      "text": "were built by the federal government writ large, and now you had two companies that transported all"
+    },
+    {
+      "start": 3255.84,
+      "end": 3263.84,
+      "text": "the goods, a logical question at that time could have been how much of that should I own because"
+    },
+    {
+      "start": 3263.84,
+      "end": 3271.6800000000003,
+      "text": "you're writing on my rails. And if you look at it through that lens, there is critical infrastructure"
+    },
+    {
+      "start": 3271.6800000000003,
+      "end": 3277.1200000000003,
+      "text": "and national resilience that the AI labs profoundly need, otherwise they're not in the position to be"
+    },
+    {
+      "start": 3277.1200000000003,
+      "end": 3282.32,
+      "text": "in business. Yet even still, the marginal cost of production is incredibly high."
+    },
+    {
+      "start": 3283.28,
+      "end": 3289.44,
+      "text": "So I think that if you were going to go and take a piece of these companies, you have incredible"
+    },
+    {
+      "start": 3289.44,
+      "end": 3294.32,
+      "text": "leverage. You have to construct this case precisely. But if it were me running the sovereign"
+    },
+    {
+      "start": 3294.32,
+      "end": 3298.96,
+      "text": "wall fund, yeah, I'd probably own 75% of these companies when I was done. But that's me because"
+    },
+    {
+      "start": 3298.96,
+      "end": 3303.36,
+      "text": "I can negotiate. Yeah. And I don't think Bernie can negotiate out of a paper bag. So he'll just"
+    },
+    {
+      "start": 3303.36,
+      "end": 3309.04,
+      "text": "throw this out there and it'll go nowhere. But that is the key observation that I hope everybody"
+    },
+    {
+      "start": 3309.04,
+      "end": 3316.08,
+      "text": "listening in a position of power understands the incremental cost of performing AI"
+    },
+    {
+      "start": 3317.12,
+      "end": 3324.96,
+      "text": "is excessive and large. That contrasts and compares to the incremental cost before AI, which was zero."
+    },
+    {
+      "start": 3324.96,
+      "end": 3329.36,
+      "text": "Do with that information what you were. Yeah. I mean, my interpretation of that would be, yeah,"
+    },
+    {
+      "start": 3329.36,
+      "end": 3333.52,
+      "text": "it's a fixed cost business. You can add people after a certain cost. It doesn't have an incremental"
+    },
+    {
+      "start": 3333.52,
+      "end": 3338.88,
+      "text": "cost. And that's what local, locally run open source models would do in this instance. That's"
+    },
+    {
+      "start": 3338.88,
+      "end": 3345.6,
+      "text": "what I would take from it. Here's your polymarket, chances of companies going public before 2027,"
+    },
+    {
+      "start": 3345.6,
+      "end": 3354.4,
+      "text": "which is the end of this year, SpaceX 100% anthropic 83% chance, open AI, 48% chance since our last"
+    },
+    {
+      "start": 3354.4,
+      "end": 3362.08,
+      "text": "episode disclosed that they have privately filed. So thanks to our partners. What does your final"
+    },
+    {
+      "start": 3362.08,
+      "end": 3369.52,
+      "text": "thoughts on Bernie Sanders approach of seizing the means of producing intelligence? David Sacks"
+    },
+    {
+      "start": 3370.16,
+      "end": 3378.16,
+      "text": "in the 1% of the 1% what's your opinion? I think I may be okay with Bernie's idea in the event that"
+    },
+    {
+      "start": 3378.16,
+      "end": 3384.0,
+      "text": "it's a public benefit corporation that says it's going to cause massive job loss. Okay. That train"
+    },
+    {
+      "start": 3384.0,
+      "end": 3390.56,
+      "text": "for free on humanity's knowledge, but gate keeps and refuses to give back. Okay. Maybe you've come"
+    },
+    {
+      "start": 3390.56,
+      "end": 3395.36,
+      "text": "up with like a, a strawberry here of who should be seized? Maybe it's lost right. Maybe it should"
+    },
+    {
+      "start": 3395.36,
+      "end": 3401.12,
+      "text": "be 75% I don't know. Seize it. I mean, all the president needs to do is call me and tap me on"
+    },
+    {
+      "start": 3401.12,
+      "end": 3405.36,
+      "text": "the shoulder. It shall be done. It shall be done. I mean, these guys are capitalist cops. I think"
+    },
+    {
+      "start": 3405.36,
+      "end": 3410.0,
+      "text": "they want to see. I would run. I would see. That's like they're getting run over. They're like,"
+    },
+    {
+      "start": 3410.0,
+      "end": 3416.0,
+      "text": "sees my equity. Take it. Oh, take my equity. Well, Bernie, Bernie doesn't have a good point,"
+    },
+    {
+      "start": 3416.0,
+      "end": 3422.0,
+      "text": "which is they train for free on all of our knowledge, but they're gatekeeping the outputs so that"
+    },
+    {
+      "start": 3422.56,
+      "end": 3427.92,
+      "text": "their competitors, which is a very large set of people, cannot use it, and that seems wrong."
+    },
+    {
+      "start": 3428.64,
+      "end": 3432.32,
+      "text": "They should be forced to be open source, forced them to open source. That's the other possible."
+    },
+    {
+      "start": 3432.32,
+      "end": 3438.08,
+      "text": "Remember why Elon created OpenAI in the first place? Yeah, this was so valuable. It needed to be"
+    },
+    {
+      "start": 3438.64,
+      "end": 3442.08,
+      "text": "choosified. He was afraid everyone. Yes, he was afraid that Google was going to"
+    },
+    {
+      "start": 3442.08,
+      "end": 3447.2799999999997,
+      "text": "monopolize it, and he thought that the only antidote for that was for it to be open."
+    },
+    {
+      "start": 3448.08,
+      "end": 3454.4,
+      "text": "I still think that instinct is completely true. It's just that it's not Google who's the gatekeeping"
+    },
+    {
+      "start": 3454.4,
+      "end": 3458.7999999999997,
+      "text": "monopolist. It's now anthropic. They're not a monopolist yet, but if they get the red capture"
+    },
+    {
+      "start": 3458.7999999999997,
+      "end": 3464.48,
+      "text": "they're looking for, they will be either a monopolist or a monopolist. Somebody start an open source"
+    },
+    {
+      "start": 3464.48,
+      "end": 3471.44,
+      "text": "frontier lab. Each of the four besties. There are a bunch of them, Jacob. It's not the labs."
+    },
+    {
+      "start": 3471.44,
+      "end": 3475.76,
+      "text": "That's the problem, Jason. In the absence of power, this is all a move conversation. If you"
+    },
+    {
+      "start": 3475.76,
+      "end": 3480.96,
+      "text": "can't deliver power to hundreds and hundreds of megawatts and line of sight to gigawatts, it's all"
+    },
+    {
+      "start": 3480.96,
+      "end": 3486.7200000000003,
+      "text": "meaning was bullshit. I don't know. I would love an open source company that was focused on"
+    },
+    {
+      "start": 3486.7200000000003,
+      "end": 3492.16,
+      "text": "running it locally. That's my dream. Make the model work there. I think these guys are capitalist"
+    },
+    {
+      "start": 3492.16,
+      "end": 3496.96,
+      "text": "cocks. I think their kink is like having their equity taken and being regulated. They're just like"
+    },
+    {
+      "start": 3496.96,
+      "end": 3503.52,
+      "text": "that's their king. Daria was like, oh, take my equity. Oh, regulate me. That's it, Bernie."
+    },
+    {
+      "start": 3503.52,
+      "end": 3509.04,
+      "text": "Take my equity. I'm such a bad boy. I can't trust it. Regulate me, Elizabeth."
+    },
+    {
+      "start": 3510.08,
+      "end": 3516.48,
+      "text": "Regulate me, Lucy. Oh, it's so rug. Sorry. Come on, the program anytime, Daria."
+    },
+    {
+      "start": 3518.16,
+      "end": 3523.44,
+      "text": "He's a rush to come. You never come on this pod. Daria will never come on. He's running. He's"
+    },
+    {
+      "start": 3523.44,
+      "end": 3527.84,
+      "text": "running. We didn't get Sam. We got Sarah fire to come on the pod and she was. Sam came on the"
+    },
+    {
+      "start": 3527.84,
+      "end": 3530.96,
+      "text": "pot. He has to come on the pot. He's like, oh, right. Sam came on to run. That's right. That's right."
+    },
+    {
+      "start": 3530.96,
+      "end": 3536.8,
+      "text": "Come on. He's great. Sam will come on the pot anytime. We didn't treat him harshly at all."
+    },
+    {
+      "start": 3537.44,
+      "end": 3542.08,
+      "text": "No. I mean, I think we're fair. I mean, we spent an hour on him."
+    },
+    {
+      "start": 3542.08,
+      "end": 3546.48,
+      "text": "I think Sam to his credit is very practical. He sees the tea leaves and he's going to negotiate."
+    },
+    {
+      "start": 3546.48,
+      "end": 3552.16,
+      "text": "And I think that that versus being some kind of moral absolutist will probably serve open AI well"
+    },
+    {
+      "start": 3552.24,
+      "end": 3555.8399999999997,
+      "text": "in the future. Yeah, it's just going to lose them all these virtual signaling"
+    },
+    {
+      "start": 3555.8399999999997,
+      "end": 3560.24,
+      "text": "principled employees to go go work for Daria. That's why they go work for Daria. They're in"
+    },
+    {
+      "start": 3560.24,
+      "end": 3564.08,
+      "text": "by the way line with their philosophies. We did mention, but everybody should"
+    },
+    {
+      "start": 3565.6,
+      "end": 3570.64,
+      "text": "go and see all of the recaps we published now all the interviews. Yeah, Jason from liquidity."
+    },
+    {
+      "start": 3570.64,
+      "end": 3574.3199999999997,
+      "text": "Uh, Sarah fire. I mean, we mentioned Sarah fire, but she crushed it. She was incredible."
+    },
+    {
+      "start": 3574.3199999999997,
+      "end": 3580.08,
+      "text": "The CFO of open AI and future CEO, I think, was the buzz in the room. I mean, I'll stop that."
+    },
+    {
+      "start": 3580.08,
+      "end": 3584.24,
+      "text": "Todd, can you stop that? That's what people were saying. I have the right to free speech on this"
+    },
+    {
+      "start": 3584.24,
+      "end": 3589.6,
+      "text": "podcast. I think, look at you try to introduce wedges. No, I'm not. I think Sam would be"
+    },
+    {
+      "start": 3589.6,
+      "end": 3593.68,
+      "text": "better as chairman. I think it would be the perfect CEO. I think a good partnership."
+    },
+    {
+      "start": 3594.3199999999997,
+      "end": 3598.48,
+      "text": "That seems like that. A great partnership. I agree. Sarah was really impressive."
+    },
+    {
+      "start": 3598.48,
+      "end": 3602.72,
+      "text": "Well, what's your favorite sacks? Did you have a favorite? Did you have somebody? Yeah, I"
+    },
+    {
+      "start": 3602.72,
+      "end": 3608.48,
+      "text": "did. I thought Thomas LaFont crushed it with his presentation on the overview of venture capital."
+    },
+    {
+      "start": 3609.04,
+      "end": 3613.28,
+      "text": "Yes, he did a summit, I guess a year and a half two years ago. Two years ago, but we're"
+    },
+    {
+      "start": 3613.28,
+      "end": 3616.96,
+      "text": "going to make it yearly with him. I think we should make it an annual feature with him because it's"
+    },
+    {
+      "start": 3616.96,
+      "end": 3622.96,
+      "text": "so interesting. So good. It's so good. It's so good. It provided so much numerical detail to support."
+    },
+    {
+      "start": 3622.96,
+      "end": 3630.08,
+      "text": "A lot of things I was kind of feeling, but didn't have the data to summarize it. His basic observation"
+    },
+    {
+      "start": 3630.08,
+      "end": 3635.12,
+      "text": "was in this last cycle of a company gets to a hundred billion dollar valuation. It's more likely to"
+    },
+    {
+      "start": 3635.12,
+      "end": 3640.3199999999997,
+      "text": "10x from there than from 10 billion to a hundred billion. Well, yeah, data on this. Yeah, I remember"
+    },
+    {
+      "start": 3640.3199999999997,
+      "end": 3644.88,
+      "text": "he had data on it, which is like, okay, well, that's going to really change. I remember the slide."
+    },
+    {
+      "start": 3644.88,
+      "end": 3648.96,
+      "text": "Yeah, there it is. It's 8%. I memorized it. Yes. Yeah. If you're in the"
+    },
+    {
+      "start": 3648.96,
+      "end": 3654.08,
+      "text": "view of the applicator, this one's creamed. Look, yes, that's right. The odds of a unicorn getting"
+    },
+    {
+      "start": 3654.08,
+      "end": 3660.4,
+      "text": "to decacorn was 8%. The odds of a decacorn getting to a centricorn was about double that."
+    },
+    {
+      "start": 3661.36,
+      "end": 3668.2400000000002,
+      "text": "13% and then the odds of it going from centricorn to a trillion dollar market cap was 31%. So double"
+    },
+    {
+      "start": 3668.2400000000002,
+      "end": 3674.4,
+      "text": "again, and I asked him, you know, could you extrapolate this on one trillion getting to 10 trillion?"
+    },
+    {
+      "start": 3674.4,
+      "end": 3680.48,
+      "text": "My guess is that it would follow and we'll see about 60% of a hundred percent trillion dollar"
+    },
+    {
+      "start": 3680.48,
+      "end": 3684.88,
+      "text": "market cap companies getting to 10 trillion in the next few years. These are called trillicorns,"
+    },
+    {
+      "start": 3684.88,
+      "end": 3689.76,
+      "text": "by the way, we call them trillicorns in the industry. So yes, this is going to go"
+    },
+    {
+      "start": 3689.76,
+      "end": 3693.92,
+      "text": "really well with the socialist crowd. People are going to love this. Yeah. That's just great."
+    },
+    {
+      "start": 3693.92,
+      "end": 3698.48,
+      "text": "Just what you got to do is seize 10% of a trillicorn and you pay off 2% of our national debt."
+    },
+    {
+      "start": 3698.48,
+      "end": 3703.44,
+      "text": "Pretty good deal, actually. All we need is 10% of 30 trillicorns and we're dead free. I mean"
+    },
+    {
+      "start": 3705.28,
+      "end": 3710.32,
+      "text": "it's not as crazy as it was. Is it more complicated than that? Now, if you send me in,"
+    },
+    {
+      "start": 3710.32,
+      "end": 3714.88,
+      "text": "I'll get 60% of all of it. Yes. And then we'll have a surplus of 30 billion and we can buy"
+    },
+    {
+      "start": 3714.88,
+      "end": 3721.04,
+      "text": "Australia. We'll pay it off much sooner. We could buy Cuba. I buy Canada for better scheme."
+    },
+    {
+      "start": 3721.6800000000003,
+      "end": 3726.32,
+      "text": "You know what I would do? I would **** with Canada. I would buy like tails over or Toronto. Just"
+    },
+    {
+      "start": 3726.32,
+      "end": 3733.12,
+      "text": "like break them up. Just buy like one of the regions and let me thank. Let me thank Thomas"
+    },
+    {
+      "start": 3733.12,
+      "end": 3739.04,
+      "text": "Keller, the French laundry, EY, who sponsored our very innovative meeting hub at liquidity."
+    },
+    {
+      "start": 3739.04,
+      "end": 3743.44,
+      "text": "Here are some photos of that. They're awesome. The New York Stock Exchange, they hosted the speaker"
+    },
+    {
+      "start": 3743.44,
+      "end": 3748.0,
+      "text": "dinner at the French laundry. Amazing pictures. Here they are of us with Thomas Keller."
+    },
+    {
+      "start": 3748.96,
+      "end": 3754.56,
+      "text": "And they did a great interview on site. Nihagin, they hosted the wellness lounge, which included"
+    },
+    {
+      "start": 3754.56,
+      "end": 3761.12,
+      "text": "recovery IVs. They're the official NAD partner of the All in Pond and all of our longevity."
+    },
+    {
+      "start": 3761.12,
+      "end": 3766.0,
+      "text": "Our new bestie, our new bestie, Jake Paul, was there? He's a really thoughtful guy,"
+    },
+    {
+      "start": 3766.0,
+      "end": 3770.4,
+      "text": "freeberg. Jake Paul was awesome. I sat him next to Satyx for dinner. Yeah, he's a great investor"
+    },
+    {
+      "start": 3770.4,
+      "end": 3776.48,
+      "text": "by the way. Fantastic. His portfolio is awesome. He's a great team. His team came with him for the"
+    },
+    {
+      "start": 3776.48,
+      "end": 3780.88,
+      "text": "thing. Great strategy. Yeah. One thing I'll say about Thomas Keller, he had a strong watch game."
+    },
+    {
+      "start": 3780.88,
+      "end": 3786.0,
+      "text": "I don't know if you guys noticed that. Yeah. Nice protect. Nice protect. Get a awkward knot."
+    },
+    {
+      "start": 3786.0,
+      "end": 3789.52,
+      "text": "Green band rose gold. So what was your vacation there? I was trying to,"
+    },
+    {
+      "start": 3789.52,
+      "end": 3793.52,
+      "text": "trying to figure out what the complication was. I couldn't quite eyeball it. I don't know if you saw"
+    },
+    {
+      "start": 3793.52,
+      "end": 3799.44,
+      "text": "Trima. I looked at it and I was like, this is very elegant. Thomas Keller. I mean, the French"
+    },
+    {
+      "start": 3799.44,
+      "end": 3807.36,
+      "text": "laundry is just transcendent. Did you have a favorite dish? Of course. Was it the duck? Well,"
+    },
+    {
+      "start": 3807.36,
+      "end": 3815.68,
+      "text": "was it the Miyazaki. The tapioca pearls. I thought was the best. Oysters and pearls. That's"
+    },
+    {
+      "start": 3815.68,
+      "end": 3820.08,
+      "text": "your oysters with caviar. Sax, what was your favorite there? Do you have a favorite? What are the caviar"
+    },
+    {
+      "start": 3820.08,
+      "end": 3826.8,
+      "text": "related dishes? Yeah, that's oysters and pearl. That's I had a fun round of golf the following day."
+    },
+    {
+      "start": 3826.8,
+      "end": 3831.28,
+      "text": "We played a nine-hole scramble with everyone. That was great. So great. How much did you gamble?"
+    },
+    {
+      "start": 3831.28,
+      "end": 3839.1200000000003,
+      "text": "And who won? We had a hundred dollar or a whole versus Chris Ho, who's the chief business officer"
+    },
+    {
+      "start": 3839.1200000000003,
+      "end": 3844.0,
+      "text": "of Athena. But you know, that motherfucker is like a plus one. So whatever. I think we lost three"
+    },
+    {
+      "start": 3844.0,
+      "end": 3849.2000000000003,
+      "text": "units. So we lost people. Yeah. All right. Shout out to our other partner Athena. Athena wow.com. Go"
+    },
+    {
+      "start": 3849.2000000000003,
+      "end": 3853.44,
+      "text": "get a month free. All right. Whatever. It got to stop showing. Okay. That most importantly,"
+    },
+    {
+      "start": 3854.2400000000002,
+      "end": 3858.08,
+      "text": "everybody was very upset that liquidity sold out and people couldn't get in. There were like"
+    },
+    {
+      "start": 3858.08,
+      "end": 3865.12,
+      "text": "3,000 applications. It's going to sell even faster next time around. So go to all in.com slash"
+    },
+    {
+      "start": 3865.12,
+      "end": 3869.36,
+      "text": "events and get your applications. And if you want to come to summit September 13th, 14th and 15th,"
+    },
+    {
+      "start": 3870.08,
+      "end": 3875.76,
+      "text": "freeberg's doing some wild stuff, some wild stuff for that event. And it's going to be cool."
+    },
+    {
+      "start": 3876.48,
+      "end": 3881.52,
+      "text": "You're losing your mind. You're now becoming very eccentric, unhinged in your production value"
+    },
+    {
+      "start": 3881.52,
+      "end": 3888.08,
+      "text": "and schemaugh. You've been very selective in your approach to look the liquidity speakers"
+    },
+    {
+      "start": 3888.08,
+      "end": 3893.68,
+      "text": "because because liquidity is different than the summit. The summit is like a festival. It's a huge"
+    },
+    {
+      "start": 3893.68,
+      "end": 3899.7599999999998,
+      "text": "party. There's all this really interesting cross-sectional stuff. But liquidity is meant to be for"
+    },
+    {
+      "start": 3899.7599999999998,
+      "end": 3906.48,
+      "text": "one thing, which is the most important capital allocators in the world should have one place to convene,"
+    },
+    {
+      "start": 3907.44,
+      "end": 3913.84,
+      "text": "debate, learn, talk, build relationships. And I want people to walk out of there with relationships"
+    },
+    {
+      "start": 3913.84,
+      "end": 3919.84,
+      "text": "that they can use. And I told you this before because capital is what shapes the things that"
+    },
+    {
+      "start": 3919.84,
+      "end": 3924.2400000000002,
+      "text": "occur in the world. So I think that we have to be extremely selective in how we curate every"
+    },
+    {
+      "start": 3924.2400000000002,
+      "end": 3928.48,
+      "text": "element of that show. It's not meant to be that you can just buy a ticket. But to just buy a ticket,"
+    },
+    {
+      "start": 3928.48,
+      "end": 3933.52,
+      "text": "which is also a very fair and rational and nice thing, the summit is a party. It's a"
+    },
+    {
+      "start": 3933.68,
+      "end": 3936.64,
+      "text": "awesome. And you're going to learn a lot and have a good time. You'll be entertained. All"
+    },
+    {
+      "start": 3936.64,
+      "end": 3941.6,
+      "text": "that great stuff. All right, let's keep going. Breaking topic. This morning's CPI and PPI for"
+    },
+    {
+      "start": 3941.6,
+      "end": 3948.64,
+      "text": "May came in hot inflation. And there's ripping. Here we go. CPI is obviously the consumer price"
+    },
+    {
+      "start": 3948.64,
+      "end": 3954.0,
+      "text": "index. That tracks inflation from the buyer side. Rand Grocery's Gas Healthcare. All that's"
+    },
+    {
+      "start": 3954.0,
+      "end": 3959.2,
+      "text": "a PPI is the producer pricing index. That tracks inflation from the seller side."
+    },
+    {
+      "start": 3959.36,
+      "end": 3967.5200000000004,
+      "text": "The wholesale goods raw materials, yada yada. CPI came in at 4.2% year-over-year highs since"
+    },
+    {
+      "start": 3967.5200000000004,
+      "end": 3976.9600000000005,
+      "text": "April 2023. There's your chart. PPI came in at 6.5% year-over-year highs since the end of 2022."
+    },
+    {
+      "start": 3978.0800000000004,
+      "end": 3986.4,
+      "text": "Here's your polymarket 21% chance inflation hits 5% in 2026. And then an adjacent polymarket"
+    },
+    {
+      "start": 3986.48,
+      "end": 3997.2000000000003,
+      "text": "chances of the fed hiking this year at 49%. It was under 10% before the Iran war started. By"
+    },
+    {
+      "start": 3997.2000000000003,
+      "end": 4001.52,
+      "text": "the way, European Central Bank just raised rates according to point on Thursday. This was their"
+    },
+    {
+      "start": 4001.52,
+      "end": 4008.48,
+      "text": "first rate hike since September 2023. What do we take from this freedberg? It's all related to"
+    },
+    {
+      "start": 4008.48,
+      "end": 4014.64,
+      "text": "the Iran war. Yeah, that's the... There's definitely an energy blip from the Iran war that drove"
+    },
+    {
+      "start": 4014.64,
+      "end": 4020.3199999999997,
+      "text": "the core index up. But there's also the macro point, which is government spending out of control,"
+    },
+    {
+      "start": 4021.04,
+      "end": 4027.8399999999997,
+      "text": "inflation out of control. And fundamentally, as things unravel, you have rising rates. So I"
+    },
+    {
+      "start": 4027.8399999999997,
+      "end": 4033.04,
+      "text": "think we should kind of expect, especially with the Kevin Worsh fed. I think we could see north"
+    },
+    {
+      "start": 4033.04,
+      "end": 4041.92,
+      "text": "of 5.5%, 6% overnight rates. It's not unforeseeable. So this is just the nature of our monetary policy"
+    },
+    {
+      "start": 4041.92,
+      "end": 4049.76,
+      "text": "and our fiscal policy with our congressional members that vote all of our future earnings away"
+    },
+    {
+      "start": 4049.76,
+      "end": 4055.44,
+      "text": "into bullsh**t. But here we are. And a far worse. That nobody expected."
+    },
+    {
+      "start": 4055.44,
+      "end": 4058.7200000000003,
+      "text": "Chimati, your thoughts, and then I'll wrap up with you. That was the most passive-aggressive"
+    },
+    {
+      "start": 4058.7200000000003,
+      "end": 4062.32,
+      "text": "take I've heard in a while from you. He's a little upset about it. Yes, clearly he's a little bit"
+    },
+    {
+      "start": 4062.32,
+      "end": 4067.84,
+      "text": "about it. Just a little stupid to watch. Can you tell us how you really feel? What honestly,"
+    },
+    {
+      "start": 4068.1600000000003,
+      "end": 4073.44,
+      "text": "what else is there to say? I've said it like a hundred times. It's just idiotic. The core problem"
+    },
+    {
+      "start": 4073.44,
+      "end": 4077.28,
+      "text": "with wealth inequality in this country, the core problem, with inflation in this country,"
+    },
+    {
+      "start": 4077.28,
+      "end": 4083.28,
+      "text": "the core problem, all of it roots back to excess government spending. End of story. All of it is"
+    },
+    {
+      "start": 4083.28,
+      "end": 4088.2400000000002,
+      "text": "closed up. We're all talking about machinations at the edge of the network. The core of the network"
+    },
+    {
+      "start": 4088.2400000000002,
+      "end": 4092.48,
+      "text": "is overspending by the government. Because in order to get elected, you need someone to give you"
+    },
+    {
+      "start": 4092.48,
+      "end": 4096.96,
+      "text": "something more than you have today. That's how people get elected. And here we are 250 years later."
+    },
+    {
+      "start": 4096.96,
+      "end": 4101.6,
+      "text": "I don't know if there's the will or the way to get out of it. But one of the manifestations of it"
+    },
+    {
+      "start": 4101.6,
+      "end": 4107.36,
+      "text": "will be in this late stage, higher rates, and as a response to inflation, and here we are."
+    },
+    {
+      "start": 4107.36,
+      "end": 4113.6,
+      "text": "All right, Chimati, what you're taking on this is it transient. As we have had other"
+    },
+    {
+      "start": 4113.6,
+      "end": 4120.32,
+      "text": "presidents say, is there an off ramp for the Iran war? I don't know if this is above all of our"
+    },
+    {
+      "start": 4120.32,
+      "end": 4126.639999999999,
+      "text": "pay grades. But this does seem to be a challenging moment happening right before the midterms"
+    },
+    {
+      "start": 4127.5199999999995,
+      "end": 4134.0,
+      "text": "and consumers expected that their cost of living would go down and that they would benefit from"
+    },
+    {
+      "start": 4134.0,
+      "end": 4139.599999999999,
+      "text": "this golden age. And it hasn't happened yet. Well, look, it's concerning. I don't think that I"
+    },
+    {
+      "start": 4139.599999999999,
+      "end": 4147.2,
+      "text": "expected the print to be this hot. Now, what's keeping things in line? There's still a chance that we're"
+    },
+    {
+      "start": 4147.2,
+      "end": 4153.84,
+      "text": "not going to see CPI go absolutely crazy. And part of that is because China has been smoothing the"
+    },
+    {
+      "start": 4153.84,
+      "end": 4160.48,
+      "text": "energy consumption globally worldwide. And so we've kind of kept a damper on $200 barrel oil. In"
+    },
+    {
+      "start": 4160.48,
+      "end": 4168.72,
+      "text": "fact, we're still 100. At the same time, I think it's pulled forward a lot of more practical"
+    },
+    {
+      "start": 4168.72,
+      "end": 4174.8,
+      "text": "sources of energy production, not just in the United States, but abroad, specifically what I mean"
+    },
+    {
+      "start": 4174.8,
+      "end": 4180.8,
+      "text": "is solar, just because it's simple, it's passive and you don't need a lot of permitting and you don't"
+    },
+    {
+      "start": 4180.8,
+      "end": 4185.28,
+      "text": "need clean air permits and light. So all of these things have been able to keep a lid on it."
+    },
+    {
+      "start": 4186.0,
+      "end": 4190.16,
+      "text": "If China somehow runs out of reserves and they need to go back into the spot market to buy an"
+    },
+    {
+      "start": 4190.16,
+      "end": 4197.04,
+      "text": "extra three million barrels a day, there's a very big risk that oil gets into the well past 100"
+    },
+    {
+      "start": 4197.04,
+      "end": 4204.56,
+      "text": "and maybe between 150 and 200 a barrel. That has a lot of downstream problems with respect to CPI."
+    },
+    {
+      "start": 4205.68,
+      "end": 4212.24,
+      "text": "Not even because US energy supply, but really because the inputs that oil feeds all around the"
+    },
+    {
+      "start": 4212.24,
+      "end": 4218.320000000001,
+      "text": "world that then get absorbed by the cost that people pay for everyday things could go on. So I think"
+    },
+    {
+      "start": 4218.320000000001,
+      "end": 4226.320000000001,
+      "text": "the CPI number should be an alarm that we use to off ramp this around situation sooner rather than"
+    },
+    {
+      "start": 4226.320000000001,
+      "end": 4231.12,
+      "text": "later. I just, unless, again, because we don't know what happened in China because none of us"
+    },
+    {
+      "start": 4231.12,
+      "end": 4238.64,
+      "text": "were there, unless there's an understanding that the president has with Xi about how much"
+    },
+    {
+      "start": 4238.64,
+      "end": 4246.24,
+      "text": "actual supply and slack is in the Chinese system. And that may allow him to take a much longer road"
+    },
+    {
+      "start": 4246.24,
+      "end": 4253.04,
+      "text": "to get a conclusive and decisive win and run. But I, there was supposed to be some tangible known"
+    },
+    {
+      "start": 4253.04,
+      "end": 4259.5199999999995,
+      "text": "resolutions with this China trip. We haven't heard them explicitly stated yet. What you're"
+    },
+    {
+      "start": 4259.52,
+      "end": 4268.400000000001,
+      "text": "take on this SACS, the inflation print. And is there like a golden bridge to end this war in Iran?"
+    },
+    {
+      "start": 4268.400000000001,
+      "end": 4271.84,
+      "text": "Jake, how the problem is when you ask me that question, people assume that I have some sort of"
+    },
+    {
+      "start": 4271.84,
+      "end": 4276.8,
+      "text": "insight information. And I don't look, the PPI print is what it is. I largely agree with what"
+    },
+    {
+      "start": 4276.8,
+      "end": 4282.240000000001,
+      "text": "Chimasa, the only thing I would add is that it was largely in line with expectations. That's why"
+    },
+    {
+      "start": 4282.240000000001,
+      "end": 4287.68,
+      "text": "the market is actually up today. Normally, if there's a surprise print and inflation is high, then"
+    },
+    {
+      "start": 4287.68,
+      "end": 4293.4400000000005,
+      "text": "the market is down because the market starts pricing in the implication of higher interest rates."
+    },
+    {
+      "start": 4293.4400000000005,
+      "end": 4299.92,
+      "text": "It's not doing that today. So it's in line with expectations. But I largely agree with what Chimasa."
+    },
+    {
+      "start": 4300.4800000000005,
+      "end": 4304.400000000001,
+      "text": "Yeah. All right. Well, listen, we got to get to other elections. You know, my take on it is just"
+    },
+    {
+      "start": 4304.400000000001,
+      "end": 4309.92,
+      "text": "huge colossal era starting this era on war. And hopefully we can get out of it. The downstream"
+    },
+    {
+      "start": 4309.92,
+      "end": 4316.16,
+      "text": "effects of this are just disastrous. I'm hoping there's a quick resolution or some way to get out of"
+    },
+    {
+      "start": 4316.32,
+      "end": 4322.8,
+      "text": "it before it goes to, you know, a year or two or three. We can't be in a forever war, obviously."
+    },
+    {
+      "start": 4322.8,
+      "end": 4328.96,
+      "text": "Nasdaq up to 1.5% today then normally doesn't happen when there's a hot print because, again,"
+    },
+    {
+      "start": 4328.96,
+      "end": 4334.0,
+      "text": "like tech stocks are the most susceptible to high interest rates. So the market at this point seems"
+    },
+    {
+      "start": 4334.0,
+      "end": 4339.92,
+      "text": "to be pricing in resolution. But we'll see. We'll see. Yeah. I mean, it's just, this is a,"
+    },
+    {
+      "start": 4340.88,
+      "end": 4346.4800000000005,
+      "text": "everybody knows Iran is a quagmire and really was a huge mistake."
+    },
+    {
+      "start": 4347.04,
+      "end": 4353.84,
+      "text": "All right. Let's talk about the hand ringing around vote counts in the L.A."
+    },
+    {
+      "start": 4353.84,
+      "end": 4359.36,
+      "text": "mayoral primary. It's said to me reading all these details. Just freeberg. I know you're hot."
+    },
+    {
+      "start": 4359.36,
+      "end": 4364.24,
+      "text": "I think we know about it. Yeah. I think if you're on X, it's essentially your entire feed."
+    },
+    {
+      "start": 4365.12,
+      "end": 4373.28,
+      "text": "Freeberg, what's your take is the election system in Los Angeles, specifically in California,"
+    },
+    {
+      "start": 4373.28,
+      "end": 4380.5599999999995,
+      "text": "corrupt? And is this election been stolen from Spencer Pratt? Or is it just there is no election?"
+    },
+    {
+      "start": 4381.2,
+      "end": 4388.16,
+      "text": "There was no election. There is no election. Okay. So there is no spoon. Your rights to have"
+    },
+    {
+      "start": 4388.16,
+      "end": 4397.04,
+      "text": "an election are gone. You were a citizen of those who tell you who your overseers are."
+    },
+    {
+      "start": 4397.04,
+      "end": 4403.28,
+      "text": "You were no longer allowed to vote for your elected representatives. They are now appointed"
+    },
+    {
+      "start": 4404.24,
+      "end": 4410.72,
+      "text": "representatives. So enjoy the point that have been made to you, appointed by those who have"
+    },
+    {
+      "start": 4410.72,
+      "end": 4415.76,
+      "text": "constructed the matrix. Got it. Now we understand the background. There is no spoon."
+    },
+    {
+      "start": 4415.84,
+      "end": 4423.52,
+      "text": "Agent Smith and all the agents and it's are in charge. So here's some statistics for you."
+    },
+    {
+      "start": 4424.64,
+      "end": 4431.84,
+      "text": "In person voting, the day of the election in Los Angeles County for mayor, Spencer Pratt, 35%"
+    },
+    {
+      "start": 4432.4800000000005,
+      "end": 4441.360000000001,
+      "text": "Karen Bath, 29% Nipia Ramen, 26% male in ballots received before election day, 38% for bass,"
+    },
+    {
+      "start": 4442.16,
+      "end": 4448.24,
+      "text": "28% for Pratt, 20% for ramen. And then all these ballots that arrive after election day,"
+    },
+    {
+      "start": 4448.88,
+      "end": 4460.08,
+      "text": "37% for ramen, 35% for bass, 19% for Pratt. So Pratt's post election male in ballots declined"
+    },
+    {
+      "start": 4460.08,
+      "end": 4464.88,
+      "text": "by one third. So statistically, the population of people that send in their ballots late,"
+    },
+    {
+      "start": 4464.88,
+      "end": 4471.6,
+      "text": "reduced for Pratt by a third, increased for Nipia Ramen by 80% and Karen Bath's 10% less."
+    },
+    {
+      "start": 4471.6,
+      "end": 4475.68,
+      "text": "If you just look at the male in ballots before and after election day as a comparison,"
+    },
+    {
+      "start": 4475.68,
+      "end": 4481.84,
+      "text": "I don't know if there's a socio-political way that you can assess those statistics and assume"
+    },
+    {
+      "start": 4482.400000000001,
+      "end": 4487.92,
+      "text": "that these are individuals casting their individual vote for who they think should be mayor of LA."
+    },
+    {
+      "start": 4487.92,
+      "end": 4491.84,
+      "text": "And Nick, if you'll just pull up the map, which I think is worth taking a look at, basically the"
+    },
+    {
+      "start": 4491.84,
+      "end": 4498.24,
+      "text": "concentration of incremental votes that Nipia Ramen got came around the skid row area in Los Angeles."
+    },
+    {
+      "start": 4498.24,
+      "end": 4502.96,
+      "text": "And look, I'm not an election denier. I'm not someone who historically believe the idea that"
+    },
+    {
+      "start": 4502.96,
+      "end": 4507.4400000000005,
+      "text": "elections are fraud and people have stolen votes. But when you look at the basic statistics of"
+    },
+    {
+      "start": 4507.4400000000005,
+      "end": 4513.92,
+      "text": "what happened in person, male in before, male in after election day, it becomes a real statistical"
+    },
+    {
+      "start": 4513.92,
+      "end": 4520.72,
+      "text": "quagmire on how did this sort of a socio-political shift happen in such a way that it did. Now,"
+    },
+    {
+      "start": 4520.72,
+      "end": 4525.76,
+      "text": "there was a report published, Nick, if you could pull this up, by the US House of Representatives"
+    },
+    {
+      "start": 4525.76,
+      "end": 4531.52,
+      "text": "Committee on House Administration. This was published in May of 2020. And they highlighted"
+    },
+    {
+      "start": 4531.52,
+      "end": 4536.96,
+      "text": "the 2018 California midterm elections and the challenges they saw arise in that midterm elections"
+    },
+    {
+      "start": 4536.96,
+      "end": 4542.8,
+      "text": "because of some of the legislative changes that were made. First, California Assembly Bill 1921"
+    },
+    {
+      "start": 4542.8,
+      "end": 4548.320000000001,
+      "text": "legalized the practice of unlimited ballot harvesting in the state. This was passed around 2018"
+    },
+    {
+      "start": 4548.32,
+      "end": 4554.08,
+      "text": "around the midterms. What that means is that any individual in the state of California has the right"
+    },
+    {
+      "start": 4554.639999999999,
+      "end": 4562.4,
+      "text": "to go and collect ballots from any other individuals regardless of relationship, fill them out"
+    },
+    {
+      "start": 4562.4,
+      "end": 4568.799999999999,
+      "text": "and send them in. California, two years later, 18 months later, also passed a law that made it"
+    },
+    {
+      "start": 4568.799999999999,
+      "end": 4572.88,
+      "text": "permanent that every person registered in the state of California would get a ballot. So,"
+    },
+    {
+      "start": 4572.88,
+      "end": 4577.5199999999995,
+      "text": "tens of millions of ballots then get mailed out. Then there was another series of laws that were"
+    },
+    {
+      "start": 4577.52,
+      "end": 4582.64,
+      "text": "passed that said, anyone can register to vote. You don't need to prove your citizenship. You can use"
+    },
+    {
+      "start": 4582.64,
+      "end": 4588.88,
+      "text": "a gym membership card as an example. So, anyone can register to vote. There is no proof of ID when you"
+    },
+    {
+      "start": 4588.88,
+      "end": 4592.56,
+      "text": "get a ballot. There is no demonstration that the person who fills out the ballot has anything to do"
+    },
+    {
+      "start": 4592.56,
+      "end": 4596.4800000000005,
+      "text": "with the individual who's supposed to be voting that ballot. And it is legal for an individual to go"
+    },
+    {
+      "start": 4596.4800000000005,
+      "end": 4601.84,
+      "text": "out and collect hundreds or thousands of ballots, ship them in and they will all qualify in these"
+    },
+    {
+      "start": 4601.84,
+      "end": 4607.360000000001,
+      "text": "kind of mail and ballot voting processes. So, there is nothing illegal or fraudulent going on."
+    },
+    {
+      "start": 4607.360000000001,
+      "end": 4613.360000000001,
+      "text": "In fact, the system is operating exactly as intended. It has been set up and structured in a way"
+    },
+    {
+      "start": 4613.360000000001,
+      "end": 4619.4400000000005,
+      "text": "that with the right construct, you can get an individual appointed, not elected, but appointed"
+    },
+    {
+      "start": 4619.4400000000005,
+      "end": 4625.84,
+      "text": "to a particular role in government under a quote-free election in California. This is a foundational"
+    },
+    {
+      "start": 4625.84,
+      "end": 4632.88,
+      "text": "destruction of our rights to vote for people in a free democracy. I feel it's been eroded slowly"
+    },
+    {
+      "start": 4632.88,
+      "end": 4638.0,
+      "text": "over time to such an extent now. And I'm not some crazy MAGA mother f***er. Whatever people want"
+    },
+    {
+      "start": 4638.0,
+      "end": 4642.24,
+      "text": "to classify me as for pointing this out, but you can go down this list. They are all written out"
+    },
+    {
+      "start": 4642.24,
+      "end": 4647.76,
+      "text": "in this document. Every one of these laws that were passed in California over time that in aggregate"
+    },
+    {
+      "start": 4648.32,
+      "end": 4653.6,
+      "text": "create the environment and the construction for elections to become appointments and no longer"
+    },
+    {
+      "start": 4653.6,
+      "end": 4658.88,
+      "text": "free democratic elections where the principle, very importantly, the principle should be"
+    },
+    {
+      "start": 4659.6,
+      "end": 4666.240000000001,
+      "text": "one individual, one vote. And if you opt to not vote, your vote should not be counted. So, I think"
+    },
+    {
+      "start": 4666.240000000001,
+      "end": 4671.120000000001,
+      "text": "that there's no fraud. I don't think there's anything that sounds like you believe there's massive"
+    },
+    {
+      "start": 4671.120000000001,
+      "end": 4676.0,
+      "text": "fraud. Yeah, I think this is not fraud. This is the way the law is set up. It's not fraud. It's"
+    },
+    {
+      "start": 4676.0,
+      "end": 4680.4800000000005,
+      "text": "the way the law is set up. Okay, sacks, you say, of course, this is the number of appointment."
+    },
+    {
+      "start": 4680.56,
+      "end": 4685.120000000001,
+      "text": "Okay, yeah, it sounds to me like you're describing fraud, but you're saying the system allows fraud."
+    },
+    {
+      "start": 4685.84,
+      "end": 4689.92,
+      "text": "Fraud is breaking the law. Fraud is breaking the law. The law allows them to do it. If you pay"
+    },
+    {
+      "start": 4689.92,
+      "end": 4696.160000000001,
+      "text": "people on Skid Row, that's not legal. That is illegal. But you are allowed to go out and get anyone"
+    },
+    {
+      "start": 4696.160000000001,
+      "end": 4700.160000000001,
+      "text": "to register. You're allowed to go out and collect all the ballots and the people that are doing it."
+    },
+    {
+      "start": 4700.160000000001,
+      "end": 4703.76,
+      "text": "As long as you're not getting paid per ballot, you're legally allowed to do it. Let me pause for one"
+    },
+    {
+      "start": 4703.76,
+      "end": 4709.84,
+      "text": "second. When you look at any one of these laws in isolation, you can understand that there is some"
+    },
+    {
+      "start": 4709.84,
+      "end": 4716.400000000001,
+      "text": "altruistic intention or there can be framed to be an altruistic intention behind it. Increase"
+    },
+    {
+      "start": 4716.400000000001,
+      "end": 4721.4400000000005,
+      "text": "voter activity, give everyone the right to vote, give more people access more channels to vote,"
+    },
+    {
+      "start": 4721.4400000000005,
+      "end": 4726.8,
+      "text": "et cetera, et cetera. And you can rationalize away how every one of these laws makes it easier"
+    },
+    {
+      "start": 4726.8,
+      "end": 4733.04,
+      "text": "and adds lubrication to the system. And now we've got to quote more accessible democracy for everyone."
+    },
+    {
+      "start": 4733.04,
+      "end": 4738.16,
+      "text": "But the truth is that there is a concepted insurance called adverse selection, which is if there"
+    },
+    {
+      "start": 4738.16,
+      "end": 4743.5199999999995,
+      "text": "is a moment to exploit something, the criminals will exploit it to the extent that it will become asymmetric."
+    },
+    {
+      "start": 4743.5199999999995,
+      "end": 4749.84,
+      "text": "The criminals or the do-better is not the do-gooders. We'll find a way to take advantage"
+    },
+    {
+      "start": 4749.84,
+      "end": 4754.96,
+      "text": "of a hole in a system, just like hackers do, to break into a network. And that's where you believe"
+    },
+    {
+      "start": 4754.96,
+      "end": 4759.92,
+      "text": "system, ramen day and Spencer Pratt. Instead of mechanisms, this set of construction"
+    },
+    {
+      "start": 4759.92,
+      "end": 4765.12,
+      "text": "has allowed for a system that now has evolved into an appointment system. So you believe not"
+    },
+    {
+      "start": 4765.36,
+      "end": 4770.5599999999995,
+      "text": "to work the system better than Spencer Pratt. She had a better cheating operation, obviously."
+    },
+    {
+      "start": 4770.5599999999995,
+      "end": 4776.08,
+      "text": "You can see it in the chart. Just look at the number of votes. Okay, define cheating here."
+    },
+    {
+      "start": 4776.08,
+      "end": 4782.48,
+      "text": "Just so we're clear. How does it happen where a bastard is flat and then ramen and Pratt"
+    },
+    {
+      "start": 4782.48,
+      "end": 4788.08,
+      "text": "to switch places? So on election day, he's the clear number two. And then they keep counting for a"
+    },
+    {
+      "start": 4788.08,
+      "end": 4791.76,
+      "text": "week. They don't even know how many ballots they're supposed to have. I mean, none of the stuff is"
+    },
+    {
+      "start": 4791.76,
+      "end": 4796.72,
+      "text": "locked down. Okay, let me explain how the cheating works. And to freeberg's point, it may or may not"
+    },
+    {
+      "start": 4796.72,
+      "end": 4802.4800000000005,
+      "text": "be legal. So I, you know, I don't want to get sidetracked by whether the fraud is legal or illegal."
+    },
+    {
+      "start": 4802.4800000000005,
+      "end": 4807.2,
+      "text": "But I think we all know it's crooked. And here's how it works. First of all, explain what's"
+    },
+    {
+      "start": 4807.2,
+      "end": 4813.2,
+      "text": "called? Explain it to you. And if I, if I misstate a fact, then let me know. So first of all,"
+    },
+    {
+      "start": 4813.2,
+      "end": 4819.52,
+      "text": "California sends out ballots to every registered voters. It's something like 23, 24 million people."
+    },
+    {
+      "start": 4820.080000000001,
+      "end": 4825.68,
+      "text": "Only nine and a half million people vote. So what happens to the other 14 million ballots?"
+    },
+    {
+      "start": 4825.68,
+      "end": 4830.72,
+      "text": "I have a friend who lives in the LA. He manages apartment buildings. He says that the ballots"
+    },
+    {
+      "start": 4830.72,
+      "end": 4834.88,
+      "text": "pile up, you know, with the mailboxes, yes, that everybody has in the buildings. There's like"
+    },
+    {
+      "start": 4834.88,
+      "end": 4839.6,
+      "text": "loose ballots everywhere. There are sent to people who don't even live there anymore. He like"
+    },
+    {
+      "start": 4839.6,
+      "end": 4844.400000000001,
+      "text": "recognizes that the names, they're people who haven't lived there in years. So the voter"
+    },
+    {
+      "start": 4844.400000000001,
+      "end": 4849.68,
+      "text": "roles are dirty. They haven't been cleaned up in years. Okay. Then you have the issue that there's"
+    },
+    {
+      "start": 4849.68,
+      "end": 4856.080000000001,
+      "text": "no voter ID on election day. There's no voter ID to even get registered. When you sign your ballot,"
+    },
+    {
+      "start": 4856.080000000001,
+      "end": 4861.84,
+      "text": "they run it through a machine as long as the signature matches 40%. I don't even know what 40%"
+    },
+    {
+      "start": 4861.84,
+      "end": 4868.320000000001,
+      "text": "means. It's like less than half accurate. The machine says it's fine. Okay. And then it doesn't even"
+    },
+    {
+      "start": 4868.32,
+      "end": 4876.08,
+      "text": "check the signature of the voter if you have a supposed witness. So the voter can just put like"
+    },
+    {
+      "start": 4876.08,
+      "end": 4882.96,
+      "text": "a little X on their signature as long as the witness says and they sign. But there's no registration"
+    },
+    {
+      "start": 4882.96,
+      "end": 4887.599999999999,
+      "text": "of witnesses. Anybody can be a witness. There's no database of witnesses. And so the witness just"
+    },
+    {
+      "start": 4887.599999999999,
+      "end": 4894.799999999999,
+      "text": "puts a squiggle. So what is to stop the so-called ballot harvester from going, filling out these"
+    },
+    {
+      "start": 4894.8,
+      "end": 4900.96,
+      "text": "ballots, putting a little X on the voter, putting a little squiggle on the witness, and then dumping"
+    },
+    {
+      "start": 4900.96,
+      "end": 4906.08,
+      "text": "these ballots. There's no chain of custody. So the risk would be there would be arrested. And"
+    },
+    {
+      "start": 4906.08,
+      "end": 4911.28,
+      "text": "then Gavin News, right? Yeah. Well, what is their expectation again? Caught. Gavin News,"
+    },
+    {
+      "start": 4911.28,
+      "end": 4918.16,
+      "text": "him just signed a law making it virtually impossible to audit any of this stuff. So now, even if they"
+    },
+    {
+      "start": 4918.16,
+      "end": 4921.84,
+      "text": "thought maybe they could get caught, let's just take a look at all the other types of fraud happening"
+    },
+    {
+      "start": 4921.84,
+      "end": 4927.360000000001,
+      "text": "in California right now that we know about. We know that there's billions of dollars in fraud in"
+    },
+    {
+      "start": 4927.360000000001,
+      "end": 4934.8,
+      "text": "California for things like Medicaid fraud, unemployment fraud, EBT fraud, hospice fraud, fraud related to"
+    },
+    {
+      "start": 4934.8,
+      "end": 4940.56,
+      "text": "the homeless industrial complex and on and on. That's all been proven. Okay. Is it really so hard to"
+    },
+    {
+      "start": 4940.56,
+      "end": 4945.84,
+      "text": "believe that some of the same groups, the same interest groups, the same NGOs would be willing to"
+    },
+    {
+      "start": 4945.84,
+      "end": 4952.56,
+      "text": "exploit these loopholes in the dirty voter rolls in the millions of ballots that go to incorrect or"
+    },
+    {
+      "start": 4952.56,
+      "end": 4958.72,
+      "text": "non-existent addresses, the non-existent chain of custody, the non-existent signature verification,"
+    },
+    {
+      "start": 4958.72,
+      "end": 4964.56,
+      "text": "the no ID, not only to vote, but to register counting ballots without postmarks if received seven"
+    },
+    {
+      "start": 4964.56,
+      "end": 4970.72,
+      "text": "days later, registering thousands of ballots from homeless shelters that don't even have any beds."
+    },
+    {
+      "start": 4970.8,
+      "end": 4976.88,
+      "text": "These are all known things. So, when you say that there's no fraud, it's like, come on, there's"
+    },
+    {
+      "start": 4976.88,
+      "end": 4983.360000000001,
+      "text": "loopholes and all you got to do is look at the results and see that there's something crooked going"
+    },
+    {
+      "start": 4983.360000000001,
+      "end": 4987.84,
+      "text": "on here. Okay. So, you're in the camp that there is fraud going on because where they're"
+    },
+    {
+      "start": 4987.84,
+      "end": 4993.92,
+      "text": "smoking. It may be legalized. It may be legalized, but it's fraud. Okay. So, you believe this fraud?"
+    },
+    {
+      "start": 4993.92,
+      "end": 4998.4800000000005,
+      "text": "Look, when you start mailing out millions of ballots that people who don't even vote and then you have"
+    },
+    {
+      "start": 4998.4800000000005,
+      "end": 5003.76,
+      "text": "no audit requirements, no chain of custody, no punishments, no penalties, no investigations,"
+    },
+    {
+      "start": 5004.320000000001,
+      "end": 5006.8,
+      "text": "and there's a huge incentive to convince fraud. Well, there have been tons of investigations,"
+    },
+    {
+      "start": 5006.8,
+      "end": 5013.120000000001,
+      "text": "both by attorney generals and California. By who? I'll pull up the history of California. I will"
+    },
+    {
+      "start": 5013.120000000001,
+      "end": 5019.4400000000005,
+      "text": "say after every election, there are tons of civil lawsuits filed, like obviously Trump filed 60"
+    },
+    {
+      "start": 5019.4400000000005,
+      "end": 5025.360000000001,
+      "text": "of 60 when. Not in California. I don't know. Yeah, but he made it impossible to do that kind of audit."
+    },
+    {
+      "start": 5025.759999999999,
+      "end": 5031.04,
+      "text": "Anyway, I think that's because he was beaten so badly in the Democratic state. There was no reason"
+    },
+    {
+      "start": 5031.04,
+      "end": 5035.839999999999,
+      "text": "to, but I don't know why he didn't file in California, but he filed 60 of these and everybody kind"
+    },
+    {
+      "start": 5035.839999999999,
+      "end": 5040.16,
+      "text": "of does that. They filed these constantly and attorney generals can. So, in this case,"
+    },
+    {
+      "start": 5040.16,
+      "end": 5047.04,
+      "text": "Chimoff, if there's so much smoke, if this statistic seems so improbable and there was the"
+    },
+    {
+      "start": 5047.04,
+      "end": 5053.44,
+      "text": "Nick Shirley video of going to Skid Row and this possibility that they were paying junkies and"
+    },
+    {
+      "start": 5053.52,
+      "end": 5059.040000000001,
+      "text": "people who were high to vote, this would be easily catchable, actually. This would take a conspiracy"
+    },
+    {
+      "start": 5059.040000000001,
+      "end": 5063.200000000001,
+      "text": "for thousands and thousands of votes to have been swung. And that's what we're saying here."
+    },
+    {
+      "start": 5063.200000000001,
+      "end": 5068.8,
+      "text": "We're saying upwards of 10,000 votes were swung, but certainly 5,000. You would need a conspiracy"
+    },
+    {
+      "start": 5068.8,
+      "end": 5073.6,
+      "text": "of hundreds of people, or at least dozens, to do that. Good luck going to Skid Row and getting"
+    },
+    {
+      "start": 5073.6,
+      "end": 5078.080000000001,
+      "text": "some methodics to go on the record. I think they actually got somebody to call on the record."
+    },
+    {
+      "start": 5078.080000000001,
+      "end": 5082.320000000001,
+      "text": "Actually, that's the paradox. There's a few videos of this. Yeah, yeah. No, that's the crazy part"
+    },
+    {
+      "start": 5082.32,
+      "end": 5088.4,
+      "text": "about it is they are saying Skid Row people got paid two or three dollars and that's somebody"
+    },
+    {
+      "start": 5088.4,
+      "end": 5094.48,
+      "text": "who was found guilty of this. Brenda Lee, Brown, Armstrong, she pled guilty in 2026, a pink."
+    },
+    {
+      "start": 5094.48,
+      "end": 5102.16,
+      "text": "This system is designed to allow fraud. It's a design. It is designed by 43,000 votes to"
+    },
+    {
+      "start": 5102.88,
+      "end": 5114.4,
+      "text": "we live in a autocracy in California where one political machine has shaped the laws so"
+    },
+    {
+      "start": 5114.4,
+      "end": 5121.36,
+      "text": "inexorably that whether it's a mayor or it's a state legislator or it's a state senator or it's"
+    },
+    {
+      "start": 5121.36,
+      "end": 5130.24,
+      "text": "the governor, it's a one way door. There is only one party that can win. And we are slowly seeing"
+    },
+    {
+      "start": 5131.2,
+      "end": 5138.0,
+      "text": "that that party increasingly does not have the ability to govern a state, this dynamic and this"
+    },
+    {
+      "start": 5138.0,
+      "end": 5144.639999999999,
+      "text": "complicated. They've changed the rules to make sure that that monopoly is enforced. We have all"
+    },
+    {
+      "start": 5144.639999999999,
+      "end": 5151.5199999999995,
+      "text": "tacitly approved it by supporting or voting or not saying anything. And the end result has yet"
+    },
+    {
+      "start": 5151.5199999999995,
+      "end": 5156.32,
+      "text": "to be unveiled because it's going to take another couple of decades for all of this rot to really"
+    },
+    {
+      "start": 5156.32,
+      "end": 5162.799999999999,
+      "text": "destroy these places. The reality is the voters probably should be given a chance to have Spencer"
+    },
+    {
+      "start": 5162.799999999999,
+      "end": 5171.12,
+      "text": "Pratt push back on what is the machine so that at a minimum what they learn is that the machine"
+    },
+    {
+      "start": 5171.12,
+      "end": 5176.5599999999995,
+      "text": "wasn't working nearly anywhere close to the way it is intended. Instead what will happen is two"
+    },
+    {
+      "start": 5176.5599999999995,
+      "end": 5184.88,
+      "text": "people that are in various shapes and forms pretty deeply unqualified and very similar now essentially"
+    },
+    {
+      "start": 5184.88,
+      "end": 5192.64,
+      "text": "get to give you not much of a choice at all. So I think the sad thing is freeburg is right and"
+    },
+    {
+      "start": 5192.64,
+      "end": 5200.24,
+      "text": "sacks is right. Freeburg is right. The laws have been shaped this way to make legal what would"
+    },
+    {
+      "start": 5200.24,
+      "end": 5206.400000000001,
+      "text": "otherwise be an illegality. And sacks is right which is that any rational person should look at"
+    },
+    {
+      "start": 5206.400000000001,
+      "end": 5214.24,
+      "text": "these laws and say this is fraudulent. The unfortunate situation is unless there's a some"
+    },
+    {
+      "start": 5214.24,
+      "end": 5220.96,
+      "text": "cataclysmic decision in California. This is what we're stuck with. It is time to vote all of these"
+    },
+    {
+      "start": 5220.96,
+      "end": 5227.92,
+      "text": "people out. You can't you can't vote. What do you mean? Are you going to do it? Anyone can register"
+    },
+    {
+      "start": 5227.92,
+      "end": 5233.2,
+      "text": "Spencer Pratt and anyone can file Spencer Pratt can do all kinds of lawsuits here and if this can"
+    },
+    {
+      "start": 5233.2,
+      "end": 5241.36,
+      "text": "answer freeburg's question. Sure. There is one break the glass way and I've talked a few of these"
+    },
+    {
+      "start": 5241.36,
+      "end": 5248.48,
+      "text": "guys about what that is. How do you change the system? You must get somebody at the absolute top"
+    },
+    {
+      "start": 5248.48,
+      "end": 5256.4,
+      "text": "of the ticket elected. That person is Steve Hilton. And if that happens, there is one thing that Steve"
+    },
+    {
+      "start": 5256.4,
+      "end": 5262.0,
+      "text": "Hilton can do to start to completely change the way that this state is run which is instantly on day"
+    },
+    {
+      "start": 5262.0,
+      "end": 5267.839999999999,
+      "text": "one declare a state of emergency. If you pull on this thread, what you will find there are lots of"
+    },
+    {
+      "start": 5267.84,
+      "end": 5274.400000000001,
+      "text": "things you can do to clean up how California works under a state of emergency. I'll leave it at that."
+    },
+    {
+      "start": 5276.24,
+      "end": 5283.04,
+      "text": "Yeah. There are some common sense here. We shouldn't send ballots out to everybody that made sense"
+    },
+    {
+      "start": 5283.04,
+      "end": 5288.64,
+      "text": "maybe during COVID. And if you can't be bothered to have ID, then maybe you shouldn't vote."
+    },
+    {
+      "start": 5289.68,
+      "end": 5296.4800000000005,
+      "text": "And I don't think that there has been an election, a major election that has been swung by"
+    },
+    {
+      "start": 5296.56,
+      "end": 5302.240000000001,
+      "text": "election fraud. The Heritage Foundation has spent many, many tens of millions of dollars on this"
+    },
+    {
+      "start": 5302.240000000001,
+      "end": 5307.4400000000005,
+      "text": "I understand. And they have a really great project that tracks this. People file lawsuits like"
+    },
+    {
+      "start": 5307.4400000000005,
+      "end": 5312.56,
+      "text": "Trump did, like Al Gore did. Everybody's always filing lawsuits over this. It's never enough"
+    },
+    {
+      "start": 5313.280000000001,
+      "end": 5317.6,
+      "text": "to swing an election. But there's definitely on the margin of the appearance."
+    },
+    {
+      "start": 5317.6,
+      "end": 5320.8,
+      "text": "Yeah, versus Nixon, bro. Hold on. Let me finish. The mob got Kennedy elected versus"
+    },
+    {
+      "start": 5321.28,
+      "end": 5326.08,
+      "text": "talking modern history. In modern history, that's pretty famous. Okay."
+    },
+    {
+      "start": 5327.6,
+      "end": 5333.4400000000005,
+      "text": "We can get into, if that's true or not, as well. I got Lyndon Johnson history. Lyndon Johnson"
+    },
+    {
+      "start": 5333.4400000000005,
+      "end": 5337.04,
+      "text": "only got elected to the Senate. He got a start in politics through ballot fraud."
+    },
+    {
+      "start": 5337.04,
+      "end": 5341.04,
+      "text": "We absolutely should have voter ID. We should stop sending everybody one of these because the appearance"
+    },
+    {
+      "start": 5341.04,
+      "end": 5348.24,
+      "text": "of impropriety is the problem here. Both sides, crazy new flash, news flash, everybody. Both sides"
+    },
+    {
+      "start": 5348.24,
+      "end": 5353.04,
+      "text": "cheat. Both sides bend the rules. One side does it by limiting access. The other does it by"
+    },
+    {
+      "start": 5353.04,
+      "end": 5358.48,
+      "text": "providing too much access. All these politicians, overwhelming majority of them aren't unethical."
+    },
+    {
+      "start": 5358.48,
+      "end": 5362.0,
+      "text": "And all they care about is getting elected. And they have tons of people working for them in both"
+    },
+    {
+      "start": 5362.0,
+      "end": 5369.76,
+      "text": "parties to massage these election results. And if you get caught, it is a serious penalty. There has"
+    },
+    {
+      "start": 5369.76,
+      "end": 5375.2,
+      "text": "not been in modern history major elections. Go ahead and go to the Heritage Foundation. They find"
+    },
+    {
+      "start": 5375.2,
+      "end": 5379.5199999999995,
+      "text": "all the nooks and crannies. You keep this in the word fraud like as if it's a thing, but it's not."
+    },
+    {
+      "start": 5379.5199999999995,
+      "end": 5384.4,
+      "text": "I'll tell you who's at fraud. There is fraud. There's a ton of fraud. There is fraud. There are"
+    },
+    {
+      "start": 5384.4,
+      "end": 5389.44,
+      "text": "people have been caught doing fraudulent things. The one group that is fundamentally to blame is"
+    },
+    {
+      "start": 5389.44,
+      "end": 5397.76,
+      "text": "Congress. We have an opportunity. There have been opportunities to pass laws that will make it illegal"
+    },
+    {
+      "start": 5397.76,
+      "end": 5402.8,
+      "text": "for people to vote. If they are not citizens, if they are not properly registered, and if they don't"
+    },
+    {
+      "start": 5402.8,
+      "end": 5409.2,
+      "text": "show up with ID, that is a very simple solve to this democratic electoral process. We can have a"
+    },
+    {
+      "start": 5409.2,
+      "end": 5413.2,
+      "text": "situation where someone is legally allowed to go out and collect 100 ballots that they find sitting"
+    },
+    {
+      "start": 5413.2,
+      "end": 5418.16,
+      "text": "in the lobby of an apartment building or for people to register to vote with a gym membership card."
+    },
+    {
+      "start": 5418.16,
+      "end": 5422.16,
+      "text": "When fundamentally the federal government already knows if you're not paying your taxes,"
+    },
+    {
+      "start": 5422.16,
+      "end": 5426.72,
+      "text": "you're required to have a driver's license to drive a car. You have to have ID. You have to be"
+    },
+    {
+      "start": 5426.72,
+      "end": 5432.72,
+      "text": "registered in the system to do nearly anything and everything in this country as it is. So to exclude"
+    },
+    {
+      "start": 5432.72,
+      "end": 5438.0,
+      "text": "that very simple requirement from the most foundational obligation that we all have as citizens"
+    },
+    {
+      "start": 5438.0,
+      "end": 5445.2,
+      "text": "of this country is inherently wrong. It needs to be addressed by Congress and it Congress fixes"
+    },
+    {
+      "start": 5445.2,
+      "end": 5451.280000000001,
+      "text": "it and there are federal laws that create systems that ensure that elections are all about one person"
+    },
+    {
+      "start": 5451.280000000001,
+      "end": 5457.04,
+      "text": "getting one vote and they're legally allowed to vote, then this doesn't become an issue."
+    },
+    {
+      "start": 5457.12,
+      "end": 5462.48,
+      "text": "Short of this, I worry where this goes because over time the fewer people actually believe that"
+    },
+    {
+      "start": 5462.48,
+      "end": 5467.5199999999995,
+      "text": "elections are real and I hate being on here sounding like I'm an election fear mongering guy who's"
+    },
+    {
+      "start": 5467.5199999999995,
+      "end": 5472.64,
+      "text": "telling people that elections aren't real but the longer this goes on, the more difficult it will be"
+    },
+    {
+      "start": 5472.64,
+      "end": 5477.12,
+      "text": "for people to actually have faith in the system that we're all operating within and that's when"
+    },
+    {
+      "start": 5477.12,
+      "end": 5483.04,
+      "text": "things get ugly and it needs to be fixed. Yeah, I'm strongly agreeing if you can't be bothered to"
+    },
+    {
+      "start": 5483.44,
+      "end": 5489.2,
+      "text": "a driver's license or a passport. Maybe you don't need to vote. Yeah, Congress can fix it and they"
+    },
+    {
+      "start": 5489.2,
+      "end": 5494.32,
+      "text": "should. Yeah. And there's, by the way, there's a ballot measure in California. People in California"
+    },
+    {
+      "start": 5494.32,
+      "end": 5499.84,
+      "text": "want this. They can just vote for the ballot measure. You mean the voter ID ballot measure? Yeah,"
+    },
+    {
+      "start": 5499.84,
+      "end": 5505.12,
+      "text": "that's very important actually. Look, if that fails, it's kind of our last chance to save anything."
+    },
+    {
+      "start": 5505.12,
+      "end": 5510.8,
+      "text": "For California's last chance. Yeah. Yeah. And you do sound like your entire speech David was,"
+    },
+    {
+      "start": 5510.88,
+      "end": 5516.0,
+      "text": "you sound like an election denier. I don't care what you label it. Look, the Democratic party is a"
+    },
+    {
+      "start": 5516.0,
+      "end": 5520.400000000001,
+      "text": "whole. We're election deniers about Trump winning in 2016. They can coctured the whole rush"
+    },
+    {
+      "start": 5520.400000000001,
+      "end": 5525.6,
+      "text": "agate hoax to basically trying to spread in his election. When you look at the difference between"
+    },
+    {
+      "start": 5525.6,
+      "end": 5529.6,
+      "text": "walking and mailing ballots and I've seen everyone try to argue why that's so different,"
+    },
+    {
+      "start": 5529.6,
+      "end": 5535.04,
+      "text": "it doesn't compute for me. That's it. I'm not like trying to make up a fact. This is the fact. Look"
+    },
+    {
+      "start": 5535.04,
+      "end": 5539.76,
+      "text": "at this facts on the on the screen you're looking at right now. This is the difference in the data."
+    },
+    {
+      "start": 5539.76,
+      "end": 5545.4400000000005,
+      "text": "This data tells me that something is wrong. That's it. Obviously. It's statistically impossible."
+    },
+    {
+      "start": 5545.4400000000005,
+      "end": 5547.76,
+      "text": "I'm not going to just fear monger because I don't like who got elected. I don't give a"
+    },
+    {
+      "start": 5547.76,
+      "end": 5552.16,
+      "text": "shit what goes on in LA. In fact, I think it's better for LA if they deal with the socialist mayor"
+    },
+    {
+      "start": 5552.16,
+      "end": 5555.92,
+      "text": "for a couple of years. So they come out the other side realizing they shouldn't embrace socialist"
+    },
+    {
+      "start": 5555.92,
+      "end": 5559.4400000000005,
+      "text": "principles. I think it's great for the country, actually. I think it's great for New York. I think"
+    },
+    {
+      "start": 5559.4400000000005,
+      "end": 5563.280000000001,
+      "text": "it's great for Seattle. I think it's great for wherever Minnesota, wherever people want to elect"
+    },
+    {
+      "start": 5563.280000000001,
+      "end": 5567.52,
+      "text": "socialist in this country. Let's run into it. I'm all about jumping through the socialist well."
+    },
+    {
+      "start": 5567.52,
+      "end": 5571.200000000001,
+      "text": "So we jump out the other side like the Latin American countries are doing now when everyone wakes"
+    },
+    {
+      "start": 5571.200000000001,
+      "end": 5576.080000000001,
+      "text": "up and realize how fucked up socialism is because it denies everyone the opportunity for economic"
+    },
+    {
+      "start": 5576.080000000001,
+      "end": 5580.0,
+      "text": "mobility. It denies everyone their individual liberties that this country was founded on."
+    },
+    {
+      "start": 5580.0,
+      "end": 5585.4400000000005,
+      "text": "Socialism is fucking wrong. It's broken. It doesn't work. And if you all want to go through that"
+    },
+    {
+      "start": 5585.4400000000005,
+      "end": 5591.040000000001,
+      "text": "lesson, do it. Go for it. Let's do it. Let them get elected. But the numbers on that election data"
+    },
+    {
+      "start": 5591.040000000001,
+      "end": 5595.280000000001,
+      "text": "show me that that's not what the people wanted. That it's not very clear or evident to me that"
+    },
+    {
+      "start": 5595.28,
+      "end": 5599.28,
+      "text": "that's what people voted for. And that's where I'm like, my God, the system itself has become a"
+    },
+    {
+      "start": 5599.28,
+      "end": 5603.92,
+      "text": "system of appointment, not a system of election. And I get fired up about that personally."
+    },
+    {
+      "start": 5604.639999999999,
+      "end": 5609.36,
+      "text": "Sacriona, anything was we wrap here on this? Yeah. The party told you to reject the evidence"
+    },
+    {
+      "start": 5609.36,
+      "end": 5615.36,
+      "text": "of your eyes and ears. It was their final most essential command. This is obvious. Just look"
+    },
+    {
+      "start": 5615.36,
+      "end": 5621.12,
+      "text": "at the charts. Look at the data. We know something crooked happened. It's statistically impossible."
+    },
+    {
+      "start": 5621.12,
+      "end": 5626.32,
+      "text": "The only thing we don't know is whether it was illegal fraud or legal fraud. Meaning"
+    },
+    {
+      "start": 5626.32,
+      "end": 5631.92,
+      "text": "they've created so many loopholes and so much corruption in the law that what they did is possibly"
+    },
+    {
+      "start": 5631.92,
+      "end": 5637.84,
+      "text": "legal. It is still corrupt. It is still crooked. It is ridiculous. Everyone can see it."
+    },
+    {
+      "start": 5637.84,
+      "end": 5642.16,
+      "text": "Do not deny the evidence of your eyes and ears. Even if they call you an election denier,"
+    },
+    {
+      "start": 5642.16,
+      "end": 5648.0,
+      "text": "I personally don't care. I deny it. Spencer Pratt should be in the run off. I deny that"
+    },
+    {
+      "start": 5648.0,
+      "end": 5654.24,
+      "text": "wrong in one legitimately. The statistics are the statistics and they would scream that you"
+    },
+    {
+      "start": 5654.24,
+      "end": 5659.76,
+      "text": "should have the attorney general of California and the federal attorney general look into it."
+    },
+    {
+      "start": 5659.76,
+      "end": 5663.36,
+      "text": "And if they catch people doing this stuff and they have caught one person and Nick Shirley"
+    },
+    {
+      "start": 5663.36,
+      "end": 5667.2,
+      "text": "went down there and you see people on Skid Row, you know, listen, homeless people should have"
+    },
+    {
+      "start": 5667.2,
+      "end": 5671.76,
+      "text": "the right to vote. Theoretically, why did Newsom just sign a law of making audits like that"
+    },
+    {
+      "start": 5671.76,
+      "end": 5676.0,
+      "text": "even harder? Yeah, I'm not defending Newsom here. I'm saying, where's the attorney general?"
+    },
+    {
+      "start": 5676.0,
+      "end": 5681.76,
+      "text": "If there is, in fact, fraud, Trump has the ability with his hands-elected attorney generals to go"
+    },
+    {
+      "start": 5681.76,
+      "end": 5689.36,
+      "text": "after this. He controls that part of, you know, our democracy. He should file and they should go"
+    },
+    {
+      "start": 5689.36,
+      "end": 5694.24,
+      "text": "figure out what happened statistically. So Trump, President Trump, thank you, President Trump."
+    },
+    {
+      "start": 5694.24,
+      "end": 5700.24,
+      "text": "Go do it. Go do it. You've got this attorney general chasing down everybody else. Go to this"
+    },
+    {
+      "start": 5700.24,
+      "end": 5706.0,
+      "text": "election, use your powers, audit it, and find them. Where's President Trump? You didn't hear my"
+    },
+    {
+      "start": 5706.0,
+      "end": 5710.639999999999,
+      "text": "point that the state law just made it harder for the federal government to come in and audit the"
+    },
+    {
+      "start": 5710.639999999999,
+      "end": 5714.24,
+      "text": "voter rolls. So yeah, he can still do it. I'm sure they will do it. I'm sure they'll do it if they"
+    },
+    {
+      "start": 5714.24,
+      "end": 5720.639999999999,
+      "text": "can. Yeah, I mean, trust me. Trump does what he wants. If we've learned anything, he will do what he"
+    },
+    {
+      "start": 5720.639999999999,
+      "end": 5728.0,
+      "text": "wants. What I find amazing is that the media, instead of asking tough questions like, how did this"
+    },
+    {
+      "start": 5728.0,
+      "end": 5734.16,
+      "text": "happen? How could the votes swing so wildly in ballots that were only found after? Hold on, after"
+    },
+    {
+      "start": 5734.16,
+      "end": 5740.32,
+      "text": "election day, the media, instead of trying to demand answers and demand accountability, it's trying"
+    },
+    {
+      "start": 5740.32,
+      "end": 5745.76,
+      "text": "to cover up and say nothing wrong happened here. It's unbelievable. It's outrageous. What is the"
+    },
+    {
+      "start": 5745.76,
+      "end": 5750.48,
+      "text": "best theory still, man? What's the best theory of why the media is discrepancy? We're sitting here"
+    },
+    {
+      "start": 5750.48,
+      "end": 5756.4,
+      "text": "talking about it. What's the discrepancy? Anybody have a still man of why this discrepancy could have"
+    },
+    {
+      "start": 5756.400000000001,
+      "end": 5763.200000000001,
+      "text": "happened? That's legitimate. Look, anybody? If the media is hanging on to a snapshot of the past"
+    },
+    {
+      "start": 5763.84,
+      "end": 5773.76,
+      "text": "where people actually cared what they said and every time that they can actually reestablish trust,"
+    },
+    {
+      "start": 5774.72,
+      "end": 5782.72,
+      "text": "they kind of don't do it because the people that they want to curry favor with are willing to"
+    },
+    {
+      "start": 5782.72,
+      "end": 5787.52,
+      "text": "play along. I think what happens is the media is like, well, I have two choices. I can actually say"
+    },
+    {
+      "start": 5787.52,
+      "end": 5793.6,
+      "text": "that Spencer Pratt should have won or could have won or investigate why he didn't win, but then I'm"
+    },
+    {
+      "start": 5793.6,
+      "end": 5799.280000000001,
+      "text": "kind of tacitly supporting Trump and hold on a second. I'm supposed to hate Trump. No, this is"
+    },
+    {
+      "start": 5799.280000000001,
+      "end": 5803.12,
+      "text": "completely normal. Nothing to see here. Everybody moves on. Hoping that then they get"
+    },
+    {
+      "start": 5803.12,
+      "end": 5807.52,
+      "text": "ingratiated into the machine, but they're going to get run over and use like everybody else does, too."
+    },
+    {
+      "start": 5807.92,
+      "end": 5814.64,
+      "text": "So that's what's happened. Yeah. Your point is so spot-on to mop it. It's so polarized,"
+    },
+    {
+      "start": 5814.64,
+      "end": 5820.080000000001,
+      "text": "meaning that there's two poles, that if you do question, it's almost like you were being put in the"
+    },
+    {
+      "start": 5820.080000000001,
+      "end": 5824.8,
+      "text": "Trump pro-Trump camp, just like the word MAGA is thrown around. You're a MAGA guy because"
+    },
+    {
+      "start": 5824.8,
+      "end": 5828.160000000001,
+      "text": "you're questioning election integrity. It says nothing to do with MAGA. It's just simple"
+    },
+    {
+      "start": 5828.160000000001,
+      "end": 5835.200000000001,
+      "text": "conversation about a particular topic, but if it's diametric to the other camp, you must be in"
+    },
+    {
+      "start": 5835.2,
+      "end": 5840.08,
+      "text": "that bad camp, so then they don't want to be putting that camp. It's so true. Hunk for mathematical"
+    },
+    {
+      "start": 5840.08,
+      "end": 5845.2,
+      "text": "and statistical literacy, and what happened here is mathematically and statistically. Nobody has"
+    },
+    {
+      "start": 5845.2,
+      "end": 5851.12,
+      "text": "any steel man or concept of how this could have happened. I can tell you the statistical"
+    },
+    {
+      "start": 5851.12,
+      "end": 5856.639999999999,
+      "text": "odds that this would have happened, and it's one in a trillion. Okay. So are you telling me the one"
+    },
+    {
+      "start": 5856.639999999999,
+      "end": 5863.5199999999995,
+      "text": "in a trillion shot hit? I'm asking if there is any... I'm not. Just this one time? I'm not. I'm asking if"
+    },
+    {
+      "start": 5863.52,
+      "end": 5869.52,
+      "text": "there's anybody who steel man's this in any way. I'm asking for the integrity of... Why is it so"
+    },
+    {
+      "start": 5869.52,
+      "end": 5875.84,
+      "text": "psychologically important for you to cling to the idea? It's not. I'm asking for the elections,"
+    },
+    {
+      "start": 5875.84,
+      "end": 5880.64,
+      "text": "that California elections are completely corruption-free. After all the things they've clearly done,"
+    },
+    {
+      "start": 5881.360000000001,
+      "end": 5885.360000000001,
+      "text": "to corrupt them, the answer to your question is what do I do? You admit there's like it's"
+    },
+    {
+      "start": 5885.360000000001,
+      "end": 5889.4400000000005,
+      "text": "chock full of loopholes. You asked me why am I holding onto it? I'm not holding onto it. For the"
+    },
+    {
+      "start": 5889.4400000000005,
+      "end": 5894.88,
+      "text": "purpose of discussion and having an intellectually honest discussion, I am asking the three of you"
+    },
+    {
+      "start": 5894.88,
+      "end": 5900.240000000001,
+      "text": "if you've heard, or if you have any theory, just for the rigorousness of the discussion, this isn't"
+    },
+    {
+      "start": 5900.240000000001,
+      "end": 5907.200000000001,
+      "text": "my position. Where are all the democracy protectors in the media now? They were the guardians"
+    },
+    {
+      "start": 5907.200000000001,
+      "end": 5911.68,
+      "text": "democracy. They're going to protect democracy. Where are they to ask questions? The only theory that I"
+    },
+    {
+      "start": 5911.68,
+      "end": 5917.76,
+      "text": "can think of, I'll still admit it myself, because I think you do need to be rigorous. The only thing"
+    },
+    {
+      "start": 5917.76,
+      "end": 5923.2,
+      "text": "I can think of is her ground game is more sophisticated because they've been added longer"
+    },
+    {
+      "start": 5923.2,
+      "end": 5928.56,
+      "text": "than Spencer Pratt and he didn't have a ground game that took this in since he's in non-traditional"
+    },
+    {
+      "start": 5928.56,
+      "end": 5932.56,
+      "text": "first-time candidate. That's the only thing I can think. It's sophisticated, a coded word for"
+    },
+    {
+      "start": 5932.56,
+      "end": 5938.24,
+      "text": "he was a bribing skid row homeless gentleman. He doesn't have an election machine to collect ballots"
+    },
+    {
+      "start": 5938.24,
+      "end": 5943.68,
+      "text": "and collecting ballots as legal. Exactly. That's the question. She had a better cheating operation,"
+    },
+    {
+      "start": 5943.68,
+      "end": 5947.52,
+      "text": "obviously. We're saying the same thing. We're not actually saying anything different."
+    },
+    {
+      "start": 5947.52,
+      "end": 5955.76,
+      "text": "The Twitter commentary was that people were waiting because there are so many people that are so"
+    },
+    {
+      "start": 5955.76,
+      "end": 5962.72,
+      "text": "against Spencer Pratt, but they wanted to be sure that they voted for the right candidate,"
+    },
+    {
+      "start": 5962.72,
+      "end": 5966.72,
+      "text": "whether it's ramen or bass, and so the people that held their ballots, the longest,"
+    },
+    {
+      "start": 5966.72,
+      "end": 5971.360000000001,
+      "text": "saw the polling data that bass was going to win. That's why they all voted for ramen last minute"
+    },
+    {
+      "start": 5971.360000000001,
+      "end": 5975.120000000001,
+      "text": "was to try and promote her to make sure that- Oh, games been shipped because of the, you could have"
+    },
+    {
+      "start": 5975.12,
+      "end": 5978.5599999999995,
+      "text": "two Democrats at the top of the ticket. That's right, and they didn't want Spencer Pratt to have"
+    },
+    {
+      "start": 5978.5599999999995,
+      "end": 5983.44,
+      "text": "a shot at the general. By the way, you saw my interview with Spencer Pratt. He said,"
+    },
+    {
+      "start": 5983.44,
+      "end": 5988.72,
+      "text": "ramen registered one hour before the deadline, and she's friends with bass and that the whole point"
+    },
+    {
+      "start": 5988.72,
+      "end": 5991.84,
+      "text": "was to keep him from actually making it onto the general ballot. Interesting."
+    },
+    {
+      "start": 5991.84,
+      "end": 5995.12,
+      "text": "So that some of the coordination that people were making in their minds was like,"
+    },
+    {
+      "start": 5995.12,
+      "end": 5998.16,
+      "text": "we got to make sure we vote for the two Democrats, and then they'll figure out,"
+    },
+    {
+      "start": 5998.16,
+      "end": 6002.16,
+      "text": "hey, the bass are ramen different. She let's just box him out. Yeah, got it."
+    },
+    {
+      "start": 6002.24,
+      "end": 6005.44,
+      "text": "Which is like why they all waited till the last minute to vote it for to- How do you"
+    },
+    {
+      "start": 6005.44,
+      "end": 6008.8,
+      "text": "calm down? How do you coordinate something like that? That's always the question I have with"
+    },
+    {
+      "start": 6008.8,
+      "end": 6012.5599999999995,
+      "text": "these like, these people are all brilliant geniuses. It's hundreds of thousands of brilliant"
+    },
+    {
+      "start": 6012.5599999999995,
+      "end": 6018.16,
+      "text": "geniuses and get a row that- There's a check group. There's a check group. I mean, it's not that"
+    },
+    {
+      "start": 6018.16,
+      "end": 6022.639999999999,
+      "text": "complicated. There's a challenge. The ballot harvester's did it. What Freiburg said just happened,"
+    },
+    {
+      "start": 6022.639999999999,
+      "end": 6026.88,
+      "text": "it's just that the ballot harvester's did it, not the actual voters, obviously. And ballot"
+    },
+    {
+      "start": 6026.88,
+      "end": 6032.56,
+      "text": "harvasing is legal, but it's sketchy and maybe they- And if there are ballot harvester's,"
+    },
+    {
+      "start": 6032.56,
+      "end": 6038.8,
+      "text": "I think that Trump and the DOJ can catch these people. How the- Is it legal that someone can go out"
+    },
+    {
+      "start": 6038.8,
+      "end": 6042.64,
+      "text": "and collect other people's ballots and fill them out and send them in? It's the craziest"
+    },
+    {
+      "start": 6042.64,
+      "end": 6047.28,
+      "text": "thing to me. No evidence of fraud right now. Statistics don't look good. Donald J. Trump,"
+    },
+    {
+      "start": 6047.28,
+      "end": 6052.08,
+      "text": "you control the Department of Justice, go investigate it. Okay, I love you guys, but I'm hungry."
+    },
+    {
+      "start": 6052.08,
+      "end": 6057.84,
+      "text": "I gotta go. This has been an amazing episode of The All In Punk. It's bye-bye."
+    },
+    {
+      "start": 6058.64,
+      "end": 6059.92,
+      "text": "Love you boys. Bye-bye."
+    },
+    {
+      "start": 6082.16,
+      "end": 6083.68,
+      "text": "These are gone for the-"
+    },
+    {
+      "start": 6092.4,
+      "end": 6095.28,
+      "text": "We should all just get a room and just have one big hug or two, because they're all"
+    },
+    {
+      "start": 6096.08,
+      "end": 6099.12,
+      "text": "It's like this like sexual tension, but we just need to release some of them."
+    },
+    {
+      "start": 6112.08,
+      "end": 6116.64,
+      "text": "I'm doing all in."
+    }
+  ]
+}

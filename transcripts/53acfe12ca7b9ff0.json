@@ -1,0 +1,2636 @@
+{
+  "id": "53acfe12ca7b9ff0",
+  "show": "The Rules of Investing",
+  "theme": "Investor Talks",
+  "title": "Chris Watling on AI, inflation, oil and the fragile foundations beneath markets",
+  "audio_url": "https://mcdn.podbean.com/mf/web/hr6yaif5csu9iq3r/RoI_Longview_V2_Podcast.mp3",
+  "source": "local-whisper",
+  "duration": 2227.6,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.32,
+      "text": "On this episode of the Rules of Investing Podcast, I speak with Chris Wattling, CEO and"
+    },
+    {
+      "start": 10.32,
+      "end": 13.96,
+      "text": "Chief Market Strategist at Longview Economics."
+    },
+    {
+      "start": 13.96,
+      "end": 19.16,
+      "text": "When we spoke a couple of days ago, we covered the outlook for oil prices and inflation,"
+    },
+    {
+      "start": 19.16,
+      "end": 24.12,
+      "text": "the issues he thinks matter most for investors right now, and the equity markets that he"
+    },
+    {
+      "start": 24.12,
+      "end": 29.0,
+      "text": "thinks offer the best opportunities around the world on a 2-3 year view."
+    },
+    {
+      "start": 29.0,
+      "end": 33.44,
+      "text": "Speak around for his take on Australia's favourite dinner table conversation, Australian"
+    },
+    {
+      "start": 33.44,
+      "end": 34.44,
+      "text": "Residential Housing."
+    },
+    {
+      "start": 34.44,
+      "end": 39.4,
+      "text": "I'm Patrick Poke, and this podcast is brought to you by Live Wire Markets."
+    },
+    {
+      "start": 39.4,
+      "end": 42.16,
+      "text": "Chris, lovely to be chatting with you again."
+    },
+    {
+      "start": 42.16,
+      "end": 47.879999999999995,
+      "text": "It's been a while since we've been on a video together, very keen to hear some of your"
+    },
+    {
+      "start": 47.879999999999995,
+      "end": 55.96,
+      "text": "views, but I think before we get into the minutia, although definitely big picture is your"
+    },
+    {
+      "start": 55.96,
+      "end": 56.96,
+      "text": "story."
+    },
+    {
+      "start": 56.96,
+      "end": 60.04,
+      "text": "Let's start off really broad."
+    },
+    {
+      "start": 60.04,
+      "end": 67.52,
+      "text": "There's a lot that investors are kind of juggling at the moment in terms of competing narratives,"
+    },
+    {
+      "start": 67.52,
+      "end": 72.88,
+      "text": "geopolitics, inflation, rates, AI, slowing growth."
+    },
+    {
+      "start": 72.88,
+      "end": 75.4,
+      "text": "There really is a lot going on in the world."
+    },
+    {
+      "start": 75.4,
+      "end": 79.64,
+      "text": "From your perspective, what actually matters the most right now?"
+    },
+    {
+      "start": 79.64,
+      "end": 81.84,
+      "text": "Yeah, there is a lot going on, isn't it?"
+    },
+    {
+      "start": 81.84,
+      "end": 85.48,
+      "text": "I think you've really boiled it down into three key trends."
+    },
+    {
+      "start": 85.48,
+      "end": 89.72,
+      "text": "Obviously, energy and the Straits of Hormuz, which we'll get on to in more detail."
+    },
+    {
+      "start": 89.72,
+      "end": 91.84,
+      "text": "I'm sure it's a critical question."
+    },
+    {
+      "start": 91.84,
+      "end": 95.36,
+      "text": "Number one, number two is the AI trend undoubtedly."
+    },
+    {
+      "start": 95.36,
+      "end": 100.80000000000001,
+      "text": "I mean, we've seen what that's been doing with a bunch of stocks around the world, really."
+    },
+    {
+      "start": 100.80000000000001,
+      "end": 104.24000000000001,
+      "text": "They call it the switch from GPU to CPU."
+    },
+    {
+      "start": 104.24000000000001,
+      "end": 108.80000000000001,
+      "text": "Now we've got to genticate AI at work and CPU so important."
+    },
+    {
+      "start": 108.80000000000001,
+      "end": 115.24000000000001,
+      "text": "And then thirdly, I think is the idea that the global, the Western economy was starting"
+    },
+    {
+      "start": 115.24000000000001,
+      "end": 118.68,
+      "text": "to broaden as we got into the back end of last year."
+    },
+    {
+      "start": 118.68,
+      "end": 119.68,
+      "text": "Can we get back to that?"
+    },
+    {
+      "start": 119.68,
+      "end": 121.80000000000001,
+      "text": "I think that's a critical question."
+    },
+    {
+      "start": 121.80000000000001,
+      "end": 125.60000000000001,
+      "text": "Is that going to be derailed by what's happening with the oil price?"
+    },
+    {
+      "start": 125.60000000000001,
+      "end": 131.96,
+      "text": "And all those kind of factors, and then you can lay on top of that geopolitics, midterms,"
+    },
+    {
+      "start": 131.96,
+      "end": 136.4,
+      "text": "Trump meeting Z, Z meeting Putin, there's an awful lot to think about."
+    },
+    {
+      "start": 136.4,
+      "end": 139.48000000000002,
+      "text": "It's a fascinating time, as it always is."
+    },
+    {
+      "start": 139.48,
+      "end": 145.51999999999998,
+      "text": "Let's jump into the oil situation and what's happening in Iran."
+    },
+    {
+      "start": 145.51999999999998,
+      "end": 150.72,
+      "text": "How are you thinking about the medium and the long-term implications, both from like an"
+    },
+    {
+      "start": 150.72,
+      "end": 154.32,
+      "text": "economic perspective, but also from a market's perspective?"
+    },
+    {
+      "start": 154.32,
+      "end": 159.51999999999998,
+      "text": "Yeah, look, I mean, we've been crunching numbers trying to work out what oil price causes"
+    },
+    {
+      "start": 159.51999999999998,
+      "end": 162.2,
+      "text": "what damage wear and who's in the most trouble."
+    },
+    {
+      "start": 162.2,
+      "end": 164.88,
+      "text": "I think the markets come to that view quite well."
+    },
+    {
+      "start": 164.88,
+      "end": 168.95999999999998,
+      "text": "It's pretty well understood that Europe's more vulnerable of the major economic regions"
+    },
+    {
+      "start": 168.96,
+      "end": 174.8,
+      "text": "of the world, $100 oil price pushes Europe, I think, into a technical recession."
+    },
+    {
+      "start": 174.8,
+      "end": 177.36,
+      "text": "I'm not sure why I should worry too much about that."
+    },
+    {
+      "start": 177.36,
+      "end": 182.20000000000002,
+      "text": "I think one can exaggerate the importance of that, but that's certainly out there."
+    },
+    {
+      "start": 182.20000000000002,
+      "end": 186.72,
+      "text": "The US, I think, is resilient, until around $1,7200 oil."
+    },
+    {
+      "start": 186.72,
+      "end": 188.28,
+      "text": "It's a big oil export, as we know."
+    },
+    {
+      "start": 188.28,
+      "end": 195.28,
+      "text": "This is very different from the 1970s oil intensity of GDP in the US is fallen dramatically"
+    },
+    {
+      "start": 195.28,
+      "end": 197.0,
+      "text": "in the last few decades."
+    },
+    {
+      "start": 197.0,
+      "end": 200.84,
+      "text": "They still use about $21 million per day, which is what they were doing about 20 years"
+    },
+    {
+      "start": 200.84,
+      "end": 202.84,
+      "text": "ago."
+    },
+    {
+      "start": 202.84,
+      "end": 207.84,
+      "text": "US is more resilient, and China's built up this enormous stockpile."
+    },
+    {
+      "start": 207.84,
+      "end": 208.84,
+      "text": "All of that's a big focus."
+    },
+    {
+      "start": 208.84,
+      "end": 212.6,
+      "text": "I think then beyond that, really, what I'm thinking about when you talk about markets,"
+    },
+    {
+      "start": 212.6,
+      "end": 217.88,
+      "text": "obviously, once concerned about the lack of physical oil, the risk of inventory is running"
+    },
+    {
+      "start": 217.88,
+      "end": 224.14,
+      "text": "down, and there's a big debate out there as when jet fuel is going to run down, when"
+    },
+    {
+      "start": 224.14000000000001,
+      "end": 228.34,
+      "text": "the inventory is going to run out, when they get to critical levels, that is clearly"
+    },
+    {
+      "start": 228.34,
+      "end": 229.34,
+      "text": "important."
+    },
+    {
+      "start": 229.34,
+      "end": 233.74,
+      "text": "I think almost more important is what's happening to six and 12-month oil price."
+    },
+    {
+      "start": 233.74,
+      "end": 237.10000000000002,
+      "text": "If you look at the six, 12-month futures, what are they up to?"
+    },
+    {
+      "start": 237.10000000000002,
+      "end": 241.54000000000002,
+      "text": "They're really telling you about where we're going to be, where we come out of this crisis"
+    },
+    {
+      "start": 241.54000000000002,
+      "end": 246.74,
+      "text": "at some point, and they're really telling you about, I think, the price of oil that's"
+    },
+    {
+      "start": 246.74,
+      "end": 251.98000000000002,
+      "text": "needed to get enough oil out of the ground to replace a lot of what you see coming out"
+    },
+    {
+      "start": 251.98000000000002,
+      "end": 255.18,
+      "text": "of Iran and other parts of the Straits of Hormuz."
+    },
+    {
+      "start": 255.18,
+      "end": 260.94,
+      "text": "What I like about these kind of events is people adapt, markets adapt, people adapt,"
+    },
+    {
+      "start": 260.94,
+      "end": 267.26,
+      "text": "economies adapt, a lot of oil is going through the East-West pipeline in Saudi, UAE is talking"
+    },
+    {
+      "start": 267.26,
+      "end": 273.78000000000003,
+      "text": "about building a second pipeline to the Fruja port, clearly $90 oil, which is roughly"
+    },
+    {
+      "start": 273.78000000000003,
+      "end": 276.82,
+      "text": "where six-month Brent futures are."
+    },
+    {
+      "start": 276.82,
+      "end": 281.18,
+      "text": "It's high enough to get Shell going again, it gets more Canadian oil out, it gets Brazilian"
+    },
+    {
+      "start": 281.18,
+      "end": 285.90000000000003,
+      "text": "deep water oil out, hopefully we'll get Venezuela going more."
+    },
+    {
+      "start": 285.90000000000003,
+      "end": 288.74,
+      "text": "Interestingly, before we came into this, there was a lot of oil in the world."
+    },
+    {
+      "start": 288.74,
+      "end": 292.18,
+      "text": "There was plenty of oil around."
+    },
+    {
+      "start": 292.18,
+      "end": 298.58,
+      "text": "The prices are doubled, let's say, on Spartan, up 50% on six-month forward."
+    },
+    {
+      "start": 298.58,
+      "end": 303.14,
+      "text": "That's quite a lot in terms of getting even more oil out of the world."
+    },
+    {
+      "start": 303.14,
+      "end": 308.02,
+      "text": "We're focused on those economic factors and we're focused on what's happening to six-month"
+    },
+    {
+      "start": 308.02,
+      "end": 312.34,
+      "text": "future Brent contract, because I think that is the place to watch if you want to think"
+    },
+    {
+      "start": 312.34,
+      "end": 314.94,
+      "text": "about the impact on global stock markets."
+    },
+    {
+      "start": 314.94,
+      "end": 318.18,
+      "text": "That is the good way of understanding."
+    },
+    {
+      "start": 318.18,
+      "end": 323.18,
+      "text": "It sort of brings together all that's happening in the world of geopolitics."
+    },
+    {
+      "start": 323.18,
+      "end": 327.62,
+      "text": "As I say to investors in the last few weeks, good luck working out what Iranian intentions"
+    },
+    {
+      "start": 327.62,
+      "end": 334.41999999999996,
+      "text": "are, because I'm pretty sure there's no one in the West that really knows."
+    },
+    {
+      "start": 334.41999999999996,
+      "end": 336.7,
+      "text": "Yeah, or Trump for that matter."
+    },
+    {
+      "start": 336.7,
+      "end": 340.97999999999996,
+      "text": "Well, you know, in a sense, you're right on Trump, but we do know what Trump wants"
+    },
+    {
+      "start": 340.97999999999996,
+      "end": 341.97999999999996,
+      "text": "an offeramp."
+    },
+    {
+      "start": 341.97999999999996,
+      "end": 342.97999999999996,
+      "text": "You know what I mean?"
+    },
+    {
+      "start": 342.97999999999996,
+      "end": 348.5,
+      "text": "I think it's quite clear he wants an offeramp, so it's actually Iran that we don't really"
+    },
+    {
+      "start": 348.5,
+      "end": 349.5,
+      "text": "know."
+    },
+    {
+      "start": 349.5,
+      "end": 352.58,
+      "text": "There's a lot of theories, but we don't really know."
+    },
+    {
+      "start": 352.58,
+      "end": 358.21999999999997,
+      "text": "You mentioned a lot of oil supply coming online from places like Brazil and Canada,"
+    },
+    {
+      "start": 358.21999999999997,
+      "end": 363.02,
+      "text": "and I think you mentioned Venezuela as well."
+    },
+    {
+      "start": 363.02,
+      "end": 367.21999999999997,
+      "text": "There's obviously, you know, there's an incentive price there, right, and it's going"
+    },
+    {
+      "start": 367.21999999999997,
+      "end": 372.65999999999997,
+      "text": "to vary depending on what the price is at the moment and how much it costs to pull that"
+    },
+    {
+      "start": 372.65999999999997,
+      "end": 373.82,
+      "text": "out of the ground."
+    },
+    {
+      "start": 373.82,
+      "end": 377.62,
+      "text": "Do you think the US has really tapped out in their capacity at the moment?"
+    },
+    {
+      "start": 377.62,
+      "end": 384.46,
+      "text": "Do you see that additional capacity is mainly coming from overseas, or is there still room"
+    },
+    {
+      "start": 384.46,
+      "end": 386.9,
+      "text": "like the US is producing a lot these days?"
+    },
+    {
+      "start": 386.9,
+      "end": 388.21999999999997,
+      "text": "They are producing a lot."
+    },
+    {
+      "start": 388.22,
+      "end": 394.26000000000005,
+      "text": "And they're sort of net net exporters of, I think it's three million barrels of petroleum"
+    },
+    {
+      "start": 394.26000000000005,
+      "end": 395.98,
+      "text": "and crude."
+    },
+    {
+      "start": 395.98,
+      "end": 402.62,
+      "text": "And their net imports of crude, they're historically import crude to refine it into gasoline."
+    },
+    {
+      "start": 402.62,
+      "end": 404.5,
+      "text": "They need certain types of crude."
+    },
+    {
+      "start": 404.5,
+      "end": 407.98,
+      "text": "They tend to get from Canada and Venezuela plays like that."
+    },
+    {
+      "start": 407.98,
+      "end": 410.06,
+      "text": "Those net imports have actually gone back to zero."
+    },
+    {
+      "start": 410.06,
+      "end": 415.18,
+      "text": "So they're exporting crude more than they were, and they're exporting products more than"
+    },
+    {
+      "start": 415.18,
+      "end": 418.1,
+      "text": "they were, you know, jet fuel and so on."
+    },
+    {
+      "start": 418.1,
+      "end": 423.90000000000003,
+      "text": "So, you know, what you can see in the data quite clearly, and we've been looking at this"
+    },
+    {
+      "start": 423.90000000000003,
+      "end": 428.06,
+      "text": "over the last few days, is the inventories in the US are running down."
+    },
+    {
+      "start": 428.06,
+      "end": 433.34000000000003,
+      "text": "And there is a limit, obviously, to how much they can do that."
+    },
+    {
+      "start": 433.34000000000003,
+      "end": 437.14000000000004,
+      "text": "But I think, I mean, I think the story's about, you know, people talk about the straits"
+    },
+    {
+      "start": 437.14000000000004,
+      "end": 442.18,
+      "text": "of hall moves being closed, 20% of the world's oil supply not getting through."
+    },
+    {
+      "start": 442.18,
+      "end": 443.82000000000005,
+      "text": "I think that's exaggerated."
+    },
+    {
+      "start": 443.82,
+      "end": 451.3,
+      "text": "And you really dig into the detail of that 20%, 15 million is crude, five is products."
+    },
+    {
+      "start": 451.3,
+      "end": 455.98,
+      "text": "And of that sort of 15, it looks to us like two or three is not getting through."
+    },
+    {
+      "start": 455.98,
+      "end": 458.62,
+      "text": "Other stuff is getting out different ways."
+    },
+    {
+      "start": 458.62,
+      "end": 462.58,
+      "text": "So, and oh, there's a bit of demand destruction, that's true."
+    },
+    {
+      "start": 462.58,
+      "end": 467.62,
+      "text": "Or there's a bit of relief from releasing inventories from the OECD supplies and so on."
+    },
+    {
+      "start": 467.62,
+      "end": 473.1,
+      "text": "So, you know, the world is feeling the pinch, but at the moment, the pinch is being made"
+    },
+    {
+      "start": 473.1,
+      "end": 476.38,
+      "text": "up, mainly, really, by what you're seeing in the States."
+    },
+    {
+      "start": 476.38,
+      "end": 481.58000000000004,
+      "text": "So, yeah, I mean, there's a crunch point, there's definitely a crunch point."
+    },
+    {
+      "start": 481.58000000000004,
+      "end": 487.18,
+      "text": "It's difficult to work out exactly when it is, because there's so many moving parts."
+    },
+    {
+      "start": 487.18,
+      "end": 490.94,
+      "text": "And actually, the data's not quite as good as you would imagine outside the US."
+    },
+    {
+      "start": 490.94,
+      "end": 497.1,
+      "text": "But, yeah, I mean, the crunch point is, I guess, one to three months away."
+    },
+    {
+      "start": 497.1,
+      "end": 498.1,
+      "text": "Wow."
+    },
+    {
+      "start": 498.1,
+      "end": 499.1,
+      "text": "Okay."
+    },
+    {
+      "start": 499.1,
+      "end": 502.98,
+      "text": "That is, that's not very far."
+    },
+    {
+      "start": 502.98,
+      "end": 508.42,
+      "text": "Of course, that obvious flow on from oil is inflation."
+    },
+    {
+      "start": 508.42,
+      "end": 515.38,
+      "text": "It's for a lot of places, one of the biggest inputs to overall inflation for consumers"
+    },
+    {
+      "start": 515.38,
+      "end": 518.38,
+      "text": "as well as producers."
+    },
+    {
+      "start": 518.38,
+      "end": 523.66,
+      "text": "I think a lot of investors really kind of thought, before all this happened, that inflation"
+    },
+    {
+      "start": 523.66,
+      "end": 526.54,
+      "text": "was yesterday's problem."
+    },
+    {
+      "start": 526.54,
+      "end": 531.62,
+      "text": "Do you think that markets might still be underestimating the inflation risk, particularly if those"
+    },
+    {
+      "start": 531.62,
+      "end": 534.22,
+      "text": "energy prices do stay elevated?"
+    },
+    {
+      "start": 534.22,
+      "end": 535.46,
+      "text": "No, I don't think they are."
+    },
+    {
+      "start": 535.46,
+      "end": 536.82,
+      "text": "I think it's quite the reverse."
+    },
+    {
+      "start": 536.82,
+      "end": 543.86,
+      "text": "I think we're a risk of most central bankers around the world fighting yesterday's battle,"
+    },
+    {
+      "start": 543.86,
+      "end": 545.94,
+      "text": "which is kind of often the pattern."
+    },
+    {
+      "start": 545.94,
+      "end": 547.66,
+      "text": "It's almost human nature, isn't it?"
+    },
+    {
+      "start": 547.66,
+      "end": 549.7,
+      "text": "You worry most about what's just happened to you."
+    },
+    {
+      "start": 549.7,
+      "end": 552.5,
+      "text": "It's the thing that's most front and center of your mind."
+    },
+    {
+      "start": 552.5,
+      "end": 559.7,
+      "text": "And of course, central bankers missed the transitory inflation story of 2022-23."
+    },
+    {
+      "start": 559.7,
+      "end": 560.7,
+      "text": "They got that wrong."
+    },
+    {
+      "start": 560.7800000000001,
+      "end": 566.5,
+      "text": "I think they're kind of in that mindset when I really look, I mean, I'm not sure about"
+    },
+    {
+      "start": 566.5,
+      "end": 567.5,
+      "text": "Australia."
+    },
+    {
+      "start": 567.5,
+      "end": 570.46,
+      "text": "I think when we'll get on to Australia, but it seems to be in a slightly different economic"
+    },
+    {
+      "start": 570.46,
+      "end": 572.82,
+      "text": "place to most of the West."
+    },
+    {
+      "start": 572.82,
+      "end": 577.74,
+      "text": "But certainly, if I look at the UK, US and Eurozone, these are weak economies that, you"
+    },
+    {
+      "start": 577.74,
+      "end": 581.3000000000001,
+      "text": "know, labor markets deteriorating."
+    },
+    {
+      "start": 581.3000000000001,
+      "end": 587.6600000000001,
+      "text": "There's no house price inflation in the US, UK, most of Eurozone, unemployment rates"
+    },
+    {
+      "start": 587.6600000000001,
+      "end": 588.6600000000001,
+      "text": "are going up."
+    },
+    {
+      "start": 588.66,
+      "end": 592.62,
+      "text": "There's no respect, capacity, there's lots of disinflationary trends."
+    },
+    {
+      "start": 592.62,
+      "end": 598.38,
+      "text": "And so I think when you have an oil price spike into that, it's more, I mean, you know,"
+    },
+    {
+      "start": 598.38,
+      "end": 602.9399999999999,
+      "text": "on the headline numbers, it might create a bit of inflation, but ultimately it's disinflationary"
+    },
+    {
+      "start": 602.9399999999999,
+      "end": 606.18,
+      "text": "and deflationary because you're just taking money out of people's pockets."
+    },
+    {
+      "start": 606.18,
+      "end": 610.78,
+      "text": "And if there's no tightness in the labor market, you're not going to get a sort of second-round"
+    },
+    {
+      "start": 610.78,
+      "end": 611.78,
+      "text": "wage effect."
+    },
+    {
+      "start": 611.78,
+      "end": 615.9,
+      "text": "So I think central bankers are worrying too much about second-round effects."
+    },
+    {
+      "start": 615.9,
+      "end": 620.34,
+      "text": "And the market started a price in Hikes into some of those curves, which again, I think"
+    },
+    {
+      "start": 620.34,
+      "end": 621.34,
+      "text": "would be an error."
+    },
+    {
+      "start": 621.34,
+      "end": 627.3,
+      "text": "So, I mean, we literally just this morning, we had a UK inflation, which surprised dramatically"
+    },
+    {
+      "start": 627.3,
+      "end": 628.6999999999999,
+      "text": "to the downside."
+    },
+    {
+      "start": 628.6999999999999,
+      "end": 634.54,
+      "text": "Yesterday, we had UK employment, which showed contraction in payroll employees, basically"
+    },
+    {
+      "start": 634.54,
+      "end": 639.14,
+      "text": "those people who are employed by a business rather than the self-employed, down by a hundred"
+    },
+    {
+      "start": 639.14,
+      "end": 642.46,
+      "text": "thousand on the month, which is a big number for the UK."
+    },
+    {
+      "start": 642.46,
+      "end": 648.3000000000001,
+      "text": "So, yeah, I think inflation is really not the issue here."
+    },
+    {
+      "start": 648.3000000000001,
+      "end": 654.94,
+      "text": "The issue is weak economies and just taking out purchasing power of people's pockets."
+    },
+    {
+      "start": 654.94,
+      "end": 662.7,
+      "text": "Yes, certainly, anecdotally, on the ground here, we saw petrol prices spike to $2.50 or"
+    },
+    {
+      "start": 662.7,
+      "end": 669.7800000000001,
+      "text": "even higher in some places immediately after the conflict started, but they're pretty"
+    },
+    {
+      "start": 669.7800000000001,
+      "end": 671.94,
+      "text": "much back to where they started."
+    },
+    {
+      "start": 672.2600000000001,
+      "end": 679.3800000000001,
+      "text": "Maybe a little bit higher, but certainly, we're paying $1.70, $1.80 a liter now, which is"
+    },
+    {
+      "start": 679.3800000000001,
+      "end": 683.6600000000001,
+      "text": "only marginally higher than it was in January and February."
+    },
+    {
+      "start": 683.6600000000001,
+      "end": 684.6600000000001,
+      "text": "Yeah, it's interesting."
+    },
+    {
+      "start": 684.6600000000001,
+      "end": 689.34,
+      "text": "I mean, again, I mean, if you look at UK petrol prices, similar sort of thing, they spiked"
+    },
+    {
+      "start": 689.34,
+      "end": 696.0200000000001,
+      "text": "on the conflict, but they've been higher over the last 15 years, and they've held their"
+    },
+    {
+      "start": 696.0200000000001,
+      "end": 697.5,
+      "text": "own for the last couple of months."
+    },
+    {
+      "start": 697.5,
+      "end": 699.86,
+      "text": "They haven't actually come off like you also."
+    },
+    {
+      "start": 699.86,
+      "end": 702.58,
+      "text": "But yeah, I think it's an important consideration."
+    },
+    {
+      "start": 702.58,
+      "end": 705.58,
+      "text": "It's very different from 2022."
+    },
+    {
+      "start": 705.58,
+      "end": 710.58,
+      "text": "Electricity prices in much of the West were up dramatically in 2022."
+    },
+    {
+      "start": 710.58,
+      "end": 711.58,
+      "text": "It's not the case."
+    },
+    {
+      "start": 711.58,
+      "end": 717.82,
+      "text": "If you look at natural gas prices in the UK, the Eurozone, and the US haven't really"
+    },
+    {
+      "start": 717.82,
+      "end": 723.74,
+      "text": "up that much compared to 2022 and actually they've eased in recent months."
+    },
+    {
+      "start": 723.74,
+      "end": 726.26,
+      "text": "So I think the world's very different."
+    },
+    {
+      "start": 726.26,
+      "end": 729.74,
+      "text": "The reactions different, the global economies and different places we come into this"
+    },
+    {
+      "start": 730.26,
+      "end": 735.66,
+      "text": "2022 happened after massive COVID money printing, a massive amounts of money in"
+    },
+    {
+      "start": 735.66,
+      "end": 736.86,
+      "text": "people's bank accounts."
+    },
+    {
+      "start": 736.86,
+      "end": 741.82,
+      "text": "So when you've got a lot of money in your bank account and someone puts up the old price,"
+    },
+    {
+      "start": 741.82,
+      "end": 743.14,
+      "text": "you don't care."
+    },
+    {
+      "start": 743.14,
+      "end": 746.9,
+      "text": "When you haven't got a lot of money in your bank account, some say, you get you get a lot"
+    },
+    {
+      "start": 746.9,
+      "end": 751.0600000000001,
+      "text": "and you buy a lot less of something else, and that's the point."
+    },
+    {
+      "start": 751.0600000000001,
+      "end": 755.7,
+      "text": "This is ultimately, it's a tax on the consumer when you hike the old price."
+    },
+    {
+      "start": 755.7,
+      "end": 759.62,
+      "text": "It's like it was 10 years ago, and I think that's the way to think about it."
+    },
+    {
+      "start": 759.62,
+      "end": 765.18,
+      "text": "And I just hope central banks don't respond inappropriately and jack up rates too much."
+    },
+    {
+      "start": 765.18,
+      "end": 769.94,
+      "text": "If at all, I think most of the West shouldn't be raising rates at all, even cutting them"
+    },
+    {
+      "start": 769.94,
+      "end": 771.34,
+      "text": "in some instances."
+    },
+    {
+      "start": 771.34,
+      "end": 773.9,
+      "text": "OK, that's really interesting."
+    },
+    {
+      "start": 773.9,
+      "end": 780.42,
+      "text": "Let's switch to talking a little bit closer to home for us, that is, not for you."
+    },
+    {
+      "start": 780.42,
+      "end": 785.78,
+      "text": "How different do you think the outlook is for inflation and for interest rates in Australia"
+    },
+    {
+      "start": 785.78,
+      "end": 788.9,
+      "text": "compared to the US and Europe?"
+    },
+    {
+      "start": 788.9,
+      "end": 793.42,
+      "text": "Well, I mean, I think one good way to judge it is just to look at the relative performance"
+    },
+    {
+      "start": 793.42,
+      "end": 794.42,
+      "text": "of housing market."
+    },
+    {
+      "start": 794.42,
+      "end": 800.18,
+      "text": "So I always think housing is a good indicator of the sort of tightness of money, monetary"
+    },
+    {
+      "start": 800.18,
+      "end": 804.6999999999999,
+      "text": "policy, how the economy is functioning and so on."
+    },
+    {
+      "start": 804.6999999999999,
+      "end": 811.86,
+      "text": "And if you look at the UK or the USA and contrast it with Europe, it's sorry, with Australia."
+    },
+    {
+      "start": 811.86,
+      "end": 814.18,
+      "text": "It's a real contrast."
+    },
+    {
+      "start": 814.18,
+      "end": 818.86,
+      "text": "Now look, as you know, I'm not following Australia's closely as I'd like to."
+    },
+    {
+      "start": 819.62,
+      "end": 823.46,
+      "text": "But I keep a sort of rough eye on it and you just pretty good bet under your housing market"
+    },
+    {
+      "start": 823.46,
+      "end": 829.1,
+      "text": "by the looks of things prices are up approvals are up on building approvals."
+    },
+    {
+      "start": 829.1,
+      "end": 831.46,
+      "text": "There seems to be a bit of an upswing there."
+    },
+    {
+      "start": 831.46,
+      "end": 835.9,
+      "text": "If you look to the US, you look at housing activity, it's in the doldrums."
+    },
+    {
+      "start": 835.9,
+      "end": 840.7,
+      "text": "I mean, it's in the three-year slump housing transactions is pretty much a record"
+    },
+    {
+      "start": 840.7,
+      "end": 841.7,
+      "text": "loads."
+    },
+    {
+      "start": 841.7,
+      "end": 845.4,
+      "text": "If you look to the Michigan, you know, to people on a buy house, they're like, no, thank"
+    },
+    {
+      "start": 845.4,
+      "end": 846.4,
+      "text": "you, definitely not."
+    },
+    {
+      "start": 846.4,
+      "end": 851.36,
+      "text": "And they've never been, you know, never been less inclined since the early 1980s."
+    },
+    {
+      "start": 851.36,
+      "end": 857.0799999999999,
+      "text": "So, you know, so housing is telling us that the cycles are in different places."
+    },
+    {
+      "start": 857.0799999999999,
+      "end": 862.4,
+      "text": "The labour markets are telling us that as well with rising unemployment in much of Europe"
+    },
+    {
+      "start": 862.4,
+      "end": 867.68,
+      "text": "and the US, whereas in, of course, in Australia, you're sort of edging up in some employment"
+    },
+    {
+      "start": 867.68,
+      "end": 868.68,
+      "text": "gains."
+    },
+    {
+      "start": 868.68,
+      "end": 869.76,
+      "text": "I don't think it's dramatic, is it?"
+    },
+    {
+      "start": 869.76,
+      "end": 873.3199999999999,
+      "text": "But so it's a different point in the cycle."
+    },
+    {
+      "start": 873.32,
+      "end": 878.5200000000001,
+      "text": "So you're getting different central bank responses, I guess, is the word to think about it."
+    },
+    {
+      "start": 878.5200000000001,
+      "end": 883.7600000000001,
+      "text": "I'm sure you probably don't follow our local politics particularly closely, but there's"
+    },
+    {
+      "start": 883.7600000000001,
+      "end": 891.2800000000001,
+      "text": "been a lot of noise around about the changes to capital gains tax and to negative gearing"
+    },
+    {
+      "start": 891.2800000000001,
+      "end": 892.5200000000001,
+      "text": "and these kind of things."
+    },
+    {
+      "start": 892.5200000000001,
+      "end": 897.5200000000001,
+      "text": "So it would be interesting to see whether that really does actually have the impact on demand"
+    },
+    {
+      "start": 897.5200000000001,
+      "end": 901.8000000000001,
+      "text": "for housing that some people have speculated that it will."
+    },
+    {
+      "start": 901.8000000000001,
+      "end": 905.48,
+      "text": "I guess it's one of those time will tell kind of situations."
+    },
+    {
+      "start": 905.48,
+      "end": 906.48,
+      "text": "Yeah."
+    },
+    {
+      "start": 906.48,
+      "end": 907.84,
+      "text": "So I was going to say I love that debate."
+    },
+    {
+      "start": 907.84,
+      "end": 912.0000000000001,
+      "text": "I've heard that many times over the years coming to Australia and I'm looking forward"
+    },
+    {
+      "start": 912.0000000000001,
+      "end": 915.8000000000001,
+      "text": "to being back there in a couple of months and hearing more on that one because, yeah, it"
+    },
+    {
+      "start": 915.8000000000001,
+      "end": 922.72,
+      "text": "is unique to your wonderful country and unique to your housing market, of course, and"
+    },
+    {
+      "start": 922.72,
+      "end": 925.44,
+      "text": "probably has quite significant distortion effects."
+    },
+    {
+      "start": 925.44,
+      "end": 926.44,
+      "text": "So fascinating."
+    },
+    {
+      "start": 926.44,
+      "end": 927.44,
+      "text": "Yeah."
+    },
+    {
+      "start": 927.44,
+      "end": 929.96,
+      "text": "It really is."
+    },
+    {
+      "start": 929.96,
+      "end": 936.2800000000001,
+      "text": "I'll be watching from the sidelines, no skin in that game."
+    },
+    {
+      "start": 936.2800000000001,
+      "end": 942.0400000000001,
+      "text": "Looking at global growth over the next few years, what are some of the big sources of strength"
+    },
+    {
+      "start": 942.0400000000001,
+      "end": 948.36,
+      "text": "that you see out there and are there any major areas of concern for you?"
+    },
+    {
+      "start": 948.36,
+      "end": 949.36,
+      "text": "Yes, and yes."
+    },
+    {
+      "start": 949.36,
+      "end": 954.8800000000001,
+      "text": "I mean, definitely areas of concern, but let's start with the strength as I sort of touched"
+    },
+    {
+      "start": 954.88,
+      "end": 957.4399999999999,
+      "text": "on when we when we started to talk."
+    },
+    {
+      "start": 957.4399999999999,
+      "end": 962.84,
+      "text": "There was clear evidence of a broadening Western recovery as we came into this year."
+    },
+    {
+      "start": 962.84,
+      "end": 969.76,
+      "text": "So if you looked at the industrial cycle in the US, for example, it, you know, 2023,"
+    },
+    {
+      "start": 969.76,
+      "end": 973.0,
+      "text": "24 into 25, it was pretty much flat as a pancake."
+    },
+    {
+      "start": 973.0,
+      "end": 978.76,
+      "text": "And late 2025, it started to pick up and you can see an ISM manufacturing and you can"
+    },
+    {
+      "start": 978.76,
+      "end": 981.4,
+      "text": "see it in durable goods orders which are trending higher."
+    },
+    {
+      "start": 981.4,
+      "end": 986.1999999999999,
+      "text": "So there's clear evidence of broadening in the Western economies in terms of the industrial"
+    },
+    {
+      "start": 986.1999999999999,
+      "end": 991.12,
+      "text": "cycle, European PMIs for the manufacturing sector, pushed above 50 in the last couple"
+    },
+    {
+      "start": 991.12,
+      "end": 992.12,
+      "text": "of months."
+    },
+    {
+      "start": 992.12,
+      "end": 996.36,
+      "text": "And I think we're also starting to see a credit cycle or we were."
+    },
+    {
+      "start": 996.36,
+      "end": 1001.28,
+      "text": "So the strength was the broadening that was coming through."
+    },
+    {
+      "start": 1001.28,
+      "end": 1006.3199999999999,
+      "text": "The interesting thing is how much this oil price spike impacts that and slows it down."
+    },
+    {
+      "start": 1006.3199999999999,
+      "end": 1009.72,
+      "text": "But I think that was a real positive that was out there."
+    },
+    {
+      "start": 1009.72,
+      "end": 1011.9200000000001,
+      "text": "But look, I mean, there's plenty to worry about."
+    },
+    {
+      "start": 1011.9200000000001,
+      "end": 1015.1600000000001,
+      "text": "People point to the US consumer data."
+    },
+    {
+      "start": 1015.1600000000001,
+      "end": 1018.9200000000001,
+      "text": "They point to the lack of employment growth in the states."
+    },
+    {
+      "start": 1018.9200000000001,
+      "end": 1024.28,
+      "text": "The slowing of personal disposable income growth, which is really running at levels consistent"
+    },
+    {
+      "start": 1024.28,
+      "end": 1028.92,
+      "text": "with at least a mid cycle slowdown if not a recession in the US."
+    },
+    {
+      "start": 1028.92,
+      "end": 1034.24,
+      "text": "And, you know, there were some real challenges there that you can look at delinquency rates"
+    },
+    {
+      "start": 1034.24,
+      "end": 1038.2,
+      "text": "in in auto's and credit cards in the US that are pretty high levels and they've been"
+    },
+    {
+      "start": 1038.2,
+      "end": 1039.2,
+      "text": "going up."
+    },
+    {
+      "start": 1039.52,
+      "end": 1045.8400000000001,
+      "text": "So there's definitely a bifurcated US macro backdrop, which does create vulnerability,"
+    },
+    {
+      "start": 1045.8400000000001,
+      "end": 1049.48,
+      "text": "which I think is very important to keep an eye on them."
+    },
+    {
+      "start": 1049.48,
+      "end": 1053.92,
+      "text": "You can flip that on its head and really think about it the other way around that actually"
+    },
+    {
+      "start": 1053.92,
+      "end": 1060.88,
+      "text": "the US economy is really driven by a very narrow construct, which I think enhances the"
+    },
+    {
+      "start": 1060.88,
+      "end": 1062.76,
+      "text": "fragility of what's going on."
+    },
+    {
+      "start": 1062.76,
+      "end": 1063.8,
+      "text": "And what do I mean by that?"
+    },
+    {
+      "start": 1063.8,
+      "end": 1070.04,
+      "text": "Well, I mean that really consumption is carrying on growing, obviously not because the lower"
+    },
+    {
+      "start": 1070.04,
+      "end": 1075.24,
+      "text": "income workers who are not getting jobs as we just discuss is not much personal disposable"
+    },
+    {
+      "start": 1075.24,
+      "end": 1078.96,
+      "text": "income growth, consumption is carrying on because of the wealth effect."
+    },
+    {
+      "start": 1078.96,
+      "end": 1084.56,
+      "text": "Now the wealth effect, of course, is in the market because of the AI theme."
+    },
+    {
+      "start": 1084.56,
+      "end": 1089.52,
+      "text": "And of course, capex is strong because of the AI theme, owning growth in the stock market"
+    },
+    {
+      "start": 1089.52,
+      "end": 1091.12,
+      "text": "is strong because of the AI theme."
+    },
+    {
+      "start": 1091.1200000000001,
+      "end": 1096.0400000000002,
+      "text": "And if you look at the margins in the stock market, the record highs, you could look at"
+    },
+    {
+      "start": 1096.0400000000002,
+      "end": 1101.0000000000002,
+      "text": "US corporate profit show GDP, which is the highest it's ever been on record post World War"
+    },
+    {
+      "start": 1101.0000000000002,
+      "end": 1102.0000000000002,
+      "text": "2."
+    },
+    {
+      "start": 1102.0000000000002,
+      "end": 1104.0800000000002,
+      "text": "All of that is about the AI theme."
+    },
+    {
+      "start": 1104.0800000000002,
+      "end": 1112.2,
+      "text": "So AI and related sectors are really driving the whole US economic story, US stock market"
+    },
+    {
+      "start": 1112.2,
+      "end": 1113.5600000000002,
+      "text": "and US profit growth."
+    },
+    {
+      "start": 1113.5600000000002,
+      "end": 1116.2,
+      "text": "So there's a real narrowness to what's going on."
+    },
+    {
+      "start": 1116.2,
+      "end": 1120.8400000000001,
+      "text": "And if you look outside of that, as I say, you look at US housing, look at US consumer,"
+    },
+    {
+      "start": 1120.84,
+      "end": 1127.52,
+      "text": "look at the lower income levels, there's real stress or certainly a degree of stress and"
+    },
+    {
+      "start": 1127.52,
+      "end": 1128.52,
+      "text": "or a lack of growth."
+    },
+    {
+      "start": 1128.52,
+      "end": 1129.52,
+      "text": "Let's put it that way."
+    },
+    {
+      "start": 1129.52,
+      "end": 1135.9599999999998,
+      "text": "So, so that that I think is the real vulnerability, whilst the AI theme continues, we don't need"
+    },
+    {
+      "start": 1135.9599999999998,
+      "end": 1140.9199999999998,
+      "text": "to worry about it, but I think when that comes to a conclusion, if that broadening thesis"
+    },
+    {
+      "start": 1140.9199999999998,
+      "end": 1145.28,
+      "text": "hasn't played out, there'll be a real vulnerability in the US economy."
+    },
+    {
+      "start": 1145.28,
+      "end": 1152.76,
+      "text": "So just as everything's built on the narrow AI construct, it can easily collapse on an"
+    },
+    {
+      "start": 1152.76,
+      "end": 1158.0,
+      "text": "unwinding or a lack of belief or a change in that construct, whatever that might be."
+    },
+    {
+      "start": 1158.0,
+      "end": 1162.08,
+      "text": "So don't get me wrong, I'm not suggesting it's all over tomorrow, and there are ways of"
+    },
+    {
+      "start": 1162.08,
+      "end": 1163.3999999999999,
+      "text": "keeping an eye on these things."
+    },
+    {
+      "start": 1163.3999999999999,
+      "end": 1168.6399999999999,
+      "text": "But it is a fragility that does concern me along along with the straights of one moves"
+    },
+    {
+      "start": 1168.6399999999999,
+      "end": 1174.76,
+      "text": "as well, but particularly that AI construct, I think that's a major medium term issue."
+    },
+    {
+      "start": 1175.44,
+      "end": 1177.28,
+      "text": "Definitely an interesting one."
+    },
+    {
+      "start": 1177.28,
+      "end": 1187.16,
+      "text": "Let's, I guess, get away more from the, say, the theoretical, at least from an investor perspective."
+    },
+    {
+      "start": 1187.16,
+      "end": 1192.8799999999999,
+      "text": "I guess from a real economy perspective, it's not theoretical, but for investors, the question"
+    },
+    {
+      "start": 1192.8799999999999,
+      "end": 1197.52,
+      "text": "really becomes like, how does that apply to equity markets?"
+    },
+    {
+      "start": 1197.52,
+      "end": 1204.74,
+      "text": "So looking out across the world at the moment, if you had to pick one major equity"
+    },
+    {
+      "start": 1204.74,
+      "end": 1212.18,
+      "text": "market that you think offers the best opportunity over the kind of medium to long term, where"
+    },
+    {
+      "start": 1212.18,
+      "end": 1215.26,
+      "text": "would you be looking at the moment and why?"
+    },
+    {
+      "start": 1215.26,
+      "end": 1217.78,
+      "text": "Well, what a great question."
+    },
+    {
+      "start": 1217.78,
+      "end": 1220.66,
+      "text": "It depends what one means by medium to long term, so..."
+    },
+    {
+      "start": 1220.66,
+      "end": 1223.7,
+      "text": "All right, let's put a number on it."
+    },
+    {
+      "start": 1223.7,
+      "end": 1231.02,
+      "text": "Let's go, let's say over kind of two to three years, maybe go out to five if you're feeling"
+    },
+    {
+      "start": 1231.02,
+      "end": 1236.02,
+      "text": "particularly confident, but I think, I think most people would call that kind of medium"
+    },
+    {
+      "start": 1236.02,
+      "end": 1237.02,
+      "text": "to long term."
+    },
+    {
+      "start": 1237.02,
+      "end": 1238.86,
+      "text": "I think the US has got a year in it."
+    },
+    {
+      "start": 1238.86,
+      "end": 1243.98,
+      "text": "I don't know if it's got two or three, so US large caps, I'd be cautious on."
+    },
+    {
+      "start": 1243.98,
+      "end": 1248.1399999999999,
+      "text": "Whether it's six months, 18 months, 24 months, I'm not sure, but the signs will tell us"
+    },
+    {
+      "start": 1248.1399999999999,
+      "end": 1250.42,
+      "text": "when that's drawing to a close."
+    },
+    {
+      "start": 1250.42,
+      "end": 1255.94,
+      "text": "And the benefit, the beneficiaries of that will be, you know, I think places like Southern"
+    },
+    {
+      "start": 1255.94,
+      "end": 1256.94,
+      "text": "Europe."
+    },
+    {
+      "start": 1256.94,
+      "end": 1257.94,
+      "text": "I'm a big fan of Southern Europe."
+    },
+    {
+      "start": 1257.94,
+      "end": 1259.9,
+      "text": "We've been pushing it for a couple of years."
+    },
+    {
+      "start": 1259.9,
+      "end": 1266.14,
+      "text": "Something was one of the best performing stock markets in the world last year."
+    },
+    {
+      "start": 1266.14,
+      "end": 1269.98,
+      "text": "Spanish mid caps, as well as large caps are starting to do well."
+    },
+    {
+      "start": 1269.98,
+      "end": 1274.1000000000001,
+      "text": "And really, you know, I tend to like to think more in terms of sectors than countries,"
+    },
+    {
+      "start": 1274.1000000000001,
+      "end": 1276.8200000000002,
+      "text": "because really, each country has a sector bias."
+    },
+    {
+      "start": 1276.8200000000002,
+      "end": 1281.6200000000001,
+      "text": "US is obviously growth, Italy is banks, you know, et cetera, et cetera."
+    },
+    {
+      "start": 1281.6200000000001,
+      "end": 1288.38,
+      "text": "So I think on a two to three year view, I want to go somewhere where the bank's heavy,"
+    },
+    {
+      "start": 1288.38,
+      "end": 1290.5800000000002,
+      "text": "they're going to enjoy a steepening yield curve."
+    },
+    {
+      "start": 1290.5800000000002,
+      "end": 1297.46,
+      "text": "Because when this AI bubble reaches its apogee and starts to go the other way in terms of"
+    },
+    {
+      "start": 1297.46,
+      "end": 1302.8600000000001,
+      "text": "the stock market, not necessarily in terms of the capex, but when the US stock market starts"
+    },
+    {
+      "start": 1302.8600000000001,
+      "end": 1307.9,
+      "text": "to top out, I think you're going to find more rate cuts come into the curve and you're"
+    },
+    {
+      "start": 1307.9,
+      "end": 1309.3000000000002,
+      "text": "going to get a steeping of the yield curve."
+    },
+    {
+      "start": 1309.3000000000002,
+      "end": 1311.94,
+      "text": "This is going to be great for banks and financials."
+    },
+    {
+      "start": 1311.94,
+      "end": 1317.42,
+      "text": "So, you know, that to me supports the Southern European trade, the fact that you're going"
+    },
+    {
+      "start": 1317.42,
+      "end": 1321.7,
+      "text": "to two years out be having lower rates is going to support the Southern European trade."
+    },
+    {
+      "start": 1321.7,
+      "end": 1324.6200000000001,
+      "text": "I think all of that is quite good on a two to three year view."
+    },
+    {
+      "start": 1324.6200000000001,
+      "end": 1331.3400000000001,
+      "text": "So really, I think short term, you need a bit of exposure to tech and AI."
+    },
+    {
+      "start": 1331.3400000000001,
+      "end": 1336.5,
+      "text": "You need to be, you know, hold it lightly and watch for the indicators when it's getting"
+    },
+    {
+      "start": 1336.5,
+      "end": 1339.22,
+      "text": "towards its peak."
+    },
+    {
+      "start": 1339.22,
+      "end": 1343.74,
+      "text": "And then on the flip side, you want exposure to cyclicals and I'm thinking more financials"
+    },
+    {
+      "start": 1343.74,
+      "end": 1348.5,
+      "text": "and industrial cyclicals, which I think will do well over the course of the next two"
+    },
+    {
+      "start": 1348.5,
+      "end": 1349.5,
+      "text": "or three years."
+    },
+    {
+      "start": 1349.5,
+      "end": 1351.5,
+      "text": "So it gives you those kind of countries, basically."
+    },
+    {
+      "start": 1351.5,
+      "end": 1354.42,
+      "text": "I mean, can give you quite a few other countries."
+    },
+    {
+      "start": 1354.42,
+      "end": 1360.28,
+      "text": "You can throw in some of the emerging markets as well into that mix, but I wouldn't do the"
+    },
+    {
+      "start": 1360.28,
+      "end": 1361.28,
+      "text": "tech focus ones."
+    },
+    {
+      "start": 1361.28,
+      "end": 1365.98,
+      "text": "I would do you so you need to be slightly careful if you buy emerging markets as a basket"
+    },
+    {
+      "start": 1365.98,
+      "end": 1369.38,
+      "text": "because there's a lot of different flavors in there."
+    },
+    {
+      "start": 1369.38,
+      "end": 1373.8200000000002,
+      "text": "Three in Taiwan, obviously tech, China's sort of bit of everything."
+    },
+    {
+      "start": 1373.8200000000002,
+      "end": 1379.2800000000002,
+      "text": "And then you get the sort of classic cyclical commodity plays, which the sort of Brazil,"
+    },
+    {
+      "start": 1379.2800000000002,
+      "end": 1384.14,
+      "text": "Mexico, Chile, I mean, Chile is a great place to invest in because it's a copper play."
+    },
+    {
+      "start": 1384.14,
+      "end": 1389.22,
+      "text": "And I think copper has gone a long, long term uptrend that's been brewing for a while"
+    },
+    {
+      "start": 1389.22,
+      "end": 1390.6200000000001,
+      "text": "and is now playing out."
+    },
+    {
+      "start": 1390.6200000000001,
+      "end": 1397.2600000000002,
+      "text": "So there's lots of country picks based on macro themes and sector leadership in the global"
+    },
+    {
+      "start": 1397.26,
+      "end": 1401.94,
+      "text": "stock market that would lead me to those sort of places on that two to three or maybe"
+    },
+    {
+      "start": 1401.94,
+      "end": 1404.1,
+      "text": "even five year time frame."
+    },
+    {
+      "start": 1404.1,
+      "end": 1405.42,
+      "text": "So we're coming to the end."
+    },
+    {
+      "start": 1405.42,
+      "end": 1409.86,
+      "text": "The point is we're coming to the end of this long US bull market."
+    },
+    {
+      "start": 1409.86,
+      "end": 1414.02,
+      "text": "The question is, you know, we're late cycle, not ender cycle in the US."
+    },
+    {
+      "start": 1414.02,
+      "end": 1418.62,
+      "text": "And when that happens, what are the winners elsewhere in the world on the back of that?"
+    },
+    {
+      "start": 1418.62,
+      "end": 1421.06,
+      "text": "And I think it's some of those countries I just mentioned."
+    },
+    {
+      "start": 1421.06,
+      "end": 1422.06,
+      "text": "Yeah."
+    },
+    {
+      "start": 1422.06,
+      "end": 1424.58,
+      "text": "Chile, definitely interesting from an equity perspective."
+    },
+    {
+      "start": 1424.98,
+      "end": 1428.6599999999999,
+      "text": "I'm not sure if I'd invest in their government bonds, but no, that's not what you're suggesting."
+    },
+    {
+      "start": 1428.6599999999999,
+      "end": 1437.06,
+      "text": "No, you may have actually already answered the question there, I think, but I'd still"
+    },
+    {
+      "start": 1437.06,
+      "end": 1443.5,
+      "text": "be curious just to put it out there on the flip slide to that."
+    },
+    {
+      "start": 1443.5,
+      "end": 1449.3,
+      "text": "Are there any particular markets or popular trades that you think concern that you're concerned"
+    },
+    {
+      "start": 1449.3,
+      "end": 1452.58,
+      "text": "about the risk over the longer term or medium to long term?"
+    },
+    {
+      "start": 1452.58,
+      "end": 1458.9399999999998,
+      "text": "Well, who the US is one, I'm concerned also about the UK, because of the way our politics"
+    },
+    {
+      "start": 1458.9399999999998,
+      "end": 1465.82,
+      "text": "is going, we're in the depths of a new leader about to be appointed, and our Prime Minister"
+    },
+    {
+      "start": 1465.82,
+      "end": 1470.4199999999998,
+      "text": "are probably about to be deposed by his own party, the Labour party."
+    },
+    {
+      "start": 1470.4199999999998,
+      "end": 1476.3,
+      "text": "So again, yeah, well, it's not, it's not again in the Labour party terms, but it's again"
+    },
+    {
+      "start": 1476.3,
+      "end": 1480.4199999999998,
+      "text": "in terms of Britain, you're right, the Italians, so we're apparently joking the other"
+    },
+    {
+      "start": 1480.42,
+      "end": 1484.38,
+      "text": "day that we've had more Prime Ministers than anyone else in the world in the last 10"
+    },
+    {
+      "start": 1484.38,
+      "end": 1490.26,
+      "text": "years, which is, you know when the Italians say that, you're in trouble, they've definitely"
+    },
+    {
+      "start": 1490.26,
+      "end": 1494.3000000000002,
+      "text": "got the record post World War II, but it seems like we've got the last 10 years record"
+    },
+    {
+      "start": 1494.3000000000002,
+      "end": 1495.3000000000002,
+      "text": "on the nose."
+    },
+    {
+      "start": 1495.3000000000002,
+      "end": 1499.7,
+      "text": "I mean, I remember I've been coming to Australia for a long time, so your Prime Minister"
+    },
+    {
+      "start": 1499.7,
+      "end": 1505.54,
+      "text": "seems to change a lot as well, but not so much because of infighting more, just because"
+    },
+    {
+      "start": 1505.54,
+      "end": 1510.38,
+      "text": "you have a short political cycle, but yeah, we've had a lot of leaders in the last"
+    },
+    {
+      "start": 1510.38,
+      "end": 1514.6200000000001,
+      "text": "decade, and it's not going so well."
+    },
+    {
+      "start": 1514.6200000000001,
+      "end": 1521.3000000000002,
+      "text": "Well, let's get on to everybody's favourite topic of conversation over the dinner table"
+    },
+    {
+      "start": 1521.3000000000002,
+      "end": 1522.46,
+      "text": "in Australia at least."
+    },
+    {
+      "start": 1522.46,
+      "end": 1529.5800000000002,
+      "text": "We referred to it a little bit earlier, sometimes known as Australia's National Religion, Australian"
+    },
+    {
+      "start": 1529.5800000000002,
+      "end": 1530.5800000000002,
+      "text": "Residential Property."
+    },
+    {
+      "start": 1530.5800000000002,
+      "end": 1537.98,
+      "text": "Look, I know this isn't really your area, so I guess we'd probably say, let's take"
+    },
+    {
+      "start": 1537.98,
+      "end": 1542.94,
+      "text": "this one with a grain of salt, but talking to an economist who's focused on markets,"
+    },
+    {
+      "start": 1542.94,
+      "end": 1548.7,
+      "text": "it would be remiss of me not to ask you about Australian Residential Property."
+    },
+    {
+      "start": 1548.7,
+      "end": 1552.94,
+      "text": "So what is your view there?"
+    },
+    {
+      "start": 1552.94,
+      "end": 1558.06,
+      "text": "What do you think the outlook will be particularly with affordability, looking stretched, rates"
+    },
+    {
+      "start": 1558.06,
+      "end": 1565.42,
+      "text": "still relatively high, and of course the recent, recently announced, if not yet enacted,"
+    },
+    {
+      "start": 1565.42,
+      "end": 1566.82,
+      "text": "changes to the tax treatment."
+    },
+    {
+      "start": 1567.1,
+      "end": 1571.3,
+      "text": "Well, if it changes the tax treatment of what you said, that sounds pretty troubling for"
+    },
+    {
+      "start": 1571.3,
+      "end": 1577.54,
+      "text": "the housing market, but I have to say obviously I haven't really studied them, and I'm famed"
+    },
+    {
+      "start": 1577.54,
+      "end": 1581.86,
+      "text": "in Australia for calling the end of the housing market too soon, which I think many people"
+    },
+    {
+      "start": 1581.86,
+      "end": 1582.86,
+      "text": "are."
+    },
+    {
+      "start": 1582.86,
+      "end": 1589.34,
+      "text": "I mean, I've had a good, I've had a good, not only one, but yeah, it's a crowded field."
+    },
+    {
+      "start": 1589.34,
+      "end": 1594.58,
+      "text": "I've had a good model in the housing markets around the world, but not in Australia, which"
+    },
+    {
+      "start": 1594.58,
+      "end": 1599.6999999999998,
+      "text": "I seem to be defined gravity compared to the way the rest of the world behaves."
+    },
+    {
+      "start": 1599.6999999999998,
+      "end": 1603.46,
+      "text": "And I know people talk about immigration in Australia, and of course you have the negative"
+    },
+    {
+      "start": 1603.46,
+      "end": 1607.8999999999999,
+      "text": "gearing and all that kind of stuff, which does make it, particularly negative gearing,"
+    },
+    {
+      "start": 1607.8999999999999,
+      "end": 1611.78,
+      "text": "makes it very unique for investors there."
+    },
+    {
+      "start": 1611.78,
+      "end": 1618.22,
+      "text": "So you can see why perhaps it's been slightly different, but I, so I think it may be, if"
+    },
+    {
+      "start": 1618.22,
+      "end": 1624.02,
+      "text": "that's the reason that Australia's held up so well compared to other places, perhaps"
+    },
+    {
+      "start": 1624.02,
+      "end": 1628.18,
+      "text": "if you take away some of that, you start to cause the housing market quite a bit of trouble,"
+    },
+    {
+      "start": 1628.18,
+      "end": 1635.46,
+      "text": "because as you know, and everyone in Australia knows, housing is absurdly expensive, and"
+    },
+    {
+      "start": 1635.46,
+      "end": 1642.22,
+      "text": "deeply unaffordable for first-time buyers and it's a market, like many markets around"
+    },
+    {
+      "start": 1642.22,
+      "end": 1645.26,
+      "text": "the world, but particularly in Australia, that's defined gravity."
+    },
+    {
+      "start": 1645.26,
+      "end": 1653.22,
+      "text": "So, and of course you have an RBA that's been raising rates now, and so I think it's a"
+    },
+    {
+      "start": 1653.22,
+      "end": 1654.82,
+      "text": "troubling mix."
+    },
+    {
+      "start": 1654.82,
+      "end": 1659.1000000000001,
+      "text": "If they're raising rates into these tax changes, I say I don't really understand how"
+    },
+    {
+      "start": 1659.1000000000001,
+      "end": 1664.06,
+      "text": "I haven't been following the details, so, but that would make me nervous in such an expensive"
+    },
+    {
+      "start": 1664.06,
+      "end": 1666.22,
+      "text": "housing market."
+    },
+    {
+      "start": 1666.22,
+      "end": 1670.22,
+      "text": "So all eyes on that, but take it with a pinch of salt, because like I said, you know,"
+    },
+    {
+      "start": 1670.22,
+      "end": 1673.22,
+      "text": "I've tried this one before, it didn't quite work."
+    },
+    {
+      "start": 1673.22,
+      "end": 1679.98,
+      "text": "Yeah, I think both overseas and Australian economists, whether they specialize in housing"
+    },
+    {
+      "start": 1679.98,
+      "end": 1687.22,
+      "text": "or not have struggled with this one, but it definitely seems if the changes do go ahead"
+    },
+    {
+      "start": 1687.22,
+      "end": 1695.02,
+      "text": "like it could be possibly the most significant thing to happen to housing in a long time."
+    },
+    {
+      "start": 1695.02,
+      "end": 1702.14,
+      "text": "But I also would not feel confident in thinking that it's all over, it's a tough one."
+    },
+    {
+      "start": 1702.14,
+      "end": 1703.14,
+      "text": "Yeah, difficult one."
+    },
+    {
+      "start": 1703.14,
+      "end": 1704.14,
+      "text": "Yeah."
+    },
+    {
+      "start": 1704.14,
+      "end": 1709.34,
+      "text": "You may know, as you've been on the show before, my favourite part of the show is our three"
+    },
+    {
+      "start": 1709.3400000000001,
+      "end": 1711.6200000000001,
+      "text": "favourite questions that we ask everyone."
+    },
+    {
+      "start": 1711.6200000000001,
+      "end": 1716.9800000000002,
+      "text": "Now, I've put a little bit of a different spin on them for you as obviously you're not"
+    },
+    {
+      "start": 1716.9800000000002,
+      "end": 1725.1000000000001,
+      "text": "a stock picker, so it seemed wrong, but we'll get to that one last."
+    },
+    {
+      "start": 1725.1000000000001,
+      "end": 1730.9800000000002,
+      "text": "First of the questions is over your career, can you think of a big call, either right"
+    },
+    {
+      "start": 1730.9800000000002,
+      "end": 1735.3000000000002,
+      "text": "or wrong, that really shaped the way you think about investing today?"
+    },
+    {
+      "start": 1735.3,
+      "end": 1739.62,
+      "text": "Plenty on both sides, we've been running this business out for 23 years and I was in"
+    },
+    {
+      "start": 1739.62,
+      "end": 1744.22,
+      "text": "the city for 10 years before that, so you'd hope what you learned something over that"
+    },
+    {
+      "start": 1744.22,
+      "end": 1745.22,
+      "text": "timeframe."
+    },
+    {
+      "start": 1745.22,
+      "end": 1753.98,
+      "text": "I mean, my funniest, most famous, well not any of them are favours, but my well-known"
+    },
+    {
+      "start": 1753.98,
+      "end": 1760.78,
+      "text": "failed call was really in Covid, when I was on Bloomberg TV, I think in probably early"
+    },
+    {
+      "start": 1760.78,
+      "end": 1767.62,
+      "text": "March 2020, suggesting it wasn't going to be much worse than the flu, and the lady practically"
+    },
+    {
+      "start": 1767.62,
+      "end": 1774.46,
+      "text": "fell off her chair, who was hosting the programme at the time, but so I think we got that"
+    },
+    {
+      "start": 1774.46,
+      "end": 1782.06,
+      "text": "spectacular wrong, which was really a lack of understanding about the importance of pandemics"
+    },
+    {
+      "start": 1782.06,
+      "end": 1787.98,
+      "text": "the time that we had, hopefully that's something we've remedied, but I mean, I would take"
+    },
+    {
+      "start": 1787.98,
+      "end": 1793.46,
+      "text": "the argument that markets primarily sell off for three reasons, that's really what we've"
+    },
+    {
+      "start": 1793.46,
+      "end": 1801.58,
+      "text": "learned over the last 35 years, and number one is liquidity, liquidity, liquidity, which"
+    },
+    {
+      "start": 1801.58,
+      "end": 1806.7,
+      "text": "is just so important, interest rates, tightness of money, tightness of monetary conditions,"
+    },
+    {
+      "start": 1806.7,
+      "end": 1812.34,
+      "text": "tightness of financial conditions, utterly key, I think that's critical, number two is"
+    },
+    {
+      "start": 1812.3400000000001,
+      "end": 1819.7400000000002,
+      "text": "in anticipation of recessions or mid-cycle slowdowns, so understanding the economic mini-cycles,"
+    },
+    {
+      "start": 1819.7400000000002,
+      "end": 1824.7,
+      "text": "two to three years, and understanding the big recession drivers are key to forecasting"
+    },
+    {
+      "start": 1824.7,
+      "end": 1830.94,
+      "text": "stock markets, and then number three is shocks, which of course is where Covid gets planted,"
+    },
+    {
+      "start": 1830.94,
+      "end": 1836.7800000000002,
+      "text": "but as do major wars and as do liberation day announcements, but the other thing I've learned"
+    },
+    {
+      "start": 1836.78,
+      "end": 1843.8999999999999,
+      "text": "is that markets almost always sell off, whether it's a shock or recession, etc, they almost,"
+    },
+    {
+      "start": 1843.8999999999999,
+      "end": 1849.42,
+      "text": "that sell off almost always starts when markets, ingredient, market participants have overdone"
+    },
+    {
+      "start": 1849.42,
+      "end": 1856.1,
+      "text": "it on the upside, and it sort of creates this one way facing global investment portfolio"
+    },
+    {
+      "start": 1856.1,
+      "end": 1861.02,
+      "text": "pretty much, I mean, I'm exaggerating, but you get the drift, that's very vulnerable to"
+    },
+    {
+      "start": 1861.02,
+      "end": 1866.74,
+      "text": "these sort of events, so fear and greed is highly important input, I think,"
+    },
+    {
+      "start": 1866.74,
+      "end": 1872.1,
+      "text": "into forecasting markets on a multi-month basis, and also understanding major tops and"
+    },
+    {
+      "start": 1872.1,
+      "end": 1879.66,
+      "text": "major lows, so macro risk appetite, these things are critical, and I think we've learned"
+    },
+    {
+      "start": 1879.66,
+      "end": 1887.66,
+      "text": "that, and yeah, but look, after 25 years, plenty of calls that are wrong, on average though"
+    },
+    {
+      "start": 1887.66,
+      "end": 1892.22,
+      "text": "we tend to be more right than wrong, which I think is the most important thing, and we do"
+    },
+    {
+      "start": 1892.22,
+      "end": 1896.42,
+      "text": "track that, we actually publish our own track record to demonstrate that of all the calls"
+    },
+    {
+      "start": 1896.42,
+      "end": 1903.78,
+      "text": "that we make, so, but yeah, tons of, tons of learning from mistakes, so important."
+    },
+    {
+      "start": 1903.78,
+      "end": 1907.5,
+      "text": "I think, I think the other thing to say is the crowd, the crowd is normally wrong, I mean,"
+    },
+    {
+      "start": 1907.5,
+      "end": 1912.22,
+      "text": "I think we all, we would all agree with that, you know, and the more the crowd is screaming,"
+    },
+    {
+      "start": 1912.22,
+      "end": 1917.98,
+      "text": "I love the narrative in markets, that major tops or major lows, everyone's, it's about"
+    },
+    {
+      "start": 1917.98,
+      "end": 1922.9,
+      "text": "like gold in January, you know, everyone was convinced that gold was, you know, to the"
+    },
+    {
+      "start": 1922.9,
+      "end": 1927.42,
+      "text": "moon to quote Elon Musk, it's kind of the moon, but of course that, that, you know,"
+    },
+    {
+      "start": 1927.42,
+      "end": 1932.42,
+      "text": "when everyone's saying that, that's when you've got tops forming, in the medium term or"
+    },
+    {
+      "start": 1932.42,
+      "end": 1935.8200000000002,
+      "text": "the long term, and I, you know, I think that's probably pretty major top we had in gold"
+    },
+    {
+      "start": 1935.8200000000002,
+      "end": 1941.94,
+      "text": "on January the 29th, same in silver, so, so yeah, all this kind of stuff I think is critical,"
+    },
+    {
+      "start": 1941.94,
+      "end": 1946.8200000000002,
+      "text": "understanding the economic cycle, the risk appetite, fear and greed cycle, the liquidity"
+    },
+    {
+      "start": 1946.8200000000002,
+      "end": 1952.5,
+      "text": "cycle, and the many a maxi cycle, so all of that I think is critical."
+    },
+    {
+      "start": 1952.5,
+      "end": 1958.58,
+      "text": "The second of our favourite questions, what do you think investors are misunderstanding"
+    },
+    {
+      "start": 1958.58,
+      "end": 1962.98,
+      "text": "or getting wrong in markets at the moment?"
+    },
+    {
+      "start": 1962.98,
+      "end": 1969.94,
+      "text": "I think investors are a little bit too complacent about, about the construct of your economic"
+    },
+    {
+      "start": 1969.94,
+      "end": 1976.46,
+      "text": "growth as we talked about earlier, and there's a lot of sort of belief in this AI theme,"
+    },
+    {
+      "start": 1976.46,
+      "end": 1981.18,
+      "text": "perhaps not enough to make a major top, but I suspect that's probably in the most important"
+    },
+    {
+      "start": 1981.18,
+      "end": 1988.66,
+      "text": "asset allocation call for any global investor over the next three to five years, so, you"
+    },
+    {
+      "start": 1988.66,
+      "end": 1993.94,
+      "text": "know, I think, I think that's key, I think that's critical, and I think that's very, very"
+    },
+    {
+      "start": 1993.94,
+      "end": 1998.98,
+      "text": "important to understand, and I think understanding what Trump's policies are doing to globalisation"
+    },
+    {
+      "start": 1998.98,
+      "end": 2004.14,
+      "text": "and de-globalisation and the shift of multilateralism, understanding the global geopolitics"
+    },
+    {
+      "start": 2004.14,
+      "end": 2010.94,
+      "text": "is important as well, and I understand the fact that we are in a phase of de-globalisation,"
+    },
+    {
+      "start": 2010.94,
+      "end": 2015.8200000000002,
+      "text": "so, yeah, all of that, the broadening, all of that is, I think, very important themes"
+    },
+    {
+      "start": 2015.8200000000002,
+      "end": 2018.7,
+      "text": "that need to be kept to close aisle."
+    },
+    {
+      "start": 2018.7,
+      "end": 2024.26,
+      "text": "Well, our final question, and as long-term listeners will know, I always like to insert"
+    },
+    {
+      "start": 2024.26,
+      "end": 2026.8200000000002,
+      "text": "a little bit of a disclaimer before this one."
+    },
+    {
+      "start": 2026.8200000000002,
+      "end": 2031.42,
+      "text": "This is supposed to be a bit of fun and an exercise in long-term thinking."
+    },
+    {
+      "start": 2031.42,
+      "end": 2036.5,
+      "text": "It is, we're not actually suggesting that anybody go out there and put all of their money"
+    },
+    {
+      "start": 2036.5,
+      "end": 2040.8200000000002,
+      "text": "on a single trade and forget about it for five years, but with that being said,"
+    },
+    {
+      "start": 2041.5,
+      "end": 2048.22,
+      "text": "if markets were closed for five years, starting from tomorrow, and you could only make one"
+    },
+    {
+      "start": 2048.22,
+      "end": 2051.54,
+      "text": "investment or trade before they shut, what would it be?"
+    },
+    {
+      "start": 2051.54,
+      "end": 2056.98,
+      "text": "And you can take this anywhere, given your expertise, I don't care if it's equities or rates"
+    },
+    {
+      "start": 2056.98,
+      "end": 2060.46,
+      "text": "or inflation, whatever you feel is most interesting."
+    },
+    {
+      "start": 2060.46,
+      "end": 2066.86,
+      "text": "Oh, gosh, what a great question, that's terrific, what would it be?"
+    },
+    {
+      "start": 2066.86,
+      "end": 2072.46,
+      "text": "I would buy, I think I'd probably buy transportation stocks."
+    },
+    {
+      "start": 2072.46,
+      "end": 2077.94,
+      "text": "I'm not sure they're quite a five-year trade, but you could, really, as I say, I think"
+    },
+    {
+      "start": 2077.94,
+      "end": 2081.94,
+      "text": "there's a broadening of the US economy and there's a broadening of need to shift goods"
+    },
+    {
+      "start": 2081.94,
+      "end": 2082.94,
+      "text": "around."
+    },
+    {
+      "start": 2082.94,
+      "end": 2086.7400000000002,
+      "text": "The hyperscale is now spending their free cash flow, and that means industrial production"
+    },
+    {
+      "start": 2086.7400000000002,
+      "end": 2091.98,
+      "text": "is going to pick up, that means capex, that means building out of data centers, and"
+    },
+    {
+      "start": 2091.98,
+      "end": 2096.82,
+      "text": "when the stock market bubble bursts, which it will at some stage over the next five years,"
+    },
+    {
+      "start": 2096.82,
+      "end": 2100.1400000000003,
+      "text": "that'll mean lower interest rates, which will accelerate that theme."
+    },
+    {
+      "start": 2100.1400000000003,
+      "end": 2105.6600000000003,
+      "text": "So there are counters, but once you lower rates, you'll get a housing market coming through"
+    },
+    {
+      "start": 2105.6600000000003,
+      "end": 2107.5,
+      "text": "in the US."
+    },
+    {
+      "start": 2107.5,
+      "end": 2113.9,
+      "text": "That could be a good bet as well, buy US housing on a five-year view, and buy US transportation"
+    },
+    {
+      "start": 2113.9,
+      "end": 2117.5,
+      "text": "stocks on a five-year view, because once you get the housing involved in the industrial"
+    },
+    {
+      "start": 2117.5,
+      "end": 2122.2200000000003,
+      "text": "cycle, along with defense, and along with a bit of AI data centers, then you're going to"
+    },
+    {
+      "start": 2122.2200000000003,
+      "end": 2124.78,
+      "text": "get a lot of goods moving around the place."
+    },
+    {
+      "start": 2124.78,
+      "end": 2129.86,
+      "text": "If you look at the railroads or the transportation index, until the last month or two or three"
+    },
+    {
+      "start": 2129.86,
+      "end": 2134.2200000000003,
+      "text": "or four, if you like, that sector's gone sideways for three or four years."
+    },
+    {
+      "start": 2134.2200000000003,
+      "end": 2138.46,
+      "text": "So it's starting to break out to the upside, I think it's got a good four or five years"
+    },
+    {
+      "start": 2138.46,
+      "end": 2139.46,
+      "text": "ahead of it."
+    },
+    {
+      "start": 2139.46,
+      "end": 2141.5800000000004,
+      "text": "I would probably throw in Spain in that."
+    },
+    {
+      "start": 2141.5800000000004,
+      "end": 2146.5,
+      "text": "I'm not sure it'll make five years, but maybe throw in Greece, Greece is an economy that"
+    },
+    {
+      "start": 2146.5,
+      "end": 2152.0600000000004,
+      "text": "is just completely changed from where it was five years ago."
+    },
+    {
+      "start": 2152.06,
+      "end": 2158.46,
+      "text": "There's a building, boom, starting, people are going back to Greece, there's an economy"
+    },
+    {
+      "start": 2158.46,
+      "end": 2163.94,
+      "text": "that's had 10, 15 years of tough times, and now it's in good shape structurally, so it"
+    },
+    {
+      "start": 2163.94,
+      "end": 2166.2599999999998,
+      "text": "can have quite a few years of good times."
+    },
+    {
+      "start": 2166.2599999999998,
+      "end": 2169.1,
+      "text": "So I think the stock market will do well on the back of that."
+    },
+    {
+      "start": 2169.1,
+      "end": 2176.98,
+      "text": "So I would probably think like that, maybe copper, you might throw that in."
+    },
+    {
+      "start": 2176.98,
+      "end": 2177.98,
+      "text": "Plenty to choose from."
+    },
+    {
+      "start": 2177.98,
+      "end": 2180.7,
+      "text": "It's quite difficult on a five-year time horizon, to be honest."
+    },
+    {
+      "start": 2180.7,
+      "end": 2181.7,
+      "text": "But yeah."
+    },
+    {
+      "start": 2181.7,
+      "end": 2184.9399999999996,
+      "text": "So the pigs don't look so bad anymore then."
+    },
+    {
+      "start": 2184.9399999999996,
+      "end": 2186.58,
+      "text": "Exactly, yes."
+    },
+    {
+      "start": 2186.58,
+      "end": 2188.2599999999998,
+      "text": "You don't remember the pigs?"
+    },
+    {
+      "start": 2188.2599999999998,
+      "end": 2189.2599999999998,
+      "text": "I do."
+    },
+    {
+      "start": 2189.2599999999998,
+      "end": 2190.2599999999998,
+      "text": "I do."
+    },
+    {
+      "start": 2190.2599999999998,
+      "end": 2191.2599999999998,
+      "text": "The club med the pigs, I'm with you."
+    },
+    {
+      "start": 2191.2599999999998,
+      "end": 2193.1,
+      "text": "Yeah, yeah, they look great."
+    },
+    {
+      "start": 2193.1,
+      "end": 2202.02,
+      "text": "They're no longer, they've no longer got their snout in the trough, I suppose, is the"
+    },
+    {
+      "start": 2202.02,
+      "end": 2203.02,
+      "text": "point."
+    },
+    {
+      "start": 2203.02,
+      "end": 2206.7799999999997,
+      "text": "Put some lipstick on, so we won't know."
+    },
+    {
+      "start": 2206.7799999999997,
+      "end": 2209.8999999999996,
+      "text": "Well Chris, thanks so much for chatting to us."
+    },
+    {
+      "start": 2209.9,
+      "end": 2214.14,
+      "text": "It's been great to hear your thoughts again, always interested to hear what you have"
+    },
+    {
+      "start": 2214.14,
+      "end": 2215.14,
+      "text": "to say."
+    },
+    {
+      "start": 2215.14,
+      "end": 2218.62,
+      "text": "And hopefully you might pop in and see us when you're in Australia next."
+    },
+    {
+      "start": 2218.62,
+      "end": 2223.02,
+      "text": "Absolutely, I look forward to it, I'll be down there in October, so look forward to seeing"
+    },
+    {
+      "start": 2223.02,
+      "end": 2224.02,
+      "text": "you then."
+    },
+    {
+      "start": 2224.02,
+      "end": 2227.62,
+      "text": "And thank you for your time and inviting me on, it's been a pleasure."
+    }
+  ]
+}

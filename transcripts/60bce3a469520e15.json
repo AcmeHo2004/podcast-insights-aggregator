@@ -1,0 +1,4981 @@
+{
+  "id": "60bce3a469520e15",
+  "show": "Masters in Business",
+  "theme": "Investor Talks",
+  "title": "The Future of Automation and AI with Honeywell CEO Vimal Kapur",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/9c446921-dc04-47fb-a1fb-b452000d2ff3/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+  "source": "feed",
+  "duration": 3465.0,
+  "segments": [
+    {
+      "start": 2.52,
+      "end": 11.52,
+      "text": "Speaker 1: Bloomberg Audio Studios, Podcasts, radio News. This is Masters in"
+    },
+    {
+      "start": 11.6,
+      "end": 15.12,
+      "text": "Speaker 1: Business with Barry Ritholt on Bloomberg Radio."
+    },
+    {
+      "start": 17.16,
+      "end": 21.16,
+      "text": "Speaker 2: This week on the podcast, yet another extra special guest."
+    },
+    {
+      "start": 21.56,
+      "end": 25.479,
+      "text": "Speaker 2: Vimal Kapoor is CEO and chairman of Honeywell. He's worked"
+    },
+    {
+      "start": 25.48,
+      "end": 29.76,
+      "text": "Speaker 2: there for the past thirty seven years, and not only"
+    },
+    {
+      "start": 29.92,
+      "end": 34.6,
+      "text": "Speaker 2: has he been overseeing a fascinating transition, Honeywell is in"
+    },
+    {
+      "start": 34.6,
+      "end": 38.68,
+      "text": "Speaker 2: the midst of breaking itself up into three distinct parts."
+    },
+    {
+      "start": 39.08,
+      "end": 41.64,
+      "text": "Speaker 2: I thought this conversation was fascinating and I think you"
+    },
+    {
+      "start": 41.72,
+      "end": 46.44,
+      "text": "Speaker 2: will also with no further ado, my conversation with Honeywell's"
+    },
+    {
+      "start": 46.96,
+      "end": 47.8,
+      "text": "Speaker 2: Vimal Kapoor."
+    },
+    {
+      "start": 48.76,
+      "end": 50.559,
+      "text": "Speaker 3: Pleasure Berry, thanks for hosting me."
+    },
+    {
+      "start": 50.72,
+      "end": 52.88,
+      "text": "Speaker 2: Well, my pleasure to have you here. It's not very"
+    },
+    {
+      "start": 52.92,
+      "end": 57.72,
+      "text": "Speaker 2: often we get a member of the down industrials as"
+    },
+    {
+      "start": 57.8,
+      "end": 61.92,
+      "text": "Speaker 2: part of our guests. Let's start out a little bit"
+    },
+    {
+      "start": 61.96,
+      "end": 66.759,
+      "text": "Speaker 2: with your background. You received a degree in electronics engineering"
+    },
+    {
+      "start": 67.12,
+      "end": 70.64,
+      "text": "Speaker 2: from the the par Institute of Engineering in in India."
+    },
+    {
+      "start": 70.76,
+      "end": 72.28,
+      "text": "Speaker 2: What was the original career plan?"
+    },
+    {
+      "start": 73.44,
+      "end": 76.03999999999999,
+      "text": "Speaker 3: Original carrier plan was to work then get a job."
+    },
+    {
+      "start": 76.2,
+      "end": 77.92,
+      "text": "Speaker 3: That that was a carrier plan. Yeah, that was a"
+    },
+    {
+      "start": 77.959,
+      "end": 81.16,
+      "text": "Speaker 3: carrier plan. And then you know, first I did two"
+    },
+    {
+      "start": 81.2,
+      "end": 84.0,
+      "text": "Speaker 3: small stints of a job and then I joined Honeywell"
+    },
+    {
+      "start": 84.03999999999999,
+      "end": 87.08,
+      "text": "Speaker 3: in early eighty nine. It was a new company in India,"
+    },
+    {
+      "start": 87.56,
+      "end": 90.24,
+      "text": "Speaker 3: so set up. So I ended up joining a startup"
+    },
+    {
+      "start": 91.6,
+      "end": 93.8,
+      "text": "Speaker 3: because it was set up as a joint venture between"
+    },
+    {
+      "start": 93.8,
+      "end": 96.75999999999999,
+      "text": "Speaker 3: two large companies. There's a large Indian company called Tata Group."
+    },
+    {
+      "start": 97.4,
+      "end": 101.96000000000001,
+      "text": "Speaker 3: They joined the automobiles everything, so they invested in this venture."
+    },
+    {
+      "start": 102.56,
+      "end": 104.4,
+      "text": "Speaker 3: It's a big Honeywell with a lot of tech, and"
+    },
+    {
+      "start": 104.44,
+      "end": 106.959,
+      "text": "Speaker 3: then they created this joint venture in which you show"
+    },
+    {
+      "start": 107.03999999999999,
+      "end": 111.6,
+      "text": "Speaker 3: up and it's basically creating something from scratch. We had"
+    },
+    {
+      "start": 111.64,
+      "end": 114.03999999999999,
+      "text": "Speaker 3: no revenue when I started. Our revenue was zero points"
+    },
+    {
+      "start": 114.12,
+      "end": 117.6,
+      "text": "Speaker 3: zero zero. So you learn how to build a company,"
+    },
+    {
+      "start": 117.88,
+      "end": 120.88,
+      "text": "Speaker 3: how you scale, You wear much people hats like in"
+    },
+    {
+      "start": 120.92,
+      "end": 124.92,
+      "text": "Speaker 3: a startup, you don't have a very defined role. So"
+    },
+    {
+      "start": 125.04,
+      "end": 128.799,
+      "text": "Speaker 3: thenk that early experience of high flexibility and you know,"
+    },
+    {
+      "start": 129.04,
+      "end": 131.52,
+      "text": "Speaker 3: going through a very high pace in a short period"
+    },
+    {
+      "start": 131.56,
+      "end": 134.44,
+      "text": "Speaker 3: of time. That laid some very strong foundations. You know."
+    },
+    {
+      "start": 135.36,
+      "end": 138.8,
+      "text": "Speaker 2: So in the United States, out in Silicon Valley, we"
+    },
+    {
+      "start": 138.96,
+      "end": 142.48,
+      "text": "Speaker 2: noticed a lot of these startups. Where they end up"
+    },
+    {
+      "start": 142.76,
+      "end": 145.84,
+      "text": "Speaker 2: certainly isn't where they began. There's usually a pivot or"
+    },
+    {
+      "start": 146.04,
+      "end": 149.28,
+      "text": "Speaker 2: three or four. What was the original idea and the"
+    },
+    {
+      "start": 149.36,
+      "end": 151.92000000000002,
+      "text": "Speaker 2: joint venture and what did that eventually turn into?"
+    },
+    {
+      "start": 152.2,
+      "end": 155.2,
+      "text": "Speaker 3: They turned into what it was planned for because Honeywell,"
+    },
+    {
+      "start": 155.4,
+      "end": 158.07999999999998,
+      "text": "Speaker 3: they did not have its automation business footprint in India"
+    },
+    {
+      "start": 158.07999999999998,
+      "end": 160.72,
+      "text": "Speaker 3: at that time you're talking forty years back. So they"
+    },
+    {
+      "start": 160.84,
+      "end": 163.0,
+      "text": "Speaker 3: partnered with the local company to scale the business. They"
+    },
+    {
+      "start": 163.04,
+      "end": 166.12,
+      "text": "Speaker 3: already had those products and capabilities in US and they"
+    },
+    {
+      "start": 166.12,
+      "end": 169.2,
+      "text": "Speaker 3: were trying to get into Asia and they formed partnerships"
+    },
+    {
+      "start": 169.24,
+      "end": 172.4,
+      "text": "Speaker 3: in few countries, India being one of them. And the"
+    },
+    {
+      "start": 172.48,
+      "end": 175.76,
+      "text": "Speaker 3: strategy was to penetrate the local market, develop the local capability,"
+    },
+    {
+      "start": 175.76,
+      "end": 179.079,
+      "text": "Speaker 3: and we were able to do that quite well. So"
+    },
+    {
+      "start": 179.16,
+      "end": 181.679,
+      "text": "Speaker 3: it's not that we have to change our product strategy,"
+    },
+    {
+      "start": 181.72,
+      "end": 184.04,
+      "text": "Speaker 3: but we have to run learn as we go through."
+    },
+    {
+      "start": 184.04,
+      "end": 187.2,
+      "text": "Speaker 3: We had intense local competition. How do you beat that?"
+    },
+    {
+      "start": 187.36,
+      "end": 191.8,
+      "text": "Speaker 3: How we create our own our own avenue stream there."
+    },
+    {
+      "start": 192.28,
+      "end": 194.12,
+      "text": "Speaker 3: So it was a very successful story."
+    },
+    {
+      "start": 194.28,
+      "end": 197.24,
+      "text": "Speaker 2: So you come up through the operating side, not so"
+    },
+    {
+      "start": 197.36,
+      "end": 202.32,
+      "text": "Speaker 2: much the Harvard Business School DeVos theory side. How much"
+    },
+    {
+      "start": 202.36,
+      "end": 206.48,
+      "text": "Speaker 2: of an advantage has that been as your career clicked"
+    },
+    {
+      "start": 206.48,
+      "end": 208.44,
+      "text": "Speaker 2: through all these different divisions."
+    },
+    {
+      "start": 209.0,
+      "end": 211.68,
+      "text": "Speaker 3: I mean, I think it's an advantage to in a"
+    },
+    {
+      "start": 211.72,
+      "end": 214.64,
+      "text": "Speaker 3: way to work in a practical business because you have"
+    },
+    {
+      "start": 214.639,
+      "end": 217.24,
+      "text": "Speaker 3: to deal with actual problems which the business deal with."
+    },
+    {
+      "start": 217.96,
+      "end": 221.2,
+      "text": "Speaker 3: And having worked in different businesses gave me an opportunity"
+    },
+    {
+      "start": 221.2,
+      "end": 224.52,
+      "text": "Speaker 3: to deal with a different customer situation, different end markets,"
+    },
+    {
+      "start": 225.07999999999998,
+      "end": 229.68,
+      "text": "Speaker 3: operational issue, commercial issue, product development issue, supply chain. So"
+    },
+    {
+      "start": 229.72,
+      "end": 233.56,
+      "text": "Speaker 3: I would say, I mean, there's no replacement of formal education. One."
+    },
+    {
+      "start": 233.64,
+      "end": 238.12,
+      "text": "Speaker 3: I'm not suggesting that having a higher degree is a disadvantage,"
+    },
+    {
+      "start": 238.48,
+      "end": 240.92,
+      "text": "Speaker 3: but I would say that it is amount of advantage"
+    },
+    {
+      "start": 240.96,
+      "end": 244.84,
+      "text": "Speaker 3: to get practical experience. And I was benefiting from a"
+    },
+    {
+      "start": 244.92,
+      "end": 248.2,
+      "text": "Speaker 3: variety of experiences I got in my long career in Honeywell."
+    },
+    {
+      "start": 248.8,
+      "end": 254.84,
+      "text": "Speaker 2: And you ran three very different businesses before becoming CEO"
+    },
+    {
+      "start": 255.16,
+      "end": 261.0,
+      "text": "Speaker 2: Process Solutions, Building Technologies, Performance Materials. Tell us, I mean"
+    },
+    {
+      "start": 261.0,
+      "end": 263.96,
+      "text": "Speaker 2: those names seem sort of ambiguous, right, tell us a"
+    },
+    {
+      "start": 264.0,
+      "end": 266.479,
+      "text": "Speaker 2: little bit about what each of those three divisions get."
+    },
+    {
+      "start": 266.64,
+      "end": 271.0,
+      "text": "Speaker 3: So process solution business is. You know, it provides automation"
+    },
+    {
+      "start": 271.16,
+      "end": 275.64,
+      "text": "Speaker 3: system in the energy sector. So energy sector, think about it, refining,"
+    },
+    {
+      "start": 276.88,
+      "end": 282.039,
+      "text": "Speaker 3: petrochemical plants, other oil and gas facilities, pipeline terminals, even"
+    },
+    {
+      "start": 282.08,
+      "end": 286.96,
+      "text": "Speaker 3: I would say facilities like which may paper metals and mining."
+    },
+    {
+      "start": 287.0,
+      "end": 289.68,
+      "text": "Speaker 3: So these facilities are very complex in terms of their"
+    },
+    {
+      "start": 289.72,
+      "end": 294.56,
+      "text": "Speaker 3: operating procedures, and if they're not automated, it's nearly impossible"
+    },
+    {
+      "start": 294.56,
+      "end": 297.76,
+      "text": "Speaker 3: to run them. So this business provides a sophisticated automation"
+    },
+    {
+      "start": 297.92,
+      "end": 301.84,
+      "text": "Speaker 3: system to these large companies. So think about Axon and"
+    },
+    {
+      "start": 301.92,
+      "end": 306.28,
+      "text": "Speaker 3: Shell and BP as kind of a typical customer or"
+    },
+    {
+      "start": 306.36,
+      "end": 308.919,
+      "text": "Speaker 3: a Ramco in Middle East and at NOx, so this"
+    },
+    {
+      "start": 309.4,
+      "end": 314.0,
+      "text": "Speaker 3: serving these customer So this business was very global, is"
+    },
+    {
+      "start": 314.08,
+      "end": 316.56,
+      "text": "Speaker 3: very global even today the business still is very successful."
+    },
+    {
+      "start": 317.2,
+      "end": 320.68,
+      "text": "Speaker 3: And I became CEO in twenty fourteen of this business"
+    },
+    {
+      "start": 322.0,
+      "end": 325.04,
+      "text": "Speaker 3: and Oil Downtown happened within six months of I becoming"
+    },
+    {
+      "start": 325.04,
+      "end": 329.12,
+      "text": "Speaker 3: the leader of the business. So you learn through tough experiences."
+    },
+    {
+      "start": 329.2,
+      "end": 332.8,
+      "text": "Speaker 3: Oil price was from whatever one hundred and forty hundred"
+    },
+    {
+      "start": 332.8,
+      "end": 336.6,
+      "text": "Speaker 3: and fifty dollars to like a big nose dive, and"
+    },
+    {
+      "start": 336.64,
+      "end": 338.76,
+      "text": "Speaker 3: we did a lot of work in that downturn. Learned"
+    },
+    {
+      "start": 338.76,
+      "end": 342.76,
+      "text": "Speaker 3: a lot, but primarily or question, this business is all"
+    },
+    {
+      "start": 342.76,
+      "end": 346.36,
+      "text": "Speaker 3: of our sophisticated automation and complex facilities. And then I"
+    },
+    {
+      "start": 346.4,
+      "end": 350.0,
+      "text": "Speaker 3: moved to the building automation business, where we still do automation,"
+    },
+    {
+      "start": 350.15999999999997,
+      "end": 354.0,
+      "text": "Speaker 3: but now in this case buildings of different type hospitals, airports, schools,"
+    },
+    {
+      "start": 355.12,
+      "end": 362.12,
+      "text": "Speaker 3: university campuses, data centers. There the business model was very different."
+    },
+    {
+      "start": 362.24,
+      "end": 366.36,
+      "text": "Speaker 3: Now you serve multiple building through variety of channel partners"
+    },
+    {
+      "start": 366.4,
+      "end": 371.16,
+      "text": "Speaker 3: across the world, and so our strength comes through product innovation,"
+    },
+    {
+      "start": 371.52,
+      "end": 376.32,
+      "text": "Speaker 3: our strength comes through channel management. Way different business model"
+    },
+    {
+      "start": 377.36,
+      "end": 380.64,
+      "text": "Speaker 3: compared to what I did in you know, in my"
+    },
+    {
+      "start": 381.12,
+      "end": 385.24,
+      "text": "Speaker 3: in my process automation days. And then performance material and technology,"
+    },
+    {
+      "start": 385.88,
+      "end": 389.84,
+      "text": "Speaker 3: very interesting business. They build technology. They build energy infrastructure."
+    },
+    {
+      "start": 389.92,
+      "end": 392.719,
+      "text": "Speaker 3: So if you want to build a UH, if you"
+    },
+    {
+      "start": 392.72,
+      "end": 395.88,
+      "text": "Speaker 3: are a refiner, you buy crude, which we all hear"
+    },
+    {
+      "start": 395.92,
+      "end": 399.32,
+      "text": "Speaker 3: a lot about today to do you know, ongoing around conflict."
+    },
+    {
+      "start": 400.32,
+      "end": 403.08,
+      "text": "Speaker 3: You don't sell crude, you sell product. You sell gasoline,"
+    },
+    {
+      "start": 403.2,
+      "end": 406.159,
+      "text": "Speaker 3: you sell diesel, you sell jet fuel. So they have"
+    },
+    {
+      "start": 406.2,
+      "end": 410.52,
+      "text": "Speaker 3: options to make multiple products, and as the input changes"
+    },
+    {
+      "start": 410.6,
+      "end": 412.8,
+      "text": "Speaker 3: on a market needs changes, they need to decide what"
+    },
+    {
+      "start": 412.839,
+      "end": 416.08,
+      "text": "Speaker 3: are the options they have to build different offering. From"
+    },
+    {
+      "start": 416.12,
+      "end": 420.16,
+      "text": "Speaker 3: their perspective, this business provides technology to energy company to"
+    },
+    {
+      "start": 420.2,
+      "end": 427.12,
+      "text": "Speaker 3: build energy infrastructure. Because it's a molecule transformation converting one"
+    },
+    {
+      "start": 427.12,
+      "end": 430.4,
+      "text": "Speaker 3: molecule to another molecule. That's heavy technology involved behind it."
+    },
+    {
+      "start": 430.8,
+      "end": 435.64,
+      "text": "Speaker 3: So performance material and technology provides technology to the customer"
+    },
+    {
+      "start": 435.76,
+      "end": 440.96,
+      "text": "Speaker 3: to build tech energy infrastructure. So very high technology or"
+    },
+    {
+      "start": 441.0,
+      "end": 445.32,
+      "text": "Speaker 3: research oriented business. You have a lot of chemical engineers"
+    },
+    {
+      "start": 445.32,
+      "end": 447.52,
+      "text": "Speaker 3: who are going to invent the next best technology and"
+    },
+    {
+      "start": 447.56,
+      "end": 451.36,
+      "text": "Speaker 3: you provide their technology to some very large companies. And"
+    },
+    {
+      "start": 451.44,
+      "end": 454.15999999999997,
+      "text": "Speaker 3: that was fascinating to lead that business, to see that"
+    },
+    {
+      "start": 454.28,
+      "end": 458.48,
+      "text": "Speaker 3: cycle of nomination and work in that business. So you"
+    },
+    {
+      "start": 458.52,
+      "end": 463.04,
+      "text": "Speaker 3: have very diverse experiences in variety of sectors, different business models,"
+    },
+    {
+      "start": 464.4,
+      "end": 467.56,
+      "text": "Speaker 3: which I'm benefiting today because now I have experience of"
+    },
+    {
+      "start": 468.48,
+      "end": 473.12,
+      "text": "Speaker 3: dealing with different markets in different situations, and that practical"
+    },
+    {
+      "start": 473.2,
+      "end": 475.56,
+      "text": "Speaker 3: experience helps you a lot as you really get into"
+    },
+    {
+      "start": 475.6,
+      "end": 476.6,
+      "text": "Speaker 3: your CEO job."
+    },
+    {
+      "start": 476.92,
+      "end": 480.92,
+      "text": "Speaker 2: So in twenty twenty two, you were name chiefing officer."
+    },
+    {
+      "start": 481.52,
+      "end": 485.44,
+      "text": "Speaker 2: We were just coming out of the pandemic. What was"
+    },
+    {
+      "start": 485.44,
+      "end": 488.68,
+      "text": "Speaker 2: that environment like? How did you take your experience at"
+    },
+    {
+      "start": 488.72,
+      "end": 492.48,
+      "text": "Speaker 2: these three prior divisions where you were either president or"
+    },
+    {
+      "start": 492.52,
+      "end": 496.28,
+      "text": "Speaker 2: president and CEO? Howd that affect running operations?"
+    },
+    {
+      "start": 496.56,
+      "end": 501.04,
+      "text": "Speaker 3: I mean, I think at that time. The biggest challenge"
+    },
+    {
+      "start": 501.04,
+      "end": 504.56,
+      "text": "Speaker 3: that time actually was the chip shortages and how do"
+    },
+    {
+      "start": 504.6,
+      "end": 508.2,
+      "text": "Speaker 3: we really redesign our products because chips are simply not available,"
+    },
+    {
+      "start": 508.28,
+      "end": 510.92,
+      "text": "Speaker 3: So we really had to learn how do we redesign"
+    },
+    {
+      "start": 510.92,
+      "end": 512.84,
+      "text": "Speaker 3: our products in a much shorter period of time. So"
+    },
+    {
+      "start": 512.92,
+      "end": 515.0,
+      "text": "Speaker 3: think about if we designed a product in one year,"
+    },
+    {
+      "start": 515.44,
+      "end": 518.04,
+      "text": "Speaker 3: we had to do that in two months because there's"
+    },
+    {
+      "start": 518.08,
+      "end": 520.04,
+      "text": "Speaker 3: no other option. If we don't do that, we can't"
+    },
+    {
+      "start": 520.04,
+      "end": 523.76,
+      "text": "Speaker 3: have an alternative source of supply and we can't shape"
+    },
+    {
+      "start": 523.8,
+      "end": 526.72,
+      "text": "Speaker 3: our product. So I use a lot of experiences on"
+    },
+    {
+      "start": 527.04,
+      "end": 531.56,
+      "text": "Speaker 3: dealing with such a different scenario in earlier jobs, and"
+    },
+    {
+      "start": 531.64,
+      "end": 535.439,
+      "text": "Speaker 3: we were able to successfully deal with that. That was"
+    },
+    {
+      "start": 535.48,
+      "end": 538.0,
+      "text": "Speaker 3: also a job. I also got exposure to the businesses"
+    },
+    {
+      "start": 538.04,
+      "end": 542.04,
+      "text": "Speaker 3: of Honeyweale, which I hadn't done before. Aerospace being the"
+    },
+    {
+      "start": 542.04,
+      "end": 546.0,
+      "text": "Speaker 3: biggest one, so that goll ed into my responsibility. So"
+    },
+    {
+      "start": 546.0,
+      "end": 548.28,
+      "text": "Speaker 3: there was a sort of learning there on how that"
+    },
+    {
+      "start": 548.32,
+      "end": 550.92,
+      "text": "Speaker 3: industry works, which is totally different from everything else I"
+    },
+    {
+      "start": 550.96,
+      "end": 551.4,
+      "text": "Speaker 3: had done."
+    },
+    {
+      "start": 551.64,
+      "end": 556.8,
+      "text": "Speaker 2: Is there a through put through materials, processes, technologies and"
+    },
+    {
+      "start": 556.96,
+      "end": 560.28,
+      "text": "Speaker 2: aerospace or are these all completely different animals?"
+    },
+    {
+      "start": 560.8,
+      "end": 563.04,
+      "text": "Speaker 3: Different animals in the sense of the n market says"
+    },
+    {
+      "start": 563.12,
+      "end": 566.12,
+      "text": "Speaker 3: Serve right, there are some commonality of the business models,"
+    },
+    {
+      "start": 566.44,
+      "end": 571.56,
+      "text": "Speaker 3: and you know there there's a common denominator, but there"
+    },
+    {
+      "start": 571.559,
+      "end": 575.4,
+      "text": "Speaker 3: are differences which really led me to think about whether"
+    },
+    {
+      "start": 575.44,
+      "end": 577.76,
+      "text": "Speaker 3: we are good to be one company or multiple companies"
+    },
+    {
+      "start": 577.76,
+      "end": 580.199,
+      "text": "Speaker 3: when I started as a CEO, and part of it"
+    },
+    {
+      "start": 580.36,
+      "end": 582.44,
+      "text": "Speaker 3: was the differences between them, but part of it was"
+    },
+    {
+      "start": 582.559,
+      "end": 586.559,
+      "text": "Speaker 3: opportunities which is ahead of us, that how these businesses"
+    },
+    {
+      "start": 586.679,
+      "end": 591.56,
+      "text": "Speaker 3: independently could shape or scale much differently versus when we"
+    },
+    {
+      "start": 591.6,
+      "end": 594.679,
+      "text": "Speaker 3: are together, which led us to do a lot of"
+    },
+    {
+      "start": 594.679,
+      "end": 597.56,
+      "text": "Speaker 3: work to think about optionality and pros and cons of"
+    },
+    {
+      "start": 597.6,
+      "end": 601.679,
+      "text": "Speaker 3: each option, which led us to make a decision that"
+    },
+    {
+      "start": 601.72,
+      "end": 605.4,
+      "text": "Speaker 3: we are better off to split into three companies, and."
+    },
+    {
+      "start": 605.32,
+      "end": 607.72,
+      "text": "Speaker 2: We're going to spend some time delving into those three"
+    },
+    {
+      "start": 607.76,
+      "end": 611.52,
+      "text": "Speaker 2: companies and the thinking behind it. Before we get to that,"
+    },
+    {
+      "start": 612.08,
+      "end": 616.04,
+      "text": "Speaker 2: I want to ask you a couple of more general"
+    },
+    {
+      "start": 616.12,
+      "end": 621.2,
+      "text": "Speaker 2: questions about the firm. You've been there so long since"
+    },
+    {
+      "start": 621.24,
+      "end": 625.56,
+      "text": "Speaker 2: the nineteen eighties. I'm curious, how has the culture of"
+    },
+    {
+      "start": 625.64,
+      "end": 631.64,
+      "text": "Speaker 2: Honeywell changed. It's almost forty years, three and a half decades."
+    },
+    {
+      "start": 632.48,
+      "end": 636.68,
+      "text": "Speaker 2: Is it still essentially the same company or has everything"
+    },
+    {
+      "start": 636.76,
+      "end": 638.2,
+      "text": "Speaker 2: changed like so many other companies."
+    },
+    {
+      "start": 638.28,
+      "end": 641.08,
+      "text": "Speaker 3: Yeah, it evolved a lot, I would say. You know,"
+    },
+    {
+      "start": 642.16,
+      "end": 644.36,
+      "text": "Speaker 3: there was a big change moment in early two thousand"
+    },
+    {
+      "start": 644.36,
+      "end": 648.679,
+      "text": "Speaker 3: and when Honeywell and a Light Signal merged together. Recall yep,"
+    },
+    {
+      "start": 648.76,
+      "end": 652.68,
+      "text": "Speaker 3: so a little bit of fun fact, A Light Signal"
+    },
+    {
+      "start": 652.679,
+      "end": 656.52,
+      "text": "Speaker 3: acquired Honeywell and changed its name to Honeywell, which doesn't"
+    },
+    {
+      "start": 656.559,
+      "end": 659.64,
+      "text": "Speaker 3: happen the acquator keeps name because they figured Honeywell brand"
+    },
+    {
+      "start": 659.72,
+      "end": 662.8,
+      "text": "Speaker 3: was so powerful, i was more impactful, so they changed"
+    },
+    {
+      "start": 662.84,
+      "end": 664.52,
+      "text": "Speaker 3: their own name. So that was a big moment to"
+    },
+    {
+      "start": 664.559,
+      "end": 668.64,
+      "text": "Speaker 3: your queshion on cultural assimilation of two large companies. It"
+    },
+    {
+      "start": 668.679,
+      "end": 671.92,
+      "text": "Speaker 3: was kind of merger of equals, and it did go"
+    },
+    {
+      "start": 672.04,
+      "end": 675.88,
+      "text": "Speaker 3: through its own motion of ups and downs. And that's"
+    },
+    {
+      "start": 675.92,
+      "end": 678.88,
+      "text": "Speaker 3: when Dave Cody came in as chairman and CEO of Honeywell,"
+    },
+    {
+      "start": 679.559,
+      "end": 681.64,
+      "text": "Speaker 3: and Dave did a great job to rebuild the County"
+    },
+    {
+      "start": 681.679,
+      "end": 685.48,
+      "text": "Speaker 3: Honeywell culture, which was much more one company mindset. We"
+    },
+    {
+      "start": 685.52,
+      "end": 688.04,
+      "text": "Speaker 3: are not two companies. We have one company. We're going"
+    },
+    {
+      "start": 688.08,
+      "end": 691.599,
+      "text": "Speaker 3: to work towards one stock, one Honeywell mindset, put a"
+    },
+    {
+      "start": 691.6,
+      "end": 695.8,
+      "text": "Speaker 3: lot of operational culture in the organization. So that was"
+    },
+    {
+      "start": 695.84,
+      "end": 701.24,
+      "text": "Speaker 3: one phase of you know, under her leadership. Then my predecessor,"
+    },
+    {
+      "start": 701.32,
+      "end": 706.199,
+      "text": "Speaker 3: Darius Ademchek, he became CEO in twenty seventeen. He further"
+    },
+    {
+      "start": 707.12,
+      "end": 709.88,
+      "text": "Speaker 3: enhanced our operational excellent skill. He invested a lot of"
+    },
+    {
+      "start": 709.96,
+      "end": 713.64,
+      "text": "Speaker 3: effort to build more digital backbone of the company, simplifying"
+    },
+    {
+      "start": 713.64,
+      "end": 717.56,
+      "text": "Speaker 3: Honeywell in terms of internal systems we have. Darius was"
+    },
+    {
+      "start": 717.64,
+      "end": 720.48,
+      "text": "Speaker 3: very passionate about digital on how to mind data and"
+    },
+    {
+      "start": 720.52,
+      "end": 723.6,
+      "text": "Speaker 3: create more capability for our customers. So he created a"
+    },
+    {
+      "start": 723.64,
+      "end": 729.24,
+      "text": "Speaker 3: culture of more operational excellence, more operational rigor, while Dave"
+    },
+    {
+      "start": 729.4,
+      "end": 733.199,
+      "text": "Speaker 3: was much more focused on one Honeymoon mindset, cultural integration,"
+    },
+    {
+      "start": 733.679,
+      "end": 736.96,
+      "text": "Speaker 3: not multiple companies. And as my tenure comes in over"
+    },
+    {
+      "start": 736.96,
+      "end": 739.68,
+      "text": "Speaker 3: the last no two plus years, we are not pivoting"
+    },
+    {
+      "start": 739.76,
+      "end": 743.4,
+      "text": "Speaker 3: from the more growth oriented company. And the reason that's"
+    },
+    {
+      "start": 743.44,
+      "end": 746.36,
+      "text": "Speaker 3: important is that over a period of time, our margin"
+    },
+    {
+      "start": 746.44,
+      "end": 749.92,
+      "text": "Speaker 3: rates have grown up and we were sub ten percent"
+    },
+    {
+      "start": 749.96,
+      "end": 752.4,
+      "text": "Speaker 3: margin company in two thousand and five, two thand and"
+    },
+    {
+      "start": 752.44,
+      "end": 755.36,
+      "text": "Speaker 3: six last day to us twenty three percent. So our"
+    },
+    {
+      "start": 755.4,
+      "end": 757.28,
+      "text": "Speaker 3: earnings growth is going to come more from the top"
+    },
+    {
+      "start": 757.36,
+      "end": 760.199,
+      "text": "Speaker 3: line growth versus margin expansion. Not that we want to"
+    },
+    {
+      "start": 760.24,
+      "end": 764.4,
+      "text": "Speaker 3: do margin expansion, but we can't get from another fifteen percent."
+    },
+    {
+      "start": 764.52,
+      "end": 768.56,
+      "text": "Speaker 3: There's no headroom. So growth culture is important, which means"
+    },
+    {
+      "start": 768.559,
+      "end": 770.6,
+      "text": "Speaker 3: we have to be more externally focused. Now we need"
+    },
+    {
+      "start": 770.64,
+      "end": 773.28,
+      "text": "Speaker 3: to understand our markets. We need to understand our customers,"
+    },
+    {
+      "start": 773.52,
+      "end": 777.6,
+      "text": "Speaker 3: what's changing, need to understand our competition. So our company,"
+    },
+    {
+      "start": 777.679,
+      "end": 781.96,
+      "text": "Speaker 3: even though name preserves it sell as a heriitage, but"
+    },
+    {
+      "start": 782.08,
+      "end": 785.199,
+      "text": "Speaker 3: it has been constantly evolving itself. And that's one of"
+    },
+    {
+      "start": 785.24,
+      "end": 787.28,
+      "text": "Speaker 3: the reasons this company has survived on hundred and twenty"
+    },
+    {
+      "start": 787.36,
+      "end": 791.8,
+      "text": "Speaker 3: years because it has courage to reinvent itself versus being"
+    },
+    {
+      "start": 791.8,
+      "end": 794.8,
+      "text": "Speaker 3: inward looking and always saying that Okay, we are what"
+    },
+    {
+      "start": 794.88,
+      "end": 796.24,
+      "text": "Speaker 3: we are and we aren't going to change."
+    },
+    {
+      "start": 796.84,
+      "end": 800.72,
+      "text": "Speaker 2: Really really interesting. So I used to hear people talk"
+    },
+    {
+      "start": 800.76,
+      "end": 806.52,
+      "text": "Speaker 2: about automation pretty regularly as just the process of moving"
+    },
+    {
+      "start": 806.559,
+      "end": 811.0,
+      "text": "Speaker 2: more and more things to machines. We kind of hear"
+    },
+    {
+      "start": 811.04,
+      "end": 815.6,
+      "text": "Speaker 2: people using the phrase artificial intelligence and AI the same way."
+    },
+    {
+      "start": 815.76,
+      "end": 820.44,
+      "text": "Speaker 2: Kind of bluntly. I'm curious from the Honeywell perspective when"
+    },
+    {
+      "start": 820.44,
+      "end": 824.0,
+      "text": "Speaker 2: it comes to automation and AI, what are the customers buying?"
+    },
+    {
+      "start": 824.559,
+      "end": 828.28,
+      "text": "Speaker 2: Is it productivity gains, is it safety improvements? Is it"
+    },
+    {
+      "start": 828.44,
+      "end": 832.16,
+      "text": "Speaker 2: cheaper labor or substitute for labor? What is the key"
+    },
+    {
+      "start": 832.679,
+      "end": 835.04,
+      "text": "Speaker 2: selling point for your customers."
+    },
+    {
+      "start": 835.04,
+      "end": 837.52,
+      "text": "Speaker 3: So I would say the we have to go back"
+    },
+    {
+      "start": 837.52,
+      "end": 840.88,
+      "text": "Speaker 3: to where the automation industry started from to better appreciate"
+    },
+    {
+      "start": 841.0,
+      "end": 846.24,
+      "text": "Speaker 3: how will AI impact automation offerings or automation products. Go"
+    },
+    {
+      "start": 846.36,
+      "end": 849.12,
+      "text": "Speaker 3: back to mid seventies when this industry got created. Somewhere"
+    },
+    {
+      "start": 849.16,
+      "end": 855.84,
+      "text": "Speaker 3: in mid seventy five timeframe, when computing was invented, chips"
+    },
+    {
+      "start": 855.84,
+      "end": 860.4,
+      "text": "Speaker 3: were invented. There came the need to say, the word"
+    },
+    {
+      "start": 860.44,
+      "end": 864.16,
+      "text": "Speaker 3: has a lot of these expensive assets. Those assets are"
+    },
+    {
+      "start": 864.16,
+      "end": 867.16,
+      "text": "Speaker 3: not running very efficiently. So can we move from the"
+    },
+    {
+      "start": 867.2,
+      "end": 869.92,
+      "text": "Speaker 3: older technologies which were kind of World War one Word"
+    },
+    {
+      "start": 869.96,
+      "end": 873.76,
+      "text": "Speaker 3: War two war era to more modern digital technologies. And"
+    },
+    {
+      "start": 873.84,
+      "end": 878.24,
+      "text": "Speaker 3: the way automation system was created was that you sense"
+    },
+    {
+      "start": 878.76,
+      "end": 881.32,
+      "text": "Speaker 3: a set of properties on how a particular equipment or"
+    },
+    {
+      "start": 881.36,
+      "end": 884.44,
+      "text": "Speaker 3: a machine or a processor is running, and then you"
+    },
+    {
+      "start": 884.56,
+      "end": 888.12,
+      "text": "Speaker 3: have a software program running in a computer which is"
+    },
+    {
+      "start": 888.2,
+      "end": 890.76,
+      "text": "Speaker 3: going to make sure that it gets back to the"
+    },
+    {
+      "start": 890.84,
+      "end": 892.88,
+      "text": "Speaker 3: desired condition what it wants it to be. So just"
+    },
+    {
+      "start": 892.92,
+      "end": 897.44,
+      "text": "Speaker 3: a logic based, pre defined system, and the assumption was"
+    },
+    {
+      "start": 897.48,
+      "end": 901.76,
+      "text": "Speaker 3: most of the time this will work in a normal situation."
+    },
+    {
+      "start": 901.84,
+      "end": 906.04,
+      "text": "Speaker 3: When exception occur, human will take a call. So automation"
+    },
+    {
+      "start": 906.2,
+      "end": 909.04,
+      "text": "Speaker 3: systems were always designed with the human in the loop,"
+    },
+    {
+      "start": 909.32,
+      "end": 912.0,
+      "text": "Speaker 3: and human was supposed to take care of change in"
+    },
+    {
+      "start": 912.0,
+      "end": 916.96,
+      "text": "Speaker 3: input condition, change in output conditions. Maintain the equipment, take"
+    },
+    {
+      "start": 917.0,
+      "end": 921.52,
+      "text": "Speaker 3: care of maintenance requirement down the line. Now you fast"
+    },
+    {
+      "start": 921.52,
+      "end": 924.4,
+      "text": "Speaker 3: forward fifty years before AI and data science came in."
+    },
+    {
+      "start": 925.44,
+      "end": 930.12,
+      "text": "Speaker 3: The people who were running these equipment or automation system"
+    },
+    {
+      "start": 930.28,
+      "end": 933.6,
+      "text": "Speaker 3: or different facilities in different environment think of a former"
+    },
+    {
+      "start": 933.68,
+      "end": 937.84,
+      "text": "Speaker 3: manufacturing facility or a data center. They acquired in knowledge"
+    },
+    {
+      "start": 937.88,
+      "end": 940.56,
+      "text": "Speaker 3: on the exceptions which were occurring in those operating conditions."
+    },
+    {
+      "start": 941.0,
+      "end": 944.12,
+      "text": "Speaker 3: But when they retire or they move on, their knowledge"
+    },
+    {
+      "start": 944.4,
+      "end": 946.84,
+      "text": "Speaker 3: went along with them. So when the next set of"
+    },
+    {
+      "start": 946.88,
+      "end": 949.72,
+      "text": "Speaker 3: people came in, they kind of have the same learning cycle."
+    },
+    {
+      "start": 950.2,
+      "end": 953.0,
+      "text": "Speaker 3: Maybe some of it was captured in some documents and manuals,"
+    },
+    {
+      "start": 953.0,
+      "end": 956.0,
+      "text": "Speaker 3: but not a lot. So what AI is solving for"
+    },
+    {
+      "start": 956.2,
+      "end": 960.32,
+      "text": "Speaker 3: is our systems have no intelligence layer on top of"
+    },
+    {
+      "start": 960.36,
+      "end": 963.4,
+      "text": "Speaker 3: the core automation layer, so that when the next human"
+    },
+    {
+      "start": 963.44,
+      "end": 966.12,
+      "text": "Speaker 3: being comes in, they're not starting from scratch. They have"
+    },
+    {
+      "start": 966.12,
+      "end": 968.88,
+      "text": "Speaker 3: an advantage of all the learning over the last twenty"
+    },
+    {
+      "start": 968.92,
+      "end": 971.84,
+      "text": "Speaker 3: five years all built in, so they get to say,"
+    },
+    {
+      "start": 971.84,
+      "end": 974.84,
+      "text": "Speaker 3: when this condition occurred, nine out of ten times this"
+    },
+    {
+      "start": 975.0,
+      "end": 977.56,
+      "text": "Speaker 3: was done, it always worked. So you are the human"
+    },
+    {
+      "start": 977.6,
+      "end": 979.56,
+      "text": "Speaker 3: being and say, okay, I think I will choose this"
+    },
+    {
+      "start": 979.68,
+      "end": 982.36,
+      "text": "Speaker 3: logic mix. So human still needs to make a decision"
+    },
+    {
+      "start": 982.96,
+      "end": 985.92,
+      "text": "Speaker 3: so I think it's a changing the human and making"
+    },
+    {
+      "start": 985.96,
+      "end": 989.56,
+      "text": "Speaker 3: them more capable at the heart of it. And the"
+    },
+    {
+      "start": 989.6,
+      "end": 992.48,
+      "text": "Speaker 3: reason it becomes even more compelling now is the shortage"
+    },
+    {
+      "start": 992.48,
+      "end": 995.28,
+      "text": "Speaker 3: of skills which are happening in the industrial sector for"
+    },
+    {
+      "start": 995.4,
+      "end": 998.12,
+      "text": "Speaker 3: performing these kind of tasks. So I would say it's"
+    },
+    {
+      "start": 998.16,
+      "end": 1003.44,
+      "text": "Speaker 3: a perfect convergence of the situation that more capability is"
+    },
+    {
+      "start": 1003.44,
+      "end": 1007.12,
+      "text": "Speaker 3: coming into our system because of availability of data science,"
+    },
+    {
+      "start": 1008.72,
+      "end": 1012.24,
+      "text": "Speaker 3: and at the same time, situation requires this capability to"
+    },
+    {
+      "start": 1012.24,
+      "end": 1015.56,
+      "text": "Speaker 3: be there because less people are available to do this work,"
+    },
+    {
+      "start": 1016.08,
+      "end": 1019.4,
+      "text": "Speaker 3: and that's going to create more capability in automation system."
+    },
+    {
+      "start": 1020.0,
+      "end": 1023.76,
+      "text": "Speaker 3: Animasion system remains Intelligencelyer is on top of it, so"
+    },
+    {
+      "start": 1023.8,
+      "end": 1027.08,
+      "text": "Speaker 3: it makes its automation system better in terms of what"
+    },
+    {
+      "start": 1027.2,
+      "end": 1030.48,
+      "text": "Speaker 3: it can do by preserving its capability."
+    },
+    {
+      "start": 1030.6,
+      "end": 1033.479,
+      "text": "Speaker 2: Coming up, we continue our conversation with vim L. Kapoor,"
+    },
+    {
+      "start": 1034.04,
+      "end": 1041.2,
+      "text": "Speaker 2: CEO of Honeywell, discussing turning Honeywell into three standalone companies."
+    },
+    {
+      "start": 1041.48,
+      "end": 1045.04,
+      "text": "Speaker 2: I'm Barry Ridults. You're listening to Masters in Business. I'm"
+    },
+    {
+      "start": 1045.08,
+      "end": 1061.2,
+      "text": "Speaker 2: Bloomberg Radio. I'm Barry Ridults. You're listening to Masters in"
+    },
+    {
+      "start": 1061.28,
+      "end": 1064.88,
+      "text": "Speaker 2: Business on Bloomberg Radio. My extra special guest this week"
+    },
+    {
+      "start": 1064.96,
+      "end": 1069.0,
+      "text": "Speaker 2: is vim Al Kapoor. He is CEO and chairman of"
+    },
+    {
+      "start": 1069.08,
+      "end": 1073.64,
+      "text": "Speaker 2: Honeywell International, he's been with the firm for thirty seven years."
+    },
+    {
+      "start": 1074.08,
+      "end": 1080.2,
+      "text": "Speaker 2: Honeywell is a highly regarded automation and industrial company. So"
+    },
+    {
+      "start": 1080.68,
+      "end": 1084.44,
+      "text": "Speaker 2: let's start out with plans to break the firm up."
+    },
+    {
+      "start": 1084.96,
+      "end": 1091.959,
+      "text": "Speaker 2: You have three distinct entities Honeywell Automation, Honeywell Aerospace, and"
+    },
+    {
+      "start": 1092.0,
+      "end": 1097.16,
+      "text": "Speaker 2: then Solstice Advanced Materials. So let's talk about that split."
+    },
+    {
+      "start": 1098.32,
+      "end": 1104.76,
+      "text": "Speaker 2: That sounds fairly natural, breakup based on industry. Tell us"
+    },
+    {
+      "start": 1104.76,
+      "end": 1106.56,
+      "text": "Speaker 2: a little bit about the thinking behind that."
+    },
+    {
+      "start": 1106.68,
+      "end": 1109.32,
+      "text": "Speaker 3: So thinking behind that was when I started as a CEO."
+    },
+    {
+      "start": 1109.88,
+      "end": 1113.08,
+      "text": "Speaker 3: My incoming thesis was that we have to simplify this company."
+    },
+    {
+      "start": 1113.48,
+      "end": 1117.44,
+      "text": "Speaker 3: It's performed extremely well, greater return to shareholder, great service"
+    },
+    {
+      "start": 1117.48,
+      "end": 1119.639,
+      "text": "Speaker 3: to our customer, but what will we do for the"
+    },
+    {
+      "start": 1119.64,
+      "end": 1121.6,
+      "text": "Speaker 3: next twenty five to thirty years? Are we set up"
+    },
+    {
+      "start": 1121.64,
+      "end": 1125.199,
+      "text": "Speaker 3: for that? And my thesis was that we need to"
+    },
+    {
+      "start": 1125.2,
+      "end": 1127.8,
+      "text": "Speaker 3: simplify this into few things where we have a scale."
+    },
+    {
+      "start": 1129.16,
+      "end": 1131.239,
+      "text": "Speaker 3: But I started the job in middle of twenty three"
+    },
+    {
+      "start": 1131.32,
+      "end": 1134.04,
+      "text": "Speaker 3: as the CEO of the company. Two things happened in"
+    },
+    {
+      "start": 1134.08,
+      "end": 1135.76,
+      "text": "Speaker 3: the year of twenty three, which is good to kind"
+    },
+    {
+      "start": 1135.76,
+      "end": 1138.28,
+      "text": "Speaker 3: of reflect back just three years back. That was the"
+    },
+    {
+      "start": 1138.359,
+      "end": 1141.28,
+      "text": "Speaker 3: first year when the aerospace cycle really became very strong."
+    },
+    {
+      "start": 1141.92,
+      "end": 1144.04,
+      "text": "Speaker 3: That was a year one where everybody said, oh, this"
+    },
+    {
+      "start": 1144.119,
+      "end": 1147.0,
+      "text": "Speaker 3: industry is growing a lot, let's pay more attention to it."
+    },
+    {
+      "start": 1147.6,
+      "end": 1150.48,
+      "text": "Speaker 3: And this was also the first year when something called"
+    },
+    {
+      "start": 1150.52,
+      "end": 1153.68,
+      "text": "Speaker 3: AI was talcked, right, So if we were sitting here"
+    },
+    {
+      "start": 1153.8,
+      "end": 1155.96,
+      "text": "Speaker 3: three years back, we wouldn't be talking AI. So it's"
+    },
+    {
+      "start": 1155.96,
+      "end": 1158.72,
+      "text": "Speaker 3: that recent phenomena. So the question we had to really"
+    },
+    {
+      "start": 1158.76,
+      "end": 1161.56,
+      "text": "Speaker 3: ask ourselves that if we have to simplify as a"
+    },
+    {
+      "start": 1161.6,
+      "end": 1166.56,
+      "text": "Speaker 3: company and these two external drivers are occurring simultaneously a"
+    },
+    {
+      "start": 1166.64,
+      "end": 1170.36,
+      "text": "Speaker 3: huge demand in our largest business, which is aerospace, automation,"
+    },
+    {
+      "start": 1170.4,
+      "end": 1173.959,
+      "text": "Speaker 3: which is core to Honeywell, is going to probably redefine"
+    },
+    {
+      "start": 1173.96,
+      "end": 1178.28,
+      "text": "Speaker 3: itself with AI. Should we do it as one company"
+    },
+    {
+      "start": 1178.48,
+      "end": 1181.76,
+      "text": "Speaker 3: or should we do it as in a different construct,"
+    },
+    {
+      "start": 1182.24,
+      "end": 1187.24,
+      "text": "Speaker 3: And that question get into a problem solving by early"
+    },
+    {
+      "start": 1187.28,
+      "end": 1189.359,
+      "text": "Speaker 3: twenty four, to say, let's look at all the scenarios,"
+    },
+    {
+      "start": 1189.359,
+      "end": 1193.48,
+      "text": "Speaker 3: what's possibilities, what others are doing. And as we did"
+    },
+    {
+      "start": 1193.48,
+      "end": 1196.56,
+      "text": "Speaker 3: the work over twenty twenty four, we got more and"
+    },
+    {
+      "start": 1196.6,
+      "end": 1200.76,
+      "text": "Speaker 3: more conviction it's better to separate automation and aerospace into"
+    },
+    {
+      "start": 1200.76,
+      "end": 1204.32,
+      "text": "Speaker 3: two separate companies. But we ended up making three decisions"
+    },
+    {
+      "start": 1204.359,
+      "end": 1208.56,
+      "text": "Speaker 3: because specialty chemical is extremely good business which neither fitted"
+    },
+    {
+      "start": 1208.56,
+      "end": 1211.04,
+      "text": "Speaker 3: in any one of these two, and we said it's"
+    },
+    {
+      "start": 1211.08,
+      "end": 1214.2,
+      "text": "Speaker 3: compelling to also spin that off as a separate company."
+    },
+    {
+      "start": 1214.56,
+      "end": 1218.0,
+      "text": "Speaker 3: So rather than you know, two ended up becoming three."
+    },
+    {
+      "start": 1218.4,
+      "end": 1221.16,
+      "text": "Speaker 3: So they became a standalone business in October of last year,"
+    },
+    {
+      "start": 1221.52,
+      "end": 1224.52,
+      "text": "Speaker 3: doing extremely well since we spun it off now for"
+    },
+    {
+      "start": 1224.6,
+      "end": 1227.439,
+      "text": "Speaker 3: six months. Very proud of the management team and the"
+    },
+    {
+      "start": 1227.44,
+      "end": 1230.52,
+      "text": "Speaker 3: board which is running this company. Aerospace will become a"
+    },
+    {
+      "start": 1230.56,
+      "end": 1232.96,
+      "text": "Speaker 3: standalone company in about six to eight weeks from now."
+    },
+    {
+      "start": 1233.04,
+      "end": 1236.52,
+      "text": "Speaker 3: Six weeks actually as we speak today, twenty nine is"
+    },
+    {
+      "start": 1236.56,
+      "end": 1239.48,
+      "text": "Speaker 3: a date and data is firm. We quite committed to"
+    },
+    {
+      "start": 1239.52,
+      "end": 1242.04,
+      "text": "Speaker 3: that and it's going to be a leader in its"
+    },
+    {
+      "start": 1242.04,
+      "end": 1245.199,
+      "text": "Speaker 3: segment in aerospace. And the remain core will be a"
+    },
+    {
+      "start": 1245.2,
+      "end": 1248.399,
+      "text": "Speaker 3: pure play automation company which will be probably one of"
+    },
+    {
+      "start": 1248.4,
+      "end": 1251.119,
+      "text": "Speaker 3: the largest, if not the largest automation company in the world."
+    },
+    {
+      "start": 1251.88,
+      "end": 1256.84,
+      "text": "Speaker 2: So advanced materials does that include building technologies."
+    },
+    {
+      "start": 1257.08,
+      "end": 1260.439,
+      "text": "Speaker 3: It's a pure play chemicals business, straight up chemical chemical business."
+    },
+    {
+      "start": 1260.48,
+      "end": 1263.04,
+      "text": "Speaker 3: They make refrigerant which goes into your car, which goes"
+    },
+    {
+      "start": 1263.08,
+      "end": 1266.08,
+      "text": "Speaker 3: into your home. They have some other technologies which are"
+    },
+    {
+      "start": 1266.119,
+      "end": 1270.44,
+      "text": "Speaker 3: related to chemicals. That business is doing extremely well as"
+    },
+    {
+      "start": 1270.48,
+      "end": 1274.2,
+      "text": "Speaker 3: a standalone company. The automation which you mentioned building automation"
+    },
+    {
+      "start": 1274.56,
+      "end": 1278.32,
+      "text": "Speaker 3: or automation of industrial facilities, that's part of the remaining Honeywell,"
+    },
+    {
+      "start": 1279.0,
+      "end": 1281.36,
+      "text": "Speaker 3: which is Honeywell Automation. Now we won'll not be called"
+    },
+    {
+      "start": 1281.359,
+      "end": 1285.2,
+      "text": "Speaker 3: Honeywell Automation. We're using as just as an equal descriptor"
+    },
+    {
+      "start": 1285.28,
+      "end": 1288.32,
+      "text": "Speaker 3: on what the business will be. We will reimagine our"
+    },
+    {
+      "start": 1288.4,
+      "end": 1290.56,
+      "text": "Speaker 3: name as we go by in a couple of weeks"
+    },
+    {
+      "start": 1290.6,
+      "end": 1292.919,
+      "text": "Speaker 3: from now and will reveal that name what it should be."
+    },
+    {
+      "start": 1294.119,
+      "end": 1298.36,
+      "text": "Speaker 3: But for sake of simplicity, a chemicals business, an aerospace business,"
+    },
+    {
+      "start": 1298.359,
+      "end": 1299.8,
+      "text": "Speaker 3: and an automation business."
+    },
+    {
+      "start": 1299.88,
+      "end": 1302.72,
+      "text": "Speaker 2: And performance materials and technology."
+    },
+    {
+      "start": 1302.28,
+      "end": 1305.8,
+      "text": "Speaker 3: Is so part of it became into Advanced Material Advanced"
+    },
+    {
+      "start": 1305.8,
+      "end": 1309.28,
+      "text": "Speaker 3: Material Solstice, and then part of it is retained within Honeywell,"
+    },
+    {
+      "start": 1309.32,
+      "end": 1311.32,
+      "text": "Speaker 3: so it split into kind of two."
+    },
+    {
+      "start": 1311.52,
+      "end": 1315.44,
+      "text": "Speaker 2: Because this is really everybody thinks of these very broadly,"
+    },
+    {
+      "start": 1315.56,
+      "end": 1319.24,
+      "text": "Speaker 2: but there are some really narrow specific use cases for"
+    },
+    {
+      "start": 1319.359,
+      "end": 1323.4,
+      "text": "Speaker 2: different groups. So I was trying to figure out what"
+    },
+    {
+      "start": 1323.4,
+      "end": 1324.52,
+      "text": "Speaker 2: would align with what."
+    },
+    {
+      "start": 1325.08,
+      "end": 1329.68,
+      "text": "Speaker 3: So so think about. Automation business serves three large end markets,"
+    },
+    {
+      "start": 1330.24,
+      "end": 1333.56,
+      "text": "Speaker 3: all types of buildings, all types of energy facilities, and"
+    },
+    {
+      "start": 1333.64,
+      "end": 1337.0,
+      "text": "Speaker 3: all types of industrial facilities. That's what we have kept"
+    },
+    {
+      "start": 1337.16,
+      "end": 1340.159,
+      "text": "Speaker 3: in the automation and we also are conscious that we"
+    },
+    {
+      "start": 1340.16,
+      "end": 1343.879,
+      "text": "Speaker 3: should not make automation business serving so many segments that"
+    },
+    {
+      "start": 1343.96,
+      "end": 1347.12,
+      "text": "Speaker 3: it becomes confusing again, so we want to narrow down"
+    },
+    {
+      "start": 1347.16,
+      "end": 1350.56,
+      "text": "Speaker 3: to a few very large and impactful segments. The market"
+    },
+    {
+      "start": 1350.6,
+      "end": 1353.439,
+      "text": "Speaker 3: size is about two hundred billion dollars. We will be"
+    },
+    {
+      "start": 1353.52,
+      "end": 1355.399,
+      "text": "Speaker 3: just shy off twenty billion of revenues, we have a"
+    },
+    {
+      "start": 1355.4,
+      "end": 1358.119,
+      "text": "Speaker 3: lot of runway to think about creatively, what more we"
+    },
+    {
+      "start": 1358.119,
+      "end": 1360.84,
+      "text": "Speaker 3: can do, how do we grow more so we're not"
+    },
+    {
+      "start": 1360.96,
+      "end": 1366.52,
+      "text": "Speaker 3: shortage off runway. Secularly, automation is a naturally high growth"
+    },
+    {
+      "start": 1367.32,
+      "end": 1371.24,
+      "text": "Speaker 3: segment because it's something which is so basic to existence"
+    },
+    {
+      "start": 1371.4,
+      "end": 1374.6,
+      "text": "Speaker 3: of an industrial facility or on an asset, and then"
+    },
+    {
+      "start": 1374.64,
+      "end": 1378.16,
+      "text": "Speaker 3: when you add the AI story coming on top of it,"
+    },
+    {
+      "start": 1378.16,
+      "end": 1382.479,
+      "text": "Speaker 3: it's going to have increasingly more growth momentum. So all"
+    },
+    {
+      "start": 1382.56,
+      "end": 1384.72,
+      "text": "Speaker 3: things being said, yeah, it's very well positioned for a"
+    },
+    {
+      "start": 1384.72,
+      "end": 1385.56,
+      "text": "Speaker 3: compelling future."
+    },
+    {
+      "start": 1385.84,
+      "end": 1389.08,
+      "text": "Speaker 2: And what does the Aerospace Group do? Not unlike GE,"
+    },
+    {
+      "start": 1389.24,
+      "end": 1392.399,
+      "text": "Speaker 2: you're not making aircraft eins."
+    },
+    {
+      "start": 1391.92,
+      "end": 1394.56,
+      "text": "Speaker 3: Right, So we do make aircraft engine for the business jet,"
+    },
+    {
+      "start": 1394.64,
+      "end": 1397.68,
+      "text": "Speaker 3: some more mid size, smaller and smaller engine the business"
+    },
+    {
+      "start": 1397.76,
+      "end": 1399.919,
+      "text": "Speaker 3: jet engines make. We don't make the big engines. But"
+    },
+    {
+      "start": 1399.96,
+      "end": 1402.92,
+      "text": "Speaker 3: we are a systems company. We make different components from"
+    },
+    {
+      "start": 1402.92,
+      "end": 1406.879,
+      "text": "Speaker 3: the nose to tail of the plane, so our components"
+    },
+    {
+      "start": 1406.92,
+      "end": 1411.12,
+      "text": "Speaker 3: are right in the cockpit. Our components. We make radars,"
+    },
+    {
+      "start": 1411.119,
+      "end": 1414.6,
+      "text": "Speaker 3: we make navigation system we make brakes for the plane,"
+    },
+    {
+      "start": 1414.72,
+      "end": 1417.52,
+      "text": "Speaker 3: we make environmental controls in the plane. So we are"
+    },
+    {
+      "start": 1417.56,
+      "end": 1421.0,
+      "text": "Speaker 3: a systems company. We make engines, we make APUs, so"
+    },
+    {
+      "start": 1421.6,
+      "end": 1426.0,
+      "text": "Speaker 3: our approach is system designed for a new platform. So"
+    },
+    {
+      "start": 1426.08,
+      "end": 1429.359,
+      "text": "Speaker 3: every platform comes in and it could be a commercial plane,"
+    },
+    {
+      "start": 1429.4,
+      "end": 1431.6,
+      "text": "Speaker 3: could be a business jet, could be a defense platform."
+    },
+    {
+      "start": 1432.119,
+      "end": 1435.32,
+      "text": "Speaker 3: We will pitch in different components and systems of honeywere"
+    },
+    {
+      "start": 1435.359,
+      "end": 1438.4,
+      "text": "Speaker 3: customers will select many of them, some of them. Then"
+    },
+    {
+      "start": 1438.44,
+      "end": 1442.199,
+      "text": "Speaker 3: that will become part of that you know that fleet"
+    },
+    {
+      "start": 1442.28,
+      "end": 1448.0,
+      "text": "Speaker 3: for decades and decades. So it's a multi product business,"
+    },
+    {
+      "start": 1448.0,
+      "end": 1451.72,
+      "text": "Speaker 3: not constrained to one particular product line. And the business"
+    },
+    {
+      "start": 1451.76,
+      "end": 1455.399,
+      "text": "Speaker 3: model is more powerful because it's a system's approach and"
+    },
+    {
+      "start": 1455.44,
+      "end": 1458.04,
+      "text": "Speaker 3: not a component approach. So you're right in the heart"
+    },
+    {
+      "start": 1458.04,
+      "end": 1460.68,
+      "text": "Speaker 3: of the systems. You understand how the whole mechanics work"
+    },
+    {
+      "start": 1461.84,
+      "end": 1463.679,
+      "text": "Speaker 3: and really add more value for our customers."
+    },
+    {
+      "start": 1463.88,
+      "end": 1466.8,
+      "text": "Speaker 2: So over the past let's call it ten years, there"
+    },
+    {
+      "start": 1466.84,
+      "end": 1470.84,
+      "text": "Speaker 2: have been a number of activist investors like Alliott Management"
+    },
+    {
+      "start": 1471.4,
+      "end": 1474.28,
+      "text": "Speaker 2: that not just Honeywell, but lots and lots of other"
+    },
+    {
+      "start": 1474.4,
+      "end": 1480.679,
+      "text": "Speaker 2: large conglomerates. They often agitate for share buybacks or increased dividends,"
+    },
+    {
+      "start": 1481.92,
+      "end": 1486.28,
+      "text": "Speaker 2: or sometimes just break the company into pieces. You seem"
+    },
+    {
+      "start": 1486.359,
+      "end": 1490.48,
+      "text": "Speaker 2: to have landed pretty much in a similar space as"
+    },
+    {
+      "start": 1490.48,
+      "end": 1494.96,
+      "text": "Speaker 2: some of these activists. First, were they at all influential"
+    },
+    {
+      "start": 1495.0,
+      "end": 1499.24,
+      "text": "Speaker 2: in your thinking or was this something that Hey, these"
+    },
+    {
+      "start": 1499.24,
+      "end": 1503.439,
+      "text": "Speaker 2: are such diferent businesses, is no longer scale advantages of"
+    },
+    {
+      "start": 1503.44,
+      "end": 1504.84,
+      "text": "Speaker 2: having them under one room."
+    },
+    {
+      "start": 1505.08,
+      "end": 1507.92,
+      "text": "Speaker 3: I would say the situation in art case was a"
+    },
+    {
+      "start": 1507.92,
+      "end": 1511.2,
+      "text": "Speaker 3: bit unique because we started doing work to investigate our"
+    },
+    {
+      "start": 1511.24,
+      "end": 1514.76,
+      "text": "Speaker 3: future optionality early twenty twenty four and did a lot"
+    },
+    {
+      "start": 1514.8,
+      "end": 1518.639,
+      "text": "Speaker 3: of work and actually even announced the separation of chemicals business."
+    },
+    {
+      "start": 1518.64,
+      "end": 1522.479,
+      "text": "Speaker 3: In October. Elliott wrote a letter which was in public"
+    },
+    {
+      "start": 1522.48,
+      "end": 1524.64,
+      "text": "Speaker 3: domain and I got to see it at the same time,"
+    },
+    {
+      "start": 1524.68,
+      "end": 1526.6,
+      "text": "Speaker 3: and if everybody else saw it to say we should"
+    },
+    {
+      "start": 1526.6,
+      "end": 1529.72,
+      "text": "Speaker 3: further split aerospace and rest of Honeywell too. That was"
+    },
+    {
+      "start": 1529.76,
+      "end": 1533.199,
+      "text": "Speaker 3: their argument, is a more value to be created. The"
+    },
+    {
+      "start": 1533.28,
+      "end": 1535.64,
+      "text": "Speaker 3: good news was that we already had done the work"
+    },
+    {
+      "start": 1535.64,
+      "end": 1537.239,
+      "text": "Speaker 3: and we were convinced that's the right thing to do,"
+    },
+    {
+      "start": 1537.28,
+      "end": 1542.12,
+      "text": "Speaker 3: but we had not announced anything, so we treated them"
+    },
+    {
+      "start": 1542.119,
+      "end": 1545.399,
+      "text": "Speaker 3: as another shareholder who has a point of view and"
+    },
+    {
+      "start": 1545.48,
+      "end": 1547.8,
+      "text": "Speaker 3: we have to articulate our strategy. So there were strong"
+    },
+    {
+      "start": 1547.84,
+      "end": 1551.72,
+      "text": "Speaker 3: convergence on the thinking, and I think we worked with"
+    },
+    {
+      "start": 1551.76,
+      "end": 1556.32,
+      "text": "Speaker 3: them very collaboratively on path forward. And I would say"
+    },
+    {
+      "start": 1556.359,
+      "end": 1560.399,
+      "text": "Speaker 3: that there's lots being said on activist shareholder, but my"
+    },
+    {
+      "start": 1560.48,
+      "end": 1564.6,
+      "text": "Speaker 3: experience is that they are like any other shareholder who"
+    },
+    {
+      "start": 1564.6,
+      "end": 1568.879,
+      "text": "Speaker 3: have a logical argument. If you have a counterpoint, you"
+    },
+    {
+      "start": 1568.92,
+      "end": 1571.919,
+      "text": "Speaker 3: should support this with the facts and data. Or if"
+    },
+    {
+      "start": 1571.96,
+      "end": 1575.12,
+      "text": "Speaker 3: you support their point, then you have to execute it,"
+    },
+    {
+      "start": 1575.2,
+      "end": 1577.6,
+      "text": "Speaker 3: and in that case it just becomes much more of"
+    },
+    {
+      "start": 1578.119,
+      "end": 1580.56,
+      "text": "Speaker 3: not what to do, but how to do it. So"
+    },
+    {
+      "start": 1580.64,
+      "end": 1583.84,
+      "text": "Speaker 3: our conversation with Aliot, like any of the shareholder, was"
+    },
+    {
+      "start": 1583.92,
+      "end": 1586.56,
+      "text": "Speaker 3: this is the situation, here are the paths, this is"
+    },
+    {
+      "start": 1586.56,
+      "end": 1589.08,
+      "text": "Speaker 3: how we are thinking about it. And we benefited from"
+    },
+    {
+      "start": 1589.16,
+      "end": 1592.72,
+      "text": "Speaker 3: their expertise in capital markets how the shareholders will react,"
+    },
+    {
+      "start": 1592.76,
+      "end": 1595.56,
+      "text": "Speaker 3: and definitely that helped us to shape our decision in"
+    },
+    {
+      "start": 1595.6,
+      "end": 1598.16,
+      "text": "Speaker 3: terms of in a certain way, which was very constructive,"
+    },
+    {
+      "start": 1598.6,
+      "end": 1599.76,
+      "text": "Speaker 3: really really interesting."
+    },
+    {
+      "start": 1600.28,
+      "end": 1604.12,
+      "text": "Speaker 2: So we seem to go through these long phases where"
+    },
+    {
+      "start": 1604.8,
+      "end": 1609.919,
+      "text": "Speaker 2: conglomerates kind of become in style, they become favored. You"
+    },
+    {
+      "start": 1610.24,
+      "end": 1614.52,
+      "text": "Speaker 2: oversaw fourteen billion dollars in M and A, which sounds"
+    },
+    {
+      "start": 1614.56,
+      "end": 1617.04,
+      "text": "Speaker 2: like a lot of money, but we know really isn't"
+    },
+    {
+      "start": 1617.44,
+      "end": 1621.08,
+      "text": "Speaker 2: You know? That's a that's not a mega buying spray."
+    },
+    {
+      "start": 1622.72,
+      "end": 1625.08,
+      "text": "Speaker 2: And for long, for the longest time, it seemed like"
+    },
+    {
+      "start": 1625.2,
+      "end": 1630.28,
+      "text": "Speaker 2: there was a financial advantage to being a conglomerate. At"
+    },
+    {
+      "start": 1630.32,
+      "end": 1634.08,
+      "text": "Speaker 2: what point does that structure stop being an advantage? Is"
+    },
+    {
+      "start": 1634.6,
+      "end": 1637.24,
+      "text": "Speaker 2: what is being part throwing all these different pieces under"
+    },
+    {
+      "start": 1637.24,
+      "end": 1640.96,
+      "text": "Speaker 2: one roof, What does that prevent the company from doing?"
+    },
+    {
+      "start": 1641.359,
+      "end": 1644.0,
+      "text": "Speaker 3: I think every business model has an era, So I"
+    },
+    {
+      "start": 1644.0,
+      "end": 1647.56,
+      "text": "Speaker 3: think we have to go back to what created this"
+    },
+    {
+      "start": 1647.64,
+      "end": 1653.68,
+      "text": "Speaker 3: era of conglomerate or larger companies. It really started from"
+    },
+    {
+      "start": 1653.68,
+      "end": 1656.08,
+      "text": "Speaker 3: them when the world was started becoming more globalized. After"
+    },
+    {
+      "start": 1656.119,
+      "end": 1659.56,
+      "text": "Speaker 3: two thousand, China came into wto the world became more"
+    },
+    {
+      "start": 1659.6,
+      "end": 1664.919,
+      "text": "Speaker 3: global and there was much more global trade, which became"
+    },
+    {
+      "start": 1664.96,
+      "end": 1668.08,
+      "text": "Speaker 3: the norm on how companies were growing. So all US"
+    },
+    {
+      "start": 1668.16,
+      "end": 1671.8,
+      "text": "Speaker 3: companies started growing globally. But at the same time they"
+    },
+    {
+      "start": 1671.8,
+      "end": 1674.04,
+      "text": "Speaker 3: were able to drive a lot of productivity by taking"
+    },
+    {
+      "start": 1674.08,
+      "end": 1677.68,
+      "text": "Speaker 3: manufacturing into Asia, a lot of you know, man park"
+    },
+    {
+      "start": 1677.72,
+      "end": 1680.52,
+      "text": "Speaker 3: productivity by doing work in different virtual with a lot"
+    },
+    {
+      "start": 1680.52,
+      "end": 1683.679,
+      "text": "Speaker 3: of IT skills coming in. So there was a case"
+    },
+    {
+      "start": 1683.88,
+      "end": 1688.04,
+      "text": "Speaker 3: to make bigger companies bigger because they had the unique"
+    },
+    {
+      "start": 1688.08,
+      "end": 1691.0,
+      "text": "Speaker 3: know how to drive a lot of productivity and scale"
+    },
+    {
+      "start": 1691.04,
+      "end": 1694.08,
+      "text": "Speaker 3: at a global scale because they were already present there."
+    },
+    {
+      "start": 1694.52,
+      "end": 1698.0,
+      "text": "Speaker 3: And that cycle persisted for almost fifteen years till the"
+    },
+    {
+      "start": 1698.04,
+      "end": 1703.679,
+      "text": "Speaker 3: time that value was captured, and that value capture became"
+    },
+    {
+      "start": 1703.76,
+      "end": 1708.24,
+      "text": "Speaker 3: generally known. Therefore, the question started asking to say, is"
+    },
+    {
+      "start": 1708.359,
+      "end": 1711.639,
+      "text": "Speaker 3: creating this complex company worth it? Or simplification or a"
+    },
+    {
+      "start": 1711.68,
+      "end": 1714.28,
+      "text": "Speaker 3: sector focus is a better way to do it. So"
+    },
+    {
+      "start": 1714.32,
+      "end": 1717.4,
+      "text": "Speaker 3: I think there was a reason that proposition really worked"
+    },
+    {
+      "start": 1717.4,
+      "end": 1719.12,
+      "text": "Speaker 3: well and created a lot of value. Take a case"
+    },
+    {
+      "start": 1719.16,
+      "end": 1722.28,
+      "text": "Speaker 3: of Honeywell, a shareholder value creation from a time of"
+    },
+    {
+      "start": 1722.32,
+      "end": 1724.64,
+      "text": "Speaker 3: two thousand to twenty seventeen eighteen, one of the best"
+    },
+    {
+      "start": 1724.68,
+      "end": 1728.2,
+      "text": "Speaker 3: in class and the entire SMP. So it's not that"
+    },
+    {
+      "start": 1728.28,
+      "end": 1731.68,
+      "text": "Speaker 3: anything was wrong. We created a tremendous shareholder value. But"
+    },
+    {
+      "start": 1731.8,
+      "end": 1734.68,
+      "text": "Speaker 3: now this point of saturation comes in and then it"
+    },
+    {
+      "start": 1734.76,
+      "end": 1738.16,
+      "text": "Speaker 3: really brings you to the point of specialization. If their"
+    },
+    {
+      "start": 1738.2,
+      "end": 1742.44,
+      "text": "Speaker 3: markets have scale and you can preserve scale while you"
+    },
+    {
+      "start": 1742.44,
+      "end": 1745.12,
+      "text": "Speaker 3: are specialist, that's best of the both words. And that's"
+    },
+    {
+      "start": 1745.16,
+      "end": 1748.88,
+      "text": "Speaker 3: what we are doing now to create a scale aerospace company,"
+    },
+    {
+      "start": 1749.2,
+      "end": 1752.24,
+      "text": "Speaker 3: a scale automation company. We're still very global, we still"
+    },
+    {
+      "start": 1752.28,
+      "end": 1755.44,
+      "text": "Speaker 3: have very mature processes, but at the same time, you're"
+    },
+    {
+      "start": 1755.48,
+      "end": 1759.52,
+      "text": "Speaker 3: focused on singular segment. So I guess, like in everything else,"
+    },
+    {
+      "start": 1759.56,
+      "end": 1762.8,
+      "text": "Speaker 3: you learn through cycles, and this cycle is all about"
+    },
+    {
+      "start": 1762.8,
+      "end": 1766.8,
+      "text": "Speaker 3: having the mix of scale and specialization. This will persist"
+    },
+    {
+      "start": 1766.8,
+      "end": 1769.32,
+      "text": "Speaker 3: it something else comes in now where there's a case"
+    },
+    {
+      "start": 1769.36,
+      "end": 1773.12,
+      "text": "Speaker 3: to do something else, and I feel good about where"
+    },
+    {
+      "start": 1773.12,
+      "end": 1775.36,
+      "text": "Speaker 3: we are in opposition, and it is going to create"
+    },
+    {
+      "start": 1775.44,
+      "end": 1776.72,
+      "text": "Speaker 3: much more shareholder value."
+    },
+    {
+      "start": 1776.84,
+      "end": 1781.6,
+      "text": "Speaker 2: So twenty years before you started talking about breaking into"
+    },
+    {
+      "start": 1781.64,
+      "end": 1786.72,
+      "text": "Speaker 2: three pieces, your fellow Dell component General Electric, went through"
+    },
+    {
+      "start": 1786.76,
+      "end": 1792.16,
+      "text": "Speaker 2: the same process, arguably with not a whole lot of success."
+    },
+    {
+      "start": 1792.72,
+      "end": 1796.56,
+      "text": "Speaker 2: They started out fairly richly valued. There wasn't a whole"
+    },
+    {
+      "start": 1796.56,
+      "end": 1802.04,
+      "text": "Speaker 2: lot of room to grow and cre When you're thinking"
+    },
+    {
+      "start": 1802.08,
+      "end": 1805.6,
+      "text": "Speaker 2: about breaking into three are you looking at other companies"
+    },
+    {
+      "start": 1805.6,
+      "end": 1808.2,
+      "text": "Speaker 2: like General Electric and saying what can we learn from"
+    },
+    {
+      "start": 1808.2,
+      "end": 1811.04,
+      "text": "Speaker 2: what they did right, what they got wrong, what missteps"
+    },
+    {
+      "start": 1811.04,
+      "end": 1811.6,
+      "text": "Speaker 2: they made."
+    },
+    {
+      "start": 1811.76,
+      "end": 1814.2,
+      "text": "Speaker 3: I think the situation for each company is very different"
+    },
+    {
+      "start": 1814.28,
+      "end": 1819.12,
+      "text": "Speaker 3: because separation cannot create value alone by itself. We have"
+    },
+    {
+      "start": 1819.16,
+      "end": 1822.44,
+      "text": "Speaker 3: to be convicted that the standalone asset has enough growth"
+    },
+    {
+      "start": 1822.48,
+      "end": 1826.4,
+      "text": "Speaker 3: potential and invest and asset base which is going to grow,"
+    },
+    {
+      "start": 1826.4,
+      "end": 1829.16,
+      "text": "Speaker 3: which is going to create value. So I think comparing"
+    },
+    {
+      "start": 1830.0,
+      "end": 1834.04,
+      "text": "Speaker 3: example you gave versus Honeywell is absolutely very different. Portfolios"
+    },
+    {
+      "start": 1834.84,
+      "end": 1837.2,
+      "text": "Speaker 3: way very different. I mean, so I would say that"
+    },
+    {
+      "start": 1837.32,
+      "end": 1841.12,
+      "text": "Speaker 3: our drivers were more around what I talked about. Our"
+    },
+    {
+      "start": 1841.24,
+      "end": 1846.12,
+      "text": "Speaker 3: stock price are more static, We were more We did"
+    },
+    {
+      "start": 1846.12,
+      "end": 1849.24,
+      "text": "Speaker 3: not destroy any shareholder value, so our question was how"
+    },
+    {
+      "start": 1849.28,
+      "end": 1852.36,
+      "text": "Speaker 3: do we create more shareholder value with external factors coming in,"
+    },
+    {
+      "start": 1852.4,
+      "end": 1856.48,
+      "text": "Speaker 3: growth of aerospace, growth of AI. Is that inflection point"
+    },
+    {
+      "start": 1856.52,
+      "end": 1858.76,
+      "text": "Speaker 3: for us to make a different decision. So we did"
+    },
+    {
+      "start": 1858.8,
+      "end": 1861.72,
+      "text": "Speaker 3: it more from a point of strength versus we have"
+    },
+    {
+      "start": 1861.8,
+      "end": 1864.52,
+      "text": "Speaker 3: some crisis coming in. So sometimes you use your point"
+    },
+    {
+      "start": 1864.52,
+      "end": 1868.12,
+      "text": "Speaker 3: of strength to make the right decisions. And we did"
+    },
+    {
+      "start": 1868.16,
+      "end": 1871.08,
+      "text": "Speaker 3: it fast and we did it right. I think every"
+    },
+    {
+      "start": 1871.08,
+      "end": 1875.44,
+      "text": "Speaker 3: other company came from a different circumstances, but the decision"
+    },
+    {
+      "start": 1875.48,
+      "end": 1877.88,
+      "text": "Speaker 3: on the outwardy looked very similar. They look like they"
+    },
+    {
+      "start": 1877.92,
+      "end": 1880.44,
+      "text": "Speaker 3: all did the same thing, but they all came from"
+    },
+    {
+      "start": 1880.48,
+      "end": 1885.12,
+      "text": "Speaker 3: a different backgrounds and you know, different set of assets"
+    },
+    {
+      "start": 1886.0,
+      "end": 1889.36,
+      "text": "Speaker 3: when we started looking at it. Some people believe that"
+    },
+    {
+      "start": 1889.76,
+      "end": 1894.6,
+      "text": "Speaker 3: we got influenced by success of GE. I want to"
+    },
+    {
+      "start": 1894.6,
+      "end": 1898.6,
+      "text": "Speaker 3: remind that G success came post our decision. That was"
+    },
+    {
+      "start": 1898.6,
+      "end": 1901.28,
+      "text": "Speaker 3: a process which was occurring. So yeah, you have that's"
+    },
+    {
+      "start": 1901.28,
+      "end": 1903.2,
+      "text": "Speaker 3: a data point to say they are also doing it."
+    },
+    {
+      "start": 1903.24,
+      "end": 1905.92,
+      "text": "Speaker 3: But some of the success we have observed some outstanding"
+    },
+    {
+      "start": 1905.92,
+      "end": 1908.92,
+      "text": "Speaker 3: work by the G leadership team that really started happening"
+    },
+    {
+      "start": 1908.96,
+      "end": 1911.52,
+      "text": "Speaker 3: twenty four to twenty five time frame. We were far"
+    },
+    {
+      "start": 1911.56,
+      "end": 1913.6,
+      "text": "Speaker 3: along the way in our own analysis by that time,"
+    },
+    {
+      "start": 1913.64,
+      "end": 1917.12,
+      "text": "Speaker 3: so I think those are parallel things happening. So there's"
+    },
+    {
+      "start": 1917.16,
+      "end": 1919.16,
+      "text": "Speaker 3: no one thing you can attribute to say that this"
+    },
+    {
+      "start": 1919.24,
+      "end": 1921.88,
+      "text": "Speaker 3: thing influenced. It's a combination of the reason which all"
+    },
+    {
+      "start": 1921.88,
+      "end": 1924.68,
+      "text": "Speaker 3: come together, and that's what really brings us to where"
+    },
+    {
+      "start": 1924.68,
+      "end": 1925.24,
+      "text": "Speaker 3: we are today."
+    },
+    {
+      "start": 1925.56,
+      "end": 1929.24,
+      "text": "Speaker 2: I like this phrase in your thesis of the current"
+    },
+    {
+      "start": 1929.28,
+      "end": 1935.2,
+      "text": "Speaker 2: transition from automation to autonomy with artificial intelligence as the"
+    },
+    {
+      "start": 1935.24,
+      "end": 1941.28,
+      "text": "Speaker 2: dividing line. How far along that process are we as"
+    },
+    {
+      "start": 1941.32,
+      "end": 1947.32,
+      "text": "Speaker 2: a country are the industrial sector and honeywell, so."
+    },
+    {
+      "start": 1947.28,
+      "end": 1951.52,
+      "text": "Speaker 3: I would say that we as a country have an"
+    },
+    {
+      "start": 1951.56,
+      "end": 1955.48,
+      "text": "Speaker 3: advantage of being the leader in the space of cloud"
+    },
+    {
+      "start": 1955.56,
+      "end": 1960.04,
+      "text": "Speaker 3: and data science and companies like Honeywell has responsibility to"
+    },
+    {
+      "start": 1960.12,
+      "end": 1962.68,
+      "text": "Speaker 3: take that know how which the tech sector is creating."
+    },
+    {
+      "start": 1962.8,
+      "end": 1968.36,
+      "text": "Speaker 3: Beat Microsoft, beat Google, Beatenvidia and all the very capable"
+    },
+    {
+      "start": 1968.44,
+      "end": 1971.64,
+      "text": "Speaker 3: tech companies. How do we bring that capability into our"
+    },
+    {
+      "start": 1971.72,
+      "end": 1977.4,
+      "text": "Speaker 3: sector Because our customer is not going to go and"
+    },
+    {
+      "start": 1977.44,
+      "end": 1979.8,
+      "text": "Speaker 3: they are not looking to buy a cloud capability or"
+    },
+    {
+      "start": 1979.84,
+      "end": 1983.6,
+      "text": "Speaker 3: they not looking to buy AI LM. They want to"
+    },
+    {
+      "start": 1983.6,
+      "end": 1985.479,
+      "text": "Speaker 3: solve a problem. They want to run a business, they"
+    },
+    {
+      "start": 1985.52,
+      "end": 1987.76,
+      "text": "Speaker 3: want to run an operation, they want to have more uptime,"
+    },
+    {
+      "start": 1987.8,
+      "end": 1992.08,
+      "text": "Speaker 3: they want to have more profitability. So our job is"
+    },
+    {
+      "start": 1992.12,
+      "end": 1995.48,
+      "text": "Speaker 3: to take our system to what I mentioned before and"
+    },
+    {
+      "start": 1995.56,
+      "end": 1998.64,
+      "text": "Speaker 3: add this intelligence layer. And what this intelligence layer is"
+    },
+    {
+      "start": 1998.68,
+      "end": 2001.88,
+      "text": "Speaker 3: all about. Taking capability from the tech companies, take large"
+    },
+    {
+      "start": 2001.92,
+      "end": 2005.56,
+      "text": "Speaker 3: language models from the likes of Google and Nvidia, use"
+    },
+    {
+      "start": 2005.6,
+      "end": 2008.16,
+      "text": "Speaker 3: a cloud power which is there from Amazon and Microsoft,"
+    },
+    {
+      "start": 2008.48,
+      "end": 2011.76,
+      "text": "Speaker 3: but really build a purpose offering from the industrial sector."
+    },
+    {
+      "start": 2012.36,
+      "end": 2014.12,
+      "text": "Speaker 3: And as we are doing that, we are able to"
+    },
+    {
+      "start": 2014.16,
+      "end": 2017.88,
+      "text": "Speaker 3: create the agentic models for our customers. And that's what"
+    },
+    {
+      "start": 2018.0,
+      "end": 2021.32,
+      "text": "Speaker 3: they buy from us. The underlying plumbing what we have,"
+    },
+    {
+      "start": 2021.52,
+      "end": 2022.96,
+      "text": "Speaker 3: they don't want to know it, They don't want to"
+    },
+    {
+      "start": 2022.96,
+      "end": 2025.52,
+      "text": "Speaker 3: know how this is built. Say yeah, so you're automating"
+    },
+    {
+      "start": 2025.56,
+      "end": 2027.96,
+      "text": "Speaker 3: this piece of my work. That's great, So I'm going"
+    },
+    {
+      "start": 2028.04,
+      "end": 2030.24,
+      "text": "Speaker 3: to get more productivity for that how much I should"
+    },
+    {
+      "start": 2030.28,
+      "end": 2032.84,
+      "text": "Speaker 3: pay you for it? Right, So I would say we"
+    },
+    {
+      "start": 2032.92,
+      "end": 2035.8,
+      "text": "Speaker 3: are in the state that this is no more hypothesis."
+    },
+    {
+      "start": 2037.28,
+      "end": 2040.68,
+      "text": "Speaker 3: We are in the not in the early but we"
+    },
+    {
+      "start": 2040.72,
+      "end": 2043.64,
+      "text": "Speaker 3: are in the stage of deployment of these capabilities across"
+    },
+    {
+      "start": 2043.72,
+      "end": 2048.279,
+      "text": "Speaker 3: different customer base. Why it is not taken up at"
+    },
+    {
+      "start": 2048.32,
+      "end": 2050.44,
+      "text": "Speaker 3: scale is because our customers have to go through a"
+    },
+    {
+      "start": 2050.48,
+      "end": 2055.8,
+      "text": "Speaker 3: significant change management in their organization because fundamentally the roles"
+    },
+    {
+      "start": 2055.84,
+      "end": 2060.839,
+      "text": "Speaker 3: of people are changing. Some roles require skills which are"
+    },
+    {
+      "start": 2060.92,
+      "end": 2064.28,
+      "text": "Speaker 3: less important today and some more new skills are required."
+    },
+    {
+      "start": 2064.64,
+      "end": 2066.8,
+      "text": "Speaker 3: And they can't do that overnight. Just because I created"
+    },
+    {
+      "start": 2066.8,
+      "end": 2069.88,
+      "text": "Speaker 3: a new set of technology. They have to absorb it,"
+    },
+    {
+      "start": 2069.96,
+      "end": 2072.88,
+      "text": "Speaker 3: they have to ingest it. But we have some fabulous"
+    },
+    {
+      "start": 2072.92,
+      "end": 2076.84,
+      "text": "Speaker 3: examples on customer useating and scale in different sectors like"
+    },
+    {
+      "start": 2076.92,
+      "end": 2081.12,
+      "text": "Speaker 3: university systems, quick service restaurants. People are using some of"
+    },
+    {
+      "start": 2081.16,
+      "end": 2084.56,
+      "text": "Speaker 3: our technologies at a very large scale in refineries, etc."
+    },
+    {
+      "start": 2084.92,
+      "end": 2087.56,
+      "text": "Speaker 3: So I would say that if I'm sitting with you"
+    },
+    {
+      "start": 2088.4,
+      "end": 2091.28,
+      "text": "Speaker 3: it twelve months back, I would have said very modest deployment."
+    },
+    {
+      "start": 2091.68,
+      "end": 2094.64,
+      "text": "Speaker 3: Sitting today, I would say I'm very excited on about"
+    },
+    {
+      "start": 2094.68,
+      "end": 2097.84,
+      "text": "Speaker 3: opportunity we see a year from now. I would argue"
+    },
+    {
+      "start": 2097.84,
+      "end": 2100.6,
+      "text": "Speaker 3: that the penetration will go up substantially up because there's"
+    },
+    {
+      "start": 2100.6,
+      "end": 2103.84,
+      "text": "Speaker 3: a real economic value creation from what were really properity."
+    },
+    {
+      "start": 2103.88,
+      "end": 2107.0,
+      "text": "Speaker 3: And we as a country are leading because we have"
+    },
+    {
+      "start": 2107.28,
+      "end": 2111.719,
+      "text": "Speaker 3: the core components of this technology and now we have to,"
+    },
+    {
+      "start": 2112.12,
+      "end": 2114.52,
+      "text": "Speaker 3: you know, take this cability across the world. When our"
+    },
+    {
+      "start": 2114.52,
+      "end": 2116.64,
+      "text": "Speaker 3: customers excited, they really like what we are doing."
+    },
+    {
+      "start": 2117.08,
+      "end": 2123.359,
+      "text": "Speaker 2: Earlier, you mentioned restaurant automation. What does hauntingwell do for"
+    },
+    {
+      "start": 2123.64,
+      "end": 2125.88,
+      "text": "Speaker 2: either fast food service or casual dining?"
+    },
+    {
+      "start": 2126.36,
+      "end": 2128.0,
+      "text": "Speaker 3: They say, think about it. I mean, when you look"
+    },
+    {
+      "start": 2128.04,
+      "end": 2131.16,
+      "text": "Speaker 3: at a small fast food dining restaurant, there's not much"
+    },
+    {
+      "start": 2131.2,
+      "end": 2135.2,
+      "text": "Speaker 3: automation in that, but it consumes energy for sure. I mean,"
+    },
+    {
+      "start": 2135.32,
+      "end": 2139.16,
+      "text": "Speaker 3: let's take a typical McDonald's restaurant as just as an example."
+    },
+    {
+      "start": 2139.8,
+      "end": 2143.279,
+      "text": "Speaker 3: There's a kitchen there, there's a fryer, there's a refrigeration."
+    },
+    {
+      "start": 2143.44,
+      "end": 2145.96,
+      "text": "Speaker 3: It's is keeping a lot of products there. There's of"
+    },
+    {
+      "start": 2145.96,
+      "end": 2150.08,
+      "text": "Speaker 3: course lights going on. These assets were never thought as"
+    },
+    {
+      "start": 2150.08,
+      "end": 2152.96,
+      "text": "Speaker 3: a way to improve energy efficiencies by companies like us."
+    },
+    {
+      "start": 2153.0,
+      "end": 2156.32,
+      "text": "Speaker 3: We say we should automate a large hospital. It's massive,"
+    },
+    {
+      "start": 2156.32,
+      "end": 2158.32,
+      "text": "Speaker 3: there's a lot of opportunity there, or a large building."
+    },
+    {
+      "start": 2159.04,
+      "end": 2162.68,
+      "text": "Speaker 3: These assets were never paid attention by us because there"
+    },
+    {
+      "start": 2162.719,
+      "end": 2166.52,
+      "text": "Speaker 3: was no technology available. But when the cloud technology came in,"
+    },
+    {
+      "start": 2167.12,
+      "end": 2170.52,
+      "text": "Speaker 3: we are able to connect these assets flawlessly. You know,"
+    },
+    {
+      "start": 2170.56,
+      "end": 2172.92,
+      "text": "Speaker 3: in a matter of hours, and then you able to"
+    },
+    {
+      "start": 2173.0,
+      "end": 2176.04,
+      "text": "Speaker 3: use a lot of AI based rules set to understand"
+    },
+    {
+      "start": 2176.52,
+      "end": 2179.359,
+      "text": "Speaker 3: what should be the energy consumption actual versus what it"
+    },
+    {
+      "start": 2179.44,
+      "end": 2182.44,
+      "text": "Speaker 3: is today and give that tools to the owner to say,"
+    },
+    {
+      "start": 2182.8,
+      "end": 2185.279,
+      "text": "Speaker 3: you know, an example, we connected a quick service chain"
+    },
+    {
+      "start": 2185.36,
+      "end": 2187.759,
+      "text": "Speaker 3: in UK, I think something like five hundred plus of"
+    },
+    {
+      "start": 2187.8,
+      "end": 2191.719,
+      "text": "Speaker 3: their restaurants into a single operating system and they are"
+    },
+    {
+      "start": 2191.76,
+      "end": 2195.4,
+      "text": "Speaker 3: observing thirty to forty percent energy reduction. Like anything else,"
+    },
+    {
+      "start": 2195.52,
+      "end": 2198.319,
+      "text": "Speaker 3: the good old management principle, what do you inspect is"
+    },
+    {
+      "start": 2198.36,
+      "end": 2202.04,
+      "text": "Speaker 3: what you get. Once these were thinking running off my own,"
+    },
+    {
+      "start": 2202.2,
+      "end": 2205.52,
+      "text": "Speaker 3: nobody paid attention even though they desired to do something,"
+    },
+    {
+      "start": 2205.56,
+      "end": 2208.759,
+      "text": "Speaker 3: there was no mechanism. So we created an easy mechanism"
+    },
+    {
+      "start": 2209.04,
+      "end": 2211.48,
+      "text": "Speaker 3: to make this available to the customer. So all of"
+    },
+    {
+      "start": 2211.48,
+      "end": 2213.12,
+      "text": "Speaker 3: a sudden they were able to generate a lot more"
+    },
+    {
+      "start": 2213.12,
+      "end": 2216.48,
+      "text": "Speaker 3: productivity without adding too much of cost. And that's a"
+    },
+    {
+      "start": 2216.48,
+      "end": 2218.919,
+      "text": "Speaker 3: part of the new tools which is coming in which"
+    },
+    {
+      "start": 2219.0,
+      "end": 2221.719,
+      "text": "Speaker 3: was not possible, and that gives me a lot of"
+    },
+    {
+      "start": 2221.76,
+      "end": 2225.12,
+      "text": "Speaker 3: excitement that this is going to be much more level"
+    },
+    {
+      "start": 2225.16,
+      "end": 2229.759,
+      "text": "Speaker 3: of productivity efficiency which is less talked about. You know,"
+    },
+    {
+      "start": 2229.76,
+      "end": 2233.0,
+      "text": "Speaker 3: whenever there's AI dialogue, it's jobs going to cut jobs."
+    },
+    {
+      "start": 2233.4,
+      "end": 2236.52,
+      "text": "Speaker 3: Nobody talks about economic value creation. It is doing a"
+    },
+    {
+      "start": 2236.6,
+      "end": 2240.08,
+      "text": "Speaker 3: real value for our customer base, making people more productive."
+    },
+    {
+      "start": 2241.52,
+      "end": 2244.28,
+      "text": "Speaker 3: That's the story of the industrial side, which is probably"
+    },
+    {
+      "start": 2244.32,
+      "end": 2246.08,
+      "text": "Speaker 3: requires more more amplification."
+    },
+    {
+      "start": 2246.36,
+      "end": 2249.319,
+      "text": "Speaker 2: So what's the Pewter Drucker quote. You can't manage what"
+    },
+    {
+      "start": 2249.4,
+      "end": 2253.2,
+      "text": "Speaker 2: you can't measure. So forget five hundred restaurants, what is"
+    },
+    {
+      "start": 2253.56,
+      "end": 2256.68,
+      "text": "Speaker 2: Starbucks thirty thousand? McDonald's forty thousand."
+    },
+    {
+      "start": 2256.36,
+      "end": 2258.48,
+      "text": "Speaker 3: Applies to all of these kind of accid and many"
+    },
+    {
+      "start": 2258.48,
+      "end": 2260.16,
+      "text": "Speaker 3: people have done this work. So it's not that we"
+    },
+    {
+      "start": 2260.239,
+      "end": 2262.359,
+      "text": "Speaker 3: have created some new inventions. Some of them have done"
+    },
+    {
+      "start": 2262.4,
+      "end": 2266.68,
+      "text": "Speaker 3: this kind of discovery, but this effort was not very standardized."
+    },
+    {
+      "start": 2266.719,
+      "end": 2269.56,
+      "text": "Speaker 3: It's like a custom made thing somebody will do. Because"
+    },
+    {
+      "start": 2269.68,
+      "end": 2271.799,
+      "text": "Speaker 3: you are a big company, you can afford it. But"
+    },
+    {
+      "start": 2271.84,
+      "end": 2274.8,
+      "text": "Speaker 3: when you do it a large scale, there are hundreds"
+    },
+    {
+      "start": 2274.8,
+      "end": 2278.12,
+      "text": "Speaker 3: of these chains. There are hundreds of retail stores. We're"
+    },
+    {
+      "start": 2278.12,
+      "end": 2281.12,
+      "text": "Speaker 3: also doing similar work around the big retail store chains,"
+    },
+    {
+      "start": 2281.36,
+      "end": 2286.759,
+      "text": "Speaker 3: very similar example. So these distributed assets are becoming a"
+    },
+    {
+      "start": 2286.8,
+      "end": 2289.4,
+      "text": "Speaker 3: way of capturing value at one end of the equation"
+    },
+    {
+      "start": 2290.12,
+      "end": 2292.04,
+      "text": "Speaker 3: or the other end of the equation. When you have"
+    },
+    {
+      "start": 2293.36,
+      "end": 2296.88,
+      "text": "Speaker 3: retirals coming and our customers are worried about knowledge going"
+    },
+    {
+      "start": 2296.92,
+      "end": 2299.44,
+      "text": "Speaker 3: out of the door, they're looking at a mechanism of"
+    },
+    {
+      "start": 2299.56,
+      "end": 2303.24,
+      "text": "Speaker 3: knowledge capture so they can perform their task. That's also"
+    },
+    {
+      "start": 2303.28,
+      "end": 2307.08,
+      "text": "Speaker 3: penetrating very rapidly so scenarios are different. Some scenarios are"
+    },
+    {
+      "start": 2307.08,
+      "end": 2310.2,
+      "text": "Speaker 3: looking at I never paid attention and now I can"
+    },
+    {
+      "start": 2310.239,
+      "end": 2312.759,
+      "text": "Speaker 3: do it. Some are saying I have less people do"
+    },
+    {
+      "start": 2312.92,
+      "end": 2316.399,
+      "text": "Speaker 3: something about it. But the capability is fundamentally the same."
+    },
+    {
+      "start": 2316.44,
+      "end": 2319.0,
+      "text": "Speaker 3: It's the same capability which solves both the problem."
+    },
+    {
+      "start": 2319.32,
+      "end": 2323.6,
+      "text": "Speaker 2: Coming up, we continue our conversation with Vimal Kapor, CEO"
+    },
+    {
+      "start": 2323.68,
+      "end": 2329.719,
+      "text": "Speaker 2: and chairman of Honeywell, discussing the state of automated technology today."
+    },
+    {
+      "start": 2330.2,
+      "end": 2336.52,
+      "text": "Speaker 2: I'm Barry Richults. You're listening to Master's Business on Bloomberg Radio."
+    },
+    {
+      "start": 2346.88,
+      "end": 2349.8,
+      "text": "Speaker 2: I'm Barry Ridolts. You're listening to Masters in Business on"
+    },
+    {
+      "start": 2349.84,
+      "end": 2353.16,
+      "text": "Speaker 2: Bloomberg Radio. My extra special guest this week is vim"
+    },
+    {
+      "start": 2353.16,
+      "end": 2357.44,
+      "text": "Speaker 2: Al Kapoor. He is CEO and chairman at Honeywell, the"
+    },
+    {
+      "start": 2357.48,
+      "end": 2360.04,
+      "text": "Speaker 2: company he has worked at for the past thirty seven"
+    },
+    {
+      "start": 2360.12,
+      "end": 2364.28,
+      "text": "Speaker 2: years since starting there as an engineer. So I'm curious"
+    },
+    {
+      "start": 2364.32,
+      "end": 2369.28,
+      "text": "Speaker 2: as to how some technologies seem to just take forever"
+    },
+    {
+      "start": 2369.36,
+      "end": 2373.719,
+      "text": "Speaker 2: to find their way into the real world, you know,"
+    },
+    {
+      "start": 2373.76,
+      "end": 2378.68,
+      "text": "Speaker 2: if you travel around the world. I remember the first"
+    },
+    {
+      "start": 2378.719,
+      "end": 2382.56,
+      "text": "Speaker 2: time I saw one of the point of sale handheld"
+    },
+    {
+      "start": 2382.64,
+      "end": 2385.919,
+      "text": "Speaker 2: units in a restaurant in Europe. I don't know, maybe"
+    },
+    {
+      "start": 2385.92,
+      "end": 2389.48,
+      "text": "Speaker 2: it was fifteen years ago and I was astonished. Wait,"
+    },
+    {
+      "start": 2389.52,
+      "end": 2392.08,
+      "text": "Speaker 2: I don't have to request the check. They come, then"
+    },
+    {
+      "start": 2392.12,
+      "end": 2394.2,
+      "text": "Speaker 2: they have to give him the key, the card, they"
+    },
+    {
+      "start": 2394.239,
+      "end": 2396.839,
+      "text": "Speaker 2: go away, like I will take a check they come"
+    },
+    {
+      "start": 2396.88,
+      "end": 2400.08,
+      "text": "Speaker 2: by it. It seems to have taken a decade to"
+    },
+    {
+      "start": 2400.08,
+      "end": 2403.72,
+      "text": "Speaker 2: make its way here. What are some of the impediments"
+    },
+    {
+      "start": 2403.76,
+      "end": 2407.6,
+      "text": "Speaker 2: to some of this some of the cutting edge technologies"
+    },
+    {
+      "start": 2407.64,
+      "end": 2411.56,
+      "text": "Speaker 2: that's obviously using a bunch of tech that already existed."
+    },
+    {
+      "start": 2413.36,
+      "end": 2417.36,
+      "text": "Speaker 2: Is this a problem getting adaptation even though it's clearly"
+    },
+    {
+      "start": 2418.04,
+      "end": 2422.359,
+      "text": "Speaker 2: more productive, more efficient, faster turn of tables, Like I"
+    },
+    {
+      "start": 2422.4,
+      "end": 2425.32,
+      "text": "Speaker 2: was astonished how long it took for the United States"
+    },
+    {
+      "start": 2425.32,
+      "end": 2426.6,
+      "text": "Speaker 2: to implement that fure."
+    },
+    {
+      "start": 2426.719,
+      "end": 2430.239,
+      "text": "Speaker 3: I think there's a scenario in your example because it's"
+    },
+    {
+      "start": 2430.28,
+      "end": 2433.919,
+      "text": "Speaker 3: a technology displacement of some old method versus a more"
+    },
+    {
+      "start": 2434.08,
+      "end": 2438.12,
+      "text": "Speaker 3: new method. But the reason I believe more bullish about"
+    },
+    {
+      "start": 2438.16,
+      "end": 2440.2,
+      "text": "Speaker 3: it is that we are solving a known problem. And"
+    },
+    {
+      "start": 2440.239,
+      "end": 2443.799,
+      "text": "Speaker 3: the known problem is word has less people to do"
+    },
+    {
+      "start": 2443.84,
+      "end": 2448.04,
+      "text": "Speaker 3: a lot of work around skill labor in the industrial world."
+    },
+    {
+      "start": 2448.08,
+      "end": 2450.919,
+      "text": "Speaker 3: That's a real problem. So our solution is not trying"
+    },
+    {
+      "start": 2450.92,
+      "end": 2453.16,
+      "text": "Speaker 3: to find a problem. We are finding we are giving"
+    },
+    {
+      "start": 2453.2,
+      "end": 2457.2,
+      "text": "Speaker 3: a solution to a known problem. Adoption rates are lower"
+    },
+    {
+      "start": 2457.239,
+      "end": 2459.8,
+      "text": "Speaker 3: because of the change management issue, But this is the"
+    },
+    {
+      "start": 2460.239,
+      "end": 2462.96,
+      "text": "Speaker 3: monument of the order of eighteen months, twenty four months,"
+    },
+    {
+      "start": 2463.0,
+      "end": 2466.48,
+      "text": "Speaker 3: thirty months, that's not a decade, So I remain very"
+    },
+    {
+      "start": 2466.48,
+      "end": 2471.52,
+      "text": "Speaker 3: optimistic given my experiencing these sectors, the adoption rates are"
+    },
+    {
+      "start": 2471.56,
+      "end": 2473.6,
+      "text": "Speaker 3: going to be much more quicker because the problem is real."
+    },
+    {
+      "start": 2474.32,
+      "end": 2477.799,
+      "text": "Speaker 3: We are not inventing the problem. This problem exists for it."
+    },
+    {
+      "start": 2478.239,
+      "end": 2480.48,
+      "text": "Speaker 3: And by the way, this problem is everywhere in the world."
+    },
+    {
+      "start": 2481.4,
+      "end": 2482.239,
+      "text": "Speaker 3: This is not a."
+    },
+    {
+      "start": 2482.32,
+      "end": 2483.96,
+      "text": "Speaker 2: US problem only skilled labor."
+    },
+    {
+      "start": 2484.08,
+      "end": 2488.04,
+      "text": "Speaker 3: Skilled labor. Europe has more population shrinkage than US. Go"
+    },
+    {
+      "start": 2488.08,
+      "end": 2490.76,
+      "text": "Speaker 3: to Japan and Korea, they have the same problem. China"
+    },
+    {
+      "start": 2490.8,
+      "end": 2494.56,
+      "text": "Speaker 3: has population shrinkage. So this is a universal issue. This"
+    },
+    {
+      "start": 2494.68,
+      "end": 2498.239,
+      "text": "Speaker 3: is not invented here. Now we get excited on the"
+    },
+    {
+      "start": 2498.36,
+      "end": 2502.96,
+      "text": "Speaker 3: job displacement happening with robots and humanoids. That's a small"
+    },
+    {
+      "start": 2503.0,
+      "end": 2508.04,
+      "text": "Speaker 3: portion of a manufacturing industry that probably is also displacing"
+    },
+    {
+      "start": 2508.08,
+      "end": 2510.16,
+      "text": "Speaker 3: some tasks which humans are not willing to do, like"
+    },
+    {
+      "start": 2510.2,
+      "end": 2514.08,
+      "text": "Speaker 3: lifting boxes. Right yeah, I mean, okay, it's not very interesting."
+    },
+    {
+      "start": 2515.4,
+      "end": 2518.56,
+      "text": "Speaker 3: But then there are other jobs with other sectors which"
+    },
+    {
+      "start": 2518.6,
+      "end": 2523.2,
+      "text": "Speaker 3: we address. A physical AI or intelligence layer is going"
+    },
+    {
+      "start": 2523.239,
+      "end": 2525.48,
+      "text": "Speaker 3: to create a tremendous amount of economic value."
+    },
+    {
+      "start": 2525.64,
+      "end": 2530.56,
+      "text": "Speaker 2: So I keep hearing people compare that intelligence layer of"
+    },
+    {
+      "start": 2530.719,
+      "end": 2535.0,
+      "text": "Speaker 2: artificial intelligence to the Internet. I'm wondering, and you seem"
+    },
+    {
+      "start": 2535.12,
+      "end": 2539.68,
+      "text": "Speaker 2: very bullish and excited about everything AI can do. Is"
+    },
+    {
+      "start": 2539.719,
+      "end": 2544.68,
+      "text": "Speaker 2: there a better comparison. Is the Industrial Revolution a better"
+    },
+    {
+      "start": 2544.88,
+      "end": 2548.719,
+      "text": "Speaker 2: framework for thinking about the impact of AI over the"
+    },
+    {
+      "start": 2548.76,
+      "end": 2551.2,
+      "text": "Speaker 2: next ten to fifty one hundred years."
+    },
+    {
+      "start": 2551.2,
+      "end": 2553.76,
+      "text": "Speaker 3: I think the AI impact will be different in each sector,"
+    },
+    {
+      "start": 2554.239,
+      "end": 2558.04,
+      "text": "Speaker 3: and I think if we make it too broadbrush, we"
+    },
+    {
+      "start": 2558.16,
+      "end": 2560.879,
+      "text": "Speaker 3: are losing the bigger picture. But when we are making"
+    },
+    {
+      "start": 2560.96,
+      "end": 2564.52,
+      "text": "Speaker 3: it specific to a segment, then you're being more precise"
+    },
+    {
+      "start": 2564.6,
+      "end": 2568.12,
+      "text": "Speaker 3: to say in context of the end markets we serve"
+    },
+    {
+      "start": 2568.16,
+      "end": 2572.04,
+      "text": "Speaker 3: of the industrial sector. I talked about examples there. It's"
+    },
+    {
+      "start": 2572.08,
+      "end": 2574.36,
+      "text": "Speaker 3: all about the skill shortage issue, which is very different"
+    },
+    {
+      "start": 2574.44,
+      "end": 2578.0,
+      "text": "Speaker 3: from if we are using AI for better search engine."
+    },
+    {
+      "start": 2578.08,
+      "end": 2581.719,
+      "text": "Speaker 3: If I'm using AI for or making a summary of"
+    },
+    {
+      "start": 2581.84,
+      "end": 2584.12,
+      "text": "Speaker 3: art talk, which somebody can do, and that's a very"
+    },
+    {
+      "start": 2584.12,
+      "end": 2586.359,
+      "text": "Speaker 3: different use case, and one can argue is it going"
+    },
+    {
+      "start": 2586.36,
+      "end": 2588.4,
+      "text": "Speaker 3: to add productivity or not? Or is it going to"
+    },
+    {
+      "start": 2588.4,
+      "end": 2591.759,
+      "text": "Speaker 3: take away jobs. That's a different scenario from simply not"
+    },
+    {
+      "start": 2591.88,
+      "end": 2595.719,
+      "text": "Speaker 3: having people to do work. Way different scenario, and I"
+    },
+    {
+      "start": 2595.719,
+      "end": 2599.239,
+      "text": "Speaker 3: think that makes our case more compelling. The adoption rates"
+    },
+    {
+      "start": 2599.239,
+      "end": 2602.52,
+      "text": "Speaker 3: are driven by a near real need versus we are"
+    },
+    {
+      "start": 2602.52,
+      "end": 2604.68,
+      "text": "Speaker 3: trying to create a need which is unknown, and that's"
+    },
+    {
+      "start": 2604.76,
+      "end": 2608.28,
+      "text": "Speaker 3: not being talked a lot more. A lot more dialogue"
+    },
+    {
+      "start": 2608.32,
+      "end": 2611.319,
+      "text": "Speaker 3: is around job displacements, but those are more in the"
+    },
+    {
+      "start": 2611.84,
+      "end": 2615.64,
+      "text": "Speaker 3: jobs which could be automated like finance function or HR function."
+    },
+    {
+      "start": 2616.32,
+      "end": 2619.16,
+      "text": "Speaker 3: Maybe to a certain degree it's true, but not to"
+    },
+    {
+      "start": 2619.239,
+      "end": 2621.56,
+      "text": "Speaker 3: the point. My personal view is that it's going to"
+    },
+    {
+      "start": 2621.6,
+      "end": 2623.68,
+      "text": "Speaker 3: have the amount of impact which is being talked about."
+    },
+    {
+      "start": 2623.96,
+      "end": 2627.04,
+      "text": "Speaker 2: So let's talk about some of the challenges of this"
+    },
+    {
+      "start": 2627.239,
+      "end": 2630.72,
+      "text": "Speaker 2: technology layer and some of the black hats out there."
+    },
+    {
+      "start": 2631.719,
+      "end": 2634.319,
+      "text": "Speaker 2: When Mythos came out, I would imagine a company like"
+    },
+    {
+      "start": 2634.36,
+      "end": 2640.2,
+      "text": "Speaker 2: Honeywell set up and took notice the idea of of"
+    },
+    {
+      "start": 2640.32,
+      "end": 2645.799,
+      "text": "Speaker 2: AI taking over industrial controllers, power, water, air conditioning. All"
+    },
+    {
+      "start": 2645.8,
+      "end": 2649.36,
+      "text": "Speaker 2: that stuff has to be thought of as a genuine threat."
+    },
+    {
+      "start": 2649.8,
+      "end": 2653.92,
+      "text": "Speaker 2: Nobody wants rogue thermostats or what have you. How do"
+    },
+    {
+      "start": 2654.0,
+      "end": 2659.84,
+      "text": "Speaker 2: you look at the threat from a powerful entity like"
+    },
+    {
+      "start": 2659.92,
+      "end": 2663.04,
+      "text": "Speaker 2: Mythos and how much of an arms race are we"
+    },
+    {
+      "start": 2663.12,
+      "end": 2667.08,
+      "text": "Speaker 2: in to harden all of our soft underbelly."
+    },
+    {
+      "start": 2667.52,
+      "end": 2670.2,
+      "text": "Speaker 3: So I think we have to appreciate the fact that"
+    },
+    {
+      "start": 2671.76,
+      "end": 2675.92,
+      "text": "Speaker 3: where we are deploying AI, it is substantially different from"
+    },
+    {
+      "start": 2676.6,
+      "end": 2680.0,
+      "text": "Speaker 3: what we are ginerally talking about in broader public domain."
+    },
+    {
+      "start": 2680.76,
+      "end": 2683.439,
+      "text": "Speaker 3: If you think of applying AI in an industrials Let's"
+    },
+    {
+      "start": 2683.48,
+      "end": 2685.279,
+      "text": "Speaker 3: take a case of a hospital and I want to"
+    },
+    {
+      "start": 2685.32,
+      "end": 2688.2,
+      "text": "Speaker 3: apply AI into automation system to make it more efficient."
+    },
+    {
+      "start": 2688.84,
+      "end": 2691.68,
+      "text": "Speaker 3: The data of that is not in public domain. The"
+    },
+    {
+      "start": 2691.76,
+      "end": 2694.399,
+      "text": "Speaker 3: data is in Honeymoon system or it's one of our"
+    },
+    {
+      "start": 2694.4,
+      "end": 2697.16,
+      "text": "Speaker 3: competitor system, So you cannot go to internet and train"
+    },
+    {
+      "start": 2697.239,
+      "end": 2701.6,
+      "text": "Speaker 3: anything because there's nothing to train on. So that makes"
+    },
+    {
+      "start": 2701.68,
+      "end": 2704.439,
+      "text": "Speaker 3: data friction as a big problem in industrial sector, which"
+    },
+    {
+      "start": 2704.44,
+      "end": 2707.319,
+      "text": "Speaker 3: in a way becomes a protection layer for us. But"
+    },
+    {
+      "start": 2707.4,
+      "end": 2709.92,
+      "text": "Speaker 3: that doesn't mean friction becomes a protection layer. But it"
+    },
+    {
+      "start": 2709.92,
+      "end": 2711.88,
+      "text": "Speaker 3: doesn't mean we should not do anything about it. So"
+    },
+    {
+      "start": 2711.92,
+      "end": 2714.04,
+      "text": "Speaker 3: you say, oh, unprotected, it means we should take it"
+    },
+    {
+      "start": 2714.08,
+      "end": 2717.52,
+      "text": "Speaker 3: seriously to think of potential threats coming in because if"
+    },
+    {
+      "start": 2717.52,
+      "end": 2720.279,
+      "text": "Speaker 3: the data friction is removed, which is hard to do,"
+    },
+    {
+      "start": 2720.36,
+      "end": 2724.92,
+      "text": "Speaker 3: but humans are very intelligent, so we have worked very"
+    },
+    {
+      "start": 2724.96,
+      "end": 2727.799,
+      "text": "Speaker 3: hard to remove the data friction and also use our"
+    },
+    {
+      "start": 2727.8,
+      "end": 2733.839,
+      "text": "Speaker 3: domain knowledge because interestingly, you cannot solve a horizontal problem"
+    },
+    {
+      "start": 2734.44,
+      "end": 2737.68,
+      "text": "Speaker 3: in industrial domain. What I mean by that is you"
+    },
+    {
+      "start": 2737.76,
+      "end": 2740.56,
+      "text": "Speaker 3: do not have a software application like a CRM system"
+    },
+    {
+      "start": 2740.8,
+      "end": 2744.64,
+      "text": "Speaker 3: or an HR system. The problems of each sectors are"
+    },
+    {
+      "start": 2744.719,
+      "end": 2747.68,
+      "text": "Speaker 3: very different. If you're a refinery, you're trying to produce"
+    },
+    {
+      "start": 2747.719,
+      "end": 2751.48,
+      "text": "Speaker 3: more jet fuel and more diesel. If you are a"
+    },
+    {
+      "start": 2751.52,
+      "end": 2754.279,
+      "text": "Speaker 3: life census manufacturing facility, you're trying to produce drug with"
+    },
+    {
+      "start": 2754.32,
+      "end": 2757.759,
+      "text": "Speaker 3: minimal quality giveaway. But if you're a data center you"
+    },
+    {
+      "start": 2757.8,
+      "end": 2760.719,
+      "text": "Speaker 3: want more uptime. Your problems are so different. So we"
+    },
+    {
+      "start": 2760.76,
+      "end": 2763.64,
+      "text": "Speaker 3: can't create a magic AI application and sell to everybody."
+    },
+    {
+      "start": 2764.16,
+      "end": 2766.359,
+      "text": "Speaker 3: We have to be purposeful that where do we use"
+    },
+    {
+      "start": 2766.36,
+      "end": 2769.0,
+      "text": "Speaker 3: our data and what problem we solve, which only come"
+    },
+    {
+      "start": 2769.0,
+      "end": 2772.56,
+      "text": "Speaker 3: from years of experience. So those two really become in"
+    },
+    {
+      "start": 2772.6,
+      "end": 2775.879,
+      "text": "Speaker 3: a way a constraint for a genuary company to come"
+    },
+    {
+      "start": 2775.92,
+      "end": 2779.92,
+      "text": "Speaker 3: in because of data friction and lack of understanding of domain,"
+    },
+    {
+      "start": 2780.84,
+      "end": 2783.319,
+      "text": "Speaker 3: which means companies like us which possess both have to"
+    },
+    {
+      "start": 2783.32,
+      "end": 2785.8,
+      "text": "Speaker 3: solve this problem. And that's why we are very bullish"
+    },
+    {
+      "start": 2785.8,
+      "end": 2788.04,
+      "text": "Speaker 3: about it to say we're going to do it. We're"
+    },
+    {
+      "start": 2788.04,
+      "end": 2790.16,
+      "text": "Speaker 3: going to take all the capabilities from tech companies and"
+    },
+    {
+      "start": 2790.16,
+      "end": 2793.359,
+      "text": "Speaker 3: build new set of capabilities to take our industry from"
+    },
+    {
+      "start": 2793.52,
+      "end": 2796.8,
+      "text": "Speaker 3: a pure play automation to more towards autonomy. And autonomy"
+    },
+    {
+      "start": 2796.88,
+      "end": 2800.799,
+      "text": "Speaker 3: doesn't mean humans will disappear. Humans will become more empowered,"
+    },
+    {
+      "start": 2800.92,
+      "end": 2804.88,
+      "text": "Speaker 3: human will become more capable, and to the extent is"
+    },
+    {
+      "start": 2804.92,
+      "end": 2807.8,
+      "text": "Speaker 3: some skilled shortages, it'll address that point."
+    },
+    {
+      "start": 2808.16,
+      "end": 2811.44,
+      "text": "Speaker 2: So let's talk a little bit about how tumultuous the"
+    },
+    {
+      "start": 2811.52,
+      "end": 2816.16,
+      "text": "Speaker 2: past twelve months have been in terms of geopolitics. We"
+    },
+    {
+      "start": 2816.68,
+      "end": 2819.92,
+      "text": "Speaker 2: not only have the war in the Ukraine, but now"
+    },
+    {
+      "start": 2820.32,
+      "end": 2823.88,
+      "text": "Speaker 2: in Iran we had the on again, off again, on"
+    },
+    {
+      "start": 2824.0,
+      "end": 2828.239,
+      "text": "Speaker 2: again and most recently off again tariffs. How does this"
+    },
+    {
+      "start": 2828.28,
+      "end": 2832.799,
+      "text": "Speaker 2: affect how a company like Honeywell thinks about resuring and"
+    },
+    {
+      "start": 2832.84,
+      "end": 2836.4,
+      "text": "Speaker 2: bringing manufacturing back to the United States, things about supply"
+    },
+    {
+      "start": 2836.52,
+      "end": 2841.36,
+      "text": "Speaker 2: chain issues. How do you plan in such a tumultuous environment."
+    },
+    {
+      "start": 2841.56,
+      "end": 2844.0,
+      "text": "Speaker 3: But it's definitely a challenge for companies. To have more"
+    },
+    {
+      "start": 2844.0,
+      "end": 2847.719,
+      "text": "Speaker 3: stability is what companies want. So I would say that"
+    },
+    {
+      "start": 2847.84,
+      "end": 2852.4,
+      "text": "Speaker 3: companies like US have very mature processes to deal with it."
+    },
+    {
+      "start": 2852.52,
+      "end": 2855.759,
+      "text": "Speaker 3: So every time this issue occurs, we have some sort"
+    },
+    {
+      "start": 2855.76,
+      "end": 2861.32,
+      "text": "Speaker 3: of disturbance for depends four weeks, eight weeks, twenty weeks,"
+    },
+    {
+      "start": 2861.32,
+      "end": 2864.24,
+      "text": "Speaker 3: who knows, depending on the situation. So we have learned"
+    },
+    {
+      "start": 2864.239,
+      "end": 2866.08,
+      "text": "Speaker 3: how to deal with it. But it doesn't come without"
+    },
+    {
+      "start": 2866.08,
+      "end": 2868.6,
+      "text": "Speaker 3: a cost. You lose some growth in that window. You"
+    },
+    {
+      "start": 2868.64,
+      "end": 2870.64,
+      "text": "Speaker 3: may have to incorrect stra cost like it happened in"
+    },
+    {
+      "start": 2870.68,
+      "end": 2873.12,
+      "text": "Speaker 3: case of tariff, because when tariff got announced, we have"
+    },
+    {
+      "start": 2873.16,
+      "end": 2875.759,
+      "text": "Speaker 3: no choice but to paid right now whether we can"
+    },
+    {
+      "start": 2875.8,
+      "end": 2877.68,
+      "text": "Speaker 3: recover it or not as a subsequent decision."
+    },
+    {
+      "start": 2877.76,
+      "end": 2879.88,
+      "text": "Speaker 2: Are you one of the many companies that have filed"
+    },
+    {
+      "start": 2880.08,
+      "end": 2881.72,
+      "text": "Speaker 2: litigation to get."
+    },
+    {
+      "start": 2881.52,
+      "end": 2883.279,
+      "text": "Speaker 3: Redated not find any litigation?"
+    },
+    {
+      "start": 2883.76,
+      "end": 2885.04,
+      "text": "Speaker 2: How big of a hit was?"
+    },
+    {
+      "start": 2885.16,
+      "end": 2887.48,
+      "text": "Speaker 3: It was not big for us. We were mostly down"
+    },
+    {
+      "start": 2887.52,
+      "end": 2890.239,
+      "text": "Speaker 3: to the second part of your queshion. We have been"
+    },
+    {
+      "start": 2890.239,
+      "end": 2894.08,
+      "text": "Speaker 3: doing manufacturing local for local for multiple years, so we"
+    },
+    {
+      "start": 2894.2,
+      "end": 2898.0,
+      "text": "Speaker 3: made for us in US made for Europe in Europe,"
+    },
+    {
+      "start": 2898.04,
+      "end": 2900.56,
+      "text": "Speaker 3: made for China in China, so we don't move a"
+    },
+    {
+      "start": 2900.6,
+      "end": 2903.6,
+      "text": "Speaker 3: lot of stuff around. However, what we cannot control is"
+    },
+    {
+      "start": 2903.64,
+      "end": 2906.6,
+      "text": "Speaker 3: the global nature of the components we buy. Right if"
+    },
+    {
+      "start": 2906.64,
+      "end": 2907.24,
+      "text": "Speaker 3: I have to buy."
+    },
+    {
+      "start": 2907.12,
+      "end": 2909.96,
+      "text": "Speaker 2: Everything in the supply chain and raw materials."
+    },
+    {
+      "start": 2909.4,
+      "end": 2913.12,
+      "text": "Speaker 3: Correct, because we can't make everything. So if a component"
+    },
+    {
+      "start": 2913.239,
+      "end": 2915.799,
+      "text": "Speaker 3: is made in Korea, like batteries, we have to buy"
+    },
+    {
+      "start": 2915.84,
+      "end": 2918.48,
+      "text": "Speaker 3: it from there, and if a component is made in"
+    },
+    {
+      "start": 2918.6,
+      "end": 2921.0,
+      "text": "Speaker 3: China or somewhere else, we have to buy it from there."
+    },
+    {
+      "start": 2921.48,
+      "end": 2926.64,
+      "text": "Speaker 3: So that impact is certainly not under our coverage because"
+    },
+    {
+      "start": 2926.84,
+      "end": 2929.6,
+      "text": "Speaker 3: we don't have an endless capacity to invest in everything"
+    },
+    {
+      "start": 2929.88,
+      "end": 2934.08,
+      "text": "Speaker 3: but our core manufacturing. We have one hundred and fifty factories,"
+    },
+    {
+      "start": 2934.92,
+      "end": 2937.6,
+      "text": "Speaker 3: you know, and they're well disabled around the world, and"
+    },
+    {
+      "start": 2937.64,
+      "end": 2939.68,
+      "text": "Speaker 3: they are well distributed across the world. I mean, so"
+    },
+    {
+      "start": 2939.719,
+      "end": 2942.92,
+      "text": "Speaker 3: we are, so we don't have this foundational challenge of resharing,"
+    },
+    {
+      "start": 2944.239,
+      "end": 2947.759,
+      "text": "Speaker 3: but we certainly have to deal with changing environment in"
+    },
+    {
+      "start": 2947.8,
+      "end": 2950.52,
+      "text": "Speaker 3: which we have to think about more local supply based"
+    },
+    {
+      "start": 2950.56,
+      "end": 2954.2,
+      "text": "Speaker 3: development aligned to what the expectations are at this point"
+    },
+    {
+      "start": 2954.2,
+      "end": 2954.6,
+      "text": "Speaker 3: of time."
+    },
+    {
+      "start": 2955.36,
+      "end": 2959.32,
+      "text": "Speaker 2: So we've noticed that defense budgets really around the world,"
+    },
+    {
+      "start": 2959.4,
+      "end": 2962.32,
+      "text": "Speaker 2: not just here in the United States, have been rising,"
+    },
+    {
+      "start": 2963.08,
+      "end": 2967.8,
+      "text": "Speaker 2: and there certainly has been fairly robust demand for aerospace"
+    },
+    {
+      "start": 2967.92,
+      "end": 2970.56,
+      "text": "Speaker 2: there's a big upgrade cycle just kind of starting. A"
+    },
+    {
+      "start": 2970.6,
+      "end": 2973.52,
+      "text": "Speaker 2: lot of the fleets are pretty old. How do you"
+    },
+    {
+      "start": 2973.56,
+      "end": 2975.88,
+      "text": "Speaker 2: look at this in terms of risk and opportunity? How"
+    },
+    {
+      "start": 2975.92,
+      "end": 2978.2,
+      "text": "Speaker 2: are you thinking about defense and aerospace?"
+    },
+    {
+      "start": 2978.48,
+      "end": 2981.04,
+      "text": "Speaker 3: Defense is a big opportunity for our aerospace business. That's"
+    },
+    {
+      "start": 2981.08,
+      "end": 2985.4,
+      "text": "Speaker 3: about forty percent of aerospace business. So it's certainly the"
+    },
+    {
+      "start": 2985.48,
+      "end": 2989.48,
+      "text": "Speaker 3: current changes in geobolgical environment and government spending more money"
+    },
+    {
+      "start": 2989.56,
+      "end": 2992.8,
+      "text": "Speaker 3: is only positive. So it's going to become an even"
+    },
+    {
+      "start": 2992.88,
+      "end": 2996.08,
+      "text": "Speaker 3: more growth driver for the business compared to what it had."
+    },
+    {
+      "start": 2996.12,
+      "end": 2998.68,
+      "text": "Speaker 3: So when we started this thesis two two and a"
+    },
+    {
+      "start": 2998.719,
+      "end": 3001.52,
+      "text": "Speaker 3: half years back, we did not predict this level of"
+    },
+    {
+      "start": 3001.52,
+      "end": 3005.52,
+      "text": "Speaker 3: demand in the defense, but now that's really a reality,"
+    },
+    {
+      "start": 3006.12,
+      "end": 3008.92,
+      "text": "Speaker 3: whether it's in US, whether it's some of our US allies."
+    },
+    {
+      "start": 3009.68,
+      "end": 3012.04,
+      "text": "Speaker 3: There's a lot more growth opportunity across the board for"
+    },
+    {
+      "start": 3012.16,
+      "end": 3014.12,
+      "text": "Speaker 3: different products and services we provide."
+    },
+    {
+      "start": 3014.64,
+      "end": 3018.759,
+      "text": "Speaker 2: And then there's been some debate about the future of"
+    },
+    {
+      "start": 3018.8,
+      "end": 3022.319,
+      "text": "Speaker 2: technology and industry. China seems to be running away in"
+    },
+    {
+      "start": 3022.36,
+      "end": 3027.319,
+      "text": "Speaker 2: a couple of areas like energy transition and robotics. From"
+    },
+    {
+      "start": 3027.32,
+      "end": 3031.68,
+      "text": "Speaker 2: where you sit, is the lead going to pass back"
+    },
+    {
+      "start": 3031.68,
+      "end": 3034.52,
+      "text": "Speaker 2: and forth or is there a clear winner? And that's"
+    },
+    {
+      "start": 3034.52,
+      "end": 3039.719,
+      "text": "Speaker 2: a potential problem for the United States, both strategically and economically."
+    },
+    {
+      "start": 3039.96,
+      "end": 3041.84,
+      "text": "Speaker 3: I think we have to look at what's look ahead."
+    },
+    {
+      "start": 3042.0,
+      "end": 3044.239,
+      "text": "Speaker 3: Was just trying to look back and be you know,"
+    },
+    {
+      "start": 3045.48,
+      "end": 3049.52,
+      "text": "Speaker 3: skeptical about it. We will look ahead the problems which"
+    },
+    {
+      "start": 3049.56,
+      "end": 3052.759,
+      "text": "Speaker 3: the world is in head of us. We clearly know"
+    },
+    {
+      "start": 3052.84,
+      "end": 3055.16,
+      "text": "Speaker 3: the US lead in AI, So how do we protect"
+    },
+    {
+      "start": 3055.16,
+      "end": 3057.879,
+      "text": "Speaker 3: the lead? We clearly have a lead in quantum. It's"
+    },
+    {
+      "start": 3057.96,
+      "end": 3059.84,
+      "text": "Speaker 3: one of the businesses we own that. How do we"
+    },
+    {
+      "start": 3060.28,
+      "end": 3061.16,
+      "text": "Speaker 3: keep that scale?"
+    },
+    {
+      "start": 3061.239,
+      "end": 3064.0,
+      "text": "Speaker 2: You do? I didn't realize what does Honeywell do in"
+    },
+    {
+      "start": 3064.0,
+      "end": 3064.96,
+      "text": "Speaker 2: the quantum space."
+    },
+    {
+      "start": 3065.04,
+      "end": 3067.52,
+      "text": "Speaker 3: So we own a business called Quantinum in which Honeywell"
+    },
+    {
+      "start": 3067.52,
+      "end": 3069.92,
+      "text": "Speaker 3: has a majority stake. We spun it off as separate"
+    },
+    {
+      "start": 3069.92,
+      "end": 3072.4,
+      "text": "Speaker 3: company in twenty twenty one. Oh okay, all right, so"
+    },
+    {
+      "start": 3072.44,
+      "end": 3076.879,
+      "text": "Speaker 3: it's not it's Honeywell investments in that company versus it's"
+    },
+    {
+      "start": 3076.88,
+      "end": 3077.76,
+      "text": "Speaker 3: not part of Honeywell."
+    },
+    {
+      "start": 3077.88,
+      "end": 3081.64,
+      "text": "Speaker 2: I recall I call that way back when that's right, really."
+    },
+    {
+      "start": 3081.52,
+      "end": 3085.04,
+      "text": "Speaker 3: Twenty fist correct. So there are technologies in which US"
+    },
+    {
+      "start": 3085.08,
+      "end": 3088.359,
+      "text": "Speaker 3: have an advantage. US have to rebuild its supply base"
+    },
+    {
+      "start": 3088.4,
+      "end": 3092.04,
+      "text": "Speaker 3: for some of the critical sectors like semiconductor, like pharmaceutical"
+    },
+    {
+      "start": 3092.12,
+      "end": 3096.84,
+      "text": "Speaker 3: which are mission critical, and I think that's underway, but"
+    },
+    {
+      "start": 3096.96,
+      "end": 3099.32,
+      "text": "Speaker 3: we need to have patients that those things take years"
+    },
+    {
+      "start": 3099.36,
+      "end": 3102.48,
+      "text": "Speaker 3: to happen. There's not a switch to say we want"
+    },
+    {
+      "start": 3102.52,
+      "end": 3104.2,
+      "text": "Speaker 3: to do it, and those things show up. They can"
+    },
+    {
+      "start": 3104.28,
+      "end": 3106.919,
+      "text": "Speaker 3: take five, seven, ten years, so I think it's heading"
+    },
+    {
+      "start": 3106.92,
+      "end": 3109.96,
+      "text": "Speaker 3: in a right direction. We as a country has all"
+    },
+    {
+      "start": 3109.96,
+      "end": 3113.52,
+      "text": "Speaker 3: the capabilities, we have the capital. We haven't know how,"
+    },
+    {
+      "start": 3113.92,
+      "end": 3116.08,
+      "text": "Speaker 3: but we have to refurbase some of our skill which"
+    },
+    {
+      "start": 3116.08,
+      "end": 3118.2,
+      "text": "Speaker 3: we last over a couple of years in few portions"
+    },
+    {
+      "start": 3118.239,
+      "end": 3121.239,
+      "text": "Speaker 3: of industrial sector. But let's not forget we have very,"
+    },
+    {
+      "start": 3121.28,
+      "end": 3124.2,
+      "text": "Speaker 3: very capable companies which created the same sector all over"
+    },
+    {
+      "start": 3124.239,
+      "end": 3126.719,
+      "text": "Speaker 3: the world, so those have not gone away."
+    },
+    {
+      "start": 3126.88,
+      "end": 3129.56,
+      "text": "Speaker 2: So resuring is not as challenging as a lot of"
+    },
+    {
+      "start": 3129.56,
+      "end": 3130.12,
+      "text": "Speaker 2: people make it."
+    },
+    {
+      "start": 3130.04,
+      "end": 3133.04,
+      "text": "Speaker 3: It is more thoughtful in terms of which how do"
+    },
+    {
+      "start": 3133.08,
+      "end": 3136.4,
+      "text": "Speaker 3: you prioritize? All things being equal, reshoring is the right"
+    },
+    {
+      "start": 3136.48,
+      "end": 3139.04,
+      "text": "Speaker 3: thing to do. But my personal view is we should"
+    },
+    {
+      "start": 3139.04,
+      "end": 3140.92,
+      "text": "Speaker 3: pick up the top five and say, okay, here are"
+    },
+    {
+      "start": 3140.92,
+      "end": 3142.52,
+      "text": "Speaker 3: the five we want to go really go after I"
+    },
+    {
+      "start": 3142.6,
+      "end": 3145.0,
+      "text": "Speaker 3: make it successful, because try to do everything is going"
+    },
+    {
+      "start": 3145.04,
+      "end": 3148.2,
+      "text": "Speaker 3: to be just extremely difficult in auto a prioritization."
+    },
+    {
+      "start": 3148.48,
+      "end": 3151.56,
+      "text": "Speaker 2: So final question before I get to our speed rounds,"
+    },
+    {
+      "start": 3152.04,
+      "end": 3154.56,
+      "text": "Speaker 2: what do you think when it comes to automation and"
+    },
+    {
+      "start": 3154.68,
+      "end": 3159.64,
+      "text": "Speaker 2: artificial intelligence? What do you think business people and investors"
+    },
+    {
+      "start": 3159.64,
+      "end": 3164.799,
+      "text": "Speaker 2: for that matter, really are misunderstanding what little nugget that"
+    },
+    {
+      "start": 3164.84,
+      "end": 3167.96,
+      "text": "Speaker 2: you've experienced would give them a little more insight and"
+    },
+    {
+      "start": 3168.0,
+      "end": 3169.36,
+      "text": "Speaker 2: so what the future looks like."
+    },
+    {
+      "start": 3169.56,
+      "end": 3173.92,
+      "text": "Speaker 3: I think the point we discussed earlier that the automation"
+    },
+    {
+      "start": 3174.0,
+      "end": 3177.12,
+      "text": "Speaker 3: gets heavily enabled by AI and really create the intelligence layer,"
+    },
+    {
+      "start": 3177.64,
+      "end": 3180.52,
+      "text": "Speaker 3: and that opportunity to create it as being under a estimated."
+    },
+    {
+      "start": 3181.12,
+      "end": 3183.88,
+      "text": "Speaker 3: I think this opportunity is real because of the skill shortage,"
+    },
+    {
+      "start": 3183.92,
+      "end": 3186.92,
+      "text": "Speaker 3: because of the knowledge capatures that got created over a"
+    },
+    {
+      "start": 3187.04,
+      "end": 3191.12,
+      "text": "Speaker 3: period of time. So I truly believe that's something which"
+    },
+    {
+      "start": 3191.2,
+      "end": 3195.16,
+      "text": "Speaker 3: needs more, more conversation and more emphasis."
+    },
+    {
+      "start": 3195.44,
+      "end": 3197.88,
+      "text": "Speaker 2: So I only have you for another three minutes, so"
+    },
+    {
+      "start": 3197.96,
+      "end": 3201.6,
+      "text": "Speaker 2: let me click through these questions really quickly, starting with"
+    },
+    {
+      "start": 3202.719,
+      "end": 3206.52,
+      "text": "Speaker 2: tell us about your mentors who helped shape your career."
+    },
+    {
+      "start": 3206.84,
+      "end": 3209.08,
+      "text": "Speaker 3: My early managers. I mean, I was lucky to have"
+    },
+    {
+      "start": 3209.12,
+      "end": 3212.92,
+      "text": "Speaker 3: some very good managers who taught me different things. You know,"
+    },
+    {
+      "start": 3213.239,
+      "end": 3215.68,
+      "text": "Speaker 3: not to be fearful about whom you are talking to,"
+    },
+    {
+      "start": 3216.28,
+      "end": 3219.0,
+      "text": "Speaker 3: how do you think about value propositions, how to think"
+    },
+    {
+      "start": 3219.04,
+      "end": 3222.12,
+      "text": "Speaker 3: global scale. So I think in honeywell, you're blessed to"
+    },
+    {
+      "start": 3222.16,
+      "end": 3224.4,
+      "text": "Speaker 3: have some very strong leaders in different part of my"
+    },
+    {
+      "start": 3224.56,
+      "end": 3227.239,
+      "text": "Speaker 3: career in the first fifteen twenty years, which really shape you."
+    },
+    {
+      "start": 3227.76,
+      "end": 3231.52,
+      "text": "Speaker 3: Because what shapes you as the first fifteenish years of"
+    },
+    {
+      "start": 3231.6,
+      "end": 3234.48,
+      "text": "Speaker 3: your life, because once those value system is built in"
+    },
+    {
+      "start": 3234.56,
+      "end": 3237.279,
+      "text": "Speaker 3: your brain, you kind of live with that and I"
+    },
+    {
+      "start": 3237.32,
+      "end": 3240.52,
+      "text": "Speaker 3: was benefiting from some very powerful winters intoferent parts of"
+    },
+    {
+      "start": 3240.52,
+      "end": 3241.04,
+      "text": "Speaker 3: the company."
+    },
+    {
+      "start": 3241.48,
+      "end": 3243.68,
+      "text": "Speaker 2: Let's talk about books. What are some of your favorites."
+    },
+    {
+      "start": 3243.719,
+      "end": 3244.84,
+      "text": "Speaker 2: What are you reading recently?"
+    },
+    {
+      "start": 3245.52,
+      "end": 3249.24,
+      "text": "Speaker 3: So books I read variety, both from leadership to sectors"
+    },
+    {
+      "start": 3249.28,
+      "end": 3253.12,
+      "text": "Speaker 3: specific The recent one of the book I'm reading is"
+    },
+    {
+      "start": 3253.12,
+      "end": 3256.16,
+      "text": "Speaker 3: The Price from Dan Jurgen. If anybody is interested about"
+    },
+    {
+      "start": 3256.2,
+      "end": 3259.759,
+      "text": "Speaker 3: oil economy, please do read it. Six months back I"
+    },
+    {
+      "start": 3259.8,
+      "end": 3263.919,
+      "text": "Speaker 3: started reading Chip War so some of the sectors specific things,"
+    },
+    {
+      "start": 3263.92,
+      "end": 3265.959,
+      "text": "Speaker 3: but also read about leadership of some of the people"
+    },
+    {
+      "start": 3266.0,
+      "end": 3268.88,
+      "text": "Speaker 3: I admire. Dave Cody, who was Chairsea of Honeywell for"
+    },
+    {
+      "start": 3268.92,
+      "end": 3272.16,
+      "text": "Speaker 3: a long time. He has some very fascinating book Winning"
+    },
+    {
+      "start": 3272.2,
+      "end": 3277.08,
+      "text": "Speaker 3: Now and Winning Later inter and joined our board recently."
+    },
+    {
+      "start": 3277.16,
+      "end": 3279.399,
+      "text": "Speaker 3: She has some fascinating leadership books, so I read some"
+    },
+    {
+      "start": 3279.44,
+      "end": 3281.72,
+      "text": "Speaker 3: of them. I read a lot of books on China."
+    },
+    {
+      "start": 3282.76,
+      "end": 3286.319,
+      "text": "Speaker 3: I think it's underestimated the scale of that economy, so"
+    },
+    {
+      "start": 3286.36,
+      "end": 3289.439,
+      "text": "Speaker 3: I think we just need to There's a book called"
+    },
+    {
+      "start": 3289.52,
+      "end": 3292.44,
+      "text": "Speaker 3: Words View China's view of the word. Very interesting book."
+    },
+    {
+      "start": 3292.8,
+      "end": 3294.879,
+      "text": "Speaker 3: It's like, we have a view about China, what about"
+    },
+    {
+      "start": 3294.92,
+      "end": 3297.759,
+      "text": "Speaker 3: their view? Have you ever asked them the question why"
+    },
+    {
+      "start": 3297.76,
+      "end": 3299.879,
+      "text": "Speaker 3: do you do? What do you do? So? I kind"
+    },
+    {
+      "start": 3299.88,
+      "end": 3305.72,
+      "text": "Speaker 3: of you have very diverse The reading habits of waiting"
+    },
+    {
+      "start": 3305.76,
+      "end": 3308.84,
+      "text": "Speaker 3: from my business specific to leadership to some of the"
+    },
+    {
+      "start": 3308.88,
+      "end": 3311.0,
+      "text": "Speaker 3: countries specifics. You have tuggled around a lot."
+    },
+    {
+      "start": 3311.04,
+      "end": 3313.84,
+      "text": "Speaker 2: On that and our final two questions, what sort of"
+    },
+    {
+      "start": 3313.88,
+      "end": 3317.52,
+      "text": "Speaker 2: advice would you give to a recent college graduate interest"
+    },
+    {
+      "start": 3317.56,
+      "end": 3321.68,
+      "text": "Speaker 2: in the career in either engineering or management."
+    },
+    {
+      "start": 3322.239,
+      "end": 3325.0,
+      "text": "Speaker 3: I mean both are fascinating carrier. I would say engineering"
+    },
+    {
+      "start": 3325.2,
+      "end": 3327.839,
+      "text": "Speaker 3: is a carrier which gives you a lot of options,"
+    },
+    {
+      "start": 3328.88,
+      "end": 3331.16,
+      "text": "Speaker 3: So do pursue that because it gives you a wide"
+    },
+    {
+      "start": 3331.2,
+      "end": 3335.96,
+      "text": "Speaker 3: variety of choices. Management is something that people should do"
+    },
+    {
+      "start": 3336.08,
+      "end": 3338.44,
+      "text": "Speaker 3: who have more willingness to take a risk and have"
+    },
+    {
+      "start": 3338.48,
+      "end": 3341.2,
+      "text": "Speaker 3: courage to make decisions, because in the end, at some"
+    },
+    {
+      "start": 3341.28,
+      "end": 3343.44,
+      "text": "Speaker 3: point in your career you will have to do both."
+    },
+    {
+      "start": 3344.12,
+      "end": 3347.92,
+      "text": "Speaker 3: And if you think that's not your sphere, that's something"
+    },
+    {
+      "start": 3347.96,
+      "end": 3350.44,
+      "text": "Speaker 3: you're not good at it, I would rather argue than"
+    },
+    {
+      "start": 3350.52,
+      "end": 3353.52,
+      "text": "Speaker 3: you choose something really good at versus otherwise you're going"
+    },
+    {
+      "start": 3353.56,
+      "end": 3356.84,
+      "text": "Speaker 3: to get saturated at some point. But management is an"
+    },
+    {
+      "start": 3356.88,
+      "end": 3360.0,
+      "text": "Speaker 3: excellent carrier by itself, so both are both are excellent."
+    },
+    {
+      "start": 3360.04,
+      "end": 3363.12,
+      "text": "Speaker 2: And our final question, what do you know about the"
+    },
+    {
+      "start": 3363.16,
+      "end": 3370.359,
+      "text": "Speaker 2: world of automation, engineering and artificial technology today that might"
+    },
+    {
+      "start": 3370.36,
+      "end": 3373.0,
+      "text": "Speaker 2: have been useful thirty seven years ago when you first"
+    },
+    {
+      "start": 3373.0,
+      "end": 3374.56,
+      "text": "Speaker 2: started at Honeywa."
+    },
+    {
+      "start": 3374.76,
+      "end": 3377.48,
+      "text": "Speaker 3: I don't know. I think I'm always excited about learning"
+    },
+    {
+      "start": 3377.48,
+      "end": 3381.04,
+      "text": "Speaker 3: new technology all the time. You know, I'm still very"
+    },
+    {
+      "start": 3381.12,
+      "end": 3385.64,
+      "text": "Speaker 3: curious to read things how they work. I think I"
+    },
+    {
+      "start": 3385.68,
+      "end": 3389.36,
+      "text": "Speaker 3: will say that staying curious is very important for us"
+    },
+    {
+      "start": 3389.4,
+      "end": 3391.839,
+      "text": "Speaker 3: as a human being. We should never be satisfied on"
+    },
+    {
+      "start": 3391.92,
+      "end": 3394.799,
+      "text": "Speaker 3: what we know. We should always ask the question what"
+    },
+    {
+      "start": 3394.88,
+      "end": 3397.2,
+      "text": "Speaker 3: we do not know, whether it is about a technology"
+    },
+    {
+      "start": 3397.28,
+      "end": 3399.64,
+      "text": "Speaker 3: or a business process, or for that matter, any fact"
+    },
+    {
+      "start": 3399.68,
+      "end": 3403.799,
+      "text": "Speaker 3: of life and more. You are curious. More successful you"
+    },
+    {
+      "start": 3403.84,
+      "end": 3406.879,
+      "text": "Speaker 3: are because you're open minded and you're always willing to learn."
+    },
+    {
+      "start": 3406.88,
+      "end": 3409.04,
+      "text": "Speaker 3: And that has been my principle all my life. Always"
+    },
+    {
+      "start": 3409.12,
+      "end": 3412.68,
+      "text": "Speaker 3: learned something new about anything, and you feel very fulfilled."
+    },
+    {
+      "start": 3412.96,
+      "end": 3416.279,
+      "text": "Speaker 2: Huh really really terrific. The mouse thank you so much"
+    },
+    {
+      "start": 3416.28,
+      "end": 3419.64,
+      "text": "Speaker 2: for thanking generous with your time. We have been speaking"
+    },
+    {
+      "start": 3419.68,
+      "end": 3424.12,
+      "text": "Speaker 2: with them. Kapor, CEO and chairman of Honeywell. If you"
+    },
+    {
+      "start": 3424.32,
+      "end": 3427.359,
+      "text": "Speaker 2: enjoy this conversation, well be sure and check out any"
+    },
+    {
+      "start": 3427.4,
+      "end": 3431.279,
+      "text": "Speaker 2: of the previous six hundred and thirty seven we've done"
+    },
+    {
+      "start": 3431.88,
+      "end": 3435.12,
+      "text": "Speaker 2: over the past twelve and a half years. You can"
+    },
+    {
+      "start": 3435.12,
+      "end": 3441.16,
+      "text": "Speaker 2: find those at Bloomberg, iTunes, Spotify, YouTube, or wherever you"
+    },
+    {
+      "start": 3441.28,
+      "end": 3444.72,
+      "text": "Speaker 2: find your favorite podcasts. I would be remiss if I"
+    },
+    {
+      "start": 3444.76,
+      "end": 3447.88,
+      "text": "Speaker 2: didn't thank the correct team that helps put these conversations together."
+    },
+    {
+      "start": 3448.48,
+      "end": 3452.12,
+      "text": "Speaker 2: Amongst the many people who help me Alexis Noriega is"
+    },
+    {
+      "start": 3452.2,
+      "end": 3457.08,
+      "text": "Speaker 2: my video producer. Sean Russo is my researcher. Anna Luke"
+    },
+    {
+      "start": 3457.2,
+      "end": 3461.4,
+      "text": "Speaker 2: is my producer. I'm Barry Results. You've been listening to"
+    },
+    {
+      "start": 3461.56,
+      "end": 3464.96,
+      "text": "Speaker 2: Masters in Business on Bloomberg Radio."
+    }
+  ]
+}

@@ -1,0 +1,1641 @@
+{
+  "id": "9e4d0204cf98529c",
+  "show": "Animal Spirits",
+  "theme": "Strategy & Markets",
+  "title": "Talk Your Book: The Case for Investing in Emerging Market Bonds",
+  "audio_url": "https://pdst.fm/e/mgln.ai/e/309/traffic.megaphone.fm/TCP9573835247.mp3",
+  "source": "local-whisper",
+  "duration": 1875.8,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.8,
+      "text": "Today's Animal Spirits talk your book is brought to you by VanEck, go to VanEck.com to learn more about the VanEck Emerging Markets Bond ETF,"
+    },
+    {
+      "start": 6.8,
+      "end": 9.92,
+      "text": "ticker EMBX as VanEck.com to learn more."
+    },
+    {
+      "start": 11.68,
+      "end": 15.6,
+      "text": "Welcome to Animal Spirits, a show about markets, life, and investing."
+    },
+    {
+      "start": 15.6,
+      "end": 20.8,
+      "text": "Join Michael Batnik and Ben Carlson as they talk about what they're reading, writing, and watching."
+    },
+    {
+      "start": 20.8,
+      "end": 25.6,
+      "text": "All opinions expressed by Michael and Ben are solely their own opinion and do not reflect the opinion"
+    },
+    {
+      "start": 25.6,
+      "end": 30.160000000000004,
+      "text": "of Redholtz Wealth Management. This podcast is for informational purposes only and should not"
+    },
+    {
+      "start": 30.160000000000004,
+      "end": 35.120000000000005,
+      "text": "be relied upon for any investment decisions. Clients of Redholtz Wealth Management may maintain"
+    },
+    {
+      "start": 35.120000000000005,
+      "end": 41.2,
+      "text": "positions in the securities discussed in this podcast. The following interview reflects the opinions"
+    },
+    {
+      "start": 41.2,
+      "end": 46.480000000000004,
+      "text": "of the speakers as of the recording dates and may change without notice. The discussion includes"
+    },
+    {
+      "start": 46.480000000000004,
+      "end": 52.0,
+      "text": "forward-looking statements and views about markets, economic conditions, and investment strategies"
+    },
+    {
+      "start": 52.0,
+      "end": 58.0,
+      "text": "that are not guarantees of future results. Welcome to Animal Spirits with Michael and Ben."
+    },
+    {
+      "start": 58.0,
+      "end": 63.44,
+      "text": "Michael, you learn something new every day. It's true. Today, I learned on our talk with Eric"
+    },
+    {
+      "start": 63.44,
+      "end": 67.84,
+      "text": "Fein, who's the portfolio manager for the VanEck Emerging Markets Bond strategy that in the past 10"
+    },
+    {
+      "start": 67.84,
+      "end": 72.72,
+      "text": "years or so, the volatility for emerging market bonds, emerging market currencies have all come"
+    },
+    {
+      "start": 72.72,
+      "end": 76.64,
+      "text": "down to now the point where they're lower than for developed markets. That's kind of shocking to me."
+    },
+    {
+      "start": 77.36,
+      "end": 83.84,
+      "text": "I get to assume that it was conventional wisdom that emerging markets were just always more volatile."
+    },
+    {
+      "start": 83.84,
+      "end": 88.24,
+      "text": "Yeah, it news to me. Very interesting stuff. I feel like the bond market is one area where people"
+    },
+    {
+      "start": 88.24,
+      "end": 94.56,
+      "text": "are just now, this decade, starting to explore other areas of it. Because you had this thing where"
+    },
+    {
+      "start": 94.56,
+      "end": 99.92,
+      "text": "the Ag or the total bond market index fund or whatever got kind of blown up a little bit"
+    },
+    {
+      "start": 100.8,
+      "end": 105.2,
+      "text": "from the inflationary scare and the rising interest rates. People are going, whoa, I need to learn"
+    },
+    {
+      "start": 105.36,
+      "end": 109.92,
+      "text": "other areas. In emerging market bonds are one of those places where I don't think there's been a ton"
+    },
+    {
+      "start": 109.92,
+      "end": 114.0,
+      "text": "of exploration. This is our first time talking about on the show, too. We didn't know all the stuff"
+    },
+    {
+      "start": 114.0,
+      "end": 121.6,
+      "text": "about volatility, currencies, why emerging markets actually, I don't know, from a fiscal"
+    },
+    {
+      "start": 121.6,
+      "end": 126.08,
+      "text": "perspective, seem better than the developed markets today, which is kind of crazy to think about"
+    },
+    {
+      "start": 126.72,
+      "end": 132.56,
+      "text": "that they were such a basket case and just a series of crises for so many years. Anyway,"
+    },
+    {
+      "start": 132.56,
+      "end": 136.08,
+      "text": "fun conversation. Here's our talk with Eric Fein from Vanneck."
+    },
+    {
+      "start": 139.44,
+      "end": 144.96,
+      "text": "Eric, welcome, Daniel Spurts. Thanks, Michael. All right, so we are here today talking about emerging"
+    },
+    {
+      "start": 144.96,
+      "end": 150.56,
+      "text": "market bonds. And to the extent that people do think about their bond allocation, they are probably"
+    },
+    {
+      "start": 150.56,
+      "end": 158.96,
+      "text": "thinking through the lens of United States bonds, be that government issued treasuries or"
+    },
+    {
+      "start": 158.96,
+      "end": 165.36,
+      "text": "municipal bonds or corporate bonds, junk bonds, things like this. Rarely do they think outside"
+    },
+    {
+      "start": 165.36,
+      "end": 171.92000000000002,
+      "text": "the US? And if they do, they are probably thinking about Canadian bonds or UK bonds or something"
+    },
+    {
+      "start": 172.4,
+      "end": 178.72,
+      "text": "a little, something equally sort of plain vanilla. Rarely do they go out on the risk"
+    },
+    {
+      "start": 178.72,
+      "end": 183.92000000000002,
+      "text": "spectrum to think about emerging market bonds because historically they have a, let's call it a"
+    },
+    {
+      "start": 183.92000000000002,
+      "end": 191.52,
+      "text": "negative connotation as far as it pertains to the fixed income side of the ledger. How is that"
+    },
+    {
+      "start": 191.52,
+      "end": 196.96,
+      "text": "understanding or thoughts changed over time? Yeah, that's a great question, Michael. So,"
+    },
+    {
+      "start": 198.08,
+      "end": 204.4,
+      "text": "EM, as you rightly cited, has a perception is perceived to be more risky. Said against this,"
+    },
+    {
+      "start": 204.4,
+      "end": 212.72000000000003,
+      "text": "is the fact that EM bond vol is now lower vol than developed market bond vol. So that's number one,"
+    },
+    {
+      "start": 212.72,
+      "end": 218.96,
+      "text": "that's pretty hard for investors to argue with. When the volatility of a bond market is lower than"
+    },
+    {
+      "start": 218.96,
+      "end": 225.68,
+      "text": "another's, it's, you know, by most finance frameworks is considered less risky. So that's happened."
+    },
+    {
+      "start": 226.48,
+      "end": 234.16,
+      "text": "Moreover, the carry is higher. All your coupons in your portfolio divided by the price, if nothing"
+    },
+    {
+      "start": 234.16,
+      "end": 239.76,
+      "text": "happens over the next 12 months, that's your carry is higher in EM bonds than it is in treasuries"
+    },
+    {
+      "start": 239.76,
+      "end": 246.32,
+      "text": "or the ag, for example, the most common flavors. So, already if your vol is lower and your carry is"
+    },
+    {
+      "start": 246.32,
+      "end": 252.32,
+      "text": "higher, that's pretty much finance 101. But on top of it, this has been happening for a long time."
+    },
+    {
+      "start": 252.32,
+      "end": 257.36,
+      "text": "It's been happening for over a decade. The ag and treasuries are, you know, barely are basically"
+    },
+    {
+      "start": 257.36,
+      "end": 262.0,
+      "text": "up to zero over the last 10 years. Our benchmarks up to and a half. Our fund is up a lot more."
+    },
+    {
+      "start": 262.88,
+      "end": 269.76,
+      "text": "And now the perception is changing because partly because the 60 40 hasn't worked, but that's because"
+    },
+    {
+      "start": 269.76,
+      "end": 275.12,
+      "text": "people had the wrong 40. They're up to their necks and develop market bonds like the ag and treasuries,"
+    },
+    {
+      "start": 275.12,
+      "end": 279.92,
+      "text": "which are generally characterized by governments that have too much debt. We talk about what that means,"
+    },
+    {
+      "start": 279.92,
+      "end": 285.52,
+      "text": "but that's the story. Whereas the good 40 is countries that have low levels of government debt. We've"
+    },
+    {
+      "start": 285.52,
+      "end": 290.48,
+      "text": "already, they've already generated the lower volatility and higher carry. I guess the conventional"
+    },
+    {
+      "start": 290.64000000000004,
+      "end": 296.8,
+      "text": "wisdom is that emerging market, everything, stocks are more volatile, the currencies are more volatile,"
+    },
+    {
+      "start": 296.8,
+      "end": 302.0,
+      "text": "the bonds are more volatile. Why is it the case that that volatility has been lowered?"
+    },
+    {
+      "start": 302.0,
+      "end": 307.84000000000003,
+      "text": "The basic dynamic is the absence of fiscal dominance. So, fiscal dominance is a movie"
+    },
+    {
+      "start": 308.40000000000003,
+      "end": 315.12,
+      "text": "that emerging market economists or debt or bond fund managers have seen for decades. It's what"
+    },
+    {
+      "start": 315.12,
+      "end": 322.16,
+      "text": "happens when a government has too much debt. What happens is the central bank ends up not maintaining"
+    },
+    {
+      "start": 322.96,
+      "end": 328.8,
+      "text": "real rates as high enough as it would otherwise if it was solely focused on inflation."
+    },
+    {
+      "start": 328.8,
+      "end": 335.28000000000003,
+      "text": "And so you end up with higher inflation. We've seen this movie 80 times. And many of the countries,"
+    },
+    {
+      "start": 335.28000000000003,
+      "end": 341.28000000000003,
+      "text": "I'd say most of the countries in our benchmark have learned the lesson to the point that it's not"
+    },
+    {
+      "start": 341.28000000000003,
+      "end": 347.28000000000003,
+      "text": "just about fiscal. It's now about politics. My countries have presidents or prime ministers with"
+    },
+    {
+      "start": 347.28000000000003,
+      "end": 354.56000000000006,
+      "text": "60, 70, 80% popularity who promised maintaining budget stability, who promised maintaining an"
+    },
+    {
+      "start": 354.56000000000006,
+      "end": 362.40000000000003,
+      "text": "independent central bank, right? It is not popular among any parties in most of my countries"
+    },
+    {
+      "start": 363.04,
+      "end": 368.08000000000004,
+      "text": "to promise you're going to harness the central bank to achieve economic objectives. So it's not just"
+    },
+    {
+      "start": 368.08,
+      "end": 376.64,
+      "text": "the fiscal, right? The level of debt that allows EMs to be better and DMs to be worse, which is"
+    },
+    {
+      "start": 376.64,
+      "end": 382.88,
+      "text": "we're seeing the evidence of it in the UK and Japan. But this is also resulted in really healthy"
+    },
+    {
+      "start": 382.88,
+      "end": 388.56,
+      "text": "politics, where you're just not going to get a lot of these more risky economic ideas infecting"
+    },
+    {
+      "start": 388.56,
+      "end": 393.44,
+      "text": "EMs. They can't even afford to contemplate them. So they're actually a lot less risky."
+    },
+    {
+      "start": 393.92,
+      "end": 398.24,
+      "text": "It's really interesting to say that I mean, obviously a narrative violation with lower"
+    },
+    {
+      "start": 398.24,
+      "end": 404.8,
+      "text": "file higher yields performance. Another thing that has changed, so you mentioned the political"
+    },
+    {
+      "start": 404.8,
+      "end": 411.04,
+      "text": "stability, that's not like when I think about emerging markets, that's not what comes to mind."
+    },
+    {
+      "start": 411.04,
+      "end": 416.8,
+      "text": "On the equity side of emerging markets at the index level, it looks a lot, the composition"
+    },
+    {
+      "start": 416.88,
+      "end": 424.96000000000004,
+      "text": "in terms of the sectoral exposure looks a hell of a lot different today than it does 20 years ago."
+    },
+    {
+      "start": 424.96000000000004,
+      "end": 432.08000000000004,
+      "text": "I mean, a complete transformation could like completely. I wonder what the bond side looks like."
+    },
+    {
+      "start": 432.08000000000004,
+      "end": 437.6,
+      "text": "Is this story similar? First comparing EM equities and EM bonds, I would say the following."
+    },
+    {
+      "start": 438.16,
+      "end": 443.52,
+      "text": "EM equities is mostly Asia and mostly commodities importers."
+    },
+    {
+      "start": 444.15999999999997,
+      "end": 448.47999999999996,
+      "text": "Right? I mean, you can frame these or aggregate with the world however you want,"
+    },
+    {
+      "start": 449.03999999999996,
+      "end": 456.0,
+      "text": "but they're mostly Asian and mostly commodities importers. They are exporters of value-added goods"
+    },
+    {
+      "start": 456.0,
+      "end": 464.24,
+      "text": "like chips and cars or whatever, but importers of commodities EM is not mostly Asia. It's mostly"
+    },
+    {
+      "start": 464.24,
+      "end": 470.96,
+      "text": "not Asia and has a lot of as a majority of commodities exporters. So I'd say that's the biggest thing"
+    },
+    {
+      "start": 470.96000000000004,
+      "end": 476.40000000000003,
+      "text": "that's happened. Now, continuing with your question, the big issue in equities is how big China"
+    },
+    {
+      "start": 476.40000000000003,
+      "end": 482.08000000000004,
+      "text": "isn't what to do with it, which is an endless conversation. I have China actually. I don't know,"
+    },
+    {
+      "start": 482.08000000000004,
+      "end": 486.00000000000006,
+      "text": "you know, you can't go anywhere with that discussion. I don't know your problem, right? It's the best"
+    },
+    {
+      "start": 486.00000000000006,
+      "end": 492.72,
+      "text": "answer. So EM bonds, though, have not had that problem. The indexes have always been capped,"
+    },
+    {
+      "start": 493.52000000000004,
+      "end": 498.08000000000004,
+      "text": "our benchmarks, you know, both of our benchmarks have 10% caps per country,"
+    },
+    {
+      "start": 499.03999999999996,
+      "end": 505.44,
+      "text": "and there have always been more markets that are more diversified, a lot less concentrated in these"
+    },
+    {
+      "start": 505.44,
+      "end": 512.16,
+      "text": "few EM equities that are doing well. The last point I'll make is that within EM bonds,"
+    },
+    {
+      "start": 512.16,
+      "end": 517.52,
+      "text": "I'd say that there's that especially with the local currency bonds, there's really two worlds."
+    },
+    {
+      "start": 518.16,
+      "end": 525.92,
+      "text": "There are the, what you consider, typical EM bond, let's say, you know, a Brazil with high beta,"
+    },
+    {
+      "start": 525.92,
+      "end": 533.8399999999999,
+      "text": "14% yields, only 4.5% inflation, by the way, with 14% yields. And there, that's higher beta. You"
+    },
+    {
+      "start": 533.8399999999999,
+      "end": 539.5999999999999,
+      "text": "have to treat it as the higher risk instrument. It is, but there is a whole category of my market"
+    },
+    {
+      "start": 539.5999999999999,
+      "end": 545.4399999999999,
+      "text": "that is being bought by central banks, and they're not going to tell you a big portion of our Asian"
+    },
+    {
+      "start": 545.4399999999999,
+      "end": 551.4399999999999,
+      "text": "bonds are becoming reserve currencies. And just as with gold, we wrote about gold 15 years ago,"
+    },
+    {
+      "start": 551.44,
+      "end": 555.2800000000001,
+      "text": "so if central banks were going to buy no one cared then because it wasn't really a story,"
+    },
+    {
+      "start": 555.84,
+      "end": 559.6,
+      "text": "they are not going to send a press release to the financial time, saying, oh, yeah, we're buying gold"
+    },
+    {
+      "start": 559.6,
+      "end": 565.6800000000001,
+      "text": "over the next five years, right? When you saw all those headlines of Brazil, China, etc,"
+    },
+    {
+      "start": 565.6800000000001,
+      "end": 569.6800000000001,
+      "text": "agreeing to trade in each other's countries, what do you think a bank or central bank is going to"
+    },
+    {
+      "start": 569.6800000000001,
+      "end": 574.48,
+      "text": "do with a bunch of cash, right? They're going to open a bond line, they're not going to send a"
+    },
+    {
+      "start": 574.48,
+      "end": 579.36,
+      "text": "worldwide memo on it. And that's the big thing that's happening. So I think of China government bonds,"
+    },
+    {
+      "start": 579.36,
+      "end": 586.64,
+      "text": "Malaysian ringgit bonds, sing dollar bonds, Korean won bonds, those are attractive reserve assets"
+    },
+    {
+      "start": 586.64,
+      "end": 591.2,
+      "text": "to central banks that want to diversify. And so there's demand. So that's really unique."
+    },
+    {
+      "start": 591.2,
+      "end": 594.88,
+      "text": "At the time that they're selling the stuff that's in a lot of our portfolios, like treasuries."
+    },
+    {
+      "start": 595.76,
+      "end": 599.04,
+      "text": "So you mentioned your portfolio. You are the portfolio manager for the Vanneck Emerging"
+    },
+    {
+      "start": 599.04,
+      "end": 604.5600000000001,
+      "text": "Market's Bond strategy, the ticker is EMBX. Where does your work begin? Like, all right, you"
+    },
+    {
+      "start": 604.72,
+      "end": 611.6800000000001,
+      "text": "log on, you're looking at, I guess, currencies, interest rates, fiscal solvency, or like they're"
+    },
+    {
+      "start": 611.6800000000001,
+      "end": 616.1600000000001,
+      "text": "off because they're investment-grade stuff in here. It sounds like it sounds like a giant and"
+    },
+    {
+      "start": 616.1600000000001,
+      "end": 621.2800000000001,
+      "text": "completely different universe than what the typical investor is used to looking at. So where does"
+    },
+    {
+      "start": 621.2800000000001,
+      "end": 626.4000000000001,
+      "text": "your work begin? Yeah, I think that's a fair description, which is also a great counter to"
+    },
+    {
+      "start": 627.0400000000001,
+      "end": 631.6800000000001,
+      "text": "any efficient market hypothesis, right? I mean, I, you know, the odds of me being"
+    },
+    {
+      "start": 631.6800000000001,
+      "end": 638.5600000000001,
+      "text": "beating the S&P 500 are extremely low, right? Just mathematically and with a less efficient market."
+    },
+    {
+      "start": 638.5600000000001,
+      "end": 645.1200000000001,
+      "text": "So I'll start with that. So we have a benchmark, very old benchmark. That's where we start."
+    },
+    {
+      "start": 645.6800000000001,
+      "end": 652.32,
+      "text": "What is our benchmark? Our benchmark are the two old discovery bond benchmarks in emerging markets."
+    },
+    {
+      "start": 652.32,
+      "end": 660.8000000000001,
+      "text": "The oldest one is dollar denominated. These governments borrow $1. And that is basically exactly like"
+    },
+    {
+      "start": 660.8000000000001,
+      "end": 667.36,
+      "text": "the US high yield or IG market. You get a spread. And if the spread compresses, you know, that's"
+    },
+    {
+      "start": 667.36,
+      "end": 671.36,
+      "text": "good. If the spread doesn't widen too much, that can be good too, if you like your all-in-carry,"
+    },
+    {
+      "start": 671.36,
+      "end": 678.1600000000001,
+      "text": "but it's very much like the IG or high yield market in the US. With the exception being that in EM,"
+    },
+    {
+      "start": 678.1600000000001,
+      "end": 683.2,
+      "text": "you get a little higher spread for the same rating. And it's harder for the EM to get the same"
+    },
+    {
+      "start": 683.2,
+      "end": 689.0400000000001,
+      "text": "rating. So it's arguably better quality. But that's the dollar space fairly straightforward. And I"
+    },
+    {
+      "start": 689.04,
+      "end": 694.48,
+      "text": "don't like leading with the example because that by itself has done incredibly. I don't even want"
+    },
+    {
+      "start": 694.48,
+      "end": 699.92,
+      "text": "to say what it's done over the last 20 or 30 years. The spreads were really high. It was the first"
+    },
+    {
+      "start": 699.92,
+      "end": 706.4,
+      "text": "winner from fiscal, the absence of fiscal domes. It was the first thing that rallied as the EMs"
+    },
+    {
+      "start": 706.4,
+      "end": 711.76,
+      "text": "got their acts together starting around 30 years ago. The other part of our benchmark is the same"
+    },
+    {
+      "start": 711.76,
+      "end": 715.5999999999999,
+      "text": "governments or different set of governments, but often the same governments and their bonds and"
+    },
+    {
+      "start": 715.6,
+      "end": 723.12,
+      "text": "their own currencies. And there, they are generally higher beta, but these are all mostly much higher"
+    },
+    {
+      "start": 723.12,
+      "end": 729.36,
+      "text": "yielding with great success on the inflation front. So those are our two benchmarks. And we start"
+    },
+    {
+      "start": 729.36,
+      "end": 733.52,
+      "text": "with the benchmarks. We overweight things we like. We underweight things we don't like. And in"
+    },
+    {
+      "start": 733.52,
+      "end": 739.36,
+      "text": "extreme situations, because we're bond investors and it's all about being paranoid and avoiding losses,"
+    },
+    {
+      "start": 739.36,
+      "end": 743.76,
+      "text": "we're allowed to eliminate some things that are too risky, but we can't do that too much."
+    },
+    {
+      "start": 744.4,
+      "end": 747.28,
+      "text": "How about currencies? That's kind of one of the risks a lot of people say when you're investing"
+    },
+    {
+      "start": 747.28,
+      "end": 752.48,
+      "text": "in international bonds is, hey, the currency, that could kind of swamp our yield if currency goes against"
+    },
+    {
+      "start": 752.48,
+      "end": 756.4,
+      "text": "how do you think about that? Do you guys hedge currencies at all? Are you let them free float? And it"
+    },
+    {
+      "start": 756.4,
+      "end": 764.48,
+      "text": "is what it is. Yeah, great, great question. First, overall, FX volatility in emerging markets is"
+    },
+    {
+      "start": 764.48,
+      "end": 771.4399999999999,
+      "text": "lower than developed market, FX volatility. So yen sterling, right? Euro, a dollar though,"
+    },
+    {
+      "start": 771.44,
+      "end": 777.12,
+      "text": "that's been the ball. The ball has not been Chinese yuan, with which most of my country's trade,"
+    },
+    {
+      "start": 777.12,
+      "end": 781.5200000000001,
+      "text": "which has been like watching paint dry in a good way, right? That's just getting stronger and"
+    },
+    {
+      "start": 781.5200000000001,
+      "end": 788.1600000000001,
+      "text": "stronger and stronger. So first, the ball is already lower. And second, as a general principle,"
+    },
+    {
+      "start": 788.8000000000001,
+      "end": 794.1600000000001,
+      "text": "we never hedge currency risk, because hedging the currency risk takes away basically the entirety"
+    },
+    {
+      "start": 794.1600000000001,
+      "end": 801.12,
+      "text": "of the value. The value is the yield. And we try to invest in countries with high real yields."
+    },
+    {
+      "start": 801.12,
+      "end": 806.72,
+      "text": "So countries that pay you a very high interest rate in their currency, much higher than their"
+    },
+    {
+      "start": 806.72,
+      "end": 813.28,
+      "text": "inflation rate, because their inflation rate should and will hurt their currency. But if they're"
+    },
+    {
+      "start": 813.28,
+      "end": 817.52,
+      "text": "paying a lot more than that inflation rate, their currency shouldn't go down. And that's what's"
+    },
+    {
+      "start": 817.52,
+      "end": 824.0,
+      "text": "been happening roughly for 10 years, especially in the Asians. And that's also why other reserve,"
+    },
+    {
+      "start": 824.0,
+      "end": 830.24,
+      "text": "other central banks want these sorts of assets. The definition of a reserve asset is not that when"
+    },
+    {
+      "start": 830.88,
+      "end": 836.48,
+      "text": "your interest rate goes up, your currency weakens, it's a minimum is that if you hike interest rates,"
+    },
+    {
+      "start": 836.48,
+      "end": 841.28,
+      "text": "you can stabilize your currency and the UK and Japan can't even do that, or ZM's do do that all the"
+    },
+    {
+      "start": 841.28,
+      "end": 845.76,
+      "text": "time. They're arguably being too hawkish because of the Iran war now, which is why things have been so"
+    },
+    {
+      "start": 845.76,
+      "end": 850.08,
+      "text": "stable. And he has been a winner again year to date. Again, I don't want to make it sound like it"
+    },
+    {
+      "start": 850.08,
+      "end": 854.08,
+      "text": "all sounded this year. This has been going on for a long time. So you mentioned a few times now. So"
+    },
+    {
+      "start": 854.08,
+      "end": 858.16,
+      "text": "you're saying a lot of these emerging market countries are buying each other's bonds."
+    },
+    {
+      "start": 858.16,
+      "end": 863.1999999999999,
+      "text": "Correct. And they've got a lot of assets. These are the big reserve piles. These countries,"
+    },
+    {
+      "start": 864.0799999999999,
+      "end": 870.88,
+      "text": "especially in Asia, own more of us than we of them. Economists would call that your net"
+    },
+    {
+      "start": 870.88,
+      "end": 878.16,
+      "text": "international investment position. But look at how many CGBs does the Fed on zero? I assume, maybe some."
+    },
+    {
+      "start": 878.56,
+      "end": 888.7199999999999,
+      "text": "How many treasuries does Japan or China or Korea have a lot trillions? And so we depend on the"
+    },
+    {
+      "start": 888.7199999999999,
+      "end": 896.4,
+      "text": "kindness of offshore, right? We need to borrow a lot from offshore. If you regress US yields by this"
+    },
+    {
+      "start": 896.4,
+      "end": 901.1999999999999,
+      "text": "fact, we did this in one of our research pieces and say, hey, look, let's just take into account the"
+    },
+    {
+      "start": 901.1999999999999,
+      "end": 906.88,
+      "text": "fact that we borrow a lot from overseas. Now, why does that matter because a yen or Chinese based"
+    },
+    {
+      "start": 907.76,
+      "end": 914.24,
+      "text": "investor is going to hedge their currency risk? And because of the volatility, the yield on our"
+    },
+    {
+      "start": 914.24,
+      "end": 920.0,
+      "text": "bonds on treasuries there is so much lower now that they're not buying it. And if you calculate that"
+    },
+    {
+      "start": 920.0,
+      "end": 927.36,
+      "text": "using a simple regression, it means our yield should be a lot higher. But that would be the economics"
+    },
+    {
+      "start": 927.36,
+      "end": 932.08,
+      "text": "way of explaining it is these countries have low debts. They borrow onshore. They have to work to"
+    },
+    {
+      "start": 932.08,
+      "end": 938.1600000000001,
+      "text": "raise their money. And the US generally just pushes a button and assumes offshore investing. But"
+    },
+    {
+      "start": 938.1600000000001,
+      "end": 944.72,
+      "text": "obviously, since the 2008 financial crisis and the obviousness of fiscal dominance, the repeat in"
+    },
+    {
+      "start": 944.72,
+      "end": 951.2,
+      "text": "2020, but especially sanctions, right? Sanctioning, if you have a trillion dollars of treasuries is your"
+    },
+    {
+      "start": 951.2,
+      "end": 956.88,
+      "text": "savings, your national savings. And there's any sanctions risk that's somewhat unacceptable, right?"
+    },
+    {
+      "start": 956.88,
+      "end": 962.72,
+      "text": "Ken Rogoff called it a default, right? The sanctioning of central reserve held by the central bank"
+    },
+    {
+      "start": 962.72,
+      "end": 970.88,
+      "text": "of Russia. At a very high basic level, you could generalize you can drill down. What is more risky,"
+    },
+    {
+      "start": 972.08,
+      "end": 980.64,
+      "text": "all else equal, emerging market government bonds or corporate bonds, historically? And I know"
+    },
+    {
+      "start": 980.64,
+      "end": 986.24,
+      "text": "the varies by everything, but what's your take on that question? Yeah, I would say the following."
+    },
+    {
+      "start": 986.72,
+      "end": 991.52,
+      "text": "I would change the comparison a little. I would say if you have, first of all, everyone is up to"
+    },
+    {
+      "start": 991.52,
+      "end": 996.8,
+      "text": "their necks and corporate bonds. I don't care whether they're EM or DM. I dare you to find anyone who's"
+    },
+    {
+      "start": 996.8,
+      "end": 1004.32,
+      "text": "not up, I, I G us up to my neck, high yield US up to my neck. So let's focus on that. Number one,"
+    },
+    {
+      "start": 1004.32,
+      "end": 1010.64,
+      "text": "if you own high yield or US corporate, high yield corporate or US corporate, you're going to get paid"
+    },
+    {
+      "start": 1010.64,
+      "end": 1015.2,
+      "text": "more for the same rating and just because it's called EM. And it's going to be harder to get that"
+    },
+    {
+      "start": 1015.2,
+      "end": 1021.6,
+      "text": "rating. Moreover, illiquidity in corporates is the big risk. And I'd argue that the illiquidity"
+    },
+    {
+      "start": 1021.6,
+      "end": 1030.56,
+      "text": "in the illiquidity of US high yield is a little lower than the liquidity in EM. Because I can trade"
+    },
+    {
+      "start": 1030.56,
+      "end": 1034.72,
+      "text": "with Goldman Morgan Stanley Bank of America and Standard Chartered, but I can also trade with"
+    },
+    {
+      "start": 1035.8400000000001,
+      "end": 1039.92,
+      "text": "local Mexicans, local Brazilians, right? We've got additional counterprime group on a high yield desk."
+    },
+    {
+      "start": 1040.64,
+      "end": 1048.3200000000002,
+      "text": "So that's the straight apples to apples comparison EM, US or DM, you know, US for high yield IG."
+    },
+    {
+      "start": 1048.3200000000002,
+      "end": 1052.88,
+      "text": "Now on local, on their bonds and their own currencies, let's say the government bonds,"
+    },
+    {
+      "start": 1052.88,
+      "end": 1059.44,
+      "text": "that's the real yield. And I'll just say two general things other than that EM has outperformed"
+    },
+    {
+      "start": 1059.44,
+      "end": 1064.88,
+      "text": "churches. And those two things are number one, all my countries have high real interest rates."
+    },
+    {
+      "start": 1064.88,
+      "end": 1069.1200000000001,
+      "text": "The central bank is only focus on inflation. And in Asia, most of these countries have lower"
+    },
+    {
+      "start": 1069.1200000000001,
+      "end": 1075.3600000000001,
+      "text": "inflation than the United States. And so this has been an effective stabilization and their"
+    },
+    {
+      "start": 1075.3600000000001,
+      "end": 1081.6000000000001,
+      "text": "currencies have stabilized as a result. And we've seen this pop up for several years now with headlines"
+    },
+    {
+      "start": 1081.6000000000001,
+      "end": 1089.0400000000002,
+      "text": "on UK and Japan. And we've seen two eurozone crises. What I tell what I tell a lot of"
+    },
+    {
+      "start": 1089.0400000000002,
+      "end": 1094.64,
+      "text": "investors, this is institutions normally have three percent, pensions normally have three percent."
+    },
+    {
+      "start": 1094.64,
+      "end": 1102.64,
+      "text": "I tell folks to imagine two scenarios. One is their Portuguese advisor during the two eurozone"
+    },
+    {
+      "start": 1102.64,
+      "end": 1106.96,
+      "text": "crises. So you're a Portuguese advisor, you got a billion dollars in assets, you're talking to"
+    },
+    {
+      "start": 1106.96,
+      "end": 1111.8400000000001,
+      "text": "your clients during one of the crises. What are you telling them? You're telling them you have to"
+    },
+    {
+      "start": 1111.8400000000001,
+      "end": 1119.5200000000002,
+      "text": "be long Portuguese treasuries. The capital charges are non-existent or low. The regulator favors"
+    },
+    {
+      "start": 1119.5200000000002,
+      "end": 1123.0400000000002,
+      "text": "them. It's an uncertain time they're going to rally. And what happened? It got downgraded to"
+    },
+    {
+      "start": 1123.04,
+      "end": 1130.32,
+      "text": "below Nigeria. You were not helped. So that's one framing. The other framing is put yourself"
+    },
+    {
+      "start": 1130.32,
+      "end": 1135.84,
+      "text": "as just a neutral educated observer in Singapore. You're watching the US. You're not saying, oh my gosh,"
+    },
+    {
+      "start": 1135.84,
+      "end": 1142.0,
+      "text": "I just wish the political team red or team blue won. You're not saying either one of those things."
+    },
+    {
+      "start": 1142.0,
+      "end": 1147.6,
+      "text": "You're hoping, I hope they figure out some sort of 60, 70% thing and figure out the overall strategy"
+    },
+    {
+      "start": 1147.6,
+      "end": 1152.8,
+      "text": "that's continuous, especially if you're a central bank. And so that's the framing I would give. And"
+    },
+    {
+      "start": 1152.8,
+      "end": 1157.04,
+      "text": "it's not that any of this stuff is going to happen. It's that you're not getting paid for this stuff."
+    },
+    {
+      "start": 1157.76,
+      "end": 1164.56,
+      "text": "Right? We've got lower of all higher carry. And the newspapers just scream about these fiscal"
+    },
+    {
+      "start": 1164.56,
+      "end": 1170.0,
+      "text": "and eventually central bank issues, which lead to currency issues and financial issues in these"
+    },
+    {
+      "start": 1170.0,
+      "end": 1175.2,
+      "text": "countries, which would be fine if you're getting paid for. The last thing I'll say is if you measure"
+    },
+    {
+      "start": 1175.2,
+      "end": 1180.48,
+      "text": "fundamental risk on an x-axis and you say, okay, this is a country that everyone can agree has bad"
+    },
+    {
+      "start": 1180.48,
+      "end": 1186.16,
+      "text": "fundamentals is one with good. And then you draw a line to say, how much do the countries"
+    },
+    {
+      "start": 1186.16,
+      "end": 1193.04,
+      "text": "called develop markets pay you as they get worse in quality and how much the EMs as the D as things"
+    },
+    {
+      "start": 1193.04,
+      "end": 1197.1200000000001,
+      "text": "called develop markets get crappier and crappier. They don't pay you anything more. Right,"
+    },
+    {
+      "start": 1197.1200000000001,
+      "end": 1204.08,
+      "text": "Japan at 2% yields this year, right? And EMs pay you what you're supposed to get, right? There's"
+    },
+    {
+      "start": 1204.08,
+      "end": 1207.84,
+      "text": "a real market for it. They go to the market. They talk to people like me and they say, what do we"
+    },
+    {
+      "start": 1207.84,
+      "end": 1212.72,
+      "text": "need to do? Why are we doing so badly that our yields are higher or spreads are higher? Why is that?"
+    },
+    {
+      "start": 1212.72,
+      "end": 1216.8799999999999,
+      "text": "These are the kids that grew up tough. They didn't have a trust fund and had a work hard. And now"
+    },
+    {
+      "start": 1216.8799999999999,
+      "end": 1221.1999999999998,
+      "text": "they're in good shape, right? It's as simple as that. When I was at Morgan sa, I ran research at"
+    },
+    {
+      "start": 1221.1999999999998,
+      "end": 1225.52,
+      "text": "Morgan sa, or EM, you know, cell site economic response strategy. One of the interesting conclusions"
+    },
+    {
+      "start": 1225.52,
+      "end": 1231.36,
+      "text": "we found was higher undeaded countries are richer. Richer countries can afford more debt, okay?"
+    },
+    {
+      "start": 1232.8,
+      "end": 1236.8799999999999,
+      "text": "You just need to read literature to know that that goes wrong. Unfortunately, we live in a world of"
+    },
+    {
+      "start": 1236.88,
+      "end": 1243.92,
+      "text": "statistics. And since, you know, this stuff hasn't happened in particular in the US in a long time,"
+    },
+    {
+      "start": 1243.92,
+      "end": 1248.64,
+      "text": "it takes an EM person to say, well, this happens all the time. I've seen it 80 times. And this is where"
+    },
+    {
+      "start": 1248.64,
+      "end": 1254.48,
+      "text": "for the last few decades, you've been hearing the alarm bells on the fiscal positions of the US,"
+    },
+    {
+      "start": 1254.48,
+      "end": 1260.4,
+      "text": "UK, Japan. It's been people at the IMF or people from EM, right? We've seen this movie 80 times. It"
+    },
+    {
+      "start": 1260.4,
+      "end": 1266.5600000000002,
+      "text": "is not been US or UK or Japanese that, you know, for decades have been pounding on this. They've"
+    },
+    {
+      "start": 1266.5600000000002,
+      "end": 1271.3600000000001,
+      "text": "been saying, it's okay. We just need a rate hike. We just need this reform program. So that's,"
+    },
+    {
+      "start": 1271.3600000000001,
+      "end": 1276.8000000000002,
+      "text": "you know, one version of the answer. The other version of the answer is in 2008, we guaranteed all"
+    },
+    {
+      "start": 1276.8000000000002,
+      "end": 1283.6000000000001,
+      "text": "derivatives, right? About a quadrillion-notional. That is an incredible amount of forbearance or leverage."
+    },
+    {
+      "start": 1283.6000000000001,
+      "end": 1289.68,
+      "text": "You know, that's what's feeding through the system. The US has what we're dependent on the,"
+    },
+    {
+      "start": 1289.68,
+      "end": 1293.44,
+      "text": "how many people live in the Cayman Islands, right? They've managed somehow save like a trillion"
+    },
+    {
+      "start": 1293.44,
+      "end": 1301.44,
+      "text": "dollars to lend to US, right? So the central bank, the amount of leverage in the system, hidden or not"
+    },
+    {
+      "start": 1301.44,
+      "end": 1306.88,
+      "text": "hidden. We've written a paper on how to measure it is extremely high in these developed markets,"
+    },
+    {
+      "start": 1306.88,
+      "end": 1312.72,
+      "text": "right? The banks were guaranteed. My country's finance one was the biggest bank in Thailand in 1997."
+    },
+    {
+      "start": 1313.3600000000001,
+      "end": 1318.0800000000002,
+      "text": "And the authorities decided, and it was good policy, say, yeah, we're not going to take over the"
+    },
+    {
+      "start": 1318.08,
+      "end": 1324.3999999999999,
+      "text": "bank and guarantee it. And you know what? Thailand is a better credit for it, right? They don't have"
+    },
+    {
+      "start": 1324.3999999999999,
+      "end": 1327.84,
+      "text": "the banking system as this massive liability, whereas... So you're saying that they don't do a lot"
+    },
+    {
+      "start": 1327.84,
+      "end": 1333.28,
+      "text": "of the same bailouts and such. Correct, which is good. China had a real estate crisis, right? Did"
+    },
+    {
+      "start": 1333.28,
+      "end": 1338.0,
+      "text": "they bail it out? No, they let it happen. So you keep Eric, you've said a few times my countries."
+    },
+    {
+      "start": 1338.0,
+      "end": 1341.28,
+      "text": "Do you have a list of countries that like, you're like, these are the countries that I will invest in,"
+    },
+    {
+      "start": 1341.28,
+      "end": 1345.6,
+      "text": "or do you have more a list of criteria that you say once a country reaches these criteria,"
+    },
+    {
+      "start": 1345.6000000000001,
+      "end": 1351.2800000000002,
+      "text": "then I will invest in them. A list of countries. We have a benchmark. It's ironclad. We can,"
+    },
+    {
+      "start": 1351.8400000000001,
+      "end": 1358.0000000000002,
+      "text": "and if our... Or is there other countries you won't invest and you say, nope, uninvestable, not"
+    },
+    {
+      "start": 1358.0000000000002,
+      "end": 1363.2800000000002,
+      "text": "touching them. Absolutely. Do it all the time. We can't do it too much. We're allowed to exclude"
+    },
+    {
+      "start": 1364.2400000000002,
+      "end": 1372.2400000000002,
+      "text": "15-15% from our benchmark, but absolutely and right now, you know, we like India as an equity"
+    },
+    {
+      "start": 1372.24,
+      "end": 1376.64,
+      "text": "market, but as a fixed income market, as an FX, it's not ready for prime time. And so that's something"
+    },
+    {
+      "start": 1376.64,
+      "end": 1381.28,
+      "text": "we're very comfortable excluding the current... You know, all these things that I described of good"
+    },
+    {
+      "start": 1381.28,
+      "end": 1386.24,
+      "text": "markets, namely central banks that maintain high real rates, that have a free-floating exchange rate."
+    },
+    {
+      "start": 1386.24,
+      "end": 1391.2,
+      "text": "That's not India, right? So we don't... I definitely didn't want to give the impression that everything in"
+    },
+    {
+      "start": 1391.2,
+      "end": 1397.28,
+      "text": "EM is awesome. They're definitely some problematic countries. India is a big one. Indonesia arguably."
+    },
+    {
+      "start": 1397.28,
+      "end": 1402.6399999999999,
+      "text": "Philippines and Thailand right now with high energy prices. That's normally why EM"
+    },
+    {
+      "start": 1402.6399999999999,
+      "end": 1409.12,
+      "text": "bond funds are actively managed. However, given the sort of interesting nature of our..."
+    },
+    {
+      "start": 1409.12,
+      "end": 1414.24,
+      "text": "The kind of things we talk about, I'll re-emphasize that our benchmark has outperformed"
+    },
+    {
+      "start": 1414.24,
+      "end": 1418.16,
+      "text": "tragedies in the ag for 10 years. In other words, it's great that we've been able to navigate"
+    },
+    {
+      "start": 1418.16,
+      "end": 1424.24,
+      "text": "and do better, but that should not be the threshold. If just passive is... Because I get that a lot of"
+    },
+    {
+      "start": 1424.24,
+      "end": 1429.84,
+      "text": "people somehow feel that passive is an easier decision. That's a fine conclusion. That's a far"
+    },
+    {
+      "start": 1429.84,
+      "end": 1435.92,
+      "text": "better conclusion than most people have right now. But yeah, what you asked about is a good reason"
+    },
+    {
+      "start": 1435.92,
+      "end": 1440.88,
+      "text": "for active, especially with bonds. As you know, bonds are really about not making mistakes, because"
+    },
+    {
+      "start": 1440.88,
+      "end": 1444.96,
+      "text": "you get paid so little, right? And also, I'm always sitting in a room next to somebody talking"
+    },
+    {
+      "start": 1445.1200000000001,
+      "end": 1454.48,
+      "text": "about Nvidia. And so they don't want to hear from me. Eric, on that, I'm curious. AI has been a"
+    },
+    {
+      "start": 1454.48,
+      "end": 1462.48,
+      "text": "global trade. Samsung and SK Heinux are, of course, a huge part of their benchmark. A lot of these"
+    },
+    {
+      "start": 1462.48,
+      "end": 1469.28,
+      "text": "companies are issuing a lot of debt. I'm wondering how you're thinking about that. What sort of framework"
+    },
+    {
+      "start": 1469.44,
+      "end": 1476.3999999999999,
+      "text": "are you using? Really none. The two questions that get asked on AI. One of them, I have a"
+    },
+    {
+      "start": 1476.3999999999999,
+      "end": 1480.6399999999999,
+      "text": "table pounding no opinion. Like, is this thing going to work? I think there's way too many opinions"
+    },
+    {
+      "start": 1480.6399999999999,
+      "end": 1485.6,
+      "text": "on that. You don't need another, you know, on, is this a good thing or not? I have no idea"
+    },
+    {
+      "start": 1485.6,
+      "end": 1492.3999999999999,
+      "text": "that's additive. The other one is what, you know, the capex cycle, the capex cycle is taking on strategic"
+    },
+    {
+      "start": 1492.3999999999999,
+      "end": 1497.36,
+      "text": "dimensions, right? So it's going to continue whether the thing works or not. And that should crowd out"
+    },
+    {
+      "start": 1497.3600000000001,
+      "end": 1504.0800000000002,
+      "text": "the consumer. I think that's the only economic conclusion you could come to. And it should eventually"
+    },
+    {
+      "start": 1505.2800000000002,
+      "end": 1511.68,
+      "text": "be adverse for the US economy, probably positive for yields. Sorry, that's not a sexy answer. That's"
+    },
+    {
+      "start": 1511.68,
+      "end": 1517.0400000000002,
+      "text": "a very economics answer. But I think that's the way of looking. And the debt is being, you know,"
+    },
+    {
+      "start": 1517.0400000000002,
+      "end": 1523.2800000000002,
+      "text": "look, I don't want to mention specific names, but only one of the big names is not, you know,"
+    },
+    {
+      "start": 1523.28,
+      "end": 1528.56,
+      "text": "an unassailable balance sheet. So it doesn't strike me as one of those kinds of problems. But I say"
+    },
+    {
+      "start": 1528.56,
+      "end": 1533.76,
+      "text": "that only based on experience and debt markets over 30 years, not those specific types of"
+    },
+    {
+      "start": 1535.28,
+      "end": 1539.76,
+      "text": "situations. But the capex is real and it's going to continue whether it's whether it should or not."
+    },
+    {
+      "start": 1540.24,
+      "end": 1544.56,
+      "text": "When the war and Iran started, a lot of people said a lot of these emerging markets are screwed,"
+    },
+    {
+      "start": 1544.56,
+      "end": 1550.3999999999999,
+      "text": "right? They are heavily reliant on that for oil. And the US is energy independent. The US is"
+    },
+    {
+      "start": 1550.4,
+      "end": 1554.0,
+      "text": "going to be fine with these emerging market, especially Asian countries are out of luck. Emerging"
+    },
+    {
+      "start": 1554.0,
+      "end": 1558.3200000000002,
+      "text": "market stock markets have been fine. How are things in the bond, how have things in the bond market"
+    },
+    {
+      "start": 1558.3200000000002,
+      "end": 1564.48,
+      "text": "done since the geopolitical situation hit? That's a great point, Ben. And this was the same last year."
+    },
+    {
+      "start": 1564.48,
+      "end": 1569.2800000000002,
+      "text": "I'll just explain, you know, I'll riff off and magnify. Last year, what was, what were all the"
+    },
+    {
+      "start": 1569.2800000000002,
+      "end": 1574.3200000000002,
+      "text": "cool kids saying in response to liberation day? Oh my gosh, Asia's going to get destroyed."
+    },
+    {
+      "start": 1574.3200000000002,
+      "end": 1579.52,
+      "text": "And moreover, China has to devalue its currency because like when I was a cell-side economist on"
+    },
+    {
+      "start": 1579.52,
+      "end": 1584.72,
+      "text": "these countries, they're solving for the manufacturing export surplus. But they've been running these"
+    },
+    {
+      "start": 1584.72,
+      "end": 1589.68,
+      "text": "for 30 years. They're up to their nexon dollars. And so what happened last year? Everyone thought"
+    },
+    {
+      "start": 1589.68,
+      "end": 1595.6,
+      "text": "CNY should go weaker, misunderstanding in the situation. The tariffs were essentially a message"
+    },
+    {
+      "start": 1595.6,
+      "end": 1601.04,
+      "text": "your currency needs to strengthen. And what's the position of these currencies up to their nexon"
+    },
+    {
+      "start": 1601.04,
+      "end": 1604.32,
+      "text": "dollars? So they're told those dollars are going to go down against their currency. What do they do?"
+    },
+    {
+      "start": 1604.32,
+      "end": 1609.2,
+      "text": "They did exactly what they did last year, which is sell the heck out of dollars, right? That was"
+    },
+    {
+      "start": 1609.2,
+      "end": 1614.16,
+      "text": "the story of last year and the D dollarization thing became a hot story. Again, this year,"
+    },
+    {
+      "start": 1614.88,
+      "end": 1619.3600000000001,
+      "text": "Iran happened, oh no, hey, Ben, let's not start with Iran. Let's start with Venezuela."
+    },
+    {
+      "start": 1619.92,
+      "end": 1624.72,
+      "text": "Ships sale in, Venezuelan, we accumulate Venezuelan bonds. Americans are conditioned to think,"
+    },
+    {
+      "start": 1624.72,
+      "end": 1628.96,
+      "text": "oh, there's an adverse geopolitical headline. I'm supposed to sell my risk. I don't get that."
+    },
+    {
+      "start": 1628.96,
+      "end": 1632.72,
+      "text": "It's good for Venezuela. You know who else won? Latin America is Colombia."
+    },
+    {
+      "start": 1633.28,
+      "end": 1637.44,
+      "text": "Columbia is one of the best performing local currency markets. We may not view it this way. And I'm"
+    },
+    {
+      "start": 1637.44,
+      "end": 1643.44,
+      "text": "not saying this is an endorsement of policy from anything other than, is it good or bad for my bonds?"
+    },
+    {
+      "start": 1643.44,
+      "end": 1649.44,
+      "text": "I'm not getting into whether it's good or bad in principle and all that stuff. It is good to have"
+    },
+    {
+      "start": 1649.44,
+      "end": 1654.72,
+      "text": "the US as a stabilizing influence in a lot of these countries, both security and financing wise."
+    },
+    {
+      "start": 1654.72,
+      "end": 1659.28,
+      "text": "In fact, this has been going on for a couple of years in our portfolio already. Ecuador,"
+    },
+    {
+      "start": 1660.0,
+      "end": 1665.1200000000001,
+      "text": "right, had a very positive election. IMF agreement. US tried to reopen a base with the friendly"
+    },
+    {
+      "start": 1665.1200000000001,
+      "end": 1670.4,
+      "text": "government there didn't succeed yet. It's still working. Bolivia just had an election. Met both"
+    },
+    {
+      "start": 1670.4,
+      "end": 1675.5200000000002,
+      "text": "president, the two market friendly candidates, one hour, one-on-ones, they did it with a lot of"
+    },
+    {
+      "start": 1675.5200000000002,
+      "end": 1680.8000000000002,
+      "text": "people in the market, clear support from US Treasury to smooth the transition because they're doing"
+    },
+    {
+      "start": 1680.8000000000002,
+      "end": 1686.8000000000002,
+      "text": "some hard things during the transition. And then Iran, oil prices go higher. Sub-Saharan Africa is"
+    },
+    {
+      "start": 1686.8000000000002,
+      "end": 1692.3200000000002,
+      "text": "replacing Russia and now big parts of the Gulf as a supplier of commodities to the rest of the world."
+    },
+    {
+      "start": 1692.32,
+      "end": 1697.6799999999998,
+      "text": "Latam is a supplier of commodities. It's really far from the region. And unless you think"
+    },
+    {
+      "start": 1699.28,
+      "end": 1705.36,
+      "text": "whatever happens with the Iran war, you know, what do you want to call what's going on,"
+    },
+    {
+      "start": 1705.36,
+      "end": 1710.48,
+      "text": "negotiations, it's not a stretch to say that there's a good, the reasonable odds of a scenario"
+    },
+    {
+      "start": 1710.48,
+      "end": 1716.8,
+      "text": "where risks remain elevated, right? And these prices remain high. And so we, for our portfolios,"
+    },
+    {
+      "start": 1716.8,
+      "end": 1721.84,
+      "text": "are typical portfolios for your audience are going to think, oh my gosh, this is high inflation."
+    },
+    {
+      "start": 1721.8400000000001,
+      "end": 1726.7200000000003,
+      "text": "It's bad for growth because now we're paying $5 a gallon for gas, and we're going to consume less,"
+    },
+    {
+      "start": 1726.7200000000003,
+      "end": 1729.8400000000001,
+      "text": "and we might have a recession. There's a lot of my countries, and this is boom time."
+    },
+    {
+      "start": 1730.5600000000002,
+      "end": 1736.88,
+      "text": "Our last question from me. What do you make of the global rise in yields?"
+    },
+    {
+      "start": 1737.6000000000001,
+      "end": 1744.16,
+      "text": "I think it was primarily driven by the US. That's how I felt it. I'm sitting here staring at screens."
+    },
+    {
+      "start": 1744.16,
+      "end": 1748.96,
+      "text": "I used to trade with, you know, I don't trade directly myself now. And the way it felt,"
+    },
+    {
+      "start": 1748.96,
+      "end": 1753.68,
+      "text": "which I think is really important, we do our own trading, is this was led entirely by U.S."
+    },
+    {
+      "start": 1753.68,
+      "end": 1759.8400000000001,
+      "text": "rates. And if that's not true by UK and Japan, that's what the story has been, right?"
+    },
+    {
+      "start": 1759.8400000000001,
+      "end": 1764.24,
+      "text": "This, you know, even the Wall Street Journal reports about a fiscal dominance, deficits,"
+    },
+    {
+      "start": 1764.24,
+      "end": 1769.8400000000001,
+      "text": "lives trust. Know who knows who lives trust is, other than that, you know, moment. That's number one."
+    },
+    {
+      "start": 1769.8400000000001,
+      "end": 1774.96,
+      "text": "Number two, as interest rates rose, of course, my bonds interest rates rose along with them,"
+    },
+    {
+      "start": 1774.96,
+      "end": 1780.16,
+      "text": "but the currencies didn't weaken. My currencies did not weaken. And so my market was essentially saying,"
+    },
+    {
+      "start": 1780.16,
+      "end": 1785.1200000000001,
+      "text": "okay, you're the king of rates, you're, you set a somewhat of a benchmark. And if they go up,"
+    },
+    {
+      "start": 1785.1200000000001,
+      "end": 1790.56,
+      "text": "we'll let our rates go up. But number of central banks got more hawkish afterwards. So their currencies"
+    },
+    {
+      "start": 1790.56,
+      "end": 1795.68,
+      "text": "were stable, which the market was saying, okay, rates have to go up. But then the central banks"
+    },
+    {
+      "start": 1795.68,
+      "end": 1802.16,
+      "text": "reacted as they have for over, you know, 10 years performance or proof wise, but 20 plus years of"
+    },
+    {
+      "start": 1802.16,
+      "end": 1807.0400000000002,
+      "text": "actually doing it, that sends them signal to the market that, okay, you know what, these higher"
+    },
+    {
+      "start": 1807.0400000000002,
+      "end": 1813.44,
+      "text": "rates are a gift from the U.S. Because their inflation rates in a lot of these countries are not"
+    },
+    {
+      "start": 1814.0,
+      "end": 1818.96,
+      "text": "significantly higher, particularly if they have good policy to address them. If their currencies"
+    },
+    {
+      "start": 1818.96,
+      "end": 1822.64,
+      "text": "are appreciating, which is the case in a lot of them, what do you think's happening to their"
+    },
+    {
+      "start": 1822.64,
+      "end": 1827.68,
+      "text": "inflation? It's going down. So that's the thing. Their inflation may be going up at the central bank"
+    },
+    {
+      "start": 1827.68,
+      "end": 1832.72,
+      "text": "high rates and their currencies rallying because they're exporting their export prices more than"
+    },
+    {
+      "start": 1832.72,
+      "end": 1836.64,
+      "text": "their import prices are going up, their export prices are going up. And so their currencies"
+    },
+    {
+      "start": 1836.64,
+      "end": 1842.88,
+      "text": "rallying, what inflation and expectations are going down. And so it was a short term knee jerk."
+    },
+    {
+      "start": 1843.92,
+      "end": 1849.92,
+      "text": "The currencies didn't adjust and it created probably a really, really great entry point for yields"
+    },
+    {
+      "start": 1850.4,
+      "end": 1856.72,
+      "text": "globally. Eric, people want to learn more where they sent them. Vanak.com. My name's Eric Fine. Our"
+    },
+    {
+      "start": 1856.72,
+      "end": 1864.4,
+      "text": "fund is EMBX and really appreciated this, this meaning Michael and Ben. I'll stay. Thank you."
+    },
+    {
+      "start": 1867.04,
+      "end": 1871.76,
+      "text": "Thanks to Eric. Remember to check out Vanak.com to learn more about the Vanak emerging markets"
+    },
+    {
+      "start": 1871.76,
+      "end": 1875.8400000000001,
+      "text": "fund ETF that we talked about today and then email us animal spirits at thecompoundnews.com."
+    }
+  ]
+}

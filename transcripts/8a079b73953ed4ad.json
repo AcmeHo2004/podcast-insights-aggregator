@@ -1,0 +1,2371 @@
+{
+  "id": "8a079b73953ed4ad",
+  "show": "No Priors",
+  "theme": "Tech & AI",
+  "title": "Biohub: The Future of Biology is Open-Source with Co-Founders Mark Zuckerberg, Priscilla Chan, and Head of Science Alex Rives",
+  "audio_url": "https://traffic.megaphone.fm/PDP2294664679.mp3",
+  "source": "local-whisper",
+  "duration": 3377.9,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2600000000000002,
+      "text": "We just want to give tools to the whole scientific community."
+    },
+    {
+      "start": 2.2600000000000002,
+      "end": 4.7,
+      "text": "We want to understand how biology works."
+    },
+    {
+      "start": 4.7,
+      "end": 6.5,
+      "text": "I want to understand the genetics of this person."
+    },
+    {
+      "start": 6.5,
+      "end": 9.6,
+      "text": "I want to understand the risks they have to different illnesses."
+    },
+    {
+      "start": 9.6,
+      "end": 13.5,
+      "text": "My goal is to be able to treat the individual as an individual,"
+    },
+    {
+      "start": 13.5,
+      "end": 17.1,
+      "text": "understand the mechanisms and be able to intervene."
+    },
+    {
+      "start": 17.1,
+      "end": 20.900000000000002,
+      "text": "We'll have a bigger impact by getting this in more scientists and quicker,"
+    },
+    {
+      "start": 20.900000000000002,
+      "end": 23.1,
+      "text": "by doing it as open source projects instead."
+    },
+    {
+      "start": 23.1,
+      "end": 27.400000000000002,
+      "text": "It's not just like there's some factories somewhere that you can pay to produce the data."
+    },
+    {
+      "start": 27.400000000000002,
+      "end": 31.400000000000002,
+      "text": "You actually need to invent new novel scientific approaches."
+    },
+    {
+      "start": 31.400000000000002,
+      "end": 33.400000000000006,
+      "text": "The theory isn't that we're going to cure the diseases."
+    },
+    {
+      "start": 33.400000000000006,
+      "end": 34.400000000000006,
+      "text": "We're not."
+    },
+    {
+      "start": 34.400000000000006,
+      "end": 37.400000000000006,
+      "text": "It's that we want to help accelerate the pace of progress for the whole scientific field."
+    },
+    {
+      "start": 37.400000000000006,
+      "end": 41.900000000000006,
+      "text": "We folded over 1.1 billion proteins and predicted their structures"
+    },
+    {
+      "start": 41.900000000000006,
+      "end": 44.400000000000006,
+      "text": "and we didn't design a model for antibodies."
+    },
+    {
+      "start": 44.400000000000006,
+      "end": 47.900000000000006,
+      "text": "We didn't design a model to be able to bind one particular target."
+    },
+    {
+      "start": 47.900000000000006,
+      "end": 50.400000000000006,
+      "text": "We just designed a model that could understand proteins."
+    },
+    {
+      "start": 50.400000000000006,
+      "end": 55.900000000000006,
+      "text": "We could design a protein to actually change the physiology."
+    },
+    {
+      "start": 55.9,
+      "end": 58.4,
+      "text": "Then we can actually cure someone."
+    },
+    {
+      "start": 65.4,
+      "end": 68.9,
+      "text": "Today on No Pires, we're joined by Mark Zuckerberg, Priscilla Chan and Alex Reeves."
+    },
+    {
+      "start": 68.9,
+      "end": 71.9,
+      "text": "We'll be talking about biohub and all their various efforts"
+    },
+    {
+      "start": 71.9,
+      "end": 75.9,
+      "text": "to now start applying AI at scale to do world models of cells"
+    },
+    {
+      "start": 75.9,
+      "end": 78.9,
+      "text": "and different levels of interactions across biology."
+    },
+    {
+      "start": 78.9,
+      "end": 81.9,
+      "text": "Mark, Priscilla, thank you for doing this."
+    },
+    {
+      "start": 81.9,
+      "end": 82.9,
+      "text": "Yeah, thanks for having us."
+    },
+    {
+      "start": 82.9,
+      "end": 83.9,
+      "text": "Thanks for having us."
+    },
+    {
+      "start": 83.9,
+      "end": 85.9,
+      "text": "Alex, congratulations on new missions."
+    },
+    {
+      "start": 85.9,
+      "end": 86.9,
+      "text": "Thank you."
+    },
+    {
+      "start": 86.9,
+      "end": 90.9,
+      "text": "You guys made biohub your primary philanthropic effort"
+    },
+    {
+      "start": 90.9,
+      "end": 94.9,
+      "text": "and then committed $500 million to this virtual biology initiative."
+    },
+    {
+      "start": 94.9,
+      "end": 97.9,
+      "text": "Can you tell us a little bit about why do that"
+    },
+    {
+      "start": 97.9,
+      "end": 101.9,
+      "text": "and how did you go from we should fund this to this as like who we are?"
+    },
+    {
+      "start": 101.9,
+      "end": 105.9,
+      "text": "So biohub in its current form were super excited about."
+    },
+    {
+      "start": 105.9,
+      "end": 109.9,
+      "text": "We feel like it's a really good fit for who we are and what we bring to the table"
+    },
+    {
+      "start": 109.9,
+      "end": 111.9,
+      "text": "and what we can achieve together."
+    },
+    {
+      "start": 111.9,
+      "end": 116.9,
+      "text": "This work started 10 years ago when we were thinking about how can we give back"
+    },
+    {
+      "start": 116.9,
+      "end": 120.9,
+      "text": "and Mark wanted to build an organization"
+    },
+    {
+      "start": 120.9,
+      "end": 124.9,
+      "text": "that could cure prevent and manage all disease by the end of the century."
+    },
+    {
+      "start": 124.9,
+      "end": 128.9,
+      "text": "And we had a series of hilarious meetings with scientists"
+    },
+    {
+      "start": 128.9,
+      "end": 134.9,
+      "text": "that like famous Nobel Prize winning scientists were just laughing at us."
+    },
+    {
+      "start": 134.9,
+      "end": 136.9,
+      "text": "Is that was that your starting line?"
+    },
+    {
+      "start": 136.9,
+      "end": 137.9,
+      "text": "We're just going to cure all disease."
+    },
+    {
+      "start": 137.9,
+      "end": 138.9,
+      "text": "No, no, and to be clear,"
+    },
+    {
+      "start": 138.9,
+      "end": 141.9,
+      "text": "we don't think that we're going to be the ones curing the diseases."
+    },
+    {
+      "start": 141.9,
+      "end": 146.9,
+      "text": "Our goal is always to build tools that could accelerate the whole scientific fields"
+    },
+    {
+      "start": 146.9,
+      "end": 149.9,
+      "text": "that way the scientific field collectively could cure all the diseases."
+    },
+    {
+      "start": 149.9,
+      "end": 151.9,
+      "text": "But still people laughed at us."
+    },
+    {
+      "start": 151.9,
+      "end": 152.9,
+      "text": "But still people laughed at us."
+    },
+    {
+      "start": 152.9,
+      "end": 153.9,
+      "text": "By the end of the century was a stretch."
+    },
+    {
+      "start": 153.9,
+      "end": 155.9,
+      "text": "Now I think it's like too conservative."
+    },
+    {
+      "start": 155.9,
+      "end": 157.9,
+      "text": "And so we're kept being like,"
+    },
+    {
+      "start": 157.9,
+      "end": 162.9,
+      "text": "okay, well, we had these series of funny, awkward, educational conversations"
+    },
+    {
+      "start": 162.9,
+      "end": 164.9,
+      "text": "were like, okay, but like why?"
+    },
+    {
+      "start": 164.9,
+      "end": 167.9,
+      "text": "Why do you think it's impossible?"
+    },
+    {
+      "start": 167.9,
+      "end": 171.9,
+      "text": "And like, you know, just being the person in the room was just like,"
+    },
+    {
+      "start": 171.9,
+      "end": 173.9,
+      "text": "well, I don't know why you tell me."
+    },
+    {
+      "start": 173.9,
+      "end": 176.9,
+      "text": "Finally, we got people to like, they're like, fine, if you really must know."
+    },
+    {
+      "start": 176.9,
+      "end": 178.9,
+      "text": "And we're like, you know, we do."
+    },
+    {
+      "start": 178.9,
+      "end": 180.9,
+      "text": "It seems important."
+    },
+    {
+      "start": 180.9,
+      "end": 183.9,
+      "text": "It's, you know, they're like, well, we work in silos."
+    },
+    {
+      "start": 183.9,
+      "end": 187.9,
+      "text": "And when you publish information doesn't get shared,"
+    },
+    {
+      "start": 187.9,
+      "end": 189.9,
+      "text": "it gets locked up for long periods of time."
+    },
+    {
+      "start": 189.9,
+      "end": 193.9,
+      "text": "And we don't have tooling, you know, they gave the example of like,"
+    },
+    {
+      "start": 193.9,
+      "end": 198.9,
+      "text": "we build a great tool by one postdoc in the lab and it lives on their computer."
+    },
+    {
+      "start": 198.9,
+      "end": 200.9,
+      "text": "And when they graduate, the tool is gone."
+    },
+    {
+      "start": 200.9,
+      "end": 205.9,
+      "text": "And they just, it was, what we heard was very hard to build shared tools"
+    },
+    {
+      "start": 205.9,
+      "end": 210.9,
+      "text": "to move science faster, build a shared knowledge base to quickly move science faster."
+    },
+    {
+      "start": 210.9,
+      "end": 213.9,
+      "text": "And that's sort of where we begin and thinking about,"
+    },
+    {
+      "start": 213.9,
+      "end": 218.9,
+      "text": "okay, like if those are the problems, like what can we contribute?"
+    },
+    {
+      "start": 218.9,
+      "end": 219.9,
+      "text": "Yeah."
+    },
+    {
+      "start": 219.9,
+      "end": 224.9,
+      "text": "I mean, so the original biohub model was basically focus on long-term tool development"
+    },
+    {
+      "start": 224.9,
+      "end": 231.9,
+      "text": "by bringing together engineers and scientists across multiple universities"
+    },
+    {
+      "start": 231.9,
+      "end": 233.9,
+      "text": "to focus on long-term tool development."
+    },
+    {
+      "start": 233.9,
+      "end": 235.9,
+      "text": "And it basically, it, like, worked."
+    },
+    {
+      "start": 235.9,
+      "end": 240.9,
+      "text": "And, you know, we started off with, with CZI doing a number of different things."
+    },
+    {
+      "start": 240.9,
+      "end": 244.9,
+      "text": "And I think over time we just felt like, okay, the science piece is really working."
+    },
+    {
+      "start": 244.9,
+      "end": 248.9,
+      "text": "And we just kept on investing more and more and more in it until now it is basically"
+    },
+    {
+      "start": 248.9,
+      "end": 251.9,
+      "text": "the primary and main thing that we're doing."
+    },
+    {
+      "start": 251.9,
+      "end": 257.9,
+      "text": "And we've expanded the original San Francisco biohub to a handful now at this point."
+    },
+    {
+      "start": 257.9,
+      "end": 259.9,
+      "text": "There's New York, there's Chicago."
+    },
+    {
+      "start": 259.9,
+      "end": 263.9,
+      "text": "The real focus in the unifying theme at this point is,"
+    },
+    {
+      "start": 263.9,
+      "end": 269.9,
+      "text": "is the virtual biology initiative around taking the unique data sets"
+    },
+    {
+      "start": 269.9,
+      "end": 276.9,
+      "text": "that are able to be generated in order to model effectively starting"
+    },
+    {
+      "start": 276.90000000000003,
+      "end": 281.90000000000003,
+      "text": "with the smallest pieces of proteins but then eventually cells and whole biological systems."
+    },
+    {
+      "start": 281.90000000000003,
+      "end": 287.90000000000003,
+      "text": "But that's kind of how we've evolved is, you know, this idea that we talk about around"
+    },
+    {
+      "start": 287.90000000000003,
+      "end": 292.90000000000003,
+      "text": "that some of this is an AI problem and you want to build a Frontier AI lab."
+    },
+    {
+      "start": 292.90000000000003,
+      "end": 299.90000000000003,
+      "text": "But you need to couple that with a Frontier biology effort that can do the work of,"
+    },
+    {
+      "start": 299.90000000000003,
+      "end": 305.90000000000003,
+      "text": "of basically being able to understand and get the data that you need to actually be able"
+    },
+    {
+      "start": 305.90000000000003,
+      "end": 307.90000000000003,
+      "text": "to build these models."
+    },
+    {
+      "start": 307.90000000000003,
+      "end": 311.90000000000003,
+      "text": "Because unlike language models, there's just like a lot of data out there on the Internet."
+    },
+    {
+      "start": 311.90000000000003,
+      "end": 313.90000000000003,
+      "text": "And that's not really the case with biology."
+    },
+    {
+      "start": 313.90000000000003,
+      "end": 316.90000000000003,
+      "text": "I mean, there are obviously a bunch of different data sets that exist,"
+    },
+    {
+      "start": 316.90000000000003,
+      "end": 320.90000000000003,
+      "text": "that academia and scientists have generated over the decades."
+    },
+    {
+      "start": 320.90000000000003,
+      "end": 323.90000000000003,
+      "text": "But a lot of the stuff that I think we want to put into this, it doesn't exist."
+    },
+    {
+      "start": 323.90000000000003,
+      "end": 327.90000000000003,
+      "text": "Right, it's like you want to be able to visualize things that people haven't been able to see before,"
+    },
+    {
+      "start": 327.90000000000003,
+      "end": 329.90000000000003,
+      "text": "which is why we're doing the imaging work."
+    },
+    {
+      "start": 329.90000000000003,
+      "end": 332.90000000000003,
+      "text": "You want to be able to record things that are going on inside the body,"
+    },
+    {
+      "start": 332.90000000000003,
+      "end": 335.90000000000003,
+      "text": "which is why we're doing the kind of cellular engineering work."
+    },
+    {
+      "start": 335.90000000000003,
+      "end": 339.90000000000003,
+      "text": "You want to be able to measure things like inflammation in ways that haven't been possible,"
+    },
+    {
+      "start": 339.90000000000003,
+      "end": 343.90000000000003,
+      "text": "which is why the Chicago biohub is focused on building those kind of devices and being able to do that."
+    },
+    {
+      "start": 343.90000000000003,
+      "end": 350.90000000000003,
+      "text": "And that will fundamentally create new types of data sets that will allow new types of models."
+    },
+    {
+      "start": 350.90000000000003,
+      "end": 354.90000000000003,
+      "text": "And I think it's just a very exciting thing that I'm going back to what you're saying."
+    },
+    {
+      "start": 354.90000000000003,
+      "end": 365.90000000000003,
+      "text": "If the scientific field it primarily needs tool development that now is going to empower scientists across the field to do their work faster,"
+    },
+    {
+      "start": 365.90000000000003,
+      "end": 369.90000000000003,
+      "text": "that's what we think we can provide through this long-term focus on tool development."
+    },
+    {
+      "start": 369.90000000000003,
+      "end": 377.90000000000003,
+      "text": "But I think there's a fun through line on where we started and bringing us to our work"
+    },
+    {
+      "start": 377.90000000000003,
+      "end": 387.90000000000003,
+      "text": "with that Alex is driving now, is that our very first request for application RFA here was around single-cell sequencing."
+    },
+    {
+      "start": 387.90000000000003,
+      "end": 392.90000000000003,
+      "text": "And we wanted to look at sort of like the RNA that is transcribed in individual cells."
+    },
+    {
+      "start": 392.90000000000003,
+      "end": 400.90000000000003,
+      "text": "And that was possible, but it was still pretty early on in understanding how different cells were expressing their DNA."
+    },
+    {
+      "start": 400.90000000000003,
+      "end": 406.90000000000003,
+      "text": "To the point where at the beginning we were just funding methods, like getting people to describe how to do it,"
+    },
+    {
+      "start": 406.90000000000003,
+      "end": 408.90000000000003,
+      "text": "so that others could share that methodology."
+    },
+    {
+      "start": 408.90000000000003,
+      "end": 417.90000000000003,
+      "text": "And then that became us funding the human cell atlas, which is now one of the largest databases of single-cell transcriptomes."
+    },
+    {
+      "start": 417.90000000000003,
+      "end": 420.90000000000003,
+      "text": "It was getting hard for scientists to annotate the data."
+    },
+    {
+      "start": 420.90000000000003,
+      "end": 427.90000000000003,
+      "text": "So we built cell by gene, which was like a very simple annotation tool that scientists could use to make use of that data."
+    },
+    {
+      "start": 427.90000000000003,
+      "end": 434.90000000000003,
+      "text": "Then the community came around cell by gene, built around cell by gene, and started contributing more and more data"
+    },
+    {
+      "start": 434.90000000000003,
+      "end": 440.90000000000003,
+      "text": "that we had nothing to do with sort of creating or funding or making happen in the world."
+    },
+    {
+      "start": 440.90000000000003,
+      "end": 452.90000000000003,
+      "text": "And now cell by gene is a corpus of knowledge that a lot of the transcriptomic base models are based off of and is used regularly by the scientific community."
+    },
+    {
+      "start": 452.90000000000003,
+      "end": 461.90000000000003,
+      "text": "But still there are always critiques, like this is just stamp collecting, like you're just gathering bits of knowledge, sorry, bits of data."
+    },
+    {
+      "start": 461.90000000000003,
+      "end": 466.90000000000003,
+      "text": "And we're not going to be able to pull scientific knowledge and wisdom and insights out of."
+    },
+    {
+      "start": 466.90000000000003,
+      "end": 470.90000000000003,
+      "text": "And we're like, well, we didn't have an answer for a while."
+    },
+    {
+      "start": 470.90000000000003,
+      "end": 479.90000000000003,
+      "text": "And then imagine our delight when large language models became a huge topic of conversation that could make sense of large amounts of data."
+    },
+    {
+      "start": 479.90000000000003,
+      "end": 500.90000000000003,
+      "text": "And I just, for me, is like, what if we could actually understand how biology worked, move it from a discovery based science to an engineering based science, where we could systematically understand how living beings, living cells worked and be able to understand why things go wrong."
+    },
+    {
+      "start": 500.90000000000003,
+      "end": 506.90000000000003,
+      "text": "And so when we saw that moment, we're like, this is it, something really big could happen here."
+    },
+    {
+      "start": 506.90000000000003,
+      "end": 515.9000000000001,
+      "text": "Alex, you were, you started a metaphor, but you were on the path to, you know, you'd assemble the team in evolutionary scale and raise venture."
+    },
+    {
+      "start": 515.9000000000001,
+      "end": 522.9000000000001,
+      "text": "And you were making progress in your models. What was the pitch from Marc and Priscilla, you said, like, that's actually the right way to go after the mission."
+    },
+    {
+      "start": 522.9,
+      "end": 533.9,
+      "text": "Well, I think for me, it was really kind of the moment when I understood that, you know, they really saw this as an integration of frontier AI and frontier biology."
+    },
+    {
+      "start": 533.9,
+      "end": 547.9,
+      "text": "And I think I had developed conviction that, you know, this is really a new era of science that's that's just beginning kind of what's going to be possible with artificial intelligence and, you know, we're in the age of information theory at scale."
+    },
+    {
+      "start": 547.9,
+      "end": 556.9,
+      "text": "And we have these systems that can basically kind of predict the next token and they can, you know, learn world models from that they can learn biology from the data."
+    },
+    {
+      "start": 556.9,
+      "end": 569.9,
+      "text": "And so, you know, I, I think that it just, it was really clear that, you know, to build kind of that next, that next kind of institution for the next era, you would really need to have frontier artificial intelligence."
+    },
+    {
+      "start": 569.9,
+      "end": 576.9,
+      "text": "You would have to have frontier biology. You would need to start to put those things in feedback and really have models that are learning from the biology."
+    },
+    {
+      "start": 576.9,
+      "end": 581.9,
+      "text": "And I think, you know, just, and you'd need the right scale and the right people."
+    },
+    {
+      "start": 581.9,
+      "end": 585.9,
+      "text": "And so this, this just really felt, I think, like, the way to do that."
+    },
+    {
+      "start": 585.9,
+      "end": 598.9,
+      "text": "There's a variety of different models that you all have been working on. And I think it's kind of interesting because some of the earliest breakthroughs and biology were things like Alpha Fold, where, you know, there's a Google model that showed that you could do protein folding at scale in a really interesting way that people didn't realize"
+    },
+    {
+      "start": 598.9,
+      "end": 605.9,
+      "text": "was very tractable. And this was pre sort of the really big transformer waves that came later. And then you're working on a variety of different things at different scale, right?"
+    },
+    {
+      "start": 605.9,
+      "end": 613.9,
+      "text": "You're doing incremental molecular modeling and protein folding. You're doing cell-based stuff. You're thinking about interrogating larger scale systems and biology."
+    },
+    {
+      "start": 613.9,
+      "end": 622.9,
+      "text": "How well do you think that extends from sort of the micro to the macro? You mentioned almost starting with building blocks and building up, but modeling cellular behaviors very different from modeling protein folding."
+    },
+    {
+      "start": 622.9,
+      "end": 634.9,
+      "text": "The data is very different. The modeling is different. I'm just curious, like, do you think it's all similar in terms of this data and you train stuff, or do you think it's actually there's some differences in terms of how you actually have to deal with these systems?"
+    },
+    {
+      "start": 634.9,
+      "end": 644.9,
+      "text": "I mean, there are probably some differences. I mean, you can probably talk more to the specifics around this. But like, I mean, I think each layer is going to end up being somewhat qualitatively different, right?"
+    },
+    {
+      "start": 644.9,
+      "end": 653.9,
+      "text": "But you need to be able to understand the protein interactions in order to be able to understand how cells work. So you can't just go straight to cells in a way without understanding the protein modeling."
+    },
+    {
+      "start": 653.9,
+      "end": 663.9,
+      "text": "And then if you're trying to understand something like the way the immune system works or a bunch of cells interact together, then it's tough to do that without first understanding cells."
+    },
+    {
+      "start": 663.9,
+      "end": 672.9,
+      "text": "I mean, you might be able to at like a very high level of abstraction simulate a system. But if you really want to like understand how it's going to work, you kind of want to build the simulations at each level hierarchically."
+    },
+    {
+      "start": 672.9,
+      "end": 683.9,
+      "text": "So that's basically the approach that we're going through starting with the building locks and the protein. But yeah, I mean, I think that there's going to be different types of data that you want to collect for each."
+    },
+    {
+      "start": 683.9,
+      "end": 693.9,
+      "text": "The modeling techniques, I think we'll see. I mean, that'll all keep on advancing across the board. But I do think that a big part of the strategy is this view that you need to build it up hierarchically."
+    },
+    {
+      "start": 694.9,
+      "end": 705.9,
+      "text": "And, you know, one of the things that's unique about us in the space is we were very intentional that the AI efforts and the wet lab efforts were a single effort."
+    },
+    {
+      "start": 705.9,
+      "end": 718.9,
+      "text": "And we've done a lot of work to bring them together. And the really neat thing that we can do is really try to pull and gather data that helps us connect across sort of the hierarchy."
+    },
+    {
+      "start": 718.9,
+      "end": 724.9,
+      "text": "You know, you can look at transcriptomics with space within a cell and look at where it's localizing."
+    },
+    {
+      "start": 724.9,
+      "end": 737.9,
+      "text": "We can look at translucent zebrafish and look at the development across different cells. And when the brain develops, we have sensors that allow us to look at cell cell communication and different molecules."
+    },
+    {
+      "start": 737.9,
+      "end": 754.9,
+      "text": "And so we can be strategic about the types of experiments and data we want to collect that helps us bridge across these that makes it so that there's some connective tissue that helps drive the modeling that, you know, the modeling magic that happens."
+    },
+    {
+      "start": 754.9,
+      "end": 760.9,
+      "text": "Yeah, the reason I asked a question by the way is I used to be a biologist. I have a PhD biology and I worked at wet labs for almost a decade and everything else."
+    },
+    {
+      "start": 760.9,
+      "end": 762.9,
+      "text": "Are you looking for a job?"
+    },
+    {
+      "start": 762.9,
+      "end": 769.9,
+      "text": "We can talk about that."
+    },
+    {
+      "start": 769.9,
+      "end": 787.9,
+      "text": "I'm like Danny Glover, you know, I think one of the things it was always lacking was this integrative nature across the different layers of biology and the developmental biologists would work on their own and molecular biologists would be different experiments."
+    },
+    {
+      "start": 787.9,
+      "end": 789.9,
+      "text": "And so that's what I was curious about."
+    },
+    {
+      "start": 789.9,
+      "end": 794.9,
+      "text": "Typically there's a reductionist view of biology and there's a systems view and those people didn't really work together deeply."
+    },
+    {
+      "start": 794.9,
+      "end": 800.9,
+      "text": "And so one of the exciting things about what you're doing actually is how you're bridging that. And so that's that was kind of the basis for the question as well."
+    },
+    {
+      "start": 800.9,
+      "end": 807.9,
+      "text": "Yeah, and if I could add something there, you know, I think that, you know, we're in the age of this kind of information theory and biology."
+    },
+    {
+      "start": 807.9,
+      "end": 818.9,
+      "text": "You know, there are levels of complexity and hierarchy and biology and kind of each level is made up of and you know, constituted by the lower levels."
+    },
+    {
+      "start": 818.9,
+      "end": 830.9,
+      "text": "And so as you want to have that kind of more complete description and you want to have systems that can really generalize and begin to actually answer, you know, experimental questions digitally that you could ask in the lab."
+    },
+    {
+      "start": 830.9,
+      "end": 834.9,
+      "text": "You know, you need to have kind of the right basis for modeling at every level."
+    },
+    {
+      "start": 834.9,
+      "end": 844.9,
+      "text": "So I think what's really unique about what we can do is to as as as Priscilla and Mark were saying, you know, really build information at each of these different layers."
+    },
+    {
+      "start": 844.9,
+      "end": 854.9,
+      "text": "Collect them collect kind of those connection points, but then also really kind of do it at the scale that will reveal that underlying information architecture."
+    },
+    {
+      "start": 854.9,
+      "end": 861.9,
+      "text": "And that's going to be really critical to actually be able to build digital representations that can answer new experimental questions."
+    },
+    {
+      "start": 861.9,
+      "end": 878.9,
+      "text": "One of the things that inspires me most about this effort is really what Priscilla said, which is like, well, there's so much we actually don't understand about biology and what if we could, which I think is actually very different from lots of other incredibly interesting and useful AI problems we attack were like trying to replicate human behavior."
+    },
+    {
+      "start": 878.9,
+      "end": 886.9,
+      "text": "And I'm like, a lot of that data is, you know, on the internet or captured without pretending to understand all human behavior, you can predict a lot of it."
+    },
+    {
+      "start": 886.9,
+      "end": 900.9,
+      "text": "I thought one of the most interesting things in your release was actually, you know, the like mechanistic interpretability stuff you alluded to, which is, can we actually extract new knowledge from, you know, what the model believes is happening, right."
+    },
+    {
+      "start": 900.9,
+      "end": 902.9,
+      "text": "Can you talk a little bit about that?"
+    },
+    {
+      "start": 902.9,
+      "end": 904.9,
+      "text": "Yeah, I'm really excited about that."
+    },
+    {
+      "start": 904.9,
+      "end": 915.9,
+      "text": "So I think, you know, in mechanistic interpretability, kind of traditionally, it's been applied to large language models with the goal of understanding, you know, kind of what is the representation space of a large language model."
+    },
+    {
+      "start": 915.9,
+      "end": 924.9,
+      "text": "How does it compute things and does that really connect to, you know, what we understand about our intuitive understanding of the world."
+    },
+    {
+      "start": 924.9,
+      "end": 931.9,
+      "text": "And so there's, I think this really rich toolkit that has been developed to start to be able to ask those questions."
+    },
+    {
+      "start": 931.9,
+      "end": 934.9,
+      "text": "So kind of what does that mean for biology?"
+    },
+    {
+      "start": 934.9,
+      "end": 938.9,
+      "text": "One of the classes of models that we train are these protein language models."
+    },
+    {
+      "start": 938.9,
+      "end": 944.9,
+      "text": "So they're really, you know, it's trained on the cause of proteins. And so anything they learn about biology is kind of emergent."
+    },
+    {
+      "start": 944.9,
+      "end": 953.9,
+      "text": "And we've seen that they can learn things like biological structure and biological function. And that's just kind of emergent from this, you know, token prediction training task."
+    },
+    {
+      "start": 953.9,
+      "end": 964.9,
+      "text": "So, you know, as we think about like mechanistic interpretability in those models, you know, we're really seeing the unknown because the models have been trained on billions of protein sequences."
+    },
+    {
+      "start": 964.9,
+      "end": 968.9,
+      "text": "They've been trained on, you know, both known and unknown biology."
+    },
+    {
+      "start": 968.9,
+      "end": 978.9,
+      "text": "And yet they're developing these representations that start to kind of capture things that we can really see correspond to that reductive picture of biology that's been built up over the centuries."
+    },
+    {
+      "start": 978.9,
+      "end": 995.9,
+      "text": "So kind of, you can, you can start to connect the dots between proteins where we kind of really don't know anything about them with proteins where we do know something because there's that kind of underlying structure grammar that's, that's linking them in the representation space of the model."
+    },
+    {
+      "start": 995.9,
+      "end": 1003.9,
+      "text": "And at the extreme, it could be, you know, we're going to understand systems in the body that we didn't before or the mechanism of action for a new treatment."
+    },
+    {
+      "start": 1003.9,
+      "end": 1007.9,
+      "text": "And because we can ask the model, right, interrogate that representation."
+    },
+    {
+      "start": 1007.9,
+      "end": 1012.9,
+      "text": "That's right. The hope is that you kind of really learn the underlying basis for how it's making the predictions."
+    },
+    {
+      "start": 1012.9,
+      "end": 1018.9,
+      "text": "And so you open up the black box and you can actually understand kind of the biology that the model is representing."
+    },
+    {
+      "start": 1018.9,
+      "end": 1027.9,
+      "text": "So asking for a friend, you know, you guys all believe in venture backed companies is a way to have impact on the world."
+    },
+    {
+      "start": 1028.9,
+      "end": 1043.9,
+      "text": "What was it like collecting data on zebrafish or the span of the data or the wet lab work or just the scale, like what makes this a better fit for this big nonprofit, you know, ecosystem effort versus a venture backed company."
+    },
+    {
+      "start": 1043.9,
+      "end": 1052.9,
+      "text": "Well, I think we just want to give tools to the whole scientific community. And I mean, like, so I think in order to have the biggest impact, I mean, part of it is just work."
+    },
+    {
+      "start": 1052.9,
+      "end": 1058.9,
+      "text": "I mean, it's not actually clear that we couldn't run it as a business if we wanted to."
+    },
+    {
+      "start": 1058.9,
+      "end": 1067.9,
+      "text": "I just think that we'll have a bigger impact by getting this and more scientists and quicker by doing it as open source projects instead."
+    },
+    {
+      "start": 1067.9,
+      "end": 1073.9,
+      "text": "So, yeah, I mean, I think that that's that's kind of the approach. But I don't know. It's an interesting question."
+    },
+    {
+      "start": 1073.9,
+      "end": 1081.9,
+      "text": "I'm not sure that I mean, obviously you were doing it as a as a nonprofit as a for-profit company, a bunch of the modeling before."
+    },
+    {
+      "start": 1081.9,
+      "end": 1086.9,
+      "text": "Then you run into certain issues and you have to raise a large amount of money in order to build a compute clusters."
+    },
+    {
+      "start": 1086.9,
+      "end": 1091.9,
+      "text": "You know, I mean, I think a lot of ways the data is actually even more of a constraint."
+    },
+    {
+      "start": 1091.9,
+      "end": 1100.9,
+      "text": "And because if you look at like the scale of these models compared to language models, they're smaller, but they're smaller because the amount of data is less."
+    },
+    {
+      "start": 1100.9,
+      "end": 1107.9,
+      "text": "In order to get the data, it's not just like there's some factory somewhere that you can pay to produce the data."
+    },
+    {
+      "start": 1107.9,
+      "end": 1118.9,
+      "text": "Like you actually need to invent new novel scientific approaches to be able to do the, for example, the type of cellular engineering we're doing in New York or the types of devices in Chicago,"
+    },
+    {
+      "start": 1118.9,
+      "end": 1127.9,
+      "text": "which is why when we're talking about this concept of frontier biology and frontier AI, the frontier biology is you need to do real science to advance different biological methods"
+    },
+    {
+      "start": 1127.9,
+      "end": 1132.9,
+      "text": "in order to be able to observe the things that create the data that go into the model."
+    },
+    {
+      "start": 1132.9,
+      "end": 1135.9,
+      "text": "So it's not just like an off-the-shelf thing that you can create."
+    },
+    {
+      "start": 1135.9,
+      "end": 1141.9,
+      "text": "Now, that's a pretty big effort. I don't know that there are like that many things like that that are done as biotechs."
+    },
+    {
+      "start": 1141.9,
+      "end": 1148.9,
+      "text": "I think it's just the scale of the ambition of what we're doing, the horizon over which we're committed to doing it."
+    },
+    {
+      "start": 1148.9,
+      "end": 1156.9,
+      "text": "I think part of the theory is like if you're building tools that are this complicated, you kind of want to have a 10 to 15 year time horizon"
+    },
+    {
+      "start": 1156.9,
+      "end": 1161.9,
+      "text": "on building out these efforts. Then the scale of capital required."
+    },
+    {
+      "start": 1161.9,
+      "end": 1166.9,
+      "text": "I mean, I guess there's no rule that said that you couldn't do it as like an incredibly well-funded startup."
+    },
+    {
+      "start": 1166.9,
+      "end": 1169.9,
+      "text": "But I think that this just made more sense."
+    },
+    {
+      "start": 1169.9,
+      "end": 1175.9,
+      "text": "It also is simplifying strategically to not have to think about how you're going to make money with the different things."
+    },
+    {
+      "start": 1175.9,
+      "end": 1179.9,
+      "text": "We want to get the models in people's hands, we release them as open source."
+    },
+    {
+      "start": 1179.9,
+      "end": 1182.9,
+      "text": "I think that that's a very valuable thing to do."
+    },
+    {
+      "start": 1182.9,
+      "end": 1186.9,
+      "text": "Again, the theory isn't that we're going to cure the diseases, we're not."
+    },
+    {
+      "start": 1186.9,
+      "end": 1190.9,
+      "text": "It's that we want to help accelerate the pace of progress for the whole scientific field."
+    },
+    {
+      "start": 1190.9,
+      "end": 1203.9,
+      "text": "As the person least experienced with making money here, I would say that the sort of neutral nonprofit nature of our work actually helps harness more people to enter this effort."
+    },
+    {
+      "start": 1203.9,
+      "end": 1212.9,
+      "text": "And to actually achieve the mission of like understanding the totality of human biology and to care, prevent, manage all disease."
+    },
+    {
+      "start": 1212.9,
+      "end": 1222.9,
+      "text": "You actually do need the entire academic biotech industry to come together and to work on this in a sort of unified way."
+    },
+    {
+      "start": 1222.9,
+      "end": 1229.9,
+      "text": "In part because there's a lot of talent out there and it's not helpful to leave any talent, exclude any talent from the effort."
+    },
+    {
+      "start": 1229.9,
+      "end": 1233.9,
+      "text": "And there's a super long tail of diseases."
+    },
+    {
+      "start": 1233.9,
+      "end": 1246.9,
+      "text": "There are the common ones and even the common ones, I think if you unbundle heart disease, cancer, neurogygeneral diseases, even if you unbundle like dementia or depression."
+    },
+    {
+      "start": 1246.9,
+      "end": 1251.9,
+      "text": "There are many, many, many subcategories that become more and more niche."
+    },
+    {
+      "start": 1251.9,
+      "end": 1255.9,
+      "text": "And that's not even looking at the long, long tail of rare diseases."
+    },
+    {
+      "start": 1255.9,
+      "end": 1263.9,
+      "text": "Those often get orphaned and don't get brought along when we're sort of looking at with the most efficient way to impact the lives of money."
+    },
+    {
+      "start": 1263.9,
+      "end": 1269.9,
+      "text": "But if you sort of decentralize the effort and put the tools in many people's hands, you start getting people who are like,"
+    },
+    {
+      "start": 1269.9,
+      "end": 1273.9,
+      "text": "you know what? I am super interested in spinal muscular atrophy."
+    },
+    {
+      "start": 1273.9,
+      "end": 1275.9,
+      "text": "And that's something I care deeply about."
+    },
+    {
+      "start": 1275.9,
+      "end": 1284.9,
+      "text": "And if you put the tools in that person's hands, they're going to be able to make progress in a way if you had to focus your efforts and make big bets."
+    },
+    {
+      "start": 1284.9,
+      "end": 1292.9,
+      "text": "You probably wouldn't because it's just a niche individual small group disease."
+    },
+    {
+      "start": 1292.9,
+      "end": 1301.9,
+      "text": "That actually will in turn, if we can understand that disease process helps us unlock knowledge about a lot more about the human about how the human body works."
+    },
+    {
+      "start": 1301.9,
+      "end": 1305.9,
+      "text": "Do you have any thoughts or predictions in terms of what disease areas this work will impact first?"
+    },
+    {
+      "start": 1305.9,
+      "end": 1310.9,
+      "text": "I know it's very hard to be predictive about these things, but just given the nature of the work and the nature of the model."
+    },
+    {
+      "start": 1310.9,
+      "end": 1314.9,
+      "text": "So there are areas you're most optimistic about in the short to medium term."
+    },
+    {
+      "start": 1314.9,
+      "end": 1317.9,
+      "text": "That's actually not how I think about it at least."
+    },
+    {
+      "start": 1317.9,
+      "end": 1321.9,
+      "text": "The way I think about it is like we want to understand how biology works."
+    },
+    {
+      "start": 1321.9,
+      "end": 1327.9,
+      "text": "The ideal world is you would say, I understand the genetics of this person."
+    },
+    {
+      "start": 1327.9,
+      "end": 1330.9,
+      "text": "So I want to think about people at the individual level."
+    },
+    {
+      "start": 1330.9,
+      "end": 1332.9,
+      "text": "I want to understand the genetics of this person."
+    },
+    {
+      "start": 1332.9,
+      "end": 1335.9,
+      "text": "I want to understand the risks they have to different illnesses."
+    },
+    {
+      "start": 1336.9,
+      "end": 1346.9,
+      "text": "I want to understand the mechanistic connection between say a gene variant, a protein in a disease process."
+    },
+    {
+      "start": 1346.9,
+      "end": 1354.9,
+      "text": "Because if you understand that through chain, then you can design a protein, design a drug, but spoke to them and actually make an intervention."
+    },
+    {
+      "start": 1354.9,
+      "end": 1359.9,
+      "text": "And right now, I'm sure we've all had experiences being sick."
+    },
+    {
+      "start": 1359.9,
+      "end": 1368.9,
+      "text": "And if you have something that's even remotely non-standard, you go into PubMed, you look up a paper, you look up the supplement,"
+    },
+    {
+      "start": 1368.9,
+      "end": 1373.9,
+      "text": "and then you start going through the methods, and you're like, am I represented in this paper?"
+    },
+    {
+      "start": 1373.9,
+      "end": 1375.9,
+      "text": "And we're just making guesses."
+    },
+    {
+      "start": 1375.9,
+      "end": 1378.9,
+      "text": "We really have no mechanistic understanding."
+    },
+    {
+      "start": 1378.9,
+      "end": 1382.9,
+      "text": "We're saying like, okay, you're kind of like these people that we studied."
+    },
+    {
+      "start": 1382.9,
+      "end": 1387.9,
+      "text": "And this drug kind of impacts the pathway that we think is implicated."
+    },
+    {
+      "start": 1387.9,
+      "end": 1391.9,
+      "text": "Let's try and see if anything happens."
+    },
+    {
+      "start": 1391.9,
+      "end": 1396.9,
+      "text": "And time passes, and sometimes it works, and sometimes it doesn't."
+    },
+    {
+      "start": 1396.9,
+      "end": 1404.9,
+      "text": "So my goal is to be able to treat the individual as an individual, understand the mechanisms and be able to intervene."
+    },
+    {
+      "start": 1404.9,
+      "end": 1410.9,
+      "text": "And there are different diseases that are at different stages of filling out that whole through line."
+    },
+    {
+      "start": 1410.9,
+      "end": 1418.9,
+      "text": "And so for some diseases, you just want to understand which gene variants actually cause disease and which don't."
+    },
+    {
+      "start": 1418.9,
+      "end": 1423.9,
+      "text": "And that is, that in itself can be super empowering to patients."
+    },
+    {
+      "start": 1423.9,
+      "end": 1433.9,
+      "text": "And if beyond that, there are some diseases where we understand the chain, we just can't intervene and change a specific protein function."
+    },
+    {
+      "start": 1433.9,
+      "end": 1443.9,
+      "text": "That's super exciting too. Like if we could design a protein to actually change the physiology, then we can actually cure someone."
+    },
+    {
+      "start": 1443.9,
+      "end": 1452.9,
+      "text": "But to me, like, that is just as exciting as understanding, contributing to our understanding of like how someone gets sick in the first."
+    },
+    {
+      "start": 1452.9,
+      "end": 1458.9,
+      "text": "Yeah, and that's a very exciting vision because you're basically saying you can bring generalizable tools to provide very personalized things for each individual person."
+    },
+    {
+      "start": 1458.9,
+      "end": 1463.9,
+      "text": "Yes. And that's the power of the approaches. You have these big models that you build that can then apply anywhere."
+    },
+    {
+      "start": 1463.9,
+      "end": 1469.9,
+      "text": "I know that you mentioned earlier that you were going to try and to prevent all diseases within a hundred years."
+    },
+    {
+      "start": 1469.9,
+      "end": 1472.9,
+      "text": "And you mentioned, hey, it could actually be sooner now given all the advances in AI."
+    },
+    {
+      "start": 1472.9,
+      "end": 1476.9,
+      "text": "Do you have some thought of when we think we'll be closer to that goal or something?"
+    },
+    {
+      "start": 1476.9,
+      "end": 1481.9,
+      "text": "I mean, I'm optimistic it'll be sooner. I mean, I think the thing that's complicated is that it's a dynamic system."
+    },
+    {
+      "start": 1481.9,
+      "end": 1486.9,
+      "text": "Right? So if you fix something, there will obviously be future things that you need to work on."
+    },
+    {
+      "start": 1486.9,
+      "end": 1491.9,
+      "text": "So I don't think that the current set of things that we're aware of are going to be the only things that need to get worked out."
+    },
+    {
+      "start": 1491.9,
+      "end": 1499.9,
+      "text": "But I think that the progress with AI is really is obviously very exciting on this."
+    },
+    {
+      "start": 1499.9,
+      "end": 1510.9,
+      "text": "The other thing that I'd say just adding to what you were saying a second ago is we really look at more kind of systems"
+    },
+    {
+      "start": 1510.9,
+      "end": 1513.9,
+      "text": "than specific diseases."
+    },
+    {
+      "start": 1513.9,
+      "end": 1518.9,
+      "text": "So for example, one area that seems really important to understand is inflammation."
+    },
+    {
+      "start": 1518.9,
+      "end": 1521.9,
+      "text": "We talked about this a bunch. This is a big focus of the Chicago bio hub."
+    },
+    {
+      "start": 1521.9,
+      "end": 1528.9,
+      "text": "There's a lot of data on that. It seems quite clear that it's connected to a bunch of different diseases."
+    },
+    {
+      "start": 1528.9,
+      "end": 1535.9,
+      "text": "But rather than studying the specific diseases, we think that by trying to understand inflammation more broadly,"
+    },
+    {
+      "start": 1535.9,
+      "end": 1541.9,
+      "text": "that will make it so that other companies that can then use these tools can work on specific therapies."
+    },
+    {
+      "start": 1541.9,
+      "end": 1553.9,
+      "text": "Another example is I think that the immune system, I think, is a very good case to study for some of the work that we're doing in cellular engineering."
+    },
+    {
+      "start": 1553.9,
+      "end": 1558.9,
+      "text": "And when we're kind of ladder up from proteins to cells to like whole dynamic systems within the body,"
+    },
+    {
+      "start": 1558.9,
+      "end": 1563.9,
+      "text": "I think that that one makes sense. I mean, it's sort of privileged that the cells can travel around through the body, all that."
+    },
+    {
+      "start": 1563.9,
+      "end": 1567.9,
+      "text": "So obviously that has a big part in addressing different diseases."
+    },
+    {
+      "start": 1567.9,
+      "end": 1569.9,
+      "text": "How do you make the immune system function better?"
+    },
+    {
+      "start": 1569.9,
+      "end": 1572.9,
+      "text": "But exactly how do you connect that last mile?"
+    },
+    {
+      "start": 1572.9,
+      "end": 1579.9,
+      "text": "I think it's going to be more something that biotech or other academics individually studying things will be better suited to do."
+    },
+    {
+      "start": 1579.9,
+      "end": 1585.9,
+      "text": "So this is kind of how we think about building up the tool set that just helps accelerate all these other folks."
+    },
+    {
+      "start": 1585.9,
+      "end": 1590.9,
+      "text": "Whether the timeline is 10 years, hopefully less than 100 now."
+    },
+    {
+      "start": 1590.9,
+      "end": 1598.9,
+      "text": "I think it's useful for maybe your average doctor or patient, human being, everybody's a patient,"
+    },
+    {
+      "start": 1598.9,
+      "end": 1602.9,
+      "text": "to think about what's externally visible in the progress here."
+    },
+    {
+      "start": 1602.9,
+      "end": 1605.9,
+      "text": "You worked with patients for a long time at UCSF."
+    },
+    {
+      "start": 1605.9,
+      "end": 1611.9,
+      "text": "What should doctors look out for? What should people look out for if you're actually accelerating progress?"
+    },
+    {
+      "start": 1611.9,
+      "end": 1620.9,
+      "text": "I'm super excited about the progress, especially with this launch that Alex and his team have put forth."
+    },
+    {
+      "start": 1620.9,
+      "end": 1625.9,
+      "text": "And I think it's very clear that science is going to start moving pretty quickly."
+    },
+    {
+      "start": 1625.9,
+      "end": 1635.9,
+      "text": "And I think the thing that's less clear to me is exactly how we translate to the clinic and what that looks like."
+    },
+    {
+      "start": 1635.9,
+      "end": 1640.9,
+      "text": "I think what has to change is actually the way we do clinical research."
+    },
+    {
+      "start": 1640.9,
+      "end": 1648.9,
+      "text": "And my hope is that we're really shortening the distance between bench research and patient impact."
+    },
+    {
+      "start": 1648.9,
+      "end": 1660.9,
+      "text": "But there's a lot of steps there that we need people who actually take care of patients to think creatively and think about how to deploy safely."
+    },
+    {
+      "start": 1660.9,
+      "end": 1664.9,
+      "text": "That's a gap that we have some work in."
+    },
+    {
+      "start": 1664.9,
+      "end": 1670.9,
+      "text": "We partner with Jennifer down on a CRISPR cures program at UCSF."
+    },
+    {
+      "start": 1670.9,
+      "end": 1680.9,
+      "text": "So we were dipping our toe in understanding how the deployment of research needs to change, given how quickly research will be progressing."
+    },
+    {
+      "start": 1680.9,
+      "end": 1684.9,
+      "text": "But that one is still I think is still shaping up."
+    },
+    {
+      "start": 1684.9,
+      "end": 1687.9,
+      "text": "Maybe I could say something about our most recent launch."
+    },
+    {
+      "start": 1687.9,
+      "end": 1690.9,
+      "text": "I think it also is."
+    },
+    {
+      "start": 1690.9,
+      "end": 1695.9,
+      "text": "Yeah, so you know, because I guess it was just a week ago about now."
+    },
+    {
+      "start": 1695.9,
+      "end": 1699.9,
+      "text": "So we announced the new ESM fold."
+    },
+    {
+      "start": 1699.9,
+      "end": 1706.9,
+      "text": "And so this is basically an open system for scientific discovery and protein biology."
+    },
+    {
+      "start": 1706.9,
+      "end": 1710.9,
+      "text": "It's a world model of protein biology that's been trained."
+    },
+    {
+      "start": 1710.9,
+      "end": 1713.9,
+      "text": "It's a language model base."
+    },
+    {
+      "start": 1713.9,
+      "end": 1716.9,
+      "text": "So it's been trained on billions of protein sequences."
+    },
+    {
+      "start": 1716.9,
+      "end": 1720.9,
+      "text": "Kind of learns these emergent representations of protein biology."
+    },
+    {
+      "start": 1720.9,
+      "end": 1725.9,
+      "text": "And then we can use it to make predictions of atomic resolution, protein structure."
+    },
+    {
+      "start": 1725.9,
+      "end": 1727.9,
+      "text": "And we can use it to."
+    },
+    {
+      "start": 1727.9,
+      "end": 1728.9,
+      "text": "And it's really fast."
+    },
+    {
+      "start": 1728.9,
+      "end": 1729.9,
+      "text": "So it's blazing fast."
+    },
+    {
+      "start": 1729.9,
+      "end": 1731.9,
+      "text": "It's kind of."
+    },
+    {
+      "start": 1731.9,
+      "end": 1738.9,
+      "text": "You know, illustrating this Pareto optimal frontier of kind of speed and accuracy in structure prediction."
+    },
+    {
+      "start": 1738.9,
+      "end": 1744.9,
+      "text": "It allows us to kind of characterize, you know, really vast kind of stretches of the protein universe."
+    },
+    {
+      "start": 1744.9,
+      "end": 1755.9,
+      "text": "So we folded over 1.1 billion proteins and predicted their structures and identified kind of features connecting all of them through mechanistic interpretability."
+    },
+    {
+      "start": 1755.9,
+      "end": 1764.9,
+      "text": "But I think the thing that that I thought was most exciting about this model is it's this really general model of kind of protein biology."
+    },
+    {
+      "start": 1764.9,
+      "end": 1766.9,
+      "text": "And you can use it as a world model."
+    },
+    {
+      "start": 1766.9,
+      "end": 1771.9,
+      "text": "You can actually really start to search the space of the world model to design new proteins."
+    },
+    {
+      "start": 1771.9,
+      "end": 1779.9,
+      "text": "And it's it's really, you know, hitting state of the art across pretty much every structure prediction benchmark."
+    },
+    {
+      "start": 1779.9,
+      "end": 1788.9,
+      "text": "And especially on protein protein interactions and protein antibody interactions, which is really critical for therapeutic design."
+    },
+    {
+      "start": 1788.9,
+      "end": 1796.9,
+      "text": "And so what we found is you can actually now use the model to design proteins and to design actually single chain antibodies."
+    },
+    {
+      "start": 1796.9,
+      "end": 1804.9,
+      "text": "And so you can do all of this digitally and then, you know, really in a small number of experimental trials basically like a 96 well played."
+    },
+    {
+      "start": 1804.9,
+      "end": 1817.9,
+      "text": "You know, select select from hundreds of thousands of trajectories digitally actually synthesize, you know, 96 proteins tested in the lab in a really kind of short easy experimental cycle."
+    },
+    {
+      "start": 1817.9,
+      "end": 1825.9,
+      "text": "And we found nanomolar binders there. And so, you know, that's really the level for therapeutic activity."
+    },
+    {
+      "start": 1825.9,
+      "end": 1834.9,
+      "text": "So it's really, I think, showing that you can have these kind of general purpose models that can, you know, we didn't design a model for antibodies."
+    },
+    {
+      "start": 1834.9,
+      "end": 1839.9,
+      "text": "We didn't design a model to, you know, to be able to bind one particular target."
+    },
+    {
+      "start": 1839.9,
+      "end": 1846.9,
+      "text": "You know, we just designed a model that could understand proteins and you kind of get protein design as an emergent property."
+    },
+    {
+      "start": 1846.9,
+      "end": 1859.9,
+      "text": "And then I also think it illustrates this, this kind of the power of open science and open source, because you know, we released this is basically an open discovery engine. And so really anyone can build on it."
+    },
+    {
+      "start": 1859.9,
+      "end": 1870.9,
+      "text": "And so it takes what are these really intensive laboratory experiments where, you know, you have to screen through hundreds of thousands or millions of antibodies and high throughput screens in the lab."
+    },
+    {
+      "start": 1870.9,
+      "end": 1876.9,
+      "text": "You know, you can really just kind of spin up an instance and compute. And now, you know, be able to generate antibodies."
+    },
+    {
+      "start": 1876.9,
+      "end": 1885.9,
+      "text": "You should say more about sort of like we took that data when we did an antibody screen. And then we validated, we looked at PDL and cells."
+    },
+    {
+      "start": 1885.9,
+      "end": 1893.9,
+      "text": "And then we looked at it under the cryoEM and sort of how all that compliment validated the what you were seeing in the models."
+    },
+    {
+      "start": 1893.9,
+      "end": 1911.9,
+      "text": "That's right. Yeah. So, I mean, I think it's really critical, you know, to actually go and characterize these molecules in the lab. And it's, you know, we have a structural biology center here. We have incredibly powerful cryoEM microscopes."
+    },
+    {
+      "start": 1911.9,
+      "end": 1924.9,
+      "text": "And, and so we're really able to kind of look at these proteins biophysically and functionally. And so, you know, we designed proteins for several therapeutically relevant targets. And we're able to confirm their, their function."
+    },
+    {
+      "start": 1924.9,
+      "end": 1927.9,
+      "text": "It's like when it works the way it's posted."
+    },
+    {
+      "start": 1927.9,
+      "end": 1930.9,
+      "text": "Yeah, that's right. And as I look at the structure also."
+    },
+    {
+      "start": 1930.9,
+      "end": 1934.9,
+      "text": "Yeah. So you can see atomic resolution kind of the binding our faces."
+    },
+    {
+      "start": 1934.9,
+      "end": 1938.9,
+      "text": "I know a lot of your work is really focused on basic research and kind of building other fundamentals."
+    },
+    {
+      "start": 1938.9,
+      "end": 1945.9,
+      "text": "If I look at actual translation into drugs or drug development often the clinical trial will be 15 years, it'll cost $1.5 billion."
+    },
+    {
+      "start": 1945.9,
+      "end": 1951.9,
+      "text": "About 50 million of that often is the molecule and preclinical work and it's a few years of work in the other 1.45 billion."
+    },
+    {
+      "start": 1951.9,
+      "end": 1958.9,
+      "text": "And decade plus is actually the drug development side of it. A lot of that seems to be gated on some regulatory issues."
+    },
+    {
+      "start": 1958.9,
+      "end": 1966.9,
+      "text": "Some of its recruitment. It's a variety of things, but a lot of it also has to do with the failure of drugs and trials around things like absorption or toxicity or things like that."
+    },
+    {
+      "start": 1966.9,
+      "end": 1975.9,
+      "text": "If you consider it all tackling that other chain of sort of molecular design and thinking or is the primary focus more on the basic biology and sort of the initial sort of molecules."
+    },
+    {
+      "start": 1975.9,
+      "end": 1985.9,
+      "text": "I mean, at least my hope in building this like comprehensive model of how, you know, cells work is actually also being able to predict off target effects."
+    },
+    {
+      "start": 1985.9,
+      "end": 1990.9,
+      "text": "I think you can do some of that actually with biological models."
+    },
+    {
+      "start": 1990.9,
+      "end": 1996.9,
+      "text": "Because right now some of the off target effects are we just didn't know, you know, your kidney cell also express this receptor."
+    },
+    {
+      "start": 1996.9,
+      "end": 2001.9,
+      "text": "And then we tested in human like we see it happening and we see renal toxicity."
+    },
+    {
+      "start": 2001.9,
+      "end": 2011.9,
+      "text": "And so being and if you have a single cell atlas that looks at all the different cell types, some of which actually were not predicted before we modeled them."
+    },
+    {
+      "start": 2011.9,
+      "end": 2023.9,
+      "text": "You can start looking at which cells actually do have receptors for the target you thought you were exclusively targeting and be able to predict some of these downstream effects before we get into the human trials."
+    },
+    {
+      "start": 2023.9,
+      "end": 2038.9,
+      "text": "And I think that that's that's actually one of the more exciting applications of the like a transcriptomic model to understand actually how the different cells will react when you intervene and do something."
+    },
+    {
+      "start": 2039.9,
+      "end": 2052.9,
+      "text": "And you know, but I think when you think about delivery mechanisms and patient care, you start that's where you start having to be creative about when you asked what disease do you want to care first."
+    },
+    {
+      "start": 2052.9,
+      "end": 2061.9,
+      "text": "There are certain diseases that will be easier to like deliver a therapeutic to or the risk reward is makes more sense."
+    },
+    {
+      "start": 2061.9,
+      "end": 2084.9,
+      "text": "And, you know, I think we were all inspired by baby KJ, I think last year now when the team at chop was able to deliver a CRISPR therapeutic to edit a mutation that he had would have that would have inevitably led him to significant neurodegenerative toxicity and altered his life."
+    },
+    {
+      "start": 2084.9,
+      "end": 2098.9,
+      "text": "But we were able to that disease was very carefully chosen because we needed to target his liver cells. And if we could easily deliver a product that would work in his liver."
+    },
+    {
+      "start": 2098.9,
+      "end": 2108.9,
+      "text": "And I think that's when the creativity, the wherewithal to choose the right applications can help us unlock the first applications."
+    },
+    {
+      "start": 2109.9,
+      "end": 2121.9,
+      "text": "Maybe something just to add to that also, you know, because I mean, kind of you describe the conventional, you know, drug development process, right. And I think, you know, these kind of tools have the potential to have a lot of impact on that process."
+    },
+    {
+      "start": 2122.9,
+      "end": 2136.9,
+      "text": "But you know, what's what's interesting is to really start to think about kind of the new paradigms that can open up and you know, what does it mean if you can, you know, the barrier to develop a drug to design a molecule, you know, to kind of get through all those stages is so much lower."
+    },
+    {
+      "start": 2137.9,
+      "end": 2151.9,
+      "text": "And so you have programmable biology and you can, you know, really start to, you know, create a medicine for every individual patient. I think that has enormous implications for how we, you know, how we do drug development and what the future medicine looks like."
+    },
+    {
+      "start": 2152.9,
+      "end": 2159.9,
+      "text": "That'll be an exciting day when the FDA accepts like a virtual clinical trial for the phase one or something or, you know, this based on some personality of that person."
+    },
+    {
+      "start": 2159.9,
+      "end": 2175.9,
+      "text": "Yeah, even short of that, like thinking about the specific, like mechanisms where you see this acceleration, like, I imagine if people feel like they can predict impact in kidney cells or have a stronger perspective on talks because they have this broader understanding."
+    },
+    {
+      "start": 2176.9,
+      "end": 2179.9,
+      "text": "They'll be willing to try many more programs, right."
+    },
+    {
+      "start": 2179.9,
+      "end": 2190.9,
+      "text": "Yeah, the recruitment could also change and we had this program rare as one in the basic idea is that a lot of people focus on the most common diseases, but there's this long tail."
+    },
+    {
+      "start": 2191.9,
+      "end": 2208.9,
+      "text": "And the economics don't quite work out for companies to focus on those diseases, but if you could make it so that the groups of patients can kind of come together and organize and say, hey, we would take an experimental drug on this, then it actually because of the cost that you're talking about and how that's a huge amount of the overall."
+    },
+    {
+      "start": 2209.9,
+      "end": 2219.9,
+      "text": "Well, cost, if you can flip that, then it actually makes it set the economics make a lot more sense to then if you can generate something more easily and you can pair it with a group of people."
+    },
+    {
+      "start": 2220.9,
+      "end": 2236.9,
+      "text": "I think one of the interesting things from science and engineering is that often you can hit your head against the wall on the common problems and in this case diseases, but a lot of times you like learn a lot more about a system from finding some kind of rare or like weird."
+    },
+    {
+      "start": 2236.9,
+      "end": 2253.9,
+      "text": "So I think that's like always been kind of an interesting part of this that actually connects pretty well to this because now you're going to be able to enable a long tail of new kind of ideas to get tried and enable them to potentially get tested more easily."
+    },
+    {
+      "start": 2254.9,
+      "end": 2258.9,
+      "text": "Yeah, that's a really good point on rare on in our rare disease cohorts."
+    },
+    {
+      "start": 2258.9,
+      "end": 2271.9,
+      "text": "First of all, they're incredibly inspiring and powerful, but patient groups are self organizing patient registries, natural history registries, bio banks, they're organizing their own clinical trials."
+    },
+    {
+      "start": 2272.9,
+      "end": 2287.9,
+      "text": "There's gene therapy that one disease group has moved forward over the course of like I want to say like three to five years rather than decades in the speed is so fast because the patients themselves have organized the resources that."
+    },
+    {
+      "start": 2288.9,
+      "end": 2293.9,
+      "text": "But a scientist or clinician might need to and it's it's it's it's incredible."
+    },
+    {
+      "start": 2294.9,
+      "end": 2312.9,
+      "text": "But I think to some degree you're going to need something like this because there are going to be many more new things that can get created, but that doesn't mean that for like the general population that you're not going to want the same level of vetting that we've had historically but making it so that people who want to be on more of the frontier have the ability to do that is I think also going to be pretty helpful."
+    },
+    {
+      "start": 2313.9,
+      "end": 2320.9,
+      "text": "Yeah, letting people opt in to be part of trials, I think is one of the big ships that is starting to happen but could really help accelerate biology in general."
+    },
+    {
+      "start": 2321.9,
+      "end": 2333.9,
+      "text": "All three of you have mentioned at different points like the power of open ecosystems in such a large space like I think some of that logic around open source and the breath or diversity of data collection."
+    },
+    {
+      "start": 2333.9,
+      "end": 2346.9,
+      "text": "You were describing it should also apply in the like language model world and the multimodal AI world's like do you think that's right does any of the work you're doing here change how you think about AI and meta."
+    },
+    {
+      "start": 2347.9,
+      "end": 2353.9,
+      "text": "I mean, I think it's sort of a similar philosophy overall and you know Priscilla was talking about this that you know a lot of our."
+    },
+    {
+      "start": 2354.9,
+      "end": 2362.9,
+      "text": "Our focus is building tools that empower individuals to do things and that's sort of a common theme across a lot of the things that I work on is just kind of."
+    },
+    {
+      "start": 2363.9,
+      "end": 2380.9,
+      "text": "Putting the technology in individuals hands we don't believe in this like very centralized future where there should be a small number of institutions that basically are advancing all the stuff our vision is not that there's going to be like some central super intelligence that solves all of science I think."
+    },
+    {
+      "start": 2381.9,
+      "end": 2391.9,
+      "text": "Like people are really important and I think will be more important in the future and giving people more tools to be more productive is going to be like a critical part of any kind of positive future that both."
+    },
+    {
+      "start": 2391.9,
+      "end": 2404.9,
+      "text": "And that's how progress has always been made historically right it's not through centralization it's through empowering individuals to try things that are somewhat out of the mainstream that other people didn't think were good ideas because they thought they were good ideas that already have been done."
+    },
+    {
+      "start": 2404.9,
+      "end": 2424.9,
+      "text": "So I think that that's that's very central to the whole ethos of I mean to some degree it's like why you create something like social media right to give people voice it's you know I think a lot of the stuff that we that I care about in terms of empowering people with individual AI open sources one instantiation of it it's not the only way to do it."
+    },
+    {
+      "start": 2424.9,
+      "end": 2446.9,
+      "text": "It certainly is one way that you basically are saying we're going to take this technology and put it in everyone's hands in terms of science I think it really makes sense and we're deeply committed to open source there are obviously interesting considerations on this that are important to because there's a lot of considerations are on biosafety and things like that they were going to need to balance and think through how to how to handle."
+    },
+    {
+      "start": 2446.9,
+      "end": 2466.9,
+      "text": "But I think overall this is like very deep in the ethos of the work that we're doing both at bio hub and like probably a theme for a lot of the stuff that I do is just like we believe that a positive future is one where you build a technology as a tool you put it in individual's hands and that's kind of how society makes progress."
+    },
+    {
+      "start": 2467.9,
+      "end": 2484.9,
+      "text": "You have this like I think incredibly ambitious mission at bio hub and yet you know the AI scientists that work here could also go work in commercial enterprises how do you think about the talent and like how to bring people to bio hub."
+    },
+    {
+      "start": 2484.9,
+      "end": 2513.9,
+      "text": "I mean when you start yeah I mean it's a very hot market for AI researchers but I think that part of the part of what that means is that there's a lot of demand and you like they're very independent can work on the things that they want to work on and I think this gets back to this point again about frontier AI and frontier biology right so if I'm so yeah I mean I think like the AI researchers who work here."
+    },
+    {
+      "start": 2514.9,
+      "end": 2535.9,
+      "text": "Could go work on on language models or things that any of the main labs but those labs don't have the frontier biology part attached to it so I think there's like also just very large mission component of this which is like there's an ability to do this unique work here that you just can't really do it the other places."
+    },
+    {
+      "start": 2536.9,
+      "end": 2546.9,
+      "text": "If so if you're if that's what your focus is then this then you know I don't actually think that there's any other organization in the world that's doing both the frontier biology and the frontier AI."
+    },
+    {
+      "start": 2546.9,
+      "end": 2548.9,
+      "text": "Yeah why are you here Alex?"
+    },
+    {
+      "start": 2548.9,
+      "end": 2550.9,
+      "text": "I mean I think it's really simple yeah."
+    },
+    {
+      "start": 2550.9,
+      "end": 2556.9,
+      "text": "Our mission is to care for the disease and I think you know there's it's just such a powerful."
+    },
+    {
+      "start": 2556.9,
+      "end": 2559.9,
+      "text": "And you say it with a straight face and a less than 100 year time."
+    },
+    {
+      "start": 2559.9,
+      "end": 2561.9,
+      "text": "It's very serious now there's no more."
+    },
+    {
+      "start": 2561.9,
+      "end": 2569.9,
+      "text": "That's yeah yeah it's it's a really powerful mission and I think you know you."
+    },
+    {
+      "start": 2569.9,
+      "end": 2580.9,
+      "text": "Yeah I mean it's just you know scientists I think it's something people are deeply motivated by and I think you know we're at this moment and time."
+    },
+    {
+      "start": 2580.9,
+      "end": 2590.9,
+      "text": "Where that actually seems like something that can be achieved and I think you know we're building a really unique place where we're tackling that problem."
+    },
+    {
+      "start": 2590.9,
+      "end": 2599.9,
+      "text": "And you know we have the resources I think kind of the right the right things to actually really really go after that and do that."
+    },
+    {
+      "start": 2599.9,
+      "end": 2606.9,
+      "text": "Yeah I mean that resonates with me as somebody who you know talks to and hires a lot of research scientists they want to they want to know if you have the data."
+    },
+    {
+      "start": 2606.9,
+      "end": 2614.9,
+      "text": "If you have the tools if you have the compute if you have the talent and then what the mission is and so I actually think I think that's super competitive."
+    },
+    {
+      "start": 2614.9,
+      "end": 2622.9,
+      "text": "The other thing is that you don't need a very large team right so I think it's like an interesting thing about the world is that people care about different missions and that's good."
+    },
+    {
+      "start": 2622.9,
+      "end": 2624.9,
+      "text": "I think that's like part of the whole."
+    },
+    {
+      "start": 2624.9,
+      "end": 2632.9,
+      "text": "I'm part of why giving building these tools and giving people the ability to explore what they care about whether it's like across science or just across everything."
+    },
+    {
+      "start": 2632.9,
+      "end": 2637.9,
+      "text": "Is like such a powerful way to make progress in society is that people care about different things."
+    },
+    {
+      "start": 2637.9,
+      "end": 2647.9,
+      "text": "And in order to make progress in AI you don't need like many many hundreds of AI researchers or thousands or anything like that."
+    },
+    {
+      "start": 2647.9,
+      "end": 2657.9,
+      "text": "I think you can really make progress with you know a very strong group of a dozen or a couple dozen people and yeah I mean finding people who like care about this mission is not a particularly hard thing."
+    },
+    {
+      "start": 2657.9,
+      "end": 2667.9,
+      "text": "I mean this is like a super important thing in the world so I think that that's yeah it's just kind of a cool thing about the world is that people obviously are drawn to different different missions."
+    },
+    {
+      "start": 2667.9,
+      "end": 2680.9,
+      "text": "So I think the simplest mental models that folks have even with their paying attention to the space are essentially like okay you know structure prediction models for proteins and protein protein interaction models."
+    },
+    {
+      "start": 2680.9,
+      "end": 2684.9,
+      "text": "And then so there's this one piece which is fundamental understanding."
+    },
+    {
+      "start": 2684.9,
+      "end": 2694.9,
+      "text": "And then there's this like theory of someday we're just going to be like zero shot things into either the clinic or the clinic with much much better hit rate."
+    },
+    {
+      "start": 2694.9,
+      "end": 2699.9,
+      "text": "One needs to happen for us to go from yes and full to to this other piece."
+    },
+    {
+      "start": 2699.9,
+      "end": 2700.9,
+      "text": "Is that feasible."
+    },
+    {
+      "start": 2700.9,
+      "end": 2701.9,
+      "text": "I think that's a great question."
+    },
+    {
+      "start": 2701.9,
+      "end": 2704.9,
+      "text": "I mean I would say that I'm really optimistic on that."
+    },
+    {
+      "start": 2704.9,
+      "end": 2716.9,
+      "text": "So I think you know on the one hand you know these are problems that historically you know people could spend kind of an entire career working on like how do you how do you figure out how to effectively optimize a drug."
+    },
+    {
+      "start": 2716.9,
+      "end": 2720.9,
+      "text": "How do you get it you know get it through preclinical how do you do the early safety."
+    },
+    {
+      "start": 2720.9,
+      "end": 2730.9,
+      "text": "I think that you know when you have a new scientific paradigm kind of you know questions that were once hard kind of become simplified through the new paradigm."
+    },
+    {
+      "start": 2730.9,
+      "end": 2740.9,
+      "text": "And so I'm very optimistic that kind of many of these core problems will be solved kind of in an emergent way through these models."
+    },
+    {
+      "start": 2740.9,
+      "end": 2754.9,
+      "text": "And I think one great example of that is toxicity whereas if you can kind of really digitally digitally kind of simulate everything and be able to predict you know where a drug is going to distribute and bind across the human body."
+    },
+    {
+      "start": 2754.9,
+      "end": 2759.9,
+      "text": "You know like you kind of have the beginning of a solution to that kind of problem."
+    },
+    {
+      "start": 2759.9,
+      "end": 2771.9,
+      "text": "So I think that I think that once you have these kind of accurate representations at the molecular level, you know we're going to start to see really rapid progress on a lot of these core problems."
+    },
+    {
+      "start": 2771.9,
+      "end": 2777.9,
+      "text": "What is the most exciting user experimentation with the models you've seen in the last week since release."
+    },
+    {
+      "start": 2777.9,
+      "end": 2782.9,
+      "text": "Yeah, I mean it's just been great to kind of see it get integrated in all kinds of things."
+    },
+    {
+      "start": 2782.9,
+      "end": 2794.9,
+      "text": "I think one of the really interesting things that we've been seeing is people kind of connecting it with agentex systems to just kind of do automated design and kind of just automate that whole process."
+    },
+    {
+      "start": 2794.9,
+      "end": 2799.9,
+      "text": "So it's really I think another example of how you can kind of see bringing together."
+    },
+    {
+      "start": 2799.9,
+      "end": 2812.9,
+      "text": "Agentex and Frontier AI with you know the ability to have a world model for biology and actually reason about biology and you know really kind of start to automate the entire design process."
+    },
+    {
+      "start": 2812.9,
+      "end": 2821.9,
+      "text": "Are you taking you know how do you decide what the next step in the research agenda is it's like world model for biology and then I could."
+    },
+    {
+      "start": 2821.9,
+      "end": 2830.9,
+      "text": "I'm just going to be very coarse here like I could scale it up I could add more data I could actually like adding data is a non trivial thing in terms of new methods and domains."
+    },
+    {
+      "start": 2830.9,
+      "end": 2844.9,
+      "text": "Like what is do you take input from the larger ecosystem about you know how people are using it and what would make it more useful or is it really like we we understand like the next step of structures or coverage that we're looking for."
+    },
+    {
+      "start": 2844.9,
+      "end": 2857.9,
+      "text": "I mean I think there's two things so like we have a view on kind of the next big challenge which I think is you know the virtual cell and you know really being able to kind of ladder up the hierarchy of biological complexity to the cell."
+    },
+    {
+      "start": 2857.9,
+      "end": 2873.9,
+      "text": "And sorry very basic question yes virtual cell model like what is the input and output I should expect yeah I mean I think there's a different views on that but I think kind of what you ultimately want is a system that can really model each of the levels of complexity."
+    },
+    {
+      "start": 2873.9,
+      "end": 2883.9,
+      "text": "So you know the proteomic layer the genetic layer the transcriptomic layer and connect that to the phenotype and you need enough generality so that you can."
+    },
+    {
+      "start": 2883.9,
+      "end": 2898.9,
+      "text": "Ask the model questions about a new intervention in a context that it hasn't been trained on and kind of get an answer from it and you know the gap that we we need to close as a field is being able to."
+    },
+    {
+      "start": 2898.9,
+      "end": 2906.9,
+      "text": "Really make those predictions that can generalize so that's going to require enormous effort to generate data."
+    },
+    {
+      "start": 2906.9,
+      "end": 2923.9,
+      "text": "Yeah and then I mean in terms of what you decide to do next I think this is like you know a pretty normal process of constraint management right I mean it's like I think every lab and every field across the world probably feels compute constrained I think that that's probably true here to read it's like so."
+    },
+    {
+      "start": 2923.9,
+      "end": 2935.9,
+      "text": "I mean I know like you know there's always questions like okay should double down more on advancing the protein piece should we do more of the cellular stuff I think those are kind of ongoing debates in terms of how you sequence that that."
+    },
+    {
+      "start": 2935.9,
+      "end": 2946.9,
+      "text": "And then yeah within that there's kind of being at the Pareto frontier about how much you want to train the different models in order to like in the size of the models is also dependent on the scale of the data that you have."
+    },
+    {
+      "start": 2946.9,
+      "end": 2956.9,
+      "text": "For obvious reasons so yeah I mean I think it's there's some of that is just what where you want to be on the curves and the normal constraints but I think that this is like."
+    },
+    {
+      "start": 2956.9,
+      "end": 2974.9,
+      "text": "Probably the same process that like any research organization goes through like you want to go in all these different directions and you're just trying to constraint optimize and make enough progress to do world class work at one thing at a time while planting some seeds that can blossom over the next couple of years as well."
+    },
+    {
+      "start": 2974.9,
+      "end": 2979.9,
+      "text": "Yeah this has been the most dynamic period of technology at least I've seen in my career."
+    },
+    {
+      "start": 2979.9,
+      "end": 2984.9,
+      "text": "It's so exciting in terms of everything is happening with AI and every week there's something new that's changed."
+    },
+    {
+      "start": 2984.9,
+      "end": 2987.9,
+      "text": "Are you tired or I'm I'm both."
+    },
+    {
+      "start": 2987.9,
+      "end": 2991.9,
+      "text": "I feel like everybody's in the manic phase."
+    },
+    {
+      "start": 2991.9,
+      "end": 2994.9,
+      "text": "Oh yes it's a combination of vigorated and exhausting."
+    },
+    {
+      "start": 2994.9,
+      "end": 3003.9,
+      "text": "Yeah it's wonderful and so I guess you know things are very unpredictable right now it's really hard to know what's coming we have this."
+    },
+    {
+      "start": 3003.9,
+      "end": 3010.9,
+      "text": "Almost like early signs of experimentation on the model side with the genetic flows that we're starting to see in really interesting ways."
+    },
+    {
+      "start": 3010.9,
+      "end": 3014.9,
+      "text": "Models starting to help more and more with models that still very early days for that."
+    },
+    {
+      "start": 3014.9,
+      "end": 3021.9,
+      "text": "If you're thinking back five years from now and you were to define what success was relative to your efforts."
+    },
+    {
+      "start": 3021.9,
+      "end": 3029.9,
+      "text": "And I know things of a very dynamic things change a lot but you have this common thread of tooling for the biohub you have a common thread of empowering scientists at scale."
+    },
+    {
+      "start": 3029.9,
+      "end": 3036.9,
+      "text": "Well you're looking back five years from now is there a specific thing that you really want to make sure that you've accomplished or achieved or a primary goal."
+    },
+    {
+      "start": 3036.9,
+      "end": 3043.9,
+      "text": "Well I think we have a pretty clear view of this like hierarchical set of world models that we want to build around biology."
+    },
+    {
+      "start": 3043.9,
+      "end": 3049.9,
+      "text": "And the other part of that is that we want to do the highest quality work in the world."
+    },
+    {
+      "start": 3049.9,
+      "end": 3060.9,
+      "text": "I mean I think we're basically set up to do that between having a world class AI research team and this collection of biohubster world class life sciences research organizations."
+    },
+    {
+      "start": 3060.9,
+      "end": 3066.9,
+      "text": "I think that's like fundamentally a setup that no other organization in the world has."
+    },
+    {
+      "start": 3066.9,
+      "end": 3070.9,
+      "text": "But you know you can have a lot of great ingredients and that doesn't guarantee that you succeed."
+    },
+    {
+      "start": 3070.9,
+      "end": 3082.9,
+      "text": "So I mean to me like five years from now looking back I think you know it's other I'm sure other labs or efforts will try to produce like things that approximate what we're trying to do."
+    },
+    {
+      "start": 3082.9,
+      "end": 3088.9,
+      "text": "And I just think that we should be able to do something that is meaningfully better and a unique intellectual contribution to the world."
+    },
+    {
+      "start": 3088.9,
+      "end": 3093.9,
+      "text": "Right I think that that's kind of what you and whenever you do any kind of research that's what you're trying to do."
+    },
+    {
+      "start": 3093.9,
+      "end": 3096.9,
+      "text": "Right so yeah so if we do that I think we'll all feel very good."
+    },
+    {
+      "start": 3096.9,
+      "end": 3102.9,
+      "text": "I would also expect that at some point we'll just start seeing a lot more idea generation from the people using the models."
+    },
+    {
+      "start": 3102.9,
+      "end": 3110.9,
+      "text": "But I have enough faith that that part will materialize that for me it's more just about like making sure that we do world class work."
+    },
+    {
+      "start": 3110.9,
+      "end": 3114.9,
+      "text": "And I think if we do like the rest almost will take care of itself."
+    },
+    {
+      "start": 3114.9,
+      "end": 3124.9,
+      "text": "Very last question for you snapshot of its mid 2026 was the biggest update in your own thinking about bio hub or the domain from the last year."
+    },
+    {
+      "start": 3124.9,
+      "end": 3126.9,
+      "text": "Well from the last year I mean you joined in the last year."
+    },
+    {
+      "start": 3126.9,
+      "end": 3136.9,
+      "text": "I mean I think the biggest thing that that we basically rotated and I think in the last year we basically kind of formalize the bio hub is the main focus of our philanthropy."
+    },
+    {
+      "start": 3136.9,
+      "end": 3140.9,
+      "text": "So I think this is like I've been a very big shift."
+    },
+    {
+      "start": 3140.9,
+      "end": 3150.9,
+      "text": "But Alex and the team coming in I think has been interesting not only because it's it's a world class group right I mean you guys have worked together for a while."
+    },
+    {
+      "start": 3150.9,
+      "end": 3153.9,
+      "text": "I also I mean you talked about how stuff is changing so much in the field."
+    },
+    {
+      "start": 3153.9,
+      "end": 3164.9,
+      "text": "I think one thing that's underrated is like this is like an extremely talented group of people who also were like know each other and work well together and like are stable and good."
+    },
+    {
+      "start": 3164.9,
+      "end": 3174.9,
+      "text": "And like I think that that also is underestimated in terms of the compounding benefit of like people being able to like work well in a stable environment over time."
+    },
+    {
+      "start": 3174.9,
+      "end": 3178.9,
+      "text": "So I think that's a really important piece."
+    },
+    {
+      "start": 3178.9,
+      "end": 3191.9,
+      "text": "But part of what we wanted to do was prior to Alex leading the effort the previous leaders of the bio hub were basically primarily biologists who were interested in technology."
+    },
+    {
+      "start": 3191.9,
+      "end": 3199.9,
+      "text": "And now I think we this is the point where we really flipped that right where I mean obviously you have a background in biology as well."
+    },
+    {
+      "start": 3199.9,
+      "end": 3206.9,
+      "text": "But like you are primarily an AI researcher who has a background in in and in biology."
+    },
+    {
+      "start": 3206.9,
+      "end": 3216.9,
+      "text": "And that that's like a deep reflection on on kind of the way that I that we expect that this is going to kind of drive more value in the future."
+    },
+    {
+      "start": 3217.9,
+      "end": 3228.9,
+      "text": "Those are probably the biggest updates in the last year and in terms of the work that that we're doing and it's a new leader not just the leader but a team that I think has been is like a really good."
+    },
+    {
+      "start": 3228.9,
+      "end": 3237.9,
+      "text": "And then yeah I mean I think on the rest of the industry it's like it's on track I mean I think like every it's kind of this crazy thing because like when you have an exponentially growing curve."
+    },
+    {
+      "start": 3237.9,
+      "end": 3256.9,
+      "text": "I think the way that an exponential curve feels is it's growing so quickly that the kind of emotional feeling is it can't possibly keep going right because it's because it's just like but I mean the nature of an exponential curve is it doesn't just keep going it keeps accelerating right exponential growth is accelerating."
+    },
+    {
+      "start": 3256.9,
+      "end": 3265.9,
+      "text": "So I think that that has all these like emotions and psychology attached to it but I think fundamentally when you look at the curve in the industry."
+    },
+    {
+      "start": 3265.9,
+      "end": 3290.9,
+      "text": "The kind of fundamental thing is it is on track it has remained on that curve which I think has all these very profound implications for all of these domains but certainly it validates and makes one feel very good about making a very big investment in the things that that will play out if that if you stay on that track and it seems like we are so that I think is very good news."
+    },
+    {
+      "start": 3290.9,
+      "end": 3303.9,
+      "text": "I think the most important aspect of what you're doing there is you're actually closing the loop with the actual biology because with code and research it's closed systems and so they're very fast to iterate this is an open loop systems you're closing a loop and that's that's really crucial to progress."
+    },
+    {
+      "start": 3303.9,
+      "end": 3319.9,
+      "text": "Yeah for me one of the biggest changes with the strategy we're driving now and Alex at the helm is you know before we had amazing teams moving generally in the same direction and understanding like the potential."
+    },
+    {
+      "start": 3319.9,
+      "end": 3342.9,
+      "text": "Collaborations and interconnectedness of our work but now we are arms linked moving together was very direct it's very directed and it's very exciting it's a little bit scary and but it's like truly a team playing off each other and trying to make progress towards this goal and."
+    },
+    {
+      "start": 3342.9,
+      "end": 3359.9,
+      "text": "That has taken a lot of work but also the maturity our teams being able to have their work at a level of maturation where it actually does make sense to interlock amazing well to teams being on the curve thank you guys for doing this thank you thank you."
+    },
+    {
+      "start": 3372.9,
+      "end": 3377.9,
+      "text": "Every week and sign up for emails or find transcripts for every episode at no-friars.com."
+    }
+  ]
+}

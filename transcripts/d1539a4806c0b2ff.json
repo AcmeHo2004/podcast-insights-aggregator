@@ -1,0 +1,5991 @@
+{
+  "id": "d1539a4806c0b2ff",
+  "show": "Masters in Business",
+  "theme": "Investor Talks",
+  "title": "Value Investing Legend and Warren Buffett Disciple Seth Klarman",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/ecfc85a1-667a-44d4-9898-b46d0185aed7/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+  "source": "feed",
+  "duration": 4222.7,
+  "segments": [
+    {
+      "start": 2.52,
+      "end": 11.88,
+      "text": "Speaker 1: Bloomberg Audio Studios, Podcasts, radio news. This is Masters in"
+    },
+    {
+      "start": 11.96,
+      "end": 15.4,
+      "text": "Speaker 1: Business with Barry Ritholt on Bloomberg Radio."
+    },
+    {
+      "start": 16.68,
+      "end": 20.72,
+      "text": "Speaker 2: What can I tell you about this week's banger? Seth Klarman,"
+    },
+    {
+      "start": 21.0,
+      "end": 26.08,
+      "text": "Speaker 2: legendary value investor out of Boston at the bow Post Group."
+    },
+    {
+      "start": 26.52,
+      "end": 31.12,
+      "text": "Speaker 2: What a fascinating discussion about risk, about the current environment,"
+    },
+    {
+      "start": 31.68,
+      "end": 35.879,
+      "text": "Speaker 2: about the Boston Red Sox, about just about anything that"
+    },
+    {
+      "start": 35.96,
+      "end": 41.96,
+      "text": "Speaker 2: affects portfolios, distress assets, stocks, bonds, real estate. I thought"
+    },
+    {
+      "start": 42.04,
+      "end": 45.159,
+      "text": "Speaker 2: this was fascinating and I know you will also with"
+    },
+    {
+      "start": 45.32,
+      "end": 61.28,
+      "text": "Speaker 2: no further ado, my conversation with Seth Klarman. Flarman, Welcome"
+    },
+    {
+      "start": 61.36,
+      "end": 62.0,
+      "text": "Speaker 2: to Bloomberg."
+    },
+    {
+      "start": 62.4,
+      "end": 63.24,
+      "text": "Speaker 3: So great to be here."
+    },
+    {
+      "start": 63.28,
+      "end": 65.72,
+      "text": "Speaker 2: Thank you, Berry, Thank you so much. I've been looking"
+    },
+    {
+      "start": 65.76,
+      "end": 70.12,
+      "text": "Speaker 2: forward to this for forever. Before we get into your"
+    },
+    {
+      "start": 70.16,
+      "end": 74.28,
+      "text": "Speaker 2: investment philosophy and the development of baopost, I have to"
+    },
+    {
+      "start": 74.4,
+      "end": 79.0,
+      "text": "Speaker 2: roll back a little bit to your early days economics"
+    },
+    {
+      "start": 79.4,
+      "end": 84.48,
+      "text": "Speaker 2: from Cornell, an MBA from Harvard. What was the original"
+    },
+    {
+      "start": 84.48,
+      "end": 85.08,
+      "text": "Speaker 2: career plan?"
+    },
+    {
+      "start": 87.36,
+      "end": 90.52,
+      "text": "Speaker 4: So I was always drawn to investing, even when I"
+    },
+    {
+      "start": 90.6,
+      "end": 94.0,
+      "text": "Speaker 4: was a very young kid. I was interested in the"
+    },
+    {
+      "start": 94.03999999999999,
+      "end": 97.44,
+      "text": "Speaker 4: baseball statistics. I became aware that there were these other"
+    },
+    {
+      "start": 97.52000000000001,
+      "end": 101.36,
+      "text": "Speaker 4: columns of numbers in the newspaper and asked my neighbor"
+    },
+    {
+      "start": 101.8,
+      "end": 104.72,
+      "text": "Speaker 4: what those were and started to understand and follow the"
+    },
+    {
+      "start": 104.75999999999999,
+      "end": 106.88,
+      "text": "Speaker 4: stock market a little bit. So, of course I had"
+    },
+    {
+      "start": 106.88,
+      "end": 108.96000000000001,
+      "text": "Speaker 4: no idea what I was doing, but I was paying"
+    },
+    {
+      "start": 109.0,
+      "end": 112.72,
+      "text": "Speaker 4: attention from quite early age. I didn't really ever develop"
+    },
+    {
+      "start": 112.75999999999999,
+      "end": 115.64,
+      "text": "Speaker 4: a career plan, but I was drawn to the stock market."
+    },
+    {
+      "start": 116.32,
+      "end": 118.24000000000001,
+      "text": "Speaker 4: I think I'm drawn to puzzles."
+    },
+    {
+      "start": 118.28,
+      "end": 118.6,
+      "text": "Speaker 3: Berry."
+    },
+    {
+      "start": 119.12,
+      "end": 123.64,
+      "text": "Speaker 4: I like doing word puzzles every day, like solving math puzzles."
+    },
+    {
+      "start": 123.84,
+      "end": 127.92,
+      "text": "Speaker 4: I subscribed still to something called a math puzzle book"
+    },
+    {
+      "start": 127.96,
+      "end": 132.08,
+      "text": "Speaker 4: published by Dell. And stock market's a big puzzle. The"
+    },
+    {
+      "start": 132.12,
+      "end": 135.04,
+      "text": "Speaker 4: financial markets are a big puzzle. How does it all work?"
+    },
+    {
+      "start": 135.56,
+      "end": 138.88,
+      "text": "Speaker 4: And how does the performance of the companies get reflected"
+    },
+    {
+      "start": 138.919,
+      "end": 143.76,
+      "text": "Speaker 4: in stock prices? And how can an investor outperform everybody else?"
+    },
+    {
+      "start": 143.919,
+      "end": 146.6,
+      "text": "Speaker 4: And so all of that is a piece of what"
+    },
+    {
+      "start": 146.68,
+      "end": 147.2,
+      "text": "Speaker 4: drew me in."
+    },
+    {
+      "start": 147.68,
+      "end": 152.6,
+      "text": "Speaker 2: So I'm interested in how you first found that beyond"
+    },
+    {
+      "start": 152.6,
+      "end": 156.72,
+      "text": "Speaker 2: the newspaper stock price pages. You grow up in Baltimore,"
+    },
+    {
+      "start": 156.84,
+      "end": 159.88,
+      "text": "Speaker 2: your parents divorce when you were relatively young. Mom was"
+    },
+    {
+      "start": 159.91899999999998,
+      "end": 163.88,
+      "text": "Speaker 2: an English teacher, later a psychiatric social worker. Dad was"
+    },
+    {
+      "start": 163.91899999999998,
+      "end": 168.6,
+      "text": "Speaker 2: a health economist at John Hopkins and NYU. Was it"
+    },
+    {
+      "start": 169.0,
+      "end": 173.04,
+      "text": "Speaker 2: just simply thumbing through the sports pages literally to the"
+    },
+    {
+      "start": 173.07999999999998,
+      "end": 176.48,
+      "text": "Speaker 2: next set of pages were the stock pages."
+    },
+    {
+      "start": 176.8,
+      "end": 180.8,
+      "text": "Speaker 4: That's literally the numbers on the page attract my attention."
+    },
+    {
+      "start": 182.36,
+      "end": 184.64,
+      "text": "Speaker 4: I would say, you know, I think my origin story"
+    },
+    {
+      "start": 184.72,
+      "end": 188.4,
+      "text": "Speaker 4: is a lot like other people in who ended up"
+    },
+    {
+      "start": 188.44,
+      "end": 191.079,
+      "text": "Speaker 4: in the investing business, like Warren Buffett, like I think"
+    },
+    {
+      "start": 191.12,
+      "end": 196.359,
+      "text": "Speaker 4: Todd Combs, like many others drawn to small businesses wanted"
+    },
+    {
+      "start": 196.4,
+      "end": 199.64,
+      "text": "Speaker 4: to make money. So I was delivering newspaper route for"
+    },
+    {
+      "start": 199.68,
+      "end": 203.64,
+      "text": "Speaker 4: the Baltimore Sun Papers. I had a snow cone stand"
+    },
+    {
+      "start": 203.72,
+      "end": 208.0,
+      "text": "Speaker 4: in my driveway. One summer. I mode lawns, I rake leaves,"
+    },
+    {
+      "start": 208.0,
+      "end": 211.44,
+      "text": "Speaker 4: I shoveled snow, I did little carnivals for the neighborhood"
+    },
+    {
+      "start": 211.52,
+      "end": 217.6,
+      "text": "Speaker 4: kids whatever. I sold candy at religious school on Tuesdays"
+    },
+    {
+      "start": 217.6,
+      "end": 221.36,
+      "text": "Speaker 4: and Thursdays because the kids were starving after school, and"
+    },
+    {
+      "start": 221.48,
+      "end": 223.44,
+      "text": "Speaker 4: I would buy it up over the weekend and bring"
+    },
+    {
+      "start": 223.44,
+      "end": 226.04,
+      "text": "Speaker 4: it to school and sell it for an arbitrage profit."
+    },
+    {
+      "start": 226.92000000000002,
+      "end": 230.48,
+      "text": "Speaker 4: So it was just a pattern of being drawn to"
+    },
+    {
+      "start": 230.72,
+      "end": 234.92000000000002,
+      "text": "Speaker 4: small business and make money, and over time that led"
+    },
+    {
+      "start": 234.92000000000002,
+      "end": 237.36,
+      "text": "Speaker 4: to an interest in stock market. About my first stock"
+    },
+    {
+      "start": 237.8,
+      "end": 240.52,
+      "text": "Speaker 4: with some barmuts for money when I was around ten years."
+    },
+    {
+      "start": 240.64,
+      "end": 242.119,
+      "text": "Speaker 2: Well, it couldn't have been bar Mitz for money."
+    },
+    {
+      "start": 242.12,
+      "end": 244.32,
+      "text": "Speaker 4: If it wasn't bar Mitz money, then it was a present."
+    },
+    {
+      "start": 244.6,
+      "end": 246.44,
+      "text": "Speaker 4: But then bar Mitz money continued to be."
+    },
+    {
+      "start": 246.6,
+      "end": 249.0,
+      "text": "Speaker 2: So really well then ten years old and."
+    },
+    {
+      "start": 248.96,
+      "end": 250.92,
+      "text": "Speaker 3: I bought a shriff Johnson and Johnson."
+    },
+    {
+      "start": 251.08,
+      "end": 252.08,
+      "text": "Speaker 2: Uh huh, still have it?"
+    },
+    {
+      "start": 252.84,
+      "end": 253.839,
+      "text": "Speaker 3: Do not still have it?"
+    },
+    {
+      "start": 253.84,
+      "end": 257.4,
+      "text": "Speaker 4: It split three for one, but ultimately I presumably have"
+    },
+    {
+      "start": 257.48,
+      "end": 259.88,
+      "text": "Speaker 4: traded that in for something else that I that I"
+    },
+    {
+      "start": 259.96,
+      "end": 260.36,
+      "text": "Speaker 4: like better."
+    },
+    {
+      "start": 260.68,
+      "end": 264.039,
+      "text": "Speaker 2: So let's fast forward a little bit to the bow"
+    },
+    {
+      "start": 264.2,
+      "end": 268.919,
+      "text": "Speaker 2: Post origin story, which isn't that far ahead. You're only"
+    },
+    {
+      "start": 269.04,
+      "end": 272.32,
+      "text": "Speaker 2: twenty five. The urban legends you co found bow Post,"
+    },
+    {
+      "start": 272.44,
+      "end": 276.599,
+      "text": "Speaker 2: but reality you were brought in to manage money for"
+    },
+    {
+      "start": 276.68,
+      "end": 281.599,
+      "text": "Speaker 2: the four founding families. Still at twenty five, that's a"
+    },
+    {
+      "start": 281.76,
+      "end": 285.159,
+      "text": "Speaker 2: kind of shocking thing. Oh, we have all this wealth,"
+    },
+    {
+      "start": 285.24,
+      "end": 287.8,
+      "text": "Speaker 2: let's bring in this kid to run our portfolio."
+    },
+    {
+      "start": 288.12,
+      "end": 288.36,
+      "text": "Speaker 3: Right?"
+    },
+    {
+      "start": 288.4,
+      "end": 290.76,
+      "text": "Speaker 4: And I would say the same thing if I were,"
+    },
+    {
+      "start": 290.88,
+      "end": 293.039,
+      "text": "Speaker 4: if I were in their seats, I would wonder, how"
+    },
+    {
+      "start": 293.04,
+      "end": 297.0,
+      "text": "Speaker 4: does this kid know how to do that? So I"
+    },
+    {
+      "start": 297.04,
+      "end": 299.8,
+      "text": "Speaker 4: don't think people should generally be starting investment firms at"
+    },
+    {
+      "start": 299.8,
+      "end": 302.479,
+      "text": "Speaker 4: age twenty five. And of course I really didn't start"
+    },
+    {
+      "start": 302.52,
+      "end": 305.6,
+      "text": "Speaker 4: the firm. The firm was in the process of being created."
+    },
+    {
+      "start": 306.24,
+      "end": 308.919,
+      "text": "Speaker 4: The four clients of the firm that came together. The"
+    },
+    {
+      "start": 308.96,
+      "end": 312.88,
+      "text": "Speaker 4: founders had the idea that they would build a firm"
+    },
+    {
+      "start": 313.0,
+      "end": 316.96,
+      "text": "Speaker 4: that might go and make investments itself, might hand money"
+    },
+    {
+      "start": 317.0,
+      "end": 320.24,
+      "text": "Speaker 4: to others who were in the business already of making investments."
+    },
+    {
+      "start": 320.44,
+      "end": 322.92,
+      "text": "Speaker 4: So I think they wanted to build kind of an"
+    },
+    {
+      "start": 323.08,
+      "end": 326.839,
+      "text": "Speaker 4: institutional structure or framework for how to make sure the"
+    },
+    {
+      "start": 326.839,
+      "end": 330.08,
+      "text": "Speaker 4: money got managed well given what was then back in"
+    },
+    {
+      "start": 330.12,
+      "end": 332.76,
+      "text": "Speaker 4: the early eighties a highly fraught time as you know"
+    },
+    {
+      "start": 332.839,
+      "end": 338.44,
+      "text": "Speaker 4: from history, the volatile markets, long history of underperformance of"
+    },
+    {
+      "start": 338.52,
+      "end": 343.4,
+      "text": "Speaker 4: the stock market, and real economic uncertainty, stagflation at some"
+    },
+    {
+      "start": 343.48,
+      "end": 346.84000000000003,
+      "text": "Speaker 4: point and getting worse. Treasury bond yields were getting higher"
+    },
+    {
+      "start": 346.839,
+      "end": 349.64,
+      "text": "Speaker 4: and higher. So it was a really fraught moment, and"
+    },
+    {
+      "start": 349.68,
+      "end": 352.2,
+      "text": "Speaker 4: I think they wanted to make sure that the money"
+    },
+    {
+      "start": 352.24,
+      "end": 356.52,
+      "text": "Speaker 4: they had not only was kept intact, but was accounted"
+    },
+    {
+      "start": 356.56,
+      "end": 360.88,
+      "text": "Speaker 4: for clip the coupons and collected ends and all of that."
+    },
+    {
+      "start": 361.839,
+      "end": 365.88,
+      "text": "Speaker 4: The founders were all selling businesses around that time, So"
+    },
+    {
+      "start": 365.96,
+      "end": 368.68,
+      "text": "Speaker 4: the serendipity was I was a student at business school."
+    },
+    {
+      "start": 369.44,
+      "end": 374.32,
+      "text": "Speaker 4: Bill Porvu, the PO of Bowpost, was my real estate professor,"
+    },
+    {
+      "start": 374.88,
+      "end": 378.32,
+      "text": "Speaker 4: and he and some friends were selling Channel five. He"
+    },
+    {
+      "start": 378.36,
+      "end": 382.279,
+      "text": "Speaker 4: was a big investor in that the Metromedia largest sale"
+    },
+    {
+      "start": 382.32,
+      "end": 384.919,
+      "text": "Speaker 4: at the time of a TV station to Metromedia. It"
+    },
+    {
+      "start": 384.96,
+      "end": 388.68,
+      "text": "Speaker 4: was the ABC affiliate in Boston. A third friend had"
+    },
+    {
+      "start": 388.68,
+      "end": 392.76,
+      "text": "Speaker 4: a computer publishing and consulting business. All that was getting sold,"
+    },
+    {
+      "start": 393.24,
+      "end": 395.599,
+      "text": "Speaker 4: so they had this pile of twenty seven million dollars"
+    },
+    {
+      "start": 395.96,
+      "end": 398.28,
+      "text": "Speaker 4: and the basic job offer I got wasn't come run"
+    },
+    {
+      "start": 398.32,
+      "end": 401.4,
+      "text": "Speaker 4: a fund. It was come join us, and let's figure"
+    },
+    {
+      "start": 401.4,
+      "end": 402.92,
+      "text": "Speaker 4: out smart things to do with the money."
+    },
+    {
+      "start": 403.36,
+      "end": 408.4,
+      "text": "Speaker 2: So eventually you become the lead partner there. I don't"
+    },
+    {
+      "start": 408.4,
+      "end": 410.32,
+      "text": "Speaker 2: know if CEO is the right term."
+    },
+    {
+      "start": 410.76,
+      "end": 413.12,
+      "text": "Speaker 4: I wasn't CEO for the first seven or so years,"
+    },
+    {
+      "start": 413.36,
+      "end": 416.919,
+      "text": "Speaker 4: and then it became CEO and effectively got control of"
+    },
+    {
+      "start": 416.96,
+      "end": 421.12,
+      "text": "Speaker 4: the firm as sort of a handshake deal where we"
+    },
+    {
+      "start": 421.2,
+      "end": 423.76,
+      "text": "Speaker 4: agreed that if I worked hard and did well for"
+    },
+    {
+      "start": 423.88,
+      "end": 426.92,
+      "text": "Speaker 4: the clients, that they would recognize that with a stake"
+    },
+    {
+      "start": 426.96,
+      "end": 429.0,
+      "text": "Speaker 4: in the business. So I had no stake the day"
+    },
+    {
+      "start": 429.0,
+      "end": 431.4,
+      "text": "Speaker 4: it was formed, and ended up with over half."
+    },
+    {
+      "start": 432.48,
+      "end": 436.88,
+      "text": "Speaker 2: Ended up with over half. That's amazing forty something years later."
+    },
+    {
+      "start": 436.68,
+      "end": 439.96,
+      "text": "Speaker 4: And now much less because I'm a big believer in"
+    },
+    {
+      "start": 440.0,
+      "end": 441.4,
+      "text": "Speaker 4: sharing the pie with my team."
+    },
+    {
+      "start": 442.24,
+      "end": 444.36,
+      "text": "Speaker 2: Makes a lot of sense. Let's talk a little bit"
+    },
+    {
+      "start": 444.36,
+      "end": 447.32,
+      "text": "Speaker 2: about the timing you mentioned. There was a lot of"
+    },
+    {
+      "start": 447.36,
+      "end": 451.96,
+      "text": "Speaker 2: turmoil and stagflation the previous sixteen years. I want to"
+    },
+    {
+      "start": 452.0,
+      "end": 456.32,
+      "text": "Speaker 2: say the inflation adjusted returns for something like down seventy"
+    },
+    {
+      "start": 456.32,
+      "end": 459.92,
+      "text": "Speaker 2: five percent, sixty six to eighty two, something along those lines."
+    },
+    {
+      "start": 460.36,
+      "end": 464.52,
+      "text": "Speaker 2: Eighty two was the beginning of a historic bull market."
+    },
+    {
+      "start": 464.96,
+      "end": 467.48,
+      "text": "Speaker 2: How did that affect how you thought about risk, how"
+    },
+    {
+      "start": 467.52,
+      "end": 472.08,
+      "text": "Speaker 2: you thought about opportunities, what were you. What did the"
+    },
+    {
+      "start": 472.15999999999997,
+      "end": 476.08,
+      "text": "Speaker 2: markets look and feel like in eighty two, when I"
+    },
+    {
+      "start": 476.08,
+      "end": 478.08,
+      "text": "Speaker 2: imagine most people were still pretty bearish."
+    },
+    {
+      "start": 479.15999999999997,
+      "end": 482.4,
+      "text": "Speaker 4: Yeah, so I think Malcolm Gladwell would look and say,"
+    },
+    {
+      "start": 482.48,
+      "end": 484.84,
+      "text": "Speaker 4: nineteen eighty two, what an interesting time to start an"
+    },
+    {
+      "start": 484.84,
+      "end": 487.76,
+      "text": "Speaker 4: investment firm. That certainly was a wind at your back"
+    },
+    {
+      "start": 487.8,
+      "end": 491.28,
+      "text": "Speaker 4: in terms of being successful the challenges. And you know"
+    },
+    {
+      "start": 491.36,
+      "end": 494.24,
+      "text": "Speaker 4: this how it works in the markets is you had"
+    },
+    {
+      "start": 494.28,
+      "end": 495.84,
+      "text": "Speaker 4: no idea that you were at the beginning of a"
+    },
+    {
+      "start": 495.88,
+      "end": 498.8,
+      "text": "Speaker 4: long bowl market. What you felt was the market hasn't"
+    },
+    {
+      "start": 498.8,
+      "end": 501.28,
+      "text": "Speaker 4: done that well, you know, for a long period of time,"
+    },
+    {
+      "start": 501.8,
+      "end": 504.28,
+      "text": "Speaker 4: and people were very skeptical about it, and you could"
+    },
+    {
+      "start": 504.28,
+      "end": 507.52,
+      "text": "Speaker 4: always point to I think this is probably valuable insight"
+    },
+    {
+      "start": 507.68,
+      "end": 510.36,
+      "text": "Speaker 4: is you could always point to things at any moment"
+    },
+    {
+      "start": 510.68,
+      "end": 513.76,
+      "text": "Speaker 4: that don't add up, that seem overvalued, that seemed risky,"
+    },
+    {
+      "start": 514.679,
+      "end": 517.16,
+      "text": "Speaker 4: and yet we get through most of those things. So"
+    },
+    {
+      "start": 517.28,
+      "end": 519.6,
+      "text": "Speaker 4: at the time it didn't feel like a gimme, It"
+    },
+    {
+      "start": 519.6,
+      "end": 523.8,
+      "text": "Speaker 4: didn't feel like a lay up hand. But what ended"
+    },
+    {
+      "start": 523.84,
+      "end": 526.44,
+      "text": "Speaker 4: up happening was, you know, we tried to make money"
+    },
+    {
+      "start": 526.52,
+      "end": 529.76,
+      "text": "Speaker 4: apart from the market. We weren't buying an index. Indexes"
+    },
+    {
+      "start": 529.8,
+      "end": 532.32,
+      "text": "Speaker 4: weren't big then anyway, we weren't buying the market. We"
+    },
+    {
+      "start": 532.36,
+      "end": 536.48,
+      "text": "Speaker 4: were buying idiosyncratic situations, looking for situation bottom up by"
+    },
+    {
+      "start": 536.48,
+      "end": 539.96,
+      "text": "Speaker 4: bottom up miss pricings and that led to us build"
+    },
+    {
+      "start": 540.2,
+      "end": 544.0,
+      "text": "Speaker 4: a record. So while it looks just okay compared to"
+    },
+    {
+      "start": 544.04,
+      "end": 546.52,
+      "text": "Speaker 4: the market over that period of time, I think we"
+    },
+    {
+      "start": 546.52,
+      "end": 548.96,
+      "text": "Speaker 4: would have done okay whether the market had been up"
+    },
+    {
+      "start": 549.0,
+      "end": 549.36,
+      "text": "Speaker 4: down our."
+    },
+    {
+      "start": 549.36,
+      "end": 554.959,
+      "text": "Speaker 2: Sideways really interesting. So given you coming off of what"
+    },
+    {
+      "start": 555.08,
+      "end": 557.92,
+      "text": "Speaker 2: was an epic bear market and just a whole lot"
+    },
+    {
+      "start": 557.96,
+      "end": 564.68,
+      "text": "Speaker 2: of cross current stagflation, super high rates under Vulker, you're"
+    },
+    {
+      "start": 564.72,
+      "end": 567.4,
+      "text": "Speaker 2: not that far away in eighty two from the end"
+    },
+    {
+      "start": 567.44,
+      "end": 572.76,
+      "text": "Speaker 2: of Vietnam, Watergate, all that malaise. How did that environment"
+    },
+    {
+      "start": 572.8,
+      "end": 576.32,
+      "text": "Speaker 2: affect you as a professional investor? How did that change"
+    },
+    {
+      "start": 576.36,
+      "end": 580.28,
+      "text": "Speaker 2: how you looked at the world, and what lessons did"
+    },
+    {
+      "start": 580.32,
+      "end": 580.96,
+      "text": "Speaker 2: you take from it?"
+    },
+    {
+      "start": 581.559,
+      "end": 583.88,
+      "text": "Speaker 4: I would tell you I think every investor needs to"
+    },
+    {
+      "start": 583.92,
+      "end": 588.8,
+      "text": "Speaker 4: be a student of history. That it may not repeat exactly,"
+    },
+    {
+      "start": 588.88,
+      "end": 592.64,
+      "text": "Speaker 4: but it certainly rhymes and it is very valuable to understand,"
+    },
+    {
+      "start": 592.64,
+      "end": 596.28,
+      "text": "Speaker 4: and I think especially financial history for an investor. So"
+    },
+    {
+      "start": 596.4,
+      "end": 599.76,
+      "text": "Speaker 4: what are the worst moments? How did we go through"
+    },
+    {
+      "start": 599.76,
+      "end": 603.56,
+      "text": "Speaker 4: a market crash in nineteen twenty nine to nineteen thirty"
+    },
+    {
+      "start": 603.6,
+      "end": 607.24,
+      "text": "Speaker 4: three and a great depression that lasted close to a decade."
+    },
+    {
+      "start": 608.04,
+      "end": 610.4,
+      "text": "Speaker 4: What must that have been like for the people at"
+    },
+    {
+      "start": 610.44,
+      "end": 614.08,
+      "text": "Speaker 4: the time? How would one handle oneself. If you're going"
+    },
+    {
+      "start": 614.08,
+      "end": 616.32,
+      "text": "Speaker 4: into a period like that that we know that even"
+    },
+    {
+      "start": 616.36,
+      "end": 619.8,
+      "text": "Speaker 4: the greatest acclaim value investor of all time, Benjamin Graham,"
+    },
+    {
+      "start": 620.16,
+      "end": 624.92,
+      "text": "Speaker 4: nearly went broke twice during that era. So it's I"
+    },
+    {
+      "start": 624.96,
+      "end": 630.319,
+      "text": "Speaker 4: think incumbent on all investors to be thinking and maybe"
+    },
+    {
+      "start": 630.36,
+      "end": 633.44,
+      "text": "Speaker 4: holding multiple inconsistent thoughts in their head at the same"
+    },
+    {
+      "start": 633.48,
+      "end": 637.679,
+      "text": "Speaker 4: time that I found this interesting opportunity today, this bargain"
+    },
+    {
+      "start": 637.76,
+      "end": 641.6,
+      "text": "Speaker 4: price stock for whatever reason, it's out of favor. They"
+    },
+    {
+      "start": 641.64,
+      "end": 644.8,
+      "text": "Speaker 4: cut their dividend, it's a spin off, it's a bankrupt"
+    },
+    {
+      "start": 645.2,
+      "end": 649.08,
+      "text": "Speaker 4: security that's converting into a new equity. These things tend"
+    },
+    {
+      "start": 649.08,
+      "end": 653.52,
+      "text": "Speaker 4: to get mispriced, but you've got a backdrop of from"
+    },
+    {
+      "start": 653.52,
+      "end": 656.04,
+      "text": "Speaker 4: time to time, as today, we have a backdrop of"
+    },
+    {
+      "start": 656.4,
+      "end": 659.0,
+      "text": "Speaker 4: very expensive market and a bit of you for a"
+    },
+    {
+      "start": 659.12,
+      "end": 662.76,
+      "text": "Speaker 4: conditions is that dangerous? It's dangerous, But we're also at"
+    },
+    {
+      "start": 662.76,
+      "end": 666.08,
+      "text": "Speaker 4: the cusp of maybe a groundbreaking new technology. So I"
+    },
+    {
+      "start": 666.08,
+      "end": 668.92,
+      "text": "Speaker 4: think over the forty years, it's always been some of"
+    },
+    {
+      "start": 669.0,
+      "end": 673.4,
+      "text": "Speaker 4: both that you've got a backdrop of something sometimes very depressed,"
+    },
+    {
+      "start": 673.44,
+      "end": 677.32,
+      "text": "Speaker 4: sometimes very optimistic, but you've also got individual securities that"
+    },
+    {
+      "start": 677.36,
+      "end": 681.32,
+      "text": "Speaker 4: are fluctuating around, maybe creating bottom up opportunity. What I"
+    },
+    {
+      "start": 681.4,
+      "end": 685.12,
+      "text": "Speaker 4: deeply believe is that value investors make money staying in"
+    },
+    {
+      "start": 685.16,
+      "end": 687.68,
+      "text": "Speaker 4: the bottom up that you might have a top down view,"
+    },
+    {
+      "start": 687.76,
+      "end": 689.48,
+      "text": "Speaker 4: you might say, yeah, it could be a bubble, it"
+    },
+    {
+      "start": 689.48,
+      "end": 692.44,
+      "text": "Speaker 4: could be a problem. But bottom up is where you're"
+    },
+    {
+      "start": 692.48,
+      "end": 695.36,
+      "text": "Speaker 4: going to devote your time. It keeps you anchored that"
+    },
+    {
+      "start": 695.44,
+      "end": 697.88,
+      "text": "Speaker 4: if you have a portfolio of bargains, you're probably going to."
+    },
+    {
+      "start": 697.84,
+      "end": 700.48,
+      "text": "Speaker 3: Do okay if you've stress tested."
+    },
+    {
+      "start": 700.16,
+      "end": 702.32,
+      "text": "Speaker 4: Them and if you've been intellectually honest about them and"
+    },
+    {
+      "start": 702.32,
+      "end": 703.4,
+      "text": "Speaker 4: they really are bargains."
+    },
+    {
+      "start": 703.76,
+      "end": 706.719,
+      "text": "Speaker 2: So you mentioned Ben Graham, I'm curious as to who"
+    },
+    {
+      "start": 706.8,
+      "end": 712.0,
+      "text": "Speaker 2: else were important influences on the development of your investment philosophy."
+    },
+    {
+      "start": 712.6,
+      "end": 717.32,
+      "text": "Speaker 2: I've read about Michael Price and Max Hein, Who affected"
+    },
+    {
+      "start": 717.36,
+      "end": 721.88,
+      "text": "Speaker 2: you the most over the years? Who still affects you right?"
+    },
+    {
+      "start": 722.0,
+      "end": 727.4,
+      "text": "Speaker 4: So I think reading Ben Graham was certainly a major"
+    },
+    {
+      "start": 727.44,
+      "end": 730.04,
+      "text": "Speaker 4: influence on me. I think as he has been on"
+    },
+    {
+      "start": 730.48,
+      "end": 734.2,
+      "text": "Speaker 4: essentially everybody in the value investing community. And then Warren Buffett,"
+    },
+    {
+      "start": 734.2,
+      "end": 737.8389999999999,
+      "text": "Speaker 4: the real life practitioner of Graham as well, And it"
+    },
+    {
+      "start": 737.92,
+      "end": 742.52,
+      "text": "Speaker 4: was always heartening to know that somebody like Buffett, who"
+    },
+    {
+      "start": 742.559,
+      "end": 746.04,
+      "text": "Speaker 4: seemed to think similarly to how I thought, thought about"
+    },
+    {
+      "start": 746.08,
+      "end": 749.719,
+      "text": "Speaker 4: downside risk, thought about the need to stay focused in"
+    },
+    {
+      "start": 749.72,
+      "end": 752.88,
+      "text": "Speaker 4: individual companies and not worry so much about the overall market."
+    },
+    {
+      "start": 753.24,
+      "end": 758.079,
+      "text": "Speaker 4: The willingness to hold cash and concurrently like the willingness"
+    },
+    {
+      "start": 758.12,
+      "end": 760.92,
+      "text": "Speaker 4: to not have an opinion on everything. I have a"
+    },
+    {
+      "start": 760.96,
+      "end": 763.64,
+      "text": "Speaker 4: lot of ideas and I end up with no opinion,"
+    },
+    {
+      "start": 763.76,
+      "end": 766.52,
+      "text": "Speaker 4: no position. But once in a while we find something"
+    },
+    {
+      "start": 766.559,
+      "end": 769.04,
+      "text": "Speaker 4: that seems way off the beaten path that's really interesting."
+    },
+    {
+      "start": 769.44,
+      "end": 773.52,
+      "text": "Speaker 4: So to watch Warren Buffett do that, I've realized now"
+    },
+    {
+      "start": 773.72,
+      "end": 778.64,
+      "text": "Speaker 4: that Warren probably had a certainty of the idea that"
+    },
+    {
+      "start": 778.679,
+      "end": 781.76,
+      "text": "Speaker 4: he would compound capital over a long period of time,"
+    },
+    {
+      "start": 782.28,
+      "end": 786.68,
+      "text": "Speaker 4: and I think that that is something that Graham probably gave."
+    },
+    {
+      "start": 787.08,
+      "end": 790.16,
+      "text": "Speaker 4: Warren gave me as well, the idea that if you"
+    },
+    {
+      "start": 790.2,
+      "end": 793.4,
+      "text": "Speaker 4: protect on the downside, if you don't find yourself getting"
+    },
+    {
+      "start": 793.44,
+      "end": 798.88,
+      "text": "Speaker 4: margin calls, frozen in place because you're too exposed, or"
+    },
+    {
+      "start": 800.52,
+      "end": 803.56,
+      "text": "Speaker 4: getting massive redemptions because you're down so much, if you"
+    },
+    {
+      "start": 803.559,
+      "end": 806.24,
+      "text": "Speaker 4: can position yourself that way, it can leave in a"
+    },
+    {
+      "start": 806.28,
+      "end": 809.439,
+      "text": "Speaker 4: position to play offense when even your best competitors might"
+    },
+    {
+      "start": 809.48,
+      "end": 812.439,
+      "text": "Speaker 4: be not on the playing field. And that's a huge advantage."
+    },
+    {
+      "start": 812.48,
+      "end": 817.12,
+      "text": "Speaker 4: So I think that Graham a dot is kind of"
+    },
+    {
+      "start": 817.12,
+      "end": 819.48,
+      "text": "Speaker 4: a north star. It kind of is a place where"
+    },
+    {
+      "start": 819.88,
+      "end": 822.92,
+      "text": "Speaker 4: you can stay focused on what's something worth. You can"
+    },
+    {
+      "start": 823.0,
+      "end": 826.8389999999999,
+      "text": "Speaker 4: ignore the herd, you can ignore the siren song of"
+    },
+    {
+      "start": 827.559,
+      "end": 832.36,
+      "text": "Speaker 4: growth at any price, and of exciting new technologies and"
+    },
+    {
+      "start": 832.4,
+      "end": 835.88,
+      "text": "Speaker 4: exciting IPOs and you could ignore all that because you"
+    },
+    {
+      "start": 835.88,
+      "end": 838.199,
+      "text": "Speaker 4: have a confidence that I own something that's going to"
+    },
+    {
+      "start": 838.24,
+      "end": 840.24,
+      "text": "Speaker 4: be worth more a year or two from now than"
+    },
+    {
+      "start": 840.28,
+      "end": 843.8,
+      "text": "Speaker 4: it is today. And that's I think the that's an"
+    },
+    {
+      "start": 843.92,
+      "end": 847.88,
+      "text": "Speaker 4: underpinning that lets you follow a value investment strategy."
+    },
+    {
+      "start": 847.72,
+      "end": 852.68,
+      "text": "Speaker 2: So you mentioned downside risk and that we referred to"
+    },
+    {
+      "start": 852.76,
+      "end": 856.44,
+      "text": "Speaker 2: before you began in nineteen eighty two. Less than a"
+    },
+    {
+      "start": 856.48,
+      "end": 860.44,
+      "text": "Speaker 2: decade later, you publish Margin of Safety nineteen ninety one."
+    },
+    {
+      "start": 861.28,
+      "end": 863.92,
+      "text": "Speaker 2: What led to you, at the ripe old age of"
+    },
+    {
+      "start": 863.92,
+      "end": 868.0,
+      "text": "Speaker 2: thirty four to write a book on risk management? What"
+    },
+    {
+      "start": 868.16,
+      "end": 873.08,
+      "text": "Speaker 2: was the motivation? How was it initially received, because it's"
+    },
+    {
+      "start": 873.16,
+      "end": 878.04,
+      "text": "Speaker 2: become so sought after these days, what was the initial reception? Like?"
+    },
+    {
+      "start": 878.8,
+      "end": 883.08,
+      "text": "Speaker 4: Yeah, so I think in retrospect that looks pretty darn presumptuous."
+    },
+    {
+      "start": 884.08,
+      "end": 886.68,
+      "text": "Speaker 4: I got asked to write it by a classmate from"
+    },
+    {
+      "start": 886.72,
+      "end": 890.48,
+      "text": "Speaker 4: business school who worked at Harper Collins at the time"
+    },
+    {
+      "start": 890.56,
+      "end": 896.0,
+      "text": "Speaker 4: or Harper and Roe, maybe before Harper Collins, and she"
+    },
+    {
+      "start": 896.16,
+      "end": 898.76,
+      "text": "Speaker 4: had seen some of my client letters. She said, you know,"
+    },
+    {
+      "start": 898.76,
+      "end": 900.84,
+      "text": "Speaker 4: you seem like you'd be a good writer, and you're"
+    },
+    {
+      "start": 900.84,
+      "end": 903.24,
+      "text": "Speaker 4: a smart guy. Maybe you'll have something to tell the audience."
+    },
+    {
+      "start": 904.76,
+      "end": 908.64,
+      "text": "Speaker 4: What I really thought was, I'm just updating intelligent investor"
+    },
+    {
+      "start": 909.12,
+      "end": 915.96,
+      "text": "Speaker 4: for modern examples and contemporary market. That's decades since that"
+    },
+    {
+      "start": 916.04,
+      "end": 919.52,
+      "text": "Speaker 4: book was written, and I thought maybe i'd make it"
+    },
+    {
+      "start": 919.56,
+      "end": 924.32,
+      "text": "Speaker 4: a little bit more accessible for the average Joe. I"
+    },
+    {
+      "start": 924.32,
+      "end": 926.4,
+      "text": "Speaker 4: don't know whether it accomplished that, but that's what I"
+    },
+    {
+      "start": 926.44,
+      "end": 929.68,
+      "text": "Speaker 4: was trying to do. I had no idea if I"
+    },
+    {
+      "start": 929.76,
+      "end": 932.4,
+      "text": "Speaker 4: didn't think I would make money from writing the book."
+    },
+    {
+      "start": 932.48,
+      "end": 934.64,
+      "text": "Speaker 4: I mean, as you as an author, you know, we"
+    },
+    {
+      "start": 934.68,
+      "end": 937.92,
+      "text": "Speaker 4: get like a buck fifty an hour. But it's a"
+    },
+    {
+      "start": 937.96,
+      "end": 941.56,
+      "text": "Speaker 4: great feeling and it's a ton of work, but I"
+    },
+    {
+      "start": 941.56,
+      "end": 944.24,
+      "text": "Speaker 4: think ultimately worth it, and you get smarter from the"
+    },
+    {
+      "start": 944.28,
+      "end": 945.24,
+      "text": "Speaker 4: act of writing."
+    },
+    {
+      "start": 944.96,
+      "end": 945.72,
+      "text": "Speaker 3: About what you do."
+    },
+    {
+      "start": 945.88,
+      "end": 948.24,
+      "text": "Speaker 4: You can do what you do all day long without"
+    },
+    {
+      "start": 948.92,
+      "end": 951.32,
+      "text": "Speaker 4: maybe fully forming the philosophy, but if you want to"
+    },
+    {
+      "start": 951.32,
+      "end": 953.84,
+      "text": "Speaker 4: share it with anybody else, it makes you think more"
+    },
+    {
+      "start": 953.88,
+      "end": 955.0,
+      "text": "Speaker 4: clearly about what you do."
+    },
+    {
+      "start": 955.4,
+      "end": 959.84,
+      "text": "Speaker 2: Yeah. The former Librarian of Congress, Daniel Borston used to say,"
+    },
+    {
+      "start": 960.24,
+      "end": 962.36,
+      "text": "Speaker 2: I write to figure out what I think, And there's"
+    },
+    {
+      "start": 962.4,
+      "end": 965.04,
+      "text": "Speaker 2: a lot of truth to that. What was the initial reception, like,"
+    },
+    {
+      "start": 965.12,
+      "end": 969.12,
+      "text": "Speaker 2: did people respond or did it kind of land in"
+    },
+    {
+      "start": 969.48,
+      "end": 973.56,
+      "text": "Speaker 2: a handful of value? Geeks bought it, but no one else, so."
+    },
+    {
+      "start": 973.68,
+      "end": 974.76,
+      "text": "Speaker 3: It's somewhere in between."
+    },
+    {
+      "start": 974.88,
+      "end": 978.16,
+      "text": "Speaker 4: What happened first was I think my editor got fired"
+    },
+    {
+      "start": 978.2,
+      "end": 981.64,
+      "text": "Speaker 4: three different times, so I kept getting new editors. They"
+    },
+    {
+      "start": 981.64,
+      "end": 984.84,
+      "text": "Speaker 4: had promised to back the book with advertising, and they didn't,"
+    },
+    {
+      "start": 985.08,
+      "end": 987.16,
+      "text": "Speaker 4: so the book landed with a bit of a thud."
+    },
+    {
+      "start": 987.24,
+      "end": 990.08,
+      "text": "Speaker 4: I think it had maybe a very tiny second printing,"
+    },
+    {
+      "start": 990.44,
+      "end": 994.68,
+      "text": "Speaker 4: so I think they printed maybe seven thousand copies. I"
+    },
+    {
+      "start": 994.76,
+      "end": 997.28,
+      "text": "Speaker 4: ended up buying a bunch of them back from HarperCollins"
+    },
+    {
+      "start": 997.96,
+      "end": 1000.16,
+      "text": "Speaker 4: by the time they took it off the market and"
+    },
+    {
+      "start": 1000.2,
+      "end": 1002.0,
+      "text": "Speaker 4: the rights somehow reverted back to me."
+    },
+    {
+      "start": 1003.04,
+      "end": 1003.92,
+      "text": "Speaker 3: What it did do."
+    },
+    {
+      "start": 1004.04,
+      "end": 1009.16,
+      "text": "Speaker 4: Though, it was bought I think significantly by competitors who"
+    },
+    {
+      "start": 1009.28,
+      "end": 1012.28,
+      "text": "Speaker 4: used it to train their teams. And that was also like,"
+    },
+    {
+      "start": 1012.4,
+      "end": 1015.24,
+      "text": "Speaker 4: is that what I wrote it for? Because I don't mind,"
+    },
+    {
+      "start": 1015.64,
+      "end": 1018.6,
+      "text": "Speaker 4: but it wasn't maybe the starting goal. The starting goal was,"
+    },
+    {
+      "start": 1018.88,
+      "end": 1021.84,
+      "text": "Speaker 4: if you go back to the book, the first half"
+    },
+    {
+      "start": 1021.92,
+      "end": 1025.24,
+      "text": "Speaker 4: of it was about the street and about how they"
+    },
+    {
+      "start": 1025.32,
+      "end": 1029.879,
+      "text": "Speaker 4: treat the average investor and maybe the challenge of whether"
+    },
+    {
+      "start": 1029.92,
+      "end": 1032.32,
+      "text": "Speaker 4: the investor is getting a good deal. And the second"
+    },
+    {
+      "start": 1032.32,
+      "end": 1035.36,
+      "text": "Speaker 4: half is maybe an investment approach, a value oriented approach,"
+    },
+    {
+      "start": 1035.6,
+      "end": 1038.32,
+      "text": "Speaker 4: and how an investor might think about doing that, even"
+    },
+    {
+      "start": 1038.32,
+      "end": 1043.56,
+      "text": "Speaker 4: if they're not a professional investor. So it was successful"
+    },
+    {
+      "start": 1045.08,
+      "end": 1047.12,
+      "text": "Speaker 4: in a weird way. It's sort of because it didn't"
+    },
+    {
+      "start": 1047.119,
+      "end": 1050.0,
+      "text": "Speaker 4: get republished, it developed a bit of a cult following,"
+    },
+    {
+      "start": 1050.44,
+      "end": 1054.32,
+      "text": "Speaker 4: and that's kind of amusing and interesting to me, and"
+    },
+    {
+      "start": 1054.52,
+      "end": 1057.52,
+      "text": "Speaker 4: of course we've reprinted some on our own, so we've"
+    },
+    {
+      "start": 1057.52,
+      "end": 1060.639,
+      "text": "Speaker 4: made it available to our clients and to summer interns"
+    },
+    {
+      "start": 1060.68,
+      "end": 1063.24,
+      "text": "Speaker 4: and to anybody that's connected to the firm."
+    },
+    {
+      "start": 1064.0,
+      "end": 1069.36,
+      "text": "Speaker 2: So in twenty twenty three, the seventh edition of Security Analysis,"
+    },
+    {
+      "start": 1069.4,
+      "end": 1074.719,
+      "text": "Speaker 2: Ben Graham's Framework for Investing was edited by you and"
+    },
+    {
+      "start": 1074.76,
+      "end": 1079.24,
+      "text": "Speaker 2: in a lot of ways substantially rejiggered. How different is"
+    },
+    {
+      "start": 1079.28,
+      "end": 1084.96,
+      "text": "Speaker 2: this version then Ben Graham's, I mean, obviously the markets changed,"
+    },
+    {
+      "start": 1085.0,
+      "end": 1087.639,
+      "text": "Speaker 2: the economy is so much is different than when he"
+    },
+    {
+      "start": 1087.76,
+      "end": 1089.439,
+      "text": "Speaker 2: was writing. How did you approach this?"
+    },
+    {
+      "start": 1090.16,
+      "end": 1094.8,
+      "text": "Speaker 4: So the earlier edition, the sixth edition, I was co"
+    },
+    {
+      "start": 1095.0,
+      "end": 1098.72,
+      "text": "Speaker 4: editor with Jim Grant and Bruce Greenwald, and the seventh"
+    },
+    {
+      "start": 1098.8,
+      "end": 1102.639,
+      "text": "Speaker 4: edition they asked me to just edit that one. As editor,"
+    },
+    {
+      "start": 1103.16,
+      "end": 1107.44,
+      "text": "Speaker 4: we didn't follow the process that you might follow, because"
+    },
+    {
+      "start": 1107.48,
+      "end": 1110.2,
+      "text": "Speaker 4: we kind of thought of Security Analysis as the Bible"
+    },
+    {
+      "start": 1110.64,
+      "end": 1112.8,
+      "text": "Speaker 4: and we thought we should leave it alone, and what"
+    },
+    {
+      "start": 1112.8,
+      "end": 1116.159,
+      "text": "Speaker 4: we should do is have modern day expert investors right"
+    },
+    {
+      "start": 1116.28,
+      "end": 1120.32,
+      "text": "Speaker 4: commentary about the different chapters, different sections of the book."
+    },
+    {
+      "start": 1120.72,
+      "end": 1121.64,
+      "text": "Speaker 3: So that's what we did."
+    },
+    {
+      "start": 1122.16,
+      "end": 1125.0,
+      "text": "Speaker 4: So I think the sixth edition and the seventh both"
+    },
+    {
+      "start": 1125.08,
+      "end": 1128.52,
+      "text": "Speaker 4: have some really great selections by investors. Some of them"
+    },
+    {
+      "start": 1128.56,
+      "end": 1131.04,
+      "text": "Speaker 4: are well known, but some of whom aren't known at all."
+    },
+    {
+      "start": 1131.6,
+      "end": 1134.48,
+      "text": "Speaker 4: And you know, my former colleague David Abrams is one"
+    },
+    {
+      "start": 1134.52,
+      "end": 1138.6,
+      "text": "Speaker 4: of them. David's contribution in the sixth edition is one"
+    },
+    {
+      "start": 1138.6,
+      "end": 1142.04,
+      "text": "Speaker 4: of the most brilliant things I've ever read, and so"
+    },
+    {
+      "start": 1142.119,
+      "end": 1146.84,
+      "text": "Speaker 4: I felt like we were making we're moving Gramma DoD"
+    },
+    {
+      "start": 1146.96,
+      "end": 1150.52,
+      "text": "Speaker 4: into a different era. The thing that's beautiful about Gramma"
+    },
+    {
+      "start": 1150.56,
+      "end": 1153.12,
+      "text": "Speaker 4: DoD it was written a hundred years ago, give or take,"
+    },
+    {
+      "start": 1153.52,
+      "end": 1155.56,
+      "text": "Speaker 4: and it was written during the depression, and things that"
+    },
+    {
+      "start": 1155.64,
+      "end": 1159.04,
+      "text": "Speaker 4: made sense in a depression haven't made sense every day"
+    },
+    {
+      "start": 1159.16,
+      "end": 1161.28,
+      "text": "Speaker 4: since then because we haven't been a depression most of"
+    },
+    {
+      "start": 1161.32,
+      "end": 1162.4,
+      "text": "Speaker 4: the time since then."
+    },
+    {
+      "start": 1162.76,
+      "end": 1163.879,
+      "text": "Speaker 3: If at all."
+    },
+    {
+      "start": 1164.08,
+      "end": 1168.48,
+      "text": "Speaker 4: So it was an update, taking what's valuable why people"
+    },
+    {
+      "start": 1168.56,
+      "end": 1171.56,
+      "text": "Speaker 4: revere the book as a bible, but also making it"
+    },
+    {
+      "start": 1171.6,
+      "end": 1176.8,
+      "text": "Speaker 4: more accessible at more relevant modern day. We expanded it"
+    },
+    {
+      "start": 1176.84,
+      "end": 1179.719,
+      "text": "Speaker 4: to cover some topics that were uncovered. It certainly has"
+    },
+    {
+      "start": 1179.84,
+      "end": 1183.24,
+      "text": "Speaker 4: more international investing, which wasn't really focused on by Graham."
+    },
+    {
+      "start": 1183.56,
+      "end": 1186.52,
+      "text": "Speaker 4: It talks about some other private investments. It talks about"
+    },
+    {
+      "start": 1188.2,
+      "end": 1192.159,
+      "text": "Speaker 4: some of the changes in financial markets, the latest manias"
+    },
+    {
+      "start": 1192.2,
+      "end": 1194.92,
+      "text": "Speaker 4: and fads and all of that, but also the changes"
+    },
+    {
+      "start": 1194.96,
+      "end": 1199.28,
+      "text": "Speaker 4: in market structure, the changes in asset classes that have"
+    },
+    {
+      "start": 1199.359,
+      "end": 1202.0,
+      "text": "Speaker 4: come into exac distance and all of that. I think"
+    },
+    {
+      "start": 1202.08,
+      "end": 1205.96,
+      "text": "Speaker 4: is a valuable updating of the literature and helps keep"
+    },
+    {
+      "start": 1206.04,
+      "end": 1210.96,
+      "text": "Speaker 4: something relevant that deserves to be relevant while updated because"
+    },
+    {
+      "start": 1211.08,
+      "end": 1214.879,
+      "text": "Speaker 4: in its original Graham and Dodd nineteen thirty four form"
+    },
+    {
+      "start": 1215.359,
+      "end": 1216.84,
+      "text": "Speaker 4: wouldn't be very useful to people."
+    },
+    {
+      "start": 1217.28,
+      "end": 1221.44,
+      "text": "Speaker 2: Coming up, we continue our conversation with Seth Clarman, CEO"
+    },
+    {
+      "start": 1221.52,
+      "end": 1225.439,
+      "text": "Speaker 2: and portfolio manager at the bow Post Group, discussing the"
+    },
+    {
+      "start": 1225.48,
+      "end": 1230.28,
+      "text": "Speaker 2: firms evolution and philosophy. I'm Barry Ridults. You're listening to"
+    },
+    {
+      "start": 1230.4,
+      "end": 1244.04,
+      "text": "Speaker 2: Masters in Business on Bloomberg Radio. I'm Barry Riddults. You're"
+    },
+    {
+      "start": 1244.08,
+      "end": 1247.72,
+      "text": "Speaker 2: listening to Masters in Business on Bloomberg Radio. Our extra"
+    },
+    {
+      "start": 1247.8,
+      "end": 1251.0,
+      "text": "Speaker 2: special guest this week is Seth Klarman. He's CEO and"
+    },
+    {
+      "start": 1251.08,
+      "end": 1255.88,
+      "text": "Speaker 2: portfolio manager at the bow Post Group, a legendary value"
+    },
+    {
+      "start": 1255.96,
+      "end": 1260.639,
+      "text": "Speaker 2: and distressed investment shop out of Boston, running over twenty"
+    },
+    {
+      "start": 1260.64,
+      "end": 1265.24,
+      "text": "Speaker 2: two billion dollars in assets. So let's talk a little"
+    },
+    {
+      "start": 1265.28,
+      "end": 1270.48,
+      "text": "Speaker 2: bit about the way you think of opportunities and risks."
+    },
+    {
+      "start": 1271.16,
+      "end": 1276.6,
+      "text": "Speaker 2: During the eight or nine financial crisis, you raised about"
+    },
+    {
+      "start": 1276.64,
+      "end": 1281.28,
+      "text": "Speaker 2: four billion dollars and the research I read you're deploying"
+    },
+    {
+      "start": 1281.32,
+      "end": 1284.919,
+      "text": "Speaker 2: one hundred million dollars a day into distress assets. That"
+    },
+    {
+      "start": 1285.16,
+      "end": 1288.32,
+      "text": "Speaker 2: seems like a big chunk of money. First of all,"
+    },
+    {
+      "start": 1288.88,
+      "end": 1292.08,
+      "text": "Speaker 2: are those numbers remotely accurate? Is that ballpark?"
+    },
+    {
+      "start": 1292.72,
+      "end": 1293.44,
+      "text": "Speaker 3: It's ballpark?"
+    },
+    {
+      "start": 1293.88,
+      "end": 1296.08,
+      "text": "Speaker 4: What I would tell you first of all is we"
+    },
+    {
+      "start": 1296.2,
+      "end": 1299.12,
+      "text": "Speaker 4: had been closed for new clients much of our history,"
+    },
+    {
+      "start": 1299.6,
+      "end": 1302.56,
+      "text": "Speaker 4: but we kept a list in case. And so when"
+    },
+    {
+      "start": 1302.6,
+      "end": 1305.399,
+      "text": "Speaker 4: the market started to fall apart after bear Stearns and"
+    },
+    {
+      "start": 1305.44,
+      "end": 1309.439,
+      "text": "Speaker 4: then after Liman, there were all kinds of things going on,"
+    },
+    {
+      "start": 1309.8,
+      "end": 1314.68,
+      "text": "Speaker 4: and people were in great stress as we entered the"
+    },
+    {
+      "start": 1315.32,
+      "end": 1319.72,
+      "text": "Speaker 4: uncertainty of an economic decline that could have pretty epic proportions."
+    },
+    {
+      "start": 1319.76,
+      "end": 1322.28,
+      "text": "Speaker 4: As it turned out, it probably was. It certainly was"
+    },
+    {
+      "start": 1322.28,
+      "end": 1327.76,
+      "text": "Speaker 4: the worst decline since the Great Depression, and it stands"
+    },
+    {
+      "start": 1327.76,
+      "end": 1331.28,
+      "text": "Speaker 4: out as kind of the mother of all bear markets"
+    },
+    {
+      "start": 1331.0,
+      "end": 1335.84,
+      "text": "Speaker 4: for anybody in the last hundred years. So the challenge was,"
+    },
+    {
+      "start": 1336.8,
+      "end": 1339.28,
+      "text": "Speaker 4: maybe it's time to take some capital, and the odds"
+    },
+    {
+      "start": 1339.28,
+      "end": 1341.12,
+      "text": "Speaker 4: are increasing every day that we're going to be able"
+    },
+    {
+      "start": 1341.16,
+      "end": 1342.2,
+      "text": "Speaker 4: to deploy it fruitfully."
+    },
+    {
+      "start": 1342.6,
+      "end": 1344.0,
+      "text": "Speaker 3: So what you said is about right."
+    },
+    {
+      "start": 1344.6,
+      "end": 1349.44,
+      "text": "Speaker 2: So bear Stearns, if I'm remembering correctly, was spring of"
+    },
+    {
+      "start": 1350.08,
+      "end": 1354.52,
+      "text": "Speaker 2: two thousand and seven. Lehman was September of eight. That's"
+    },
+    {
+      "start": 1354.64,
+      "end": 1358.12,
+      "text": "Speaker 2: not a lot of time from there until March on nine,"
+    },
+    {
+      "start": 1358.16,
+      "end": 1364.24,
+      "text": "Speaker 2: when everything really bottoms. I have three questions about this."
+    },
+    {
+      "start": 1364.359,
+      "end": 1368.64,
+      "text": "Speaker 2: The first is how quickly were you able to raise capital,"
+    },
+    {
+      "start": 1368.72,
+      "end": 1372.159,
+      "text": "Speaker 2: get the docks signed, and be prepared to deploy that"
+    },
+    {
+      "start": 1372.48,
+      "end": 1375.48,
+      "text": "Speaker 2: as opportunities arose. Doesn't seem like there's a lot of time."
+    },
+    {
+      "start": 1376.359,
+      "end": 1378.96,
+      "text": "Speaker 4: The team worked heroically and we were able to raise"
+    },
+    {
+      "start": 1379.359,
+      "end": 1384.0,
+      "text": "Speaker 4: about We were able to raise very significant capital within"
+    },
+    {
+      "start": 1384.04,
+      "end": 1384.48,
+      "text": "Speaker 4: a quarter."
+    },
+    {
+      "start": 1384.96,
+      "end": 1387.84,
+      "text": "Speaker 2: Wow, that's really quickly. Now you mentioned the team, I"
+    },
+    {
+      "start": 1387.88,
+      "end": 1392.6,
+      "text": "Speaker 2: have heard some really interesting rumors and legends. How did"
+    },
+    {
+      "start": 1392.6,
+      "end": 1396.439,
+      "text": "Speaker 2: you put this team together? What was their marching orders?"
+    },
+    {
+      "start": 1396.48,
+      "end": 1401.08,
+      "text": "Speaker 2: How did everybody operate in that period of absolute turmoil"
+    },
+    {
+      "start": 1401.16,
+      "end": 1402.0,
+      "text": "Speaker 2: in Mayhew."
+    },
+    {
+      "start": 1402.88,
+      "end": 1406.52,
+      "text": "Speaker 4: So we already were an established firm. We've been up"
+    },
+    {
+      "start": 1406.52,
+      "end": 1410.0,
+      "text": "Speaker 4: and running for a couple of decades by then. So"
+    },
+    {
+      "start": 1410.16,
+      "end": 1417.56,
+      "text": "Speaker 4: I had a team in place, and they were deeply knowledgeable, experienced."
+    },
+    {
+      "start": 1417.68,
+      "end": 1420.28,
+      "text": "Speaker 2: Distressed asset expertise in the group."
+    },
+    {
+      "start": 1421.52,
+      "end": 1423.92,
+      "text": "Speaker 4: Not everybody on the team has that, but a very"
+    },
+    {
+      "start": 1424.0,
+      "end": 1426.639,
+      "text": "Speaker 4: high percentage of the team has that. And people at"
+    },
+    {
+      "start": 1426.64,
+      "end": 1430.52,
+      "text": "Speaker 4: balpos like being versatile athletes. So we're nimble, we're agile,"
+    },
+    {
+      "start": 1431.0,
+      "end": 1434.24,
+      "text": "Speaker 4: and we cross train just kind of like baseball teams"
+    },
+    {
+      "start": 1434.24,
+      "end": 1436.159,
+      "text": "Speaker 4: are doing now in the minor leagues. They don't want"
+    },
+    {
+      "start": 1436.2,
+      "end": 1438.56,
+      "text": "Speaker 4: you to just be a third basement. They also want"
+    },
+    {
+      "start": 1438.6,
+      "end": 1441.48,
+      "text": "Speaker 4: you to play out field and maybe second if need be,"
+    },
+    {
+      "start": 1441.92,
+      "end": 1443.8,
+      "text": "Speaker 4: And so the same with us that we have people"
+    },
+    {
+      "start": 1443.8,
+      "end": 1447.159,
+      "text": "Speaker 4: that sit in four different groups, as you mentioned, but"
+    },
+    {
+      "start": 1447.28,
+      "end": 1451.08,
+      "text": "Speaker 4: all of them can work on distressed situations. And people"
+    },
+    {
+      "start": 1451.359,
+      "end": 1454.6,
+      "text": "Speaker 4: in the private investments especially love when we're super busy"
+    },
+    {
+      "start": 1454.6,
+      "end": 1456.56,
+      "text": "Speaker 4: in the public markets and we call them in to"
+    },
+    {
+      "start": 1456.64,
+      "end": 1458.2,
+      "text": "Speaker 4: work on a distress credit."
+    },
+    {
+      "start": 1458.52,
+      "end": 1464.439,
+      "text": "Speaker 2: So big chunk of capital, very aggressively deployed in a"
+    },
+    {
+      "start": 1464.56,
+      "end": 1466.679,
+      "text": "Speaker 2: moment in time when so many people seem to be"
+    },
+    {
+      "start": 1466.84,
+      "end": 1472.32,
+      "text": "Speaker 2: just paralyzed and frozen with fear. Was it just the"
+    },
+    {
+      "start": 1472.48,
+      "end": 1475.76,
+      "text": "Speaker 2: value analytical framework or was it a little broader and"
+    },
+    {
+      "start": 1475.8,
+      "end": 1476.439,
+      "text": "Speaker 2: deeper than that."
+    },
+    {
+      "start": 1476.56,
+      "end": 1479.399,
+      "text": "Speaker 4: Yeah, I think Barry that the way you're conveying it"
+    },
+    {
+      "start": 1479.48,
+      "end": 1482.6,
+      "text": "Speaker 4: probably comes across as we come in with giant satchels"
+    },
+    {
+      "start": 1482.6,
+      "end": 1485.639,
+      "text": "Speaker 4: of money and handover fists deploy it. It wasn't like"
+    },
+    {
+      "start": 1485.68,
+      "end": 1491.04,
+      "text": "Speaker 4: that at all. It was the same cerebral, methodical, painstaking"
+    },
+    {
+      "start": 1491.16,
+      "end": 1494.92,
+      "text": "Speaker 4: environment that we do every day. So we see things"
+    },
+    {
+      "start": 1494.96,
+      "end": 1498.119,
+      "text": "Speaker 4: trading at lower prices, and we notice that, and we"
+    },
+    {
+      "start": 1498.16,
+      "end": 1500.6,
+      "text": "Speaker 4: look at the fundamentals, and every thing we do at"
+    },
+    {
+      "start": 1500.6,
+      "end": 1503.639,
+      "text": "Speaker 4: Bawtpost is bottom up. Nothing's top down. We're not saying"
+    },
+    {
+      "start": 1503.96,
+      "end": 1506.12,
+      "text": "Speaker 4: probably a good time to be a contray and none"
+    },
+    {
+      "start": 1506.119,
+      "end": 1509.08,
+      "text": "Speaker 4: of that. We're saying, oh, I can buy this bond"
+    },
+    {
+      "start": 1509.08,
+      "end": 1511.679,
+      "text": "Speaker 4: at seventy that I think is covered at par. I"
+    },
+    {
+      "start": 1511.68,
+      "end": 1514.6,
+      "text": "Speaker 4: think people are worried maybe it could have a blip"
+    },
+    {
+      "start": 1514.72,
+      "end": 1517.879,
+      "text": "Speaker 4: or have a problem for a while, but people aren't"
+    },
+    {
+      "start": 1517.96,
+      "end": 1521.0,
+      "text": "Speaker 4: really doubting that there's something there. I think as the"
+    },
+    {
+      "start": 1521.32,
+      "end": 1524.32,
+      "text": "Speaker 4: economy got worse, people may have started to doubt more"
+    },
+    {
+      "start": 1524.359,
+      "end": 1527.6,
+      "text": "Speaker 4: and more. Prices come in more and more, and so"
+    },
+    {
+      "start": 1527.64,
+      "end": 1532.92,
+      "text": "Speaker 4: we're literally able to buy mortgage securities, residential mortgage securities."
+    },
+    {
+      "start": 1532.92,
+      "end": 1536.6,
+      "text": "Speaker 4: We're able to buy corporate debt, especially of the auto fincos,"
+    },
+    {
+      "start": 1536.68,
+      "end": 1541.8,
+      "text": "Speaker 4: the financial arm of General Motors and Chrysler and Ford,"
+    },
+    {
+      "start": 1542.4,
+      "end": 1547.84,
+      "text": "Speaker 4: and that Lehman goes broke, and that had pieces within"
+    },
+    {
+      "start": 1547.88,
+      "end": 1550.96,
+      "text": "Speaker 4: its capital structure that got very interesting. So we're seeing"
+    },
+    {
+      "start": 1551.0,
+      "end": 1553.92,
+      "text": "Speaker 4: all kinds of things and we're kind of kids in"
+    },
+    {
+      "start": 1553.96,
+      "end": 1558.4,
+      "text": "Speaker 4: a candy store. Sadly, right, it's a tough time. People"
+    },
+    {
+      "start": 1558.44,
+      "end": 1562.08,
+      "text": "Speaker 4: are hurting. But also so as an investor, you're fiduciary"
+    },
+    {
+      "start": 1562.44,
+      "end": 1564.32,
+      "text": "Speaker 4: and you've got to put money to work where you're"
+    },
+    {
+      "start": 1564.32,
+      "end": 1567.439,
+      "text": "Speaker 4: going to benefit your clients. So we're in every case"
+    },
+    {
+      "start": 1567.76,
+      "end": 1570.48,
+      "text": "Speaker 4: stress testing, Hey, if the world got even worse, Hey"
+    },
+    {
+      "start": 1570.48,
+      "end": 1573.92,
+      "text": "Speaker 4: if this turned out to be nineteen thirty three, will"
+    },
+    {
+      "start": 1573.92,
+      "end": 1575.199,
+      "text": "Speaker 4: this investment be okay?"
+    },
+    {
+      "start": 1575.68,
+      "end": 1576.679,
+      "text": "Speaker 3: And that's the."
+    },
+    {
+      "start": 1576.56,
+      "end": 1580.44,
+      "text": "Speaker 4: Only place where we're where we're making decisions is if"
+    },
+    {
+      "start": 1580.44,
+      "end": 1583.2,
+      "text": "Speaker 4: the downside is protected, and if we can see lots"
+    },
+    {
+      "start": 1583.2,
+      "end": 1586.52,
+      "text": "Speaker 4: of paths to winning, then we're very interested. So we"
+    },
+    {
+      "start": 1586.72,
+      "end": 1590.0,
+      "text": "Speaker 4: found a lot to do in distressed. We also owned equities."
+    },
+    {
+      "start": 1590.04,
+      "end": 1592.96,
+      "text": "Speaker 4: We also found private investments, and there were just all"
+    },
+    {
+      "start": 1593.04,
+      "end": 1596.48,
+      "text": "Speaker 4: kinds of things worth doing in that era. The challenge"
+    },
+    {
+      "start": 1596.56,
+      "end": 1599.84,
+      "text": "Speaker 4: in investing, I think for everybody is you want to"
+    },
+    {
+      "start": 1599.88,
+      "end": 1602.08,
+      "text": "Speaker 4: make sure that you know those environments are going to"
+    },
+    {
+      "start": 1602.08,
+      "end": 1604.04,
+      "text": "Speaker 4: happen once in a while, and you need to make"
+    },
+    {
+      "start": 1604.04,
+      "end": 1606.8,
+      "text": "Speaker 4: sure you don't blow up during them. And if possible,"
+    },
+    {
+      "start": 1606.84,
+      "end": 1610.0,
+      "text": "Speaker 4: you need to make sure that you'll have capacity to"
+    },
+    {
+      "start": 1610.04,
+      "end": 1614.28,
+      "text": "Speaker 4: buy when the best opportunities become available and maybe your"
+    },
+    {
+      "start": 1614.32,
+      "end": 1618.04,
+      "text": "Speaker 4: competitors are sidelined. And so that's the moment that I"
+    },
+    {
+      "start": 1618.04,
+      "end": 1620.919,
+      "text": "Speaker 4: think investors need to at least have in their heads,"
+    },
+    {
+      "start": 1621.119,
+      "end": 1623.84,
+      "text": "Speaker 4: how are you going to handle that environment? Because if"
+    },
+    {
+      "start": 1623.88,
+      "end": 1626.56,
+      "text": "Speaker 4: you're too exposed, if you're getting margin calls, if you're"
+    },
+    {
+      "start": 1626.76,
+      "end": 1629.84,
+      "text": "Speaker 4: getting massively redeemed because you took the wrong clients and"
+    },
+    {
+      "start": 1629.84,
+      "end": 1632.32,
+      "text": "Speaker 4: they're short term oriented, then you're going to be out"
+    },
+    {
+      "start": 1632.32,
+      "end": 1634.679,
+      "text": "Speaker 4: of commission on that day. So to be around on"
+    },
+    {
+      "start": 1634.76,
+      "end": 1636.72,
+      "text": "Speaker 4: that day and be able to do what we do,"
+    },
+    {
+      "start": 1637.16,
+      "end": 1638.92,
+      "text": "Speaker 4: we just did the same thing we do every day."
+    },
+    {
+      "start": 1639.04,
+      "end": 1640.56,
+      "text": "Speaker 4: We did a little bigger size."
+    },
+    {
+      "start": 1640.96,
+      "end": 1644.76,
+      "text": "Speaker 2: So I'm kind of fascinated by the dynamic tension between"
+    },
+    {
+      "start": 1645.84,
+      "end": 1650.32,
+      "text": "Speaker 2: fundamental bottoms up research on a credit or equity by"
+    },
+    {
+      "start": 1650.359,
+      "end": 1655.24,
+      "text": "Speaker 2: credit or equity basis versus the top down. I know"
+    },
+    {
+      "start": 1655.32,
+      "end": 1658.879,
+      "text": "Speaker 2: you've said that you really don't think about markets or"
+    },
+    {
+      "start": 1658.92,
+      "end": 1662.199,
+      "text": "Speaker 2: investing from a top down perspective. But it seems that"
+    },
+    {
+      "start": 1662.4,
+      "end": 1667.96,
+      "text": "Speaker 2: everybody who panicked, everybody who helped create those distressed assets,"
+    },
+    {
+      "start": 1668.52,
+      "end": 1673.36,
+      "text": "Speaker 2: were either responding or overresponding to the top down environment."
+    },
+    {
+      "start": 1673.84,
+      "end": 1676.16,
+      "text": "Speaker 2: How do you look at that sort of environment."
+    },
+    {
+      "start": 1676.96,
+      "end": 1679.36,
+      "text": "Speaker 4: Yeah, there are several layers to that. First of all,"
+    },
+    {
+      "start": 1679.76,
+      "end": 1682.04,
+      "text": "Speaker 4: I think I think people were responding to all kinds"
+    },
+    {
+      "start": 1682.08,
+      "end": 1685.679,
+      "text": "Speaker 4: of things. They were responding to redemption requests by their"
+    },
+    {
+      "start": 1685.76,
+      "end": 1690.639,
+      "text": "Speaker 4: mutual fund shareholders, they were responding to credit downgrades, so"
+    },
+    {
+      "start": 1690.68,
+      "end": 1693.32,
+      "text": "Speaker 4: that it wasn't just I'm nervous that things are going"
+    },
+    {
+      "start": 1693.359,
+      "end": 1696.6,
+      "text": "Speaker 4: to be bad. This bond is no longer investment grade,"
+    },
+    {
+      "start": 1696.92,
+      "end": 1699.28,
+      "text": "Speaker 4: and maybe my mandate is I can only own investment"
+    },
+    {
+      "start": 1699.28,
+      "end": 1702.24,
+      "text": "Speaker 4: grade bonds, or this bond has defaulted and I can"
+    },
+    {
+      "start": 1702.28,
+      "end": 1705.399,
+      "text": "Speaker 4: no longer hold this bond. So you have for selling"
+    },
+    {
+      "start": 1705.64,
+      "end": 1709.36,
+      "text": "Speaker 4: all over the place and force selling. You never want"
+    },
+    {
+      "start": 1709.4,
+      "end": 1711.76,
+      "text": "Speaker 4: to be a foreseller, and you especially want to be"
+    },
+    {
+      "start": 1711.8,
+      "end": 1714.959,
+      "text": "Speaker 4: able to buy from force sellers in any asset class"
+    },
+    {
+      "start": 1715.32,
+      "end": 1719.4,
+      "text": "Speaker 4: if that comes along. What I would say is I"
+    },
+    {
+      "start": 1719.48,
+      "end": 1723.52,
+      "text": "Speaker 4: think that, like, I'm not a mountain climber or big hiker,"
+    },
+    {
+      "start": 1724.2,
+      "end": 1727.36,
+      "text": "Speaker 4: but if you're going to climb a mountain, you want"
+    },
+    {
+      "start": 1727.4,
+      "end": 1728.52,
+      "text": "Speaker 4: to look bottom up."
+    },
+    {
+      "start": 1728.56,
+      "end": 1730.96,
+      "text": "Speaker 3: You want to understand is this the right trail?"
+    },
+    {
+      "start": 1731.08,
+      "end": 1735.24,
+      "text": "Speaker 4: Is this safe? Do I have my equipment? Am I prepared?"
+    },
+    {
+      "start": 1735.48,
+      "end": 1738.0,
+      "text": "Speaker 4: And then you also want to have the top down view."
+    },
+    {
+      "start": 1738.6,
+      "end": 1741.68,
+      "text": "Speaker 4: What's the weather and what if it suddenly gets snowy"
+    },
+    {
+      "start": 1741.8,
+      "end": 1745.12,
+      "text": "Speaker 4: up there? If the winds sixty miles an hour, how"
+    },
+    {
+      "start": 1745.12,
+      "end": 1747.76,
+      "text": "Speaker 4: am I going to handle that? And so you kind"
+    },
+    {
+      "start": 1747.8,
+      "end": 1750.88,
+      "text": "Speaker 4: of want to have in your head the weather forecast,"
+    },
+    {
+      "start": 1750.96,
+      "end": 1754.2,
+      "text": "Speaker 4: and I think I know that I'm always thinking about"
+    },
+    {
+      "start": 1755.12,
+      "end": 1759.76,
+      "text": "Speaker 4: is this environment safe? In today's market, it feels stretched,"
+    },
+    {
+      "start": 1760.0,
+      "end": 1761.72,
+      "text": "Speaker 4: but it also feels like we're on the brink of"
+    },
+    {
+      "start": 1761.76,
+      "end": 1768.16,
+      "text": "Speaker 4: an incredibly an unprecedented technology and an era that might"
+    },
+    {
+      "start": 1768.16,
+      "end": 1772.2,
+      "text": "Speaker 4: be one of very substantial prosperity, but also one of"
+    },
+    {
+      "start": 1772.4,
+      "end": 1777.48,
+      "text": "Speaker 4: risk to society and great change. So bottom up still"
+    },
+    {
+      "start": 1777.48,
+      "end": 1780.24,
+      "text": "Speaker 4: feels like the right way to invest, but it feels"
+    },
+    {
+      "start": 1780.36,
+      "end": 1782.2,
+      "text": "Speaker 4: like you still need your eye on the weather."
+    },
+    {
+      "start": 1782.6,
+      "end": 1783.8,
+      "text": "Speaker 3: In the financial."
+    },
+    {
+      "start": 1783.32,
+      "end": 1787.2,
+      "text": "Speaker 4: Markets, that means where it's the GDP going, and what's"
+    },
+    {
+      "start": 1787.28,
+      "end": 1790.28,
+      "text": "Speaker 4: the national debt and where's inflation going to take us?"
+    },
+    {
+      "start": 1790.48,
+      "end": 1792.52,
+      "text": "Speaker 4: So I always have an eye on that stuff, but"
+    },
+    {
+      "start": 1792.56,
+      "end": 1795.08,
+      "text": "Speaker 4: we're not We're not investing our portfolio based on that,"
+    },
+    {
+      "start": 1795.36,
+      "end": 1797.52,
+      "text": "Speaker 4: the same way we don't invest based on a macro"
+    },
+    {
+      "start": 1797.64,
+      "end": 1800.4,
+      "text": "Speaker 4: view that this country would be a good place to invest."
+    },
+    {
+      "start": 1800.48,
+      "end": 1804.64,
+      "text": "Speaker 4: In rather, we notice a security bottom up and say, wow,"
+    },
+    {
+      "start": 1804.68,
+      "end": 1808.44,
+      "text": "Speaker 4: that seems egregiously mispriced. I wonder if there are more mispricings."
+    },
+    {
+      "start": 1808.6,
+      "end": 1810.88,
+      "text": "Speaker 4: Maybe we should look at that market a little bit closer."
+    },
+    {
+      "start": 1811.32,
+      "end": 1813.96,
+      "text": "Speaker 2: So let's talk a little bit about cash. I think"
+    },
+    {
+      "start": 1814.32,
+      "end": 1818.12,
+      "text": "Speaker 2: a lot of investors look at cash as a drag"
+    },
+    {
+      "start": 1818.16,
+      "end": 1822.88,
+      "text": "Speaker 2: on their performance. The net return is usually zero or"
+    },
+    {
+      "start": 1822.92,
+      "end": 1826.92,
+      "text": "Speaker 2: close to zero relative to inflation. How do you think"
+    },
+    {
+      "start": 1826.96,
+      "end": 1830.44,
+      "text": "Speaker 2: of cash? It's always been such a historically important part"
+    },
+    {
+      "start": 1830.84,
+      "end": 1835.6,
+      "text": "Speaker 2: of your toolkit. What sort of optionality does it create"
+    },
+    {
+      "start": 1836.2,
+      "end": 1840.6,
+      "text": "Speaker 2: versus the career pressure of staying fully invested at all times."
+    },
+    {
+      "start": 1841.68,
+      "end": 1844.64,
+      "text": "Speaker 4: So you're nailing it with your question. You've covered all"
+    },
+    {
+      "start": 1844.68,
+      "end": 1848.28,
+      "text": "Speaker 4: the parts of holding cash. I think that cash can"
+    },
+    {
+      "start": 1848.32,
+      "end": 1852.32,
+      "text": "Speaker 4: be valuable optionality, especially just imagine you have a reasonably"
+    },
+    {
+      "start": 1852.36,
+      "end": 1855.959,
+      "text": "Speaker 4: concentrated portfolio. A large position or two comes off the books."
+    },
+    {
+      "start": 1856.36,
+      "end": 1859.08,
+      "text": "Speaker 4: Should you put it to work in a nanosecond or"
+    },
+    {
+      "start": 1859.12,
+      "end": 1862.0,
+      "text": "Speaker 4: can you wait till something really interesting comes along. So"
+    },
+    {
+      "start": 1862.04,
+      "end": 1864.76,
+      "text": "Speaker 4: that's the origin of us holding cash. Positions would come"
+    },
+    {
+      "start": 1864.8,
+      "end": 1867.88,
+      "text": "Speaker 4: off and we'd hold some cash until something great came along, but."
+    },
+    {
+      "start": 1868.28,
+      "end": 1871.76,
+      "text": "Speaker 2: Not just a couple of percent you've hold out history."
+    },
+    {
+      "start": 1871.96,
+      "end": 1874.68,
+      "text": "Speaker 4: But with concentrated positions, we have five and ten percent"
+    },
+    {
+      "start": 1874.72,
+      "end": 1877.2,
+      "text": "Speaker 4: positions in the portfolio. When two or three of them"
+    },
+    {
+      "start": 1877.24,
+      "end": 1880.52,
+      "text": "Speaker 4: come off, cash goes from next to nothing to fifteen"
+    },
+    {
+      "start": 1880.6,
+      "end": 1883.36,
+      "text": "Speaker 4: or twenty percent. So that's the origin. That's how we"
+    },
+    {
+      "start": 1883.4,
+      "end": 1885.88,
+      "text": "Speaker 4: got started with the idea that we would hold some"
+    },
+    {
+      "start": 1885.92,
+      "end": 1889.52,
+      "text": "Speaker 4: cash from time to time. I think, though I would"
+    },
+    {
+      "start": 1889.52,
+      "end": 1893.32,
+      "text": "Speaker 4: accept that I almost certainly made a mistake in that"
+    },
+    {
+      "start": 1893.52,
+      "end": 1896.4,
+      "text": "Speaker 4: holding cash to that extent. There were times when we"
+    },
+    {
+      "start": 1896.44,
+      "end": 1900.68,
+      "text": "Speaker 4: thirty percent cash and even higher, and I viewed it"
+    },
+    {
+      "start": 1900.76,
+      "end": 1905.04,
+      "text": "Speaker 4: as valuable optionality. The problem is the optionality didn't pay"
+    },
+    {
+      "start": 1905.08,
+      "end": 1909.04,
+      "text": "Speaker 4: off very well for big swaths of time, especially since"
+    },
+    {
+      "start": 1909.08,
+      "end": 1912.32,
+      "text": "Speaker 4: so eight that with suppression of interest rates and the"
+    },
+    {
+      "start": 1912.36,
+      "end": 1914.16,
+      "text": "Speaker 4: FED printing a lot of money in the US running"
+    },
+    {
+      "start": 1914.24,
+      "end": 1917.8,
+      "text": "Speaker 4: large deficits that we really haven't had a serious downturn"
+    },
+    {
+      "start": 1917.84,
+      "end": 1922.0,
+      "text": "Speaker 4: in almost two decades, and that amount of cash became painful."
+    },
+    {
+      "start": 1922.4,
+      "end": 1926.68,
+      "text": "Speaker 4: I think that the argument for holding cash. When a"
+    },
+    {
+      "start": 1926.72,
+      "end": 1929.24,
+      "text": "Speaker 4: client says, I'm not paying you to hold cash, my"
+    },
+    {
+      "start": 1929.36,
+      "end": 1932.56,
+      "text": "Speaker 4: answer would be, I'm not getting paid to hold cash."
+    },
+    {
+      "start": 1932.6,
+      "end": 1935.28,
+      "text": "Speaker 4: I'm getting paid to use my judgment on when to"
+    },
+    {
+      "start": 1935.32,
+      "end": 1937.52,
+      "text": "Speaker 4: deploy the money and in what to deploy it."
+    },
+    {
+      "start": 1937.64,
+      "end": 1940.96,
+      "text": "Speaker 3: So I feel like that's right, But I felt like"
+    },
+    {
+      "start": 1941.2,
+      "end": 1941.72,
+      "text": "Speaker 3: I was."
+    },
+    {
+      "start": 1941.68,
+      "end": 1945.4,
+      "text": "Speaker 4: Not optimizing for our clients in an environment that stopped"
+    },
+    {
+      "start": 1945.44,
+      "end": 1947.68,
+      "text": "Speaker 4: being as volatile as the one I had grown up in."
+    },
+    {
+      "start": 1948.08,
+      "end": 1951.32,
+      "text": "Speaker 4: So we changed our strategies somewhat. We made our liquid"
+    },
+    {
+      "start": 1951.32,
+      "end": 1954.44,
+      "text": "Speaker 4: books more liquid, especially our public equity book, where we"
+    },
+    {
+      "start": 1954.52,
+      "end": 1957.4,
+      "text": "Speaker 4: used to own companies with five hundred million or billion"
+    },
+    {
+      "start": 1957.44,
+      "end": 1960.32,
+      "text": "Speaker 4: dollar market cap. Now we own much bigger market cap"
+    },
+    {
+      "start": 1960.64,
+      "end": 1965.12,
+      "text": "Speaker 4: holdings on average. That liquidity in the public equity book"
+    },
+    {
+      "start": 1965.28,
+      "end": 1967.76,
+      "text": "Speaker 4: has made us feel better that we can pivot on"
+    },
+    {
+      "start": 1967.8,
+      "end": 1970.84,
+      "text": "Speaker 4: a dime with a large percentage of our book, so"
+    },
+    {
+      "start": 1970.88,
+      "end": 1972.64,
+      "text": "Speaker 4: we don't need as much cash to be able to"
+    },
+    {
+      "start": 1972.68,
+      "end": 1975.8,
+      "text": "Speaker 4: take advantage of a sudden opportunity that shows up."
+    },
+    {
+      "start": 1976.6,
+      "end": 1981.88,
+      "text": "Speaker 2: A lot of larger equity font when they're sitting in cash,"
+    },
+    {
+      "start": 1982.6,
+      "end": 1987.04,
+      "text": "Speaker 2: they use the spiderydfs, they'll roll into spy so they're"
+    },
+    {
+      "start": 1987.04,
+      "end": 1991.12,
+      "text": "Speaker 2: not falling behind a benchmark, and then it's deep and"
+    },
+    {
+      "start": 1991.16,
+      "end": 1994.8,
+      "text": "Speaker 2: liquid if they want to deploy that in a momentum market."
+    },
+    {
+      "start": 1995.12,
+      "end": 1997.6,
+      "text": "Speaker 2: Is that a bad strategy or are you just adding"
+    },
+    {
+      "start": 1997.72,
+      "end": 2001.44,
+      "text": "Speaker 2: risk to avoid the cash risk."
+    },
+    {
+      "start": 2001.88,
+      "end": 2005.28,
+      "text": "Speaker 4: We think about our benchmark as an absolute return, not"
+    },
+    {
+      "start": 2005.4,
+      "end": 2008.32,
+      "text": "Speaker 4: a relative return, So we're not very interested in keeping"
+    },
+    {
+      "start": 2008.4,
+      "end": 2010.92,
+      "text": "Speaker 4: up with the market. Market's going to do what it does,"
+    },
+    {
+      "start": 2011.44,
+      "end": 2014.8,
+      "text": "Speaker 4: and especially a market this concentrated and a handful of names,"
+    },
+    {
+      "start": 2014.8,
+      "end": 2016.68,
+      "text": "Speaker 4: and it's really been that way for a number of"
+    },
+    {
+      "start": 2016.72,
+      "end": 2020.76,
+      "text": "Speaker 4: years with the fang stocks and the handful of names"
+    },
+    {
+      "start": 2020.76,
+      "end": 2024.04,
+      "text": "Speaker 4: that carry the market often not always, but often or"
+    },
+    {
+      "start": 2024.16,
+      "end": 2027.76,
+      "text": "Speaker 4: expensive overpriced. So we just think that's not the right"
+    },
+    {
+      "start": 2027.76,
+      "end": 2030.04,
+      "text": "Speaker 4: way to think about it. We want our an absolute return."
+    },
+    {
+      "start": 2030.4,
+      "end": 2033.08,
+      "text": "Speaker 4: We want to beat inflation by hundreds of basis points,"
+    },
+    {
+      "start": 2033.68,
+      "end": 2035.96,
+      "text": "Speaker 4: and if we're doing that, we're not going to worry"
+    },
+    {
+      "start": 2035.96,
+      "end": 2038.16,
+      "text": "Speaker 4: about whether that's ahead of the market or behind. I think,"
+    },
+    {
+      "start": 2038.2,
+      "end": 2042.2,
+      "text": "Speaker 4: over the fullness of time, a good absolute return strategy"
+    },
+    {
+      "start": 2042.24,
+      "end": 2043.36,
+      "text": "Speaker 4: is going to beat the market to."
+    },
+    {
+      "start": 2044.12,
+      "end": 2047.16,
+      "text": "Speaker 2: So let's talk about some of the opportunity sets that"
+    },
+    {
+      "start": 2047.24,
+      "end": 2051.64,
+      "text": "Speaker 2: you look at. You mentioned equities, We talked about distress debt."
+    },
+    {
+      "start": 2051.8,
+      "end": 2056.08,
+      "text": "Speaker 2: You also make real estate investments, other private investments. How"
+    },
+    {
+      "start": 2056.12,
+      "end": 2060.2,
+      "text": "Speaker 2: do you think about capital alocreation across these buckets? Are"
+    },
+    {
+      "start": 2060.2,
+      "end": 2064.96,
+      "text": "Speaker 2: you using percentage terms or are you just purely opportunistic."
+    },
+    {
+      "start": 2066.04,
+      "end": 2070.239,
+      "text": "Speaker 4: So we came about these through our experiences. We didn't"
+    },
+    {
+      "start": 2070.32,
+      "end": 2072.0,
+      "text": "Speaker 4: just wake up one day and said let's be in"
+    },
+    {
+      "start": 2072.04,
+      "end": 2076.52,
+      "text": "Speaker 4: four different areas. Rather, we noticed that over the transom,"
+    },
+    {
+      "start": 2076.8,
+      "end": 2080.2,
+      "text": "Speaker 4: interesting private investments were coming into the portfolio. We're getting"
+    },
+    {
+      "start": 2080.2,
+      "end": 2083.6,
+      "text": "Speaker 4: phone calls, Hey, would you ever would you inject capital"
+    },
+    {
+      "start": 2083.6,
+      "end": 2086.239,
+      "text": "Speaker 4: into this business? Or would you buy this portfolio of"
+    },
+    {
+      "start": 2088.12,
+      "end": 2092.64,
+      "text": "Speaker 4: venture investments from a failed company that needed to sell them,"
+    },
+    {
+      "start": 2092.84,
+      "end": 2095.48,
+      "text": "Speaker 4: or would you buy twenty two percent of a company"
+    },
+    {
+      "start": 2095.88,
+      "end": 2100.399,
+      "text": "Speaker 4: owned by largely seventy eight percent by a large Middle"
+    },
+    {
+      "start": 2100.44,
+      "end": 2103.92,
+      "text": "Speaker 4: Eastern company, and twenty two percent up for sale. Would"
+    },
+    {
+      "start": 2103.92,
+      "end": 2107.64,
+      "text": "Speaker 4: you buy that well at three times ebitdah, maybe you would."
+    },
+    {
+      "start": 2108.16,
+      "end": 2108.239,
+      "text": "Speaker 3: So."
+    },
+    {
+      "start": 2108.719,
+      "end": 2113.6,
+      "text": "Speaker 4: Literally, by seeing examples one at a time, bottom up,"
+    },
+    {
+      "start": 2114.239,
+      "end": 2116.32,
+      "text": "Speaker 4: we started to figure out that there were more things"
+    },
+    {
+      "start": 2116.32,
+      "end": 2119.359,
+      "text": "Speaker 4: to focus on than just the public equity markets, and"
+    },
+    {
+      "start": 2119.44,
+      "end": 2122.399,
+      "text": "Speaker 4: so we got drawn. One of our specialties I think"
+    },
+    {
+      "start": 2122.48,
+      "end": 2125.239,
+      "text": "Speaker 4: is distressed credit, and we became really good at it."
+    },
+    {
+      "start": 2125.56,
+      "end": 2129.279,
+      "text": "Speaker 4: We've got smart people, We're very patient. Sometimes there's nothing"
+    },
+    {
+      "start": 2129.28,
+      "end": 2132.759,
+      "text": "Speaker 4: to do, there's nothing distressed. Other times there's an avalanche"
+    },
+    {
+      "start": 2132.8,
+      "end": 2136.92,
+      "text": "Speaker 4: of opportunity, and so we wait patiently. In all of"
+    },
+    {
+      "start": 2136.96,
+      "end": 2140.48,
+      "text": "Speaker 4: our areas, we built teams of versatile people, so that"
+    },
+    {
+      "start": 2141.32,
+      "end": 2144.64,
+      "text": "Speaker 4: a team is basically a generalist team, and the same"
+    },
+    {
+      "start": 2144.719,
+      "end": 2146.88,
+      "text": "Speaker 4: person can work on a private investment, can work on"
+    },
+    {
+      "start": 2146.88,
+      "end": 2151.04,
+      "text": "Speaker 4: a credit investment, can work on an equity investment. Real"
+    },
+    {
+      "start": 2151.12,
+      "end": 2153.719,
+      "text": "Speaker 4: estate is a bit more specialized than that, but even"
+    },
+    {
+      "start": 2153.76,
+      "end": 2156.56,
+      "text": "Speaker 4: within real estate, many people have a land person and"
+    },
+    {
+      "start": 2156.6,
+      "end": 2157.44,
+      "text": "Speaker 4: a hotel person."
+    },
+    {
+      "start": 2157.68,
+      "end": 2159.64,
+      "text": "Speaker 3: We don't do that. Everybody works on everything."
+    },
+    {
+      "start": 2160.28,
+      "end": 2164.2,
+      "text": "Speaker 4: So we have the team in place and we're able"
+    },
+    {
+      "start": 2164.28,
+      "end": 2168.279,
+      "text": "Speaker 4: to respond bottom up. That the bottom up approach to"
+    },
+    {
+      "start": 2168.36,
+      "end": 2172.319,
+      "text": "Speaker 4: opportunity I think lets us allocate capital better than if"
+    },
+    {
+      "start": 2172.36,
+      "end": 2174.279,
+      "text": "Speaker 4: we were doing a top down that. I think a"
+    },
+    {
+      "start": 2174.36,
+      "end": 2177.399,
+      "text": "Speaker 4: lot of people will look at historic returns will say"
+    },
+    {
+      "start": 2177.719,
+      "end": 2181.319,
+      "text": "Speaker 4: the expected return from owning private equity will be mid"
+    },
+    {
+      "start": 2181.36,
+      "end": 2185.2,
+      "text": "Speaker 4: teens or upper teens. The expected return from venture capital"
+    },
+    {
+      "start": 2185.2,
+      "end": 2187.44,
+      "text": "Speaker 4: will be better than that. And we don't do that."
+    },
+    {
+      "start": 2187.719,
+      "end": 2190.279,
+      "text": "Speaker 4: We really don't know what an asset class is going"
+    },
+    {
+      "start": 2190.28,
+      "end": 2192.719,
+      "text": "Speaker 4: to do because we think that's very time specific and"
+    },
+    {
+      "start": 2192.88,
+      "end": 2198.84,
+      "text": "Speaker 4: very valuation dependent. Rather, we see what's available right this second,"
+    },
+    {
+      "start": 2199.0,
+      "end": 2202.719,
+      "text": "Speaker 4: and by looking bottom up opportunity after opportunity, I think"
+    },
+    {
+      "start": 2202.76,
+      "end": 2205.6,
+      "text": "Speaker 4: we can paint a really clear picture. So right the second,"
+    },
+    {
+      "start": 2206.28,
+      "end": 2209.44,
+      "text": "Speaker 4: real estate has been in tough shape since COVID, especially"
+    },
+    {
+      "start": 2209.44,
+      "end": 2214.319,
+      "text": "Speaker 4: commercial office and people started working from home, and that"
+    },
+    {
+      "start": 2214.36,
+      "end": 2218.64,
+      "text": "Speaker 4: hasn't fully returned. And in certain markets especially there's too"
+    },
+    {
+      "start": 2218.719,
+      "end": 2221.6,
+      "text": "Speaker 4: much space and a lot of people that have been"
+    },
+    {
+      "start": 2221.6,
+      "end": 2223.96,
+      "text": "Speaker 4: in real estate have not done that well. A lot"
+    },
+    {
+      "start": 2223.96,
+      "end": 2226.96,
+      "text": "Speaker 4: of people got into the wrong vintage and a lot"
+    },
+    {
+      "start": 2227.0,
+      "end": 2231.96,
+      "text": "Speaker 4: of properties have become structurally obsolete. So that sounds like"
+    },
+    {
+      "start": 2232.0,
+      "end": 2234.2,
+      "text": "Speaker 4: a mess, why would you touch it? But it also"
+    },
+    {
+      "start": 2234.32,
+      "end": 2237.64,
+      "text": "Speaker 4: means that competition is hardly looking and so we think"
+    },
+    {
+      "start": 2237.68,
+      "end": 2242.04,
+      "text": "Speaker 4: they're opportunities right now. For example, in assisted living, which"
+    },
+    {
+      "start": 2242.08,
+      "end": 2244.72,
+      "text": "Speaker 4: is population is aging, you can make a very strong"
+    },
+    {
+      "start": 2244.76,
+      "end": 2247.92,
+      "text": "Speaker 4: case for fundamentals. Rents haven't moved up in years, and"
+    },
+    {
+      "start": 2247.96,
+      "end": 2251.08,
+      "text": "Speaker 4: I think there's probably pent up growth in reds to come."
+    },
+    {
+      "start": 2252.12,
+      "end": 2257.239,
+      "text": "Speaker 4: And COVID was obviously a giant problem because any facility"
+    },
+    {
+      "start": 2257.64,
+      "end": 2260.56,
+      "text": "Speaker 4: tended to empty out as people pulled their relatives out"
+    },
+    {
+      "start": 2260.719,
+      "end": 2263.759,
+      "text": "Speaker 4: to save their lives during COVID understandably, and a lot"
+    },
+    {
+      "start": 2263.76,
+      "end": 2266.88,
+      "text": "Speaker 4: of newly built facilities from that era from twenty twenty"
+    },
+    {
+      "start": 2267.16,
+      "end": 2269.84,
+      "text": "Speaker 4: one to twenty twenty two never got filled and a"
+    },
+    {
+      "start": 2269.84,
+      "end": 2272.8,
+      "text": "Speaker 4: lot of them have run into bankruptcy or financial distress."
+    },
+    {
+      "start": 2273.12,
+      "end": 2275.319,
+      "text": "Speaker 4: So it's been an opportunity to build a position an"
+    },
+    {
+      "start": 2275.4,
+      "end": 2279.36,
+      "text": "Speaker 4: area with strong fundamentals. The past is the past, but"
+    },
+    {
+      "start": 2279.48,
+      "end": 2282.399,
+      "text": "Speaker 4: moving forward, it looks like they're going to have real"
+    },
+    {
+      "start": 2282.719,
+      "end": 2287.359,
+      "text": "Speaker 4: ramp for rents and for occupancy, and we're seeing opportunity"
+    },
+    {
+      "start": 2287.4,
+      "end": 2291.68,
+      "text": "Speaker 4: here and there to add to a portfolio of assisted living. Similarly,"
+    },
+    {
+      "start": 2291.719,
+      "end": 2294.88,
+      "text": "Speaker 4: we like certain parts of the real estate office market,"
+    },
+    {
+      "start": 2295.0,
+      "end": 2299.4,
+      "text": "Speaker 4: especially some outside the major cities in a few select"
+    },
+    {
+      "start": 2299.44,
+      "end": 2302.76,
+      "text": "Speaker 4: markets though, and we're seeing more in other sub markets"
+    },
+    {
+      "start": 2302.76,
+      "end": 2305.64,
+      "text": "Speaker 4: within real estate. It's a real estate, as you know,"
+    },
+    {
+      "start": 2305.84,
+      "end": 2308.2,
+      "text": "Speaker 4: is a giant market. It's probably got a market cap"
+    },
+    {
+      "start": 2308.48,
+      "end": 2311.44,
+      "text": "Speaker 4: around as big as a public equity market and so,"
+    },
+    {
+      "start": 2312.239,
+      "end": 2316.279,
+      "text": "Speaker 4: but it has a very different capital structure in terms"
+    },
+    {
+      "start": 2316.36,
+      "end": 2318.96,
+      "text": "Speaker 4: of who are the players and how much capital can"
+    },
+    {
+      "start": 2319.0,
+      "end": 2323.12,
+      "text": "Speaker 4: they tap and the opportunity set. So real estate's interesting."
+    },
+    {
+      "start": 2323.239,
+      "end": 2325.799,
+      "text": "Speaker 4: We like looking at it, and we have a team"
+    },
+    {
+      "start": 2325.84,
+      "end": 2329.6,
+      "text": "Speaker 4: that's agile and could deploy capital quickly when something comes along."
+    },
+    {
+      "start": 2330.12,
+      "end": 2335.2,
+      "text": "Speaker 4: In private investments, it's opportunistic, and there have been some"
+    },
+    {
+      "start": 2335.239,
+      "end": 2338.56,
+      "text": "Speaker 4: things to do lately as capitals pulled back from private investments,"
+    },
+    {
+      "start": 2338.84,
+      "end": 2343.359,
+      "text": "Speaker 4: for example and energy and midstream. That's led to some"
+    },
+    {
+      "start": 2343.44,
+      "end": 2345.48,
+      "text": "Speaker 4: things that have trickled down to us that we've been"
+    },
+    {
+      "start": 2345.56,
+      "end": 2351.44,
+      "text": "Speaker 4: very excited, very high return and well hedged, so downside protected."
+    },
+    {
+      "start": 2351.92,
+      "end": 2356.96,
+      "text": "Speaker 4: So we're just opportunistic investors. I would say, though, using"
+    },
+    {
+      "start": 2357.0,
+      "end": 2360.96,
+      "text": "Speaker 4: my top down lens that you mentioned, we are certainly nervous."
+    },
+    {
+      "start": 2361.08,
+      "end": 2365.6,
+      "text": "Speaker 4: We're in a bit of an economic boom, possibly an"
+    },
+    {
+      "start": 2365.64,
+      "end": 2369.16,
+      "text": "Speaker 4: inflationary boom. Who knows what's going to happen with the"
+    },
+    {
+      "start": 2369.2,
+      "end": 2372.239,
+      "text": "Speaker 4: Strait of Hormuz and the end result of that, and"
+    },
+    {
+      "start": 2372.28,
+      "end": 2376.719,
+      "text": "Speaker 4: the demand for AI is an AI related investments is"
+    },
+    {
+      "start": 2376.76,
+      "end": 2379.879,
+      "text": "Speaker 4: so all encompassing. It's almost as if the market has"
+    },
+    {
+      "start": 2379.92,
+      "end": 2382.52,
+      "text": "Speaker 4: said we want the AI winners. We're going to dump"
+    },
+    {
+      "start": 2382.56,
+      "end": 2384.759,
+      "text": "Speaker 4: anything that looks like an AI loser, and maybe we'll"
+    },
+    {
+      "start": 2384.76,
+      "end": 2386.96,
+      "text": "Speaker 4: throw out some babies with the bathwater, and we don't care."
+    },
+    {
+      "start": 2387.6,
+      "end": 2390.68,
+      "text": "Speaker 4: And AI agnostic, we're not looking at that either. So"
+    },
+    {
+      "start": 2390.76,
+      "end": 2394.64,
+      "text": "Speaker 4: we think there's opportunity even in some larger cap high"
+    },
+    {
+      "start": 2394.719,
+      "end": 2398.68,
+      "text": "Speaker 4: quality equities that are being thrown out as people want"
+    },
+    {
+      "start": 2398.719,
+      "end": 2401.48,
+      "text": "Speaker 4: to make the high returns from speculating an AI."
+    },
+    {
+      "start": 2401.6,
+      "end": 2402.799,
+      "text": "Speaker 3: Right now, we're going to."
+    },
+    {
+      "start": 2402.76,
+      "end": 2406.64,
+      "text": "Speaker 2: Talk a little bit about the current environment in greater details. Shortly,"
+    },
+    {
+      "start": 2407.6,
+      "end": 2411.44,
+      "text": "Speaker 2: I just have to ask one more question about contrarian"
+    },
+    {
+      "start": 2411.52,
+      "end": 2416.44,
+      "text": "Speaker 2: approach as an opportunity for value investors. The risk is"
+    },
+    {
+      "start": 2416.48,
+      "end": 2421.839,
+      "text": "Speaker 2: always a value trap. Sometimes the market's negative judgment is"
+    },
+    {
+      "start": 2421.96,
+      "end": 2428.04,
+      "text": "Speaker 2: actually right. How do you prevent something that's cheap from"
+    },
+    {
+      "start": 2428.28,
+      "end": 2431.92,
+      "text": "Speaker 2: suckering you into something that's on the way to becoming"
+    },
+    {
+      "start": 2432.12,
+      "end": 2433.08,
+      "text": "Speaker 2: much much cheaper."
+    },
+    {
+      "start": 2433.68,
+      "end": 2436.64,
+      "text": "Speaker 4: Yeah, you're asking something that we've had a bit of"
+    },
+    {
+      "start": 2436.64,
+      "end": 2440.4,
+      "text": "Speaker 4: a painful lesson in over time, which is cheap is"
+    },
+    {
+      "start": 2440.68,
+      "end": 2443.68,
+      "text": "Speaker 4: not really a strategy. We tend to look at our"
+    },
+    {
+      "start": 2443.76,
+      "end": 2446.839,
+      "text": "Speaker 4: investments not as are they at a discount from what"
+    },
+    {
+      "start": 2446.88,
+      "end": 2449.32,
+      "text": "Speaker 4: we think they could be worth, but rather what is"
+    },
+    {
+      "start": 2449.36,
+      "end": 2452.56,
+      "text": "Speaker 4: our expected go forward return from here? And we tend"
+    },
+    {
+      "start": 2452.56,
+      "end": 2455.759,
+      "text": "Speaker 4: to also ask that our investments have catalysts, and that"
+    },
+    {
+      "start": 2455.88,
+      "end": 2458.799,
+      "text": "Speaker 4: when we lay out a thesis in an investment conversation,"
+    },
+    {
+      "start": 2459.4,
+      "end": 2463.52,
+      "text": "Speaker 4: it's very clear not just how undervalued is it, but"
+    },
+    {
+      "start": 2463.64,
+      "end": 2465.68,
+      "text": "Speaker 4: why is this going to work? What's going to drive it?"
+    },
+    {
+      "start": 2466.12,
+      "end": 2468.56,
+      "text": "Speaker 4: And if we can't make an argument for why it's"
+    },
+    {
+      "start": 2468.719,
+      "end": 2472.719,
+      "text": "Speaker 4: turn around in the next year or two. It might"
+    },
+    {
+      "start": 2472.76,
+      "end": 2475.12,
+      "text": "Speaker 4: be nice that it's trading at a five year low,"
+    },
+    {
+      "start": 2475.6,
+      "end": 2477.0,
+      "text": "Speaker 4: but that doesn't mean it's not going to be at"
+    },
+    {
+      "start": 2477.04,
+      "end": 2479.12,
+      "text": "Speaker 4: a seven year low and a ten year low. And"
+    },
+    {
+      "start": 2479.2,
+      "end": 2482.32,
+      "text": "Speaker 4: so our time horizon is not that long. We can't"
+    },
+    {
+      "start": 2482.68,
+      "end": 2485.88,
+      "text": "Speaker 4: just hold things that don't perform for five or ten years."
+    },
+    {
+      "start": 2486.0,
+      "end": 2488.2,
+      "text": "Speaker 4: I think very very few people can do it today,"
+    },
+    {
+      "start": 2488.719,
+      "end": 2491.399,
+      "text": "Speaker 4: and we think that's not holding our feet to the fire."
+    },
+    {
+      "start": 2491.8,
+      "end": 2496.52,
+      "text": "Speaker 4: All organizations need to demand accountability from their teams, so"
+    },
+    {
+      "start": 2497.08,
+      "end": 2500.2,
+      "text": "Speaker 4: we always are asking ourselves and really I think changed"
+    },
+    {
+      "start": 2500.2,
+      "end": 2504.28,
+      "text": "Speaker 4: our approach a little bit, where we're asking a different"
+    },
+    {
+      "start": 2504.36,
+      "end": 2508.319,
+      "text": "Speaker 4: question about what is going to drive the success of"
+    },
+    {
+      "start": 2508.36,
+      "end": 2511.839,
+      "text": "Speaker 4: this investment rather than just letting it cheap being enough,"
+    },
+    {
+      "start": 2511.92,
+      "end": 2512.68,
+      "text": "Speaker 4: it's not enough."
+    },
+    {
+      "start": 2513.4,
+      "end": 2517.04,
+      "text": "Speaker 2: Very very interesting. Coming up, we continue our conversation with"
+    },
+    {
+      "start": 2517.16,
+      "end": 2521.32,
+      "text": "Speaker 2: Seth Klarman's CEO and portfolio manager at the Bowpost Group,"
+    },
+    {
+      "start": 2521.84,
+      "end": 2527.24,
+      "text": "Speaker 2: discussing the state of investing in today's environment. I'm Barry Results."
+    },
+    {
+      "start": 2527.32,
+      "end": 2544.2,
+      "text": "Speaker 2: You're listening to Masters of Business on Bloomberg Radio. I'm"
+    },
+    {
+      "start": 2544.32,
+      "end": 2547.68,
+      "text": "Speaker 2: very Results. You're listening to Masters in Business on Bloomberg Radio."
+    },
+    {
+      "start": 2548.28,
+      "end": 2551.799,
+      "text": "Speaker 2: My extra special guest today is Seth Klarman. He is"
+    },
+    {
+      "start": 2551.88,
+      "end": 2560.16,
+      "text": "Speaker 2: the CEO and portfolio manager of Value Investing, really legend"
+    },
+    {
+      "start": 2560.88,
+      "end": 2563.84,
+      "text": "Speaker 2: the Bowpost Group. The firm managers about twenty two billion"
+    },
+    {
+      "start": 2563.88,
+      "end": 2569.8,
+      "text": "Speaker 2: dollars in client assets. We've touched briefly on things affecting"
+    },
+    {
+      "start": 2569.84,
+      "end": 2573.799,
+      "text": "Speaker 2: today's environment, price of oil, inflation, we have a Middle"
+    },
+    {
+      "start": 2573.84,
+      "end": 2577.24,
+      "text": "Speaker 2: East war, We're still dealing with a new set of tariffs."
+    },
+    {
+      "start": 2577.28,
+      "end": 2581.919,
+      "text": "Speaker 2: It seems like every week there's a different mac grow headache."
+    },
+    {
+      "start": 2582.4,
+      "end": 2586.4,
+      "text": "Speaker 2: How do you think about the current environment. Is it"
+    },
+    {
+      "start": 2586.56,
+      "end": 2592.239,
+      "text": "Speaker 2: something that has to be dealt with but sort of compartmentalized."
+    },
+    {
+      "start": 2592.92,
+      "end": 2595.52,
+      "text": "Speaker 2: Is something that have to be dealt with and compartmentalized"
+    },
+    {
+      "start": 2595.68,
+      "end": 2599.4,
+      "text": "Speaker 2: or do you just look at it as yet another"
+    },
+    {
+      "start": 2599.44,
+      "end": 2601.52,
+      "text": "Speaker 2: input into fundamental values?"
+    },
+    {
+      "start": 2603.64,
+      "end": 2609.2,
+      "text": "Speaker 4: So I think AI is a sea change, and that"
+    },
+    {
+      "start": 2609.52,
+      "end": 2614.6,
+      "text": "Speaker 4: I'm not a tech guy, and I'm not a personal"
+    },
+    {
+      "start": 2614.68,
+      "end": 2618.28,
+      "text": "Speaker 4: user at the cutting edge of technology, but I've spent"
+    },
+    {
+      "start": 2618.32,
+      "end": 2620.84,
+      "text": "Speaker 4: a huge amount of time. I think that the advent"
+    },
+    {
+      "start": 2620.88,
+      "end": 2625.719,
+      "text": "Speaker 4: of AI has forced me and probably everyone to just"
+    },
+    {
+      "start": 2625.88,
+      "end": 2629.359,
+      "text": "Speaker 4: add more time to their day to stay current. That"
+    },
+    {
+      "start": 2629.44,
+      "end": 2632.719,
+      "text": "Speaker 4: I've never seen a technology with this kind of importance"
+    },
+    {
+      "start": 2633.2,
+      "end": 2638.2,
+      "text": "Speaker 4: and potential game changing magnitude. So I read everything I"
+    },
+    {
+      "start": 2638.239,
+      "end": 2639.84,
+      "text": "Speaker 4: get my hands on. I listen to a lot of"
+    },
+    {
+      "start": 2640.04,
+      "end": 2642.04,
+      "text": "Speaker 4: podcast as well. I read a lot of books and"
+    },
+    {
+      "start": 2642.44,
+      "end": 2647.2,
+      "text": "Speaker 4: magazine articles as well. I'm consumed because even though I"
+    },
+    {
+      "start": 2647.2,
+      "end": 2650.12,
+      "text": "Speaker 4: don't think Baopost as a value firm is going to"
+    },
+    {
+      "start": 2650.16,
+      "end": 2654.16,
+      "text": "Speaker 4: find too many ways to get long AI exposure, I"
+    },
+    {
+      "start": 2654.239,
+      "end": 2656.92,
+      "text": "Speaker 4: think that we don't want to. We don't want to"
+    },
+    {
+      "start": 2656.96,
+      "end": 2659.2,
+      "text": "Speaker 4: be behind the curve. We don't want to not know"
+    },
+    {
+      "start": 2659.28,
+      "end": 2663.28,
+      "text": "Speaker 4: what we don't know, and so the team is doing"
+    },
+    {
+      "start": 2663.28,
+      "end": 2666.68,
+      "text": "Speaker 4: a fabulous job thinking about AI, thinking about ways to"
+    },
+    {
+      "start": 2666.719,
+      "end": 2670.64,
+      "text": "Speaker 4: incorporate it into our processes, but also especially thinking about"
+    },
+    {
+      "start": 2670.64,
+      "end": 2674.04,
+      "text": "Speaker 4: the implications of AI on our portfolio companies. So I"
+    },
+    {
+      "start": 2674.08,
+      "end": 2676.44,
+      "text": "Speaker 4: think we have found ways to have a little bit"
+    },
+    {
+      "start": 2676.44,
+      "end": 2680.36,
+      "text": "Speaker 4: of long exposure in things, for example, like data centers,"
+    },
+    {
+      "start": 2680.68,
+      "end": 2683.88,
+      "text": "Speaker 4: where we own a few private investments at what we"
+    },
+    {
+      "start": 2683.92,
+      "end": 2687.24,
+      "text": "Speaker 4: think is a very considerable discount to where data centers"
+    },
+    {
+      "start": 2687.239,
+      "end": 2690.48,
+      "text": "Speaker 4: tend to trade. We're not sure what the right discount is,"
+    },
+    {
+      "start": 2690.56,
+      "end": 2692.16,
+      "text": "Speaker 4: or we're not really sure what the right long term"
+    },
+    {
+      "start": 2692.2,
+      "end": 2695.239,
+      "text": "Speaker 4: cap rate is, but we think owning it a significant"
+    },
+    {
+      "start": 2695.28,
+      "end": 2696.359,
+      "text": "Speaker 4: discount is a good thing."
+    },
+    {
+      "start": 2696.48,
+      "end": 2697.64,
+      "text": "Speaker 3: So we have some exposure."
+    },
+    {
+      "start": 2698.08,
+      "end": 2701.92,
+      "text": "Speaker 4: But mostly we're trying to own a portfoli where we"
+    },
+    {
+      "start": 2702.239,
+      "end": 2706.68,
+      "text": "Speaker 4: have avoided AI losers and maybe occasionally we've found something"
+    },
+    {
+      "start": 2706.719,
+      "end": 2708.96,
+      "text": "Speaker 4: that market thinks is an AI loser that we think"
+    },
+    {
+      "start": 2709.08,
+      "end": 2713.719,
+      "text": "Speaker 4: isn't and to otherwise have things with ancillary exposure to"
+    },
+    {
+      "start": 2713.8,
+      "end": 2716.84,
+      "text": "Speaker 4: AI where we can turn into AI winners but not"
+    },
+    {
+      "start": 2716.92,
+      "end": 2719.68,
+      "text": "Speaker 4: pay much for the privilege. So it's it's a piece"
+    },
+    {
+      "start": 2719.719,
+      "end": 2723.52,
+      "text": "Speaker 4: of what we do in the meantime. Obviously you refer"
+    },
+    {
+      "start": 2723.64,
+      "end": 2726.84,
+      "text": "Speaker 4: to tariffs and the president, the volatility of the president"
+    },
+    {
+      "start": 2727.2,
+      "end": 2730.2,
+      "text": "Speaker 4: and this administration. There are things coming out of left"
+    },
+    {
+      "start": 2730.2,
+      "end": 2732.96,
+      "text": "Speaker 4: field all the time. Some of it is policy, some"
+    },
+    {
+      "start": 2733.0,
+      "end": 2736.68,
+      "text": "Speaker 4: of it is distraction, I think, maybe deliberate distraction, and"
+    },
+    {
+      "start": 2736.76,
+      "end": 2739.96,
+      "text": "Speaker 4: it's very hard to deal with that. I think most"
+    },
+    {
+      "start": 2740.2,
+      "end": 2743.839,
+      "text": "Speaker 4: investors and I too have said I need to make"
+    },
+    {
+      "start": 2743.88,
+      "end": 2746.12,
+      "text": "Speaker 4: a mental note of it. I need to think about"
+    },
+    {
+      "start": 2746.12,
+      "end": 2748.48,
+      "text": "Speaker 4: who I want to vote for next time there's an election."
+    },
+    {
+      "start": 2749.08,
+      "end": 2752.0,
+      "text": "Speaker 4: But I also need to not get distracted by this."
+    },
+    {
+      "start": 2752.84,
+      "end": 2755.28,
+      "text": "Speaker 4: And most of it doesn't end up mattering on an"
+    },
+    {
+      "start": 2755.48,
+      "end": 2759.2,
+      "text": "Speaker 4: investment by investment basis. So it is a time of"
+    },
+    {
+      "start": 2759.36,
+      "end": 2763.64,
+      "text": "Speaker 4: tremendous change, high degrees of volatility, and you see the volatility."
+    },
+    {
+      "start": 2763.719,
+      "end": 2767.04,
+      "text": "Speaker 4: The stock by stock volatility is unbelievable that when they"
+    },
+    {
+      "start": 2767.08,
+      "end": 2769.64,
+      "text": "Speaker 4: love a stock, they can't get enough of it and"
+    },
+    {
+      "start": 2769.68,
+      "end": 2771.759,
+      "text": "Speaker 4: it goes through the roof, and when they turn on"
+    },
+    {
+      "start": 2771.84,
+      "end": 2775.08,
+      "text": "Speaker 4: a stock, it gets clobbered, and so the individual stock"
+    },
+    {
+      "start": 2775.16,
+      "end": 2778.759,
+      "text": "Speaker 4: dispersion is very high. Well, the overall market volatility is"
+    },
+    {
+      "start": 2778.76,
+      "end": 2779.64,
+      "text": "Speaker 4: actually quite low."
+    },
+    {
+      "start": 2780.16,
+      "end": 2785.2,
+      "text": "Speaker 2: Huh, really interesting. Let's talk about another distraction and what"
+    },
+    {
+      "start": 2785.239,
+      "end": 2790.92,
+      "text": "Speaker 2: it might might mean. We're recording this a couple of"
+    },
+    {
+      "start": 2791.04,
+      "end": 2795.08,
+      "text": "Speaker 2: days before the SpaceX ipo, it'll broadcast a couple of"
+    },
+    {
+      "start": 2795.16,
+      "end": 2799.52,
+      "text": "Speaker 2: days after the SpaceX ipo. This is not only a"
+    },
+    {
+      "start": 2799.8,
+      "end": 2805.44,
+      "text": "Speaker 2: giant trillion dollar valuation, but it's got a lot of"
+    },
+    {
+      "start": 2805.52,
+      "end": 2808.6,
+      "text": "Speaker 2: hair on the deal with this tiny float and the"
+    },
+    {
+      "start": 2808.68,
+      "end": 2812.6,
+      "text": "Speaker 2: Nasdaq waving the rules to put an end to the cues."
+    },
+    {
+      "start": 2813.36,
+      "end": 2816.52,
+      "text": "Speaker 2: How do you look at an event like this in"
+    },
+    {
+      "start": 2816.64,
+      "end": 2821.2,
+      "text": "Speaker 2: terms of the overall gestalt of the market is I"
+    },
+    {
+      "start": 2821.239,
+      "end": 2823.799,
+      "text": "Speaker 2: know the old line is they don't ring a bell"
+    },
+    {
+      "start": 2823.84,
+      "end": 2826.08,
+      "text": "Speaker 2: at the top, But at a certain point, how do"
+    },
+    {
+      "start": 2826.12,
+      "end": 2828.92,
+      "text": "Speaker 2: you perceive something like this? Does it trouble you?"
+    },
+    {
+      "start": 2829.96,
+      "end": 2832.279,
+      "text": "Speaker 4: So my compliance team is very clear that I can't"
+    },
+    {
+      "start": 2832.28,
+      "end": 2835.4,
+      "text": "Speaker 4: talk about individual securities and we own We own no"
+    },
+    {
+      "start": 2835.48,
+      "end": 2839.6,
+      "text": "Speaker 4: SpaceX privately or in any other form. What I would"
+    },
+    {
+      "start": 2839.6,
+      "end": 2842.719,
+      "text": "Speaker 4: say to you is I share your sense that this"
+    },
+    {
+      "start": 2842.92,
+      "end": 2845.6,
+      "text": "Speaker 4: is the kind of bell that might ring at the top."
+    },
+    {
+      "start": 2847.16,
+      "end": 2851.0,
+      "text": "Speaker 4: It is an unprofitable company, and aggregate it is an"
+    },
+    {
+      "start": 2851.12,
+      "end": 2853.88,
+      "text": "Speaker 4: enormous valuation. I think we all we both read in"
+    },
+    {
+      "start": 2853.92,
+      "end": 2857.08,
+      "text": "Speaker 4: the paper this morning the Goldman estimates of what growth"
+    },
+    {
+      "start": 2857.08,
+      "end": 2859.44,
+      "text": "Speaker 4: would have to be in some parts of their business,"
+    },
+    {
+      "start": 2859.48,
+      "end": 2862.24,
+      "text": "Speaker 4: like one hundred x in order to justify the current"
+    },
+    {
+      "start": 2862.28,
+      "end": 2866.44,
+      "text": "Speaker 4: price a long period of time, and those projections have"
+    },
+    {
+      "start": 2866.48,
+      "end": 2870.56,
+      "text": "Speaker 4: a way of not happening. Is it's not impossible, but"
+    },
+    {
+      "start": 2870.64,
+      "end": 2880.799,
+      "text": "Speaker 4: it's hard. I think that that it is. I think"
+    },
+    {
+      "start": 2880.84,
+      "end": 2884.8,
+      "text": "Speaker 4: investors might be missing just how much money is being"
+    },
+    {
+      "start": 2884.84,
+      "end": 2888.56,
+      "text": "Speaker 4: sucked out of the system between large IPOs. This won't"
+    },
+    {
+      "start": 2888.56,
+      "end": 2891.52,
+      "text": "Speaker 4: be the last one. Open AI Onanthropic are coming, and"
+    },
+    {
+      "start": 2891.6,
+      "end": 2894.799,
+      "text": "Speaker 4: there's a ton of other IPOs that are stuck in"
+    },
+    {
+      "start": 2894.88,
+      "end": 2898.68,
+      "text": "Speaker 4: institutional investors' portfolios that also they'd love if they could"
+    },
+    {
+      "start": 2898.68,
+      "end": 2902.04,
+      "text": "Speaker 4: get them off at any point. Then the float might"
+    },
+    {
+      "start": 2902.08,
+      "end": 2904.839,
+      "text": "Speaker 4: be tiny today, but you have a large number of"
+    },
+    {
+      "start": 2904.88,
+      "end": 2908.399,
+      "text": "Speaker 4: shareholders private investments. We write again this morning that ten"
+    },
+    {
+      "start": 2908.48,
+      "end": 2913.0,
+      "text": "Speaker 4: or fifteen percent of some endowments entire endowment is in"
+    },
+    {
+      "start": 2913.04,
+      "end": 2914.319,
+      "text": "Speaker 4: the one name SpaceX."
+    },
+    {
+      "start": 2914.719,
+      "end": 2916.36,
+      "text": "Speaker 3: So they're going to want to sell."
+    },
+    {
+      "start": 2916.88,
+      "end": 2919.399,
+      "text": "Speaker 4: Employees are going to want to monetize and go from"
+    },
+    {
+      "start": 2919.48,
+      "end": 2923.2,
+      "text": "Speaker 4: being wealthy on paper to wealthy in a bank deposit."
+    },
+    {
+      "start": 2923.719,
+      "end": 2926.239,
+      "text": "Speaker 4: And so that's a lot of stock for sale and"
+    },
+    {
+      "start": 2926.28,
+      "end": 2930.44,
+      "text": "Speaker 4: we have to sell that stock. While apparently Google and"
+    },
+    {
+      "start": 2930.56,
+      "end": 2934.32,
+      "text": "Speaker 4: Facebook need more money, and where open AI and Anthropic"
+    },
+    {
+      "start": 2934.44,
+      "end": 2937.2,
+      "text": "Speaker 4: need more money, and utilities need more money to power"
+    },
+    {
+      "start": 2937.64,
+      "end": 2940.279,
+      "text": "Speaker 4: and chip companies need to build new factories. In America,"
+    },
+    {
+      "start": 2940.84,
+      "end": 2944.4,
+      "text": "Speaker 4: there's so much demand for money. And I think we're"
+    },
+    {
+      "start": 2944.44,
+      "end": 2948.44,
+      "text": "Speaker 4: in a vulnerable place where ultimately supply and demand for"
+    },
+    {
+      "start": 2948.48,
+      "end": 2952.04,
+      "text": "Speaker 4: money determines the cost of capital. And that's true in"
+    },
+    {
+      "start": 2952.08,
+      "end": 2953.96,
+      "text": "Speaker 4: a bond market, and it's in effect true in the"
+    },
+    {
+      "start": 2953.96,
+      "end": 2959.24,
+      "text": "Speaker 4: stock market. So we might be looking some supply demand"
+    },
+    {
+      "start": 2960.16,
+      "end": 2965.32,
+      "text": "Speaker 4: excess where prices soften just because there's so much supplier"
+    },
+    {
+      "start": 2965.92,
+      "end": 2970.84,
+      "text": "Speaker 4: of securities and the need to monetize is so great"
+    },
+    {
+      "start": 2971.12,
+      "end": 2972.36,
+      "text": "Speaker 4: by these private companies."
+    },
+    {
+      "start": 2972.48,
+      "end": 2978.08,
+      "text": "Speaker 2: So let's talk about another imbalance between supply and demands"
+    },
+    {
+      "start": 2978.239,
+      "end": 2982.719,
+      "text": "Speaker 2: through history. Because Bowpost has been around for over four decades,"
+    },
+    {
+      "start": 2983.4,
+      "end": 2988.56,
+      "text": "Speaker 2: You've traded and invested through and survived all sorts of"
+    },
+    {
+      "start": 2988.6,
+      "end": 2994.48,
+      "text": "Speaker 2: different market regimes, inflation, disinflation, the dot com bubble, the"
+    },
+    {
+      "start": 2994.52,
+      "end": 3001.28,
+      "text": "Speaker 2: financial crisis, QE and ZUP, COVID, and and more recently"
+    },
+    {
+      "start": 3001.36,
+      "end": 3005.4,
+      "text": "Speaker 2: the return to let's just call it normalized interest rates."
+    },
+    {
+      "start": 3006.64,
+      "end": 3009.64,
+      "text": "Speaker 2: Has anything changed since nineteen eighty two? Is it just"
+    },
+    {
+      "start": 3009.719,
+      "end": 3015.16,
+      "text": "Speaker 2: the same careening from one crisis to another or do"
+    },
+    {
+      "start": 3015.28,
+      "end": 3019.52,
+      "text": "Speaker 2: things eventually sort of moderate? Sort of do we learn"
+    },
+    {
+      "start": 3019.6,
+      "end": 3022.68,
+      "text": "Speaker 2: from these experiences, what's the same, what's different."
+    },
+    {
+      "start": 3024.76,
+      "end": 3027.88,
+      "text": "Speaker 4: I think that all investors should be students of history,"
+    },
+    {
+      "start": 3027.96,
+      "end": 3030.56,
+      "text": "Speaker 4: as we talked about, and I think we know that"
+    },
+    {
+      "start": 3030.68,
+      "end": 3033.799,
+      "text": "Speaker 4: over the course of history, they're cycles that you're going"
+    },
+    {
+      "start": 3033.84,
+      "end": 3037.52,
+      "text": "Speaker 4: to have a cycle where you're at war, and then"
+    },
+    {
+      "start": 3037.56,
+      "end": 3039.719,
+      "text": "Speaker 4: another cycle where people are tired of war and you"
+    },
+    {
+      "start": 3039.719,
+      "end": 3042.04,
+      "text": "Speaker 4: have peace for a while. At some point you have"
+    },
+    {
+      "start": 3042.12,
+      "end": 3044.56,
+      "text": "Speaker 4: peace long enough that people forget how bad war is,"
+    },
+    {
+      "start": 3044.64,
+      "end": 3046.92,
+      "text": "Speaker 4: and you end up in another war, and you have"
+    },
+    {
+      "start": 3047.0,
+      "end": 3052.32,
+      "text": "Speaker 4: those similar cycles. Whether it's the government spending and inflation"
+    },
+    {
+      "start": 3052.44,
+      "end": 3055.479,
+      "text": "Speaker 4: and deflation, that sort of thing. Even the nature of debt."
+    },
+    {
+      "start": 3055.92,
+      "end": 3059.08,
+      "text": "Speaker 4: That debt feels great when nobody's asking you to pay"
+    },
+    {
+      "start": 3059.12,
+      "end": 3060.88,
+      "text": "Speaker 4: it back and an interest rates are low. At some"
+    },
+    {
+      "start": 3060.96,
+      "end": 3064.759,
+      "text": "Speaker 4: point that becomes pernicious and a giant problem. So I"
+    },
+    {
+      "start": 3064.8,
+      "end": 3067.52,
+      "text": "Speaker 4: think we're likely to always see those cycles, at least"
+    },
+    {
+      "start": 3067.52,
+      "end": 3071.399,
+      "text": "Speaker 4: as long as humans are in charge of markets. How"
+    },
+    {
+      "start": 3071.4,
+      "end": 3074.08,
+      "text": "Speaker 4: do you navigate it? I think you navigate it by"
+    },
+    {
+      "start": 3074.2,
+      "end": 3077.24,
+      "text": "Speaker 4: realizing that you may not see the cycle with clarity"
+    },
+    {
+      "start": 3077.239,
+      "end": 3079.68,
+      "text": "Speaker 4: while you're in it, but you know there are cycles."
+    },
+    {
+      "start": 3080.12,
+      "end": 3082.52,
+      "text": "Speaker 4: You know that what seems to be true today for"
+    },
+    {
+      "start": 3082.6,
+      "end": 3085.279,
+      "text": "Speaker 4: all time probably won't be true for all time, and"
+    },
+    {
+      "start": 3085.36,
+      "end": 3087.84,
+      "text": "Speaker 4: hold on to that. So again it goes to the"
+    },
+    {
+      "start": 3087.88,
+      "end": 3090.239,
+      "text": "Speaker 4: idea of holding inconsistent ideas in your head. At the"
+    },
+    {
+      "start": 3090.239,
+      "end": 3093.36,
+      "text": "Speaker 4: same time. This is both true and likely at some"
+    },
+    {
+      "start": 3093.44,
+      "end": 3097.04,
+      "text": "Speaker 4: point to become less true or untrue, and you don't"
+    },
+    {
+      "start": 3097.04,
+      "end": 3100.879,
+      "text": "Speaker 4: know exactly how So how do you hold the portfolio,"
+    },
+    {
+      "start": 3101.16,
+      "end": 3104.64,
+      "text": "Speaker 4: you diversify. When things are up a lot and become"
+    },
+    {
+      "start": 3104.68,
+      "end": 3107.279,
+      "text": "Speaker 4: more expensive and the go forward return is low, you"
+    },
+    {
+      "start": 3107.32,
+      "end": 3109.799,
+      "text": "Speaker 4: take profits. You trade out when things are out of"
+    },
+    {
+      "start": 3109.8,
+      "end": 3114.719,
+      "text": "Speaker 4: favor so badly that the returns look high. Maybe there's"
+    },
+    {
+      "start": 3114.76,
+      "end": 3117.0,
+      "text": "Speaker 4: a time to step in and buy during a period"
+    },
+    {
+      "start": 3117.04,
+      "end": 3120.359,
+      "text": "Speaker 4: when others are dumping. So I think it's that stay"
+    },
+    {
+      "start": 3120.36,
+      "end": 3123.96,
+      "text": "Speaker 4: focused on the bottom up. Remember broadly the weather, so"
+    },
+    {
+      "start": 3124.0,
+      "end": 3127.04,
+      "text": "Speaker 4: when you go camping, you don't not prepare appropriately for"
+    },
+    {
+      "start": 3127.12,
+      "end": 3130.36,
+      "text": "Speaker 4: stormy days, not just in the mountains but in the"
+    },
+    {
+      "start": 3130.36,
+      "end": 3134.759,
+      "text": "Speaker 4: financial markets. And look, Bowpost protects on the downside as"
+    },
+    {
+      "start": 3134.84,
+      "end": 3138.84,
+      "text": "Speaker 4: best we can by doing deep fundamental analysis, by knowing"
+    },
+    {
+      "start": 3138.84,
+      "end": 3142.04,
+      "text": "Speaker 4: our names unbelievably well, by not being afraid to sell"
+    },
+    {
+      "start": 3142.08,
+      "end": 3144.6,
+      "text": "Speaker 4: them when the price is up and the same as"
+    },
+    {
+      "start": 3144.6,
+      "end": 3147.4,
+      "text": "Speaker 4: we buy more when the price is down. By finding"
+    },
+    {
+      "start": 3147.44,
+      "end": 3151.08,
+      "text": "Speaker 4: securities that are maybe more senior in nature, whether in"
+    },
+    {
+      "start": 3151.08,
+      "end": 3154.919,
+      "text": "Speaker 4: public or private markets, and by macro hedging the portfolio"
+    },
+    {
+      "start": 3154.96,
+      "end": 3157.64,
+      "text": "Speaker 4: to an extent, because we know that those rainy days"
+    },
+    {
+      "start": 3157.64,
+      "end": 3160.92,
+      "text": "Speaker 4: are going to happen, and so we're buying macro protection"
+    },
+    {
+      "start": 3161.08,
+      "end": 3163.56,
+      "text": "Speaker 4: when volves are low and people think nothing bad is"
+    },
+    {
+      "start": 3163.56,
+      "end": 3166.0,
+      "text": "Speaker 4: going to happen, so we can sell that at a gain,"
+    },
+    {
+      "start": 3166.52,
+      "end": 3168.799,
+      "text": "Speaker 4: both because the price moved in bec has val moved"
+    },
+    {
+      "start": 3168.88,
+      "end": 3171.72,
+      "text": "Speaker 4: up during a stormier moment in the markets."
+    },
+    {
+      "start": 3172.32,
+      "end": 3175.279,
+      "text": "Speaker 2: So we now have a new FED chair and that's"
+    },
+    {
+      "start": 3175.28,
+      "end": 3179.52,
+      "text": "Speaker 2: a great leaping off point to talk about a lot"
+    },
+    {
+      "start": 3179.6,
+      "end": 3183.76,
+      "text": "Speaker 2: of skillicism broadly. But you've been pretty skeptical about FED"
+    },
+    {
+      "start": 3183.84,
+      "end": 3188.44,
+      "text": "Speaker 2: policy since the financial crisis. How do you think rates"
+    },
+    {
+      "start": 3188.48,
+      "end": 3193.759,
+      "text": "Speaker 2: have affected investors? What's been the impact on behavior and"
+    },
+    {
+      "start": 3194.239,
+      "end": 3196.68,
+      "text": "Speaker 2: are we at a point now where rates have more"
+    },
+    {
+      "start": 3196.8,
+      "end": 3199.52,
+      "text": "Speaker 2: or less normalized. How do you look at the present environment."
+    },
+    {
+      "start": 3201.2,
+      "end": 3205.839,
+      "text": "Speaker 4: You know, I believe in people taking responsibility for their actions."
+    },
+    {
+      "start": 3205.92,
+      "end": 3209.799,
+      "text": "Speaker 4: I believe that we are a healthier system when there's"
+    },
+    {
+      "start": 3209.84,
+      "end": 3213.839,
+      "text": "Speaker 4: a reckoning for excess and for you know, egregious speculation"
+    },
+    {
+      "start": 3214.16,
+      "end": 3217.56,
+      "text": "Speaker 4: and for over leverage. So I kind of hated that"
+    },
+    {
+      "start": 3217.6,
+      "end": 3221.279,
+      "text": "Speaker 4: the FED took rate I totally understood why the FED"
+    },
+    {
+      "start": 3221.28,
+      "end": 3224.2,
+      "text": "Speaker 4: took rates down to zero after the Great Financial Crisis,"
+    },
+    {
+      "start": 3224.64,
+      "end": 3226.52,
+      "text": "Speaker 4: and that it was really the only way to hold"
+    },
+    {
+      "start": 3226.52,
+      "end": 3229.8,
+      "text": "Speaker 4: things together give time to heal. But by leaving rates"
+    },
+    {
+      "start": 3229.8,
+      "end": 3233.08,
+      "text": "Speaker 4: there for an extra decade after there was no crisis,"
+    },
+    {
+      "start": 3233.16,
+      "end": 3237.0,
+      "text": "Speaker 4: I think we stoked a problem. We sort of incented"
+    },
+    {
+      "start": 3237.04,
+      "end": 3242.879,
+      "text": "Speaker 4: speculation and maybe dis incentivized responsibility, and so we got"
+    },
+    {
+      "start": 3242.88,
+      "end": 3246.96,
+      "text": "Speaker 4: some of that. We saw that firsthand in twenty twenty two,"
+    },
+    {
+      "start": 3247.32,
+      "end": 3250.2,
+      "text": "Speaker 4: when the market had gone higher and higher and higher."
+    },
+    {
+      "start": 3250.2,
+      "end": 3253.439,
+      "text": "Speaker 4: You had those SPACs and all kinds of garbage heet"
+    },
+    {
+      "start": 3253.44,
+      "end": 3256.8,
+      "text": "Speaker 4: companies training at very high prices the MEME stocks, and"
+    },
+    {
+      "start": 3256.84,
+      "end": 3258.6,
+      "text": "Speaker 4: then it blew up in twenty twenty two, a lot"
+    },
+    {
+      "start": 3258.64,
+      "end": 3262.04,
+      "text": "Speaker 4: of stocks down, you know, fifty seventy eighty ninety ninety"
+    },
+    {
+      "start": 3262.08,
+      "end": 3266.36,
+      "text": "Speaker 4: five percent. And that's what happens when you get that"
+    },
+    {
+      "start": 3266.44,
+      "end": 3274.8,
+      "text": "Speaker 4: kind of unregulated speculation. I think today we are back speculating."
+    },
+    {
+      "start": 3274.88,
+      "end": 3278.719,
+      "text": "Speaker 4: We're speculating in an era that in an area that"
+    },
+    {
+      "start": 3278.8,
+      "end": 3282.6,
+      "text": "Speaker 4: feels more legitimate. It's hard to say exactly what's going"
+    },
+    {
+      "start": 3282.64,
+      "end": 3288.6,
+      "text": "Speaker 4: to happen with the continued development of AI, with the"
+    },
+    {
+      "start": 3288.64,
+      "end": 3293.4,
+      "text": "Speaker 4: possibility of AGI coming and what that will mean. We"
+    },
+    {
+      "start": 3293.48,
+      "end": 3296.48,
+      "text": "Speaker 4: don't know whether it's going to lead to massive unemployment,"
+    },
+    {
+      "start": 3296.52,
+      "end": 3299.799,
+      "text": "Speaker 4: when it's going to lead to incredible prosperity, or whether"
+    },
+    {
+      "start": 3299.8,
+      "end": 3302.44,
+      "text": "Speaker 4: it's going to create even more dispersion in the economy"
+    },
+    {
+      "start": 3302.48,
+      "end": 3304.799,
+      "text": "Speaker 4: between the people are doing well and the people are"
+    },
+    {
+      "start": 3304.84,
+      "end": 3308.68,
+      "text": "Speaker 4: not doing well the case shaped economy, and that's a"
+    },
+    {
+      "start": 3308.719,
+      "end": 3311.64,
+      "text": "Speaker 4: real source of concern. So there's always going to be"
+    },
+    {
+      "start": 3311.68,
+      "end": 3315.0,
+      "text": "Speaker 4: that kind of uncertainty. I think what we should agree"
+    },
+    {
+      "start": 3315.16,
+      "end": 3317.96,
+      "text": "Speaker 4: is that there's going to be a path that nobody"
+    },
+    {
+      "start": 3318.0,
+      "end": 3321.36,
+      "text": "Speaker 4: today in twenty twenty six could say with any precision"
+    },
+    {
+      "start": 3321.68,
+      "end": 3323.44,
+      "text": "Speaker 4: what things are going to look like in two or"
+    },
+    {
+      "start": 3323.52,
+      "end": 3326.6,
+      "text": "Speaker 4: four or ten years. And the dilemma with that is"
+    },
+    {
+      "start": 3326.8,
+      "end": 3329.799,
+      "text": "Speaker 4: people are paying very high prices, so the future is"
+    },
+    {
+      "start": 3329.84,
+      "end": 3333.68,
+      "text": "Speaker 4: extremely predictable and clear when obviously, given what's going on,"
+    },
+    {
+      "start": 3333.84,
+      "end": 3335.04,
+      "text": "Speaker 4: it is anything but that."
+    },
+    {
+      "start": 3335.56,
+      "end": 3338.839,
+      "text": "Speaker 2: So you're a big Boston guy, and you mentioned you"
+    },
+    {
+      "start": 3338.88,
+      "end": 3342.08,
+      "text": "Speaker 2: were a big fan of the sports pages and all"
+    },
+    {
+      "start": 3342.12,
+      "end": 3346.0,
+      "text": "Speaker 2: the statistics. What do you think of what's going on"
+    },
+    {
+      "start": 3346.16,
+      "end": 3350.759,
+      "text": "Speaker 2: in sports these days? The Celtics didn't go as far"
+    },
+    {
+      "start": 3350.84,
+      "end": 3354.12,
+      "text": "Speaker 2: as some people thought. We're now Knicks are up to"
+    },
+    {
+      "start": 3354.12,
+      "end": 3357.28,
+      "text": "Speaker 2: one in the finals. How are you looking at basketball?"
+    },
+    {
+      "start": 3357.28,
+      "end": 3358.84,
+      "text": "Speaker 2: What do you like in sports these days?"
+    },
+    {
+      "start": 3360.56,
+      "end": 3365.56,
+      "text": "Speaker 4: So, my two biggest sports passions are baseball and I'm"
+    },
+    {
+      "start": 3365.6,
+      "end": 3368.6,
+      "text": "Speaker 4: a small owner in the Red Sox and horse racing,"
+    },
+    {
+      "start": 3368.8,
+      "end": 3371.92,
+      "text": "Speaker 4: and I've been fortunate to have some really high quality"
+    },
+    {
+      "start": 3372.28,
+      "end": 3376.52,
+      "text": "Speaker 4: thoroughbreds over the years, and we want a few races"
+    },
+    {
+      "start": 3376.92,
+      "end": 3379.52,
+      "text": "Speaker 4: Belmont Steakes weekend, not the Belmont, but a few other"
+    },
+    {
+      "start": 3379.84,
+      "end": 3383.16,
+      "text": "Speaker 4: stakes races this past weekend. So those are my favorite sports."
+    },
+    {
+      "start": 3383.44,
+      "end": 3387.0,
+      "text": "Speaker 4: I thought the Celtics season was disappointing. They played so"
+    },
+    {
+      "start": 3387.2,
+      "end": 3390.32,
+      "text": "Speaker 4: well the first three quarters of the season, and sadly,"
+    },
+    {
+      "start": 3390.4,
+      "end": 3393.759,
+      "text": "Speaker 4: when their superstar Jason Tatum came back, I think it"
+    },
+    {
+      "start": 3393.88,
+      "end": 3396.52,
+      "text": "Speaker 4: got them out of their game where they were introducing"
+    },
+    {
+      "start": 3396.6,
+      "end": 3399.2,
+      "text": "Speaker 4: younger players into the mix, they were passing the ball"
+    },
+    {
+      "start": 3399.239,
+      "end": 3402.64,
+      "text": "Speaker 4: a lot and really winning in an exciting way. So"
+    },
+    {
+      "start": 3402.719,
+      "end": 3406.08,
+      "text": "Speaker 4: maybe the chemistry just didn't go as well as they"
+    },
+    {
+      "start": 3406.08,
+      "end": 3408.319,
+      "text": "Speaker 4: had hoped, and then when Tatum got hurt right at"
+    },
+    {
+      "start": 3408.32,
+      "end": 3410.439,
+      "text": "Speaker 4: the end of the playoffs, we bowed out."
+    },
+    {
+      "start": 3411.719,
+      "end": 3413.16,
+      "text": "Speaker 3: I think sports is great."
+    },
+    {
+      "start": 3413.52,
+      "end": 3417.6,
+      "text": "Speaker 4: It's a place where Americans of Blue Americans and independent"
+    },
+    {
+      "start": 3417.64,
+      "end": 3420.2,
+      "text": "Speaker 4: Americans and Red Americans kind all root for the same"
+    },
+    {
+      "start": 3420.239,
+      "end": 3423.08,
+      "text": "Speaker 4: team and can be excited about a sport and could"
+    },
+    {
+      "start": 3423.08,
+      "end": 3426.84,
+      "text": "Speaker 4: do it in a way that's gracious and accept winning"
+    },
+    {
+      "start": 3426.92,
+      "end": 3430.719,
+      "text": "Speaker 4: but also except losing. Sports is a great equalizer and"
+    },
+    {
+      "start": 3430.8,
+      "end": 3433.68,
+      "text": "Speaker 4: a great unifier. So I love sports. It serves a"
+    },
+    {
+      "start": 3433.719,
+      "end": 3437.36,
+      "text": "Speaker 4: lot of positive purposes in a society. It's a little"
+    },
+    {
+      "start": 3437.44,
+      "end": 3441.439,
+      "text": "Speaker 4: crazy because we're rooting for strangers we've never met who"
+    },
+    {
+      "start": 3441.48,
+      "end": 3445.04,
+      "text": "Speaker 4: represent our city, but it is a powerful way that"
+    },
+    {
+      "start": 3445.08,
+      "end": 3446.68,
+      "text": "Speaker 4: I think also can unite a city."
+    },
+    {
+      "start": 3446.92,
+      "end": 3450.32,
+      "text": "Speaker 2: So baseball this year just seems to be so odd"
+    },
+    {
+      "start": 3450.4,
+      "end": 3454.96,
+      "text": "Speaker 2: that the Mets are having a hard time the Red Sox."
+    },
+    {
+      "start": 3456.12,
+      "end": 3457.96,
+      "text": "Speaker 2: I don't have no idea what's going to happen with"
+    },
+    {
+      "start": 3458.0,
+      "end": 3460.56,
+      "text": "Speaker 2: them this year. What do you think about what's happening"
+    },
+    {
+      "start": 3460.56,
+      "end": 3462.32,
+      "text": "Speaker 2: in baseball in twenty twenty six."
+    },
+    {
+      "start": 3463.72,
+      "end": 3467.8,
+      "text": "Speaker 4: Yeah, I think that it is partly as small numbers"
+    },
+    {
+      "start": 3467.84,
+      "end": 3470.88,
+      "text": "Speaker 4: that we've only played sixty or sixty five or seventy games,"
+    },
+    {
+      "start": 3471.2,
+      "end": 3472.8,
+      "text": "Speaker 4: so there's still a lot of season to go."
+    },
+    {
+      "start": 3473.0,
+      "end": 3474.6,
+      "text": "Speaker 2: But that's a third of a season."
+    },
+    {
+      "start": 3474.72,
+      "end": 3478.16,
+      "text": "Speaker 3: It's a third of a season. But statistics, you know, things."
+    },
+    {
+      "start": 3477.92,
+      "end": 3480.12,
+      "text": "Speaker 2: Can mean reversional eventually cast."
+    },
+    {
+      "start": 3481.8,
+      "end": 3483.76,
+      "text": "Speaker 4: In the same way that I mean, all of us"
+    },
+    {
+      "start": 3483.76,
+      "end": 3486.48,
+      "text": "Speaker 4: have to decide whether we believe on hot streaks or not. Right,"
+    },
+    {
+      "start": 3486.52,
+      "end": 3489.52,
+      "text": "Speaker 4: it looks like a thing, but in fact, is there"
+    },
+    {
+      "start": 3489.56,
+      "end": 3493.4,
+      "text": "Speaker 4: really a shooting streak or is it simply And and"
+    },
+    {
+      "start": 3494.04,
+      "end": 3497.48,
+      "text": "Speaker 4: to every good shooter, you you get a little overconfident,"
+    },
+    {
+      "start": 3497.56,
+      "end": 3498.64,
+      "text": "Speaker 4: start taking worse shots."
+    },
+    {
+      "start": 3498.68,
+      "end": 3500.72,
+      "text": "Speaker 2: It's when you when you."
+    },
+    {
+      "start": 3500.64,
+      "end": 3504.32,
+      "text": "Speaker 4: Take high percentage shots and you take them consistently. So"
+    },
+    {
+      "start": 3504.96,
+      "end": 3509.84,
+      "text": "Speaker 4: I think that that baseball will always surprise you. It's"
+    },
+    {
+      "start": 3509.88,
+      "end": 3512.84,
+      "text": "Speaker 4: a perplexing game that what you draw up on paper"
+    },
+    {
+      "start": 3512.92,
+      "end": 3516.68,
+      "text": "Speaker 4: doesn't happen. But it's also doesn't happen in the locker room."
+    },
+    {
+      "start": 3516.8,
+      "end": 3520.08,
+      "text": "Speaker 4: That the players can't understand. I could hit last year"
+    },
+    {
+      "start": 3520.28,
+      "end": 3522.6,
+      "text": "Speaker 4: and now I can't hit. And part of it is"
+    },
+    {
+      "start": 3522.68,
+      "end": 3526.8,
+      "text": "Speaker 4: that the opponents adjust that if you're a rookie and"
+    },
+    {
+      "start": 3526.84,
+      "end": 3528.6,
+      "text": "Speaker 4: you know Roman Anthony and you come up and you"
+    },
+    {
+      "start": 3528.68,
+      "end": 3532.8,
+      "text": "Speaker 4: hit three hundred for two months, he's hurt. But the"
+    },
+    {
+      "start": 3532.88,
+      "end": 3536.08,
+      "text": "Speaker 4: pitching figures out your weak spots and they make you"
+    },
+    {
+      "start": 3536.12,
+      "end": 3538.6,
+      "text": "Speaker 4: look bad. And then you were you adjust and you"
+    },
+    {
+      "start": 3538.64,
+      "end": 3541.0,
+      "text": "Speaker 4: make the pitchers look bad. So I think there's that"
+    },
+    {
+      "start": 3541.16,
+      "end": 3547.72,
+      "text": "Speaker 4: perpetual back and forth between defense adjusting and then offense adjusting,"
+    },
+    {
+      "start": 3548.24,
+      "end": 3550.44,
+      "text": "Speaker 4: and where it ends up determines who goes in the"
+    },
+    {
+      "start": 3550.44,
+      "end": 3550.959,
+      "text": "Speaker 4: Hall of Fame."
+    },
+    {
+      "start": 3551.32,
+      "end": 3556.36,
+      "text": "Speaker 2: Huh really interesting. You very famously kept a low profile"
+    },
+    {
+      "start": 3557.32,
+      "end": 3563.28,
+      "text": "Speaker 2: in a business that has historically rewarded publicity. Was that"
+    },
+    {
+      "start": 3563.36,
+      "end": 3569.36,
+      "text": "Speaker 2: a conscious decision? Was that a strategic approach? And why"
+    },
+    {
+      "start": 3570.72,
+      "end": 3575.72,
+      "text": "Speaker 2: be a little more public these days?"
+    },
+    {
+      "start": 3576.88,
+      "end": 3580.24,
+      "text": "Speaker 4: So I'm probably a little bit more introvert than extrovert,"
+    },
+    {
+      "start": 3580.36,
+      "end": 3583.64,
+      "text": "Speaker 4: so I'm not looking to be on TV or in"
+    },
+    {
+      "start": 3583.68,
+      "end": 3586.28,
+      "text": "Speaker 4: the papers. I also think a lot of the work"
+    },
+    {
+      "start": 3586.32,
+      "end": 3589.28,
+      "text": "Speaker 4: we do is better off when everybody isn't looking to"
+    },
+    {
+      "start": 3589.4,
+      "end": 3592.84,
+      "text": "Speaker 4: copy our investments. That if you want to accumulate a stock,"
+    },
+    {
+      "start": 3593.24,
+      "end": 3595.88,
+      "text": "Speaker 4: you're better off. If everybody doesn't know that you're trying"
+    },
+    {
+      "start": 3595.92,
+      "end": 3597.64,
+      "text": "Speaker 4: to do that, you're going to get a better price,"
+    },
+    {
+      "start": 3598.04,
+      "end": 3601.84,
+      "text": "Speaker 4: Like in any business transaction that said, We've never been"
+    },
+    {
+      "start": 3602.08,
+      "end": 3604.8,
+      "text": "Speaker 4: We're not a recluse. You know, everybody knows where we are,"
+    },
+    {
+      "start": 3605.68,
+      "end": 3608.72,
+      "text": "Speaker 4: Everybody knows members of our team. We're very very well"
+    },
+    {
+      "start": 3608.76,
+      "end": 3611.68,
+      "text": "Speaker 4: known on the street. You just don't see me on TV."
+    },
+    {
+      "start": 3611.8,
+      "end": 3614.36,
+      "text": "Speaker 4: Talking about it all the time. I don't know why"
+    },
+    {
+      "start": 3614.4,
+      "end": 3616.16,
+      "text": "Speaker 4: that's a bad thing. It feels to me like a"
+    },
+    {
+      "start": 3616.2,
+      "end": 3616.64,
+      "text": "Speaker 4: good thing."
+    },
+    {
+      "start": 3617.56,
+      "end": 3620.24,
+      "text": "Speaker 2: And beyond investing, you and your wife have been very"
+    },
+    {
+      "start": 3620.28,
+      "end": 3625.92,
+      "text": "Speaker 2: active philanthropists the Clarman Cell Observatory. There's been just a"
+    },
+    {
+      "start": 3626.0,
+      "end": 3629.72,
+      "text": "Speaker 2: run of different things. How do you think about philanthropy,"
+    },
+    {
+      "start": 3629.76,
+      "end": 3632.76,
+      "text": "Speaker 2: how do you think about capital allocation? And how do"
+    },
+    {
+      "start": 3632.8,
+      "end": 3635.48,
+      "text": "Speaker 2: you make sure that the money that are going to"
+    },
+    {
+      "start": 3635.56,
+      "end": 3638.0,
+      "text": "Speaker 2: these causes is being well spent."
+    },
+    {
+      "start": 3639.6,
+      "end": 3642.16,
+      "text": "Speaker 4: On our third date, my wife and I were taking"
+    },
+    {
+      "start": 3642.16,
+      "end": 3645.24,
+      "text": "Speaker 4: a walk on Cape Cod on the beach and she said,"
+    },
+    {
+      "start": 3646.52,
+      "end": 3648.84,
+      "text": "Speaker 4: and we're just getting to know each other obviously, third date,"
+    },
+    {
+      "start": 3649.36,
+      "end": 3651.84,
+      "text": "Speaker 4: she said, what do you hope for in your life?"
+    },
+    {
+      "start": 3652.0,
+      "end": 3654.72,
+      "text": "Speaker 4: I said, I hope that if I'm able to provide"
+    },
+    {
+      "start": 3654.76,
+      "end": 3658.12,
+      "text": "Speaker 4: for my family and there's still resources beyond that, I"
+    },
+    {
+      "start": 3658.12,
+      "end": 3660.36,
+      "text": "Speaker 4: want to get back. And that just comes from my"
+    },
+    {
+      "start": 3660.44,
+      "end": 3663.48,
+      "text": "Speaker 4: fundamental view. I guess it's how I was raised, that"
+    },
+    {
+      "start": 3664.04,
+      "end": 3665.88,
+      "text": "Speaker 4: some of us are going to be fortunate and be"
+    },
+    {
+      "start": 3665.96,
+      "end": 3668.12,
+      "text": "Speaker 4: in that position at a time when not everybody is."
+    },
+    {
+      "start": 3668.76,
+      "end": 3672.6,
+      "text": "Speaker 4: And it's both it's both a privilege and a responsibility"
+    },
+    {
+      "start": 3672.64,
+      "end": 3678.2,
+      "text": "Speaker 4: to give backs. You can't take it with you, and"
+    },
+    {
+      "start": 3678.64,
+      "end": 3681.8,
+      "text": "Speaker 4: you probably don't want to. I mean, it's not a"
+    },
+    {
+      "start": 3681.84,
+      "end": 3685.6,
+      "text": "Speaker 4: good look to spend it all ostentatiously in your lifetime."
+    },
+    {
+      "start": 3685.64,
+      "end": 3686.6,
+      "text": "Speaker 3: That's not my nature."
+    },
+    {
+      "start": 3687.2,
+      "end": 3690.08,
+      "text": "Speaker 4: So I've always, i think, been working to make money"
+    },
+    {
+      "start": 3690.16,
+      "end": 3692.84,
+      "text": "Speaker 4: to give away, and it's what keeps me focused today"
+    },
+    {
+      "start": 3692.96,
+      "end": 3696.04,
+      "text": "Speaker 4: that I love investing as a puzzle, but I love"
+    },
+    {
+      "start": 3696.12,
+      "end": 3699.28,
+      "text": "Speaker 4: knowing that if we do it well, we serve our clients,"
+    },
+    {
+      "start": 3699.44,
+      "end": 3700.84,
+      "text": "Speaker 4: I'm going to have money that I'm going to be"
+    },
+    {
+      "start": 3700.88,
+      "end": 3703.92,
+      "text": "Speaker 4: able to add to what we give to charity. Charity"
+    },
+    {
+      "start": 3704.52,
+      "end": 3709.44,
+      "text": "Speaker 4: is a calling. It feels very very important to me personally."
+    },
+    {
+      "start": 3709.92,
+      "end": 3713.04,
+      "text": "Speaker 4: I think this is a broken world. There are all"
+    },
+    {
+      "start": 3713.16,
+      "end": 3722.16,
+      "text": "Speaker 4: kinds of problems, from climate change to a poor education system,"
+    },
+    {
+      "start": 3723.24,
+      "end": 3728.68,
+      "text": "Speaker 4: to challenges to democracy that threaten America the way you"
+    },
+    {
+      "start": 3728.72,
+      "end": 3730.84,
+      "text": "Speaker 4: and I have known it our whole lives, and the"
+    },
+    {
+      "start": 3730.88,
+      "end": 3734.6,
+      "text": "Speaker 4: country that I want You probably want future generations to"
+    },
+    {
+      "start": 3734.64,
+      "end": 3737.48,
+      "text": "Speaker 4: grow up. And America has been amazing for me. I"
+    },
+    {
+      "start": 3737.52,
+      "end": 3740.4,
+      "text": "Speaker 4: have been such a beneficiary of growing up in this"
+    },
+    {
+      "start": 3740.44,
+      "end": 3744.12,
+      "text": "Speaker 4: country and having unprecedented opportunities that if I was in"
+    },
+    {
+      "start": 3744.16,
+      "end": 3747.2,
+      "text": "Speaker 4: another country I wouldn't have had. So I'm grateful for that."
+    },
+    {
+      "start": 3747.28,
+      "end": 3749.32,
+      "text": "Speaker 4: I want to make sure everybody has the same chance,"
+    },
+    {
+      "start": 3749.64,
+      "end": 3752.04,
+      "text": "Speaker 4: but we also have to be realistic. The America dream"
+    },
+    {
+      "start": 3752.12,
+      "end": 3754.48,
+      "text": "Speaker 4: is broken for a lot of people. People are less"
+    },
+    {
+      "start": 3754.56,
+      "end": 3757.84,
+      "text": "Speaker 4: likely today to be able to say that their kids"
+    },
+    {
+      "start": 3757.88,
+      "end": 3761.36,
+      "text": "Speaker 4: and grandkids will be able to eclipse them, and I"
+    },
+    {
+      "start": 3761.36,
+      "end": 3763.04,
+      "text": "Speaker 4: think we need to restore that, and we have a"
+    },
+    {
+      "start": 3763.08,
+      "end": 3764.12,
+      "text": "Speaker 4: lot of hard work to do."
+    },
+    {
+      "start": 3764.52,
+      "end": 3764.64,
+      "text": "Speaker 3: So."
+    },
+    {
+      "start": 3764.68,
+      "end": 3768.28,
+      "text": "Speaker 4: Our philanthropy goes into many different areas, some as you said,"
+    },
+    {
+      "start": 3768.28,
+      "end": 3771.76,
+      "text": "Speaker 4: in science, some in terms of thinking about democracy and"
+    },
+    {
+      "start": 3772.16,
+      "end": 3776.96,
+      "text": "Speaker 4: making sure that the system holds, some in terms of healthcare,"
+    },
+    {
+      "start": 3777.72,
+      "end": 3780.8,
+      "text": "Speaker 4: some to the universities that we're going to. Me and"
+    },
+    {
+      "start": 3780.84,
+      "end": 3785.2,
+      "text": "Speaker 4: my wife. We spread it pretty well because we believe"
+    },
+    {
+      "start": 3785.28,
+      "end": 3790.2,
+      "text": "Speaker 4: that a lot of causes will come together to be"
+    },
+    {
+      "start": 3790.28,
+      "end": 3793.08,
+      "text": "Speaker 4: able to lift up people throughout the country. One of"
+    },
+    {
+      "start": 3793.08,
+      "end": 3796.64,
+      "text": "Speaker 4: the things we do is a music instrument fund because"
+    },
+    {
+      "start": 3796.72,
+      "end": 3799.44,
+      "text": "Speaker 4: our son is extremely musical and it reminded us that"
+    },
+    {
+      "start": 3799.8,
+      "end": 3802.64,
+      "text": "Speaker 4: every kid that is passionate about music should have a"
+    },
+    {
+      "start": 3802.72,
+      "end": 3807.48,
+      "text": "Speaker 4: chance to have an instrument. We also do capital gifts"
+    },
+    {
+      "start": 3807.88,
+      "end": 3812.8,
+      "text": "Speaker 4: in institutions throughout Massachusetts. In some of the harder hit"
+    },
+    {
+      "start": 3812.88,
+      "end": 3818.0,
+      "text": "Speaker 4: towns during COVID or just economically depressed areas, there's just"
+    },
+    {
+      "start": 3818.04,
+      "end": 3820.44,
+      "text": "Speaker 4: not a lot of money there, so kind of as"
+    },
+    {
+      "start": 3820.48,
+      "end": 3824.48,
+      "text": "Speaker 4: a value investor, I'm seeing an opportunity to refurbish the"
+    },
+    {
+      "start": 3824.52,
+      "end": 3828.48,
+      "text": "Speaker 4: civic center or this library in a small town in Massachusetts,"
+    },
+    {
+      "start": 3828.84,
+      "end": 3832.2,
+      "text": "Speaker 4: and it just feels great to know that the people"
+    },
+    {
+      "start": 3832.2,
+      "end": 3834.68,
+      "text": "Speaker 4: in Pittsfield will have as good a library as the"
+    },
+    {
+      "start": 3834.68,
+      "end": 3837.36,
+      "text": "Speaker 4: people in Boston really interesting."
+    },
+    {
+      "start": 3837.52,
+      "end": 3840.6,
+      "text": "Speaker 2: All right, let's jump to our favorite questions ask all"
+    },
+    {
+      "start": 3840.64,
+      "end": 3844.6,
+      "text": "Speaker 2: our guests, starting with who were your mentors who helped"
+    },
+    {
+      "start": 3844.96,
+      "end": 3845.96,
+      "text": "Speaker 2: shape your career?"
+    },
+    {
+      "start": 3847.52,
+      "end": 3847.64,
+      "text": "Speaker 3: So?"
+    },
+    {
+      "start": 3848.28,
+      "end": 3851.0,
+      "text": "Speaker 4: I worked for Max Heine and Michael Price at Mutual"
+    },
+    {
+      "start": 3851.04,
+      "end": 3854.36,
+      "text": "Speaker 4: Shares right out of college, and that was an incredible"
+    },
+    {
+      "start": 3854.36,
+      "end": 3858.36,
+      "text": "Speaker 4: couple of years they and I stayed in close relationship"
+    },
+    {
+      "start": 3858.4,
+      "end": 3860.44,
+      "text": "Speaker 4: with them over the years. They've been great friends and"
+    },
+    {
+      "start": 3860.52,
+      "end": 3863.64,
+      "text": "Speaker 4: mentors to me. I think Warren Buffett, who I didn't"
+    },
+    {
+      "start": 3863.68,
+      "end": 3867.04,
+      "text": "Speaker 4: know until later in my career, but reading about Warren,"
+    },
+    {
+      "start": 3867.12,
+      "end": 3870.44,
+      "text": "Speaker 4: reading his annual reports and reading his old shareholder letters"
+    },
+    {
+      "start": 3870.88,
+      "end": 3875.56,
+      "text": "Speaker 4: was very inspiring and also reminded me of the idea"
+    },
+    {
+      "start": 3875.56,
+      "end": 3878.52,
+      "text": "Speaker 4: of quality companies, which was not something that Graham and"
+    },
+    {
+      "start": 3878.56,
+      "end": 3881.32,
+      "text": "Speaker 4: Dodd talked that much about, but was something that Warren"
+    },
+    {
+      "start": 3881.48,
+      "end": 3884.84,
+      "text": "Speaker 4: taught us all about. I think, so they were the"
+    },
+    {
+      "start": 3884.84,
+      "end": 3887.0,
+      "text": "Speaker 4: people I would list as mentors. And then I also"
+    },
+    {
+      "start": 3887.04,
+      "end": 3890.44,
+      "text": "Speaker 4: developed mentors who were kind of peers that I had"
+    },
+    {
+      "start": 3890.44,
+      "end": 3893.2,
+      "text": "Speaker 4: a tiny firm. I didn't get trained officially at any"
+    },
+    {
+      "start": 3893.24,
+      "end": 3896.0,
+      "text": "Speaker 4: big Wall Street firm, but I was able to form"
+    },
+    {
+      "start": 3896.04,
+      "end": 3899.64,
+      "text": "Speaker 4: friendships with people that ran other funds. And some of"
+    },
+    {
+      "start": 3899.68,
+      "end": 3902.6,
+      "text": "Speaker 4: those people probably you know all of them, but somebody"
+    },
+    {
+      "start": 3902.64,
+      "end": 3905.84,
+      "text": "Speaker 4: like Richard Perry or somebody like Frank Rosen's or somebody"
+    },
+    {
+      "start": 3905.92,
+      "end": 3910.44,
+      "text": "Speaker 4: like Paul Singer have all been mentors in various ways"
+    },
+    {
+      "start": 3910.48,
+      "end": 3913.56,
+      "text": "Speaker 4: over the years, in a way that you know, hopefully"
+    },
+    {
+      "start": 3913.6,
+      "end": 3916.4,
+      "text": "Speaker 4: I've provided something to them as well. But I think"
+    },
+    {
+      "start": 3916.76,
+      "end": 3920.56,
+      "text": "Speaker 4: finding kindred spirits out there makes all of us both"
+    },
+    {
+      "start": 3920.76,
+      "end": 3923.76,
+      "text": "Speaker 4: enriched by the experience but also wiser along the way."
+    },
+    {
+      "start": 3924.24,
+      "end": 3927.28,
+      "text": "Speaker 2: Good, good answer. Let's talk about books. You mentioned you're"
+    },
+    {
+      "start": 3927.28,
+      "end": 3929.16,
+      "text": "Speaker 2: a big reader. What are you reading now? What are"
+    },
+    {
+      "start": 3929.2,
+      "end": 3930.6,
+      "text": "Speaker 2: some of your favorites."
+    },
+    {
+      "start": 3932.08,
+      "end": 3936.92,
+      "text": "Speaker 4: So right now, I'm finishing Lloyd Blankfind's memoir. I'm also"
+    },
+    {
+      "start": 3936.96,
+      "end": 3941.04,
+      "text": "Speaker 4: reading Michael Poland's latest book about Consciousness, which is really interesting."
+    },
+    {
+      "start": 3942.32,
+      "end": 3947.08,
+      "text": "Speaker 4: It's combined some things I'm intrigued by, including the idea"
+    },
+    {
+      "start": 3947.12,
+      "end": 3950.48,
+      "text": "Speaker 4: of what plants are up to. Plants turn out to"
+    },
+    {
+      "start": 3950.48,
+      "end": 3953.04,
+      "text": "Speaker 4: be a lot more conscious and a lot more aware"
+    },
+    {
+      "start": 3953.08,
+      "end": 3956.08,
+      "text": "Speaker 4: of their environment than you might think when you just"
+    },
+    {
+      "start": 3956.12,
+      "end": 3958.919,
+      "text": "Speaker 4: walk by them and think of it as lawn. There's"
+    },
+    {
+      "start": 3958.92,
+      "end": 3962.36,
+      "text": "Speaker 4: a lot more going on with plants. I love history."
+    },
+    {
+      "start": 3963.16,
+      "end": 3965.68,
+      "text": "Speaker 4: My favorite is probably Battle Cry of Freedom about the"
+    },
+    {
+      "start": 3965.72,
+      "end": 3970.96,
+      "text": "Speaker 4: Civil War. I read a fair amount of everything. I"
+    },
+    {
+      "start": 3971.0,
+      "end": 3975.36,
+      "text": "Speaker 4: love The Red Queen and evolutionary biology. I'm a pretty"
+    },
+    {
+      "start": 3975.36,
+      "end": 3979.76,
+      "text": "Speaker 4: good reader of fiction as well, biography, memoir across the board."
+    },
+    {
+      "start": 3980.92,
+      "end": 3983.48,
+      "text": "Speaker 2: You mentioned podcasts. What are you listening to or what"
+    },
+    {
+      "start": 3983.52,
+      "end": 3985.56,
+      "text": "Speaker 2: are you watching and streaming these days?"
+    },
+    {
+      "start": 3986.2,
+      "end": 3988.68,
+      "text": "Speaker 4: My favorite streaming I think this was this is maybe"
+    },
+    {
+      "start": 3988.72,
+      "end": 3994.2,
+      "text": "Speaker 4: a golden age of TV streaming. We loved pitt on"
+    },
+    {
+      "start": 3994.84,
+      "end": 3998.96,
+      "text": "Speaker 4: the Pittsburgh General Hospital Emergency Room and it's just a"
+    },
+    {
+      "start": 3999.0,
+      "end": 4003.56,
+      "text": "Speaker 4: remarkable series. Noah Wiley but also a great surrounding cast"
+    },
+    {
+      "start": 4004.24,
+      "end": 4008.36,
+      "text": "Speaker 4: is just off the charts. We also loved Shrinking."
+    },
+    {
+      "start": 4008.88,
+      "end": 4012.48,
+      "text": "Speaker 2: Yep, that was a lot of fun. Final two questions,"
+    },
+    {
+      "start": 4012.64,
+      "end": 4014.88,
+      "text": "Speaker 2: what sort of advice would you give to a recent"
+    },
+    {
+      "start": 4014.92,
+      "end": 4018.84,
+      "text": "Speaker 2: college grad interested in a career in investing?"
+    },
+    {
+      "start": 4019.76,
+      "end": 4022.76,
+      "text": "Speaker 4: Yeah, first of all, go somewhere that you would want"
+    },
+    {
+      "start": 4022.8,
+      "end": 4025.4,
+      "text": "Speaker 4: your capital invested. If you wouldn't put your money there,"
+    },
+    {
+      "start": 4025.72,
+      "end": 4028.2,
+      "text": "Speaker 4: don't go there, and don't be afraid to go somewhere"
+    },
+    {
+      "start": 4028.24,
+      "end": 4031.24,
+      "text": "Speaker 4: out of favor. You know, if two years ago you"
+    },
+    {
+      "start": 4031.24,
+      "end": 4033.68,
+      "text": "Speaker 4: would ask me, I would have said, well, biotech is"
+    },
+    {
+      "start": 4033.68,
+      "end": 4037.52,
+      "text": "Speaker 4: on it, you know, is hitting lows every day as"
+    },
+    {
+      "start": 4037.6,
+      "end": 4040.24,
+      "text": "Speaker 4: though there's never going to be any new drugs discovered"
+    },
+    {
+      "start": 4040.32,
+      "end": 4043.28,
+      "text": "Speaker 4: or anything good happening in that sector. I would have said,"
+    },
+    {
+      "start": 4043.36,
+      "end": 4045.6,
+      "text": "Speaker 4: I'm not sure. I'm not an expert on that stuff,"
+    },
+    {
+      "start": 4045.8,
+      "end": 4049.12,
+      "text": "Speaker 4: but take a close look. Now it's on fire, a"
+    },
+    {
+      "start": 4049.12,
+      "end": 4051.56,
+      "text": "Speaker 4: lot of takeovers, a lot of people are doing really well."
+    },
+    {
+      "start": 4052.12,
+      "end": 4054.88,
+      "text": "Speaker 4: I think that it pays to be a little contrarian"
+    },
+    {
+      "start": 4055.28,
+      "end": 4058.12,
+      "text": "Speaker 4: and go somewhere where they're going to be mentors to you,"
+    },
+    {
+      "start": 4058.36,
+      "end": 4060.08,
+      "text": "Speaker 4: where they're willing to be patient with you, where they're"
+    },
+    {
+      "start": 4060.12,
+      "end": 4061.76,
+      "text": "Speaker 4: not going to just expect you to make money the"
+    },
+    {
+      "start": 4061.8,
+      "end": 4064.2,
+      "text": "Speaker 4: first six months you're there. That's where you're going to"
+    },
+    {
+      "start": 4064.2,
+      "end": 4065.96,
+      "text": "Speaker 4: be able to build a career and learn a lot."
+    },
+    {
+      "start": 4066.96,
+      "end": 4070.08,
+      "text": "Speaker 2: Final question, what do you know about the world of"
+    },
+    {
+      "start": 4070.2,
+      "end": 4074.96,
+      "text": "Speaker 2: markets risk investing today? Would have been useful to know"
+    },
+    {
+      "start": 4075.32,
+      "end": 4078.72,
+      "text": "Speaker 2: forty plus years ago when you were first getting started."
+    },
+    {
+      "start": 4078.96,
+      "end": 4081.44,
+      "text": "Speaker 4: Yeah, I've thought of that. It's a really good and"
+    },
+    {
+      "start": 4081.56,
+      "end": 4085.28,
+      "text": "Speaker 4: hard question. And what I think is I wish I"
+    },
+    {
+      "start": 4085.36,
+      "end": 4090.24,
+      "text": "Speaker 4: knew the importance of the economic engine that Silicon Valley"
+    },
+    {
+      "start": 4090.36,
+      "end": 4094.04,
+      "text": "Speaker 4: is that American creativity and ingenuity is. It's why I"
+    },
+    {
+      "start": 4094.08,
+      "end": 4096.76,
+      "text": "Speaker 4: worry so much about the bad things happening in our"
+    },
+    {
+      "start": 4096.76,
+      "end": 4100.96,
+      "text": "Speaker 4: country like that are threatening our democracy. The ability to"
+    },
+    {
+      "start": 4101.12,
+      "end": 4105.08,
+      "text": "Speaker 4: try and fail, the ability to innovate, the desire to innovate."
+    },
+    {
+      "start": 4106.96,
+      "end": 4111.439,
+      "text": "Speaker 4: These startups unleash the passion of brilliant, hard working people"
+    },
+    {
+      "start": 4111.76,
+      "end": 4114.519,
+      "text": "Speaker 4: who want to cause their dream to happen, and that"
+    },
+    {
+      "start": 4115.84,
+      "end": 4120.12,
+      "text": "Speaker 4: is the driver of this economic engine that keeps not"
+    },
+    {
+      "start": 4120.16,
+      "end": 4123.36,
+      "text": "Speaker 4: only winning, but keeps outpacing everywhere else in the world."
+    },
+    {
+      "start": 4123.8,
+      "end": 4126.76,
+      "text": "Speaker 4: Israel has maybe a mini version of that, but it"
+    },
+    {
+      "start": 4126.84,
+      "end": 4129.2,
+      "text": "Speaker 4: hardly exists in the rest of the world, certainly doesn't"
+    },
+    {
+      "start": 4129.2,
+      "end": 4132.559,
+      "text": "Speaker 4: exist in Europe much. And it's really sad because the"
+    },
+    {
+      "start": 4132.64,
+      "end": 4137.28,
+      "text": "Speaker 4: opportunity that is present for young Americans to help to"
+    },
+    {
+      "start": 4138.2,
+      "end": 4141.96,
+      "text": "Speaker 4: stream and to start something is just an amazing engine"
+    },
+    {
+      "start": 4142.08,
+      "end": 4146.92,
+      "text": "Speaker 4: for their lives, for their communities, for future philanthropy, for"
+    },
+    {
+      "start": 4147.08,
+      "end": 4150.92,
+      "text": "Speaker 4: tax receipts. It's across the board, and I wish I'd"
+    },
+    {
+      "start": 4151.0,
+      "end": 4153.639,
+      "text": "Speaker 4: understood it better. I would have owned some venture capital"
+    },
+    {
+      "start": 4153.68,
+      "end": 4159.68,
+      "text": "Speaker 4: in my foundation. I would have been recommending that institutional"
+    },
+    {
+      "start": 4159.72,
+      "end": 4162.439,
+      "text": "Speaker 4: portfolios diversify into at least a piece."
+    },
+    {
+      "start": 4162.64,
+      "end": 4163.88,
+      "text": "Speaker 3: Now, venture capital is the."
+    },
+    {
+      "start": 4163.92,
+      "end": 4166.32,
+      "text": "Speaker 4: Last thing a value person is going to say, it's"
+    },
+    {
+      "start": 4166.32,
+      "end": 4169.24,
+      "text": "Speaker 4: a bargain, you should go long. But I do think"
+    },
+    {
+      "start": 4169.36,
+      "end": 4172.639,
+      "text": "Speaker 4: that as a value investor, maybe too much paint by numbers."
+    },
+    {
+      "start": 4173.04,
+      "end": 4176.16,
+      "text": "Speaker 4: I wasn't focused enough on the engine that is venture capital."
+    },
+    {
+      "start": 4177.0,
+      "end": 4180.639,
+      "text": "Speaker 2: Fascinating. Seth, thank you for being so generous with your time."
+    },
+    {
+      "start": 4181.24,
+      "end": 4184.84,
+      "text": "Speaker 2: We have been speaking with Seth Klarman. If you enjoy"
+    },
+    {
+      "start": 4184.92,
+      "end": 4187.6,
+      "text": "Speaker 2: this conversation, well, be sure and check out any of"
+    },
+    {
+      "start": 4187.68,
+      "end": 4190.559,
+      "text": "Speaker 2: the six hundred and fifty one we've done over the"
+    },
+    {
+      "start": 4190.6,
+      "end": 4195.24,
+      "text": "Speaker 2: previous twelve years. You can find those at Apple, iTunes, Spotify,"
+    },
+    {
+      "start": 4195.4,
+      "end": 4200.76,
+      "text": "Speaker 2: Bloomberg YouTube, wherever you get your favorite podcasts. I would"
+    },
+    {
+      "start": 4200.8,
+      "end": 4203.0,
+      "text": "Speaker 2: be remiss if I didn't thank the correct team that"
+    },
+    {
+      "start": 4203.08,
+      "end": 4207.12,
+      "text": "Speaker 2: helps me put these conversations together each and every week."
+    },
+    {
+      "start": 4207.6,
+      "end": 4213.52,
+      "text": "Speaker 2: Alexis Noriega is my video producer. Sean Russo is my researcher."
+    },
+    {
+      "start": 4214.24,
+      "end": 4218.92,
+      "text": "Speaker 2: Anna Luke is my podcast producer. I'm Barry Rdults. You've"
+    },
+    {
+      "start": 4218.96,
+      "end": 4222.719,
+      "text": "Speaker 2: been listening to Masters in Business on Bloomberg Radio"
+    }
+  ]
+}
