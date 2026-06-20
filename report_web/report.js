@@ -2,175 +2,158 @@
 const $=(s)=>document.querySelector(s);
 const esc=(s)=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const fmt=(s)=>{s=Math.max(0,Math.round(s||0));return `${Math.floor(s/60)}:${String(s%60).padStart(2,"0")}`;};
+const dshort=(iso)=>{if(!iso)return"";const d=new Date(iso);return isNaN(d)?"":`${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;};
 
 function applyTheme(t){document.documentElement.dataset.theme=t;try{localStorage.setItem("brief.theme",t);}catch{}}
 applyTheme((()=>{try{return localStorage.getItem("brief.theme")}catch{return null}})()||"light");
 $("#theme-btn").onclick=()=>applyTheme(document.documentElement.dataset.theme==="dark"?"light":"dark");
 
-let BRIEF=null;
-const F={view:"moments",labels:new Set(),exposures:new Set(),themes:new Set(),shows:new Set(),q:""};
+let BRIEF=null, EP={}, MOMS=[];
+const S={mode:"show",date:"all",scope:null,labels:new Set(),q:"",sel:null,open:new Set()};
 const ORDER=["Thesis-changing","Catalyst-relevant","Risk-relevant","Consensus-variant","Background only"];
 const LBL={
- "Thesis-changing":{t:"t-thesis",l:"l-thesis",s:"Thesis-changing"},
- "Catalyst-relevant":{t:"t-catalyst",l:"l-catalyst",s:"Catalyst"},
- "Risk-relevant":{t:"t-risk",l:"l-risk",s:"Risk"},
- "Consensus-variant":{t:"t-variant",l:"l-variant",s:"Variant perception"},
- "Background only":{t:"t-bg",l:"l-bg",s:"Background"},
+ "Thesis-changing":{c:"l-thesis",t:"t-thesis",s:"Thesis"},
+ "Catalyst-relevant":{c:"l-catalyst",t:"t-catalyst",s:"Catalyst"},
+ "Risk-relevant":{c:"l-risk",t:"t-risk",s:"Risk"},
+ "Consensus-variant":{c:"l-variant",t:"t-variant",s:"Variant"},
+ "Background only":{c:"l-bg",t:"t-bg",s:"Background"},
 };
+const lc=(m)=>LBL[m.label]||LBL["Background only"];
 
-function mVisible(m){
-  if(F.labels.size&&!F.labels.has(m.label))return false;
-  if(F.themes.size&&!F.themes.has(m.theme))return false;
-  if(F.shows.size&&!F.shows.has(m.show))return false;
-  if(F.exposures.size){
-    const es=(m.exposures||[]).concat(m.second_order||[]).map(x=>x.toLowerCase());
-    if(![...F.exposures].some(x=>es.some(e=>e.includes(x)||x.includes(e))))return false;
+function dateOK(m){
+  if(S.date==="all")return true;
+  const t=m._date?Date.parse(m._date):NaN; if(isNaN(t))return true;
+  return (Date.now()-t)<=(S.date==="week"?7:30)*864e5;
+}
+const expMatch=(m,v)=>{v=v.toLowerCase();return (m.exposures||[]).concat(m.second_order||[]).some(e=>{const x=e.toLowerCase();return x.includes(v)||v.includes(x);});};
+function scopeOK(m){const sc=S.scope;if(!sc)return true;
+  if(sc.type==="show")return m.show===sc.value;
+  if(sc.type==="episode")return m.ep_id===sc.value;
+  if(sc.type==="theme")return m.theme===sc.value;
+  if(sc.type==="exposure")return expMatch(m,sc.value);
+  return true;}
+const labelOK=(m)=>!S.labels.size||S.labels.has(m.label);
+const qOK=(m)=>!S.q||JSON.stringify(m).toLowerCase().includes(S.q.toLowerCase());
+const dateScoped=()=>MOMS.filter(dateOK);
+const visible=()=>MOMS.filter(m=>dateOK(m)&&scopeOK(m)&&labelOK(m)&&qOK(m));
+
+function renderTree(){
+  const host=$("#ltree"), base=dateScoped();
+  if(S.mode==="show"){
+    const by={};
+    base.forEach(m=>{(by[m.show]=by[m.show]||{n:0,eps:{}});by[m.show].n++;by[m.show].eps[m.ep_id]=(by[m.show].eps[m.ep_id]||0)+1;});
+    const shows=Object.keys(by).sort((a,b)=>by[b].n-by[a].n);
+    host.innerHTML=shows.map(sh=>{
+      const open=S.open.has(sh), selShow=S.scope&&S.scope.type==="show"&&S.scope.value===sh;
+      const eps=Object.keys(by[sh].eps).map(id=>({id,n:by[sh].eps[id],ep:EP[id]}))
+        .sort((a,b)=>((b.ep&&b.ep.published_at)||"").localeCompare((a.ep&&a.ep.published_at)||""));
+      return `<div class="tnode ${open?"open":""}">
+        <div class="trow ${selShow?"sel":""}" data-show="${esc(sh)}"><span class="caret">▸</span><span class="tname">${esc(sh)}</span><span class="tn">${by[sh].n}</span></div>
+        <div class="tchildren">${eps.map(e=>{
+          const selE=S.scope&&S.scope.type==="episode"&&S.scope.value===e.id, tt=e.ep?e.ep.title:e.id;
+          return `<div class="tleaf ${selE?"sel":""}" data-ep="${esc(e.id)}"><span class="td">${dshort(e.ep&&e.ep.published_at)}</span><span class="tt" title="${esc(tt)}">${esc(tt)}</span><span class="tn">${e.n}</span></div>`;
+        }).join("")}</div></div>`;
+    }).join("")||`<div class="tn" style="padding:8px">No shows in range.</div>`;
+  } else if(S.mode==="exposure"){
+    const cnt={}; base.forEach(m=>(m.exposures||[]).forEach(e=>{const k=e.trim();if(k)cnt[k]=(cnt[k]||0)+1;}));
+    const ranked=Object.entries(cnt).sort((a,b)=>b[1]-a[1]).slice(0,60);
+    host.innerHTML=ranked.map(([k,n])=>{const sel=S.scope&&S.scope.type==="exposure"&&S.scope.value===k;
+      return `<div class="tleaf ${sel?"sel":""}" data-exp="${esc(k)}"><span class="tt">${esc(k)}</span><span class="tn">${n}</span></div>`;}).join("")||`<div class="tn" style="padding:8px">No exposures.</div>`;
+  } else {
+    const cnt={}; base.forEach(m=>cnt[m.theme]=(cnt[m.theme]||0)+1);
+    host.innerHTML=Object.keys(cnt).sort((a,b)=>cnt[b]-cnt[a]).map(t=>{const sel=S.scope&&S.scope.type==="theme"&&S.scope.value===t;
+      return `<div class="tleaf ${sel?"sel":""}" data-theme="${esc(t)}"><span class="tt">${esc(t)}</span><span class="tn">${cnt[t]}</span></div>`;}).join("");
   }
-  if(F.q&&!JSON.stringify(m).toLowerCase().includes(F.q.toLowerCase()))return false;
-  return true;
 }
 
-function expChips(m){
-  return (m.exposures||[]).map(e=>`<span class="exp" data-exp="${esc(e)}">${esc(e)}</span>`).join("")
-   + (m.second_order||[]).map(e=>`<span class="exp so" data-exp="${esc(e)}">${esc(e)}</span>`).join("");
+function rowHtml(m){
+  const c=lc(m);
+  const ticks=(m.exposures||[]).slice(0,2).map(e=>`<span class="rtick">${esc(e)}</span>`).join("");
+  const icons=(m.clip_path?'<span class="ricon">🎧</span>':'')+'<span class="ricon">📄</span>';
+  return `<div class="row ${c.c} ${S.sel===m._id?"sel":""}" data-id="${m._id}"><span class="rdot ${c.c}"></span>
+    <span class="rhead">${esc(m.headline)}</span>
+    <span class="rmeta">${ticks}<span>${esc(m.show)}·${dshort(m._date)}</span>${icons}</span></div>`;
 }
-function momentCard(m){
-  const c=LBL[m.label]||LBL["Background only"];
-  const risk=m.risk_direction&&m.risk_direction!=="neutral"?`<span class="risk-i ${esc(m.risk_direction)}">${esc(m.risk_direction)}</span>`:"";
-  const ts=m.start?`@${fmt(m.start)}`:"";
-  const tx=m.ep_id?`<span class="txlink" data-tx data-ep="${esc(m.ep_id)}" data-t="${m.start||0}">📄 transcript ${ts}</span>`:"";
-  const src=`${esc(m.show)} · ${esc(m.theme)}${m.url?` · <a href="${esc(m.url)}" target="_blank" rel="noopener">source</a>`:""}`;
-  const exps=expChips(m);
-  const f=[];
-  if(m.thesis)f.push(`<div><b>Thesis:</b> ${esc(m.thesis)}</div>`);
-  if(exps)f.push(`<div><b>Exposed:</b> ${exps}</div>`);
-  if(m.consensus_variant)f.push(`<div><b>Variant:</b> ${esc(m.consensus_variant)}</div>`);
-  if(m.action)f.push(`<div><b>Do:</b> ${esc(m.action)}</div>`);
-  if(m.watch_next)f.push(`<div><b>Watch:</b> ${esc(m.watch_next)}</div>`);
-  const audio=m.clip_path?`<div class="audio"><div class="cap">🎧 clip · ${esc(m.headline).slice(0,60)}</div><audio controls preload="none" src="${esc(m.clip_path)}"></audio></div>`:"";
-  return `<div class="m ${c.l}">
-    <div class="m-h"><span class="tag ${c.t}">${c.s}</span>${risk}<span class="src">${src}</span>${tx}</div>
-    <div class="m-head">${esc(m.headline)}</div>
-    <div class="f">${f.join("")}</div>${audio}</div>`;
+function renderList(){
+  const vis=visible(), host=$("#list"), strip=$("#scope-strip");
+  if(S.scope){const lbl={show:"Show",episode:"Episode",exposure:"Exposure",theme:"Theme"}[S.scope.type];
+    let val=S.scope.value; if(S.scope.type==="episode"&&EP[val])val=EP[val].title;
+    strip.innerHTML=`${lbl}: <b>${esc(val)}</b> <span class="x" id="scope-x">✕ clear</span>`; strip.classList.remove("hidden");
+  } else strip.classList.add("hidden");
+  if(!vis.length){host.innerHTML=`<div class="empty">No moments match these filters.</div>`;}
+  else{let h="";for(const lab of ORDER){const g=vis.filter(m=>m.label===lab);if(!g.length)continue;
+    h+=`<div class="grp">${LBL[lab].s} · ${g.length}</div>`+g.map(rowHtml).join("");}host.innerHTML=h;}
+  const sx=$("#scope-x"); if(sx)sx.onclick=()=>{S.scope=null;renderAll();};
 }
 
-function renderMoments(){
-  const vis=(BRIEF.moments||[]).filter(mVisible);
-  let h=`<div class="exec"><h2>What changed this week</h2><div>${esc(BRIEF.exec_summary||"—")}</div></div>`;
-  for(const lab of ORDER){
-    const g=vis.filter(m=>m.label===lab); if(!g.length)continue;
-    h+=`<div class="sec-title">${LBL[lab].s} <span style="color:var(--muted)">· ${g.length}</span></div>`
-      +`<div class="mgrid">`+g.map(momentCard).join("")+`</div>`;
-  }
-  if(!vis.length)h+=`<div class="empty">No moments match these filters.</div>`;
-  return h;
+function expChips(m){return (m.exposures||[]).map(e=>`<span class="exp" data-exp="${esc(e)}">${esc(e)}</span>`).join("")
+   +(m.second_order||[]).map(e=>`<span class="exp so" data-exp="${esc(e)}">${esc(e)}</span>`).join("");}
+function renderDetail(){
+  const body=$("#detail-body");
+  if(S.sel===null){body.innerHTML=`<div class="d-empty"><h3>What changed this week</h3><div class="ex">${esc(BRIEF.exec_summary||"Select a moment for detail.")}</div></div>`;
+    document.body.classList.remove("has-sel");return;}
+  const m=MOMS[S.sel]; if(!m){body.innerHTML="";return;}
+  const c=lc(m);
+  const risk=m.risk_direction&&m.risk_direction!=="neutral"?`<span class="d-tag t-bg">${esc(m.risk_direction)}</span>`:"";
+  const f=(k,v)=>v?`<div class="d-f"><b>${k}</b>${esc(v)}</div>`:"";
+  body.innerHTML=`<div style="display:flex;gap:8px;align-items:center"><span class="d-tag ${c.t}">${c.s}</span>${risk}</div>
+    <div class="d-src">${esc(m.show)} · ${esc(m.theme)} · ${dshort(m._date)}${m.url?` · <a href="${esc(m.url)}" target="_blank" rel="noopener">source</a>`:""} · <span class="txlink" data-tx data-ep="${esc(m.ep_id)}" data-t="${m.start||0}">📄 transcript @${fmt(m.start)}</span></div>
+    <div class="d-head">${esc(m.headline)}</div>
+    ${m.quote?`<div class="d-f" style="font-style:italic;color:var(--muted)">“${esc(m.quote)}”</div>`:""}
+    ${f("Thesis",m.thesis)}
+    ${(m.exposures||[]).length?`<div class="d-f"><b>Exposed</b>${expChips(m)}</div>`:""}
+    ${f("Variant vs consensus",m.consensus_variant)}
+    ${f("Who / credibility",m.credible)}
+    ${f("Catalyst",m.catalyst)}
+    ${f("Do",m.action)}
+    ${f("Watch next",m.watch_next)}
+    ${m.clip_path?`<audio class="d-audio" controls preload="none" src="${esc(m.clip_path)}"></audio>`:""}`;
+  document.body.classList.add("has-sel");
 }
 
-function renderWatchlist(){
-  const ms=(BRIEF.moments||[]).filter(m=>{
-    if(F.themes.size&&!F.themes.has(m.theme))return false;
-    if(F.shows.size&&!F.shows.has(m.show))return false;
-    return true;});
-  const exp={};
-  for(const m of ms)for(const e of (m.exposures||[])){const k=e.trim();if(k)exp[k]=exp[k]||{n:0,labels:new Set()},exp[k].n++,exp[k].labels.add(m.label);}
-  const ranked=Object.entries(exp).sort((a,b)=>b[1].n-a[1].n).slice(0,30);
-  const expHtml=ranked.length?ranked.map(([k,v])=>`<div class="wl-row">
-     <span class="wl-name" data-exp="${esc(k)}">${esc(k)}</span>
-     <span class="wl-sub">${[...v.labels].includes("Thesis-changing")?"thesis ":""}${[...v.labels].includes("Catalyst-relevant")?"catalyst":""}</span>
-     <span class="wl-n">${v.n}×</span></div>`).join(""):`<div class="wl-sub">No exposures.</div>`;
-  const cats=ms.filter(m=>m.catalyst).map(m=>`<div class="wl-row"><span class="wl-sub"><b>${esc(m.catalyst)}</b> — ${esc(m.show)}: ${esc(m.headline).slice(0,70)}</span></div>`).join("")||`<div class="wl-sub">No catalysts flagged.</div>`;
-  const watch=ms.filter(m=>m.watch_next).map(m=>`<div class="wl-row"><span class="wl-sub">${esc(m.watch_next)} <span style="color:var(--muted)">— ${esc(m.show)}</span></span></div>`).join("")||`<div class="wl-sub">Nothing to watch.</div>`;
-  return `<div class="wl-grid">
-    <div class="wl-card"><h3>Exposures mentioned (click to filter)</h3>${expHtml}</div>
-    <div class="wl-card"><h3>Catalysts / timing</h3>${cats}</div>
-    <div class="wl-card" style="grid-column:1/-1"><h3>What to watch (1–8 weeks)</h3>${watch}</div>
-  </div>`;
-}
-
-function chainHtml(edges){
-  if(!edges||!edges.length)return "";
-  return `<div class="chain">`+edges.map(e=>`<div class="step">
-     <span class="node">${esc(e.from)}</span><span class="rel">${esc(e.relation)}</span>→
-     <span class="node k-${esc(e.kind)}">${esc(e.to)}</span></div>`).join("")+`</div>`;
-}
-function renderEpisodes(){
-  const q=F.q.toLowerCase();
-  const eps=(BRIEF.episodes||[]).filter(ep=>{
-    if(F.themes.size&&!F.themes.has(ep.theme))return false;
-    if(F.shows.size&&!F.shows.has(ep.show))return false;
-    if(q&&!JSON.stringify(ep).toLowerCase().includes(q))return false;
-    return true;
-  }).map(ep=>{
-    const moments=ep.moments.filter(m=>(!F.labels.size||F.labels.has(m.label)));
-    return `<div class="ep">
-      <div class="ep-h"><span class="show">${esc(ep.show)}</span>
-        <span class="ttl">${ep.url?`<a href="${esc(ep.url)}" target="_blank" rel="noopener">${esc(ep.title)}</a>`:esc(ep.title)}</span>
-        <span class="theme">${esc(ep.theme)}</span>
-        <span class="txlink" data-tx data-ep="${esc(ep.id)}" data-t="0">📄 transcript</span></div>
-      <div class="sec-title">Reasoning chain</div>${chainHtml(ep.reasoning_chain)}
-      <div class="sec-title">Moments · ${moments.length}</div>
-      ${moments.map(m=>momentCard({...m,show:ep.show,title:ep.title,url:ep.url,theme:ep.theme,ep_id:ep.id})).join("")}
-    </div>`;
-  }).join("");
-  return eps||`<div class="empty">No episodes match.</div>`;
-}
-
-async function openTranscript(epId, atTime){
+async function openTranscript(epId,atTime){
   let tx; try{tx=await fetch(`transcripts/${epId}.json`).then(r=>r.json());}catch{return;}
   $("#tx-title").textContent=`${tx.show} — ${tx.title}`;
   const a=$("#tx-audio"); a.src=tx.audio_url||"";
-  const segs=tx.segments||[];
-  let tgt=segs.findIndex(s=>s.end>=atTime); if(tgt<0)tgt=0;
+  const segs=tx.segments||[]; let tgt=segs.findIndex(s=>s.end>=atTime); if(tgt<0)tgt=0;
   $("#tx-body").innerHTML=segs.map((s,i)=>`<div class="tx-line${i===tgt?" hl":""}" data-t="${s.start}"><span class="tx-ts">${fmt(s.start)}</span><span>${esc(s.text)}</span></div>`).join("");
   $("#tx").classList.remove("hidden");
   const el=$("#tx-body").children[tgt]; if(el)el.scrollIntoView({block:"center"});
   if(a.src&&atTime){const seek=()=>{try{a.currentTime=Math.max(0,atTime);}catch{}};a.onloadedmetadata=seek;seek();}
 }
 
-function render(){
-  const n=F.labels.size+F.exposures.size+F.themes.size+F.shows.size;
-  const b=$("#filt-n"); b.textContent=n||""; b.classList.toggle("hidden",!n);
-  $("#view").innerHTML = F.view==="watchlist"?renderWatchlist():F.view==="episodes"?renderEpisodes():renderMoments();
+function renderLblbar(){
+  const present=ORDER.filter(l=>MOMS.some(m=>m.label===l));
+  $("#lblbar").innerHTML=present.map(l=>`<span class="lchip ${LBL[l].c} ${S.labels.has(l)?"on":""}" data-lab="${esc(l)}">${LBL[l].s}</span>`).join("");
 }
-
-function buildFilters(){
-  const f=BRIEF.facets||{};
-  const mk=(arr,set,host)=>{$(host).innerHTML=(arr||[]).map(v=>`<span class="fchip${set.has(v)?" on":""}" data-v="${esc(v)}">${esc(v)}</span>`).join("");};
-  mk((f.labels||[]).map(l=>l),F.labels,"#f-label");
-  $("#f-label").innerHTML=(f.labels||[]).map(v=>`<span class="fchip${F.labels.has(v)?" on":""}" data-v="${esc(v)}">${esc(LBL[v]?LBL[v].s:v)}</span>`).join("");
-  mk(f.exposures,F.exposures,"#f-exp"); mk(f.themes,F.themes,"#f-theme"); mk(f.shows,F.shows,"#f-show");
-}
-function toggle(set,v){set.has(v)?set.delete(v):set.add(v);}
+function renderAll(){renderTree();renderList();renderDetail();}
 
 (async function(){
-  try{BRIEF=await fetch("brief.json").then(r=>r.json());}catch{$("#view").innerHTML='<div class="empty">Couldn\'t load brief.json.</div>';return;}
+  try{BRIEF=await fetch("brief.json").then(r=>r.json());}catch{$("#list").innerHTML='<div class="empty">Couldn\'t load brief.json.</div>';return;}
+  (BRIEF.episodes||[]).forEach(e=>EP[e.id]=e);
+  MOMS=(BRIEF.moments||[]).map((m,i)=>({...m,_id:i,_date:(EP[m.ep_id]||{}).published_at||""}));
   $("#meta").textContent=`${(BRIEF.generated_at||"").slice(0,10)} · ${BRIEF.episodes_count||0} eps · ${BRIEF.moments_count||0} moments · ${BRIEF.clips_count||0} clips`;
   if(BRIEF.sample)$("#sample-banner").classList.remove("hidden");
-  buildFilters(); render();
+  renderLblbar(); renderAll();
 
-  $("#viewseg").onclick=(e)=>{const b=e.target.closest(".segbtn");if(!b)return;
-    F.view=b.dataset.view; [...$("#viewseg").children].forEach(x=>x.classList.toggle("on",x===b)); render();};
-  $("#filt-btn").onclick=()=>$("#filters").classList.toggle("hidden");
-  // filter chips
-  const wire=(host,set)=>{$(host).onclick=(e)=>{const c=e.target.closest(".fchip");if(!c)return;
-    toggle(set,c.dataset.v); c.classList.toggle("on"); render();};};
-  wire("#f-label",F.labels); wire("#f-exp",F.exposures); wire("#f-theme",F.themes); wire("#f-show",F.shows);
-  $("#fclear").onclick=()=>{F.labels.clear();F.exposures.clear();F.themes.clear();F.shows.clear();F.q="";$("#q").value="";buildFilters();render();};
-  // click an exposure anywhere → filter by it
-  $("#view").addEventListener("click",(e)=>{
-    const txb=e.target.closest("[data-tx]");
-    if(txb){ openTranscript(txb.dataset.ep, parseFloat(txb.dataset.t)||0); return; }
-    const x=e.target.closest("[data-exp]");if(!x)return;
-    const v=x.dataset.exp; F.exposures.add(v); F.view="moments";
-    [...$("#viewseg").children].forEach(b=>b.classList.toggle("on",b.dataset.view==="moments"));
-    buildFilters(); render(); window.scrollTo({top:0,behavior:"smooth"});});
-  let t;$("#q").oninput=(e)=>{F.q=e.target.value.trim();clearTimeout(t);t=setTimeout(render,160);};
-  // transcript modal
+  $("#dateseg").onclick=(e)=>{const b=e.target.closest(".segbtn");if(!b)return;S.date=b.dataset.date;[...$("#dateseg").children].forEach(x=>x.classList.toggle("on",x===b));renderAll();};
+  $("#modeseg").onclick=(e)=>{const b=e.target.closest(".segbtn");if(!b)return;S.mode=b.dataset.mode;S.scope=null;[...$("#modeseg").children].forEach(x=>x.classList.toggle("on",x===b));renderAll();};
+  $("#ltree").onclick=(e)=>{
+    const sh=e.target.closest("[data-show]"); if(sh){const n=sh.dataset.show;S.open.has(n)?S.open.delete(n):S.open.add(n);S.scope={type:"show",value:n};S.sel=null;renderAll();return;}
+    const ep=e.target.closest("[data-ep]"); if(ep){S.scope={type:"episode",value:ep.dataset.ep};S.sel=null;renderAll();return;}
+    const ex=e.target.closest("[data-exp]"); if(ex){S.scope={type:"exposure",value:ex.dataset.exp};S.sel=null;renderAll();return;}
+    const th=e.target.closest("[data-theme]"); if(th){S.scope={type:"theme",value:th.dataset.theme};S.sel=null;renderAll();return;}
+  };
+  $("#lblbar").onclick=(e)=>{const c=e.target.closest(".lchip");if(!c)return;const l=c.dataset.lab;S.labels.has(l)?S.labels.delete(l):S.labels.add(l);c.classList.toggle("on");renderList();};
+  $("#list").onclick=(e)=>{if(e.target.closest("#scope-x"))return;const r=e.target.closest(".row");if(!r)return;S.sel=Number(r.dataset.id);renderList();renderDetail();};
+  $("#detail").addEventListener("click",(e)=>{
+    const tx=e.target.closest("[data-tx]");if(tx){openTranscript(tx.dataset.ep,parseFloat(tx.dataset.t)||0);return;}
+    const ex=e.target.closest("[data-exp]");if(ex){S.mode="exposure";S.scope={type:"exposure",value:ex.dataset.exp};[...$("#modeseg").children].forEach(x=>x.classList.toggle("on",x.dataset.mode==="exposure"));renderAll();return;}
+  });
+  $("#detail-close").onclick=()=>{S.sel=null;renderDetail();renderList();};
+  let t;$("#q").oninput=(e)=>{S.q=e.target.value.trim();clearTimeout(t);t=setTimeout(()=>{renderTree();renderList();},160);};
   $("#tx-x").onclick=()=>$("#tx").classList.add("hidden");
   $("#tx").onclick=(e)=>{if(e.target.id==="tx")$("#tx").classList.add("hidden");};
   document.addEventListener("keydown",(e)=>{if(e.key==="Escape")$("#tx").classList.add("hidden");});
-  $("#tx-body").addEventListener("click",(e)=>{const ln=e.target.closest(".tx-line");if(!ln)return;
-    const a=$("#tx-audio"),tt=parseFloat(ln.dataset.t)||0;
-    [...$("#tx-body").children].forEach(c=>c.classList.remove("hl")); ln.classList.add("hl");
-    if(a.src){try{a.currentTime=tt;a.play();}catch{}}});
+  $("#tx-body").addEventListener("click",(e)=>{const ln=e.target.closest(".tx-line");if(!ln)return;const a=$("#tx-audio"),tt=parseFloat(ln.dataset.t)||0;[...$("#tx-body").children].forEach(c=>c.classList.remove("hl"));ln.classList.add("hl");if(a.src){try{a.currentTime=tt;a.play();}catch{}}});
 })();
